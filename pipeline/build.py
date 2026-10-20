@@ -6,7 +6,9 @@ Wiktionary entries in wk_in_NNN order, skipping rejected ones and stopping at th
 been generated yet.
 
 words/lock.json holds "locked_days": every day below it is already live and must never change.
-The build refuses to write if any locked day would come out different.
+Each build raises it automatically to cover every day that has started anywhere on Earth (players see
+the day for their local date, and UTC+14 is a day ahead of UTC), and refuses to write if any locked day
+would come out different.
 """
 import datetime as dt
 import json
@@ -71,7 +73,9 @@ def main():
 
     WORDS.mkdir(exist_ok=True)
     lock_file = WORDS / "lock.json"
-    locked = json.loads(lock_file.read_text())["locked_days"] if lock_file.exists() else 0
+    stored = json.loads(lock_file.read_text())["locked_days"] if lock_file.exists() else 0
+    started = (dt.datetime.now(dt.timezone.utc).date() - launch).days + 2   # through tomorrow (UTC), inclusive
+    locked = max(stored, min(started, days))
     for key, m in months.items():
         path = WORDS / f"{key}.json"
         if path.exists() and m["first_day"] < locked:
@@ -90,10 +94,10 @@ def main():
         (WORDS / f"{key}.json").write_text(json.dumps(m, ensure_ascii=False, separators=(",", ":")))
     manifest = {"launch": cfg["launch"], "days": days, "months": sorted(months)}
     (WORDS / "manifest.json").write_text(json.dumps(manifest, indent=1))
-    if not lock_file.exists():
-        lock_file.write_text(json.dumps({"locked_days": 0}, indent=1) + "\n")
+    lock_file.write_text(json.dumps({"locked_days": locked}, indent=1) + "\n")
     last = launch + dt.timedelta(days=days - 1)
-    print(f"{len(seq)} entries -> {days} days ({cfg['launch']} to {last}), {len(months)} month files")
+    print(f"{len(seq)} entries -> {days} days ({cfg['launch']} to {last}), {len(months)} month files; "
+          f"days 1-{locked} locked")
 
 
 if __name__ == "__main__":
