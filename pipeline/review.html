@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lexiconned word review</title>
+<style>
+  :root { --bg: #f6f4ef; --card: #fff; --ink: #1e2430; --muted: #6b7280; --line: #e3dfd6; --real: #1f7a45; --real-bg: #e6f4ec; --accent: #26327a; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; padding: 24px 16px 60px; }
+  main { max-width: 920px; margin: 0 auto; display: flex; flex-direction: column; gap: 16px; }
+  header { display: flex; flex-wrap: wrap; gap: 12px; align-items: baseline; justify-content: space-between; }
+  h1 { margin: 0; font-size: 22px; }
+  .bar { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  button, input { font: inherit; padding: 6px 12px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--ink); cursor: pointer; }
+  input { cursor: text; width: 180px; }
+  button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+  .note { color: var(--muted); font-size: 13px; margin: 0; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 420px), 1fr)); gap: 12px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; display: flex; flex-direction: column; gap: 8px; min-width: 0; }
+  .top { display: flex; justify-content: space-between; gap: 8px; align-items: baseline; }
+  .w { font-size: 20px; font-weight: 700; }
+  .meta { color: var(--muted); font-size: 12px; white-space: nowrap; }
+  .meta a { color: var(--accent); }
+  .pron { color: var(--muted); font-size: 13px; }
+  ol { margin: 0; padding-left: 20px; display: flex; flex-direction: column; gap: 4px; }
+  li.real { color: var(--real); font-weight: 600; background: var(--real-bg); border-radius: 4px; padding: 0 4px; margin-left: -4px; }
+  .field { font-size: 13px; }
+  .field b { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-right: 6px; }
+  .tag { font-size: 11px; padding: 1px 6px; border-radius: 99px; background: #eef0f7; color: var(--accent); margin-left: 6px; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Word review</h1>
+    <div class="bar">
+      <button class="primary" id="sample">New random 30</button>
+      <button id="all">Show all</button>
+      <input id="find" type="search" placeholder="Find a word…" aria-label="Find a word">
+    </div>
+  </header>
+  <p class="note" id="summary">Loading…</p>
+  <div class="grid" id="grid"></div>
+</main>
+<script>
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"})[c]);
+let ALL = [];
+
+async function load() {
+  const m = await (await fetch("../words/manifest.json", {cache: "no-cache"})).json();
+  const [y, mo, d] = m.launch.split("-").map(Number);
+  const launch = Date.UTC(y, mo - 1, d);
+  for (const key of m.months) {
+    const month = await (await fetch(`../words/${key}.json`, {cache: "no-cache"})).json();
+    month.days.forEach((entries, i) => {
+      const day = month.first_day + i;
+      const date = new Date(launch + day * 864e5).toLocaleDateString(undefined, {month: "short", day: "numeric", year: "numeric", timeZone: "UTC"});
+      entries.forEach(e => ALL.push({...e, day, date, hand: day < 21}));
+    });
+  }
+  $("summary").textContent = `${ALL.length} words across ${m.days} days (${m.months[0]} to ${m.months.at(-1)}). The real definition is highlighted; the other three are the fakes. Days 1–21 are the original hand-written words.`;
+  sample();
+}
+
+function card(e) {
+  const opts = [e.d, ...e.f];
+  return `<article class="card">
+    <div class="top"><span class="w">${esc(e.w)}${e.hand ? '<span class="tag">hand-written</span>' : ""}</span>
+      <span class="meta">No. ${e.day + 1} · ${esc(e.date)} · <a href="../?day=${e.day}" target="_blank" rel="noopener">play</a></span></div>
+    <div class="pron">/${esc(e.p)}/ · ${esc(e.pos)}</div>
+    <ol>${opts.map((o, i) => `<li class="${i === 0 ? "real" : ""}">${esc(o)}</li>`).join("")}</ol>
+    <div class="field"><b>Roots</b>${esc(e.r)}</div>
+    <div class="field"><b>Sentence</b>${esc(e.s)}</div>
+  </article>`;
+}
+
+function show(list) { $("grid").innerHTML = list.map(card).join(""); }
+function sample() {
+  const pool = ALL.filter(e => !e.hand);
+  const pick = [];
+  const used = new Set();
+  while (pick.length < 30 && used.size < pool.length) {
+    const i = Math.floor(Math.random() * pool.length);
+    if (!used.has(i)) { used.add(i); pick.push(pool[i]); }
+  }
+  show(pick.sort((a, b) => a.day - b.day));
+}
+$("sample").onclick = sample;
+$("all").onclick = () => show(ALL);
+$("find").oninput = e => {
+  const q = e.target.value.trim().toLowerCase();
+  if (q) show(ALL.filter(x => x.w.includes(q)));
+};
+load().catch(() => { $("summary").textContent = "Couldn't load the word files. Open this page through the local server (python3 -m http.server in the project folder)."; });
+</script>
+</body>
+</html>

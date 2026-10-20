@@ -1,0 +1,17 @@
+# Lexiconned
+
+A daily vocabulary game: three hard words a day, four definitions each, one real.
+
+- `index.html`: the whole game (static; no build step).
+- `words/`: one JSON file per month plus `manifest.json`. Day N (from the launch date) uses sequence entries 3N–3N+2.
+- `words/lock.json`: `locked_days`. Days below this number are live, and the build refuses to change them. Raise it after each deploy.
+- `pipeline/`: scripts that select words, generate fakes, validate, and build the month files. See `pipeline/FAKES.md` for the writing rules.
+- `pipeline/review.html`: spot-check page (serve the repo locally, then open `/pipeline/review.html`).
+
+Preview any day locally with `?day=N`.
+
+```bash
+python3 -m http.server 8417
+```
+
+Definitions from WordNet 3.0 (Princeton University). Origins, pronunciations and example sentences adapted from Wiktionary, CC BY-SA 4.0.

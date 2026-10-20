@@ -1,0 +1,625 @@
+<title>Lexiconned</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;700&family=Silkscreen&display=swap">
+<style>
+/* Layout: a pixel-art spiral notebook on a wooden desk. Only the right page is written on; sticky-note hints sit beside it. */
+:root {
+  --wood: #4f2d1d;
+  --paper: #f2e8cd;
+  --ink: #26327a;
+  --ink-dark: #1b1d2a;
+  --pencil: #6e685c;
+  --red: #c23b2e;
+  --green: #2f7d45;
+  --cream: #f3dcb6;
+  --note-y: #f7d75a;
+  --note-p: #f5a8b8;
+  --note-m: #a3dfb9;
+  --hand: "Pixelify Sans", "Courier New", monospace;
+  --label: "Silkscreen", "Courier New", monospace;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; position: relative; overflow-x: hidden;
+  background: var(--wood); color: var(--ink);
+  font-family: var(--hand); font-size: 18px;
+  padding-inline: 16px; padding-block: 36px 60px;
+  -webkit-font-smoothing: none; font-smooth: never;
+}
+canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: block; }
+#desk { position: absolute; left: 0; top: 0; z-index: 0; pointer-events: none; }
+.scene { position: relative; z-index: 1; display: flex; justify-content: center; align-items: flex-start; gap: 36px; flex-wrap: wrap; max-width: 1280px; margin: 0 auto; }
+
+/* Notebook */
+.nb-col { display: flex; flex-direction: column; align-items: center; gap: 18px; flex: 0 1 auto; min-width: 0; max-width: 100%; }
+.title { margin: 0; font-family: var(--hand); font-weight: 700; font-size: clamp(38px, 9vw, 60px); line-height: 1; letter-spacing: .03em; color: var(--cream); text-shadow: 3px 3px 0 #1c0d07, 6px 6px 0 rgba(28,13,7,.45); }
+.title span { color: var(--note-y); }
+.book { position: relative; display: grid; grid-template-columns: 36px minmax(0, 450px); padding: 12px 15px 21px 12px; perspective: 2400px; max-width: 100%; }
+#bookCanvas { position: absolute; left: 0; top: 0; width: 100%; height: 100%; filter: drop-shadow(6px 6px 0 rgba(14,6,2,.5)); }
+.leftpage { display: none; }
+.page { position: relative; grid-column: 2; min-height: 624px; padding: 24px 18px 24px 54px; container-type: inline-size; }
+@media (min-width: 1250px) {
+  .book { grid-template-columns: 450px 48px 450px; }
+  .leftpage { display: block; grid-column: 1; }
+  .page { grid-column: 3; }
+}
+@media (max-width: 480px) {
+  .book { grid-template-columns: 24px minmax(0, 1fr); }
+  .page { padding-left: 42px; padding-right: 12px; }
+}
+
+.hdr { display: flex; align-items: center; gap: 10px; font-family: var(--label); font-size: 10px; line-height: 24px; color: var(--pencil); letter-spacing: .06em; text-transform: uppercase; }
+.hdr .brand { color: var(--ink); font-size: 12px; }
+.hdr .date { white-space: nowrap; }
+.hdr .q { margin-left: auto; }
+.q { font: inherit; font-size: 12px; background: none; border: 0; color: var(--ink); cursor: pointer; padding: 0 4px; line-height: 24px; }
+.prog { display: flex; align-items: center; gap: 10px; line-height: 24px; font-size: 16px; color: var(--pencil); }
+.boxes { display: flex; gap: 5px; }
+.box { width: 9px; height: 9px; box-shadow: inset 0 0 0 3px #b5ad9b; }
+.box.cur { box-shadow: inset 0 0 0 3px var(--ink); }
+.box.r { background: var(--green); box-shadow: none; }
+.box.w { background: var(--red); box-shadow: none; }
+
+.hw { margin: 0; font-weight: 700; color: var(--ink-dark); font-size: min(44px, calc(100cqi / (var(--n) * .72))); line-height: 48px; overflow-wrap: anywhere; letter-spacing: .01em; }
+.pron { font-size: 16px; line-height: 24px; color: var(--pencil); }
+.pron i { font-style: normal; color: var(--ink); }
+.reveal { margin-top: 24px; font-size: 17px; line-height: 24px; color: var(--pencil); }
+.reveal .lab { font-family: var(--label); font-size: 10px; letter-spacing: .08em; text-transform: uppercase; color: #8e7b52; margin-right: 6px; }
+.reveal u { text-decoration: none; color: var(--ink-dark); background: linear-gradient(transparent 82%, #8e7b52 82%); }
+.reveal + .reveal { margin-top: 0; }
+
+.opts { margin-top: 24px; display: flex; flex-direction: column; }
+.opt { display: grid; grid-template-columns: 30px minmax(0, 1fr); align-items: start; text-align: left; background: none; border: 0; padding: 0; font: inherit; font-size: 18px; line-height: 24px; color: var(--ink); cursor: pointer; }
+.opt .k { font-family: var(--label); font-size: 12px; height: 24px; display: flex; align-items: center; }
+.opt .k img { width: 21px; height: 18px; }
+.opt .t { padding-inline: 2px; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.opt:hover:not(:disabled) .t, .opt:focus-visible .t { background: linear-gradient(transparent 30%, rgba(255,221,64,.7) 30% 90%, transparent 90%); }
+.opt:focus-visible { outline: none; }
+.opt:disabled { cursor: default; }
+.opt.removed .t { color: #aaa391; text-decoration: line-through 2px #8f8878; }
+.opt.removed .k { color: #aaa391; }
+.opt.right .t { background: linear-gradient(transparent 30%, rgba(116,206,128,.65) 30% 90%, transparent 90%); color: var(--ink-dark); }
+.opt.wrong .t { color: #7d3a33; text-decoration: line-through 3px var(--red); }
+.opt.dim { opacity: .5; }
+
+.foot { margin-top: 24px; min-height: 48px; display: flex; align-items: flex-start; justify-content: space-between; gap: 0 12px; flex-wrap: wrap; }
+.nudge { font-size: 16px; line-height: 24px; color: var(--pencil); }
+.stamp { margin-top: 3px; font-family: var(--label); font-size: 12px; line-height: 15px; letter-spacing: .12em; text-transform: uppercase; color: var(--red); padding: 0 9px; box-shadow: 0 0 0 3px var(--red), inset 0 0 0 3px rgba(194,59,46,.12); animation: stamp .3s steps(3) both; }
+.stamp.ok { color: var(--green); box-shadow: 0 0 0 3px var(--green), inset 0 0 0 3px rgba(47,125,69,.12); }
+@keyframes stamp { from { transform: scale(1.9); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+.turn { font: inherit; font-size: 18px; line-height: 24px; background: none; border: 0; color: var(--ink); cursor: pointer; padding: 0 2px; box-shadow: inset 0 -3px 0 var(--ink); margin-left: auto; }
+.turn:hover, .turn:focus-visible { background: rgba(255,221,64,.7); outline: none; }
+
+/* Results */
+.score { margin: 0; font-weight: 700; font-size: 44px; line-height: 48px; color: var(--ink-dark); }
+.score small { font-size: 24px; color: var(--pencil); }
+.verdict { margin: 0; line-height: 24px; font-size: 18px; }
+.recap { list-style: none; margin: 24px 0 0; padding: 0; }
+.recap li { display: grid; grid-template-columns: 30px minmax(0, 1fr); line-height: 24px; }
+.recap li img { width: 21px; height: 18px; margin-top: 3px; }
+.recap b { font-weight: 700; color: var(--ink-dark); }
+.recap .def { color: var(--pencil); font-size: 16px; }
+.recap li + li { margin-top: 24px; }
+.facts { margin-top: 24px; font-size: 16px; line-height: 24px; color: var(--pencil); }
+.facts b { color: var(--ink); font-weight: 500; }
+
+/* Page flip */
+.flipper { position: absolute; z-index: 5; pointer-events: none; transform-style: preserve-3d; }
+.face { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; overflow: hidden; }
+.face canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
+.face .page { position: absolute; inset: 0; min-height: 0; }
+.back { transform: rotateY(180deg); }
+
+/* Desk side: sticky notes, pencil */
+.side { flex: 0 0 168px; display: flex; flex-direction: column; align-items: center; gap: 22px; padding-top: 123px; }
+.desk-label { font-family: var(--label); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--cream); text-shadow: 3px 3px 0 #1c0d07; }
+#notes { display: flex; flex-direction: column; gap: 18px; align-items: center; width: 100%; }
+.note-wrap { filter: drop-shadow(4px 4px 0 rgba(14,6,2,.5)); width: 156px; max-width: 100%; }
+.note {
+  position: relative; width: 100%; min-height: 102px; border: 0; cursor: pointer; text-align: left;
+  display: flex; flex-direction: column; gap: 3px; padding: 21px 12px 12px;
+  font: inherit; color: #3b2a12;
+  background: linear-gradient(rgba(0,0,0,.07) 0 12px, transparent 12px), var(--c);
+  clip-path: polygon(0 3px, 3px 3px, 3px 0, calc(100% - 3px) 0, calc(100% - 3px) 3px, 100% 3px, 100% calc(100% - 15px), calc(100% - 15px) 100%, 3px 100%, 3px calc(100% - 3px), 0 calc(100% - 3px));
+  transition: transform .12s steps(2);
+}
+.note::after { content: ""; position: absolute; right: 0; bottom: 0; width: 15px; height: 15px; background: rgba(0,0,0,.18); clip-path: polygon(0 0, 100% 0, 0 100%); }
+.note b { font-family: var(--label); font-weight: 400; font-size: 14px; letter-spacing: .06em; }
+.note small { font-size: 15px; line-height: 18px; }
+.note:hover:not(:disabled), .note:focus-visible { transform: translateY(-3px); outline: none; }
+.note:focus-visible b { box-shadow: inset 0 -3px 0 currentColor; }
+.note:disabled { cursor: default; }
+.note.used { filter: saturate(.2) brightness(.82); }
+.note.used b { text-decoration: line-through 2px; }
+.note.locked { opacity: .78; }
+#pencil { pointer-events: none; }
+.test-reset { font-family: var(--label); font-size: 10px; letter-spacing: .06em; text-transform: uppercase; color: var(--cream); background: rgba(28,13,7,.55); border: 0; padding: 6px 10px; box-shadow: 0 0 0 3px #1c0d07; cursor: pointer; }
+.test-reset:hover, .test-reset:focus-visible { background: #1c0d07; outline: none; }
+
+@media (max-width: 760px) {
+  .scene { gap: 28px; }
+  .side { flex: 1 1 100%; padding-top: 0; gap: 14px; }
+  #notes { flex-direction: row; justify-content: center; gap: 12px; }
+  .note-wrap { flex: 1 1 0; width: auto; max-width: 156px; }
+  .note { min-height: 84px; padding-top: 18px; }
+}
+@media (max-width: 480px) { .note small { display: none; } .note { min-height: 60px; } #pencil { display: none; } }
+
+/* Rules card */
+dialog { border: 0; padding: 0; background: transparent; max-width: min(420px, calc(100vw - 32px)); filter: drop-shadow(6px 6px 0 rgba(14,6,2,.55)); }
+dialog::backdrop { background: rgba(20,9,3,.6); }
+.card {
+  background: repeating-linear-gradient(transparent 0 45px, #a9c0dc 45px 48px) 0 0 / 100% 48px, var(--paper);
+  background: linear-gradient(#e09a9a, #e09a9a) 0 0 / 100% 3px no-repeat, repeating-linear-gradient(transparent 0 21px, #a9c0dc 21px 24px) 0 24px / 100% calc(100% - 24px) no-repeat, var(--paper);
+  color: var(--ink); padding: 24px 22px; font-size: 17px; line-height: 24px;
+  clip-path: polygon(0 3px, 3px 3px, 3px 0, calc(100% - 3px) 0, calc(100% - 3px) 3px, 100% 3px, 100% calc(100% - 3px), calc(100% - 3px) calc(100% - 3px), calc(100% - 3px) 100%, 3px 100%, 3px calc(100% - 3px), 0 calc(100% - 3px));
+}
+.card h2 { margin: 0; font-size: 26px; line-height: 48px; color: var(--ink-dark); }
+.card p, .card ul { margin: 0 0 24px; }
+.card ul { padding-left: 20px; }
+.card .turn { margin: 0; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }
+</style>
+
+<canvas id="desk" aria-hidden="true"></canvas>
+<div class="scene" id="scene">
+  <div class="nb-col">
+  <h1 class="title">Lexi<span>con</span>ned</h1>
+  <canvas id="pencil" aria-hidden="true"></canvas>
+  <div class="book" id="book">
+    <canvas id="bookCanvas" aria-hidden="true"></canvas>
+    <div class="leftpage" id="leftpage"></div>
+    <main class="page" id="page"></main>
+  </div>
+  </div>
+  <aside class="side" aria-label="Hints">
+    <div class="desk-label" id="hint-count"></div>
+    <div id="notes"></div>
+    <button class="test-reset" id="test-reset">↻ New words (testing)</button>
+  </aside>
+</div>
+
+<dialog id="rules">
+  <div class="card">
+    <h2>How to play</h2>
+    <p>Three hard words a day. Each has four definitions: one real, three cons.</p>
+    <ul>
+      <li>Pick the real one. A wrong guess loses that word.</li>
+      <li>Three sticky-note hints for the whole day: Roots, Sentence and 50/50. Each works once.</li>
+    </ul>
+    <p>New words at midnight.</p>
+    <button class="turn" id="rules-close">Got it</button>
+  </div>
+</dialog>
+
+<script>
+const POOL = [
+  {w:"defenestrate",p:"dee-FEN-uh-strayt",pos:"verb",d:"To throw someone or something out of a window",f:["To strip a fortress of its defensive walls","To remove the bones from a fish before cooking","To formally give up a title or office"],r:"Latin de- “out of” + fenestra “window”",s:"In 1618, furious Bohemian nobles decided to defenestrate two royal envoys, helping set off the Thirty Years’ War."},
+  {w:"sesquipedalian",p:"ses-kwi-puh-DAY-lee-un",pos:"adjective",d:"Given to using long words, or (of a word) having many syllables",f:["Having an unusually long stride","Happening once every century and a half","Relating to a three-legged stand or support"],r:"Latin sesqui “one and a half” + ped- “foot”: words a foot and a half long",s:"His sesquipedalian lectures sent students reaching for their dictionaries every few minutes."},
+  {w:"obstreperous",p:"ub-STREP-er-us",pos:"adjective",d:"Noisy and difficult to control",f:["Stubbornly refusing to change an opinion","Blocking a passage or channel","Overly flattering toward superiors"],r:"Latin ob- “against” + strepere “to make a noise”",s:"The obstreperous fans drowned out the referee’s whistle."},
+  {w:"pusillanimous",p:"pyoo-sih-LAN-uh-mus",pos:"adjective",d:"Lacking courage; timid",f:["Petty and fussy about small details","Having a weak or sickly body","Too quick to forgive"],r:"Latin pusillus “very small” + animus “spirit”",s:"The pusillanimous committee postponed the vote rather than risk upsetting anyone."},
+  {w:"lugubrious",p:"luh-GOO-bree-us",pos:"adjective",d:"Looking or sounding sad and dismal",f:["Slippery or greasy to the touch","Slow-moving because of great weight","Overly fond of rich food"],r:"Latin lugere “to mourn”",s:"A lugubrious cello line runs under the whole funeral scene."},
+  {w:"perspicacious",p:"pur-spih-KAY-shus",pos:"adjective",d:"Quick to notice and understand things; shrewd",f:["Sweating heavily under stress","Clear enough to see through","Persistent to the point of annoyance"],r:"Latin perspicere “to look through,” from per “through” + specere “to look”",s:"A perspicacious investor, she sold months before the crash."},
+  {w:"callipygian",p:"kal-ih-PIJ-ee-un",pos:"adjective",d:"Having well-shaped buttocks",f:["Having beautiful handwriting","Possessing a sweet singing voice","Having unusually thick calluses"],r:"Greek kallos “beauty” + pyge “buttocks”",s:"Museum guides point out the callipygian Venus, a statue admired mostly from behind."},
+  {w:"borborygmus",p:"bor-buh-RIG-mus",pos:"noun",d:"A rumbling or gurgling sound in the intestines",f:["A rattling cough caused by fluid in the lungs","A low growl from a cornered animal","A muddy pool left behind after a flood"],r:"Greek borborygmos, imitating the sound itself",s:"In the silent exam hall, a loud borborygmus from the back row set everyone giggling."},
+  {w:"petrichor",p:"PET-rih-kor",pos:"noun",d:"The earthy smell produced when rain falls on dry ground",f:["The fossilized resin of ancient trees","A mineral crust left by evaporating seawater","The ringing sound of struck stone"],r:"Greek petra “stone” + ichor, the fluid said to flow in the veins of the gods",s:"After the long drought, the first storm filled the street with petrichor."},
+  {w:"apricity",p:"uh-PRIS-ih-tee",pos:"noun",d:"The warmth of the sun in winter",f:["The ripeness of fruit at its peak","Sharpness of taste or tone","The quality of being open and frank"],r:"Latin apricus “warmed by the sun”",s:"We ate lunch on the steps, soaking up the January apricity."},
+  {w:"crapulent",p:"KRAP-yoo-lent",pos:"adjective",d:"Sick from eating or drinking too much",f:["Made of cheap, shoddy materials","Covered in loose, flaky skin","Prone to sudden fits of anger"],r:"Latin crapula “drunkenness,” from Greek kraipale “hangover”",s:"Crapulent after the wedding feast, the guests barely made it to breakfast."},
+  {w:"tergiversate",p:"TUR-jiv-er-sayt",pos:"verb",d:"To make evasive or contradictory statements; to switch sides",f:["To turn one’s back in contempt","To write on both sides of a page","To travel by a roundabout route"],r:"Latin tergum “back” + vertere “to turn”",s:"Pressed on the issue, the senator began to tergiversate, contradicting what he’d said a week earlier."},
+  {w:"vituperate",p:"vy-TOO-per-ayt",pos:"verb",d:"To blame or insult in harsh, abusive language",f:["To restore to full health","To decay slowly from the inside","To spread something thinly over a surface"],r:"Latin vitium “fault” + parare “to prepare”",s:"The critic used his column to vituperate the director for three full pages."},
+  {w:"susurrus",p:"soo-SUR-us",pos:"noun",d:"A whispering or rustling sound",f:["An undercurrent beneath calm water","A choral piece sung without words","A secret kept within a small group"],r:"Latin susurrare “to whisper,” imitating the sound",s:"The susurrus of the crowd faded as the lights went down."},
+  {w:"quidnunc",p:"KWID-nunk",pos:"noun",d:"A nosy, gossipy person",f:["A legal technicality that voids a contract","A person who delays every decision","A small coin of very little value"],r:"Latin quid nunc? “what now?”",s:"The office quidnunc knew about the merger before the board did."},
+  {w:"jejune",p:"jih-JOON",pos:"adjective",d:"Naive and simplistic; also dull and lacking substance",f:["Relating to the early weeks of summer","Fasting for religious reasons","Cheerfully energetic in the morning"],r:"Latin jejunus “fasting, barren”; the “childish” sense came from confusion with French jeune “young”",s:"She now finds her early poems jejune and overwrought."},
+  {w:"anfractuous",p:"an-FRAK-choo-us",pos:"adjective",d:"Full of twists and turns; winding",f:["Easily broken into fragments","Lacking any sense of direction","Rough and jagged at the edges"],r:"Latin anfractus “a bending, a winding”",s:"The anfractuous mountain road doubled back on itself a dozen times."},
+  {w:"lachrymose",p:"LAK-rih-mohs",pos:"adjective",d:"Tearful or given to weeping",f:["Pale and sickly in appearance","Slow-moving and lazy","Smelling sweetly of flowers"],r:"Latin lacrima “tear”",s:"The film’s lachrymose ending left the whole audience reaching for tissues."},
+  {w:"mendacious",p:"men-DAY-shus",pos:"adjective",d:"Not telling the truth; lying",f:["Begging for charity","Skilled at repairing things","Overly concerned with money"],r:"Latin mendax “lying”",s:"The ad campaign was mendacious from the first slogan to the fine print."},
+  {w:"pulchritude",p:"PUL-krih-tood",pos:"noun",d:"Physical beauty",f:["Great physical strength","The thickness of a liquid","Skill at persuading others"],r:"Latin pulcher “beautiful”",s:"Victorian critics wrote breathlessly about the actress’s pulchritude."},
+  {w:"obsequious",p:"ub-SEE-kwee-us",pos:"adjective",d:"Too eager to please or obey",f:["Following immediately afterward","Hard to perceive or understand","Concerned with funeral rites"],r:"Latin ob- “toward” + sequi “to follow”",s:"The obsequious waiter refilled our glasses after every single sip."},
+  {w:"recalcitrant",p:"rih-KAL-sih-trunt",pos:"adjective",d:"Stubbornly uncooperative toward authority",f:["Quick to recover after an injury","Recurring at regular intervals","Containing too much calcium"],r:"Latin re- “back” + calcitrare “to kick,” from calx “heel”",s:"The recalcitrant mule refused to move another step."},
+  {w:"inveigle",p:"in-VAY-gul",pos:"verb",d:"To win someone over or get something through flattery or trickery",f:["To speak out bitterly against something","To wrap tightly in cloth","To complain loudly and at length"],r:"French aveugler “to blind,” from Latin ab- “without” + oculus “eye”",s:"He tried to inveigle his way into the VIP lounge with a fake press badge."},
+  {w:"sangfroid",p:"sahn-FWAH",pos:"noun",d:"Composure under pressure",f:["A chilled dessert of fruit and wine","A sudden loss of blood","A feud passed down through a family"],r:"French sang “blood” + froid “cold”",s:"The pilot landed on one engine with remarkable sangfroid."},
+  {w:"abstemious",p:"ab-STEE-mee-us",pos:"adjective",d:"Moderate in eating and drinking",f:["Prone to absent-mindedness","Cold and reserved toward others","Extremely abstract in thought"],r:"Latin abs- “away from” + temetum “strong drink”",s:"An abstemious eater, he stopped after half a sandwich."},
+  {w:"truculent",p:"TRUK-yuh-lent",pos:"adjective",d:"Eager to fight or argue; aggressively defiant",f:["Cut short or shortened","Moving slowly and heavily","Prone to wandering off"],r:"Latin trux “fierce, savage”",s:"The truculent bouncer squared up to anyone who looked at him twice."},
+  {w:"ultracrepidarian",p:"ul-truh-krep-ih-DAIR-ee-un",pos:"adjective",d:"Giving opinions on matters beyond one’s knowledge",f:["Living past the edge of a known region","Extremely cautious about every risk","Deeply and permanently wrinkled"],r:"Latin ultra “beyond” + crepida “sandal”: the painter Apelles told a shoemaker not to judge above the sandal",s:"The ultracrepidarian celebrity offered confident medical advice to millions of followers."},
+  {w:"hebetude",p:"HEB-ih-tood",pos:"noun",d:"Mental dullness or sluggishness",f:["The weekly cycle of work and rest","Youthful vigor","A state of religious devotion"],r:"Latin hebes “blunt, dull”",s:"The heat wave left the whole office in a state of hebetude."},
+  {w:"otiose",p:"OH-shee-ohs",pos:"adjective",d:"Serving no practical purpose; pointless",f:["Relating to the ear","Oddly or irregularly shaped","Peaceful and unhurried"],r:"Latin otium “leisure”",s:"The editor cut every otiose adjective from the draft."},
+  {w:"cachinnate",p:"KAK-ih-nayt",pos:"verb",d:"To laugh loudly and without restraint",f:["To hide something away for later","To clear one’s throat noisily","To crackle like burning wood"],r:"Latin cachinnare, imitating loud laughter",s:"The audience began to cachinnate so loudly that the actors had to pause."},
+  {w:"pellucid",p:"puh-LOO-sid",pos:"adjective",d:"Perfectly clear, in appearance or in meaning",f:["Covered in a thin film","Moving with a rolling motion","Shining with an oily gleam"],r:"Latin per “through” + lucere “to shine”",s:"Her pellucid prose made a difficult subject easy to follow."},
+  {w:"ineffable",p:"in-EF-uh-bul",pos:"adjective",d:"Too great or extreme to be expressed in words",f:["Impossible to erase","Impossible to influence","Impossible to avoid"],r:"Latin in- “not” + effari “to speak out”",s:"Standing at the canyon rim, they felt an ineffable sense of awe."},
+  {w:"fulminate",p:"FUL-mih-nayt",pos:"verb",d:"To protest or criticize loudly and angrily",f:["To grow fungi on purpose","To bring something to completion","To fill to the brim"],r:"Latin fulmen “lightning, thunderbolt”",s:"Talk-show hosts kept fulminating against the new tax for weeks."},
+  {w:"salubrious",p:"suh-LOO-bree-us",pos:"adjective",d:"Good for health; pleasant and wholesome",f:["Indecent or lewd","Salty in taste","Inclined to drool"],r:"Latin salus “health”",s:"The town advertised its salubrious mountain air to tired city dwellers."},
+  {w:"nugatory",p:"NOO-guh-tor-ee",pos:"adjective",d:"Of no value or importance",f:["Relating to nuts","Required by law","Shaped like a small lump"],r:"Latin nugae “trifles, jokes”",s:"The changes were nugatory; the contract said essentially the same thing."},
+  {w:"maladroit",p:"mal-uh-DROYT",pos:"adjective",d:"Clumsy or tactless",f:["Badly ventilated","Slightly unwell","Morally corrupt"],r:"French mal “badly” + adroit “skillful,” from à droit “to the right”",s:"His maladroit handling of the press conference made things worse."},
+  {w:"tintinnabulation",p:"tin-tih-nab-yuh-LAY-shun",pos:"noun",d:"A ringing or tinkling sound, as of bells",f:["The flicker of candlelight","A tingling in the fingertips","A rapid tapping of the feet"],r:"Latin tintinnabulum “bell,” from tintinnare “to ring”",s:"The tintinnabulation of sleigh bells carried across the snow."},
+  {w:"velleity",p:"vuh-LEE-ih-tee",pos:"noun",d:"A wish too faint to lead to any action",f:["The softness of a fabric like velvet","Great speed","A hollow in a hillside"],r:"Latin velle “to wish”",s:"Learning the cello remained a velleity; she never even bought one."},
+  {w:"flibbertigibbet",p:"FLIB-er-tee-jib-it",pos:"noun",d:"A frivolous, flighty, or overly talkative person",f:["A small, cheap trinket","A kind of whirling firework","A loose thread on a garment"],r:"Probably imitating the sound of chatter; once spelled “flepergebet”",s:"Don’t tell that flibbertigibbet anything you want kept quiet."},
+  {w:"animadversion",p:"an-uh-mad-VUR-zhun",pos:"noun",d:"Criticism or censure",f:["A strong dislike of animals","A turning of the soul toward God","A lively, animated spirit"],r:"Latin animus “mind” + advertere “to turn toward”",s:"The report drew sharp animadversion from the auditors."},
+  {w:"sedulous",p:"SEJ-uh-lus",pos:"adjective",d:"Showing steady dedication and diligence",f:["Seductive in manner","Calm and drowsy","Fixed in one place"],r:"Latin sedulus “zealous,” possibly from se dolo “without trickery”",s:"Years of sedulous practice turned her into a concert pianist."},
+  {w:"prolix",p:"proh-LIKS",pos:"adjective",d:"Using too many words; tediously long",f:["Producing many offspring","Prepared well in advance","Sticking out from a surface"],r:"Latin prolixus “stretched out,” from pro- “forth” + liquere “to flow”",s:"The prolix memo could have been a single sentence."},
+  {w:"sough",p:"SOW (rhymes with “how”) or SUF",pos:"verb",d:"(Of wind) To make a moaning, whistling, or rushing sound",f:["To sink into soft, muddy ground","To strain a liquid through cloth","To scatter seed by hand"],r:"Old English swogan “to resound”",s:"Wind began to sough through the pines as the storm rolled in."},
+  {w:"perfidious",p:"per-FID-ee-us",pos:"adjective",d:"Deceitful and untrustworthy",f:["Perfectly loyal","Easily pierced","Lasting a very long time"],r:"Latin per- “to ruin” + fides “faith”",s:"In the play, the perfidious advisor sells the king’s secrets to his enemies."},
+  {w:"absquatulate",p:"ab-SKWOCH-uh-layt",pos:"verb",d:"To leave suddenly; to run off",f:["To sit back on one’s heels","To flatten into a square","To dissolve a business partnership"],r:"A mock-Latin joke word from 1830s America, blending ab- “away,” squat, and abscond",s:"The treasurer absquatulated with the club’s savings the night before the audit."},
+  {w:"bowdlerize",p:"BOWD-ler-ize",pos:"verb",d:"To remove material considered offensive from a text",f:["To bend into a curve","To bully people weaker than oneself","To pad out with filler"],r:"From Thomas Bowdler, whose 1807 “family” Shakespeare cut the racy parts",s:"The publisher decided to bowdlerize the memoir, cutting every swear word."},
+  {w:"hirsute",p:"HUR-soot",pos:"adjective",d:"Hairy",f:["Rough-voiced","Hired for a fee","Stubborn"],r:"Latin hirsutus “shaggy, bristly”",s:"The hirsute drummer hadn’t shaved since the tour began."},
+  {w:"fustigate",p:"FUS-tih-gayt",pos:"verb",d:"To beat with a stick; to criticize harshly",f:["To grow musty","To fuss over details","To flee in a hurry"],r:"Latin fustis “club, stick”",s:"The reviewer took to the paper to fustigate the novel’s lazy plotting."},
+  {w:"ebullient",p:"ih-BUL-yent",pos:"adjective",d:"Cheerful and full of energy",f:["Arrogant and boastful","Ivory-colored","Tending to dodge questions"],r:"Latin e- “out” + bullire “to boil, bubble”",s:"The ebullient host greeted every guest with a hug."},
+  {w:"phlegmatic",p:"fleg-MAT-ik",pos:"adjective",d:"Calm and unemotional by temperament",f:["Prone to coughing fits","Quick-tempered","Flamboyant in dress"],r:"Greek phlegma “phlegm,” one of the four humors, once thought to cause calmness",s:"Even when the fire alarm went off, the phlegmatic librarian finished stamping the book."},
+  {w:"cynosure",p:"SY-nuh-shoor",pos:"noun",d:"A person or thing that is the center of attention",f:["A deeply cynical belief","A shelter for stray dogs","A remedy that cures nothing"],r:"Greek kynosoura “dog’s tail,” an old name for the constellation holding the North Star",s:"The vintage car was the cynosure of the whole parade."},
+  {w:"gallimaufry",p:"gal-uh-MAW-free",pos:"noun",d:"A confused jumble or mixture",f:["A boastful show of courage","The cook on a sailing ship","A lively country dance"],r:"Middle French galimafrée, a stew of odds and ends",s:"The attic held a gallimaufry of tennis rackets, love letters, and broken lamps."},
+  {w:"snollygoster",p:"SNOL-ee-gos-ter",pos:"noun",d:"A shrewd, unprincipled person, especially a politician",f:["A small sea snail","A ghost said to haunt mills","A dull, slow-witted person"],r:"19th-century American slang, possibly from Pennsylvania Dutch schnelle geeschter “quick spirits”",s:"Voters were tired of the snollygoster who switched parties every election."},
+  {w:"rodomontade",p:"rod-uh-mon-TAYD",pos:"noun",d:"Boastful or inflated talk",f:["A circular promenade","A short comic opera","A rope used to tow barges"],r:"From Rodomonte, a boastful king in Italian epic poems by Boiardo and Ariosto",s:"Behind all the rodomontade, the boxer was nervous about the fight."},
+  {w:"lucubration",p:"loo-kyoo-BRAY-shun",pos:"noun",d:"Long, hard study, especially at night",f:["The oiling of machinery","A clear, simple explanation","A sudden flash of insight"],r:"Latin lucubrare “to work by lamplight,” from lux “light”",s:"His thesis was the product of two years of lucubration."},
+  {w:"inchoate",p:"in-KOH-it",pos:"adjective",d:"Just begun and not fully formed",f:["Unable to speak clearly","Locked inside","Impossible to remove"],r:"Latin inchoare “to begin”",s:"The plan was still inchoate, a few notes on a napkin."},
+  {w:"sobriquet",p:"SOH-brih-kay",pos:"noun",d:"A nickname",f:["A small bouquet","A strict diet","A state of sobriety"],r:"French sobriquet, originally a teasing chuck under the chin",s:"Margaret Thatcher earned the sobriquet “the Iron Lady.”"},
+  {w:"louche",p:"LOOSH",pos:"adjective",d:"Disreputable or shady, often in an appealing way",f:["Lazy and slow","Thickly padded","Loud and brash"],r:"French louche “squinting, shady,” from Latin luscus “one-eyed”",s:"The film is set in a louche Berlin nightclub of the 1920s."},
+  {w:"impecunious",p:"im-pih-KYOO-nee-us",pos:"adjective",d:"Having little or no money",f:["Without a single flaw","Easily irritated","Exempt from punishment"],r:"Latin in- “not” + pecunia “money,” from pecus “cattle”",s:"As an impecunious student, he lived on instant noodles."},
+  {w:"bloviate",p:"BLOH-vee-ayt",pos:"verb",d:"To talk at length in a pompous, empty way",f:["To swell up with water","To blush deeply","To blow on embers"],r:"19th-century American coinage, probably from “blow” with a mock-Latin ending",s:"The guest speaker continued to bloviate long after his slot had ended."},
+  {w:"effulgent",p:"ih-FUL-jent",pos:"adjective",d:"Shining brightly; radiant",f:["Overflowing with talk","Swollen and pale","Strongly scented"],r:"Latin ex- “out” + fulgere “to shine”",s:"The effulgent sunrise turned the lake to gold."},
+  {w:"adumbrate",p:"AD-um-brayt",pos:"verb",d:"To outline faintly; to foreshadow",f:["To praise extravagantly","To add ornament","To grow dark with anger"],r:"Latin ad- “to” + umbra “shadow”",s:"The opening chapter adumbrates the tragedy to come."},
+  {w:"quotidian",p:"kwoh-TID-ee-un",pos:"adjective",d:"Happening every day; ordinary",f:["Divided into quotas","Relating to quotations","Recurring every five days"],r:"Latin quotidie “every day”",s:"The novel finds beauty in quotidian chores like folding laundry."},
+  {w:"apocryphal",p:"uh-POK-rih-ful",pos:"adjective",d:"Of doubtful truth, though widely repeated",f:["Relating to the end of the world","Hidden away in a crypt","Brief and to the point"],r:"Greek apokryphos “hidden away,” from apo- “away” + kryptein “to hide”",s:"The story that Einstein failed math is apocryphal."}
+];
+
+
+const HINTS = [
+  {id: "roots", name: "Roots", desc: "Where it comes from", c: "var(--note-y)"},
+  {id: "sentence", name: "Sentence", desc: "See it used", c: "var(--note-p)"},
+  {id: "fifty", name: "50/50", desc: "Cross out two fakes", c: "var(--note-m)"}
+];
+const LAUNCH = Date.UTC(2026, 9, 19);
+const KEY_DAY = "lexiconned:day2", KEY_TEST = "lexiconned:testoff", KEY_STATS = "lexiconned:stats";
+const PX = 3;
+const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+function store(k, v) { try { if (v === undefined) return JSON.parse(localStorage.getItem(k)); localStorage.setItem(k, JSON.stringify(v)); } catch (e) { return null; } }
+function rng(seed) { return function () { seed |= 0; seed = seed + 0x6D2B79F5 | 0; let t = Math.imul(seed ^ seed >>> 15, 1 | seed); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+function shuffle(arr, r) { const a = arr.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(r() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+function today() { const n = new Date(); return Math.floor((Date.UTC(n.getFullYear(), n.getMonth(), n.getDate()) - LAUNCH) / 864e5); }
+function esc(s) { return String(s).replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"})[c]); }
+const $ = id => document.getElementById(id);
+
+/* ---------- Pixel drawing ---------- */
+const BAYER = [[0, 8, 2, 10], [12, 4, 14, 6], [3, 11, 1, 9], [15, 7, 13, 5]].map(r => r.map(v => (v + .5) / 16));
+function hash(x, y, s) { let h = Math.imul(x | 0, 374761393) + Math.imul(y | 0, 668265263) + Math.imul(s | 0, 982451653) | 0; h = Math.imul(h ^ (h >>> 13), 1274126177); h ^= h >>> 16; return (h >>> 0) / 4294967296; }
+function noise(x, y, s) {
+  const xi = Math.floor(x), yi = Math.floor(y), xf = x - xi, yf = y - yi;
+  const u = xf * xf * (3 - 2 * xf), v = yf * yf * (3 - 2 * yf);
+  const a = hash(xi, yi, s), b = hash(xi + 1, yi, s), c = hash(xi, yi + 1, s), d = hash(xi + 1, yi + 1, s);
+  return a + (b - a) * u + (c - a) * v + (a - b - c + d) * u * v;
+}
+const rgbCache = {};
+function rgb(hex) { return rgbCache[hex] || (rgbCache[hex] = [parseInt(hex.slice(1, 3), 16), parseInt(hex.slice(3, 5), 16), parseInt(hex.slice(5, 7), 16)]); }
+function raster(w, h) {
+  const img = new ImageData(w, h), d = img.data;
+  return {
+    img, w, h,
+    set(x, y, hex) { if (x < 0 || y < 0 || x >= w || y >= h) return; const c = rgb(hex), i = (y * w + x) * 4; d[i] = c[0]; d[i + 1] = c[1]; d[i + 2] = c[2]; d[i + 3] = 255; },
+    rect(x, y, rw, rh, hex) { for (let j = y; j < y + rh; j++) for (let i = x; i < x + rw; i++) this.set(i, j, hex); },
+    shade(x, y, f) { if (x < 0 || y < 0 || x >= w || y >= h) return; const i = (y * w + x) * 4; d[i] *= f; d[i + 1] *= f; d[i + 2] *= f; }
+  };
+}
+function sizeCanvas(c, w, h) { c.width = w; c.height = h; c.style.width = w * PX + "px"; c.style.height = h * PX + "px"; }
+
+const WOOD = ["#1e0f09", "#2e170e", "#412215", "#552f1e", "#683b25", "#7c4a2e", "#915937", "#a86c45"];
+function drawDesk() {
+  const c = $("desk"), scene = $("scene");
+  const cw = document.documentElement.clientWidth;
+  const ch = Math.max(innerHeight, scene.offsetTop + scene.offsetHeight + 60);
+  const W = Math.ceil(cw / PX), H = Math.ceil(ch / PX);
+  sizeCanvas(c, W, H);
+  const R = raster(W, H), PH = 30, cx = W / 2, cy = Math.min(H, innerHeight / PX) / 2;
+  const knots = [];
+  for (let p = 0; p * PH < H; p++) for (let k = 0; k < 2; k++) if (hash(p, k, 9) < .55) knots.push({x: hash(p, k, 10) * W, y: p * PH + 8 + hash(p, k, 11) * (PH - 16), rx: 6 + hash(p, k, 12) * 6, ry: 2.5 + hash(p, k, 13) * 1.5});
+  for (let y = 0; y < H; y++) {
+    const plank = Math.floor(y / PH), py = y % PH, seamOff = Math.floor(hash(plank, 0, 5) * 170), seamLen = 150 + Math.floor(hash(plank, 1, 5) * 90);
+    for (let x = 0; x < W; x++) {
+      const n = noise(x / 46, y / 2.6 + plank * 13, 1) * .65 + noise(x / 9, y / 1.4, 2) * .35;
+      const g = noise(x / 80, y / 6 + plank * 7, 3);
+      let v = 1.6 + n * 4.2;
+      const s = (n * 5 + g * 3) % 1;
+      if (Math.abs(s - .5) < .045) v -= 1.3;
+      for (const k of knots) {
+        const dx = (x - k.x) / k.rx, dy = (y - k.y) / k.ry, dd = Math.sqrt(dx * dx + dy * dy);
+        if (dd < 2.2) { v -= dd < 1 ? 1.6 : (Math.floor(dd * 3) % 2 ? 1 : 0); }
+      }
+      const sx = (x + seamOff) % seamLen;
+      if (sx === 0) v = 0; else if (sx === 1) v += 1.2;
+      if (py === 0) v = Math.max(v, 6.2); else if (py === 1) v += .7; else if (py === PH - 1) v = 0; else if (py === PH - 2) v -= 1;
+      const ddx = (x - cx) / (W / 2), ddy = (y - cy) / (H / 1.3);
+      v -= (ddx * ddx * .9 + ddy * ddy * .7) * 1.8;
+      const idx = Math.max(0, Math.min(7, Math.floor(v + BAYER[y & 3][x & 3] - .5)));
+      R.set(x, y, WOOD[idx]);
+    }
+  }
+  c.getContext("2d").putImageData(R.img, 0, 0);
+}
+
+const PAPER = {base: "#f2e8cd", lo: "#e2d4b0", lo2: "#cdbc93", hi: "#fbf5e2", rule: "#a9c0dc", ruleLo: "#97abc6", margin: "#e09a9a", edge: "#c9b78d", edge2: "#a99770", hole: "#2b241c"};
+function paper(R, p, gutterLeft, marginX) {
+  R.rect(p.x, p.y, p.w, p.h, PAPER.base);
+  for (let y = p.y; y < p.y + p.h; y++) for (let x = p.x; x < p.x + p.w; x++) {
+    const h = hash(x, y, 21);
+    if (h < .012) R.set(x, y, PAPER.lo); else if (h < .02) R.set(x, y, PAPER.hi);
+  }
+  for (let y = p.y + 15; y < p.y + p.h - 3; y += 8) for (let x = p.x; x < p.x + p.w; x++) R.set(x, y, PAPER.rule);
+  if (marginX != null) for (let y = p.y; y < p.y + p.h; y++) R.set(p.x + marginX, y, PAPER.margin);
+  for (let dx = 0; dx < 11; dx++) {
+    const t = (1 - dx / 11) * .9, x = gutterLeft ? p.x + dx : p.x + p.w - 1 - dx;
+    for (let y = p.y; y < p.y + p.h; y++) {
+      const b = BAYER[y & 3][x & 3];
+      if (b < t * .45) R.set(x, y, PAPER.lo2); else if (b < t) R.shade(x, y, .9);
+    }
+  }
+  const outer = gutterLeft ? p.x + p.w - 1 : p.x;
+  for (let y = p.y; y < p.y + p.h; y++) R.set(outer, y, PAPER.edge);
+  for (let x = p.x; x < p.x + p.w; x++) R.set(x, p.y + p.h - 1, PAPER.edge);
+}
+function stack(R, p, toRight) {
+  for (let i = 1; i <= 3; i++) {
+    const col = i % 2 ? PAPER.edge2 : PAPER.lo;
+    const x0 = toRight ? p.x + 1 : p.x - i + 1, x1 = toRight ? p.x + p.w - 1 + i : p.x + p.w - 1;
+    for (let x = x0; x < x1; x++) R.set(x, p.y + p.h - 1 + i, col);
+    const sx = toRight ? p.x + p.w - 1 + i : p.x - i;
+    for (let y = p.y + i; y < p.y + p.h - 1 + i; y++) R.set(sx, y, col);
+  }
+}
+const COVER = {o: "#101d18", base: "#2b4a3d", hi: "#3d6555", lo: "#1d3329", stitch: "#c2aa6c"};
+const METAL = {o: "#2c3036", lo: "#6c737d", mid: "#9aa2ad", hi: "#e1e6ec"};
+function drawBook() {
+  const book = $("book"), page = $("page"), left = $("leftpage"), c = $("bookCanvas");
+  page.style.minHeight = "";
+  page.style.minHeight = Math.max(624, Math.ceil(page.offsetHeight / 24) * 24) + "px";
+  const W = Math.round(book.offsetWidth / PX), H = Math.round(book.offsetHeight / PX);
+  if (!W || !H) return;
+  sizeCanvas(c, W, H);
+  c.style.width = "100%"; c.style.height = "100%";
+  const R = raster(W, H);
+  R.rect(0, 0, W, H, COVER.o);
+  R.rect(1, 1, W - 2, H - 2, COVER.base);
+  for (let y = 1; y < H - 1; y++) for (let x = 1; x < W - 1; x++) { const h = hash(x, y, 31); if (h < .07) R.set(x, y, COVER.lo); else if (h < .1) R.set(x, y, COVER.hi); }
+  R.rect(2, 1, W - 4, 1, COVER.hi); R.rect(1, 2, 1, H - 4, COVER.hi);
+  R.rect(2, H - 2, W - 4, 1, COVER.lo); R.rect(W - 2, 2, 1, H - 4, COVER.lo);
+  for (let x = 3; x < W - 3; x++) if (x % 4 < 2) { R.set(x, 2, COVER.stitch); R.set(x, H - 3, COVER.stitch); }
+  for (let y = 3; y < H - 3; y++) if (y % 4 < 2) { R.set(2, y, COVER.stitch); R.set(W - 3, y, COVER.stitch); }
+  const d = R.img.data;
+  [[0, 0], [1, 0], [0, 1], [W - 1, 0], [W - 2, 0], [W - 1, 1], [0, H - 1], [1, H - 1], [0, H - 2], [W - 1, H - 1], [W - 2, H - 1], [W - 1, H - 2]].forEach(([x, y]) => { d[(y * W + x) * 4 + 3] = 0; });
+
+  const p = {x: Math.round(page.offsetLeft / PX), y: Math.round(page.offsetTop / PX), w: Math.round(page.offsetWidth / PX), h: Math.round(page.offsetHeight / PX)};
+  const marginX = Math.round((parseFloat(getComputedStyle(page).paddingLeft) - 12) / PX);
+  const two = left.offsetWidth > 0;
+  let lp = null;
+  if (two) { lp = {x: Math.round(left.offsetLeft / PX), y: p.y, w: Math.round(left.offsetWidth / PX), h: p.h}; stack(R, lp, false); paper(R, lp, false, null); }
+  stack(R, p, true);
+  paper(R, p, true, marginX);
+
+  const a = two ? lp.x + lp.w - 5 : 3, b = p.x + 4;
+  for (let ry = p.y + 9; ry < p.y + p.h - 6; ry += 12) {
+    if (two) { R.set(a + 1, ry + 3, PAPER.hole); R.set(a + 2, ry + 3, PAPER.hole); R.set(a + 1, ry + 4, PAPER.hole); R.set(a + 2, ry + 4, PAPER.hole); }
+    R.set(b - 1, ry + 3, PAPER.hole); R.set(b - 2, ry + 3, PAPER.hole); R.set(b - 1, ry + 4, PAPER.hole); R.set(b - 2, ry + 4, PAPER.hole);
+    for (let x = a + 1; x <= b - 1; x++) R.shade(x, ry + 3, .82);
+    for (let x = a + 2; x <= b - 2; x++) R.set(x, ry, METAL.o);
+    R.set(a + 1, ry + 1, METAL.o); R.set(b - 1, ry + 1, METAL.o);
+    for (let x = a + 2; x <= b - 2; x++) R.set(x, ry + 1, (x - a) < (b - a) * .45 ? METAL.hi : METAL.mid);
+    R.set(a, ry + 2, METAL.o); R.set(a + 1, ry + 2, METAL.mid); R.set(b - 1, ry + 2, METAL.lo); R.set(b, ry + 2, METAL.o);
+    for (let x = a + 2; x <= b - 2; x++) R.set(x, ry + 2, (x - a) < (b - a) * .3 ? METAL.mid : METAL.lo);
+    R.set(a + 1, ry + 3, METAL.o); R.set(b - 1, ry + 3, METAL.o);
+  }
+  c.getContext("2d").putImageData(R.img, 0, 0);
+}
+
+function drawPencil() {
+  // About the length of the page, like a real pencil next to a notebook.
+  const L = 118, c = $("pencil"), R = raster(L, 9), O = "#3a2a10", d = R.img.data, tip = L - 14;
+  for (let x = 2; x < L - 4; x++) { R.set(x, 8, "#000000"); d[(8 * L + x) * 4 + 3] = 80; }
+  R.rect(2, 1, 6, 1, O); R.rect(2, 6, 6, 1, O); R.rect(1, 2, 1, 4, O);
+  R.rect(2, 2, 6, 1, "#f0a3ad"); R.rect(2, 3, 6, 2, "#e0808c"); R.rect(2, 5, 6, 1, "#b05b67");
+  R.rect(8, 1, 5, 1, O); R.rect(8, 6, 5, 1, O);
+  R.rect(8, 2, 5, 1, "#e3e7ec"); R.rect(8, 3, 5, 2, "#a5abb4"); R.rect(8, 5, 5, 1, "#6c727b"); R.rect(9, 2, 1, 4, "#6c727b"); R.rect(11, 2, 1, 4, "#6c727b");
+  R.rect(13, 1, tip - 13, 1, O); R.rect(13, 6, tip - 13, 1, O);
+  R.rect(13, 2, tip - 13, 1, "#fbe08a"); R.rect(13, 3, tip - 13, 1, "#efc044"); R.rect(13, 4, tip - 13, 1, "#e2ac2e"); R.rect(13, 5, tip - 13, 1, "#b7832a");
+  R.rect(15, 2, 1, 4, "#b7832a"); R.rect(17, 2, 1, 4, "#b7832a");
+  for (let x = tip; x < L - 1; x++) {
+    const k = Math.floor((x - tip) / 4), y0 = 1 + k, y1 = 6 - k;
+    if (y1 < y0) break;
+    R.set(x, y0, O); R.set(x, y1, O);
+    for (let y = y0 + 1; y < y1; y++) R.set(x, y, x >= L - 6 ? "#3b3b42" : (y === y0 + 1 ? "#f2d6ad" : "#d9b383"));
+  }
+  R.set(L - 2, 3, O); R.set(L - 2, 4, O); R.set(L - 3, 3, "#3b3b42"); R.set(L - 3, 4, "#3b3b42");
+  sizeCanvas(c, L, 9);
+  c.getContext("2d").putImageData(R.img, 0, 0);
+}
+function spriteURL(rows, color) {
+  const c = document.createElement("canvas"); c.width = rows[0].length; c.height = rows.length;
+  const g = c.getContext("2d"); g.fillStyle = color;
+  rows.forEach((r, y) => [...r].forEach((ch, x) => { if (ch === "X") g.fillRect(x, y, 1, 1); }));
+  return c.toDataURL();
+}
+let CHECK, CROSS;
+
+/* ---------- Game ---------- */
+function puzzle(day) {
+  const n = Math.floor(POOL.length / 3), d = ((day % 100000) + 100000) % 100000;
+  const order = shuffle(POOL.map((_, i) => i), rng(Math.floor(d / n) * 9973 + 7));
+  return order.slice((d % n) * 3, (d % n) * 3 + 3).map((pi, k) => {
+    const e = POOL[pi], r = rng(d * 131 + k * 17 + 3);
+    const opts = shuffle([{t: e.d, real: true}, ...e.f.map(t => ({t, real: false}))], r);
+    const fakes = opts.map((o, i) => o.real ? -1 : i).filter(i => i >= 0);
+    return {...e, opts, cut: shuffle(fakes, r).slice(0, 2)};
+  });
+}
+function fresh(day) { return {day, cur: 0, picks: [null, null, null], hints: {roots: null, sentence: null, fifty: null}, done: false}; }
+let S, P, tick;
+function save() { store(KEY_DAY, S); }
+const isRight = i => S.picks[i] !== null && P[i].opts[S.picks[i]].real;
+const scoreOf = () => P.filter((_, i) => isRight(i)).length;
+
+function header() {
+  const date = new Date().toLocaleDateString(undefined, {month: "short", day: "numeric"});
+  return `<div class="hdr"><span class="date">No. ${S.day + 1} · ${esc(date)}</span><button class="q" id="rules-btn" aria-label="How to play">?</button></div>`;
+}
+
+function renderPage() {
+  $("page").innerHTML = S.done ? resultsHTML() : wordHTML();
+  updateCountdown();
+}
+
+function wordHTML() {
+  const i = S.cur, w = P[i], pick = S.picks[i], answered = pick !== null, right = answered && w.opts[pick].real;
+  const boxes = P.map((_, k) => `<span class="box ${S.picks[k] !== null ? (isRight(k) ? "r" : "w") : k === i ? "cur" : ""}"></span>`).join("");
+  let reveals = "";
+  if (S.hints.roots === i) reveals += `<div class="reveal"><span class="lab">roots</span>${esc(w.r)}</div>`;
+  if (S.hints.sentence === i) {
+    const re = new RegExp("(" + w.w.slice(0, Math.max(4, w.w.length - 3)) + "\\w*)", "i");
+    reveals += `<div class="reveal"><span class="lab">used</span>${esc(w.s).replace(re, "<u>$1</u>")}</div>`;
+  }
+  const removed = S.hints.fifty === i ? w.cut : [];
+  const opts = w.opts.map((o, k) => {
+    let cls = "opt", key = "ABCD"[k] + ".";
+    if (removed.includes(k)) cls += " removed";
+    if (answered) {
+      if (o.real) { cls += " right"; key = `<img src="${CHECK}" alt="Real">`; }
+      else if (k === pick) { cls += " wrong"; key = `<img src="${CROSS}" alt="Your pick">`; }
+      else cls += " dim";
+    }
+    const dis = answered || removed.includes(k);
+    return `<button class="${cls}" data-opt="${k}" ${dis ? "disabled" : ""}><span class="k">${key}</span><span><span class="t">${esc(o.t)}</span></span></button>`;
+  }).join("");
+  const foot = answered
+    ? `<span class="stamp ${right ? "ok" : ""}" role="status">${right ? "Real!" : "Conned!"}</span><button class="turn" id="next">${i === 2 ? "See results →" : "Turn the page →"}</button>`
+    : `<span class="nudge">Pick the real one. Stuck? Peel off a sticky note.</span>`;
+  return `${header()}
+    <div class="prog">word ${i + 1} of 3 <span class="boxes">${boxes}</span></div>
+    <h1 class="hw" style="--n:${w.w.length}">${esc(w.w)}</h1>
+    <div class="pron">/${esc(w.p)}/ · <i>${esc(w.pos)}</i></div>
+    ${reveals}
+    <div class="opts" role="group" aria-label="Definitions">${opts}</div>
+    <div class="foot">${foot}</div>`;
+}
+
+function resultsHTML() {
+  const score = scoreOf();
+  const verdicts = ["The fakes won today.", "One real, two cons.", "Two out of three. Hard to fool.", "Perfect page. Nobody conned you."];
+  const st = store(KEY_STATS) || {};
+  const used = HINTS.filter(h => S.hints[h.id] !== null).map(h => h.name);
+  const items = P.map((w, i) => `<li><img src="${isRight(i) ? CHECK : CROSS}" alt="${isRight(i) ? "Got it" : "Missed"}"><div><b>${esc(w.w)}</b> <span class="def">${esc(w.d)}.</span></div></li>`).join("");
+  return `${header()}
+    <div class="prog">today’s page</div>
+    <p class="score">${score}<small> / 3</small></p>
+    <p class="verdict">${verdicts[score]}</p>
+    <ul class="recap">${items}</ul>
+    <div class="facts">
+      days played <b>${st.played || 1}</b> · perfect streak <b>${st.streak || 0}</b> · words known <b>${st.correct || score}</b><br>
+      hints spent: <b>${used.length ? used.join(", ") : "none"}</b><br>
+      <span id="countdown"></span>
+    </div>
+`;
+}
+
+function renderNotes() {
+  const answered = !S.done && S.picks[S.cur] !== null;
+  const left = HINTS.filter(h => S.hints[h.id] === null).length;
+  $("hint-count").textContent = `Hints · ${left} left`;
+  $("notes").innerHTML = HINTS.map(h => {
+    const used = S.hints[h.id], spent = used !== null, locked = !spent && (answered || S.done);
+    return `<div class="note-wrap"><button class="note ${spent ? "used" : ""} ${locked ? "locked" : ""}" style="--c:${h.c}" data-hint="${h.id}" ${spent || locked ? "disabled" : ""}>
+      <b>${h.name}</b><small>${spent ? "Used on word " + (used + 1) : h.desc}</small></button></div>`;
+  }).join("");
+}
+
+function render() { renderPage(); renderNotes(); requestAnimationFrame(() => { drawBook(); drawDesk(); }); }
+
+function flipTo(update) {
+  const page = $("page"), book = $("book"), bc = $("bookCanvas");
+  if (reduced) { update(); return; }
+  const two = $("leftpage").offsetWidth > 0;
+  const fl = document.createElement("div");
+  fl.className = "flipper";
+  Object.assign(fl.style, {left: page.offsetLeft + "px", top: page.offsetTop + "px", width: page.offsetWidth + "px", height: page.offsetHeight + "px", transformOrigin: two ? "-24px 50%" : "0 50%"});
+  const px = Math.round(page.offsetLeft / PX), py = Math.round(page.offsetTop / PX), pw = Math.round(page.offsetWidth / PX), ph = Math.round(page.offsetHeight / PX);
+  const mk = (cls, srcX) => {
+    const f = document.createElement("div"); f.className = "face " + cls;
+    const cv = document.createElement("canvas"); cv.width = pw; cv.height = ph;
+    cv.getContext("2d").drawImage(bc, srcX, py, pw, ph, 0, 0, pw, ph);
+    f.appendChild(cv); return f;
+  };
+  const front = mk("front", px);
+  const clone = page.cloneNode(true); clone.removeAttribute("id"); clone.inert = true; front.appendChild(clone);
+  const back = mk("back", two ? Math.round($("leftpage").offsetLeft / PX) : px);
+  fl.append(front, back);
+  book.appendChild(fl);
+  update();
+  const end = two ? {transform: "rotateY(-180deg)"} : {transform: "rotateY(-115deg)", opacity: 0};
+  const a = fl.animate([{transform: "rotateY(0deg)", opacity: 1}, end], {duration: 720, easing: "steps(9, end)", fill: "forwards"});
+  front.animate([{filter: "brightness(1)"}, {filter: "brightness(.72)"}], {duration: 360, easing: "steps(4, end)", fill: "forwards"});
+  a.onfinish = () => fl.remove();
+}
+
+function finish() {
+  const score = scoreOf();
+  const st = store(KEY_STATS) || {played: 0, streak: 0, correct: 0, last: null};
+  if (st.last !== S.day) {
+    st.streak = score === 3 ? (st.last === S.day - 1 ? st.streak + 1 : 1) : 0;
+    st.played += 1; st.correct += score; st.last = S.day;
+    store(KEY_STATS, st);
+  }
+  flipTo(() => { S.done = true; save(); render(); });
+}
+
+function updateCountdown() {
+  const el = $("countdown"); if (!el) return;
+  const n = new Date(), mid = new Date(n.getFullYear(), n.getMonth(), n.getDate() + 1);
+  const s = Math.max(0, Math.floor((mid - n) / 1000)), pad = x => String(x).padStart(2, "0");
+  el.textContent = `next words in ${pad(Math.floor(s / 3600))}:${pad(Math.floor(s / 60) % 60)}:${pad(s % 60)}`;
+}
+
+document.addEventListener("click", e => {
+  const opt = e.target.closest("[data-opt]");
+  if (opt && !opt.disabled) { S.picks[S.cur] = +opt.dataset.opt; save(); render(); return; }
+  const hint = e.target.closest("[data-hint]");
+  if (hint && !hint.disabled) { S.hints[hint.dataset.hint] = S.cur; save(); render(); return; }
+  if (e.target.closest("#next")) {
+    if (S.cur === 2) finish(); else flipTo(() => { S.cur++; save(); render(); });
+    return;
+  }
+  if (e.target.closest("#test-reset")) {
+    store(KEY_TEST, (store(KEY_TEST) || 0) + 1);
+    flipTo(() => { S = fresh(today()); P = puzzle(S.day + store(KEY_TEST)); save(); render(); });
+    return;
+  }
+  if (e.target.closest("#rules-btn")) { $("rules").showModal(); return; }
+  if (e.target.closest("#rules-close") || e.target === $("rules")) $("rules").close();
+});
+document.addEventListener("keydown", e => {
+  if (S.done || $("rules").open || e.metaKey || e.ctrlKey || e.altKey) return;
+  const k = "abcd".indexOf(e.key.toLowerCase());
+  if (k >= 0) { const b = document.querySelector(`[data-opt="${k}"]`); if (b && !b.disabled) b.click(); }
+  if (e.key === "Enter" || e.key === "ArrowRight") { const n = $("next"); if (n) { e.preventDefault(); n.click(); } }
+});
+
+function load() {
+  const day = today();
+  P = puzzle(day + (store(KEY_TEST) || 0));
+  const saved = S && S.day === day ? S : store(KEY_DAY);
+  S = saved && saved.day === day ? saved : fresh(day);
+  render();
+}
+
+function start(data) {
+  CHECK = spriteURL(["......X", ".....XX", "X...XX.", "XX.XX..", ".XXX...", "..X...."], "#2f7d45");
+  CROSS = spriteURL(["X.....X", "XX...XX", ".XX.XX.", "..XXX..", ".XX.XX.", "XX...XX"], "#c23b2e");
+  if (data && data.state) S = data.state;
+  drawPencil();
+  load();
+  clearInterval(tick);
+  tick = setInterval(() => { if (S.day !== today()) load(); else updateCountdown(); }, 1000);
+  let raf;
+  const redraw = () => { cancelAnimationFrame(raf); raf = requestAnimationFrame(() => { drawBook(); drawDesk(); }); };
+  new ResizeObserver(redraw).observe($("book"));
+  addEventListener("resize", redraw);
+  if (document.fonts) document.fonts.ready.then(redraw);
+}
+window.claude?.hot?.snapshot?.(() => ({state: S}));
+window.claude?.hot?.ready ? window.claude.hot.ready(start) : start(window.claude?.hot?.data ?? {});
+</script>

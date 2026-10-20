@@ -1,0 +1,598 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Three hard words a day. Pick the real definition; the other three are cons.">
+<title>Lexiconned</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;700&family=Silkscreen&display=swap">
+<style>
+/* Layout: a pixel-art spiral notebook on a wooden desk. Only the right page is written on; sticky-note hints sit beside it. */
+:root {
+  --wood: #4f2d1d;
+  --paper: #f2e8cd;
+  --ink: #26327a;
+  --ink-dark: #1b1d2a;
+  --pencil: #6e685c;
+  --red: #c23b2e;
+  --green: #2f7d45;
+  --cream: #f3dcb6;
+  --note-y: #f7d75a;
+  --note-p: #f5a8b8;
+  --note-m: #a3dfb9;
+  --hand: "Pixelify Sans", "Courier New", monospace;
+  --label: "Silkscreen", "Courier New", monospace;
+  color-scheme: light;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; position: relative; overflow-x: hidden;
+  background: var(--wood); color: var(--ink);
+  font-family: var(--hand); font-size: 18px;
+  padding-inline: 16px; padding-block: 36px 60px;
+  -webkit-font-smoothing: none; font-smooth: never;
+}
+canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: block; }
+#desk { position: absolute; left: 0; top: 0; z-index: 0; pointer-events: none; }
+.scene { position: relative; z-index: 1; display: flex; justify-content: center; align-items: flex-start; gap: 36px; flex-wrap: wrap; max-width: 1280px; margin: 0 auto; }
+
+/* Notebook */
+.nb-col { display: flex; flex-direction: column; align-items: center; gap: 18px; flex: 0 1 auto; min-width: 0; max-width: 100%; }
+.title { margin: 0; font-family: var(--hand); font-weight: 700; font-size: clamp(38px, 9vw, 60px); line-height: 1; letter-spacing: .03em; color: var(--cream); text-shadow: 3px 3px 0 #1c0d07, 6px 6px 0 rgba(28,13,7,.45); }
+.title span { color: var(--note-y); }
+.book { position: relative; display: grid; grid-template-columns: 36px minmax(0, 450px); padding: 12px 15px 21px 12px; perspective: 2400px; max-width: 100%; }
+#bookCanvas { position: absolute; left: 0; top: 0; width: 100%; height: 100%; filter: drop-shadow(6px 6px 0 rgba(14,6,2,.5)); }
+.leftpage { display: none; }
+.page { position: relative; grid-column: 2; min-height: 624px; padding: 24px 18px 24px 54px; container-type: inline-size; }
+@media (min-width: 1250px) {
+  .book { grid-template-columns: 450px 48px 450px; }
+  .leftpage { display: block; grid-column: 1; }
+  .page { grid-column: 3; }
+}
+@media (max-width: 480px) {
+  .book { grid-template-columns: 24px minmax(0, 1fr); }
+  .page { padding-left: 42px; padding-right: 12px; }
+}
+
+.hdr { display: flex; align-items: center; gap: 10px; font-family: var(--label); font-size: 10px; line-height: 24px; color: var(--pencil); letter-spacing: .06em; text-transform: uppercase; }
+.hdr .brand { color: var(--ink); font-size: 12px; }
+.hdr .date { white-space: nowrap; }
+.hdr .q { margin-left: auto; }
+.q { font: inherit; font-size: 12px; background: none; border: 0; color: var(--ink); cursor: pointer; padding: 0 4px; line-height: 24px; }
+.prog { display: flex; align-items: center; gap: 10px; line-height: 24px; font-size: 16px; color: var(--pencil); }
+.boxes { display: flex; gap: 5px; }
+.box { width: 9px; height: 9px; box-shadow: inset 0 0 0 3px #b5ad9b; }
+.box.cur { box-shadow: inset 0 0 0 3px var(--ink); }
+.box.r { background: var(--green); box-shadow: none; }
+.box.w { background: var(--red); box-shadow: none; }
+
+.hw { margin: 0; font-weight: 700; color: var(--ink-dark); font-size: min(44px, calc(100cqi / (var(--n) * .72))); line-height: 48px; overflow-wrap: anywhere; letter-spacing: .01em; }
+.pron { font-size: 16px; line-height: 24px; color: var(--pencil); }
+.pron i { font-style: normal; color: var(--ink); }
+.reveal { margin-top: 24px; font-size: 17px; line-height: 24px; color: var(--pencil); }
+.reveal .lab { font-family: var(--label); font-size: 10px; letter-spacing: .08em; text-transform: uppercase; color: #8e7b52; margin-right: 6px; }
+.reveal u { text-decoration: none; color: var(--ink-dark); background: linear-gradient(transparent 82%, #8e7b52 82%); }
+.reveal + .reveal { margin-top: 0; }
+
+.opts { margin-top: 24px; display: flex; flex-direction: column; }
+.opt { display: grid; grid-template-columns: 30px minmax(0, 1fr); align-items: start; text-align: left; background: none; border: 0; padding: 0; font: inherit; font-size: 18px; line-height: 24px; color: var(--ink); cursor: pointer; }
+.opt .k { font-family: var(--label); font-size: 12px; height: 24px; display: flex; align-items: center; }
+.opt .k img { width: 21px; height: 18px; }
+.opt .t { padding-inline: 2px; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+.opt:hover:not(:disabled) .t, .opt:focus-visible .t { background: linear-gradient(transparent 30%, rgba(255,221,64,.7) 30% 90%, transparent 90%); }
+.opt:focus-visible { outline: none; }
+.opt:disabled { cursor: default; }
+.opt.removed .t { color: #aaa391; text-decoration: line-through 2px #8f8878; }
+.opt.removed .k { color: #aaa391; }
+.opt.right .t { background: linear-gradient(transparent 30%, rgba(116,206,128,.65) 30% 90%, transparent 90%); color: var(--ink-dark); }
+.opt.wrong .t { color: #7d3a33; text-decoration: line-through 3px var(--red); }
+.opt.dim { opacity: .5; }
+
+.foot { margin-top: 24px; min-height: 48px; display: flex; align-items: flex-start; justify-content: space-between; gap: 0 12px; flex-wrap: wrap; }
+.nudge { font-size: 16px; line-height: 24px; color: var(--pencil); }
+.stamp { margin-top: 3px; font-family: var(--label); font-size: 12px; line-height: 15px; letter-spacing: .12em; text-transform: uppercase; color: var(--red); padding: 0 9px; box-shadow: 0 0 0 3px var(--red), inset 0 0 0 3px rgba(194,59,46,.12); animation: stamp .3s steps(3) both; }
+.stamp.ok { color: var(--green); box-shadow: 0 0 0 3px var(--green), inset 0 0 0 3px rgba(47,125,69,.12); }
+@keyframes stamp { from { transform: scale(1.9); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+.turn { font: inherit; font-size: 18px; line-height: 24px; background: none; border: 0; color: var(--ink); cursor: pointer; padding: 0 2px; box-shadow: inset 0 -3px 0 var(--ink); margin-left: auto; }
+.turn:hover, .turn:focus-visible { background: rgba(255,221,64,.7); outline: none; }
+
+/* Results */
+.score { margin: 0; font-weight: 700; font-size: 44px; line-height: 48px; color: var(--ink-dark); }
+.score small { font-size: 24px; color: var(--pencil); }
+.verdict { margin: 0; line-height: 24px; font-size: 18px; }
+.recap { list-style: none; margin: 24px 0 0; padding: 0; }
+.recap li { display: grid; grid-template-columns: 30px minmax(0, 1fr); line-height: 24px; }
+.recap li img { width: 21px; height: 18px; margin-top: 3px; }
+.recap b { font-weight: 700; color: var(--ink-dark); }
+.recap .def { color: var(--pencil); font-size: 16px; }
+.recap li + li { margin-top: 24px; }
+.facts { margin-top: 24px; font-size: 16px; line-height: 24px; color: var(--pencil); }
+.facts b { color: var(--ink); font-weight: 500; }
+
+/* Page flip */
+.flipper { position: absolute; z-index: 5; pointer-events: none; transform-style: preserve-3d; }
+.face { position: absolute; inset: 0; backface-visibility: hidden; -webkit-backface-visibility: hidden; overflow: hidden; }
+.face canvas { position: absolute; inset: 0; width: 100%; height: 100%; }
+.face .page { position: absolute; inset: 0; min-height: 0; }
+.back { transform: rotateY(180deg); }
+
+/* Desk side: sticky notes, pencil */
+.side { flex: 0 0 168px; display: flex; flex-direction: column; align-items: center; gap: 22px; padding-top: 123px; }
+.desk-label { font-family: var(--label); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--cream); text-shadow: 3px 3px 0 #1c0d07; }
+#notes { display: flex; flex-direction: column; gap: 18px; align-items: center; width: 100%; }
+.note-wrap { filter: drop-shadow(4px 4px 0 rgba(14,6,2,.5)); width: 156px; max-width: 100%; }
+.note {
+  position: relative; width: 100%; min-height: 102px; border: 0; cursor: pointer; text-align: left;
+  display: flex; flex-direction: column; gap: 3px; padding: 21px 12px 12px;
+  font: inherit; color: #3b2a12;
+  background: linear-gradient(rgba(0,0,0,.07) 0 12px, transparent 12px), var(--c);
+  clip-path: polygon(0 3px, 3px 3px, 3px 0, calc(100% - 3px) 0, calc(100% - 3px) 3px, 100% 3px, 100% calc(100% - 15px), calc(100% - 15px) 100%, 3px 100%, 3px calc(100% - 3px), 0 calc(100% - 3px));
+  transition: transform .12s steps(2);
+}
+.note::after { content: ""; position: absolute; right: 0; bottom: 0; width: 15px; height: 15px; background: rgba(0,0,0,.18); clip-path: polygon(0 0, 100% 0, 0 100%); }
+.note b { font-family: var(--label); font-weight: 400; font-size: 14px; letter-spacing: .06em; }
+.note small { font-size: 15px; line-height: 18px; }
+.note:hover:not(:disabled), .note:focus-visible { transform: translateY(-3px); outline: none; }
+.note:focus-visible b { box-shadow: inset 0 -3px 0 currentColor; }
+.note:disabled { cursor: default; }
+.note.used { filter: saturate(.2) brightness(.82); }
+.note.used b { text-decoration: line-through 2px; }
+.note.locked { opacity: .78; }
+#pencil { pointer-events: none; }
+
+@media (max-width: 760px) {
+  .scene { gap: 28px; }
+  .side { flex: 1 1 100%; padding-top: 0; gap: 14px; }
+  #notes { flex-direction: row; justify-content: center; gap: 12px; }
+  .note-wrap { flex: 1 1 0; width: auto; max-width: 156px; }
+  .note { min-height: 84px; padding-top: 18px; }
+}
+@media (max-width: 480px) { .note small { display: none; } .note { min-height: 60px; } #pencil { display: none; } }
+
+/* Rules card */
+dialog { border: 0; padding: 0; background: transparent; max-width: min(420px, calc(100vw - 32px)); filter: drop-shadow(6px 6px 0 rgba(14,6,2,.55)); }
+dialog::backdrop { background: rgba(20,9,3,.6); }
+.card {
+  background: repeating-linear-gradient(transparent 0 45px, #a9c0dc 45px 48px) 0 0 / 100% 48px, var(--paper);
+  background: linear-gradient(#e09a9a, #e09a9a) 0 0 / 100% 3px no-repeat, repeating-linear-gradient(transparent 0 21px, #a9c0dc 21px 24px) 0 24px / 100% calc(100% - 24px) no-repeat, var(--paper);
+  color: var(--ink); padding: 24px 22px; font-size: 17px; line-height: 24px;
+  clip-path: polygon(0 3px, 3px 3px, 3px 0, calc(100% - 3px) 0, calc(100% - 3px) 3px, 100% 3px, 100% calc(100% - 3px), calc(100% - 3px) calc(100% - 3px), calc(100% - 3px) 100%, 3px 100%, 3px calc(100% - 3px), 0 calc(100% - 3px));
+}
+.card h2 { margin: 0; font-size: 26px; line-height: 48px; color: var(--ink-dark); }
+.card p, .card ul { margin: 0 0 24px; }
+.card ul { padding-left: 20px; }
+.card .turn { margin: 0; }
+.credits { position: relative; z-index: 1; max-width: 640px; margin: 40px auto 0; text-align: center; font-size: 13px; line-height: 20px; color: var(--cream); text-shadow: 2px 2px 0 #1c0d07; opacity: .85; }
+.credits a { color: var(--note-y); }
+.loading { font-size: 18px; line-height: 24px; color: var(--pencil); margin-top: 24px; }
+@media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation: none !important; transition: none !important; } }
+</style>
+
+</head>
+<body>
+<canvas id="desk" aria-hidden="true"></canvas>
+<div class="scene" id="scene">
+  <div class="nb-col">
+  <h1 class="title">Lexi<span>con</span>ned</h1>
+  <canvas id="pencil" aria-hidden="true"></canvas>
+  <div class="book" id="book">
+    <canvas id="bookCanvas" aria-hidden="true"></canvas>
+    <div class="leftpage" id="leftpage"></div>
+    <main class="page" id="page"></main>
+  </div>
+  </div>
+  <aside class="side" aria-label="Hints">
+    <div class="desk-label" id="hint-count"></div>
+    <div id="notes"></div>
+  </aside>
+</div>
+
+<footer class="credits">
+  Definitions from <a href="https://wordnet.princeton.edu/" target="_blank" rel="noopener">WordNet 3.0</a> (Princeton University).
+  Origins, pronunciations and example sentences adapted from <a href="https://en.wiktionary.org/" target="_blank" rel="noopener">Wiktionary</a>,
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.
+</footer>
+
+<dialog id="rules">
+  <div class="card">
+    <h2>How to play</h2>
+    <p>Three hard words a day. Each has four definitions: one real, three cons.</p>
+    <ul>
+      <li>Pick the real one. A wrong guess loses that word.</li>
+      <li>Three sticky-note hints for the whole day: Roots, Sentence and 50/50. Each works once.</li>
+    </ul>
+    <p>New words at midnight.</p>
+    <button class="turn" id="rules-close">Got it</button>
+  </div>
+</dialog>
+
+<script>
+
+
+const HINTS = [
+  {id: "roots", name: "Roots", desc: "Where it comes from", c: "var(--note-y)"},
+  {id: "sentence", name: "Sentence", desc: "See it used", c: "var(--note-p)"},
+  {id: "fifty", name: "50/50", desc: "Cross out two fakes", c: "var(--note-m)"}
+];
+let LAUNCH = null, MANIFEST = null;
+const MONTHS = {};
+const KEY_DAY = "lexiconned:day", KEY_STATS = "lexiconned:stats";
+// ?day=N previews any day (for checking the word list) without touching saved progress or stats.
+const PREVIEW = (() => { const v = new URLSearchParams(location.search).get("day"); return v !== null && /^\d+$/.test(v) ? +v : null; })();
+const PX = 3;
+const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+function store(k, v) { try { if (v === undefined) return JSON.parse(localStorage.getItem(k)); localStorage.setItem(k, JSON.stringify(v)); } catch (e) { return null; } }
+function rng(seed) { return function () { seed |= 0; seed = seed + 0x6D2B79F5 | 0; let t = Math.imul(seed ^ seed >>> 15, 1 | seed); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296; }; }
+function shuffle(arr, r) { const a = arr.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(r() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
+function today() { if (PREVIEW !== null) return PREVIEW; const n = new Date(); return Math.floor((Date.UTC(n.getFullYear(), n.getMonth(), n.getDate()) - LAUNCH) / 864e5); }
+function esc(s) { return String(s).replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"})[c]); }
+const $ = id => document.getElementById(id);
+
+/* ---------- Pixel drawing ---------- */
+const BAYER = [[0, 8, 2, 10], [12, 4, 14, 6], [3, 11, 1, 9], [15, 7, 13, 5]].map(r => r.map(v => (v + .5) / 16));
+function hash(x, y, s) { let h = Math.imul(x | 0, 374761393) + Math.imul(y | 0, 668265263) + Math.imul(s | 0, 982451653) | 0; h = Math.imul(h ^ (h >>> 13), 1274126177); h ^= h >>> 16; return (h >>> 0) / 4294967296; }
+function noise(x, y, s) {
+  const xi = Math.floor(x), yi = Math.floor(y), xf = x - xi, yf = y - yi;
+  const u = xf * xf * (3 - 2 * xf), v = yf * yf * (3 - 2 * yf);
+  const a = hash(xi, yi, s), b = hash(xi + 1, yi, s), c = hash(xi, yi + 1, s), d = hash(xi + 1, yi + 1, s);
+  return a + (b - a) * u + (c - a) * v + (a - b - c + d) * u * v;
+}
+const rgbCache = {};
+function rgb(hex) { return rgbCache[hex] || (rgbCache[hex] = [parseInt(hex.slice(1, 3), 16), parseInt(hex.slice(3, 5), 16), parseInt(hex.slice(5, 7), 16)]); }
+function raster(w, h) {
+  const img = new ImageData(w, h), d = img.data;
+  return {
+    img, w, h,
+    set(x, y, hex) { if (x < 0 || y < 0 || x >= w || y >= h) return; const c = rgb(hex), i = (y * w + x) * 4; d[i] = c[0]; d[i + 1] = c[1]; d[i + 2] = c[2]; d[i + 3] = 255; },
+    rect(x, y, rw, rh, hex) { for (let j = y; j < y + rh; j++) for (let i = x; i < x + rw; i++) this.set(i, j, hex); },
+    shade(x, y, f) { if (x < 0 || y < 0 || x >= w || y >= h) return; const i = (y * w + x) * 4; d[i] *= f; d[i + 1] *= f; d[i + 2] *= f; }
+  };
+}
+function sizeCanvas(c, w, h) { c.width = w; c.height = h; c.style.width = w * PX + "px"; c.style.height = h * PX + "px"; }
+
+const WOOD = ["#1e0f09", "#2e170e", "#412215", "#552f1e", "#683b25", "#7c4a2e", "#915937", "#a86c45"];
+function drawDesk() {
+  const c = $("desk"), scene = $("scene");
+  const cw = document.documentElement.clientWidth;
+  const credits = document.querySelector(".credits");
+  const bottom = credits ? credits.offsetTop + credits.offsetHeight : scene.offsetTop + scene.offsetHeight;
+  const ch = Math.max(innerHeight, bottom + 60);
+  const W = Math.ceil(cw / PX), H = Math.ceil(ch / PX);
+  sizeCanvas(c, W, H);
+  const R = raster(W, H), PH = 30, cx = W / 2, cy = Math.min(H, innerHeight / PX) / 2;
+  const knots = [];
+  for (let p = 0; p * PH < H; p++) for (let k = 0; k < 2; k++) if (hash(p, k, 9) < .55) knots.push({x: hash(p, k, 10) * W, y: p * PH + 8 + hash(p, k, 11) * (PH - 16), rx: 6 + hash(p, k, 12) * 6, ry: 2.5 + hash(p, k, 13) * 1.5});
+  for (let y = 0; y < H; y++) {
+    const plank = Math.floor(y / PH), py = y % PH, seamOff = Math.floor(hash(plank, 0, 5) * 170), seamLen = 150 + Math.floor(hash(plank, 1, 5) * 90);
+    for (let x = 0; x < W; x++) {
+      const n = noise(x / 46, y / 2.6 + plank * 13, 1) * .65 + noise(x / 9, y / 1.4, 2) * .35;
+      const g = noise(x / 80, y / 6 + plank * 7, 3);
+      let v = 1.6 + n * 4.2;
+      const s = (n * 5 + g * 3) % 1;
+      if (Math.abs(s - .5) < .045) v -= 1.3;
+      for (const k of knots) {
+        const dx = (x - k.x) / k.rx, dy = (y - k.y) / k.ry, dd = Math.sqrt(dx * dx + dy * dy);
+        if (dd < 2.2) { v -= dd < 1 ? 1.6 : (Math.floor(dd * 3) % 2 ? 1 : 0); }
+      }
+      const sx = (x + seamOff) % seamLen;
+      if (sx === 0) v = 0; else if (sx === 1) v += 1.2;
+      if (py === 0) v = Math.max(v, 6.2); else if (py === 1) v += .7; else if (py === PH - 1) v = 0; else if (py === PH - 2) v -= 1;
+      const ddx = (x - cx) / (W / 2), ddy = (y - cy) / (H / 1.3);
+      v -= (ddx * ddx * .9 + ddy * ddy * .7) * 1.8;
+      const idx = Math.max(0, Math.min(7, Math.floor(v + BAYER[y & 3][x & 3] - .5)));
+      R.set(x, y, WOOD[idx]);
+    }
+  }
+  c.getContext("2d").putImageData(R.img, 0, 0);
+}
+
+const PAPER = {base: "#f2e8cd", lo: "#e2d4b0", lo2: "#cdbc93", hi: "#fbf5e2", rule: "#a9c0dc", ruleLo: "#97abc6", margin: "#e09a9a", edge: "#c9b78d", edge2: "#a99770", hole: "#2b241c"};
+function paper(R, p, gutterLeft, marginX) {
+  R.rect(p.x, p.y, p.w, p.h, PAPER.base);
+  for (let y = p.y; y < p.y + p.h; y++) for (let x = p.x; x < p.x + p.w; x++) {
+    const h = hash(x, y, 21);
+    if (h < .012) R.set(x, y, PAPER.lo); else if (h < .02) R.set(x, y, PAPER.hi);
+  }
+  for (let y = p.y + 15; y < p.y + p.h - 3; y += 8) for (let x = p.x; x < p.x + p.w; x++) R.set(x, y, PAPER.rule);
+  if (marginX != null) for (let y = p.y; y < p.y + p.h; y++) R.set(p.x + marginX, y, PAPER.margin);
+  for (let dx = 0; dx < 11; dx++) {
+    const t = (1 - dx / 11) * .9, x = gutterLeft ? p.x + dx : p.x + p.w - 1 - dx;
+    for (let y = p.y; y < p.y + p.h; y++) {
+      const b = BAYER[y & 3][x & 3];
+      if (b < t * .45) R.set(x, y, PAPER.lo2); else if (b < t) R.shade(x, y, .9);
+    }
+  }
+  const outer = gutterLeft ? p.x + p.w - 1 : p.x;
+  for (let y = p.y; y < p.y + p.h; y++) R.set(outer, y, PAPER.edge);
+  for (let x = p.x; x < p.x + p.w; x++) R.set(x, p.y + p.h - 1, PAPER.edge);
+}
+function stack(R, p, toRight) {
+  for (let i = 1; i <= 3; i++) {
+    const col = i % 2 ? PAPER.edge2 : PAPER.lo;
+    const x0 = toRight ? p.x + 1 : p.x - i + 1, x1 = toRight ? p.x + p.w - 1 + i : p.x + p.w - 1;
+    for (let x = x0; x < x1; x++) R.set(x, p.y + p.h - 1 + i, col);
+    const sx = toRight ? p.x + p.w - 1 + i : p.x - i;
+    for (let y = p.y + i; y < p.y + p.h - 1 + i; y++) R.set(sx, y, col);
+  }
+}
+const COVER = {o: "#101d18", base: "#2b4a3d", hi: "#3d6555", lo: "#1d3329", stitch: "#c2aa6c"};
+const METAL = {o: "#2c3036", lo: "#6c737d", mid: "#9aa2ad", hi: "#e1e6ec"};
+function drawBook() {
+  const book = $("book"), page = $("page"), left = $("leftpage"), c = $("bookCanvas");
+  page.style.minHeight = "";
+  page.style.minHeight = Math.max(624, Math.ceil(page.offsetHeight / 24) * 24) + "px";
+  const W = Math.round(book.offsetWidth / PX), H = Math.round(book.offsetHeight / PX);
+  if (!W || !H) return;
+  sizeCanvas(c, W, H);
+  c.style.width = "100%"; c.style.height = "100%";
+  const R = raster(W, H);
+  R.rect(0, 0, W, H, COVER.o);
+  R.rect(1, 1, W - 2, H - 2, COVER.base);
+  for (let y = 1; y < H - 1; y++) for (let x = 1; x < W - 1; x++) { const h = hash(x, y, 31); if (h < .07) R.set(x, y, COVER.lo); else if (h < .1) R.set(x, y, COVER.hi); }
+  R.rect(2, 1, W - 4, 1, COVER.hi); R.rect(1, 2, 1, H - 4, COVER.hi);
+  R.rect(2, H - 2, W - 4, 1, COVER.lo); R.rect(W - 2, 2, 1, H - 4, COVER.lo);
+  for (let x = 3; x < W - 3; x++) if (x % 4 < 2) { R.set(x, 2, COVER.stitch); R.set(x, H - 3, COVER.stitch); }
+  for (let y = 3; y < H - 3; y++) if (y % 4 < 2) { R.set(2, y, COVER.stitch); R.set(W - 3, y, COVER.stitch); }
+  const d = R.img.data;
+  [[0, 0], [1, 0], [0, 1], [W - 1, 0], [W - 2, 0], [W - 1, 1], [0, H - 1], [1, H - 1], [0, H - 2], [W - 1, H - 1], [W - 2, H - 1], [W - 1, H - 2]].forEach(([x, y]) => { d[(y * W + x) * 4 + 3] = 0; });
+
+  const p = {x: Math.round(page.offsetLeft / PX), y: Math.round(page.offsetTop / PX), w: Math.round(page.offsetWidth / PX), h: Math.round(page.offsetHeight / PX)};
+  const marginX = Math.round((parseFloat(getComputedStyle(page).paddingLeft) - 12) / PX);
+  const two = left.offsetWidth > 0;
+  let lp = null;
+  if (two) { lp = {x: Math.round(left.offsetLeft / PX), y: p.y, w: Math.round(left.offsetWidth / PX), h: p.h}; stack(R, lp, false); paper(R, lp, false, null); }
+  stack(R, p, true);
+  paper(R, p, true, marginX);
+
+  const a = two ? lp.x + lp.w - 5 : 3, b = p.x + 4;
+  for (let ry = p.y + 9; ry < p.y + p.h - 6; ry += 12) {
+    if (two) { R.set(a + 1, ry + 3, PAPER.hole); R.set(a + 2, ry + 3, PAPER.hole); R.set(a + 1, ry + 4, PAPER.hole); R.set(a + 2, ry + 4, PAPER.hole); }
+    R.set(b - 1, ry + 3, PAPER.hole); R.set(b - 2, ry + 3, PAPER.hole); R.set(b - 1, ry + 4, PAPER.hole); R.set(b - 2, ry + 4, PAPER.hole);
+    for (let x = a + 1; x <= b - 1; x++) R.shade(x, ry + 3, .82);
+    for (let x = a + 2; x <= b - 2; x++) R.set(x, ry, METAL.o);
+    R.set(a + 1, ry + 1, METAL.o); R.set(b - 1, ry + 1, METAL.o);
+    for (let x = a + 2; x <= b - 2; x++) R.set(x, ry + 1, (x - a) < (b - a) * .45 ? METAL.hi : METAL.mid);
+    R.set(a, ry + 2, METAL.o); R.set(a + 1, ry + 2, METAL.mid); R.set(b - 1, ry + 2, METAL.lo); R.set(b, ry + 2, METAL.o);
+    for (let x = a + 2; x <= b - 2; x++) R.set(x, ry + 2, (x - a) < (b - a) * .3 ? METAL.mid : METAL.lo);
+    R.set(a + 1, ry + 3, METAL.o); R.set(b - 1, ry + 3, METAL.o);
+  }
+  c.getContext("2d").putImageData(R.img, 0, 0);
+}
+
+function drawPencil() {
+  // About the length of the page, like a real pencil next to a notebook.
+  const L = 118, c = $("pencil"), R = raster(L, 9), O = "#3a2a10", d = R.img.data, tip = L - 14;
+  for (let x = 2; x < L - 4; x++) { R.set(x, 8, "#000000"); d[(8 * L + x) * 4 + 3] = 80; }
+  R.rect(2, 1, 6, 1, O); R.rect(2, 6, 6, 1, O); R.rect(1, 2, 1, 4, O);
+  R.rect(2, 2, 6, 1, "#f0a3ad"); R.rect(2, 3, 6, 2, "#e0808c"); R.rect(2, 5, 6, 1, "#b05b67");
+  R.rect(8, 1, 5, 1, O); R.rect(8, 6, 5, 1, O);
+  R.rect(8, 2, 5, 1, "#e3e7ec"); R.rect(8, 3, 5, 2, "#a5abb4"); R.rect(8, 5, 5, 1, "#6c727b"); R.rect(9, 2, 1, 4, "#6c727b"); R.rect(11, 2, 1, 4, "#6c727b");
+  R.rect(13, 1, tip - 13, 1, O); R.rect(13, 6, tip - 13, 1, O);
+  R.rect(13, 2, tip - 13, 1, "#fbe08a"); R.rect(13, 3, tip - 13, 1, "#efc044"); R.rect(13, 4, tip - 13, 1, "#e2ac2e"); R.rect(13, 5, tip - 13, 1, "#b7832a");
+  R.rect(15, 2, 1, 4, "#b7832a"); R.rect(17, 2, 1, 4, "#b7832a");
+  for (let x = tip; x < L - 1; x++) {
+    const k = Math.floor((x - tip) / 4), y0 = 1 + k, y1 = 6 - k;
+    if (y1 < y0) break;
+    R.set(x, y0, O); R.set(x, y1, O);
+    for (let y = y0 + 1; y < y1; y++) R.set(x, y, x >= L - 6 ? "#3b3b42" : (y === y0 + 1 ? "#f2d6ad" : "#d9b383"));
+  }
+  R.set(L - 2, 3, O); R.set(L - 2, 4, O); R.set(L - 3, 3, "#3b3b42"); R.set(L - 3, 4, "#3b3b42");
+  sizeCanvas(c, L, 9);
+  c.getContext("2d").putImageData(R.img, 0, 0);
+}
+function spriteURL(rows, color) {
+  const c = document.createElement("canvas"); c.width = rows[0].length; c.height = rows.length;
+  const g = c.getContext("2d"); g.fillStyle = color;
+  rows.forEach((r, y) => [...r].forEach((ch, x) => { if (ch === "X") g.fillRect(x, y, 1, 1); }));
+  return c.toDataURL();
+}
+let CHECK, CROSS;
+
+/* ---------- Game ---------- */
+function puzzle(day, entries) {
+  return entries.map((e, k) => {
+    const r = rng(day * 131 + k * 17 + 3);
+    const opts = shuffle([{t: e.d, real: true}, ...e.f.map(t => ({t, real: false}))], r);
+    const fakes = opts.map((o, i) => o.real ? -1 : i).filter(i => i >= 0);
+    return {...e, opts, cut: shuffle(fakes, r).slice(0, 2)};
+  });
+}
+function fresh(day) { return {day, cur: 0, picks: [null, null, null], hints: {roots: null, sentence: null, fifty: null}, done: false}; }
+let S, P, tick;
+function save() { if (PREVIEW === null) store(KEY_DAY, S); }
+const isRight = i => S.picks[i] !== null && P[i].opts[S.picks[i]].real;
+const scoreOf = () => P.filter((_, i) => isRight(i)).length;
+
+function header() {
+  const date = new Date(LAUNCH + S.day * 864e5).toLocaleDateString(undefined, {month: "short", day: "numeric", timeZone: "UTC"});
+  return `<div class="hdr"><span class="date">No. ${S.day + 1} · ${esc(date)}</span><button class="q" id="rules-btn" aria-label="How to play">?</button></div>`;
+}
+
+function renderPage() {
+  $("page").innerHTML = S.done ? resultsHTML() : wordHTML();
+  updateCountdown();
+}
+
+function wordHTML() {
+  const i = S.cur, w = P[i], pick = S.picks[i], answered = pick !== null, right = answered && w.opts[pick].real;
+  const boxes = P.map((_, k) => `<span class="box ${S.picks[k] !== null ? (isRight(k) ? "r" : "w") : k === i ? "cur" : ""}"></span>`).join("");
+  let reveals = "";
+  if (S.hints.roots === i) reveals += `<div class="reveal"><span class="lab">roots</span>${esc(w.r)}</div>`;
+  if (S.hints.sentence === i) {
+    const re = new RegExp("(" + w.w.slice(0, Math.max(4, w.w.length - 3)) + "\\w*)", "i");
+    reveals += `<div class="reveal"><span class="lab">used</span>${esc(w.s).replace(re, "<u>$1</u>")}</div>`;
+  }
+  const removed = S.hints.fifty === i ? w.cut : [];
+  const opts = w.opts.map((o, k) => {
+    let cls = "opt", key = "ABCD"[k] + ".";
+    if (removed.includes(k)) cls += " removed";
+    if (answered) {
+      if (o.real) { cls += " right"; key = `<img src="${CHECK}" alt="Real">`; }
+      else if (k === pick) { cls += " wrong"; key = `<img src="${CROSS}" alt="Your pick">`; }
+      else cls += " dim";
+    }
+    const dis = answered || removed.includes(k);
+    return `<button class="${cls}" data-opt="${k}" ${dis ? "disabled" : ""}><span class="k">${key}</span><span><span class="t">${esc(o.t)}</span></span></button>`;
+  }).join("");
+  const foot = answered
+    ? `<span class="stamp ${right ? "ok" : ""}" role="status">${right ? "Real!" : "Conned!"}</span><button class="turn" id="next">${i === 2 ? "See results →" : "Turn the page →"}</button>`
+    : `<span class="nudge">Pick the real one. Stuck? Peel off a sticky note.</span>`;
+  return `${header()}
+    <div class="prog">word ${i + 1} of 3 <span class="boxes">${boxes}</span></div>
+    <h1 class="hw" style="--n:${w.w.length}">${esc(w.w)}</h1>
+    <div class="pron">/${esc(w.p)}/ · <i>${esc(w.pos)}</i></div>
+    ${reveals}
+    <div class="opts" role="group" aria-label="Definitions">${opts}</div>
+    <div class="foot">${foot}</div>`;
+}
+
+function resultsHTML() {
+  const score = scoreOf();
+  const verdicts = ["The fakes won today.", "One real, two cons.", "Two out of three. Hard to fool.", "Perfect page. Nobody conned you."];
+  const st = store(KEY_STATS) || {};
+  const used = HINTS.filter(h => S.hints[h.id] !== null).map(h => h.name);
+  const items = P.map((w, i) => `<li><img src="${isRight(i) ? CHECK : CROSS}" alt="${isRight(i) ? "Got it" : "Missed"}"><div><b>${esc(w.w)}</b> <span class="def">${esc(w.d)}.</span></div></li>`).join("");
+  return `${header()}
+    <div class="prog">today’s page</div>
+    <p class="score">${score}<small> / 3</small></p>
+    <p class="verdict">${verdicts[score]}</p>
+    <ul class="recap">${items}</ul>
+    <div class="facts">
+      days played <b>${st.played || 1}</b> · perfect streak <b>${st.streak || 0}</b> · words known <b>${st.correct || score}</b><br>
+      hints spent: <b>${used.length ? used.join(", ") : "none"}</b><br>
+      <span id="countdown"></span>
+    </div>
+`;
+}
+
+function renderNotes() {
+  const answered = !S.done && S.picks[S.cur] !== null;
+  const left = HINTS.filter(h => S.hints[h.id] === null).length;
+  $("hint-count").textContent = `Hints · ${left} left`;
+  $("notes").innerHTML = HINTS.map(h => {
+    const used = S.hints[h.id], spent = used !== null, locked = !spent && (answered || S.done);
+    return `<div class="note-wrap"><button class="note ${spent ? "used" : ""} ${locked ? "locked" : ""}" style="--c:${h.c}" data-hint="${h.id}" ${spent || locked ? "disabled" : ""}>
+      <b>${h.name}</b><small>${spent ? "Used on word " + (used + 1) : h.desc}</small></button></div>`;
+  }).join("");
+}
+
+function render() { renderPage(); renderNotes(); requestAnimationFrame(() => { drawBook(); drawDesk(); }); }
+
+function flipTo(update) {
+  const page = $("page"), book = $("book"), bc = $("bookCanvas");
+  if (reduced) { update(); return; }
+  const two = $("leftpage").offsetWidth > 0;
+  const fl = document.createElement("div");
+  fl.className = "flipper";
+  Object.assign(fl.style, {left: page.offsetLeft + "px", top: page.offsetTop + "px", width: page.offsetWidth + "px", height: page.offsetHeight + "px", transformOrigin: two ? "-24px 50%" : "0 50%"});
+  const px = Math.round(page.offsetLeft / PX), py = Math.round(page.offsetTop / PX), pw = Math.round(page.offsetWidth / PX), ph = Math.round(page.offsetHeight / PX);
+  const mk = (cls, srcX) => {
+    const f = document.createElement("div"); f.className = "face " + cls;
+    const cv = document.createElement("canvas"); cv.width = pw; cv.height = ph;
+    cv.getContext("2d").drawImage(bc, srcX, py, pw, ph, 0, 0, pw, ph);
+    f.appendChild(cv); return f;
+  };
+  const front = mk("front", px);
+  const clone = page.cloneNode(true); clone.removeAttribute("id"); clone.inert = true; front.appendChild(clone);
+  const back = mk("back", two ? Math.round($("leftpage").offsetLeft / PX) : px);
+  fl.append(front, back);
+  book.appendChild(fl);
+  update();
+  const end = two ? {transform: "rotateY(-180deg)"} : {transform: "rotateY(-115deg)", opacity: 0};
+  const a = fl.animate([{transform: "rotateY(0deg)", opacity: 1}, end], {duration: 720, easing: "steps(9, end)", fill: "forwards"});
+  front.animate([{filter: "brightness(1)"}, {filter: "brightness(.72)"}], {duration: 360, easing: "steps(4, end)", fill: "forwards"});
+  a.onfinish = () => fl.remove();
+}
+
+function finish() {
+  const score = scoreOf();
+  const st = store(KEY_STATS) || {played: 0, streak: 0, correct: 0, last: null};
+  if (PREVIEW === null && st.last !== S.day) {
+    st.streak = score === 3 ? (st.last === S.day - 1 ? st.streak + 1 : 1) : 0;
+    st.played += 1; st.correct += score; st.last = S.day;
+    store(KEY_STATS, st);
+  }
+  flipTo(() => { S.done = true; save(); render(); });
+}
+
+function updateCountdown() {
+  const el = $("countdown"); if (!el) return;
+  const n = new Date(), mid = new Date(n.getFullYear(), n.getMonth(), n.getDate() + 1);
+  const s = Math.max(0, Math.floor((mid - n) / 1000)), pad = x => String(x).padStart(2, "0");
+  el.textContent = `next words in ${pad(Math.floor(s / 3600))}:${pad(Math.floor(s / 60) % 60)}:${pad(s % 60)}`;
+}
+
+document.addEventListener("click", e => {
+  const opt = e.target.closest("[data-opt]");
+  if (opt && !opt.disabled) { S.picks[S.cur] = +opt.dataset.opt; save(); render(); return; }
+  const hint = e.target.closest("[data-hint]");
+  if (hint && !hint.disabled) { S.hints[hint.dataset.hint] = S.cur; save(); render(); return; }
+  if (e.target.closest("#next")) {
+    if (S.cur === 2) finish(); else flipTo(() => { S.cur++; save(); render(); });
+    return;
+  }
+  if (e.target.closest("#rules-btn")) { $("rules").showModal(); return; }
+  if (e.target.closest("#rules-close") || e.target === $("rules")) $("rules").close();
+});
+document.addEventListener("keydown", e => {
+  if (!S || S.done || $("rules").open || e.metaKey || e.ctrlKey || e.altKey) return;
+  const k = "abcd".indexOf(e.key.toLowerCase());
+  if (k >= 0) { const b = document.querySelector(`[data-opt="${k}"]`); if (b && !b.disabled) b.click(); }
+  if (e.key === "Enter" || e.key === "ArrowRight") { const n = $("next"); if (n) { e.preventDefault(); n.click(); } }
+});
+
+async function fetchJSON(url) {
+  const res = await fetch(url, {cache: "no-cache"});
+  if (!res.ok) throw new Error(url + " " + res.status);
+  return res.json();
+}
+
+function message(html) {
+  S = null;
+  $("page").innerHTML = `<div class="hdr"><span class="date">Lexiconned</span><button class="q" id="rules-btn" aria-label="How to play">?</button></div><p class="loading">${html}</p>`;
+  $("notes").innerHTML = ""; $("hint-count").textContent = "";
+  requestAnimationFrame(() => { drawBook(); drawDesk(); });
+}
+
+async function load() {
+  try {
+    if (!MANIFEST) {
+      MANIFEST = await fetchJSON("words/manifest.json");
+      const [y, m, d] = MANIFEST.launch.split("-").map(Number);
+      LAUNCH = Date.UTC(y, m - 1, d);
+    }
+    const day = Math.max(0, today());
+    if (day >= MANIFEST.days) { message("That’s every page in the notebook so far. New words are on the way."); return; }
+    const date = new Date(LAUNCH + day * 864e5);
+    const key = date.getUTCFullYear() + "-" + String(date.getUTCMonth() + 1).padStart(2, "0");
+    const month = MONTHS[key] || (MONTHS[key] = await fetchJSON(`words/${key}.json`));
+    P = puzzle(day, month.days[day - month.first_day]);
+    const saved = S && S.day === day ? S : (PREVIEW === null ? store(KEY_DAY) : null);
+    S = saved && saved.day === day ? saved : fresh(day);
+    render();
+  } catch (err) {
+    message("Couldn’t load today’s words. Check your connection and reload the page.");
+  }
+}
+
+function start() {
+  CHECK = spriteURL(["......X", ".....XX", "X...XX.", "XX.XX..", ".XXX...", "..X...."], "#2f7d45");
+  CROSS = spriteURL(["X.....X", "XX...XX", ".XX.XX.", "..XXX..", ".XX.XX.", "XX...XX"], "#c23b2e");
+  drawPencil();
+  message("Opening today’s page…");
+  load();
+  clearInterval(tick);
+  tick = setInterval(() => { if (!LAUNCH) return; if (!S || S.day !== Math.max(0, today())) { if (S) load(); } else updateCountdown(); }, 1000);
+  let raf;
+  const redraw = () => { cancelAnimationFrame(raf); raf = requestAnimationFrame(() => { drawBook(); drawDesk(); }); };
+  new ResizeObserver(redraw).observe($("book"));
+  addEventListener("resize", redraw);
+  if (document.fonts) document.fonts.ready.then(redraw);
+}
+start();
+</script>
+</body>
+</html>
