@@ -1,0 +1,452 @@
+[
+{
+"w": "gault",
+"pos": "noun",
+"senses": [
+"A type of stiff, blue clay, sometimes used for making bricks."
+],
+"ety": "Of local origin, used by quarrymen and brickmakers to refer to the type of soil. First attested in writing as \"golt\" in 1815 (William Smith) and \"gault\" in 1816 (J Hailstone).",
+"examples": [],
+"p": null
+},
+{
+"w": "lunisolar",
+"pos": "adjective",
+"senses": [
+"Of a calendar, based on both the lunar month and the solar year."
+],
+"ety": "From luni- + solar.",
+"examples": [
+"The holidays are all happening within two days this year because several long solar, lunar and lunisolar calendar cycles sync up."
+],
+"p": null
+},
+{
+"w": "collectorate",
+"pos": "noun",
+"senses": [
+"The district or seat of a collector of customs; a collectorship."
+],
+"ety": "From collector + -ate (forms nouns denoting rank or office).",
+"examples": [],
+"p": null
+},
+{
+"w": "ostro",
+"pos": "noun",
+"senses": [
+"A southerly Mediterranean wind."
+],
+"ety": "Borrowed from Italian ostro. Doublet of Auster.",
+"examples": [],
+"p": null
+},
+{
+"w": "doppel",
+"pos": "noun",
+"senses": [
+"An identical copy of a person (such as a clone, virtual reality representation, etc.)."
+],
+"ety": "A clipping of doppelganger; however, the words are not synonyms.",
+"examples": [],
+"p": "DAH-pul"
+},
+{
+"w": "castanet",
+"pos": "noun",
+"senses": [
+"A single handheld percussion instrument consisting of a pair of concave shells or shell-shaped parts joined on one edge by string."
+],
+"ety": "From Spanish castañeta, diminutive form of castaña, from Latin castanea, from Ancient Greek καστάνεια (kastáneia, “chestnut”), possibly of Pre-Greek origin. Related to the chest in chestnut, formerly chesten.",
+"examples": [],
+"p": "kas-tuh-NET"
+},
+{
+"w": "workbox",
+"pos": "noun",
+"senses": [
+"A toolbox; a container for the items needed to carry out a task.",
+"A set of skills and approaches."
+],
+"ety": "From work + box.",
+"examples": [
+"The sewing workbox held fabric, needles, notions, patterns, and other supplies."
+],
+"p": null
+},
+{
+"w": "jackaroo",
+"pos": "noun",
+"senses": [
+"A trainee station manager or owner, working as a stockman or farm hand; formerly, a young man of independent means working at a station in a supernumerary capacity to gain experience."
+],
+"ety": "Obscure. Possibly from an Aboriginal term meaning wandering white man.",
+"examples": [
+"But this is the tale of a Jackaroo that came from a foreign strand, / And the fight that he fought with Saltbush Bill, the King of the Overland."
+],
+"p": null
+},
+{
+"w": "primitivism",
+"pos": "noun",
+"senses": [
+"The state or quality of being primitive.",
+"The opinion that life was better or more moral among primitive peoples, or among children, and has deteriorated with civilization.",
+"Any of a group of related styles in the arts, influenced by a belief in the superiority of primitive forms."
+],
+"ety": "From primitive + -ism.",
+"examples": [
+"Exuberant in its primitivism, High Kicks has a joyous, slightly naive spark that sometimes evokes the sort of tuneful messes to which Calvin Johnson's name is often attached."
+],
+"p": null
+},
+{
+"w": "rhema",
+"pos": "noun",
+"senses": [
+"A spiritual communication or inspiration from God to an individual, as opposed to the universal Logos."
+],
+"ety": "From Ancient Greek ῥῆμα (rhêma).",
+"examples": [],
+"p": null
+},
+{
+"w": "oshana",
+"pos": "noun",
+"senses": [
+"A kind of seasonally inundated depression, particularly in Namibia's Oshana Region."
+],
+"ety": "From Kwanyama oshana.",
+"examples": [],
+"p": null
+},
+{
+"w": "fakie",
+"pos": "noun",
+"senses": [
+"The act of riding a BMX bicycle backwards and pedalling with the sprocket movement while moving backwards, then turning the bars away from the desired direction and sliding out so as to ride forwards again.",
+"A breast implant (almost always used in plural, as \"fakies\", because a woman has two of them)."
+],
+"ety": "From fake + -ie?",
+"examples": [],
+"p": null
+},
+{
+"w": "mustachio",
+"pos": "noun",
+"senses": [
+"A mustache, especially a large or lush one."
+],
+"ety": "Borrowed from the Italian dialectal mustaccio (from Neapolitan) or mustacchio, ultimately from Ancient Greek.",
+"examples": [
+"Dompierre twirled his mustachios in relieved approval."
+],
+"p": null
+},
+{
+"w": "homolog",
+"pos": "noun",
+"senses": [
+"A belief, practice, concept, or artifact that has a counterpart in another culture."
+],
+"ety": "Borrowed from French homologue, From Ancient Greek ὁμόλογος (homólogos, “agreeing, of one mind”), equivalent to homo- + -log.",
+"examples": [],
+"p": "HAH-muh-lahg"
+},
+{
+"w": "dolcetto",
+"pos": "noun",
+"senses": [
+"A grape variety from Piedmont, used to make a red wine.",
+"The dry, slightly bitter wine made from this grape."
+],
+"ety": "Borrowed from Italian, a diminutive of dolce (“sweet”). Doublet of dulcet and doucet.",
+"examples": [],
+"p": "dohl-CHET-oh"
+},
+{
+"w": "clubman",
+"pos": "noun",
+"senses": [
+"A man who attends a social club.",
+"A warrior who uses a club as a weapon."
+],
+"ety": "From club + -man.",
+"examples": [
+"The fattest clubman in London. He sits at one of the little club tables in the huge bay by the fire, stuffing.",
+"The clubmen were second-class warriors. They wore closely woven braided coconut-husk armor and would drill with their clubs in preparation for war."
+],
+"p": null
+},
+{
+"w": "drumlin",
+"pos": "noun",
+"senses": [
+"An elongated hill or ridge of glacial drift."
+],
+"ety": "From Irish droim (“back, ridge”) + English diminutive suffix -lin (“variant of -ling”).",
+"examples": [],
+"p": null
+},
+{
+"w": "conniver",
+"pos": "noun",
+"senses": [
+"A person who connives."
+],
+"ety": "From connive + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "progun",
+"pos": "adjective",
+"senses": [
+"Supportive of guns, especially widespread firearm training.",
+"Supportive of gun rights, especially supportive of more expansive gun rights or strongly opposed to greater gun control."
+],
+"ety": "From pro- + gun.",
+"examples": [],
+"p": null
+},
+{
+"w": "bethabara",
+"pos": "noun",
+"senses": [
+"Ipe (kind of wood)."
+],
+"ety": "Originally a trademark. Based on the Ancient Greek proper noun Βηθαβαρά (Bēthabará).",
+"examples": [],
+"p": null
+},
+{
+"w": "steeler",
+"pos": "noun",
+"senses": [
+"One who points, edges, plates or covers with steel.",
+"A steelworker."
+],
+"ety": "From steel + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "demerger",
+"pos": "noun",
+"senses": [
+"A partial or complete reversal of a previous merger.",
+"The disposal of subsidiaries or divisions of a company."
+],
+"ety": "From de- + merger.",
+"examples": [],
+"p": null
+},
+{
+"w": "rhizome",
+"pos": "noun",
+"senses": [
+"A so-called “image of thought” that apprehends multiplicities."
+],
+"ety": "Borrowed from Ancient Greek ῥίζωμα (rhízōma). As philosophical metaphor, used by Gilles Deleuze and Félix Guattari.",
+"examples": [],
+"p": "RY-zohm"
+},
+{
+"w": "kantele",
+"pos": "noun",
+"senses": [
+"A plucked string instrument (a zither) of the Baltic psaltery family, traditionally with five strings but now more widely varying, originating in the folk music of Finland, where it is seen as a national symbol."
+],
+"ety": "From Finnish kantele. Ultimate etymology contested; see Proto-Finnic *kandël for theories.",
+"examples": [],
+"p": "KAHN-tuh-lay"
+},
+{
+"w": "steelpan",
+"pos": "noun",
+"senses": [
+"A percussion instrument consisting of a drum made of steel, originally from Trinidad.",
+"A style of music incorporating steelpans."
+],
+"ety": "From steel + pan.",
+"examples": [
+"Inside, it’s dim and cool, quiet except for some boys up in the loft at the back playing on the steelpan, not really playing seriously, just tapping notes at random, practising rolling the sticks."
+],
+"p": null
+},
+{
+"w": "scrapple",
+"pos": "noun",
+"senses": [
+"A tool for scraping."
+],
+"ety": "Related to scrape.",
+"examples": [],
+"p": "SKRAP-ul"
+},
+{
+"w": "togarashi",
+"pos": "noun",
+"senses": [
+"chili peppers or chili pepper-related products from Japan, specifically the spice mixture consisting of mandarin orange peel, sesame seed, poppy seed, hemp seed, nori or aonori, and ground sansho"
+],
+"ety": "Borrowed from Japanese 唐辛子 (tōgarashi), Japanese for the genus Capsicum, or specifically the species Capsicum annuum, and commonly translated as “chili pepper”.",
+"examples": [],
+"p": null
+},
+{
+"w": "gutty",
+"pos": "adjective",
+"senses": [
+"Charged or sprinkled with drops."
+],
+"ety": "From goutte + -y, or anglicization of (Old or Middle French) goutté, ultimately from Latin gutta (“drop (of a liquid)”) (also the ultimate source of English goutte and French goutte). Compare guttated.",
+"examples": [],
+"p": null
+},
+{
+"w": "korma",
+"pos": "noun",
+"senses": [
+"A curry made from various spices especially coriander and cumin; and often with yoghurt sauce or nuts.",
+"A curry of meat slowly braised with ghee.",
+"A mild curry (typically the mildest on a given menu), often with a fragrant coconut sauce."
+],
+"ety": "From Hindustani قورْمَہ (qorma) / क़ोरमा (qormā), from Classical Persian قورْمَه (qōrma) (from which Iranian Persian قُرْمِه (ġorme)), from Turkic (likely Ottoman Turkish قاورمه (kavurma, “roasted meat”), verbal noun of قاورمق (kavurmak)).",
+"examples": [
+"No.6 COMPOSITION FOR MAKING KORMAH. Take Meat, ½ ser (1lb.)",
+"Well-to-do people occasionally take rich rice dishes prepared in ghee such as polao and korma. Such rich dishes are often arranged on marriage and ceremonial oссаsions",
+"No weaning cookbook would be complete without a chicken korma recipe! The mildest tasting curry of all, with a hint of citrusy orange combined with all those lovely aromatic spices, this curry is a real treat for baby."
+],
+"p": null
+},
+{
+"w": "legwear",
+"pos": "noun",
+"senses": [
+"Clothing and accessories intended to be worn on the leg, especially hosiery."
+],
+"ety": "From leg + -wear.",
+"examples": [],
+"p": null
+},
+{
+"w": "madrone",
+"pos": "noun",
+"senses": [
+"A strawberry tree (Arbutus unedo).",
+"Any of three local relatives",
+"A Pacific madrone (Arbutus menziesii)",
+"A Arizona madrone (Arbutus arizonica)",
+"A Texas madrone (Arbutus xalapensis)"
+],
+"ety": "Anglicization of Mexican Spanish madroño.",
+"examples": [
+"Dig a big pit in a dirt alley road / Fill it with madrone and bay / Stinks like hell and the neighbours complain / Don't give a hoot what they say."
+],
+"p": null
+},
+{
+"w": "summative",
+"pos": "adjective",
+"senses": [
+"Synonym of additive.",
+"Synonym of summary (adjective).",
+"Denoting forms of assessment used to quantify educational outcomes."
+],
+"ety": "From sum + -ative.",
+"examples": [],
+"p": "SUM-uh-tiv"
+},
+{
+"w": "preventer",
+"pos": "noun",
+"senses": [
+"One who, or that which, prevents."
+],
+"ety": "From prevent + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "nonlinearity",
+"pos": "noun",
+"senses": [
+"A deviation from linearity."
+],
+"ety": "From non- + linearity.",
+"examples": [],
+"p": null
+},
+{
+"w": "snoozy",
+"pos": "adjective",
+"senses": [
+"Sleep-inducing; tedious.",
+"Sleepy; drowsy."
+],
+"ety": "From snooze + -y.",
+"examples": [
+"While the basic automatic-transmission 528xi takes a snoozy 7.6 seconds to reach 60 miles an hour, the 535xi blazes there in 5.6 seconds, a remarkable two-second advantage.",
+"She places the snoozy child in the car seat at her feet."
+],
+"p": null
+},
+{
+"w": "scape",
+"pos": "noun",
+"senses": [
+"The basal segment of an insect's antenna (i.e. the part closest to the body).",
+"The basal part, more specifically known as the oviscape, of the ovipositor of an insect.",
+"The shaft of a column.",
+"The apophyge of a shaft."
+],
+"ety": "From Latin scāpus, from Doric Greek σκᾶπος (skâpos). Doublet of native English shaft.",
+"examples": [],
+"p": "SKAYP"
+},
+{
+"w": "nataka",
+"pos": "noun",
+"senses": [
+"A kind of epic Indian drama."
+],
+"ety": "Ultimately from Sanskrit नाटक (nāṭaka).",
+"examples": [],
+"p": null
+},
+{
+"w": "picoplankton",
+"pos": "noun",
+"senses": [
+"The plankton composed of cells between 0.2 and 2 micrometers."
+],
+"ety": "From pico- + plankton.",
+"examples": [
+"He and P. W. Johnson confirmed the recent discovery of a species of photosynthetic picoplankton, using electron microscopes to perceive fluorescence produced by the chlorophyll of the organisms."
+],
+"p": null
+},
+{
+"w": "wilty",
+"pos": "adjective",
+"senses": [
+"Tending to wilt."
+],
+"ety": "From wilt + -y.",
+"examples": [
+"A few wilty plants stood in pots on the window-ledge."
+],
+"p": null
+},
+{
+"w": "chipolata",
+"pos": "noun",
+"senses": [
+"A type of sausage from Europe, typically of seasoned coarsely ground pork."
+],
+"ety": "From French chipolata, from Italian cipollata (“onion confit”), itself from cipolla (“onion”).",
+"examples": [],
+"p": "chip-uh-LAH-tuh"
+}
+]

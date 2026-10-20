@@ -1,0 +1,557 @@
+[
+{
+"w": "moneyed",
+"pos": "adjective",
+"senses": [
+"Affluent, rich.",
+"Paid for; funded"
+],
+"ety": "From money + -ed.",
+"examples": [
+"Many in these moneyed ranks choose to spend the festival in gas-guzzling luxury RVs."
+],
+"p": "MUN-eed"
+},
+{
+"w": "dandiya",
+"pos": "noun",
+"senses": [
+"A stick, representing a sword, used in the dandiya raas dance.",
+"The music which accompanies this dance."
+],
+"ety": "Shortened form of dandiya raas.",
+"examples": [
+"She started singing a traditional song as she raised her hands and struck her dandiyas on the beat."
+],
+"p": "DUN-dee-uh"
+},
+{
+"w": "innumeracy",
+"pos": "noun",
+"senses": [
+"Lack of numeracy; low numeracy."
+],
+"ety": "From in- + numeracy; coined by Douglas Hofstadter and popularized by mathematician John Allen Paulos in his 1989 book Innumeracy: Mathematical Illiteracy and its Consequences.",
+"examples": [
+"John Allen Paulos and others have asked our society to consider numeracy and innumeracy in a way closer to how we view literacy and illiteracy.",
+"The man suffered from innumeracy stemming from a brain injury, and depended on his wife for all financial matters, no matter how trivial."
+],
+"p": "ih-NYOO-muh-ruh-see"
+},
+{
+"w": "xenobiology",
+"pos": "noun",
+"senses": [
+"The speculative biology of extraterrestrial life forms.",
+"The biology of life forms with nonstandard biochemistry or codes, including synthetic life and mirror life."
+],
+"ety": "From xeno- + biology. Sometimes attributed to science-fiction author Robert A. Heinlein.",
+"examples": [
+"This massive skull is scored by deflected mass accelerator shots. The xenobiology files in your hardsuit computer can't identify the species. It must have been brought here from an unknown world."
+],
+"p": "ZEE-noh-by-ah-luh-jee"
+},
+{
+"w": "proscribe",
+"pos": "verb",
+"senses": [
+"To forbid or prohibit.",
+"To denounce.",
+"To banish or exclude."
+],
+"ety": "From Middle English proscriben, from Latin prōscrībō (“to proclaim, forbid, banish”).",
+"examples": [
+"The law proscribes driving a car while intoxicated.",
+"The word ‘ain't’ is proscribed by many authorities.",
+"Many Roman citizens were proscribed for taking part in rebellions."
+],
+"p": "PROH-skribe"
+},
+{
+"w": "bridle",
+"pos": "noun",
+"senses": [
+"A restraint; a curb; a check.",
+"A length of line or cable attached to two parts of something to spread the force of a pull, as the rigging on a kite for attaching line.",
+"A mooring hawser.",
+"A piece in the interior of a gunlock which holds in place the tumbler, sear, etc.",
+"A gesture expressing pride or vanity."
+],
+"ety": "From Middle English bridel, from Old English brīdel, from Proto-West Germanic *brigdil, from Proto-Germanic *brigdilaz (“strap, rein”), equivalent to braid + -le.",
+"examples": [
+"Let wisdom put a bridle on them before they are grown head-strong and unruly"
+],
+"p": "BRY-dul"
+},
+{
+"w": "facultative",
+"pos": "adjective",
+"senses": [
+"Not obligate; optional, discretionary or elective.",
+"That grants permission or power to do something."
+],
+"ety": "From French facultatif. By surface analysis, faculty + -ative.",
+"examples": [
+"But does the penny fare end here, said Mr. Nixon, at a merely facultative stop? Surely it ends rather at the station.",
+"The policy would be a “facultative” policy, whereby the insurers would first have assessed the risk involved in the particular shipment and decided to accept it."
+],
+"p": "FA-kul-tay-tiv"
+},
+{
+"w": "chlamydia",
+"pos": "noun",
+"senses": [
+"Any of several common, often asymptomatic, sexually transmitted diseases caused by the microorganism Chlamydia trachomatis."
+],
+"ety": "From New Latin chlamydia, from Ancient Greek χλαμύδιον (khlamúdion, “small cloak”), from χλαμύς (khlamús, “cloak”).",
+"examples": [
+"That makes sense, because we’re all looking for flowery language from our physicians. “Like the sunlight shines upon the hidden grassy meadow, so does chlamydia cast a warm glow upon your private parts.”"
+],
+"p": "kluh-MID-ee-uh"
+},
+{
+"w": "creosote",
+"pos": "noun",
+"senses": [
+"A pale yellow oily liquid, containing phenols and similar compounds, obtained by the destructive distillation of wood tar, once used medicinally.",
+"A similar brown liquid obtained from coal tar used as a wood preservative.",
+"The creosote bush.",
+"A flammable black porous brittle glassy byproduct of wood burning, typically formed inside chimneys."
+],
+"ety": "From German Kreosot in the 1830s, coined in 1832 by German natural philosopher Carl Ludwig, Baron Reichenbach, from Ancient Greek κρέας (kréas, “flesh”) + σωτήρ (sōtḗr, “preserver”) for its use as an antiseptic and meat-preservative. The creosote bush was named after its scent. By surface analysis, containing creo-.",
+"examples": [
+"On Shaw Butte, as elsewhere in the Phoenix area, creosotes are abundant, producing a plethora of small yellow flowers in late March and April."
+],
+"p": "KREE-uh-soht"
+},
+{
+"w": "tanbark",
+"pos": "noun",
+"senses": [
+"The bark of the oak (or other trees) used as a source of tannin.",
+"The spent bark used as a ground covering.",
+"Woodchips, especially when used as a ground covering on children's playgrounds."
+],
+"ety": "From tan + bark.",
+"examples": [
+"Another circle of groats, crowning a temporary pathway of tanbark flung wide around the first two rings, provided dry footing for the rest of the guests."
+],
+"p": "TAN-bark"
+},
+{
+"w": "pileus",
+"pos": "noun",
+"senses": [
+"The bell of a jellyfish.",
+"A small thin cloud attached to a cumulus cloud.",
+"A conical felt hat worn in Ancient Rome and Greece.",
+"The top of the head of a bird, from the bill to the nape."
+],
+"ety": "Borrowed from Latin pīleus, a form of pilleus (“a felt cap”).",
+"examples": [
+"The most short-lived of all the accessory clouds, pileus is also the most beautiful.",
+"Among the Romans the cap of felt was the emblem of liberty. When a slave obtained his freedom he had his head shaved, and wore instead of his hair an undyed pileus."
+],
+"p": "PIL-ee-us"
+},
+{
+"w": "idiomatic",
+"pos": "adjective",
+"senses": [
+"Resembling or characteristic of an idiom.",
+"Using many idioms."
+],
+"ety": "From Ancient Greek ἰδιωματικός (idiōmatikós, “related to an idiom”), from ἰδίωμα (idíōma, “idiom”).",
+"examples": [
+"An idiomatic phrase that warns us against Pollyannaism is \"don't count your chickens before they're hatched\"."
+],
+"p": "id-ee-uh-MAT-ik"
+},
+{
+"w": "conformal",
+"pos": "adjective",
+"senses": [
+"That conforms, especially to the shape of something.",
+"That preserves relative angles over small scales, at all but a limited number of distinct points."
+],
+"ety": "From conform + -al.",
+"examples": [
+"Some are realizable in practical computational times; others giving ‘more conformal’ 3D dose distributions take longer and some invoke technology which is not readily available, such as intensity-modulated fields.",
+"One method for delivering high doses of radiation to a small area is by using more conformal types of radiotherapy.",
+"On conformal map projections, the scale depends on location only and not direction."
+],
+"p": "kun-FOR-mul"
+},
+{
+"w": "youngin",
+"pos": "noun",
+"senses": [
+"A young one: a youth, a child, a kid, young person."
+],
+"ety": "Reduced form of young one.",
+"examples": [
+"He is my youngin, yes he is; I raised him, I did.",
+"Youngins, no respect for sammiches these days!"
+],
+"p": "YUNG-in"
+},
+{
+"w": "teleprompter",
+"pos": "noun",
+"senses": [
+"A device placed near or on a television camera that displays scrolling text, allowing a person to read a script while appearing to speak spontaneously to the camera."
+],
+"ety": "From tele- + prompter; genericized trademark, originally styled TelePrompTer.",
+"examples": [
+"He was more at ease in reading his speech off the dual screens of a teleprompter than looking up and down at a speech text on his lectern."
+],
+"p": "TEL-uh-prahmp-ter"
+},
+{
+"w": "brioche",
+"pos": "noun",
+"senses": [
+"A type of light sweet pastry or bun of French origin.",
+"A knitted cushion for the feet."
+],
+"ety": "Borrowed from French brioche.",
+"examples": [
+"She sat him at the table in the saloon, then unobtrusively she made him tea and brought him slices of brioche spread with lock keeper’s honey."
+],
+"p": "bree-ASH"
+},
+{
+"w": "spurt",
+"pos": "verb",
+"senses": [
+"To cause to gush out suddenly or violently in a stream or jet.",
+"To rush from a confined place in a small stream or jet."
+],
+"ety": "From earlier spirt, sprit (“to sprout”), from Middle English sprytten, from Old English spryttan, from Proto-West Germanic *spruttjan, ultimately from Proto-Indo-European *(s)per- (“to strew, sow, sprinkle”).",
+"examples": [
+"Thus the small jet, which hasty hands unlock, / Spurts in the gardener's eyes who turns the cock."
+],
+"p": "spurt"
+},
+{
+"w": "gastronomy",
+"pos": "noun",
+"senses": [
+"The art of preparing and eating good food.",
+"The restaurant industry.",
+"The study of the relationship between food and culture.",
+"The cooking of a particular area; cuisine."
+],
+"ety": "From French gastronomie, from Ancient Greek γαστρονομία (gastronomía), from γαστήρ (gastḗr, “stomach”) + νόμος (nómos, “knowledge, law”); by surface analysis, gastro- (“cooking”) + -nomy (“a system of rules or laws about a particular field”).",
+"examples": [
+"It is against this background that the city of Vienna, in collaboration with the Vienna Economic Chamber, has decided to issue vouchers, to be spent in the Viennese gastronomy.",
+"She is a sociable person who easily adapts to new situations, her husband works in gastronomy and her children, who also play music, quickly adapted to their primary and secondary schools.",
+"The gastronomy of Mexico is world-famous."
+],
+"p": "ga-STRON-uh-mee"
+},
+{
+"w": "picturization",
+"pos": "noun",
+"senses": [
+"The representation of something as a picture, or the adaptation of something into a picture, especially a motion picture.",
+"The setting or coordination of soundtrack music of a motion picture to events or choreography onscreen"
+],
+"ety": "From picturize + -ation.",
+"examples": [
+"In the picturization of The Clansman Mr. Griffith has set such a pace it will take a long time before one will come along that can top it in point of production, acting, photography and direction.",
+"In Dr. Monica, a picturization of a Polish play which reached the Strand screen last night, the handsome Kay Francis is cast as a renowned obstetrician.",
+"A meager talent for sketching and crayon work led me to attempt crude picturizations involving the outlandish denizens of my nighted thoughts."
+],
+"p": "pik-chuh-ruh-ih-ZAY-shun"
+},
+{
+"w": "yearn",
+"pos": "verb",
+"senses": [
+"To have a strong desire for something or to do something; to long for or to do something.",
+"To long for something in the past with melancholy or nostalgia.",
+"Of music, words, etc.: to express strong desire or longing.",
+"To have strong feelings of affection, love, sympathy, etc., toward someone.",
+"Often followed by out: to perform (music) which conveys or say (words) which express strong desire or longing."
+],
+"ety": "The verb is derived from Middle English yernen, yern (“to express or feel desire; to desire, long or wish for; to lust after; to ask or demand for”) [and other forms], from Old English ġeornan (“to desire, yearn; to beg”) [and other forms], from Proto-West Germanic *girnijan (“to be eager for, desire”), from Proto-Germanic *girnijaną (“to desire, want”), from *gernaz (“eager, willing”) (from Proto-Indo-European *gʰer- (“to yearn for”)) + *-janą (suffix forming factitive verbs from adjectives). The noun is derived from the verb.",
+"examples": [
+"All I yearn for is a simple life.",
+"You are now before my eyes, my eyes that are ready to flow with tenderness, but cannot give relief to my gushing heart, that dictates what I am now saying, and yearns to tell you all its achings.",
+"What his soul yearned after was control of his father's newly purchased sailing-ship."
+],
+"p": "yurn"
+},
+{
+"w": "ashen",
+"pos": "adjective",
+"senses": [
+"Made from the wood of the ash-tree."
+],
+"ety": "From Middle English asshen, aisshen, esscen, from Old English æsċen (“made of ashwood”), equivalent to ash + -en (“made or consisting of”). Cognate with Scots aschin, eschin (“ashen”).",
+"examples": [
+"An ashen bow and quiver of arrows beside."
+],
+"p": "ASH-un"
+},
+{
+"w": "pinole",
+"pos": "noun",
+"senses": [
+"A coarse flour made from ground toasted maize kernels, often mixed with herbs, which may be eaten by itself or incorporated into drinks."
+],
+"ety": "From Mexican Spanish pinole, from Classical Nahuatl pinolli (“flour, ground maize or chia”).",
+"examples": [
+"But all of them also called for obscure ingredients  whole cacao beans and a toasted corn flour called pinole, for example."
+],
+"p": "pee-NOH-lay"
+},
+{
+"w": "knell",
+"pos": "verb",
+"senses": [
+"To ring a bell slowly, especially for a funeral; to toll.",
+"To signal or proclaim something (especially a death) by ringing a bell.",
+"To summon by, or as if by, ringing a bell."
+],
+"ety": "From Middle English knyllen, from Old English cnyllan (“to strike; knock; clap”), from Proto-West Germanic *knuʀlijan, from Proto-Germanic *knuzlijaną (“to beat; push; mash”), from Proto-Indo-European *gen- (“to squeeze, pinch, kink, ball up”).",
+"examples": [
+"The chill rain is falling, the nipt worm is crawling, The rivers are swelling, the thunder is knelling For the year",
+"Let thy friends be as the dead in doom, And build to them a final tomb; Let the starred shade that nightly falls Still celebrate their funerals, And the bell of beetle and of bee Knell their melodious memory.",
+"The church bells knelled the peaceful ending of the day, while the purple shades of night descended sadly and majestically on the low chain of neighbouring hills."
+],
+"p": "nel"
+},
+{
+"w": "pronto",
+"pos": "adverb",
+"senses": [
+"Quickly, very soon, promptly."
+],
+"ety": "Borrowed from Spanish pronto, from Latin prōmptus. Doublet of prompt.",
+"examples": [
+"I need to finish this assignment pronto.",
+"You really can't handle hot weather. If a host has a fever, get out of there pronto."
+],
+"p": "PRAHN-toh"
+},
+{
+"w": "apace",
+"pos": "adverb",
+"senses": [
+"Quickly, rapidly, with speed."
+],
+"ety": "From Middle English apās (“step by step, slowly; quickly, rapidly; at once, promptly”), from Old French à pas (“at a quick pace”).",
+"examples": [
+"Construction of the new offices is proceeding apace.",
+"Twilight was coming on apace and a star or two was already out, but the remains of the sunset could still be seen in the west.",
+"On the three major railway systems of Ireland, changeover to diesel traction has continued apace during the past year."
+],
+"p": "uh-PAYS"
+},
+{
+"w": "haggard",
+"pos": "adjective",
+"senses": [
+"Looking exhausted, worried, or poor in condition",
+"Wild or untamed"
+],
+"ety": "From Middle French haggard, from Old French faulcon hagard (“wild falcon”) ( > French hagard (“dazed”)), from Middle High German hag (“coppice”) ( > archaic German Hag (“hedge, grove”)). Akin to Frankish *hagia ( > French haie (“hedge”))",
+"examples": [
+"A gradual descent into a haggard and feeble state.",
+"The years of hardship made her look somewhat haggard.",
+"Staring his eyes, and haggard was his look."
+],
+"p": "HAG-erd"
+},
+{
+"w": "hilarity",
+"pos": "noun",
+"senses": [
+"A great amount of amusement, usually accompanied by much laughter.",
+"Something that induces much laughter."
+],
+"ety": "From Latin hilaritās (“cheerfulness”), from hilaris (“cheerful”), from Ancient Greek ἱλαρός (hilarós, “cheerful”). By surface analysis, Latin hilar(ō) + -i- + -ty.",
+"examples": [
+"When the new baby's rubber duck squeaked at the wedding, hilarity ensued.",
+"In the rattle of the box, and of their agreeable conversation, Sir Francis’s spirits rose to their accustomed point of feeble hilarity.",
+"Many other Latin imports have become staples of our diet, like the burrito, which in Spanish means \"little donkey.\" What other food-related hilarities are we missing out on?"
+],
+"p": "hih-LAR-ih-tee"
+},
+{
+"w": "ulceration",
+"pos": "noun",
+"senses": [
+"The development of an ulcer.",
+"An ulcerous condition."
+],
+"ety": "From ulcer + -ation.",
+"examples": [
+"Chronic venous disease includes cosmetically undesirable telangiectasias, varicose veins, venous ulceration, and claudication."
+],
+"p": "ul-suh-RAY-shun"
+},
+{
+"w": "sidhe",
+"pos": "noun",
+"senses": [
+"A fairy in Gaelic folklore (a member of the Sidhe).",
+"A fairy mound or hill, or a fairy palace or hollow within a hill, in Gaelic folklore."
+],
+"ety": "From obsolete Irish sídhe (now spelled sí). See Sidhe for more.",
+"examples": [
+"The second time Brieden saw a sidhe was more than a year later.",
+"For quotations using this term, see Citations:sidhe."
+],
+"p": "shee"
+},
+{
+"w": "daebak",
+"pos": "adjective",
+"senses": [
+"Awesome, cool."
+],
+"ety": "Borrowed from Korean 대박 (daebak).",
+"examples": [
+"His variety and drama shows are just daebak!"
+],
+"p": "DEB-ak"
+},
+{
+"w": "honoree",
+"pos": "noun",
+"senses": [
+"One who receives an honor or award."
+],
+"ety": "From honor + -ee.",
+"examples": [
+"It was perhaps the most public example of the “manterruption” – that is, a man interrupting a woman while she’s trying to speak (in this case, on stage, by herself, as an award honoree) and taking over the floor."
+],
+"p": "ahn-er-EE"
+},
+{
+"w": "eyelet",
+"pos": "noun",
+"senses": [
+"An object that consists of a rim and small hole or perforation to receive a cord or fastener, as in garments, sails, etc. An eyelet may reinforce a hole.",
+"Cotton fabric with small holes.",
+"The contact tip of the base of a light bulb.",
+"A little eye."
+],
+"ety": "From Middle English oylet, from Old French oillet, equivalent to Old French oil (“eye”) + -et (diminutive suffix). Spelling and pronunciation were later on influenced by eye (which is distantly related to oil via Proto-Indo-European) as though suffixed with -let (a double diminutive also from -et).",
+"examples": [
+"Push the aglet of the shoelace through each of the eyelets, one at a time."
+],
+"p": "EYE-lut"
+},
+{
+"w": "tiffin",
+"pos": "noun",
+"senses": [
+"A (light) midday meal or snack; luncheon.",
+"A box or container used to carry a tiffin.",
+"A cake-like confection composed of crushed biscuits, sugar, syrup, raisins, cherries and cocoa powder, often covered with a layer of melted chocolate."
+],
+"ety": "Apparently from English tiffing, present participle of tiff (“to take a small drink, to sip”) (slang).",
+"examples": [
+"He took his tiffin from home and ate the food two hours later in school.",
+"That garden belongs to Manockjee Metta; that day many of us met and had tiffin and supper. At tiffin there were ten of us.",
+"Had tiffin at 11.30 a.m. 1½ rations of rice with fried fish. Added frying oil and soup powder. Excellent, both in quantity and quality, but stomach is a bit troublesome. Can't wonder at it really!"
+],
+"p": "ih-fin"
+},
+{
+"w": "sprightly",
+"pos": "adjective",
+"senses": [
+"Animated, gay, or vivacious; lively, spirited.",
+"Of a person: full of life and vigour, especially with a light and springy step.",
+"Especially of an older person: energetic and in good health; spry."
+],
+"ety": "From spright + -ly (suffix forming adjectives with the sense ‘behaving like, having the nature of’). Spright is an obsolete variant of sprite (“a shade, spirit; elf, fairy, goblin; apparition, ghost”), from Middle English sprit (“principle of life; soul, especially at the point of death; immaterial being (angel, demon, apparition, ghost, etc.); divine inspiration; Holy Spirit; the mind, intellect, reason; mental faculties, senses; power of prophecy; character, disposition; courage, resolution; mood, state of mind; human will; breath; (alchemy) volatile substance”) [and other forms], from Anglo",
+"examples": [
+"Next vnto lumpish Saturn, sprightlie Iove / Moves in his orbe.",
+"This youth was ance a sprightlie boy / As ever lived in Linne."
+],
+"p": "SPRITE-lee"
+},
+{
+"w": "magisterial",
+"pos": "adjective",
+"senses": [
+"Befitting the status or skill of a magister or master; authoritative, masterly."
+],
+"ety": "From Late Latin magisterialis, from Latin magisterium.",
+"examples": [
+"The economist and demographer David Lam, in his magisterial 2011 presidential address to the Population Association of America, identified the keys to global prosperity in the face of record rates of population growth."
+],
+"p": "mah-jih-STEER-reerl"
+},
+{
+"w": "gyaru",
+"pos": "noun",
+"senses": [
+"A Japanese subculture and fashion style popular in the 1990s, typically involving ostentatious clothing, tanning, and heavy makeup.",
+"A girl or woman of this subculture."
+],
+"ety": "From Japanese ギャル (gyaru), from English gal, from English girl.",
+"examples": [
+"In the ’90s, the Shibuya gyarus (gals) brought 109 into popular culture with their dyed blond hair, fake tans, miniskirts, and makeup."
+],
+"p": "GYAH-roo"
+},
+{
+"w": "paneer",
+"pos": "noun",
+"senses": [
+"A soft, non-matured, Indian cheese."
+],
+"ety": "Borrowed from Hindustani پَنِیر / पनीर (panīr), from Classical Persian پَنِیر (panīr). Sometimes pronounced as /pæˈnɪə(r)/, /pɑːˈnɪə(r)/ (pseudo-Gallicism).",
+"examples": [
+"The spinach was mixed with paneer to make a satisfying meal."
+],
+"p": "puh-NEER"
+},
+{
+"w": "sparge",
+"pos": "verb",
+"senses": [
+"To sprinkle or spray.",
+"To introduce bubbles into (a liquid)."
+],
+"ety": "Borrowed from Middle French espargier, from Latin spargō (whence English sparse), from Proto-Indo-European *(s)pregʰ- (“to scatter, to jerk”).",
+"examples": [
+"Bubble machines sparge water for platform diving competitions to lessen the impact."
+],
+"p": "sparj"
+},
+{
+"w": "tournedos",
+"pos": "noun",
+"senses": [
+"Filet mignon."
+],
+"ety": "Borrowed from French tournedos, from tourner (“to turn”) + dos (“back”).",
+"examples": [
+"He loves grilled chops, sole meunière, rare tournedos and fresh vegetables."
+],
+"p": "TOOR-nuh-doh"
+},
+{
+"w": "perfuse",
+"pos": "verb",
+"senses": [
+"To permeate or suffuse something, especially with a liquid or with light.",
+"To force a fluid to flow over or through something, especially through an organ of the body."
+],
+"ety": "From 1520s, from Latin perfusus, past participle of perfundo (“to pour over, besprinkle”) from per- + fundo (“to pour”) (from nasalised form of PIE root *gheu- (\"to pour\")); compare diffuse, suffuse.",
+"examples": [
+"As a patient has decreased ability to perfuse tissue, conversion of glucose into carbon dioxide and energy in the cellular level is also decreased.",
+"When AVP was perfused into punctate regions in the brain of the sheep or rabbit, the pyrogen-induced fever was suppressed.",
+"To test which solution was optimal for tissue survival, they perfused these solutions through the vasculature of canine thyroid glands, by using an apparatus with a silicone rubber oxygenator (Fig. 1.3)."
+],
+"p": "per-FYOOZ"
+}
+]

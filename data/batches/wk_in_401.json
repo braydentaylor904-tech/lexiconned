@@ -1,0 +1,458 @@
+[
+{
+"w": "barret",
+"pos": "noun",
+"senses": [
+"A kind of fitted cap worn by medieval soldiers.",
+"A floppy beret-like cap worn by musketeers.",
+"The flat cap worn by Roman Catholic ecclesiastics; a biretta."
+],
+"ety": "From French barrette, Late Latin barretum (“a cap”), from birrus (“hooded cape”). See berretta, and compare biretta.",
+"examples": [
+"His head was surmounted with a barret cap, while his hands, limbs, and feet were covered with garments of chamois leather, over which he in general wore the ponderoous and complete armour of his country.",
+"Philip was dressed simply in black velvet, having a barret-cap of the same, with small chains of gold.",
+"The Volunteer Jäger Detachments wore the Musketeer's uniform, often with a 'Barret' . This beret was a large floppy field cap, coloured black."
+],
+"p": null
+},
+{
+"w": "guideway",
+"pos": "noun",
+"senses": [
+"A track along which something is guided, such as a component in a machine, or an automated transit vehicle."
+],
+"ety": "From guide + way.",
+"examples": [],
+"p": null
+},
+{
+"w": "trancey",
+"pos": "adjective",
+"senses": [
+"Resembling or pertaining to trance music, i.e. immersively melodic with a strong electronic dance beat."
+],
+"ety": "From trance + -y.",
+"examples": [
+"Video monitors play the latest clips from Bjork and Peaches while DJs take the dance floor in a trancey direction.",
+"At the foot of the hill, trancey music from a garage party beckoned."
+],
+"p": null
+},
+{
+"w": "munchie",
+"pos": "noun",
+"senses": [
+"A person who lives in a Gaeltacht area of Ireland."
+],
+"ety": "An anglicisation of Irish muintir na hAite (literally “people of the place”).",
+"examples": [],
+"p": null
+},
+{
+"w": "clinger",
+"pos": "noun",
+"senses": [
+"An emotionally clingy person."
+],
+"ety": "From cling + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "benthos",
+"pos": "noun",
+"senses": [
+"The flora and fauna at the bottom of a body of water."
+],
+"ety": "From Ancient Greek βένθος (bénthos, “the depths”).",
+"examples": [],
+"p": "BEN-thos"
+},
+{
+"w": "goldfinch",
+"pos": "noun",
+"senses": [
+"A European goldfinch, Eurasian goldfinch (Carduelis carduelis)",
+"An American goldfinch (Spinus tristis, syn. Carduelis tristis)",
+"Lawrence's goldfinch (Spinus lawrencei, syn. Carduelis lawrencei)",
+"A lesser goldfinch (Spinus psaltria, syn. Carduelis psaltria)."
+],
+"ety": "From Middle English goldfinch, goldfynch, goldefynch, from Old English goldfinċ, equivalent to gold + finch. Compare West Frisian goudfink (“goldfinch”), Dutch goudvink (“bullfinch”), German Goldfink (“goldfinch”), Danish guldfink (“goldfinch”), Icelandic gullfinka (“goldfinch”).",
+"examples": [],
+"p": "GOHLD-finch"
+},
+{
+"w": "hydrocyclone",
+"pos": "noun",
+"senses": [
+"A cyclone separator used to remove particles from a liquid."
+],
+"ety": "From hydro- + cyclone.",
+"examples": [],
+"p": null
+},
+{
+"w": "snoopy",
+"pos": "adjective",
+"senses": [
+"Given to snooping."
+],
+"ety": "From snoop + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "terracotta",
+"pos": "noun",
+"senses": [
+"A hard red-brown unglazed earthenware, used for pottery and building construction.",
+"A reddish brown colour, like that of terra cotta."
+],
+"ety": "Borrowed from Italian terra (“earth”) + cotta (“baked”).",
+"examples": [],
+"p": "tair-uh-KAHT-uh"
+},
+{
+"w": "femtosecond",
+"pos": "noun",
+"senses": [
+"An SI unit of time equal to 10⁻¹⁵ seconds. Symbol: fs"
+],
+"ety": "From femto- + second.",
+"examples": [
+"Sheldon Cooper: My hair is growing at the rate of 4.6 yoctometers per femtosecond.",
+"The observation and manipulation of electron dynamics in matter call for attosecond light pulses, routinely available from high-order harmonic generation driven by few-femtosecond lasers."
+],
+"p": null
+},
+{
+"w": "blamey",
+"pos": "adjective",
+"senses": [
+"Tending to blame others"
+],
+"ety": "From blame + -y.",
+"examples": [],
+"p": "BLAY-mee"
+},
+{
+"w": "hypopharyngeal",
+"pos": "adjective",
+"senses": [
+"located below the pharynx"
+],
+"ety": "From hypo- + pharyngeal.",
+"examples": [],
+"p": null
+},
+{
+"w": "cento",
+"pos": "noun",
+"senses": [
+"A hotchpotch, a mixture; especially a piece made up of quotations from other authors, or a poem containing individual lines from other poems."
+],
+"ety": "From Latin cento (“patchwork garment”).",
+"examples": [
+"And Captain McCabe says: \"I have always regarded the letter as a sort of 'cento' of odds and ends (badly put together) from Lee's genuine letters.\"",
+"Paradise Lost, as Teskey observes, is a cento, a vast echo chamber of classical texts, all twisted into new shapes."
+],
+"p": null
+},
+{
+"w": "panela",
+"pos": "noun",
+"senses": [
+"An unrefined sugar product typical of Latin America, which is basically a solid piece of sucrose and fructose obtained from the boiling and evaporation of sugarcane.",
+"A white, fresh, and smooth Mexican cheese of pasteurized cow's milk similar to Indian paneer."
+],
+"ety": "Borrowed from Spanish panela.",
+"examples": [],
+"p": null
+},
+{
+"w": "musicale",
+"pos": "noun",
+"senses": [
+"A musical entertainment, usually private and typically involving classical music"
+],
+"ety": "From the French soirée musicale.",
+"examples": [
+"Mr. and Mrs. Hugh Dillman entertained two hundred guests this evening with a musicale at Playa Rienta, their ocean front home."
+],
+"p": null
+},
+{
+"w": "cairngorm",
+"pos": "noun",
+"senses": [
+"A precious stone of smoky yellow-brown or gray-brown color, used in Scottish jewellery."
+],
+"ety": "So called because found among the Cairngorms, a mountainous region in Scotland.",
+"examples": [],
+"p": null
+},
+{
+"w": "lumping",
+"pos": "adjective",
+"senses": [
+"Bulky; heavy."
+],
+"ety": "From lump + -ing.",
+"examples": [],
+"p": "LUM-ping"
+},
+{
+"w": "peaker",
+"pos": "noun",
+"senses": [
+"That which reaches or forms a peak.",
+"One whose behaviour or performance reaches a maximum (of something) at a particular time.",
+"A power station used only for, or mostly for, peaking: providing energy supply only during peak usage periods.",
+"One who climbs to the peak of one or more mountains.",
+"One who is open to peak experiences."
+],
+"ety": "From peak + -er.",
+"examples": [
+"L of them, Tryfan is clearly a three peaker from this angle, and the Glyders with their two outliers (16) complete the circle.",
+"All patients and controls who achieved maximum PHA response on day six or later were called \" late peakers\" , and those who achieved maximum PHA response on day four or earlier were called \"early peakers\" .",
+"These are the teams the program team has to watch out for. They're the peakers."
+],
+"p": null
+},
+{
+"w": "quoter",
+"pos": "noun",
+"senses": [
+"Someone who quotes."
+],
+"ety": "From quote + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "sestina",
+"pos": "noun",
+"senses": [
+"A highly structured poem consisting of six six-line stanzas followed by a tercet or envoy, for a total of thirty-nine lines.",
+"A chord comprising the first six members of the harmonic series."
+],
+"ety": "From Italian sestina. Doublet of sextain.",
+"examples": [
+"Would he let others toil to support him while he languished all afternoon over his sestinas?"
+],
+"p": null
+},
+{
+"w": "popolo",
+"pos": "noun",
+"senses": [
+"black nightshade (Solanum nigrum)."
+],
+"ety": "Borrowed from Hawaiian pōpolo from Proto-Polynesian *polo; cognate with Māori poroporo and pōporo (Solanum aviculare), Tongan polo (“Solanum nigrum”) and Tuvaluan 'opolo (“capsicum”). Skin color meaning comes from analogy to the color of its berries.",
+"examples": [
+"Popolo is a branching green herb with a tendency to being woody at the base. This annual grows one to three feet high on cultivated land and is regarded as a common weed.",
+"This mite was collected at the Maui Community College agricultural field (Kahului) on popolo berry on 19 July 1995 by C. McGrath.",
+"He turned and went back at the call of the messenger, taking some popolo fruit and leaves in his cloak."
+],
+"p": null
+},
+{
+"w": "plancher",
+"pos": "noun",
+"senses": [
+"A floor made of wood.",
+"The underside of a cornice; a soffit."
+],
+"ety": "Borrowed from French plancher.",
+"examples": [],
+"p": null
+},
+{
+"w": "dulce",
+"pos": "noun",
+"senses": [
+"seaweed; kelp"
+],
+"ety": "Alteration of dulse.",
+"examples": [],
+"p": "duls"
+},
+{
+"w": "technopark",
+"pos": "noun",
+"senses": [
+"science park"
+],
+"ety": "From techno- + park.",
+"examples": [],
+"p": null
+},
+{
+"w": "trillo",
+"pos": "noun",
+"senses": [
+"A trill or shake."
+],
+"ety": "Borrowed from Italian trillo.",
+"examples": [],
+"p": null
+},
+{
+"w": "cyclopedic",
+"pos": "adjective",
+"senses": [
+"Belonging to the circle of the sciences, or to a cyclopedia",
+"wide-ranging"
+],
+"ety": "From cyclopedia + -ic.",
+"examples": [],
+"p": null
+},
+{
+"w": "gasser",
+"pos": "noun",
+"senses": [
+"One who gasses, or poisons with gas.",
+"A kind of hot rod based on production models from the 1930s to mid-1960s, stripped of extraneous weight and jacked up using a truck beam axle to provide better weight distribution on acceleration.",
+"More generally, any car or truck that runs on pump gas, as opposed to diesel fuel, racing fuel, or a car with an electric motor.",
+"A worker in the gas industry."
+],
+"ety": "From gas + -er.",
+"examples": [
+"Gassers and allied industry personnel from coast to coast should plan to attend the trade show and each of the convention business sessions."
+],
+"p": null
+},
+{
+"w": "proletariat",
+"pos": "noun",
+"senses": [
+"Wage earners collectively; people who own no capital and depend on their labour for survival; the working class, especially when seen as engaged in a class struggle with the bourgeoisie (“the capital-owning class”).",
+"The lowest class of citizens, who had no property and few rights, and were regarded as contributing only their offspring to the state."
+],
+"ety": "Borrowed from French prolétariat, from prolétaire + -at, from Latin proletārius, from prōlēt- (“offspring”) + -ārius, from stem of prōlēs, from pro- + *olēs (“growth”), ultimately from Proto-Indo-European *h₂el- (“to grow, nourish”). By surface analysis, Latin prōlēt- + -ary + -at.",
+"examples": [],
+"p": "proh-lih-TAIR-ee-ut"
+},
+{
+"w": "tamarack",
+"pos": "noun",
+"senses": [
+"especially, Larix laricina",
+"Wood from such a tree."
+],
+"ety": "From Canadian French tamarac, believed to derive from an Algonquian word. In European languages there was contamination between tacamahac, from Nahuatl, and various Algonquian words containing the final Proto-Algonquian *-a·xkw- (“hardwood or deciduous tree”), including the sources of tamarack and hackmatack, as was already recognized by Chamberlain 1902. This makes the precise Algonquian words involved difficult to recover.",
+"examples": [],
+"p": null
+},
+{
+"w": "philosophic",
+"pos": "adjective",
+"senses": [
+"Synonym of philosophical."
+],
+"ety": "From Middle English philosophik, phylosophyk, from Old French filosofique and Latin philosophicus; equivalent to philosophy + -ic.",
+"examples": [],
+"p": "fil-uh-SAH-fik"
+},
+{
+"w": "spurge",
+"pos": "noun",
+"senses": [
+"Any plant of the spurge family, Euphorbiaceae."
+],
+"ety": "",
+"examples": [],
+"p": "spurj"
+},
+{
+"w": "updation",
+"pos": "noun",
+"senses": [
+"The act or process of updating.",
+"An instance of that process: an update."
+],
+"ety": "From update + -ion.",
+"examples": [
+"The above updation can be done through each vertex k.",
+"It then sends a message to the table updation object to create a new entry in the track table using the relevant information extracted from the flight plan table.",
+"The cost of updation in Line 7 is three Fₚ multiplications."
+],
+"p": null
+},
+{
+"w": "shunk",
+"pos": "verb",
+"senses": [
+"To impact and penetrate something with a heavy sound, like a blade hitting wood."
+],
+"ety": "Imitative. Compare shink, thunk, shlick.",
+"examples": [],
+"p": "shungk"
+},
+{
+"w": "rectorate",
+"pos": "noun",
+"senses": [
+"Synonym of rectorship."
+],
+"ety": "Borrowed from New Latin rēctōrātus.",
+"examples": [],
+"p": null
+},
+{
+"w": "microlithography",
+"pos": "noun",
+"senses": [
+"Any of several techniques for the production of microscale devices; especially the production of semiconductor devices using beams of photons or electrons."
+],
+"ety": "From micro- + lithography.",
+"examples": [],
+"p": null
+},
+{
+"w": "zaire",
+"pos": "noun",
+"senses": [
+"The unit of currency of Zaire from 1967 to 1998."
+],
+"ety": "Borrowed from French zaïre. Named after the Zaire River, another name for the Congo River.",
+"examples": [],
+"p": "zah-EER"
+},
+{
+"w": "nicor",
+"pos": "noun",
+"senses": [
+"A sea monster."
+],
+"ety": "Learned borrowing from Old English nicor.",
+"examples": [],
+"p": null
+},
+{
+"w": "ecodesign",
+"pos": "noun",
+"senses": [
+"An approach to product design that considers the environmental impact of the product during its whole life cycle.",
+"An individual design of this kind."
+],
+"ety": "From eco- + design.",
+"examples": [],
+"p": null
+},
+{
+"w": "chocker",
+"pos": "adjective",
+"senses": [
+"Tightly packed, especially with people."
+],
+"ety": "Shortened from chock-a-block.",
+"examples": [
+"The place was absolutely packed. It was chocker.",
+"The largest of these service chains in Italy is Agip, and these mini-cities in the middle of nowhere are always absolutely chocker with people. Half of Italy must be in these places at any one time.",
+"He briskly flicked through the catalogue. \"And this seemingly innocent museum is chocker with old airplane parts!\""
+],
+"p": null
+}
+]

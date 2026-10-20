@@ -1,0 +1,550 @@
+[
+{
+"w": "cocotte",
+"pos": "noun",
+"senses": [
+"small casserole (pot) for individual portions, similar to a Dutch oven",
+"demimonde, courtesan"
+],
+"ety": "Borrowed from French cocotte.",
+"examples": [
+"This one is a woman, with all a woman’s wit, combined with the heartlessness of a cocotte."
+],
+"p": "kaw-KAWT"
+},
+{
+"w": "kurgan",
+"pos": "noun",
+"senses": [
+"A prehistoric burial mound once used by peoples in Siberia and Central Asia."
+],
+"ety": "From Russian курга́н (kurgán), from a Turkic language.",
+"examples": [
+"A broad scatter of kurgan graves in the steppes contained imported Tripolye C2 pots (among other imported pot types) and a few, like Serezlievka, also contained Tripolye-like schematic rod-headed figurines."
+],
+"p": "koor-GAHN"
+},
+{
+"w": "parfait",
+"pos": "noun",
+"senses": [
+"A French parfait (parfait glacé), an iced dessert made with egg yolks, sugar, cream, and flavouring (usually fruit), sometimes with the addition of a liqueur.",
+"An American parfait, a layered dessert often consisting of fruit, ice cream, pastries, whipped topping, etc. and served in a glass, often a parfait glass.",
+"A smooth pâté, usually made from liver and flavoured with liqueurs."
+],
+"ety": "Unadapted borrowing from French parfait (“perfect”). Doublet of parfit, perfect, perfecto, and perfectus.",
+"examples": [
+"Brad hesitated, peering at the grid of spun sugar that jutted from his loganberry parfait."
+],
+"p": "PAR-fay"
+},
+{
+"w": "deism",
+"pos": "noun",
+"senses": [
+"A philosophical belief in the existence of a god (or goddess) knowable through human reason; especially, a belief in a creator god unaccompanied by any belief in supernatural phenomena or specific religious doctrines.",
+"Belief in a god who ceased to intervene with existence after acting as the cause of the cosmos."
+],
+"ety": "From French déisme, from Latin deus (“god, deity”) + -ism.",
+"examples": [
+"As the Epicureans had a Deism without a God, so the Unitarians have a Christianity without a Christ, and a Jesus but no Saviour."
+],
+"p": "DEE-ih-zum"
+},
+{
+"w": "slobber",
+"pos": "noun",
+"senses": [
+"Liquid material, generally saliva, that dribbles or drools outward and downward from the mouth.",
+"A dribbly shower (of rain).",
+"Mud, muck; a miry, slushy or muddy mixture.",
+"A jellyfish."
+],
+"ety": "From Middle English sloberen, borrowed from Middle Dutch slobberen (> Modern Dutch slobberen (“to slobber”)), related to West Frisian slobberje (“to slurp”), German Low German slubbern (“to slobber”). Doublet of slabber and slaver. Compare also German schlabbern (“to slobber”). At least in the sense of \"saliva\", apparently not related to English slob, from Irish slaba (“mud”).",
+"examples": [
+"There was dried slobber on his coat lapel.",
+"For quotations using this term, see Citations:slobber."
+],
+"p": "SLOB-er"
+},
+{
+"w": "culminate",
+"pos": "verb",
+"senses": [
+"To reach the (physical or figurative) summit, highest point, peak etc.",
+"To reach a climax; to come to a decisive point, especially an end or conclusion.",
+"To finalize, bring to a conclusion, form the climax of."
+],
+"ety": "First attested in 1647; borrowed from Medieval Latin culminātus, perfect passive participle of culminō (“to crown”) (see -ate (verb-forming suffix)), from Latin culmen (“peak, highest point”, oblique stem culmin-) + -ō (verb-forming suffix), older form columen (“top, summit”), from Proto-Italic *kolamen, from a Proto-Indo-European base *kol-, *kelH- (“to project, rise; peak, summit, top”), whence also English hill and holm.",
+"examples": [
+"The tower culminates in a point.",
+"As when his beams at noon / Culminate from the equator.",
+"The type of Cycads culminated in the Mesozoic"
+],
+"p": "KUL-muh-nayt"
+},
+{
+"w": "corncob",
+"pos": "noun",
+"senses": [
+"The central cylindrical core of an ear of corn (maize) on which the kernels are attached in rows."
+],
+"ety": "From corn + cob. The Internet slang sense emerged from a 2011 absurdist tweet by Weird Twitter personality dril in which a man furiously denies being owned as he transforms into a corncob.",
+"examples": [
+"London is like a shelled corncob on the Derby day, and there is not a clerk who could raise the money to hire a saddle with an old hack under it that can sit down on his office-stool the next day without wincing.",
+"He bit into a corncob, and Chisom watched him munch with his mouth open, his jaws working the corn like a mini grinding machine."
+],
+"p": "KORN-kahb"
+},
+{
+"w": "blackish",
+"pos": "adjective",
+"senses": [
+"somewhat black"
+],
+"ety": "From Middle English blackysshe, blakkyssh, equivalent to black + -ish.",
+"examples": [
+"Hác Sá (Black Sand) is the most popular beach in Macau. The sand is indeed a grey to blackish colour and makes the water look somewhat dirty (especially at the tide line), but it's perfectly clean."
+],
+"p": "BLAK-ish"
+},
+{
+"w": "avoirdupois",
+"pos": "noun",
+"senses": [
+"The official system of weights used in the UK between 1856 and 1963. It had been the customary system in London since 1300.",
+"The official system of weights used in the USA between 1866 and 1959.",
+"Weight; heaviness."
+],
+"ety": "From Middle English avoir de pois, aver de peis, haburdy poyse, haburdepays, haburdepeyse, from Old French aveir + de + peis (“asset of weight”), influenced by Middle French avoir + du + pois; compare French poids (“weight”).",
+"examples": [
+"It seems humanly reasonable that the three of us can woman-handle a mere man of your elderly and insulting avoirdupois."
+],
+"p": "av-er-duh-POYZ"
+},
+{
+"w": "glaive",
+"pos": "noun",
+"senses": [
+"A weapon consisting of a pole with a large blade fixed on the end, the edge of which is on the outside curve."
+],
+"ety": "From Middle English gleyve (“lance, glaive”), from Old French glaive (“lance; sword”), from Late Latin glavus. The further etymology is uncertain; one possibility is that glavus reflects Latin gladius (“sword”) crossed with clāva (“club”); another is that it derives from a re-crossing of gladius with Proto-Celtic *kladiwos (“sword”); yet another is that it is a borrowing into Late Latin from Old Irish claideb. All of the aforementioned words derive ultimately from Proto-Indo-European *kelh₂- (“to beat; to break”). The Oxford English Dictionary notes that none of these words had the oldest mean",
+"examples": [
+"With the spear comes the use of the shield; yet the San Cristoval spearmen use no such defence, but turn off spears thrown at them with long curved glaives, and the shields in use in Florida are not made in that island.",
+"At that moment Ilane swung the bladed staff—glaive, Kel remembered as it swung, they called it a glaive—in a wide side cut, slicing one pirate across the chest."
+],
+"p": "glayv"
+},
+{
+"w": "dynamism",
+"pos": "noun",
+"senses": [
+"Great energy, drive, force, or power; vigour of body, mind, or personality; oomph or pizzazz.",
+"Dynamic reality; active energy; continuous change, progress, or activity.",
+"Any of several philosophical theories that attempt to explain the universe by an immanent force."
+],
+"ety": "From English dynam(ic) (or directly from Ancient Greek δύναμις (dúnamis, “power”)) + ism.",
+"examples": [
+"The fact that the war is no longer the main issue in the election points to the dynamism of foreign affairs.",
+"Kanye West is noted for the creative dynamism displayed across his discography."
+],
+"p": "DY-nuh-miz-um"
+},
+{
+"w": "stipe",
+"pos": "noun",
+"senses": [
+"The stem of a mushroom, kelp, etc.",
+"The trunk of a tree.",
+"The caudicle within the pollinarium of an orchid flower",
+"The petiole of the frond of a fern or palm"
+],
+"ety": "From French stipe, from Latin stīpes (“a stock, post, branch”).",
+"examples": [
+"Habitually, the phosphorescence is distributed in an unequal manner upon the stipe, and the same upon the gills.",
+"The stipes or bare portion of the frond is, as a rule, about the same length as the leafy portion."
+],
+"p": "stipe"
+},
+{
+"w": "scratchy",
+"pos": "adjective",
+"senses": [
+"Characterized by scratches.",
+"Irritating; itchy.",
+"Noisy, lossy; marred by white noise or static as a result of poor or low signal, interference or unfavourable atmospheric conditions.",
+"Having popping and/or crackling sounds due to excessive wear, especially from scratch marks.",
+"Irritable; tetchy."
+],
+"ety": "From scratch + -y.",
+"examples": [
+"An indulgent playmate, Grannie would lay aside the long scratchy-looking letter she was writing (heavily crossed ‘to save notepaper’) and enter into the delightful pastime of ‘a chicken from Mr Whiteley's’.",
+"The FM station two hundred miles away was receivable, but the audio was too scratchy to positively identify.",
+"Once he almost fell asleep, and then the little record player started up in his mother and father's bedroom. Mom was playing her scratchy Elvis 45s again."
+],
+"p": "SKRACH-ee"
+},
+{
+"w": "parfum",
+"pos": "noun",
+"senses": [
+"Fragrance; perfume.",
+"A solvent containing around 15% to 40% aromatic compounds."
+],
+"ety": "Borrowed from French parfum. Doublet of perfume.",
+"examples": [
+"For Christmas, give a jewel-like flacon of this most exclusive and personal of parfums.",
+"WANTED 10 top flight salesmen in different sections to introduce fine line of parfums made expressly to sell in jewelry stores, also lighters and other exclusive imports."
+],
+"p": "par-FOOM"
+},
+{
+"w": "midair",
+"pos": "adjective",
+"senses": [
+"In the act of flight; airborne."
+],
+"ety": "From mid (adjetive) + air (noun).",
+"examples": [
+"Oh, can’t you?” The Manager paused in his midair flight and regarded the child anxiously. “ Well, if that’s the case,” he added at last, “ we can put you in the movies.”",
+"As if in a midair strike, the caribou bull comes down to land upon the hunter. There is no escape. His bulk crashes down upon you. The wooden spear handle breaks and deeply scrapes your side."
+],
+"p": "MID-AIR"
+},
+{
+"w": "futurama",
+"pos": "noun",
+"senses": [
+"A palpable depiction of a (usually sensational) vision of the future."
+],
+"ety": "A generalised application of Futurama, the name of an exhibit-cum-ride at the 1939–40 New York World’s Fair that presented a possible model of the world twenty years thence (1959–60). The name of the exhibit derives from the English word future and the suffix -rama, meaning \"a wide view of\", which ultimately comes from the Ancient Greek word ὅρᾱμᾰ (hórāmă, “a sight”, “a spectacle”, “a speculation”) — as in panorama or diorama.",
+"examples": [
+"Today we are apt to think of a fair as a mileless potpourri of trylons and flood-lighted futuramas, but in the yesterdays of our greatgrandfathers, a fair meant a cattle show.",
+"The great New York World’s Fair of my childhood, erected on top of the garbage dumps that had filled the swamps of old, making marvelous futuramas out of the midden of the present.",
+"With its emphasis on technology, its ebullient optimism, and boundless claims for design’s responsibility and power, MC is a cross between a world’s fair, a futurama, and a technology expo."
+],
+"p": "fyoo-chuh-RAH-muh"
+},
+{
+"w": "spiel",
+"pos": "noun",
+"senses": [
+"A lengthy and extravagant speech or argument usually intended to persuade.",
+"An early form of rap music."
+],
+"ety": "Borrowed from German Spiel (“game, performance”) or Yiddish שפּיל (shpil), both from Middle High German spil, from Old High German spil, from Proto-West Germanic *spil. Cognate with Old English spilian (“to revel, play”). See speel.",
+"examples": [
+"I'd love to be there with a real pretty spiel / But three little words can explain how I feel",
+"The spiel ran on; the sale was brief and brisk; / The bargains fell to bidders, one by one. / Hope flushed my cheekbones with a scarlet disk.",
+"An Air Force recruiter (Gino Anania) visits her school and delivers a spiel about anti-terrorist successes in Iraq; she contradicts him with the plain facts of the 2001 attacks."
+],
+"p": "shpeel"
+},
+{
+"w": "lenity",
+"pos": "noun",
+"senses": [
+"leniency, mercy, forgiveness"
+],
+"ety": "Borrowed from Middle French lénité, from Latin lēnitās (whence -ity), from lēnis (“soft”).",
+"examples": [
+"If his judgment in this case was erroneous, be it remembered it was his own; nor let the narrator be accountable for an excess of lenity and good nature peculiarly characteristic of the man."
+],
+"p": "LEN-ih-tee"
+},
+{
+"w": "spilt",
+"pos": "adjective",
+"senses": [
+"That has been spilled."
+],
+"ety": "From spill + -t.",
+"examples": [
+"Don't cry over spilt milk; tears won't put it back in the glass."
+],
+"p": "spilt"
+},
+{
+"w": "padmasana",
+"pos": "noun",
+"senses": [
+"A pose in which one sits cross-legged with each foot sole-upwards on the opposite leg; the lotus position."
+],
+"ety": "From Sanskrit पद्मासन (padmāsana, “lotus seat”), from पद्म (padma, “lotus”) + आसन (āsana, “asana”).",
+"examples": [
+"When he was a child of four, he sat in padmasan, his backbone a relaxed ninety degrees to the ground, for five or six hours while the singer or instrumentalist expounded a raga."
+],
+"p": "pad-MAH-suh-nuh"
+},
+{
+"w": "boulevardier",
+"pos": "noun",
+"senses": [
+"A cocktail similar to a negroni but made with bourbon instead of gin."
+],
+"ety": "Borrowed from French boulevardier, from boulevard + -ier.",
+"examples": [
+"On the revival menu: boulevardiers, martinis, Manhattans, negronis, old fashioneds and more."
+],
+"p": "buul-uh-var-DEER"
+},
+{
+"w": "tween",
+"pos": "noun",
+"senses": [
+"An action of tweening (inserting frames for continuity); a sequence of frames generated by tweening."
+],
+"ety": "Clipping of in between.",
+"examples": [
+"Because the results of a shape tween can be unpredictable, you can set shape hints to let Flash know how to proceed with the tween.",
+"A tween is a method of creating animation, where you tell Flash where to start and where to end, and Flash does all the work in the middle. There are three types of tweens: Classic, Shape, and Motion.",
+"If you select the frames first, they will be replaced by the copied tween."
+],
+"p": "tween"
+},
+{
+"w": "acclamation",
+"pos": "noun",
+"senses": [
+"A shout of approbation, favor, or assent; eager expression of approval; loud applause.",
+"The act of winning an election to a post because there were no other candidates.",
+"A representation, in sculpture or on medals, of people expressing joy.",
+"An oral vote taken without formal ballot and with much fanfare; typically an overwhelmingly affirmative vote."
+],
+"ety": "* First attested in 1541. * Borrowed from Latin acclāmātiō, acclāmātiōnis (“calling, exclamation, shout of approval”), from acclamo (“shout approval or disapproval of, shout out at”), from ad (“toward”) + clamo (“cry out”) * Compare French acclamation.",
+"examples": [
+"Sometimes a member nominates a chairman and no vote is taken, the assembly signifying their approval by acclamation.",
+"With no one running against her, she won by acclamation.",
+"The medals on which laudatory acclamations are recorded are called by antiquaries acclamation medals."
+],
+"p": "ak-luh-MAY-shun"
+},
+{
+"w": "scrip",
+"pos": "noun",
+"senses": [
+"A small medieval bag used to carry food, money, utensils etc."
+],
+"ety": "From Middle English scrippe, an aphetism of Old French escrepe (“purse, alms-bag”), a variant of escharpe, from Old Norse skreppa. Cognate with Danish skreppe (“scrip”), Norwegian skreppa (“bag”). Doublet of scarf.",
+"examples": [
+"Depositing his scrip in the outhouse the cowherd glanced around.",
+"A night promising fair, scented, the moon in her third quarter, nightingales in the wood, WS, in worn cloak against the morning’s chill, empty scrip and purse, taking the road. —"
+],
+"p": "skrip"
+},
+{
+"w": "fernet",
+"pos": "noun",
+"senses": [
+"A particular type of Italian amaro."
+],
+"ety": "From Italian fernet, of uncertain origin.",
+"examples": [
+"But few in Córdoba think fernet and Coke, like the city itself, will lose its edge."
+],
+"p": "fer-NET"
+},
+{
+"w": "fundament",
+"pos": "noun",
+"senses": [
+"The bottom; the buttocks or anus.",
+"The underlying basis or principle for a theoretical or mathematical system."
+],
+"ety": "From Middle English, from Old French fundement, fondement, from Latin fundāmentum (“foundation”), from fundō (“to lay the bottom, to found”). Doublet of fondamento.",
+"examples": [
+"Bathe the parts frequently with cold water, and, if there be much pain at stool, always squirt up the fundament, beforehand, with a syringe, half a teacupful of cold water.",
+"I flinched when he touched my rosebud, but pretty soon I was fucking his mouth like it was Hector's fundament."
+],
+"p": "FUN-duh-munt"
+},
+{
+"w": "acock",
+"pos": "adverb",
+"senses": [
+"In a cocked or turned-up fashion."
+],
+"ety": "From a- + cock.",
+"examples": [
+"He gave a sharp whistle, the Bear stopped every move, and, as he stood with ears acock, the man fired at his head."
+],
+"p": "uh-KOK"
+},
+{
+"w": "halcyon",
+"pos": "noun",
+"senses": [
+"A kingfisher whose nesting by the sea was said, in classical mythology, to cause the Gods to restrain the wind and waves.",
+"The dead body of such a bird, said in Tudor times to act as a weather vane when hung from a beam."
+],
+"ety": "Inherited from Middle English Alceoun, from Latin halcyōn, alcyōn (“kingfisher”), from Ancient Greek ἀλκυών (alkuṓn).",
+"examples": [
+"And, by the way, during those halcyon days (the halcyon was there, too, chattering above every creek, as he is all over the world) we fought another battle.",
+"Renege, affirm, and turn their halcyon beaks / With every gale and vary of their master"
+],
+"p": "HAL-see-un"
+},
+{
+"w": "toque",
+"pos": "noun",
+"senses": [
+"A type of hat with no brim.",
+"A tall white hat with no brim of the sort worn by chefs.",
+"A variety of bonnet monkey; toque macaque, Macaca sinica.",
+"An African nominal money of account, equal to 40 cowries."
+],
+"ety": "From Middle French toque (“toque”), from Arabic طَاقِيَّة (ṭāqiyya).",
+"examples": [
+"She drank a glass of wine mixed with water, took off her felt toque and her shoes, and slid beneath the red eiderdown.",
+"Chef Felder was in her early forties, slender, with short wavy brown hair, almost all of which could be contained within her toque.",
+"When I came to the back of a man's head, wearing a toque, I knew I'd spotted my quarry. \"Chef Reynoso?\""
+],
+"p": "tohk"
+},
+{
+"w": "gueuze",
+"pos": "noun",
+"senses": [
+"A Belgian beer made by blending young and old lambics and bottling them for a second fermentation."
+],
+"ety": "Unadapted borrowing from French gueuze, borrowed from Dutch geuze.",
+"examples": [
+"The gueuze blended by Hanssens of Dworp has a refreshingly fruity, rhubarby flavor."
+],
+"p": "gooz"
+},
+{
+"w": "transcribe",
+"pos": "verb",
+"senses": [
+"To make such a conversion from live or recorded speech to text.",
+"To adapt a composition for a voice or instrument other than the original; to notate live or recorded music."
+],
+"ety": "Learned borrowing from Latin trānscrībere (“to write again in another place, transcribe, copy”).",
+"examples": [
+"The doctor made several recordings today which she will transcribe into medical reports tomorrow."
+],
+"p": "tran-SKRIBE"
+},
+{
+"w": "wheely",
+"pos": "adjective",
+"senses": [
+"Circular; suitable to rotation.",
+"Having wheels; mounted on wheels; wheeled.",
+"Having characteristics of a wheel."
+],
+"ety": "From wheel + -y.",
+"examples": [
+"He sat in a wheely chair just inside the door, spinning one way and the other, lifting up his knees to spin faster.",
+"Thanks to those with their wheely suitcases, navigating around Midtown Manhattan, especially at this time of year, is like playing a game of dodge 'em."
+],
+"p": "HWEE-lee"
+},
+{
+"w": "rorqual",
+"pos": "noun",
+"senses": [
+"Any whale of family Balaenopteridae, with longitudinal skin folds running from below the mouth to the navel, allowing the capacity of the mouth to expand greatly when feeding."
+],
+"ety": "From Norwegian Nynorsk røyrkval, from Old Norse reyðarhvalr (“fin whale”).",
+"examples": [
+"Now then, the biggest whales, those rorqual whales that frequent the waterways of the Aleutian Islands, have never exceeded a length of 56 meters--if they reach even that."
+],
+"p": "ROR-kwul"
+},
+{
+"w": "asphodel",
+"pos": "noun",
+"senses": [
+"The flower said to carpet Hades, and a favorite food of the dead."
+],
+"ety": "Learned borrowing from Latin asphodelus, from Ancient Greek ἀσφόδελος (asphódelos). Doublet of daffodil.",
+"examples": [
+"Her hand he seis'd, and to a shadie bank, Thick overhead with verdant roof imbowr'd He led her nothing loath; Flours were the Couch, Pansies, and Violets, and Asphodel, And Hyacinth, Earths freshest softest lap."
+],
+"p": "AS-fuh-del"
+},
+{
+"w": "dromos",
+"pos": "noun",
+"senses": [
+"An avenue, especially in Ancient Greece.",
+"A walkway to a building, (especially) a ceremonial walkway to a temple or tomb in Ancient Greece or Egypt.",
+"A racecourse, especially in Ancient Greece."
+],
+"ety": "From Ancient Greek δρόμος (drómos, “running; racetrack”).",
+"examples": [
+"The grave chambers are usually quadrangular, with stone walls, roofs formed by projecting stones, and doors which were walled up. There is no dromos."
+],
+"p": "DRAH-mahs"
+},
+{
+"w": "foram",
+"pos": "noun",
+"senses": [
+"A foraminifer."
+],
+"ety": "Shortening of foraminifer(a).",
+"examples": [
+"Some forams allow single-celled algae to lodge on the surface of their bodies, rather as tropical coral do."
+],
+"p": "FOR-am"
+},
+{
+"w": "privity",
+"pos": "noun",
+"senses": [
+"The fact of being privy to something; knowledge, compliance."
+],
+"ety": "From Anglo-Norman priveté, privitee et al., Old French priveté, from privé + -té.",
+"examples": [
+"But this acknowledgement was made without the privity of his wife, whose vicious aversion he was obliged, in appearance, to adopt.",
+"This episode in her life, above all other things, was most cruelly suggestive to him, as possibly involving his father in the privity to a thing, at which Pierre’s inmost soul fainted with amazement and abhorrence."
+],
+"p": "PRIV-ih-tee"
+},
+{
+"w": "helluva",
+"pos": "adjective",
+"senses": [
+"(A) hell of a; extreme."
+],
+"ety": "Written form of a reduction (relaxed pronunciation) of hell of a.",
+"examples": [
+"They had a helluva row over where to spend the weekend.",
+"Where were you? - Lost in Paris. - Wow! Helluva place to get lost!"
+],
+"p": "HEL-uh-vuh"
+},
+{
+"w": "oration",
+"pos": "noun",
+"senses": [
+"A formal, often ceremonial speech.",
+"A lengthy speech or argument in a private setting.",
+"A specific form of short, solemn prayer said by the president of the liturgical celebration on behalf of the people."
+],
+"ety": "Borrowed from Latin ōrātiō, ōrātiōnem, from ōrō (“to orate”) + -tiō (“action (nominalizer)”). Cognate with and doublet of orison.",
+"examples": [
+"Sally bustled off to set on the kettle for tea, and felt half ashamed, in the quiet of the kitchen, to think of the oration she had made in the parlour.",
+"The supper things cleared away, Gerald resumed his oration, but with little satisfaction to himself and none at all to his audience."
+],
+"p": "or-AY-shun"
+},
+{
+"w": "mignonette",
+"pos": "noun",
+"senses": [
+"A plant, Reseda odorata, having greyish-green flowers with orange-coloured stamens, and exhaling a delicious fragrance. In Africa it is a low shrub, but further north it is usually an annual herb.",
+"A mignonette tree (Lawsonia inermis), source of the dye henna.",
+"A mignonette vine.",
+"A greyish-green colour, like that of the flowers of the plant."
+],
+"ety": "From French mignonnette, from mignon (“dainty”) + -ette (diminutive suffix).",
+"examples": [
+"These rooms were on a level with the apartments of our friends Bows and Costigan next door at No. 4; and by reaching over the communicating leads, Grady could command the mignonette-box which bloomed in Bows’s window."
+],
+"p": "min-yuh-NET"
+}
+]

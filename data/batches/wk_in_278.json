@@ -1,0 +1,424 @@
+[
+{
+"w": "sapio",
+"pos": "adjective",
+"senses": [
+"Sapiosexual."
+],
+"ety": "Clipping of sapiosexual.",
+"examples": [
+"I'm so sapio, the sec someone come across dumb, I'm turned off lol."
+],
+"p": null
+},
+{
+"w": "slippered",
+"pos": "adjective",
+"senses": [
+"Wearing slippers."
+],
+"ety": "From slipper + -ed.",
+"examples": [
+"Her slippered feet padded across the carpet."
+],
+"p": null
+},
+{
+"w": "famil",
+"pos": "noun",
+"senses": [
+"A free or low cost trip for travel agents or consultants, provided by a travel wholesaler or airline as a means of promoting their service."
+],
+"ety": "Shortened from familiarisation.",
+"examples": [],
+"p": null
+},
+{
+"w": "clocker",
+"pos": "noun",
+"senses": [
+"A person who clocks (illegally winds back the milometer of) a motor car",
+"A clucking hen."
+],
+"ety": "From clock + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "guara",
+"pos": "noun",
+"senses": [
+"A bird, the scarlet ibis, Eudocimus ruber, native to the tropical Atlantic coast of South America."
+],
+"ety": "Old Tupi gûará.",
+"examples": [],
+"p": "GWAH-ruh"
+},
+{
+"w": "strappado",
+"pos": "noun",
+"senses": [
+"A form of torture in which the victim is hung from the ceiling by a rope attached to the hands, which are tied together behind the victim's back."
+],
+"ety": "From Italian strappato, from strappare (“to pull”).",
+"examples": [
+"What, vpon compulsion? No: were I at the Strappado, or all the Racks in the World, I would not tell you on compulsion."
+],
+"p": null
+},
+{
+"w": "hypertrophic",
+"pos": "adjective",
+"senses": [
+"Raised but not to the extent of a keloid. Hypertrophic scars stay within the original area of a wound, while keloids extend beyond."
+],
+"ety": "From hypertroph(y) + -ic.",
+"examples": [],
+"p": "huh-ih-puh-TROF-ik"
+},
+{
+"w": "sluggy",
+"pos": "adjective",
+"senses": [
+"Resembling or characteristic of a slug (gastropod mollusk)."
+],
+"ety": "From slug + -y.",
+"examples": [],
+"p": "SLUG-ee"
+},
+{
+"w": "defoliant",
+"pos": "noun",
+"senses": [
+"An agent used to defoliate plants."
+],
+"ety": "From defoliate + -ant.",
+"examples": [],
+"p": "dee-FOH-leernt"
+},
+{
+"w": "bebop",
+"pos": "noun",
+"senses": [
+"An early form of modern jazz played by small groups and featuring driving rhythms and complex, often dissonant harmonies."
+],
+"ety": "Alteration of earlier rebop, nonsense syllables used in scat singing in the 1940s. Compare doo be doo be doo, doo-wop, etc.",
+"examples": [],
+"p": "BEE-bahp"
+},
+{
+"w": "culet",
+"pos": "noun",
+"senses": [
+"A component of armor, consisting of overlapping plates designed to protect the buttocks.",
+"A small, flat face often cut at the base of a brilliant-cut gemstone."
+],
+"ety": "From Middle French culet, diminutive of cul (“bottom”), from Latin culus (“arse”).",
+"examples": [],
+"p": "KYOO-lit"
+},
+{
+"w": "uptime",
+"pos": "noun",
+"senses": [
+"The amount of time, or the proportion of total time, during which some system or machinery is operable."
+],
+"ety": "From up (“(computing) functional, working”, adjective) + time.",
+"examples": [
+"To achieve uptime optimization, the machinery specification and actual design must be right."
+],
+"p": null
+},
+{
+"w": "methanogenic",
+"pos": "adjective",
+"senses": [
+"Capable of producing methane."
+],
+"ety": "From methano- + -genic.",
+"examples": [],
+"p": null
+},
+{
+"w": "chich",
+"pos": "noun",
+"senses": [
+"The chickpea."
+],
+"ety": "From French chiche, pois chiche (“a dwarf pea”), from Latin cicer (“the chickpea”).",
+"examples": [],
+"p": null
+},
+{
+"w": "replicable",
+"pos": "adjective",
+"senses": [
+"Possible to replicate or reproduce; reproducible."
+],
+"ety": "Borrowed from Middle French replicable, repliquable, from repliquer + -able; equivalent to replique (“to replicate”) + -able.",
+"examples": [],
+"p": "REP-lih-kuh-bul"
+},
+{
+"w": "sandbar",
+"pos": "noun",
+"senses": [
+"A ridge of sand caused by the action of waves along a shore."
+],
+"ety": "From sand + bar.",
+"examples": [],
+"p": "SAND-bar"
+},
+{
+"w": "cupper",
+"pos": "noun",
+"senses": [
+"Someone with a specific bra size."
+],
+"ety": "From cup (noun) + -er (occupational suffix) or + -er (measurement suffix).",
+"examples": [],
+"p": "KUP-er"
+},
+{
+"w": "sanctimony",
+"pos": "noun",
+"senses": [
+"A hypocritical form of excessive piety, considered to be an affectation merely for public show."
+],
+"ety": "From Middle French sanctimonie, from Latin sānctimōnia (“sanctity, sacredness; purity, chastity”), from sanctus (“holy”) + -monia (“action or result of an action”).",
+"examples": [],
+"p": "SANGK-tih-moh-nee"
+},
+{
+"w": "unmoveable",
+"pos": "adjective",
+"senses": [
+"Not able to be moved; immobile."
+],
+"ety": "From un- + moveable.",
+"examples": [],
+"p": null
+},
+{
+"w": "tzaddik",
+"pos": "noun",
+"senses": [
+"A very righteous person, especially a Hassidic spiritual leader."
+],
+"ety": "From Hebrew צַדִּיק (tsadík, “righteous person”). Many pronunciations have come under the influence of Yiddish צדיק (tsadek).",
+"examples": [],
+"p": "TSAH-deek"
+},
+{
+"w": "mamak",
+"pos": "noun",
+"senses": [
+"A roadside stall selling Muslim Tamil or Malay cuisine; by extension, a restaurant that sells similar foods.",
+"A person who owns or works in such an establishment",
+"A Tamil Muslim"
+],
+"ety": "Unadapted borrowing from Malay mamak.",
+"examples": [],
+"p": null
+},
+{
+"w": "cappelletti",
+"pos": "noun",
+"senses": [
+"A circular form of ravioli."
+],
+"ety": "Diminutive plural of Italian cappello (“hat”).",
+"examples": [],
+"p": null
+},
+{
+"w": "ordinate",
+"pos": "verb",
+"senses": [
+"To align a series of objects.",
+"To ordain a priest, or consecrate a bishop."
+],
+"ety": "Partly inherited from Middle English ordinat(e) (adjective and participle), partly directly borrowed from Latin ōrdinātus, perfect passive participle of ōrdinō, see -ate (etymology 1, 2 and 3). Doublet of ordain. Sense 5 of the verb is from a back-formation from ordination.",
+"examples": [],
+"p": "OR-dih-nayt"
+},
+{
+"w": "parametrization",
+"pos": "noun",
+"senses": [
+"The act or result of parametrizing: alternative form of parameterization."
+],
+"ety": "From parameter + -ization.",
+"examples": [],
+"p": null
+},
+{
+"w": "taiko",
+"pos": "noun",
+"senses": [
+"A Japanese drum or a performance of several drummers in an ensemble (also called kumi-daiko)."
+],
+"ety": "Borrowed from Japanese 太鼓 (たいこ taiko), from 太 (tʰàj, “great”) + 鼓 (kú, “drum”).",
+"examples": [],
+"p": "TY-koh"
+},
+{
+"w": "vallum",
+"pos": "noun",
+"senses": [
+"A rampart; a wall, as in a fortification."
+],
+"ety": "From Latin vallum. Doublet of wall comes from this word via a Proto-Germanic borrowing from Latin.",
+"examples": [],
+"p": "VAL-um"
+},
+{
+"w": "panada",
+"pos": "noun",
+"senses": [
+"A dish made by boiling bread in water and combining the pulp with milk, stock, butter or sometimes egg yolks.",
+"A thick paste or sauce made from boiling flour or breadcrumbs."
+],
+"ety": "From Spanish panada, Italian panata (“panada”).",
+"examples": [],
+"p": null
+},
+{
+"w": "biodiesel",
+"pos": "noun",
+"senses": [
+"Fuel for diesel engines made from renewable organic raw materials, as opposed to fossil hydrocarbons."
+],
+"ety": "From bio- + diesel.",
+"examples": [
+"Biodiesel is an increasingly popular alternative fuel because it's made by refining oil. Thinner than vegetable oil, biodiesel can power diesel engines without further conversion.",
+"Biodiesel is a technologically feasible alternative to petrodiesel, but nowadays biodiesel costs 1.5 to 3 times more than fossil diesel in developed countries."
+],
+"p": null
+},
+{
+"w": "colonus",
+"pos": "noun",
+"senses": [
+"A sharecropping tenant farmer of the late Roman Empire and Early Middle Ages."
+],
+"ety": "Borrowed from Latin colōnus.",
+"examples": [],
+"p": null
+},
+{
+"w": "verso",
+"pos": "noun",
+"senses": [
+"The back side of a flat object which is to be examined visually, as for reading, such as a sheet, leaf, coin or medal;",
+"The left-hand page of a book of a script which reads from left to right, usually having an even page number."
+],
+"ety": "From Latin in versō foliō (“on the turned leaf, on the turned page”), the ablative case of the Latin versus (“turned, changed”) from the perfect passive participle of vertō (“turn”). Compare rēctus (“right”).",
+"examples": [],
+"p": null
+},
+{
+"w": "oneiric",
+"pos": "adjective",
+"senses": [
+"Resembling a dream; dreamlike."
+],
+"ety": "From oneir- + -ic, ultimately from Ancient Greek ὀνείρειος (oneíreios).",
+"examples": [],
+"p": "oh-NY-rik"
+},
+{
+"w": "ineffability",
+"pos": "noun",
+"senses": [
+"The quality or state of being ineffable."
+],
+"ety": "From Latin ineffabilitas.",
+"examples": [
+"But recently, physiological studies of ritual have suggested that the ineffability of intense emotional, transformative states may be due to the dominance of right brain activity."
+],
+"p": null
+},
+{
+"w": "dacoity",
+"pos": "noun",
+"senses": [
+"Violent robbery carried out by a dacoit or a gang of dacoits."
+],
+"ety": "From dacoit + -y.",
+"examples": [],
+"p": "duh-KOY-tee"
+},
+{
+"w": "hosel",
+"pos": "noun",
+"senses": [
+"The portion of the head of a golf club to which the shaft of the club attaches."
+],
+"ety": "Equivalent to hose + -le.",
+"examples": [
+"Though largely ignored by players, hosel design is integral to the balance, feel and power of a club."
+],
+"p": null
+},
+{
+"w": "herbology",
+"pos": "noun",
+"senses": [
+"The study of herbs and their medical properties, especially when combined"
+],
+"ety": "From herb + -ology.",
+"examples": [],
+"p": "her-BOL-uh-jee"
+},
+{
+"w": "cienega",
+"pos": "noun",
+"senses": [
+"A marshy spring where groundwater bubbles to the surface."
+],
+"ety": "From Spanish ciénega (“marsh, swamp”).",
+"examples": [],
+"p": "SEE-en-uh-guh"
+},
+{
+"w": "omniverse",
+"pos": "noun",
+"senses": [
+"The entire set of co-existing universes, multiverses, etc."
+],
+"ety": "From omni- + -verse.",
+"examples": [],
+"p": null
+},
+{
+"w": "structuration",
+"pos": "noun",
+"senses": [
+"A theory proposed by Anthony Giddens in an attempt to reconcile theoretical dichotomies of social systems such as agency/structure, subjective/objective, and micro/macro perspectives."
+],
+"ety": "From structure + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "porcini",
+"pos": "noun",
+"senses": [
+"An edible mushroom (Boletus edulis), prized for its flavor."
+],
+"ety": "Borrowed from Italian porcini, plural of porcino.",
+"examples": [],
+"p": "por-CHEE-nee"
+},
+{
+"w": "gloppy",
+"pos": "adjective",
+"senses": [
+"gooey and viscous."
+],
+"ety": "From glop + -y.",
+"examples": [],
+"p": "GLOP-ee"
+}
+]

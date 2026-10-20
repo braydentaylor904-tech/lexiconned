@@ -1,0 +1,536 @@
+[
+{
+"w": "ackee",
+"pos": "noun",
+"senses": [
+"A tropical evergreen tree, Blighia sapida, related to the lychee and longan.",
+"The fruit of the tree, of which only the arils are edible, the remainder being poisonous."
+],
+"ety": "Borrowed from Akan akye.",
+"examples": [
+"Delano and I are sprawled out under the ackee tree watching the black ants march from one rotten ackee pod to the next.",
+"Ackee and saltfish is a traditional Jamaican dish.",
+"The fleshy sacks that dangled down between his legs, like rotting ackees, wobbled."
+],
+"p": "AK-ee"
+},
+{
+"w": "vascularity",
+"pos": "noun",
+"senses": [
+"Vascular condition; vasculature."
+],
+"ety": "From vascular + -ity.",
+"examples": [
+"The massive vascularity of the big blood vessels was invoked by her strong fingers in their apt progress."
+],
+"p": "vah-skyoo-LAH-rih-tee"
+},
+{
+"w": "athame",
+"pos": "noun",
+"senses": [
+"A ceremonial pointed knife or dagger, used especially in Wicca and other neopagan traditions and typically having a black handle with magical symbols on it."
+],
+"ety": "From French athamé in a 1929 passage from É.-J. Grillot de Givry (see 1931 citation below), apparently from Medieval Latin artavus (“quill-sharpening knife”). Artavus was also mistranslated into artauo in an Italian manuscript. The arthame was conflated with the cortel nero (“black knife”) by Grillot de Givry, and that conflation was passed on to Gerald Gardner (whose 1954 book Witchcraft Today introduced Wicca to the public).",
+"examples": [
+"Agia was quicker, making a cut at my neck with an athame before his weapon was free of the scabbard.",
+"The athame is a black-handled ritual knife—one of the most common distinguishing marks of the Neopagan Witch.",
+"Tradition says an athame should never have drawn blood."
+],
+"p": "ah-THAH-may"
+},
+{
+"w": "pommel",
+"pos": "noun",
+"senses": [
+"The upper front brow of a saddle.",
+"Either of the rounded handles on a pommel horse.",
+"The knob on the hilt of an edged weapon such as a sword or dagger.",
+"A knob forming the finial of a turret or pavilion."
+],
+"ety": "From Middle English pomel, from Old French pomel and Medieval Latin pomellum, pumellum, presumedly via Vulgar Latin *pomellum (“ball, knob”), the diminutive of Late Latin pōmum (“apple”). Compare French pommeau, Spanish pomo, and Swedish pumla.",
+"examples": [
+"In the shoulder saddle, pommel and cantle are inclined toward each other at the bottom and away from each other at the top.",
+"An owner fits four fingers underneath the saddle's pommel, testing the fit of the saddle.",
+"The pommels, of which two sets must be provided, fit into these incisions."
+],
+"p": "PAH-mul"
+},
+{
+"w": "mopey",
+"pos": "adjective",
+"senses": [
+"Given to moping; in a depressed condition, low in spirits; lackadaisical."
+],
+"ety": "From mope + -y.",
+"examples": [
+"In the 1980s, liberals nursed the fear that we really might be dwelling in an irrelevant cul-de-sac outside of the majority American culture. That kept us sullen and mopey."
+],
+"p": "MOH-pee"
+},
+{
+"w": "discomfiting",
+"pos": "adjective",
+"senses": [
+"Tending to discomfit (“embarrass greatly; upset the composure of, disconcert”)."
+],
+"ety": "From discomfit + -ing.",
+"examples": [
+"Suddenly, to my eyes, my throat, my mouth there rushed tears and a cry which I stifled into a feigned cough into my handkerchief. The waiter noticed my discomfiting state and poured more tea.",
+"Imagination, like memory, can be selective, editing out those details which are painful or discomfiting."
+],
+"p": "dis-KUM-fih-ting"
+},
+{
+"w": "catnip",
+"pos": "noun",
+"senses": [
+"Something that causes excitement or interest."
+],
+"ety": "Compound of cat + nep, nip (“catnip”), from Middle English nep, from Old English nepte, from Proto-West Germanic *nepetā, from Latin nepeta (“catnip”). Compare earlier catmint (“catnip”), from Middle English catt mynte, which very likely existed in Old English (as *cattes minte) as well.",
+"examples": [
+"Their outrage was catnip to the trolls who had deepfaked the video.",
+"Unlike IPOs, however, ICOs are catnip for scammers.",
+"This hot new Shoreditch trattoria already is catnip for the style set."
+],
+"p": "KAT-nip"
+},
+{
+"w": "increment",
+"pos": "noun",
+"senses": [
+"The action of increasing or becoming greater.",
+"The amount of increase.",
+"The amount of time added to a player's clock after each move."
+],
+"ety": "From Middle English encrement, increment, from Latin incrēmentum, from incrēscō (whence increase), from in- + crēscō (“grow”). Equivalent to increase + -ment.",
+"examples": [
+"A nation, to be great, ought to be compressed in its increment by nations more civilized than itself—as Greece by Persia; and Rome by Etruria, the Italian states, and Carthage."
+],
+"p": "ING-krih-munt"
+},
+{
+"w": "runcible",
+"pos": "adjective",
+"senses": [
+"A nonce word used for humorous effect."
+],
+"ety": "A nonce word coined by the English artist and poet Edward Lear (1812–1888) in his poem The Owl and the Pussy-cat (published 1870). It has been suggested that the word was modelled after rounceval, rouncival (“a large pea, the marrowfat”) (late 16th c.).",
+"examples": [
+"They dined on mince and slices of quince, / Which they ate with a runcible spoon, / And hand in hand on the edge of the sand / They danced by the light of the moon,— / The moon, / They danced by the light of the moon."
+],
+"p": "RUN-suh-bul"
+},
+{
+"w": "prenup",
+"pos": "noun",
+"senses": [
+"A prenuptial agreement.",
+"A casual photoshoot before a wedding"
+],
+"ety": "Clipping of prenuptial.",
+"examples": [
+"Such tangles and many others can be avoided with a buy-sell agreement — basically a business prenup or a postnup, depending on when owners draw it up.",
+"Now, let me add that I am not generally a fan of prenups for people without big assets or liabilities, or children from previous relationships."
+],
+"p": "PREE-nup"
+},
+{
+"w": "conspire",
+"pos": "verb",
+"senses": [
+"To secretly plot or make plans together, often with the intention to bring bad or illegal results; to collude, to connive, to plot.",
+"To agree, to concur to one end.",
+"To work together to bring about."
+],
+"ety": "From Middle English conspiren, from Old French conspirer, from Latin conspirare, conspīrō, from con- (combining form of cum (“with”)) + spīrō (“breathe”).",
+"examples": [
+"And there came a man, rushing from the farthest end of the city. He said, “O Moses! The chiefs are actually conspiring against you to put you to death, so leave ˹the city˺. I really advise you ˹to do so˺.”",
+"The press, the pulpit, and the stage / Conspire to censure and expose our age.",
+"I feel my vanquish'd heart conspire To crown a flame by Heav'n approv'd."
+],
+"p": "kun-SPY-er"
+},
+{
+"w": "graupel",
+"pos": "noun",
+"senses": [
+"A precipitation that forms when supercooled droplets of water condense on a snowflake.",
+"A small ball of rime resulting from this process."
+],
+"ety": "Borrowed from German Graupel(wetter) (literally “graupel (weather)”). Graupel is a back-formation from graupeln (“to hail (with soft hailstones)”) + -el (diminutive suffix); and graupeln is from Graupe (“hulled grain, pearl barley”) (ultimately from Proto-Slavic *krūpà (“grainy substance; groats; hail”) and Proto-Indo-European *krewp-) + -eln (suffix forming verbs, often with a diminutive or frequentative sense).",
+"examples": [
+"Is it desirable in giving the falls of hail to draw a distinction between \"graupel\" and true hail?",
+"The steam of the horses and their breath came back in turbid clouds, and the snow, or soft hail (now known as graupel), cut white streaks through them into travellers' eyes, and danced on the roof like lozenges.",
+"It is established that graupels and hailstones are cone-shaped with rounded apexes and that they become egg-shaped as a result of growth during descent."
+],
+"p": "GROW-pul"
+},
+{
+"w": "fanzine",
+"pos": "noun",
+"senses": [
+"A magazine, normally produced by amateurs, intended for people who share a common interest."
+],
+"ety": "Blend of fan + magazine. Coined by American chess player and SF fandom founder Russ Chauvenet in the October 1940 edition of his own science fiction fanzine Detours, to replace the earlier fanmag.",
+"examples": [
+"I don't know how many fanzines there've been, but surely no fewer than 500 different items, some running for one issue and some for several dozen.",
+"Maybe a few dozen hours of collective neofans, all reading him fanzine press at once, would cure him of these paternal instincts.",
+"He always had projects ― he makes videos in his apartment, and he and a friend put out a fanzine — but he was all over the map."
+],
+"p": "FAN-zeen"
+},
+{
+"w": "lexicographic",
+"pos": "adjective",
+"senses": [
+"Like a dictionary, relating to lexicography (the writing of a dictionary)."
+],
+"ety": "From lexicography + -ic.",
+"examples": [
+"A major lexicographic enterprise is the Atlas Lingüístico Guaraní-Románico, conducted at the universities of Kiel and Münster in Germany (Dietrich and Symeonidis 2009)."
+],
+"p": "lek-sih-kuh-GRAF-ik"
+},
+{
+"w": "clomp",
+"pos": "noun",
+"senses": [
+"The sound of feet hitting the ground loudly."
+],
+"ety": "Probably onomatopoeic or a variant of clump (“walk heavily and clumsily”), itself also onomatopoeic or perhaps from the notion of walking in clumps, from Dutch klomp (“clump, mass, wooden shoe”).",
+"examples": [
+"There was just a pause in the clomps, then Bill's boots went on toward the house.",
+"Amidst the clomps of oncoming horses, he could now hear men's low, conferring voices."
+],
+"p": "klahmp"
+},
+{
+"w": "seder",
+"pos": "noun",
+"senses": [
+"The ceremonial meal held on the first night or first two nights of Passover.",
+"A ceremonial meal held on Tu BiShvat, consisting of several types of fruits and nuts.",
+"One of the 6 parts into which the Mishnah is divided."
+],
+"ety": "Borrowed from Hebrew סדר (seder, “order”).",
+"examples": [
+"On the same day, the State of Israel celebrated its first Passover seder and the United Nations, still meeting in those days at Flushing Meadow in Queens, voted to consider the Jewish state's application for membership."
+],
+"p": "SAY-der"
+},
+{
+"w": "derech",
+"pos": "noun",
+"senses": [
+"The path of propriety or righteousness, or especially of Hasidism or Judaism."
+],
+"ety": "Borrowed from Hebrew דרך.",
+"examples": [
+"You see, I had gone off the derech--off the path. To complete my self-determination, to live an authentic life, I would have to leave the community, the most egregious offense imaginable."
+],
+"p": "DEH-rekh"
+},
+{
+"w": "hooter",
+"pos": "noun",
+"senses": [
+"A person who hoots.",
+"The horn in a motor vehicle.",
+"A siren or steam whistle, especially one in a factory and used to indicate the beginning or the end of a working day or shift.",
+"The tiniest amount; a whit or jot."
+],
+"ety": "From hoot + -er.",
+"examples": [
+"Suddenly, far down and beyond the toun there came a screech as the morning grew, a screech like an hungered beast in pain. The hooters were blowing in the Segget Mills.",
+"A chime whistle, presented to the L.M.S.R. by American model railway enthusiasts in 1939, is installed now as a works hooter at Crewe Works, as its height precludes its use on a British locomotive.",
+"G.G. understood that I meant the licence, and said he didn't care a hooter about failing his driving test."
+],
+"p": "HOO-ter"
+},
+{
+"w": "corrode",
+"pos": "verb",
+"senses": [
+"To consume; to wear away; to prey upon; to impair.",
+"To have corrosive action; to be subject to corrosion."
+],
+"ety": "From Middle English corrōden, that borrowed from Old French corroder or directly from Latin corrōdere (“to gnaw”), from con- (“completely”) + rōdere (“to gnaw”).",
+"examples": [
+"My morale is being corroded day by day."
+],
+"p": "kuh-ROHD"
+},
+{
+"w": "cellist",
+"pos": "noun",
+"senses": [
+"Someone who plays the cello."
+],
+"ety": "From cello + -ist.",
+"examples": [
+"Though relative newcomers to classical music, they seemed closely attuned to the eight cellists onstage, raising their heads abruptly as the piece’s languid strains gave way to rapid-fire bow strokes."
+],
+"p": "CHEL-ist"
+},
+{
+"w": "sarpanch",
+"pos": "noun",
+"senses": [
+"The elected head of a panchayat (village government) in Bangladesh, India, or Pakistan."
+],
+"ety": "Borrowed from Hindi सरपंच (sarpañc), from Hindi सर (sar, “head”) / Urdu سر (sar, “head; chief”) (from Persian سر (sar, “head; chief, leader”), ultimately from Proto-Indo-European *ḱerh₂- (“head; top”)) + Hindi पंच (pañc, “five (number of people in a panchayat council)”) / Urdu پنچ (pañc); from Sanskrit पञ्च (pañca, “five”), ultimately from Proto-Indo-European *pénkʷe (“five”).",
+"examples": [
+"The sarpanches were remunerated by the remission of part of the quota of labour which they were bound to supply.",
+"Every gram panchayat has a sarpanch and an up-sarpanch elected from its members by the gram panchayat in the prescribed manner."
+],
+"p": "SUR-punch"
+},
+{
+"w": "perceptive",
+"pos": "adjective",
+"senses": [
+"Having or showing keenness or sharpness of perception, insight, understanding, or intuition."
+],
+"ety": "From Latin perceptīvus.",
+"examples": [
+"He is so perceptive when it comes to other people's feelings."
+],
+"p": "per-SEP-tiv"
+},
+{
+"w": "stroganoff",
+"pos": "noun",
+"senses": [
+"A dish of sautéed pieces of beef served in a sauce with sour cream."
+],
+"ety": "From French stroganoff, ellipsis of bœuf Stroganoff (whence English beef stroganoff), from bœuf (“beef”) + Stroganoff (from Russian Стро́ганов (Stróganov)), named after one of the members of the Stroganov family, a distinguished Russian family involved in the settlement of Siberia. It has been debated whether it is named after the diplomat Pavel Alexandrovich Stroganov or the politician Alexander Stroganov. For the French-style postpositive placement of Stroganoff, compare chicken Kiev and bananas Foster.",
+"examples": [
+"With its creamy texture and unique taste, our version is certain to win over even the most diehard stroganoff fans.",
+"For an unusual kidney stroganoff, saute them in a casserole with chopped onions, celery and carrot, then stew in wine, beer, cider or stock till tender, and stir in a little cream before serving."
+],
+"p": "STROH-guh-nawf"
+},
+{
+"w": "categorize",
+"pos": "verb",
+"senses": [
+"To assign a category; to divide into classes."
+],
+"ety": "From category + -ize.",
+"examples": [
+"First, categorize incoming messages according to the needed actions."
+],
+"p": "KAT-uh-guh-rize"
+},
+{
+"w": "tempura",
+"pos": "noun",
+"senses": [
+"A Japanese dish made by deep-frying vegetables, seafood, or other foods in a light batter."
+],
+"ety": "Borrowed from Japanese 天(てん)麩(ぷ)羅(ら) (tenpura), from Portuguese, ultimately from Latin. Different dictionaries link two different original terms: * Portuguese tempero (“seasoning”) or tempera (“he/she/it seasons; season!”), third-person present singular or imperative tense of temperar (“to season, to temper”), from Latin temperare (“to mix, to temper”). * Portuguese têmpora (“Ember days”), from Latin tempora, plural of tempus (“time; period”). When Portuguese explorers (mostly Jesuit missionaries) arrived in Japan, they abstained from eating beef, pork, and poultry during the Ember days, a Cat",
+"examples": [
+"At last you spot a tempura stand. Not quite what you had in mind, but it'll do. Four pounds for tempura and noodles. Hunger. Yes.",
+"The Chicken Big Mac is similar to its beefy sibling; however, it replaces the two burgers with two tempura chicken patties."
+],
+"p": "tem-POO-ruh"
+},
+{
+"w": "borax",
+"pos": "noun",
+"senses": [
+"Cheap or tawdry furniture or other works of industrial design."
+],
+"ety": "From Middle English boras, from Anglo-Norman boreis, from Medieval Latin borax, baurach (“borax”), from Arabic بَوْرَق (bawraq), from Middle Persian bwlk' (bōrag), which yielded Persian بوره (bure).",
+"examples": [
+"Furniture isn't made to last thirty years or longer because they took a survey and found that young homemakers like to throw their furniture out and bring in all new, color-coded borax every seven years."
+],
+"p": "BOR-aks"
+},
+{
+"w": "whatnot",
+"pos": "noun",
+"senses": [
+"A small unspecified object; bric-a-brac (in plural).",
+"Other related objects or ideas.",
+"A freestanding set of shelves on which ornaments are displayed; an etagere."
+],
+"ety": "From what + not.",
+"examples": [
+"Storage boxes—catchalls for flotsam, jetsam, whatnots and thingamajigs—are gaining new interest as decorative objects for the home.",
+"At the lexicography club, we welcome all discussion of words and whatnot.",
+"All of the cakes and whatnot have been laid out, ready for the children's birthday party this afternoon."
+],
+"p": "WUT-naht"
+},
+{
+"w": "sideboob",
+"pos": "noun",
+"senses": [
+"The view of the bared breast, as seen from the side, either by design or by accident."
+],
+"ety": "From side + boob.",
+"examples": [
+"Nothing says J-Lo is back like a slinky, drapey dresslike garment and plenty of sideboob.",
+"The next day I find myself tagged on my new profile kissing a female friend, pressed underneath her, hair and sweat and sideboob, giggling at something just off-camera."
+],
+"p": "SIDE-boob"
+},
+{
+"w": "krang",
+"pos": "noun",
+"senses": [
+"The portions of a whale that remain after the blubber has been removed, especially the flesh and organs.",
+"Anything that remains after flensing (not necessarily from a whale)."
+],
+"ety": "From Dutch kreng (“a carcass”), from Middle Dutch crenge (“carrion, carcass”), compare with Old English cringan (“to fall, yield, cringe”). Cognate with Danish kreng (“a carcass”).",
+"examples": [
+"Natives came 30 miles over the ice in two sleighs from Navy Board Inlet; hundreds of mollies following the ship all day for bits of krang and blubber.",
+"The carcass of the whale, as left after the flensing, is cut to pieces on the platform and receiver for the krang, where krang and bone are elevated and placed in the krang boilers by machinery.",
+"The harpooner makes a cut across the neck and then down the body, taking care to take as little of the flesh - or 'Krang' as the body is called in whaling language – as possible."
+],
+"p": "KRANG"
+},
+{
+"w": "narcotic",
+"pos": "noun",
+"senses": [
+"Any type of numbing or soothing drug."
+],
+"ety": "From Middle English narcotyk, from Middle French narcotique (from Old French narcotique, noun use of adjective) and directly from Medieval Latin narcōticum, from Ancient Greek ναρκωτῐκόν (narkōtĭkón), neuter of ναρκωτῐκός (narkōtĭkós), from Ancient Greek ναρκόω (narkóō, “to benumb”), from νάρκη (nárkē, “numbness, torpor”).",
+"examples": [
+"But, for the unquiet heart and brain, ⁠A use in measured language lies; ⁠The sad mechanic exercise, Like dull narcotics, numbing pain.",
+"Podson grabbed at his tobacco with a fervent, \"God! just about saved my life.\" With a cigarette going he grabbed at the papers, requiring spiritual sustenance as well as a divine narcotic."
+],
+"p": "nar-KAH-tik"
+},
+{
+"w": "akuma",
+"pos": "noun",
+"senses": [
+"A Japanese demon."
+],
+"ety": "From Japanese 悪魔, from Middle Chinese 惡魔 (MC 'ak ma, literally “bad, evil + demon”).",
+"examples": [
+"One bite carried a disease that would turn a person into an Akuma. With sickening awareness, I watched hundreds of them swarm a guard, biting him repeatedly."
+],
+"p": "uh-KOO-muh"
+},
+{
+"w": "peppier",
+"pos": "noun",
+"senses": [
+"A waiter at a restaurant who offers to grind pepper onto customers' meals at the table."
+],
+"ety": "Pseudo-Gallicism, derived from pepper + -ier, along the lines of sommelier.",
+"examples": [
+"Shirley the pepper mills are whipped away by the peppier after use, so no danger there. But what about the candles?"
+],
+"p": "PEP-ee-ay"
+},
+{
+"w": "entomology",
+"pos": "noun",
+"senses": [
+"The scientific study of insects, and (informal) of other arthropods (and occasionally other invertebrates)."
+],
+"ety": "From French entomologie, from Ancient Greek ἔντομον (éntomon, “insect”) + -logie (from Ancient Greek -λογία (-logía, “-logy”)), equivalent to entomo- + -logy.",
+"examples": [
+"Entomology is an important field of study within biology."
+],
+"p": "en-tuh-MOL-uh-jee"
+},
+{
+"w": "decoherence",
+"pos": "noun",
+"senses": [
+"Loss of quantum coherence (phase relation between the quantum states of particles) in a physical system as it interacts with its environment."
+],
+"ety": "First attested 1902 (OED) in the electrical engineering sense \"the resetting of a coherer.\" From decohere (also 1902) + -ence, representing the verbal noun (compare decohesion, decoherency). The quantum mechanics concept was introduced in 1970 by German physicist H. Dieter Zeh, writing in the journal Foundations of Physics.",
+"examples": [
+"One way of preventing both decoherences is to set up the system in a \"non-decoherent quantum state.\""
+],
+"p": "dee-koh-HEER-runs"
+},
+{
+"w": "shellac",
+"pos": "noun",
+"senses": [
+"A processed secretion of the lac insect, Coccus lacca; used in polishes, varnishes etc.",
+"A beating; a thrashing."
+],
+"ety": "From shell + lac, calque of French laque en écailles (literally “lac in scales/shells”).",
+"examples": [
+"But, she says, a wartime ban on recordings using shellac and vinyl kept the Walker version from being released.",
+"At the turn of the century, the ever-expanding electrical industry was running low on shellac, a resin secreted by the female lac bug which could be used as an insulating material."
+],
+"p": "shuh-LAK"
+},
+{
+"w": "princeps",
+"pos": "noun",
+"senses": [
+"The title of the Roman emperor during the principate.",
+"One who, or that which, is foremost, original, etc.",
+"The editio princeps, or first edition of a book."
+],
+"ety": "Borrowed from Latin prī̆nceps (“first, foremost”). Doublet of prince and principe.",
+"examples": [
+"Its special characteristics were that the princeps was not governed by any law of procedure or confined to a particular place of judgment and, moreover, had complete freedom in the composition of his consilium."
+],
+"p": "PRIN-seps"
+},
+{
+"w": "treen",
+"pos": "noun",
+"senses": [
+"Household articles made of wood.",
+"A large wooden platter."
+],
+"ety": "From Middle English treen, from Old English triewen, from Proto-Germanic *triwīnaz, equivalent to tree + -en. See trencher, truncher.",
+"examples": [
+"References to treen are numerous in old English literature, particularly to chalices, cups, bowls, platters, and \"services of treen\"."
+],
+"p": "treen"
+},
+{
+"w": "indentured",
+"pos": "adjective",
+"senses": [
+"Subject to an indenture."
+],
+"ety": "From indenture + -ed.",
+"examples": [
+"As a result, many Black people remained unfairly enslaved and indentured in the so-called free territory. This was not legal slavery (also known as de jure slavery), but slavery in practice (de facto slavery)."
+],
+"p": "in-DEN-cherd"
+},
+{
+"w": "heiau",
+"pos": "noun",
+"senses": [
+"A temple in traditional Hawaiian society."
+],
+"ety": "From Hawaiian heiau.",
+"examples": [
+"The basalt was also piled to outline large squares in the ceremonial centres known as heiaus.",
+"They'd order lawbreakers put to death in fearsome ritualized killings that took place in a heiau, accompanied by beating drums and chants."
+],
+"p": "HAY-ow"
+},
+{
+"w": "vespertine",
+"pos": "adjective",
+"senses": [
+"Of or related to the evening; that occurs in the evening.",
+"That sets after the sun."
+],
+"ety": "From Middle English vespertyne, from Latin vespertīnus (“evening”).",
+"examples": [
+"As our ineffable ardor just begins, / All becomes fiery flames of desire; / Oh, welcome the dusk—and its vespertine fire!"
+],
+"p": "VES-per-tin"
+}
+]

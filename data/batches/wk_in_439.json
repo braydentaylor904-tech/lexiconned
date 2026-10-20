@@ -1,0 +1,441 @@
+[
+{
+"w": "plantsman",
+"pos": "noun",
+"senses": [
+"An expert on the identification and cultivation of plants."
+],
+"ety": "From plant + -s- + -man. Piecewise doublet of clansman.",
+"examples": [],
+"p": null
+},
+{
+"w": "minify",
+"pos": "verb",
+"senses": [
+"To make smaller.",
+"To reduce in apparent size, as for example objects viewed through a lens or mirror shaped so as to increase the field of view, such as a convex or aspheric mirror or a Fresnel lens."
+],
+"ety": "From mini- + -fy.",
+"examples": [
+"Schneckenburger strives to make it appear that Baur unduly minifies the Christian element in Manichæism.",
+"There must be something in the appeal of the Gothic that minifies one group of values leaving other considerations untouched, or actually magnifying them."
+],
+"p": null
+},
+{
+"w": "plasm",
+"pos": "noun",
+"senses": [
+"A mold or matrix in which anything is cast or formed to a particular shape."
+],
+"ety": "From Late Latin plasma (“mold”) or Ancient Greek πλάσμα (plásma, “something formed”), in some cases via German Plasma or French plasme, like English plasma.",
+"examples": [],
+"p": "PLAZ-um"
+},
+{
+"w": "snakebit",
+"pos": "adjective",
+"senses": [
+"Bitten by a snake.",
+"Experiencing a period of bad luck; unlucky.",
+"Jumpy, as if expecting to struck by sudden misfortune."
+],
+"ety": "From snake + bit.",
+"examples": [
+"Bob was feeling snakebit after losing four games.",
+"This was followed by the BP oil spill, which made him look snakebit."
+],
+"p": null
+},
+{
+"w": "precut",
+"pos": "verb",
+"senses": [
+"To cut in advance."
+],
+"ety": "From pre- + cut.",
+"examples": [],
+"p": null
+},
+{
+"w": "webstream",
+"pos": "noun",
+"senses": [
+"A streaming media delivery method which uses the Internet to deliver audio and video playback to the end user."
+],
+"ety": "From Web + stream.",
+"examples": [
+"Dog lovers will be able to watch Crufts despite the BBC's decision to drop the show, thanks to a live webstream announced yesterday."
+],
+"p": null
+},
+{
+"w": "telluric",
+"pos": "noun",
+"senses": [
+"Synonym of telluric current."
+],
+"ety": "A borrowing of French tellurique, from Latin tellus (“earth; earthy”) and Tellus (“Earth, Gaia”) and -ique (forming adjectives). Subsequently also from tellurium, originally in telluric oxide from German Telluroxyd.",
+"examples": [
+"Other projects in progress at CRPL involve the study of audiofrequency tellurics (current induced in the earth) and earth conductivity measurements using atmospherics."
+],
+"p": null
+},
+{
+"w": "morfa",
+"pos": "noun",
+"senses": [
+"A low wetland periodically flooded by salt water; a salt marsh."
+],
+"ety": "Borrowed from Welsh morfa.",
+"examples": [
+"The wildlife of the morfa, the saltmarshes, reflects the diversity of their setting whilst being distinctly Welsh. There is nothing immutable about this landscape and its wildlife; its heritage is one of change."
+],
+"p": null
+},
+{
+"w": "karyotype",
+"pos": "verb",
+"senses": [
+"To investigate or record such characteristics."
+],
+"ety": "Borrowed from Russian кариотип (kariotip), equivalent to karyo- + -type.",
+"examples": [],
+"p": "KAH-reer-oo-tipe"
+},
+{
+"w": "premix",
+"pos": "noun",
+"senses": [
+"A blend of components that has been mixed in advance of use or of further processing.",
+"A manufactured beverage consisting of alcohol and soft drink, milk or other non-alcoholic drinks; an alcopop."
+],
+"ety": "From pre- + mix.",
+"examples": [
+"High velocity premix systems — high velocity premix burner systems have been popular with some European kiln builders due to the fact that they are more fuel efficient than most other systems.",
+"As the postproduction phase nears completion, elements (units) are mixed-down to premixes (predub). Premixes are developed independently for each of the stems.",
+"Premixes can be divided down into groups such as dialogue, effects and music, or even further, into premixes of spot effects, foley effects, atmosphere effects, etc."
+],
+"p": null
+},
+{
+"w": "molcajete",
+"pos": "noun",
+"senses": [
+"A traditional Mexican stone tool, equivalent in function to a mortar and pestle, used for grinding food."
+],
+"ety": "Borrowed from Spanish molcajete, from Classical Nahuatl mōlcaxitl.",
+"examples": [],
+"p": null
+},
+{
+"w": "emerita",
+"pos": "noun",
+"senses": [
+"A female person who is retired from active service or an occupation, especially one who retains an honorific version of a previous title."
+],
+"ety": "From the Latin ēmerita, the feminine singular form of ēmeritus.",
+"examples": [
+"With the help of ever-present chief elder Charlotte McGuire and our headquarters, an updated list of all Board members was developed. Twenty-eight persons who are now emeritae were named."
+],
+"p": null
+},
+{
+"w": "giusto",
+"pos": "adjective",
+"senses": [
+"strict, exact."
+],
+"ety": "Borrowed from Italian giusto (“right, just”). Doublet of just.",
+"examples": [],
+"p": "JOO-stoh"
+},
+{
+"w": "defocus",
+"pos": "verb",
+"senses": [
+"To cause (a lens, or a beam of light or particles, etc.) to be out of focus."
+],
+"ety": "From de- + focus.",
+"examples": [],
+"p": "dee-FOH-kus"
+},
+{
+"w": "ortolan",
+"pos": "noun",
+"senses": [
+"A small European migratory bunting (Emberiza hortulana), once eaten whole as a delicacy.",
+"The greater short-toed lark (Calandrella brachydactyla)."
+],
+"ety": "From Middle French hortolan (“gardener”), from Latin hortulānus (“gardener”). Doublet of hortulan.",
+"examples": [],
+"p": "OR-tuh-lan"
+},
+{
+"w": "pietist",
+"pos": "noun",
+"senses": [
+"A supporter of pietism."
+],
+"ety": "From piety + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "crumpler",
+"pos": "noun",
+"senses": [
+"Someone or something that crumples."
+],
+"ety": "From crumple + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "esparto",
+"pos": "noun",
+"senses": [
+"Stipa tenacissima, of North Africa.",
+"Lygeum spartum, of the Mediterranean."
+],
+"ety": "From Spanish esparto, via Latin spartum from Ancient Greek σπάρτον (spárton, “rope, cable; esparto or halfah grass”), valued for its high tensile strength, used for cords and wicker, and exported by Spanish Greek colonies throughout the Mediterranian.",
+"examples": [],
+"p": null
+},
+{
+"w": "ruched",
+"pos": "adjective",
+"senses": [
+"with tight elastic folds"
+],
+"ety": "From ruche + -ed.",
+"examples": [],
+"p": "ROOSHT"
+},
+{
+"w": "ashram",
+"pos": "noun",
+"senses": [
+"A secluded religious hermitage inhabited by gurus, or the population of such a hermitage."
+],
+"ety": "Borrowed from Sanskrit आश्रम (āśrama).",
+"examples": [
+"The entire ashram was excited.",
+"In our broken culture those who have experienced the training of the yogic ashram are often woefully ignorant in the ways of the university, and vice versa."
+],
+"p": null
+},
+{
+"w": "adiabatic",
+"pos": "noun",
+"senses": [
+"An adiabatic curve or graph"
+],
+"ety": "19th-century coinage (introduced by W. J. M. Rankine in the 1860s) based on Ancient Greek ἀδιάβατος (adiábatos, “impassable”), used of terrain (rivers, forests) by Xenophon, from ἀ- (a-, “not”) + διά (diá, “through”) + βατός (batós, “passable”), from βαίνω (baínō, “to go”).",
+"examples": [],
+"p": "ay-deer-BAT-ik"
+},
+{
+"w": "falconet",
+"pos": "noun",
+"senses": [
+"A small or young falcon."
+],
+"ety": "From falcon + -et.",
+"examples": [],
+"p": "FAL-kuh-net"
+},
+{
+"w": "fervour",
+"pos": "noun",
+"senses": [
+"Commonwealth and Ireland standard spelling of fervor."
+],
+"ety": "By surface analysis, Latin ferv- + -our (“abstract noun suffix”).",
+"examples": [
+"The early Americans, inheriting the Hebraist fervour of the English Puritans, had enjoyed a Great Awakening of religious joy."
+],
+"p": null
+},
+{
+"w": "mistle",
+"pos": "noun",
+"senses": [
+"the mistle thrush"
+],
+"ety": "From Middle English mistel (“mistletoe”), from Old English mistel (“mistletoe”), from Proto-West Germanic *mistil (“mistle”), from Proto-Germanic *mistilaz (“mistle”).",
+"examples": [],
+"p": "MIS-ul"
+},
+{
+"w": "communicable",
+"pos": "adjective",
+"senses": [
+"Readily communicated.",
+"Talkative or expansive."
+],
+"ety": "From Old French communicable, Latin communicabilis.",
+"examples": [],
+"p": "kuh-MYOO-nih-kuh-bul"
+},
+{
+"w": "numbat",
+"pos": "noun",
+"senses": [
+"A small marsupial carnivore, Myrmecobius fasciatus, endemic to western Australia, that eats almost exclusively termites."
+],
+"ety": "Borrowed from Nyunga nhumbad.",
+"examples": [],
+"p": null
+},
+{
+"w": "beeman",
+"pos": "noun",
+"senses": [
+"One who tends bees, usually as an occupation; beekeeper."
+],
+"ety": "From Middle English beman, bemon, perhaps a partial calque of Old English bēoċeorl (“beekeeper”), equivalent to bee + -man. Old English bēoċeorl may be an alteration of bēocere (“beekeeper”).",
+"examples": [
+"I am a beeman of long standing, having practically kept bees all my life."
+],
+"p": null
+},
+{
+"w": "stifle",
+"pos": "verb",
+"senses": [
+"To cause (a dog, horse, or other four-legged mammal) to dislocate or sprain its stifle joint."
+],
+"ety": "The noun is derived from Middle English stifle (“joint between the femur and tibia of a quadruped”) [and other forms]; further etymology uncertain, probably derived from Anglo-Norman estive (“leg”), and Old French estive (“leg”) (compare Old French estival (“boot, shoe”)). The verb is derived from the noun.",
+"examples": [],
+"p": "STY-ful"
+},
+{
+"w": "aulic",
+"pos": "noun",
+"senses": [
+"A ceremony at some European universities to confer a Doctor of Divinity degree."
+],
+"ety": "From Latin aulicus (“of a prince's court”), from aula (“royal court”), from Ancient Greek αὐλή (aulḗ, “courtyard”).",
+"examples": [],
+"p": "AW-lik"
+},
+{
+"w": "elfen",
+"pos": "adjective",
+"senses": [
+"Belonging to, or relating to, elves."
+],
+"ety": "From elf + -en. Compare elfin, elven.",
+"examples": [
+"ALFHILD. Were I an elfen maid, then truly, say I, it would fare with you ill! / OLAF. Forsooth, then are you the elfen maid!"
+],
+"p": null
+},
+{
+"w": "korfball",
+"pos": "noun",
+"senses": [
+"A non-contact unisex team sport originating from the Netherlands, similar to netball, where players attempt to throw a ball into a basket atop a pole.",
+"The ball used in the sport of korfball."
+],
+"ety": "Borrowing from Dutch korfbal. Equivalent to corf + ball.",
+"examples": [],
+"p": "KORF-bawl"
+},
+{
+"w": "seinen",
+"pos": "noun",
+"senses": [
+"A kind of manga written for an older male audience, generally 18-30 years old (and older)."
+],
+"ety": "Borrowed from Japanese 青年 (seinen).",
+"examples": [],
+"p": "SAY-nun"
+},
+{
+"w": "aftersun",
+"pos": "adjective",
+"senses": [
+"Describing a cooling or moisturizing lotion applied to the skin after exposure to the sun, especially to soothe sunburn."
+],
+"ety": "From after- + sun.",
+"examples": [
+"Apply aftersun lotion to avoid peeling and flaking caused by sun damage."
+],
+"p": null
+},
+{
+"w": "familia",
+"pos": "noun",
+"senses": [
+"A household or religious community under one head, regarded as a unit."
+],
+"ety": "Learned borrowing from Latin familia (“family”). Doublet of family.",
+"examples": [],
+"p": "fuh-MIL-eer"
+},
+{
+"w": "grandmom",
+"pos": "noun",
+"senses": [
+"Grandmother."
+],
+"ety": "From grand- + mom.",
+"examples": [],
+"p": null
+},
+{
+"w": "vicus",
+"pos": "noun",
+"senses": [
+"A small civilian settlement outside a Roman fort."
+],
+"ety": "Borrowed from Latin vīcus (“village”). Doublet of wick.",
+"examples": [],
+"p": null
+},
+{
+"w": "captivation",
+"pos": "noun",
+"senses": [
+"The act of captivating or the state of being captivated."
+],
+"ety": "From captivate + -ion.",
+"examples": [
+"But the test of an oration is not only its immediate effect; there are tricks of elocution, a jugglery of manner, and even a personal captivation that so win the senses as to bewilder the judgment."
+],
+"p": null
+},
+{
+"w": "seaborn",
+"pos": "adjective",
+"senses": [
+"Born on or in the sea."
+],
+"ety": "From sea + born.",
+"examples": [],
+"p": null
+},
+{
+"w": "blanquette",
+"pos": "noun",
+"senses": [
+"A white meat stew in which neither the meat nor the sauce is browned."
+],
+"ety": "Borrowed from French blanquette, from Provençal blanqueto, a diminutive of blanc (“white”), derived, through early Medieval Latin blancus, from Frankish *blank (“gleaming, white, blinding”), from Proto-Germanic *blankaz (“white, bright, blinding”), from Proto-Indo-European *bhleg- (“to shine”). Compare blanket.",
+"examples": [],
+"p": "blah-KET"
+},
+{
+"w": "cuadrilla",
+"pos": "noun",
+"senses": [
+"The team which supports the matador."
+],
+"ety": "From Spanish cuadrilla (“team”). Doublet of quadrille.",
+"examples": [],
+"p": null
+}
+]

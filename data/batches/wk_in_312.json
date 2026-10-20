@@ -1,0 +1,437 @@
+[
+{
+"w": "bleck",
+"pos": "noun",
+"senses": [
+"Any black fluid substance, as in blacking for leather, or black grease."
+],
+"ety": "From Middle English blek (“ink”), from Old Norse blek (“black tint, ink”), from Old English blæc (“black tint or dye, ink”), from Proto-West Germanic *blak, from Proto-Germanic *blaką (“that which is black; blackness”).",
+"examples": [],
+"p": "blek"
+},
+{
+"w": "trilateration",
+"pos": "noun",
+"senses": [
+"The determination of the location of a point based on its distance from three other points."
+],
+"ety": "From trilaterate + -ion.",
+"examples": [],
+"p": null
+},
+{
+"w": "stammtisch",
+"pos": "noun",
+"senses": [
+"A table in a bar etc. reserved for a group of regulars taking part in social discussion and beer drinking; a \"regulars' table\"."
+],
+"ety": "From German Stammtisch.",
+"examples": [
+"There are concerts and stammtisches and even a seminar on International affairs; and on the whole I think it will be better for him here than we had hoped."
+],
+"p": null
+},
+{
+"w": "carolin",
+"pos": "noun",
+"senses": [
+"A former gold coin of Germany",
+"A former gold coin of Sweden"
+],
+"ety": "Latin Carolus (“Charles”).",
+"examples": [],
+"p": null
+},
+{
+"w": "digitize",
+"pos": "verb",
+"senses": [
+"To quantize a continuous or analog value; to convert it into a discrete value."
+],
+"ety": "From digit + -ize.",
+"examples": [],
+"p": "DIJ-ih-tize"
+},
+{
+"w": "tinkler",
+"pos": "noun",
+"senses": [
+"A small bell."
+],
+"ety": "From tinkle + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "expressionist",
+"pos": "noun",
+"senses": [
+"A painter who paints in this style."
+],
+"ety": "From expression + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "bangarang",
+"pos": "noun",
+"senses": [
+"A commotion.",
+"A disturbance or argument.",
+"Rubbish; miscellaneous items."
+],
+"ety": "Borrowed from Jamaican Creole bangarang.",
+"examples": [],
+"p": "BANG-uh-rang"
+},
+{
+"w": "distressful",
+"pos": "adjective",
+"senses": [
+"Causing or feeling distress, anxiety, or strain; distressing."
+],
+"ety": "From distress + -ful.",
+"examples": [
+"Once more, that fulness of prophetic joy, / With which this unborn Jubilee he mark'd / Through the long vista of distressful years, / While the dark war-clouds gathering at his feet / Involved the scene.",
+"If I'm never successful, / It won't be distressful, / 'Cos I don't care."
+],
+"p": null
+},
+{
+"w": "zester",
+"pos": "noun",
+"senses": [
+"A kitchen implement used to remove the zest of citrus fruit."
+],
+"ety": "From zest + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "yolked",
+"pos": "adjective",
+"senses": [
+"Having a specified type of yolk."
+],
+"ety": "From yolk + -ed.",
+"examples": [
+"Although it is rare, you may occasionally find a double-yolked egg.",
+"Some people swear by the theory that a darker-yolked egg makes for a more nutritious meal."
+],
+"p": null
+},
+{
+"w": "polyphasic",
+"pos": "adjective",
+"senses": [
+"Having multiple coexisting phases",
+"Having multiple successive peaks of activity"
+],
+"ety": "From poly- + phasic.",
+"examples": [],
+"p": null
+},
+{
+"w": "marimo",
+"pos": "noun",
+"senses": [
+"A rare form of the filamentous green alga Aegagropila linnaei, resembling large green velvety balls."
+],
+"ety": "From Japanese 毬藻 (marimo).",
+"examples": [],
+"p": null
+},
+{
+"w": "maqam",
+"pos": "noun",
+"senses": [
+"A modal structure characterizing the art of music of countries in North Africa, West Asia and Central Asia."
+],
+"ety": "Ultimately from Arabic مَقَام (maqām). Doublet of mugham.",
+"examples": [
+"At 18, late for a professional musician, he took up the oud, studying the mysteries of the Iraqi maqam, the complex system of tonal sequences and improvisation passed from master to student.",
+"But he hesitated when approached to do a project that combined maqam with jazz, even though that had been his pre-quest intention."
+],
+"p": null
+},
+{
+"w": "distorter",
+"pos": "noun",
+"senses": [
+"One that distorts."
+],
+"ety": "From distort + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "irezumi",
+"pos": "noun",
+"senses": [
+"traditional Japanese tattooing"
+],
+"ety": "Borrowed from Japanese いれずみ.",
+"examples": [],
+"p": null
+},
+{
+"w": "erythropoiesis",
+"pos": "noun",
+"senses": [
+"The production of red blood cells (in bone marrow)"
+],
+"ety": "From erythro- + -poiesis.",
+"examples": [],
+"p": null
+},
+{
+"w": "heartful",
+"pos": "noun",
+"senses": [
+"An amount of emotion considered to be present in the heart."
+],
+"ety": "From heart + -ful.",
+"examples": [
+"How many heartfuls of sorrow shall balance a bushel of wheat?"
+],
+"p": null
+},
+{
+"w": "additivity",
+"pos": "noun",
+"senses": [
+"The extent to which something is additive."
+],
+"ety": "From additive + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "honer",
+"pos": "noun",
+"senses": [
+"A tool used to hone."
+],
+"ety": "From hone + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "preschooler",
+"pos": "noun",
+"senses": [
+"A child who has not yet attended school.",
+"A child who is educated at preschool."
+],
+"ety": "From preschool + -er.",
+"examples": [
+"Countless issues arise in family life every day, from the litany of no-noes showered on the toddler, to calling the preschooler in for his lunch."
+],
+"p": null
+},
+{
+"w": "messianism",
+"pos": "noun",
+"senses": [
+"The belief in a messiah."
+],
+"ety": "From messian(ic) + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "doubler",
+"pos": "noun",
+"senses": [
+"An instrument for augmenting a very small quantity of electricity, so as to render it manifest by sparks or the electroscope.",
+"Part of a distilling apparatus for intercepting the heavier fractions and returning them to be redistilled.",
+"A blanket or felt placed between the fabric and the printing table or cylinder.",
+"A device with two electrical plugs that plugs into an electrical outlet, effectively converting the electrical outlet into two; socket converter.",
+"A diaper insert."
+],
+"ety": "From double (verb) + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "exfoliative",
+"pos": "adjective",
+"senses": [
+"That causes, or is accompanied by, exfoliation"
+],
+"ety": "From exfoliate + -ive.",
+"examples": [],
+"p": null
+},
+{
+"w": "snowblower",
+"pos": "noun",
+"senses": [
+"A motorized vehicle that picks up snow off the ground and blows it to one side in order to clear a path."
+],
+"ety": "From snow + blower.",
+"examples": [],
+"p": "SNOH-bloh-er"
+},
+{
+"w": "synapomorphy",
+"pos": "noun",
+"senses": [
+"A derived trait that is shared by two or more taxa of shared ancestry."
+],
+"ety": "From syn- + apomorphy.",
+"examples": [
+"A “synapomorphy” for a group then amounts to a state change in a character along the corresponding branch; some synapomorphies may be ambiguous when optimization is ambiguous and multiple MPRs exist."
+],
+"p": null
+},
+{
+"w": "relationality",
+"pos": "noun",
+"senses": [
+"The state or condition of being relational."
+],
+"ety": "From relational + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "pasque",
+"pos": "noun",
+"senses": [
+"A pasque flower."
+],
+"ety": "From pasque flower.",
+"examples": [],
+"p": "pask"
+},
+{
+"w": "ragga",
+"pos": "noun",
+"senses": [
+"A subgenre of reggae and dancehall influenced by hip hop and digital production techniques such as sampling."
+],
+"ety": "Clipping of raggamuffin, variant of ragamuffin (“troublemaker”), influenced by reggae.",
+"examples": [
+"The song samples Ricky Martin's hit Shake Your Bom-Bom but adds ragga's roughness. When Bam Bam comes on, the crowd goes wild.",
+"Fling a ragga riddim like it's '03"
+],
+"p": null
+},
+{
+"w": "bedel",
+"pos": "noun",
+"senses": [
+"An administrative official at universities in several European countries, often with a policiary function at the time when universities had their own jurisdiction over students."
+],
+"ety": "Borrowed from Medieval Latin pedellus, bedellus, bidellus, from Middle English bedel; cognate with beadle.",
+"examples": [
+"Oxford today has four bedels, representing Divinity, Law, Medicine, and Arts."
+],
+"p": null
+},
+{
+"w": "nowcast",
+"pos": "noun",
+"senses": [
+"A weather forecast predicting the weather for a very short upcoming period, usually only a few hours."
+],
+"ety": "Blend of now + forecast.",
+"examples": [],
+"p": null
+},
+{
+"w": "keratinous",
+"pos": "adjective",
+"senses": [
+"Consisting of, or made from keratin."
+],
+"ety": "* from keratin + -ous",
+"examples": [
+"Prum implies that, whatever their morphology, Longisquama’s appendages were not keratinous, whereas in fact, all amniote epidermal appendages consist of keratin ( 2 )."
+],
+"p": null
+},
+{
+"w": "limulus",
+"pos": "noun",
+"senses": [
+"Horseshoe crab, king crab."
+],
+"ety": "Borrowed from Latin līmulus, from līmus + -ulus. By surface analysis, Latin lim(us) + -ulus.",
+"examples": [],
+"p": null
+},
+{
+"w": "pueblito",
+"pos": "noun",
+"senses": [
+"A small pueblo or village."
+],
+"ety": "From Spanish pueblito.",
+"examples": [],
+"p": null
+},
+{
+"w": "crossmodal",
+"pos": "adjective",
+"senses": [
+"Across or between more than one mode."
+],
+"ety": "From cross- + modal.",
+"examples": [],
+"p": null
+},
+{
+"w": "deformable",
+"pos": "adjective",
+"senses": [
+"Capable of being reshaped."
+],
+"ety": "From French déformable; equivalent to deform + -able.",
+"examples": [
+"The adaptive optical systems in modern astronomical telescopes compensate for atmospheric distortion by using deformable mirrors."
+],
+"p": null
+},
+{
+"w": "zurek",
+"pos": "noun",
+"senses": [
+"Sour cereal soup (a type of sour rye soup, originating from Poland)"
+],
+"ety": "Borrowed from Polish żurek.",
+"examples": [],
+"p": null
+},
+{
+"w": "astrophysics",
+"pos": "noun",
+"senses": [
+"The branch of astronomy or physics that deals with the physical properties of celestial bodies and with the interaction between matter and radiation in celestial bodies and in the space between them."
+],
+"ety": "From astro- + physics.",
+"examples": [],
+"p": "as-troh-FIZ-iks"
+},
+{
+"w": "colonialist",
+"pos": "noun",
+"senses": [
+"One who supports or advocates colonialism."
+],
+"ety": "From colonial + -ist.",
+"examples": [],
+"p": "kuh-LOH-nee-uh-list"
+},
+{
+"w": "summerly",
+"pos": "adjective",
+"senses": [
+"Characteristic of summer; summer-like; warm and sunny."
+],
+"ety": "From Middle English sumerlich, sumerlic, from Old English sumorlīc, sumerlīċ (“summerly”), equivalent to summer + -ly. Cognate with Dutch zomerlijk (“summerly”), German sommerlich (“summerly”), Danish sommerlig (“summerly”), Swedish sommarlik (“summerly”).",
+"examples": [],
+"p": null
+}
+]

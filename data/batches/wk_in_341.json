@@ -1,0 +1,436 @@
+[
+{
+"w": "ferny",
+"pos": "adjective",
+"senses": [
+"Resembling or characteristic of a fern, in appearance, smell, etc.",
+"Covered in or filled with ferns; flanked or surrounded by ferns."
+],
+"ety": "From Middle English ferny, from Old English fearniġ, equivalent to fern + -y.",
+"examples": [
+"All kinds of mosses grew by the stream—tufty, flat, ferny, and curly, green, yellow and a whitish kind that was tipped with scarlet sealing wax.",
+"Ralph had stopped smiling and was pointing into the lagoon. Something creamy lay among the ferny weeds.",
+"We'll walk over the spring fields and through those ferny old woods."
+],
+"p": null
+},
+{
+"w": "meseta",
+"pos": "noun",
+"senses": [
+"A plateau, especially in Spanish-speaking countries."
+],
+"ety": "Borrowed from Spanish meseta.",
+"examples": [],
+"p": null
+},
+{
+"w": "bushy",
+"pos": "adjective",
+"senses": [
+"Like a bush in having many branches that spread out densely in all directions.",
+"Growing thickly."
+],
+"ety": "From bush + -y.",
+"examples": [],
+"p": "BUUSH-ee"
+},
+{
+"w": "superdry",
+"pos": "adjective",
+"senses": [
+"Extremely dry."
+],
+"ety": "From super- + dry.",
+"examples": [
+"She tried to find her voice, which was hiding somewhere inside her superdry throat."
+],
+"p": null
+},
+{
+"w": "pronoia",
+"pos": "noun",
+"senses": [
+"An imperial grant to an individual of temporary fiscal rights in the form of land, incomes or taxes from land, fishing rights, etc., sometimes carrying with it an obligation of military service."
+],
+"ety": "Borrowed from Ancient Greek πρόνοιᾰ (prónoiă, “foreknowledge, foresight; providence; form of land grant”), from πρόνοος (prónoos, “careful, prudent”) + -ῐᾰ (-ĭă, suffix forming nouns). πρόνοος is derived from προ- (pro-, prefix indicating a coming forth) + νόος (nóos, “the mind; act of the mind”). The English word is cognate with Latin pronoea (“providence”). The plural form pronoiae is probably a modification of Latin pronoeae, while pronoiai is from Ancient Greek πρόνοιαι (prónoiai).",
+"examples": [],
+"p": "proh-NOY-uh"
+},
+{
+"w": "galette",
+"pos": "noun",
+"senses": [
+"A type of flat, round cake from France."
+],
+"ety": "Borrowed from French galette.",
+"examples": [],
+"p": "guh-LET"
+},
+{
+"w": "nihari",
+"pos": "noun",
+"senses": [
+"A South Asian stew of slow-cooked beef or lamb with bone marrow."
+],
+"ety": "Borrowed from Hindustani (Hindi निहारी (nihārī), नहारी (nahārī) / Urdu نَہَارِی (nahārī)), from Classical Persian نهاری (nahārī, “breakfast”), from Arabic نهار (nahār, “daytime, day”).",
+"examples": [
+"Today we’re having slow-cooked lamb nihari, sag aloo, lentil dal, pilau rice, green salad and seekh kebab."
+],
+"p": null
+},
+{
+"w": "twirler",
+"pos": "noun",
+"senses": [
+"Something that twirls.",
+"Someone who twirls something.",
+"A majorette who twirls a baton."
+],
+"ety": "From twirl + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "marfa",
+"pos": "noun",
+"senses": [
+"A percussion instrument thought to have originated in Africa",
+"A form of Hyderabadi music inspired by Afro-Arab music that typically uses such instruments"
+],
+"ety": "Borrowed from Urdu مرفع (marfa’), ultimately from Yemeni Arabic مرفع (marfa’, “kettledrum”).",
+"examples": [],
+"p": "MAR-fuh"
+},
+{
+"w": "unglaciated",
+"pos": "adjective",
+"senses": [
+"Not glaciated"
+],
+"ety": "From un- + glaciated.",
+"examples": [],
+"p": null
+},
+{
+"w": "luchi",
+"pos": "noun",
+"senses": [
+"A kind of Indian deep-fried flatbread made from maida flour."
+],
+"ety": "Borrowed from Bengali লুচি (luci).",
+"examples": [
+"My favorite childhood bread was not roti, though; it was luchi—deep fried and puffy, warm and fresh, and simply amazing when rolled up with sugar."
+],
+"p": null
+},
+{
+"w": "anemone",
+"pos": "noun",
+"senses": [
+"A sea anemone."
+],
+"ety": "From Latin anemōnē, from Ancient Greek ἀνεμώνη (anemṓnē), from ἄνεμος (ánemos, “wind”) + matronymic suffix -ώνη (-ṓnē, “daughter of”). Or from Phoenician *𐤍𐤏𐤌𐤍 (*nʿmn), akin to Arabic شَقَائِق اَلنُّعْمَان (šaqāʔiq an-nuʕmān, “anemones”) and Hebrew (Isaiah Scroll) נִטְעֵי נַעֲמָנִים (nit'ei na'amanim, “plants of pleasantness”).",
+"examples": [],
+"p": "uh-NEM-uh-nee"
+},
+{
+"w": "mannerly",
+"pos": "adjective",
+"senses": [
+"Having good manners; polite."
+],
+"ety": "From Middle English manerely, equivalent to manner + -ly.",
+"examples": [],
+"p": "MAN-er-lee"
+},
+{
+"w": "sailer",
+"pos": "noun",
+"senses": [
+"That which sails; a sailboat."
+],
+"ety": "From Middle English sailer, sayler, saylere, equivalent to sail + -er.",
+"examples": [
+"She is the best sailer in the service, and she carries a hundred guns."
+],
+"p": null
+},
+{
+"w": "hacktivism",
+"pos": "noun",
+"senses": [
+"The practice of promoting a political agenda by hacking, especially by defacing or disabling websites."
+],
+"ety": "Blend of hack + activism, a portmanteau coined in 1994 by a member of the Cult of the Dead Cow hacker collective.",
+"examples": [
+"Hacktivism is a form of activism for social change that appropriates computers and electronic networks for this purpose. Also called electronic civil disobedience, hacktivism is geared to political ends.",
+"My aim will be to identify and highlight the potential problems of the existing approach that is followed when dealing with hacktivism and its impact on user rights, protesters, and overall cybersecurity."
+],
+"p": null
+},
+{
+"w": "talcum",
+"pos": "noun",
+"senses": [
+"Powdered and perfumed talc for toilet use."
+],
+"ety": "From talc + -um, from Medieval Latin talcum, from Arabic طَلْق (ṭalq).",
+"examples": [],
+"p": "TAL-kum"
+},
+{
+"w": "souvlaki",
+"pos": "noun",
+"senses": [
+"A Greek fast food consisting of pieces of meat and sometimes vegetables grilled on a skewer, variously also called kalamaki or kebab or, in sandwich form, gyro or shawarma.",
+"A wrapped pancake dish filled with meat, salad and some kind of sauce or dressing, commonly called a kebab."
+],
+"ety": "From Greek σουβλάκι (souvláki).",
+"examples": [],
+"p": "soov-LAH-kee"
+},
+{
+"w": "centralizer",
+"pos": "noun",
+"senses": [
+"A device used to centralize a piece of equipment."
+],
+"ety": "From centralize + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "uncrated",
+"pos": "adjective",
+"senses": [
+"Not contained in a crate."
+],
+"ety": "From un- + crated.",
+"examples": [],
+"p": null
+},
+{
+"w": "springbok",
+"pos": "noun",
+"senses": [
+"A small, fast antelope native to southern Africa, Antidorcas marsupialis."
+],
+"ety": "Borrowed from Afrikaans springbok, from Dutch springbok, from springen (“to jump, spring”) + bok (“buck, billy goat, antelope”).",
+"examples": [],
+"p": "SPRING-bawk"
+},
+{
+"w": "aspic",
+"pos": "noun",
+"senses": [
+"A meat or fish jelly.",
+"A dish in which ingredients are set into a gelatine, jelly-like substance made from a meat stock or consommé."
+],
+"ety": "Borrowed from French aspic, from Latin aspis, and possibly influenced by French basilic (“basilisk”). The culinary sense may come from association with the snake due to the traditional colors and cold temperature of aspic, in addition to the fact that the gelatin was often molded in a shape similar to a coiled snake.",
+"examples": [],
+"p": "AS-pik"
+},
+{
+"w": "mandi",
+"pos": "noun",
+"senses": [
+"A traditional style of washing oneself in Indonesia and Malaysia, using a small container to scoop water out of a larger container and pour it over the body."
+],
+"ety": "Unadapted borrowing from Malay mandi (“to take a bath”).",
+"examples": [],
+"p": null
+},
+{
+"w": "spinose",
+"pos": "adjective",
+"senses": [
+"Having a spine, or spines"
+],
+"ety": "Borrowed from Latin spinōsus.",
+"examples": [],
+"p": null
+},
+{
+"w": "plasticware",
+"pos": "noun",
+"senses": [
+"Culinary or scientific equipment made of plastic."
+],
+"ety": "From plastic + -ware.",
+"examples": [],
+"p": null
+},
+{
+"w": "laicization",
+"pos": "noun",
+"senses": [
+"The act of laicizing."
+],
+"ety": "From laic + -ization.",
+"examples": [],
+"p": null
+},
+{
+"w": "chocoholic",
+"pos": "noun",
+"senses": [
+"Someone who has such a liking for chocolate that they appear to be addicted to it."
+],
+"ety": "From choco(late) + -holic.",
+"examples": [
+"Chocoholics are confessing at the rate of the nuns of Loudon to demonic possession."
+],
+"p": null
+},
+{
+"w": "fatface",
+"pos": "noun",
+"senses": [
+"A very bold typeface."
+],
+"ety": "From fat + face.",
+"examples": [],
+"p": null
+},
+{
+"w": "tritheism",
+"pos": "noun",
+"senses": [
+"A belief in three gods, especially the nontrinitarian doctrine that God the Son, God the Father, and the Holy Spirit are separate gods which is condemned as heresy by most Christian denominations."
+],
+"ety": "From tri- + theism.",
+"examples": [],
+"p": null
+},
+{
+"w": "cholent",
+"pos": "noun",
+"senses": [
+"A meat and/or bean stew traditionally served on the Sabbath by Jews."
+],
+"ety": "From Yiddish טשאָלנט (tsholnt), of unknown origin, but may be from an Old French reflex of Latin calēns.",
+"examples": [],
+"p": "CHOH-lunt"
+},
+{
+"w": "lisianthus",
+"pos": "noun",
+"senses": [
+"Prairie gentian (Eustoma russellianum, syn. Eustoma grandiflorum, Lisianthius russellianus)."
+],
+"ety": "From Lisianthus, an accepted synonym of Eustoma.",
+"examples": [],
+"p": null
+},
+{
+"w": "hinoki",
+"pos": "noun",
+"senses": [
+"The wood of this tree."
+],
+"ety": "From Japanese 檜(ひのき) (hinoki).",
+"examples": [],
+"p": "hih-NOH-kee"
+},
+{
+"w": "manuka",
+"pos": "noun",
+"senses": [
+"Leptospermum scoparium, a shrub or small tree native to New Zealand and southeast Australia.",
+"The wood of this plant."
+],
+"ety": "Borrowed from Māori mānuka.",
+"examples": [],
+"p": "MAH-noo-kuh"
+},
+{
+"w": "slipware",
+"pos": "noun",
+"senses": [
+"A type of pottery identified by its primary decorating process where slip is placed onto the dry surface by dipping, painting or splashing."
+],
+"ety": "From slip + ware.",
+"examples": [],
+"p": null
+},
+{
+"w": "individualist",
+"pos": "noun",
+"senses": [
+"Someone who believes in individualism as a sociopolitical system.",
+"Someone who believes in the philosophy of individualism; a solipsist.",
+"Someone who does as they wish, unconstrained by external influences."
+],
+"ety": "From individual + -ist.",
+"examples": [
+"However, apart from all this, the Chief was a grand old man, belonging to a class of individualists which seems to be dying out in these days, when standard behaviour seems to be as prevalent as standard designs.",
+"Miró was too much of an individualist to simply subscribe to an aesthetic party platform of Mediterranean art, which wanted to move forward, but only at a safe trot."
+],
+"p": null
+},
+{
+"w": "dictatorial",
+"pos": "adjective",
+"senses": [
+"in the manner of a dictator, usually with callous disregard for others."
+],
+"ety": "From dictator + -ial.",
+"examples": [],
+"p": null
+},
+{
+"w": "chloral",
+"pos": "noun",
+"senses": [
+"A colourless narcotic liquid, trichloroacetaldehyde, CCl₃CHO, obtained at first by the action of chlorine on alcohol and that, when treated with water, produces chloral hydrate."
+],
+"ety": "Blend of chlorine + alcohol.",
+"examples": [],
+"p": "KLAW-ral"
+},
+{
+"w": "andouille",
+"pos": "noun",
+"senses": [
+"A spiced, heavily smoked Cajun pork sausage, often made from the entire gastrointestinal system of the pig.",
+"Lightly smoked French sausage that is eaten cold, made of pork gut filled with tripe or minced meat of the same animal."
+],
+"ety": "Borrowed from French andouille, ultimately from Latin indūcō (“to lead in, to bring in”). Doublet of nduja.",
+"examples": [],
+"p": "an-DOO-ee"
+},
+{
+"w": "millipore",
+"pos": "noun",
+"senses": [
+"Any of several filters, made from cellulose acetate membranes, capable of removing very small particles."
+],
+"ety": "From milli- + pore, originally a trademark.",
+"examples": [
+"Because of its use in cloud seeding it is important to know whether millipores can detect silver iodide.",
+"Calcium ions are present in this fluid. The millipores within the enamel contain this electrolyte , separated by the positive and negative poles; the cathode is the outer enamel, and the anode is the internal enamel."
+],
+"p": null
+},
+{
+"w": "narcoleptic",
+"pos": "noun",
+"senses": [
+"One who suffers from narcolepsy (\"a disorder characterized by sudden and uncontrollable attacks of deep sleep\")."
+],
+"ety": "From narco- (“pertaining to sleep”) + -leptic (“of or relating to a condition of seizing”).",
+"examples": [],
+"p": null
+},
+{
+"w": "theophile",
+"pos": "noun",
+"senses": [
+"One who loves God."
+],
+"ety": "From theo- + -phile.",
+"examples": [],
+"p": null
+}
+]

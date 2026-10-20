@@ -1,0 +1,432 @@
+[
+{
+"w": "allergist",
+"pos": "noun",
+"senses": [
+"A doctor who specializes in the treatment of allergies."
+],
+"ety": "From allergy + -ist.",
+"examples": [
+"As it warms up, expect everything to bloom at once, creating what allergists call a pollen vortex."
+],
+"p": null
+},
+{
+"w": "solecism",
+"pos": "noun",
+"senses": [
+"An error or improper usage.",
+"A faux pas or breach of etiquette; a transgression against the norms of expected behavior."
+],
+"ety": "Borrowed from Middle French solecisme, soloëcisme (French solécisme) or its etymon Latin soloecismus, from Ancient Greek σολοικισμός (soloikismós), from σόλοικος (sóloikos, “speaking incorrectly”), from Σόλοι (Sóloi), an ancient Athenian colony in Cilicia whose inhabitants spoke a dialect regarded by Athenians as a corrupted and barbarous form of Attic Greek. Compare Atticism.",
+"examples": [],
+"p": "SAH-luh-sih-zum"
+},
+{
+"w": "kachori",
+"pos": "noun",
+"senses": [
+"An Indian snack of flour with beans and spices."
+],
+"ety": "Borrowed from Hindi कचौरी (kacaurī) or कचौड़ी (kacauṛī).",
+"examples": [
+"He smelt freshly fried kachoris rescued from the wedding buffet."
+],
+"p": null
+},
+{
+"w": "upshift",
+"pos": "noun",
+"senses": [
+"A shift to a higher level, such as of frequency, growth, economic level, etc."
+],
+"ety": "From Middle English upshiften, upschyften (“to raise”), equivalent to up- + shift.",
+"examples": [],
+"p": null
+},
+{
+"w": "pursuer",
+"pos": "noun",
+"senses": [
+"The party who initiates a lawsuit; a plaintiff."
+],
+"ety": "From pursue + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "turista",
+"pos": "noun",
+"senses": [
+"Synonym of traveler's diarrhea."
+],
+"ety": "Borrowed from Spanish turista (literally “tourist”), from English tourist.",
+"examples": [],
+"p": null
+},
+{
+"w": "myelogenous",
+"pos": "adjective",
+"senses": [
+"Originating in, or produced by, bone marrow"
+],
+"ety": "From myelo- + -genous.",
+"examples": [],
+"p": "my-uh-LOJ-ih-nus"
+},
+{
+"w": "noodly",
+"pos": "adjective",
+"senses": [
+"Involving improvisation.",
+"Floppy, droopy."
+],
+"ety": "From noodle + -y.",
+"examples": [
+"Mitchell likes to play off O’Malley’s singing, doubling her voice with noodlier versions of her melodies or playing call-and-response with little shrieks and tweets of feedback.",
+"He felt the pangs intensifying, as if the noodly, repetitive sounds were some lost language he'd known but forgotten, a dialect discarded or repressed.",
+"If the music becomes more “noodly,” why not try and trace the notes out in front of you with your fingers?"
+],
+"p": null
+},
+{
+"w": "shinkansen",
+"pos": "noun",
+"senses": [
+"A Japanese high-speed railway line.",
+"A high-speed passenger train which runs on such a line; a bullet train."
+],
+"ety": "From Japanese 新(しん)幹(かん)線(せん) (shinkansen, literally “new trunk line”).",
+"examples": [],
+"p": null
+},
+{
+"w": "aureus",
+"pos": "noun",
+"senses": [
+"A gold coin, minted in the Roman Empire from approximately 100 B.C.E. to 309 C.E., equal to 25 denarii."
+],
+"ety": "From Latin aureus (“golden; gold coin equivalent to 25 denarii”), noun use of adjective, from aurum (“gold”). Doublet of eyrir, öre, øre, and oyra.",
+"examples": [],
+"p": "OH-ree-us"
+},
+{
+"w": "drachm",
+"pos": "noun",
+"senses": [
+"One sixteenth (1⁄16) of an ounce avoirdupois (1.77 g; symbol: ʒ).",
+"One eighth (1⁄8) of an ounce apothecary (3.89 g; symbol: ʒ)."
+],
+"ety": "Borrowed into late Middle English from Old French dragme (modern French drachme), from Late Latin dragma. Doublet of dirham.",
+"examples": [],
+"p": "dram"
+},
+{
+"w": "overcut",
+"pos": "verb",
+"senses": [
+"To cut excessively."
+],
+"ety": "From over- + cut.",
+"examples": [],
+"p": null
+},
+{
+"w": "licorice",
+"pos": "noun",
+"senses": [
+"A type of candy made from that plant's dried root or its extract.",
+"A black color, named after the licorice.",
+"A supposed aphrodisiac made in the past from dried roots of Glycyrrhiza glabra and Glycyrrhiza echinata."
+],
+"ety": "From Middle English lycorys, from Old French licoresse, from Late Latin liquiritia, alteration of Ancient Greek γλυκύρριζα (glukúrrhiza): γλυκύς (glukús, “sweet”) + ῥίζα (rhíza, “root”) (English glucose, English rhizome). Doublet of glycyrrhiza.",
+"examples": [],
+"p": "LIH-kuh-rish"
+},
+{
+"w": "saturable",
+"pos": "adjective",
+"senses": [
+"Capable of being saturated, of achieving saturation"
+],
+"ety": "From Latin saturabilis: compare French saturable.",
+"examples": [],
+"p": null
+},
+{
+"w": "tider",
+"pos": "noun",
+"senses": [
+"One who drives with the tide"
+],
+"ety": "From tide + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "utopic",
+"pos": "adjective",
+"senses": [
+"Seeming to originate in utopia; utopian"
+],
+"ety": "From utopia + -ic.",
+"examples": [
+"They dismissed the work as utopic, unpractical.",
+"By contrast, in the utopic vision of Hilton and Capra it is space which is traversed and not time; both utopic and dystopic exist in the same moment but occupy a different terrain."
+],
+"p": null
+},
+{
+"w": "shuka",
+"pos": "noun",
+"senses": [
+"A sash (decorative length of cloth) worn in parts of Africa."
+],
+"ety": "From Swahili shuka.",
+"examples": [],
+"p": null
+},
+{
+"w": "natality",
+"pos": "noun",
+"senses": [
+"The ratio of live births in an area to the population of that area; expressed per 1000 population per year.",
+"The human ability to create new ideas, institutions and frameworks out of nothing."
+],
+"ety": "From natal + -ity, perhaps after mortality. Compare French natalité (“birthrate”) and Middle English natalyte (“birth”). Philosophical usage introduced by Hannah Arendt.",
+"examples": [],
+"p": null
+},
+{
+"w": "signum",
+"pos": "noun",
+"senses": [
+"A sign, mark, or symbol.",
+"A medieval tower bell used particularly for ringing the eight canonical hours."
+],
+"ety": "Learned borrowing from Latin signum. Doublet of sign.",
+"examples": [],
+"p": "SIG-num"
+},
+{
+"w": "contempo",
+"pos": "adjective",
+"senses": [
+"Contemporary; modern."
+],
+"ety": "Clipping of contemporary.",
+"examples": [
+"It's all very contempo—as one might expect of the musical version of a film released just four years before."
+],
+"p": null
+},
+{
+"w": "parampara",
+"pos": "noun",
+"senses": [
+"A particular guru's lineage."
+],
+"ety": "Borrowed from Sanskrit परम्परा (paramparā).",
+"examples": [],
+"p": null
+},
+{
+"w": "renderer",
+"pos": "noun",
+"senses": [
+"One who, or that which, renders.",
+"A vessel in which lard, tallow, etc., is rendered."
+],
+"ety": "From Middle English renderar, equivalent to render + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "prussic",
+"pos": "adjective",
+"senses": [
+"derived from Prussian blue"
+],
+"ety": "From Latin prussicus (“Prussian”) or French prussique.",
+"examples": [],
+"p": null
+},
+{
+"w": "pragmatism",
+"pos": "noun",
+"senses": [
+"The pursuit of practicality over aesthetic qualities; a concentration on facts rather than emotions or ideals.",
+"The theory that political problems should be met with practical solutions rather than ideological ones."
+],
+"ety": "From Ancient Greek stem of πρᾶγμα (prâgma, “act”) + -ism.",
+"examples": [],
+"p": "PRAG-muh-tih-zum"
+},
+{
+"w": "esotericism",
+"pos": "noun",
+"senses": [
+"The tendency to promote or desire the esoteric.",
+"Doctrines or practices of esoteric knowledge."
+],
+"ety": "From esoteric + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "vivisection",
+"pos": "noun",
+"senses": [
+"The act or instance of cutting, surgery, or other invasive treatment of a living organism for the purposes of physiological or pathological scientific investigation."
+],
+"ety": "From Latin vīvus (“alive”) + sectiō (“cutting”). Compare French vivisection. See also vivid and section.",
+"examples": [],
+"p": "vih-vih-SEK-shun"
+},
+{
+"w": "frankfurter",
+"pos": "noun",
+"senses": [
+"A moist sausage of soft, even texture and flavor, often made from mechanically recovered meat or meat slurry."
+],
+"ety": "From German Frankfurter, the demonym of Frankfurt. Specifically, a reference to Frankfurt-am-Main.",
+"examples": [],
+"p": "FRANGK-fur-ter"
+},
+{
+"w": "toweled",
+"pos": "adjective",
+"senses": [
+"Wearing a towel."
+],
+"ety": "From towel + -ed.",
+"examples": [
+"Although the Inferno’s toweled men do not appear in bath houses per se, they are surrounded by large numbers of partially clad, often athletic male bodies, just as they would have been in the Everard.",
+"She looked up at the back of a strange toweled man, who stood at the sink."
+],
+"p": null
+},
+{
+"w": "hallel",
+"pos": "noun",
+"senses": [
+"A hymn of praise chanted during the Passover supper, consisting of Psalms cxiii to cxviii."
+],
+"ety": "From Hebrew הַלֵּל (halél).",
+"examples": [],
+"p": null
+},
+{
+"w": "conurbation",
+"pos": "noun",
+"senses": [
+"A continuous aggregation of built-up urban communities created as a result of urban sprawl."
+],
+"ety": "From Latin con- (“together”) + urbs (“city”) + -ation. Coined by Scottish biologist, sociologist, and geographer Patrick Geddes in 1915.",
+"examples": [],
+"p": "kah-ner-BAY-shun"
+},
+{
+"w": "serapeum",
+"pos": "noun",
+"senses": [
+"A temple or other religious institution dedicated to the syncretic Greco-Egyptian deity Serapis."
+],
+"ety": "From Latin [Term?], from Ancient Greek Σεραπεῖον (Serapeîon).",
+"examples": [],
+"p": null
+},
+{
+"w": "parathyroid",
+"pos": "noun",
+"senses": [
+"A parathyroid gland.",
+"A parathyroid hormone."
+],
+"ety": "From para- + thyroid.",
+"examples": [],
+"p": null
+},
+{
+"w": "ecclesia",
+"pos": "noun",
+"senses": [
+"The public legislative assembly of the Athenians."
+],
+"ety": "Learned borrowing from Latin ecclēsia, from Ancient Greek ἐκκλησία (ekklēsía). Doublet of Eccles.",
+"examples": [],
+"p": "ih-KLEE-zee-uh"
+},
+{
+"w": "masochist",
+"pos": "noun",
+"senses": [
+"Someone who enjoys pain or humiliation, or who derives pleasure from harming oneself or being harmed by others."
+],
+"ety": "Leopold von Sacher-Masoch + -ist. Coined by Richard von Krafft-Ebing and popularized by Freud in relation to sadomasochism.",
+"examples": [],
+"p": "MA-suh-kist"
+},
+{
+"w": "folkloristics",
+"pos": "noun",
+"senses": [
+"The formal academic study of folklore."
+],
+"ety": "From folklorist + -ics. Also by surface analysis, folklore + -istics.",
+"examples": [],
+"p": null
+},
+{
+"w": "emplace",
+"pos": "verb",
+"senses": [
+"To assign a position to something, or to locate something at a particular place"
+],
+"ety": "From em- + place. Cognate to French emplacer, Spanish emplazar, Portuguese emplaçar, Catalan emplaçar & Italian impiazzare.",
+"examples": [],
+"p": null
+},
+{
+"w": "caber",
+"pos": "noun",
+"senses": [
+"A long, thick log held upright at one end and tossed in the Highland games."
+],
+"ety": "From Scottish Gaelic cabar (“spar, pole”).",
+"examples": [],
+"p": "KAY-ber"
+},
+{
+"w": "playlet",
+"pos": "noun",
+"senses": [
+"A short play (dramatic work)."
+],
+"ety": "From play + -let.",
+"examples": [],
+"p": null
+},
+{
+"w": "bonker",
+"pos": "noun",
+"senses": [
+"A small calibrated explosive charges used to give a disruptive and/or destabilising force to an aeroplane in flight for test purposes."
+],
+"ety": "From bonk + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "keymaster",
+"pos": "noun",
+"senses": [
+"A person in charge of a key or keys."
+],
+"ety": "From key + master.",
+"examples": [
+"Sometimes, however, we have the archaic box with three locks, so frequent among the gilds; and in such cases members served in rotation as \"keymasters,\" or, as we should now say, trustees."
+],
+"p": null
+}
+]

@@ -1,0 +1,452 @@
+[
+{
+"w": "cokey",
+"pos": "adjective",
+"senses": [
+"Cocaine-addicted."
+],
+"ety": "From coke (“cocaine”) + -y.",
+"examples": [
+"She messed around with a bloke named Smokey // She loved him though he was cokey"
+],
+"p": null
+},
+{
+"w": "durra",
+"pos": "noun",
+"senses": [
+"A kind of millet, a variety of sorghum; Indian millet (Sorghum bicolor)."
+],
+"ety": "From Arabic ذُرَة (ḏura).",
+"examples": [
+"The moonlight boy told me that it was soon time to gather the durra harvest."
+],
+"p": null
+},
+{
+"w": "calcination",
+"pos": "noun",
+"senses": [
+"The process of calcining: heating a substance to a high temperature, but below its melting point, to bring about thermal decomposition."
+],
+"ety": "From calcine + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "ukiyo",
+"pos": "noun",
+"senses": [
+"hedonistic urban culture of the Edo period."
+],
+"ety": "Borrowed from Japanese うきよ.",
+"examples": [],
+"p": null
+},
+{
+"w": "fluffernutter",
+"pos": "noun",
+"senses": [
+"A sandwich made with peanut butter and marshmallow fluff, most common in New England."
+],
+"ety": "Genericized trademark from fluff + -er + nut + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "penna",
+"pos": "noun",
+"senses": [
+"a contour feather"
+],
+"ety": "From Latin penna (“feather”). Doublet of panne, pen, and pinna.",
+"examples": [],
+"p": null
+},
+{
+"w": "filamentation",
+"pos": "noun",
+"senses": [
+"The growth of filaments."
+],
+"ety": "From filament + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "analyticity",
+"pos": "noun",
+"senses": [
+"The property of being analytic, especially of being an analytic function."
+],
+"ety": "From analytic + -ity.",
+"examples": [],
+"p": "an-uh-lih-TIS-ih-tee"
+},
+{
+"w": "flagellant",
+"pos": "noun",
+"senses": [
+"a person who whips themselves or others either as part of a religious penance or for sexual gratification."
+],
+"ety": "From Latin flagellāns, present participle of flagellāre (“to whip”).",
+"examples": [],
+"p": null
+},
+{
+"w": "megafauna",
+"pos": "noun",
+"senses": [
+"The large animals of a given region or time, considered as a group.",
+"A treatise on such a group of large animals."
+],
+"ety": "From mega- + fauna.",
+"examples": [
+"The extinction of the Pleistocene megafauna had ended there long before it had in Europe, and so a \"broad spectrum\" of food collecting had been going on for some time."
+],
+"p": null
+},
+{
+"w": "rationalism",
+"pos": "noun",
+"senses": [
+"The theory that reason is a source of knowledge independent of and superior to sense perception.",
+"The theory that knowledge may be derived by deductions from a priori concepts (such as axioms, postulates or earlier deductions).",
+"A view that the fundamental method for problem solving is through reason and experience rather than faith, inspiration, revelation, intuition or authority.",
+"Elaboration of theories by use of reason alone without appeal to experience, such as in mathematical systems."
+],
+"ety": "From rational + -ism.",
+"examples": [],
+"p": "RASH-uh-nuh-lih-zum"
+},
+{
+"w": "aerostat",
+"pos": "noun",
+"senses": [
+"An aircraft, such as a dirigible or balloon, that derives its lift from buoyancy rather than from wings or rotors.",
+"A moored balloon flown in a semi-permanent manner, such as a border patrol monitoring balloon affixed at 18,000 feet (~6 km)."
+],
+"ety": "Borrowed from French aérostat, from Ancient Greek ἀήρ (aḗr, “air”) + στατός (statós, “stable”), equivalent to aero- + -stat.",
+"examples": [
+"With its molten temperatures, sulphuric acid clouds, and crushing carbon dioxide atmosphere, Venus has only a handful of aerostat research outposts."
+],
+"p": null
+},
+{
+"w": "kitteh",
+"pos": "noun",
+"senses": [
+"A cat, chiefly in a lolcat-type picture."
+],
+"ety": "Lolcat corruption of kitty, equivalent to kit + -eh.",
+"examples": [
+"You shud wership Ceiling Cat, teh God Kitteh ov Daniel.",
+"Kittehs. ¶ Doggos. ¶ Domesticated danger noodles. ¶ The Internet belongs to your pets. Let's just admit that.",
+"Now our social media feeds are full of heckin’ good doggos and puppers, cute kittehs and cattos."
+],
+"p": null
+},
+{
+"w": "plagal",
+"pos": "adjective",
+"senses": [
+"Designating a mode lying a perfect fourth below the authentic form.",
+"Designating a cadence in which the subdominant chord precedes the tonic."
+],
+"ety": "From Late Latin plagalis, from plaga, from plagius, from Byzantine Ancient Greek πλάγιος (plágios, “plagal”), πλάγιος (plágios, “oblique”).",
+"examples": [],
+"p": "PLAY-gul"
+},
+{
+"w": "laverbread",
+"pos": "noun",
+"senses": [
+"A traditional Welsh delicacy of boiled laver, coated with oatmeal and fried.",
+"Porphyra umbilicalis, a red alga, one kind of laver."
+],
+"ety": "From laver + bread.",
+"examples": [],
+"p": "LAH-ver-bred"
+},
+{
+"w": "yakiniku",
+"pos": "noun",
+"senses": [
+"Meat grilled on a barbecue Japanese-style."
+],
+"ety": "Borrowed from Japanese 焼肉 (yakiniku), from 焼き (yaki, “to grill, fry”) + 肉 (niku, “meat”).",
+"examples": [],
+"p": null
+},
+{
+"w": "eluent",
+"pos": "noun",
+"senses": [
+"In chromatography, a solvent used in order to effect separation by elution."
+],
+"ety": "From elute; Latin eluent-, eluens (washing out), 1941.",
+"examples": [],
+"p": "EL-yoo-unt"
+},
+{
+"w": "shrimper",
+"pos": "noun",
+"senses": [
+"One who fishes for or catches shrimp.",
+"A boat used in fishing for shrimp."
+],
+"ety": "From shrimp + -er.",
+"examples": [
+"Many shrimpers complain that the crabbers place their traps too close together and that they can't go between the traps without snagging their nets.",
+"On Monday, Mr. Luong, a Vietnamese immigrant who has been working in Bayou La Batre as a shrimper, and his wife, Ngoc Phan, 23, contacted the police to report that their children were missing, Chief Joyner said."
+],
+"p": null
+},
+{
+"w": "neuroeconomics",
+"pos": "noun",
+"senses": [
+"A combination of neuroscience, economics and psychology used to study the decision-making process."
+],
+"ety": "From neuro- + economics.",
+"examples": [],
+"p": null
+},
+{
+"w": "maniple",
+"pos": "noun",
+"senses": [
+"In Western Christianity, an ornamental band or scarf worn upon the left arm as a part of the vestments of a priest in the Roman Catholic Church, and sometimes the Church of England."
+],
+"ety": "From Late Middle English maniple, manyple (“scarf worn as vestment, maniple”), borrowed from Middle French, Old French maniple, manipule (“handful; troop of soldiers; scarf worn as vestment”) (modern French manipule), from Latin manipulus (“bundle, handful; troop of soldiers”), from manus (“hand”) (ultimately from Proto-Indo-European *(s)meh₂- (“to beckon, signal”)) + the weakened root of pleō (“to fill; to fulfil”) (ultimately from Proto-Indo-European *pleh₁- (“to fill”)). The English word is cognate with Italian manipulo (“scarf worn as vestment”) (obsolete), manipolo (“handful; troop of sol",
+"examples": [],
+"p": "MAN-uh-pul"
+},
+{
+"w": "segno",
+"pos": "noun",
+"senses": [
+"The sign 𝄋, indicating the start of a passage of music to be repeated."
+],
+"ety": "From Italian segno, from Latin signum. Doublet of sign.",
+"examples": [],
+"p": null
+},
+{
+"w": "mondo",
+"pos": "noun",
+"senses": [
+"A dialogue between master and student designed to obtain an intuitive truth."
+],
+"ety": "From Japanese 問答 (mondō).",
+"examples": [],
+"p": null
+},
+{
+"w": "unwatchable",
+"pos": "adjective",
+"senses": [
+"That cannot be watched; that does not bear watching."
+],
+"ety": "From un- + watchable.",
+"examples": [
+"His first movies were so gross, most people consider them unwatchable."
+],
+"p": null
+},
+{
+"w": "delict",
+"pos": "noun",
+"senses": [
+"A wrongful act, analogous to a tort in common law.",
+"Synonym of misdeed, any wrongful act."
+],
+"ety": "Borrowed from Latin dēlīctum (“fault”), neuter of dēlīctus, past participle of delinquo (“to fail; to be lacking”), from dē- + linquō (“to leave, quit, forsake, depart from”).",
+"examples": [],
+"p": "dih-LIKT"
+},
+{
+"w": "removalist",
+"pos": "noun",
+"senses": [
+"One who advocates the removal of native populations from their land.",
+"One who removes (by profession).",
+"A person or company who specialises in domestic removals, that is, the transportation of household contents when moving house."
+],
+"ety": "From removal + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "marikina",
+"pos": "noun",
+"senses": [
+"A small marmoset, the golden lion tamarin, Leontopithecus rosalia."
+],
+"ety": "From the native name: compare mariquinha. Maybe related to Maricá",
+"examples": [],
+"p": null
+},
+{
+"w": "geest",
+"pos": "noun",
+"senses": [
+"A type of slightly raised landscape, with sandy and gravelly soils, that occurs in the plains of Northern Germany, the Northern Netherlands and Denmark."
+],
+"ety": "Borrowed from German Geest (from Low German güst (“dry, infertile”, adjective), from Middle Low German gēst (“dry, elevated”, literally “cracking, gaping, yawning”)) or Dutch geest (from Middle Dutch geest, from Old Dutch *gēst (“dry, infertile”)), in either case a substantivization of what was initially an adjective, Proto-Germanic *gais- (“infertile”), ultimately probably from *gīnan. See also German gähnen.",
+"examples": [],
+"p": "geest"
+},
+{
+"w": "mandelbrot",
+"pos": "noun",
+"senses": [
+"A sort of cookie-like hard, sweet bread usually containing almonds traditionally eaten by Ashkenazi Jews and often dipped in tea."
+],
+"ety": "Spelling probably derived from German Mandelbrot. Compare Yiddish מאַנדלבראָט (mandlbrot, “almond bread”), which may have semantically influenced the English term.",
+"examples": [],
+"p": null
+},
+{
+"w": "militarize",
+"pos": "verb",
+"senses": [
+"To give a military character to something, such as government or organization.",
+"To train or equip for war.",
+"To adopt for use by the military."
+],
+"ety": "From military + -ize.",
+"examples": [],
+"p": "MIH-lih-tuh-rize"
+},
+{
+"w": "drenching",
+"pos": "adjective",
+"senses": [
+"That causes one to become extremely wet."
+],
+"ety": "From Middle English drenchyng, drenchynge, drenchende, from Old English drenċende, from Proto-Germanic *drankijandz, present participle of *drankijaną (“to drench”), equivalent to drench + -ing.",
+"examples": [
+"We'll be experiencing drenching rain all weekend.",
+"In its 5 a.m. update, the National Hurricane Center noted that in its initial entry onto land, the storm remains a drenching, windy threat.",
+"They walked me through the dynamics of what made this a particularly drenching storm, why Houston is so susceptible to flooding, and whether the decision not to evacuate the city was the right call."
+],
+"p": null
+},
+{
+"w": "snuggly",
+"pos": "adjective",
+"senses": [
+"Cuddly; pleasant to snuggle with.",
+"Fond of snuggling."
+],
+"ety": "From snuggle + -y.",
+"examples": [
+"Nicole was a very snuggly girl after she broke up with her boyfriend."
+],
+"p": null
+},
+{
+"w": "tekkers",
+"pos": "noun",
+"senses": [
+"An ability to do something well; skill; (UK) a technique."
+],
+"ety": "Clipping of technique + -ers.",
+"examples": [
+"I ain't got no tekkers like no Heskey",
+"I do skrrt on the beat like Mario Kart, I got mad tekkers",
+"What a goal as well, unbelievable tekkers."
+],
+"p": null
+},
+{
+"w": "plakat",
+"pos": "noun",
+"senses": [
+"Synonym of Siamese fighting fish."
+],
+"ety": "From Thai ปลากัด (bplaa gàt, “biting fish”)",
+"examples": [],
+"p": null
+},
+{
+"w": "sayang",
+"pos": "noun",
+"senses": [
+"sweetheart, darling"
+],
+"ety": "* (Singaporean and Malaysian English): Borrowed from Malay sayang. * (Philippine English): Borrowed from Tagalog sayang.",
+"examples": [],
+"p": "SAH-yang"
+},
+{
+"w": "stiffener",
+"pos": "noun",
+"senses": [
+"Anything added to something in order to stiffen it, such as a support beam, or starch for a collar.",
+"One of a series of angle bars, Z-bars, beams, rods, or other shapes, attached in order to provide them the necessary stiffness or rigidity."
+],
+"ety": "From stiffen + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "fatburger",
+"pos": "noun",
+"senses": [
+"A hamburger made with extremely fatty meat.",
+"An extra-large hamburger."
+],
+"ety": "From fat + -burger.",
+"examples": [
+"On meats, for example, stores can raise the real price simply by the way they trim, or by adding additional fat to hamburger. Especially watch out for fatburgers at this time.",
+"By the time they pull in the drive, they've forgotten what they saw and they're hungry for the next go-round. Fatburgers. Fast food and friendly, but when it comes to vitamins, a vacuum.",
+"Liam finished off his fatburger in half a dozen big bites, mopped up the last of the juice with the last of the fries, and licked his fingers."
+],
+"p": null
+},
+{
+"w": "pronghorn",
+"pos": "noun",
+"senses": [
+"A North American mammal, Antilocapra americana, that resembles an antelope."
+],
+"ety": "From prong + horn.",
+"examples": [
+"If historical records are accurate, the current population of about 250 pronghorn in the northern range is less than 15% of that in the early 1900s (YNP 1997) (Figure 4–7)."
+],
+"p": null
+},
+{
+"w": "tussle",
+"pos": "noun",
+"senses": [
+"A physical fight or struggle.",
+"A conflict, an argument, a disagreement."
+],
+"ety": "Related to tousle.",
+"examples": [],
+"p": "TUS-ul"
+},
+{
+"w": "monumentality",
+"pos": "noun",
+"senses": [
+"The quality or state of being monumental."
+],
+"ety": "From monumental + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "sawblade",
+"pos": "noun",
+"senses": [
+"The blade of a saw."
+],
+"ety": "From saw + blade.",
+"examples": [],
+"p": null
+}
+]

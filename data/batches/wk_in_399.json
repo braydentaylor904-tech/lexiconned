@@ -1,0 +1,433 @@
+[
+{
+"w": "molossus",
+"pos": "noun",
+"senses": [
+"A metrical foot of three long syllables."
+],
+"ety": "From Latin molossus, from Ancient Greek μολοσσός (molossós), properly \"belonging to the Molossians\", a people in the eastern part of Epirus.",
+"examples": [],
+"p": null
+},
+{
+"w": "burka",
+"pos": "noun",
+"senses": [
+"A dress made from felt or karakul (the short curly fur of young lambs of the breed of that name), traditionally worn by men of the Caucasus region."
+],
+"ety": "From Russian бу́рка (búrka); further etymology is disputed.",
+"examples": [],
+"p": "BUR-kuh"
+},
+{
+"w": "auriferous",
+"pos": "adjective",
+"senses": [
+"Containing or producing gold; gold-bearing."
+],
+"ety": "From Latin aurifer (“gold-bearing”) + the English suffix -ous. The Latin term in turn derived from aurum (“gold”) + ferō (“to carry”).",
+"examples": [],
+"p": "aw-RIF-uh-rus"
+},
+{
+"w": "chronometric",
+"pos": "adjective",
+"senses": [
+"Of or related to chronometers, clocks and other timekeeping devices.",
+"Of or related to chronometry, the study of timekeeping and the creation and maintenance of timekeeping devices."
+],
+"ety": "From chrono- + -metric on the model of chronometer, ultimately from Ancient Greek χρόνος (khrónos, “time”) and μέτρον (métron, “meter, measuring device”).",
+"examples": [],
+"p": null
+},
+{
+"w": "multilateralism",
+"pos": "noun",
+"senses": [
+"Unbiased trade between nations, in contrast to bilateralism.",
+"A system by which nations consult others in matters of foreign policy, by way of organisations such as the United Nations."
+],
+"ety": "From multilateral + -ism.",
+"examples": [
+"Trump’s national security adviser, John Bolton, a lifelong opponent of multilateralism and its institutions, had pushed for a hardline position, particularly on the role of the IMF."
+],
+"p": null
+},
+{
+"w": "sibyl",
+"pos": "noun",
+"senses": [
+"A pagan female oracle or prophetess, especially the Cumaean sibyl."
+],
+"ety": "From Latin Sibylla, from Ancient Greek Σίβυλλα (Síbulla).",
+"examples": [],
+"p": "SIH-bul"
+},
+{
+"w": "maharani",
+"pos": "noun",
+"senses": [
+"The wife of a maharajah; approximately, a queen consort."
+],
+"ety": "From Hindustani مہارانی / महारानी (mahārānī), from Sanskrit महा (mahā, “great”) and राज्ञी (rājñī, “queen”).",
+"examples": [
+"Nonetheless, for many years afterward, she was often referred to as maharani, though that eventually gave way to the less glamorous but more respectful title of rajmata, the equivalent of queen mother."
+],
+"p": null
+},
+{
+"w": "snickerdoodle",
+"pos": "noun",
+"senses": [
+"A cookie in which the batter is rolled into a ball and coated with cinnamon sugar."
+],
+"ety": "The earliest known use is from 1889. Possibly a fanciful coinage, from snicker + doodle (“doodlebug”; though without clear semantic connection to either word). An alternative etymology derives it from German Schneckennudel, also a round type of pastry, but formed from dough rolled up in a coil. A Dutch origin has also been surmised, based off semantics (see cookie) and similar-sounding words (see snickersnee).",
+"examples": [],
+"p": null
+},
+{
+"w": "eternality",
+"pos": "noun",
+"senses": [
+"The condition of being eternal; endlessness",
+"All of time; eternity"
+],
+"ety": "From eternal + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "spinnerbait",
+"pos": "noun",
+"senses": [
+"A kind of fishing lure with spinning blades that create varying degrees of flash and vibration mimicking the movement of a fish."
+],
+"ety": "From spinner + bait.",
+"examples": [],
+"p": null
+},
+{
+"w": "sigmoidal",
+"pos": "adjective",
+"senses": [
+"sigmoid; S-shaped."
+],
+"ety": "From sigmoid + -al.",
+"examples": [],
+"p": null
+},
+{
+"w": "michelada",
+"pos": "noun",
+"senses": [
+"A Mexican cocktail made with beer, tomato juice, lime juice, and various assorted sauces and spices."
+],
+"ety": "Borrowed from Mexican Spanish michelada.",
+"examples": [
+"In New York, at PDT and Mayahuel, they’re mixing hot sauce, mezcal and beer to create smoky riffs on the michelada, a classic Mexican cerveza preparada, or prepared beer."
+],
+"p": null
+},
+{
+"w": "kinkajou",
+"pos": "noun",
+"senses": [
+"Potos flavus, a carnivorous mammal of Central America and South America with a long, prehensile tail, related to the raccoon."
+],
+"ety": "From French quincajou, from an Algonquian word, probably originally meaning ‘wolverine’ (compare Algonquin Kwingwaage, Ojibwe gwiingwa'aage (“wolverine”)), which was later transferred to the South American animal. Related to carcajou.",
+"examples": [],
+"p": "KING-kuh-joo"
+},
+{
+"w": "whanau",
+"pos": "noun",
+"senses": [
+"An extended family."
+],
+"ety": "From Māori whānau (“extended family; genus”).",
+"examples": [],
+"p": "FAH-nah-oo"
+},
+{
+"w": "dogtooth",
+"pos": "noun",
+"senses": [
+"Synonym of cuspid, a pointed tooth between the incisors and premolars.",
+"An ornament common in Gothic architecture, consisting of pointed projections resembling teeth.",
+"Synonym of houndstooth.",
+"A dogtooth violet."
+],
+"ety": "From Middle English dogge tothe, calque of Latin dens caninus (“doglike tooth”). Equivalent to dog + tooth.",
+"examples": [],
+"p": null
+},
+{
+"w": "currywurst",
+"pos": "noun",
+"senses": [
+"A German national dish consisting of hot pork sausage cut into slices and seasoned with curry ketchup."
+],
+"ety": "Borrowed from German Currywurst, from Curry + Wurst (“sausage”). By surface analysis, curry + wurst.",
+"examples": [],
+"p": null
+},
+{
+"w": "cloner",
+"pos": "noun",
+"senses": [
+"Someone who clones something.",
+"A device capable of duplicating physical objects."
+],
+"ety": "From clone + -er.",
+"examples": [
+"We set up a meeting with the factor VIII gene cloners at the Genetics Institute, a biotech company in Cambridge, Massachusetts."
+],
+"p": null
+},
+{
+"w": "disbar",
+"pos": "verb",
+"senses": [
+"To exclude (a person) from something."
+],
+"ety": "From dis- + bar.",
+"examples": [],
+"p": "dis-BAR"
+},
+{
+"w": "tassie",
+"pos": "noun",
+"senses": [
+"A cup or goblet for drinking wine.",
+"A decorative ring or plug at the end of the barrel of a pen.",
+"A small tart or miniature pie."
+],
+"ety": "From French tasse (“cup”), from Arabic طَاس (ṭās, “bowl, basin”).",
+"examples": [],
+"p": "TAS-ee"
+},
+{
+"w": "stamper",
+"pos": "noun",
+"senses": [
+"An instrument for pounding or stamping.",
+"A physical template from which many identical vinyl records or compact discs can be produced."
+],
+"ety": "From stamp + -er.",
+"examples": [],
+"p": "STAM-per"
+},
+{
+"w": "wabbit",
+"pos": "adjective",
+"senses": [
+"Exhausted; tired."
+],
+"ety": "Scots wabbit, ultimate origin uncertain.",
+"examples": [],
+"p": "WA-bit"
+},
+{
+"w": "sequela",
+"pos": "noun",
+"senses": [
+"That which follows; a consequence, an effect."
+],
+"ety": "Learned borrowing from Latin sequēla (“aftermath, sequel; consequence, result”), from sequor (“to follow; to come or go after, pursue”) (ultimately from Proto-Indo-European *sekʷ- (“to follow”)) + -ēla (suffix forming abstract nouns from verbs). Doublet of sequel. The plural form is a learned borrowing from Latin sequēlae.",
+"examples": [],
+"p": "sih-KWEL-uh"
+},
+{
+"w": "respirable",
+"pos": "adjective",
+"senses": [
+"Of air: breathable."
+],
+"ety": "From respire + -able.",
+"examples": [],
+"p": "RES-puh-ruh-bul"
+},
+{
+"w": "decora",
+"pos": "noun",
+"senses": [
+"A Japanese fashion style of the late 20th century, characterized by bold, bright colours and numerous accessories such as hair clips and bows."
+],
+"ety": "Borrowed from Japanese デコラ (dekora), a clipping of デコレーション (dekorēshon, literally “decoration”).",
+"examples": [],
+"p": null
+},
+{
+"w": "expansionist",
+"pos": "noun",
+"senses": [
+"An advocate of expansionism."
+],
+"ety": "From expansion + -ist.",
+"examples": [],
+"p": "ik-SPAN-shun-ist"
+},
+{
+"w": "suspensive",
+"pos": "adjective",
+"senses": [
+"Characterized by suspense; suspenseful."
+],
+"ety": "Learned borrowing from Latin suspēnsīvus. First attested in 1557. By surface analysis, suspense + -ive.",
+"examples": [],
+"p": "suh-SPEN-siv"
+},
+{
+"w": "airblast",
+"pos": "noun",
+"senses": [
+"A sudden rush of air; often, such a blast in a confined space (such as a mine) right after a disturbance or explosion."
+],
+"ety": "From air + blast.",
+"examples": [],
+"p": null
+},
+{
+"w": "wonderboy",
+"pos": "noun",
+"senses": [
+"A male child prodigy, or (loosely) a talented male of any age."
+],
+"ety": "From wonder + boy.",
+"examples": [
+"Daddy had been using that child for a boy prophet, building up a whole new ministry around him, since the child was four years old, calling him a wonderboy...",
+"He could have been a robot really. He could be taught to do anything, the coaches thought. He was a wonderboy."
+],
+"p": null
+},
+{
+"w": "backronym",
+"pos": "noun",
+"senses": [
+"A word that is originally not an acronym but is turned into one by devising a full form for it, sometimes as a folk etymology, sometimes as a contrived acronym to name a new organization, proposal, or other entity.",
+"A phrase which assigns a morpheme or word to each letter of a pre-existing acronym."
+],
+"ety": "Blend of back + acronym.",
+"examples": [],
+"p": "BAK-ruh-nim"
+},
+{
+"w": "sapid",
+"pos": "adjective",
+"senses": [
+"tasty, flavoursome"
+],
+"ety": "From Latin sapidus, from sapiō (“to taste”). Doublet of savoury.",
+"examples": [],
+"p": null
+},
+{
+"w": "bluey",
+"pos": "adjective",
+"senses": [
+"Having a colour similar to blue."
+],
+"ety": "From blue + -y.",
+"examples": [],
+"p": "BLOO-ee"
+},
+{
+"w": "gateau",
+"pos": "noun",
+"senses": [
+"A rich, usually iced, cake."
+],
+"ety": "Borrowed from French gâteau. Doublet of wastel.",
+"examples": [],
+"p": null
+},
+{
+"w": "crowler",
+"pos": "noun",
+"senses": [
+"A large can used to hold craft beer."
+],
+"ety": "Trademark. Blend of can + growler",
+"examples": [
+"The crowler has permeated today’s beer culture so far that you can have personalized ones made for your groomsmen.",
+"Oskar Blues Brewing helped create crowlers, which are thought to last longer because UV rays can't get through the can.",
+"In 2015 the owners added “crowlers” to their available line up of “to go” beer."
+],
+"p": null
+},
+{
+"w": "metrology",
+"pos": "noun",
+"senses": [
+"The science of weights and measures or of measurement.",
+"A system of weights and measures."
+],
+"ety": "From Ancient Greek μέτρον (métron, “measure”) + English -logy.",
+"examples": [],
+"p": "meh-TRAH-luh-jee"
+},
+{
+"w": "cytotoxic",
+"pos": "noun",
+"senses": [
+"Any cytotoxic substance; a cytotoxin."
+],
+"ety": "From cyto- + toxic.",
+"examples": [
+"Current chemotherapies for cancer are mostly cytotoxics with serious side effects and high incidence of drug resistance."
+],
+"p": null
+},
+{
+"w": "octree",
+"pos": "noun",
+"senses": [
+"A treelike data structure each of whose nodes has up to eight children, most often used to partition a three-dimensional space by recursively subdividing it."
+],
+"ety": "From oct- + tree.",
+"examples": [],
+"p": null
+},
+{
+"w": "cryotherapy",
+"pos": "noun",
+"senses": [
+"The use of low temperatures in medical therapy or the removal of heat from a body part, aiming to decrease cellular metabolism and inflammation and to promote vasoconstriction."
+],
+"ety": "From cryo- + therapy.",
+"examples": [],
+"p": null
+},
+{
+"w": "awayday",
+"pos": "noun",
+"senses": [
+"A business event, such as a team-building exercise, training course or internal meeting, that takes place away from the office without the usual distractions."
+],
+"ety": "Originally a railway day-return ticket at a special price.",
+"examples": [
+"Unlike one location of the 2019 comedy series Down from London, in which Kingsman and Graham Dickson starred as an odd couple trying to fix their relationship with awaydays, her home is not by the sea."
+],
+"p": null
+},
+{
+"w": "suprasegmental",
+"pos": "adjective",
+"senses": [
+"More than a segment."
+],
+"ety": "From supra- + segmental.",
+"examples": [],
+"p": "soop-ruh-seg-MEN-tul"
+},
+{
+"w": "isostructural",
+"pos": "adjective",
+"senses": [
+"Having the same, or a corresponding, structure."
+],
+"ety": "From iso- + structural.",
+"examples": [],
+"p": null
+}
+]

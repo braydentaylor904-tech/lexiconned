@@ -1,0 +1,448 @@
+[
+{
+"w": "lefse",
+"pos": "noun",
+"senses": [
+"A traditional soft Norwegian flatbread made from potato, flour, and milk or cream (or sometimes lard) and cooked on a griddle."
+],
+"ety": "From Norwegian lefse.",
+"examples": [],
+"p": "LEF-suh"
+},
+{
+"w": "baptize",
+"pos": "verb",
+"senses": [
+"To perform the sacrament of baptism by sprinkling or pouring water over someone or immersing them in water.",
+"To Christianize.",
+"To dedicate or christen."
+],
+"ety": "From Middle English baptisen, baptizen, from Old French baptiser, batisier, from Ecclesiastical Latin, Late Latin baptizāre, from Ancient Greek βαπτίζω (baptízō, “to immerse, plunge, baptize”).",
+"examples": [],
+"p": "BAP-tize"
+},
+{
+"w": "dross",
+"pos": "noun",
+"senses": [
+"Residue that forms as a scum on the surface of molten metal from oxidation.",
+"The impurities in metal.",
+"A waste product from working with metal.",
+"Worthless or trivial matter."
+],
+"ety": "From Middle English drosse, dros, from Old English drōs, from Proto-Germanic *drōhs (“dregs, sediment”). Also compare Old English drōsna, drōsne (“a ground, sediment, lees, dregs, dirt, ear wax”), from Proto-Germanic *drōhsnǭ, *drōhsnō (“dregs, sediment”), derived from *drōhs. Alternatively, this may be from *dragjō + *-snō (“yeast, sediment”; compare *dragjō (“yeast”)), as if from *drēcg + -sn. Ultimately from Proto-Indo-European *dʰrā́ks (“sediment, yeast”). Cognate with Scots dros, drose, drosse (“small particles, fragments, dross”), Middle Dutch droes (“dregs”), Dutch droesem (“dregs”), Ge",
+"examples": [],
+"p": "dros"
+},
+{
+"w": "bethe",
+"pos": "noun",
+"senses": [
+"A unit of energy equivalent to 10⁵¹ ergs, or 10⁴⁴ joules."
+],
+"ety": "Decapitalization of Bethe. Coined by astrophysicist Gerald E. Brown. Named after astrophysicist Hans Bethe, his collaborator on papers where this value frequently occurs.",
+"examples": [],
+"p": null
+},
+{
+"w": "saeculum",
+"pos": "noun",
+"senses": [
+"Any of a sequence of ages (periods of time) such that each age ends with the death of the last person remaining alive since its beginning, and the end of an age marks the beginning of the next.",
+"Any of a sequence of ages of set length, used to periodise chronicles and track wars.",
+"An approximately 85-year cycle in Strauss-Howe generational theory, a highly controversial sociological theory that postulates that zeitgeist and popular cultural values exist along recurring cycles."
+],
+"ety": "Learned borrowing from Latin saeculum. Doublet of secle.",
+"examples": [
+"According to legend, the gods had allotted a certain number of saecula to every people or civilization; the Etruscans, for example, had been given ten saecula.",
+"At the time of the reign of emperor Augustus, the Romans decided that a saeculum was 110 years.",
+"Despite skepticism regarding the degree of forecasting, the authors' presentation of historical events is comprehensive and arguments for their organization into a cyclical method of four era saeculums convincing."
+],
+"p": null
+},
+{
+"w": "flowage",
+"pos": "noun",
+"senses": [
+"A flowing or overflowing of liquid."
+],
+"ety": "From flow + -age.",
+"examples": [],
+"p": null
+},
+{
+"w": "mochi",
+"pos": "noun",
+"senses": [
+"A small Japanese rice cake made from glutinous rice."
+],
+"ety": "Borrowed from Japanese 餅(もち) (mochi).",
+"examples": [],
+"p": "MOH-chee"
+},
+{
+"w": "subjectivist",
+"pos": "adjective",
+"senses": [
+"Regarding subjective experience as fundamental."
+],
+"ety": "From subjective + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "labellum",
+"pos": "noun",
+"senses": [
+"The lower central petal of a flower (especially an orchid), usually developed to be showy and attract pollinators."
+],
+"ety": "From Latin labellum (“small lip”), diminutive of labrum (“lip”).",
+"examples": [],
+"p": "luh-BEL-um"
+},
+{
+"w": "annunciation",
+"pos": "noun",
+"senses": [
+"The act of annunciating."
+],
+"ety": "From Middle English annunciacion, annunciation, from Latin annuntiātiō and Old French anonciacion.",
+"examples": [],
+"p": null
+},
+{
+"w": "trolly",
+"pos": "adjective",
+"senses": [
+"Of, befitting, or characteristic of a troll."
+],
+"ety": "From troll + -y.",
+"examples": [
+"The particular response of the kind of haters you mention surprised the hell outta me, because it's such trolly behavior.",
+"But as a writer on conspiracy sites, with 178,000 Twitter followers along for the ride, Wohl also earned a place among President Donald Trump’s most ardent and trolly online defenders."
+],
+"p": null
+},
+{
+"w": "doper",
+"pos": "noun",
+"senses": [
+"A person employed to apply dope solution during aircraft manufacture."
+],
+"ety": "From dope (verb) + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "poinciana",
+"pos": "noun",
+"senses": [
+"A tropical shrub, Caesalpinia pulcherrima, with bright orange-red flowers, originally native to the Americas and now widely cultivated as an ornamental."
+],
+"ety": "Modern Latin: after M. de Poinci, a 17th-century governor of the Antilles + -ana.",
+"examples": [],
+"p": null
+},
+{
+"w": "aureola",
+"pos": "noun",
+"senses": [
+"Radiance of luminous cloud that surrounds the figure in a painting of a sacred personage."
+],
+"ety": "From Latin aurea (“golden”) + -ola.",
+"examples": [],
+"p": "aw-REE-uh-luh"
+},
+{
+"w": "veganism",
+"pos": "noun",
+"senses": [
+"A way of life which strictly avoids animal products and services involving the use of living animals.",
+"Strict vegetarianism; the practice of eating neither meat nor other animal products, such as fish, milk and milk products, eggs, and honey."
+],
+"ety": "From vegan + -ism.",
+"examples": [
+"Besides being a dietary choice, veganism is a challenging and powerful lifestyle",
+"The purpose of veganism is to create a more just and compassionate society",
+"A vegan lifestyle seeks to promote awareness, compassion, and peace. Veganism is an ethical system as well as a diet."
+],
+"p": null
+},
+{
+"w": "senet",
+"pos": "noun",
+"senses": [
+"An Ancient Egyptian board game, probably played as a strategy game similar to chess or go."
+],
+"ety": "Borrowed from Egyptian znt — hieroglyphs: z:n-t:N24The full name of the game in Egyptian was znt nt ḥꜥb, which means \"game of passing\". Compare with Coptic ⲥⲓⲛⲉ (sine, “passing, afternoon”).",
+"examples": [],
+"p": null
+},
+{
+"w": "dinheiro",
+"pos": "noun",
+"senses": [
+"A coin used from the 12th to the 15th century in Portugal."
+],
+"ety": "From Portuguese dinheiro. Doublet of denar, denarius, denier, dinar, diner, and dinero.",
+"examples": [],
+"p": null
+},
+{
+"w": "fanged",
+"pos": "adjective",
+"senses": [
+"Equipped with fangs."
+],
+"ety": "From fang + -ed.",
+"examples": [
+"He sat by John Thornton's fire, a broad-breasted dog, white fanged and long-furred; but behind him were the shades of all manner of dogs, half-wolves and wild wolves ..."
+],
+"p": null
+},
+{
+"w": "smokebox",
+"pos": "noun",
+"senses": [
+"A chamber in which smoke passes from a boiler before being vented through a chimney."
+],
+"ety": "From smoke + box.",
+"examples": [],
+"p": "SMOHK-boks"
+},
+{
+"w": "keyman",
+"pos": "noun",
+"senses": [
+"A telegraph operator.",
+"A workman who checks a railway track for faults, and who carries a keying hammer.",
+"An employee of vital importance to a business."
+],
+"ety": "From key + man.",
+"examples": [
+"A corporation may feel the need for life insurance on one of its keymen under a variety of circumstances.",
+"As the keymen learn how to handle confidential company information, the owner-manager can disclose more to them. In most very small firms, the keymen will be \"working\" bosses."
+],
+"p": null
+},
+{
+"w": "legalisation",
+"pos": "noun",
+"senses": [
+"Non-Oxford British spelling of legalization."
+],
+"ety": "From legalise + -ation. Piecewise doublet of loyalisation.",
+"examples": [],
+"p": null
+},
+{
+"w": "viviparous",
+"pos": "adjective",
+"senses": [
+"Arising from an embryo that develops from the outset (rather than from a true seed that then germinates)."
+],
+"ety": "From Latin vīviparus, from vīvus (“alive, life, living”) + pariō (“give birth, produce, bring forth”).",
+"examples": [],
+"p": "vih-VIP-uh-rus"
+},
+{
+"w": "telemarketer",
+"pos": "noun",
+"senses": [
+"Someone who sells products or services by making unsolicited telephone calls."
+],
+"ety": "From tele- + marketer.",
+"examples": [],
+"p": null
+},
+{
+"w": "brachial",
+"pos": "adjective",
+"senses": [
+"Pertaining or belonging to the arm.",
+"Of the nature of an arm."
+],
+"ety": "Borrowed from Latin bracchialis, from bracchium (“arm”). Doublet of brachialis.",
+"examples": [],
+"p": "BRAY-keerl"
+},
+{
+"w": "lamblia",
+"pos": "noun",
+"senses": [
+"Giardia lamblia, an intestinal parasite that causes giardiasis."
+],
+"ety": "From New Latin, Lambl + -ia, named after Austrian physician Vilém Dušan Lambl (1824–1895).",
+"examples": [],
+"p": null
+},
+{
+"w": "florescent",
+"pos": "adjective",
+"senses": [
+"Flowering or budding."
+],
+"ety": "From Latin florescens, present active participle of floresco (“I flower”).",
+"examples": [],
+"p": "flor-ES-unt"
+},
+{
+"w": "duple",
+"pos": "adjective",
+"senses": [
+"Having two beats, or a multiple of two beats, in each measure.",
+"Having two beats in each foot."
+],
+"ety": "From Latin duplus (“twofold, double”). Attested since the 16th century. Doublet of double and doppio.",
+"examples": [],
+"p": "DYOO-pul"
+},
+{
+"w": "outbox",
+"pos": "noun",
+"senses": [
+"A box holding papers to be transmitted to others, usually by mail."
+],
+"ety": "From out + box.",
+"examples": [],
+"p": "OWT-boks"
+},
+{
+"w": "snakeman",
+"pos": "noun",
+"senses": [
+"A mythological creature that is part man and part snake."
+],
+"ety": "From snake + man.",
+"examples": [
+"There were four of his men in the room, two birdmen, a fish and a wolfman. That meant five against an unknown amount, until more entered the room. He took a step backward, as two snakemen entered the room.",
+"Sacred spells of the sinister snakemen.",
+"The Hero and Leah arrive in time to see a number of snakemen holding Adria hostage."
+],
+"p": null
+},
+{
+"w": "kashim",
+"pos": "noun",
+"senses": [
+"A traditional, large, semisubterranean men's communal house of the Yup'ik, Inuit, and Deg Hit'an Athabaskans, in which communal and ceremonial events are hosted."
+],
+"ety": "Apparently a Russian [Term?] term, perhaps ultimately from Yupik qasgiq (the terms are, at least, synonymous). In Inupiaq, the term qargi is used.",
+"examples": [
+"One Eskimo tale describes a girl who arrives at a kashim feast uninvited; when the building's spirit tells her that it has eyes, nose, arms, legs, and male genitals, she dashes home in fear."
+],
+"p": null
+},
+{
+"w": "warfighter",
+"pos": "noun",
+"senses": [
+"A servicemember of an armed force; (often specifically) one who sees combat."
+],
+"ety": "From war + fighter.",
+"examples": [
+"Training excellence inevitably returns to the leader— the warfighter. The warfighter is a special breed of soldier. From squad leader to corps commander, the warfighter knows how to fight on the battlefield.",
+"Military operations in urban terrain (MOUT) present many unique and challenging conditions for the warfighter.",
+"What will the future warfighter be like? What are the characteristics of the future battlefield on which he or she will fight? How must changes in military health care work to address emerging needs?"
+],
+"p": null
+},
+{
+"w": "apologism",
+"pos": "noun",
+"senses": [
+"A defence or excuse; a speech or written answer made to justify someone."
+],
+"ety": "From apology + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "mammy",
+"pos": "noun",
+"senses": [
+"mamma; mother"
+],
+"ety": "From mam + -y, or from mamma + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "linch",
+"pos": "noun",
+"senses": [
+"A ledge, a terrace; a right-angled projection; a lynchet."
+],
+"ety": "From Middle English linche, link, from Old English hlinċ (“a hill”). Possible doublet of lynch.",
+"examples": [],
+"p": "linch"
+},
+{
+"w": "jagirdar",
+"pos": "noun",
+"senses": [
+"One who holds a jagir."
+],
+"ety": "Borrowed from Hindustani (Hindi जागीरदार (jāgīrdār) / Urdu جَاگِير دَار), from Classical Persian جَاگِير دَار (“jagirdar”).",
+"examples": [],
+"p": "JA-gur-dar"
+},
+{
+"w": "deorbit",
+"pos": "verb",
+"senses": [
+"To cause to leave orbit.",
+"Of an orbiting object, such as a satellite: to leave orbit."
+],
+"ety": "From de- + orbit.",
+"examples": [
+"First, an orbiting weapon required elaborate spacecraft systems, such as retro-rockets to deorbit it, others to guide it, and still others to arm it.",
+"The Gemini emergency occurred when Gemini 8 deorbited and landed in the Northern Pacific 1000 miles south of Japan.",
+"Vostok 3 deorbited first, at 09.24 MT on 15 August, followed six minutes later by Vostok 4."
+],
+"p": null
+},
+{
+"w": "chatbox",
+"pos": "noun",
+"senses": [
+"A chat room."
+],
+"ety": "From chat + box.",
+"examples": [
+"How do you handle students who use the Internet for chatboxes and email?"
+],
+"p": null
+},
+{
+"w": "apostasy",
+"pos": "noun",
+"senses": [
+"The renunciation of a belief or set of beliefs.",
+"Specifically, the renunciation of one's religion or faith."
+],
+"ety": "From Latin apostasia, from Ancient Greek ἀποστασία (apostasía, “defection, revolt”), from ἀφίστημι (aphístēmi, “to withdraw, revolt”), from ἀπό (apó, “from”) + ἵστημι (hístēmi, “to stand”).",
+"examples": [],
+"p": "uh-PAWS-tuh-see"
+},
+{
+"w": "parallelizable",
+"pos": "adjective",
+"senses": [
+"Able to be made parallel."
+],
+"ety": "From parallelize + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "bioidentical",
+"pos": "adjective",
+"senses": [
+"Identical to that which is naturally produced by the body."
+],
+"ety": "From bio- + identical.",
+"examples": [],
+"p": null
+}
+]

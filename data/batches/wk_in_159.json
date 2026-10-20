@@ -1,0 +1,422 @@
+[
+{
+"w": "repletion",
+"pos": "noun",
+"senses": [
+"The condition of being replete; fullness."
+],
+"ety": "From Middle English replecioun, from Old French repletion, from Latin replētiō, replētiōnem.",
+"examples": [
+"Fiddle de dee, the whole thing is neither more nor less than a substitute for the masquerade, which luckily became so gross, it died of repletion."
+],
+"p": null
+},
+{
+"w": "overnighter",
+"pos": "noun",
+"senses": [
+"A person who overnights, or stays overnight.",
+"Something that serves overnight travel, such as a night train.",
+"A stay or event that takes place overnight."
+],
+"ety": "From overnight + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "mucilage",
+"pos": "noun",
+"senses": [
+"A thick gluey substance (gum) produced by many plants and some microorganisms."
+],
+"ety": "From Middle English muscilage, mussillage, from Middle French mucilage (“viscous substance found in vegetable material”), from Late Latin mūcilāgō (“musty or moldy juice”). See Greek μούχλα (moúchla, “mold”), and related derivatives, for example mushroom, from *meus- (“mosses, mold, mildew”).",
+"examples": [],
+"p": "MYOO-sih-lij"
+},
+{
+"w": "aquathlon",
+"pos": "noun",
+"senses": [
+"A swimming-and-running race."
+],
+"ety": "From aqua- + -athlon.",
+"examples": [],
+"p": "uh-KWATH-lahn"
+},
+{
+"w": "neonatologist",
+"pos": "noun",
+"senses": [
+"A person who studies or applies neonatology."
+],
+"ety": "From neonatology + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "kringle",
+"pos": "noun",
+"senses": [
+"A Scandinavian pastry, a variety of pretzel."
+],
+"ety": "From Danish kringle, ultimately from Old Norse kringla (“ring, circle”).",
+"examples": [],
+"p": "KRING-gul"
+},
+{
+"w": "dreamcatcher",
+"pos": "noun",
+"senses": [
+"A decorative Native American object in the form of a hoop and net with attachments such as feathers, traditionally believed by the Ojibwa to “filter out” bad dreams."
+],
+"ety": "From dream + catcher.",
+"examples": [],
+"p": null
+},
+{
+"w": "tradable",
+"pos": "adjective",
+"senses": [
+"Capable of being traded."
+],
+"ety": "From trade + -able.",
+"examples": [],
+"p": "TRAY-duh-bul"
+},
+{
+"w": "trophozoite",
+"pos": "noun",
+"senses": [
+"A protozoan in the feeding stage of its life cycle."
+],
+"ety": "From tropho- + -zoite.",
+"examples": [
+"Synchronized cultures of P. falciparum trophozoites were grown in human RBCs and incubated with increasing concentrations of purified human platelets."
+],
+"p": null
+},
+{
+"w": "observability",
+"pos": "noun",
+"senses": [
+"A measure of the extent to which something is observable."
+],
+"ety": "From observe + -ability.",
+"examples": [],
+"p": null
+},
+{
+"w": "telephonist",
+"pos": "noun",
+"senses": [
+"A telephone operator."
+],
+"ety": "From telephone + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "occluder",
+"pos": "noun",
+"senses": [
+"An object that partially or completely impedes the amount of light reaching the eye."
+],
+"ety": "From occlude + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "synapsis",
+"pos": "noun",
+"senses": [
+"The association of homologous maternal and paternal chromosomes during the initial part of meiosis."
+],
+"ety": "From Ancient Greek σῠ́νᾰψῐς (sŭ́năpsĭs, “contact”).",
+"examples": [],
+"p": "sih-NAP-sis"
+},
+{
+"w": "clava",
+"pos": "noun",
+"senses": [
+"Synonym of gracile tubercle."
+],
+"ety": "Borrowed from Latin clāva (“club, staff, knotty branch”).",
+"examples": [],
+"p": null
+},
+{
+"w": "dauphinoise",
+"pos": "noun",
+"senses": [
+"A dish of sliced potatoes baked in milk, cream and cheese."
+],
+"ety": "French dauphinoise, from the Dauphiné area of France, near the Italian border, whence this dish comes.",
+"examples": [],
+"p": "daw-fin-WAHZ"
+},
+{
+"w": "skyland",
+"pos": "noun",
+"senses": [
+"A mythical abode of gods or spirits in the sky; a heaven."
+],
+"ety": "From sky + land.",
+"examples": [
+"Manitou from the skylands once did score / Where the people today have built their homes.",
+"With this supernatural vision went the ability to travel to the skyland, the undersea home of the seals, and the underground land of the dead, where they could communicate with and pacify the forces of nature.",
+"That is how ancestors came from the skylands to the left."
+],
+"p": null
+},
+{
+"w": "flaggy",
+"pos": "adjective",
+"senses": [
+"Abounding in flags (plants with sword-shaped leaves)."
+],
+"ety": "From flag + -y.",
+"examples": [],
+"p": "FLAG-ee"
+},
+{
+"w": "zipline",
+"pos": "noun",
+"senses": [
+"A pulley suspended on a cable mounted on an incline, designed to enable a user to travel from one point to another by means of gravity.",
+"A trip on a zipline."
+],
+"ety": "From zip + line.",
+"examples": [],
+"p": "ZIP-line"
+},
+{
+"w": "mahant",
+"pos": "noun",
+"senses": [
+"A head or chief of a monastery."
+],
+"ety": "Borrowed from Hindi महान्त (mahānt), from Sanskrit महान् (mahān, “great”).",
+"examples": [],
+"p": null
+},
+{
+"w": "belote",
+"pos": "noun",
+"senses": [
+"A trick-taking card game using a 32 card deck."
+],
+"ety": "Borrowed from French belote.",
+"examples": [],
+"p": "buh-LOT"
+},
+{
+"w": "heter",
+"pos": "noun",
+"senses": [
+"Special permission from a rabbi to break a commandment."
+],
+"ety": "Borrowed from Hebrew הֶתֵּר (hetér, “permission”).",
+"examples": [
+"What comes to mind is the famous issue on ZIM SHIPPING - an Israeli company owned by Jews and they tried to get a heter for running their ships on Shabbos."
+],
+"p": null
+},
+{
+"w": "climacteric",
+"pos": "adjective",
+"senses": [
+"Critical or crucial; decisive."
+],
+"ety": "From Latin clīmactēricus, from Koine Greek κλιμακτηρικός (klimaktērikós), from κλιμακτήρ (klimaktḗr, “scale, progression, gradation”).",
+"examples": [],
+"p": "kluh-ih-mak-TAIR-ik"
+},
+{
+"w": "antinociceptive",
+"pos": "noun",
+"senses": [
+"Any substance that inhibits nociception."
+],
+"ety": "From anti- + nociceptive.",
+"examples": [],
+"p": null
+},
+{
+"w": "pedimented",
+"pos": "adjective",
+"senses": [
+"Furnished with a pediment"
+],
+"ety": "From pediment + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "arhat",
+"pos": "noun",
+"senses": [
+"One of the stages of the ascetic's spiritual evolution, when all passions (anger, ego, deception, greed, attachment, hatred and ignorance) are destroyed."
+],
+"ety": "Transliteration of Sanskrit अर्हत् (arhat, “worthy of worship”), used as a title for sanctified Buddhists. Doublet of arahant and arihant.",
+"examples": [],
+"p": "AR-hat"
+},
+{
+"w": "dazzler",
+"pos": "noun",
+"senses": [
+"One who or that which dazzles; something spectacular."
+],
+"ety": "From dazzle + -er.",
+"examples": [
+"When he announced that he was going to try his hand at professional baseball, few skeptics were bold enough to suggest that this career turn would be anything but another Jordanesque dazzler."
+],
+"p": null
+},
+{
+"w": "lector",
+"pos": "noun",
+"senses": [
+"A public lecturer or reader at some universities.",
+"A person who reads aloud to workers to entertain them, appointed by a trade union.",
+"A person doing voice-over translation of foreign films, especially in Eastern European countries."
+],
+"ety": "From Middle English lector, lectoure, lectour, from Late Latin lēctor, from legō (“to read”). “Voice-over” sense probably adapted from Polish lektor. Doublet of lecture and lecturer.",
+"examples": [],
+"p": "LEK-ter"
+},
+{
+"w": "starman",
+"pos": "noun",
+"senses": [
+"An alien; a person who comes from another star system.",
+"An inhabitant of a star."
+],
+"ety": "From star + -man.",
+"examples": [],
+"p": "STAR-man"
+},
+{
+"w": "weeny",
+"pos": "noun",
+"senses": [
+"A wiener, a hot dog."
+],
+"ety": "From German wiener (“of Vienna”). The penis term is from its resemblance to a wiener, sometimes thought of as small by influence from teeny weeny.",
+"examples": [],
+"p": "WEE-nee"
+},
+{
+"w": "duergar",
+"pos": "noun",
+"senses": [
+"One of a race of ugly dwarfs, particularly associated with the Simonside Hills of Northumberland in northern England."
+],
+"ety": "Borrowed from Old Norse dvergr; cf. Icelandic dvergar. Doublet of dwarf.",
+"examples": [],
+"p": "DWAIR-gar"
+},
+{
+"w": "regimental",
+"pos": "adjective",
+"senses": [
+"Overly strict; rigid"
+],
+"ety": "From regiment + -al.",
+"examples": [],
+"p": null
+},
+{
+"w": "paradisiacal",
+"pos": "adjective",
+"senses": [
+"Of or resembling paradise."
+],
+"ety": "Learned borrowing from Latin paradīsiacus + -al.",
+"examples": [],
+"p": "par-uh-dih-SY-uh-kul"
+},
+{
+"w": "deniability",
+"pos": "noun",
+"senses": [
+"The extent to which something is deniable."
+],
+"ety": "From deny + -ability.",
+"examples": [],
+"p": "dih-ny-yuh-BIL-ih-tee"
+},
+{
+"w": "splat",
+"pos": "noun",
+"senses": [
+"The narrow wooden centre piece of a chair back."
+],
+"ety": "From earlier splat (“to spread flat”), from Middle English splatten, splaten (“to stretch out, extend\", also \"to split”). Compare dialectal English splat (“flat”).",
+"examples": [],
+"p": "splat"
+},
+{
+"w": "dissipator",
+"pos": "noun",
+"senses": [
+"One who, or that which, dissipates something."
+],
+"ety": "From dissipate + -or.",
+"examples": [
+"The Population Factor is a dissipator or swamper of the gain in per capita income and hence of the redressal of poverty to that degree."
+],
+"p": null
+},
+{
+"w": "mangalsutra",
+"pos": "noun",
+"senses": [
+"A traditional Hindu necklace tied around the bride's neck by the groom."
+],
+"ety": "Probably borrowed from Hindi मंगलसूत्र (maṅgalsūtra), ultimately from Sanskrit मंगलसूत्र (maṃgalasūtra, “auspicious thread”)",
+"examples": [],
+"p": null
+},
+{
+"w": "hydrogeologist",
+"pos": "noun",
+"senses": [
+"A person involved in hydrogeology."
+],
+"ety": "From hydro- + geologist.",
+"examples": [],
+"p": null
+},
+{
+"w": "arthritic",
+"pos": "noun",
+"senses": [
+"A person with arthritis."
+],
+"ety": "From Latin arthriticus (“gouty, arthritic”), from Ancient Greek.",
+"examples": [],
+"p": "arth-RIT-ik"
+},
+{
+"w": "fornicator",
+"pos": "noun",
+"senses": [
+"An unmarried person who engages in sexual intercourse, especially when considered to be of an illicit or illegal nature."
+],
+"ety": "From Middle English fornicatour, from Medieval Latin fornicātor.",
+"examples": [],
+"p": "FOR-nih-kay-ter"
+},
+{
+"w": "toric",
+"pos": "adjective",
+"senses": [
+"A particular topological quantum error correcting code; see Toric code on Wikipedia.Wikipedia"
+],
+"ety": "From torus + -ic.",
+"examples": [],
+"p": "TAW-rik"
+}
+]

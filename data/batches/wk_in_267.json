@@ -1,0 +1,460 @@
+[
+{
+"w": "ladybug",
+"pos": "noun",
+"senses": [
+"Synonym of ladybird."
+],
+"ety": "From lady + bug, the “lady” here referring to Virgin Mary, the mother of Jesus. Compare German Marienkäfer, Danish mariehøne, Latvian mārīte, Macedonian бубамара (bubamara) and Spanish mariquita.",
+"examples": [],
+"p": "LAY-dee-bug"
+},
+{
+"w": "monoline",
+"pos": "noun",
+"senses": [
+"A company operating in only one industry or line of business; often specifically a bank specializing in credit card issuance.",
+"A font line of consistent width, as occurs when imitating pencil script.",
+"A length of monofilament line, used for culturing forms of seaweed.",
+"A type of composing machine in which each line of type is cast as a single slug.",
+"A single spectrum line."
+],
+"ety": "From mono- + line.",
+"examples": [
+"The other leading monolines in 2002 were Capital One and Providian.",
+"A module consists of 21 monolines; a monoline on the other hand is 20 feet (6 m) long and consists of a nylon line plus 3 stakes— 2 at both ends and one at the middle— and 30 plants.",
+"With the straight matter being set on the linotype or monoline, the hand compositor was left with what he claimed was the most 'skilled' part of his old work."
+],
+"p": null
+},
+{
+"w": "forcer",
+"pos": "noun",
+"senses": [
+"The solid piston of a force pump; the instrument by which water is forced in a pump.",
+"A small hand pump for sinking pits, draining cellars, etc.",
+"A bell-shaped lidded pot for growing rhubarb, used to limit photosynthesis by excluding light, encouraging early-season growth and blanched stems."
+],
+"ety": "From force + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "egomaniacal",
+"pos": "adjective",
+"senses": [
+"Having the psychological condition of egomania."
+],
+"ety": "From egomaniac + -al.",
+"examples": [],
+"p": null
+},
+{
+"w": "unitarity",
+"pos": "noun",
+"senses": [
+"The quality or state of being unitary."
+],
+"ety": "From unitary + -ity.",
+"examples": [
+"In this section, we shall prove the gauge invariance and unitarity of the physical S-matrix in quantum electrodynamics, to all orders in the renormalized perturbation theory."
+],
+"p": null
+},
+{
+"w": "vicinage",
+"pos": "noun",
+"senses": [
+"The state of living near something; proximity, closeness."
+],
+"ety": "From Old French visnage, respelled to more closer match its Latin source vīcīnus (“neighbor”). By surface analysis, vicine + -age.",
+"examples": [],
+"p": "VIS-ih-nij"
+},
+{
+"w": "abbacy",
+"pos": "noun",
+"senses": [
+"The dignity, estate, term, or jurisdiction of an abbot or abbess."
+],
+"ety": "From Middle English abbathie, from Late Latin abbātia, from abbās, abbātis (“abbot”). Doublet of abbey and Opatija.",
+"examples": [],
+"p": "AB-uh-see"
+},
+{
+"w": "ultrasonography",
+"pos": "noun",
+"senses": [
+"The use of ultrasound to form images of underwater structures."
+],
+"ety": "From ultra- + sonography.",
+"examples": [],
+"p": null
+},
+{
+"w": "chalcedony",
+"pos": "noun",
+"senses": [
+"A form of fine-grained quartz that is nearly transparent or has a milky translucence; it fractures conchoidally."
+],
+"ety": "Borrowed from Latin chalcēdōnius, from Ancient Greek χαλκηδόνιος (khalkēdónios), from Ancient Greek χαλκηδών (khalkēdṓn), cognate to Arabic كَرْكَنْد (karkand).",
+"examples": [],
+"p": "kal-SED-uh-nee"
+},
+{
+"w": "banjoist",
+"pos": "noun",
+"senses": [
+"One who plays a banjo."
+],
+"ety": "From banjo + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "scaredy",
+"pos": "adjective",
+"senses": [
+"Characterised by being timorous or afraid."
+],
+"ety": "Back-formation from scaredy-cat, equivalent to scared + -y.",
+"examples": [
+"Prescott's sister calls him a scaredy kitten because he's afraid of the dark."
+],
+"p": null
+},
+{
+"w": "vinaceous",
+"pos": "adjective",
+"senses": [
+"Containing wine.",
+"Of the colour of red wine.",
+"Of a specific color among several that represent red wine."
+],
+"ety": "Borrowed from Late Latin vinaceus, from Latin vinum.",
+"examples": [],
+"p": null
+},
+{
+"w": "lawbook",
+"pos": "noun",
+"senses": [
+"A book in which laws are codified.",
+"A textbook on some aspect of law."
+],
+"ety": "Perhaps from Middle English *lawe-bok, from Old Norse lǫgbók (“lawbook”), otherwise, from law + book. Compare Middle English laȝheboc.",
+"examples": [],
+"p": null
+},
+{
+"w": "nanomachine",
+"pos": "noun",
+"senses": [
+"Any mechanical device, manufactured using nanotechnology, having a scale measured in nanometres."
+],
+"ety": "From nano- + machine.",
+"examples": [],
+"p": null
+},
+{
+"w": "ontogeny",
+"pos": "noun",
+"senses": [
+"Synonym of ontogenesis."
+],
+"ety": "From onto- + -geny, after German Ontogenie.",
+"examples": [],
+"p": "on-TOJ-uh-nee"
+},
+{
+"w": "psychrometric",
+"pos": "adjective",
+"senses": [
+"From or relating to a psychrometer."
+],
+"ety": "From psychro- + -metric.",
+"examples": [],
+"p": null
+},
+{
+"w": "spiller",
+"pos": "noun",
+"senses": [
+"A square chamber that serves as the section of an industrial fishing net from which captured fish can easily be moved to a fishing boat."
+],
+"ety": "From Middle English spiller, from spill + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "ossification",
+"pos": "noun",
+"senses": [
+"The normal process by which bone is formed.",
+"The process of becoming set in one's ways or beliefs; rigid conventionality."
+],
+"ety": "From Latin os, ossis (“bone”) + -ification. Recorded earlier than ossify.",
+"examples": [],
+"p": "ah-suh-fuh-KAY-shun"
+},
+{
+"w": "richesse",
+"pos": "noun",
+"senses": [
+"A group of martens."
+],
+"ety": "From Middle English richesse, from Old French richese, richece.",
+"examples": [],
+"p": null
+},
+{
+"w": "maturation",
+"pos": "noun",
+"senses": [
+"The process of becoming mature."
+],
+"ety": "From Middle English maturacioun, from Middle French maturation, from Latin maturatio. By surface analysis, mature + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "accessorize",
+"pos": "verb",
+"senses": [
+"To furnish with accessories.",
+"To wear or to choose accessories."
+],
+"ety": "From accessory + -ize. First attested in 1939 in American English.",
+"examples": [],
+"p": "uk-SES-uh-rize"
+},
+{
+"w": "mudded",
+"pos": "adjective",
+"senses": [
+"Covered with mud."
+],
+"ety": "From mud + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "hitcher",
+"pos": "noun",
+"senses": [
+"A hitchhiker.",
+"An onsetter."
+],
+"ety": "From hitch + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "heightism",
+"pos": "noun",
+"senses": [
+"A prejudiced attitude about human height that often results in discrimination, based on the belief that unusually short or tall people are inferior and undesirable."
+],
+"ety": "From height + -ism.",
+"examples": [
+"It is obvious that the dimensions of inequality could be extended to include a great many differences such as heightism where people who are taller are superior to people who are shorter, and so forth.",
+"There might be reinforcement of already harmful social evils such as heightism and racism.",
+"Given this background, how can dwarfs, beset by beautyism, heightism, and a succession of slights, move toward positive body images and self-esteem?"
+],
+"p": null
+},
+{
+"w": "lapper",
+"pos": "noun",
+"senses": [
+"One who laps liquid, who takes liquid in with the tongue.",
+"Something (especially a race) that has a stated number of laps.",
+"One who wraps or folds.",
+"A mechanism that overlaps material to make it thicker; a lapping cylinder or lapping machine."
+],
+"ety": "From lap + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "filer",
+"pos": "noun",
+"senses": [
+"One who files something."
+],
+"ety": "From file + -er.",
+"examples": [],
+"p": "FY-ler"
+},
+{
+"w": "pinscher",
+"pos": "noun",
+"senses": [
+"Any of several breeds of dog."
+],
+"ety": "From German Pinscher.",
+"examples": [],
+"p": "PIN-sher"
+},
+{
+"w": "collineation",
+"pos": "noun",
+"senses": [
+"The act of collineating; collimation."
+],
+"ety": "From Latin collineare to direct in a straight line. See collimation.",
+"examples": [],
+"p": null
+},
+{
+"w": "democratize",
+"pos": "verb",
+"senses": [
+"To make democratic.",
+"To broaden access to (something), especially for the sake of egalitarianism."
+],
+"ety": "From French démocratiser. By surface analysis, democrat(ic) + -ize.",
+"examples": [],
+"p": "dih-MOK-ruh-tize"
+},
+{
+"w": "marla",
+"pos": "noun",
+"senses": [
+"Plasticine; modelling clay."
+],
+"ety": "From Irish marla, from Middle English marle. Doublet of marl.",
+"examples": [
+"Miss Carney handed us out blank paper and marla, old plasticine with the colours all rolled together into brown.",
+"As she sits and plays with Damien, she feels her legs start to tremble from the effort. Her knees seem to disappear. Plasticine legs, she says to Damien. Old marla legs."
+],
+"p": null
+},
+{
+"w": "mechanician",
+"pos": "noun",
+"senses": [
+"One skilled in the theory or construction of machines.",
+"One skilled in building, using, or repairing machines, or who makes machines or tools.",
+"One skilled in mechanics.",
+"A machinist.",
+"A scientifically trained practitioner."
+],
+"ety": "From mechanic + -ian.",
+"examples": [
+"To build such a device will require an expert mechanician.",
+"The Cotton-Gin is a machine to separate the seeds from cotton, invented by that celebrated mechanician, E. Whitney. -- from the 1828 Webster's Dictionary.",
+"The Yankees, the first mechanicians in the world, are engineers—just as the Italians are musicians and the Germans metaphysicians—by right of birth."
+],
+"p": null
+},
+{
+"w": "roble",
+"pos": "noun",
+"senses": [
+"California white oak (Quercus lobata).",
+"Nothofagus obliqua (syn. Lophozonia obliqua); noble beech."
+],
+"ety": "Borrowed from Spanish roble.",
+"examples": [],
+"p": null
+},
+{
+"w": "sicky",
+"pos": "adjective",
+"senses": [
+"Covered in vomit.",
+"Prone to sickness; easily becoming ill; (somewhat) sick."
+],
+"ety": "From sick + -y.",
+"examples": [
+"Also consider how easy is it to clean with a sicky baby; can all of the cover and straps go in the washing machine or is it wipe clean only?",
+"I started off with 18 sleepsuits, but got through them in 24 hours when she was sicky.",
+"DS was sicky when still in a moses basket, but had pretty much grown out of it by the time he was in a cot."
+],
+"p": null
+},
+{
+"w": "subtractive",
+"pos": "adjective",
+"senses": [
+"Of a colour: from which some wavelengths have been removed."
+],
+"ety": "From subtract + -ive.",
+"examples": [],
+"p": null
+},
+{
+"w": "jobsearch",
+"pos": "noun",
+"senses": [
+"The process of seeking employment"
+],
+"ety": "From job + search.",
+"examples": [
+"Jobseekers are entitled to personalised jobsearch planning and job-matching, with direct access to vacancies."
+],
+"p": null
+},
+{
+"w": "teatime",
+"pos": "noun",
+"senses": [
+"The traditional time, in the late afternoon, for serving tea (the meal)."
+],
+"ety": "From tea + time. Compare Saterland Frisian Teetied (“teatime”), West Frisian teetiid (“teatime”), Dutch theetijd (“teatime”), German Teezeit (“teatime”), Danish tetid (“teatime”), Swedish tetid (“teatime”), Icelandic tetími (“teatime”).",
+"examples": [],
+"p": null
+},
+{
+"w": "ostracod",
+"pos": "noun",
+"senses": [
+"Any of many small crustaceans, of the class Ostracoda, that resemble a shrimp enclosed in a bivalve shell."
+],
+"ety": "From Ancient Greek ὀστρακώδης (ostrakṓdēs, “covered with shell”), from ὄστρακον (óstrakon, “clay pot; shell”); compare translingual Ostracoda.",
+"examples": [
+"Considering all the ecological data, there seems to be an evolution in the associations of ostracods throughout time.",
+"This study has also shown that the fifth limb is most probably of thoracic origin and hence ostracods have only one pair of maxillae.",
+"A number of parasites and epibionts have been reported from freshwater ostracods, including cestodes, protozoans, helminthes, peritrichs, and acanthocephalans (Griffits and Evans 1994)."
+],
+"p": null
+},
+{
+"w": "videodrome",
+"pos": "noun",
+"senses": [
+"A 360-degree theatre, a circular room where the viewer sits or stands in the center and films are projected on the walls on all sides."
+],
+"ety": "From video- + -drome.",
+"examples": [
+"The panarama's like being inside a videodrome of revolving landscapes by Thomas Moran.",
+"At the moment there are two types of VR: one which one can experience via a stereohelmet, a glove and even a complete dress (cybersuit), and one which one can experience in a videodrome.",
+"It was a seven story building where you first had to \"buy time\" in order to use over 50 facilities ranging from a videodrome to a swimming pool."
+],
+"p": null
+},
+{
+"w": "visualise",
+"pos": "verb",
+"senses": [
+"Non-Oxford British spelling of visualize."
+],
+"ety": "From visual + -ise (a variant of -ize (suffix forming verbs denoting the doing or making of what is denoted by the adjectives or nouns to which it is attached)).",
+"examples": [
+"The humanitarian, frequently ignoring hard reality, visualises one cosmopolitan community where justice and social sympathy measured in terms of some one set of units reign supreme.",
+"Possible developments such as electric or diesel suburban services may be visualised when the town has grown sufficiently to justify them."
+],
+"p": null
+},
+{
+"w": "fluidization",
+"pos": "noun",
+"senses": [
+"The act or process of fluidizing."
+],
+"ety": "From fluidize + -ation.",
+"examples": [],
+"p": null
+}
+]

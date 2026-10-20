@@ -1,0 +1,443 @@
+[
+{
+"w": "llano",
+"pos": "noun",
+"senses": [
+"A plain or steppe in parts of Latin America."
+],
+"ety": "Borrowed from Spanish llano. Doublet of piano, plain, plane, and plan.",
+"examples": [],
+"p": "LYAH-noh"
+},
+{
+"w": "bistable",
+"pos": "adjective",
+"senses": [
+"Having two stable states."
+],
+"ety": "From bi- + stable.",
+"examples": [],
+"p": "by-STAY-bul"
+},
+{
+"w": "orthodontist",
+"pos": "noun",
+"senses": [
+"An orthodontic dentist."
+],
+"ety": "From orthodontic + -ist.",
+"examples": [],
+"p": "or-thuh-DON-tist"
+},
+{
+"w": "yodeler",
+"pos": "noun",
+"senses": [
+"One who sings so that their voice fluctuates rapidly between their normal chest voice and a falsetto, one who yodels."
+],
+"ety": "From yodel + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "pwnage",
+"pos": "noun",
+"senses": [
+"Ownage; the act of pwning."
+],
+"ety": "From pwn + -age.",
+"examples": [],
+"p": null
+},
+{
+"w": "scudder",
+"pos": "noun",
+"senses": [
+"One who, or that which, scuds."
+],
+"ety": "From scud + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "oracy",
+"pos": "noun",
+"senses": [
+"A measure of this ability"
+],
+"ety": "From oral + -cy, by analogy with literacy. Coined by the British education researcher Andrew Wilkinson in 1965.",
+"examples": [],
+"p": null
+},
+{
+"w": "tartuffe",
+"pos": "noun",
+"senses": [
+"A religious hypocrite."
+],
+"ety": "From French tartuffe, from the protagonist Tartuffe (from Italian tartufo (“truffle”)) in the play of the same name by Molière. Doublet of tartufo.",
+"examples": [],
+"p": "tar-TOOF"
+},
+{
+"w": "chawl",
+"pos": "noun",
+"senses": [
+"A type of residential tenement building found in India, typically for poor working-class people."
+],
+"ety": "Borrowed from Marathi चाळ (cāḷ), from Sanskrit. Doublet of cell.",
+"examples": [
+"I came from a chawl, and when I started out main zyada baat nahi karta tha, mera haath zyada chalta tha (both laugh!",
+"Dhirubhai Ambani's first home in Mumbai was nearly as humble as the ones the gawking labourers inhabit: a pigeonhole chawl four kilometres from Antilia, in the pushcart-clogged trading neighbourhood of Bhuleshwar."
+],
+"p": null
+},
+{
+"w": "skunkworks",
+"pos": "noun",
+"senses": [
+"A loosely organized research and development team or facility."
+],
+"ety": "From skunk + works, since c. 1943. Skunk Works was the nickname of Lockheed Advanced Development Projects, eventually gaining official recognition. The name is derived from a mysterious, foul-smelling “skonk oil”-brewing facility called the Skonk Works in the comic strip L'il Abner by Al Capp.",
+"examples": [
+"Not all ideas coming out of the Phillips skunkworks have been success stories, of course. A polyethelene saddle never even made it through the patent process.",
+"Downing Street is seeking applications for a £135,000-a-year data expert to set up a “skunkworks” in No 10, in the latest evidence of Dominic Cummings’ Whitehall shake-up."
+],
+"p": null
+},
+{
+"w": "abductee",
+"pos": "noun",
+"senses": [
+"An abducted person, in particular a person abducted by aliens."
+],
+"ety": "From abduct + -ee.",
+"examples": [],
+"p": "ab-duk-TEE"
+},
+{
+"w": "warmaster",
+"pos": "noun",
+"senses": [
+"An advisor to the sovereign who specializes in waging war."
+],
+"ety": "From war + master.",
+"examples": [
+"Ozymandias had jumped into the projects of warmasters so completely that he thought he might be losing sight of his original objectives.",
+"The emperor sat within his tent of silk surrounded by his captains. His warmaster, Darik, was beside him.",
+"Edwin, his sons and his warmaster led their horses to the gate in the stockade."
+],
+"p": null
+},
+{
+"w": "flory",
+"pos": "adjective",
+"senses": [
+"Decorated with fleurs-de-lis projecting from it.",
+"Having the ends of the arms turn into fleurs-de-lis, rather than having fleurs-de-lis attached to the ends as in a cross floretty."
+],
+"ety": "From French fleuri (“covered with flowers”), past participle of fleurir. See flourish for more.",
+"examples": [],
+"p": "FLAW-ree"
+},
+{
+"w": "gamify",
+"pos": "verb",
+"senses": [
+"To convert into the form of a game."
+],
+"ety": "From game + -ify.",
+"examples": [
+"Famously, Tinder gamified the search for love, introducing that addictive swipe feature to its target audience: millennials."
+],
+"p": null
+},
+{
+"w": "tridimensional",
+"pos": "adjective",
+"senses": [
+"three-dimensional"
+],
+"ety": "From tri- + dimensional.",
+"examples": [],
+"p": null
+},
+{
+"w": "himation",
+"pos": "noun",
+"senses": [
+"A rectangular cloak of linen or wool, worn in Ancient Greece, usually over a chiton."
+],
+"ety": "From Ancient Greek ἱμάτιον (himátion), diminutive of ἷμα (hîma), a variant form of εἷμα (heîma, “garment”).",
+"examples": [
+"She wears a chiton and himation, using both hands to hold the edge of the latter, in which she has gathered apples."
+],
+"p": null
+},
+{
+"w": "magnetotelluric",
+"pos": "adjective",
+"senses": [
+"Using magnetotellurics."
+],
+"ety": "From magneto- + telluric.",
+"examples": [
+"A magnetotelluric survey was conducted."
+],
+"p": null
+},
+{
+"w": "monic",
+"pos": "noun",
+"senses": [
+"A monic polynomial."
+],
+"ety": "From mono- + -ic.",
+"examples": [],
+"p": "MAH-nik"
+},
+{
+"w": "duffin",
+"pos": "noun",
+"senses": [
+"A combination of a doughnut and a muffin."
+],
+"ety": "Blend of doughnut + muffin.",
+"examples": [
+"Molly’s Muffinery serves ‘duffins’ — a cross between jelly doughnuts and muffins.",
+"We now have crookies, brookies, duffins, and cruffins, all mash-ups of familiar treats (cookies, tarts, brownies, doughnuts, croissants and muffins respectively)."
+],
+"p": null
+},
+{
+"w": "monodisperse",
+"pos": "adjective",
+"senses": [
+"Having particles of (approximately) the same size."
+],
+"ety": "From mono- + disperse.",
+"examples": [],
+"p": null
+},
+{
+"w": "mathesis",
+"pos": "noun",
+"senses": [
+"The science of establishing a systematic order for things. (After Foucault.)"
+],
+"ety": "From Anglo-Norman mathesis, Middle French mathesie, and their source, Late Latin mathesis (“astrology, liberal arts, science”), from Ancient Greek μάθησις (máthēsis, “learning”), from the same base as μανθάνω (manthánō, “to learn”).",
+"examples": [],
+"p": "muh-THEE-sis"
+},
+{
+"w": "glulam",
+"pos": "noun",
+"senses": [
+"Glued laminated timber: a structural timber product composed of several layers of dimensioned lumber glued together.",
+"A beam of this material."
+],
+"ety": "Blend of glued + laminated.",
+"examples": [],
+"p": null
+},
+{
+"w": "unimmunized",
+"pos": "adjective",
+"senses": [
+"Not having been immunized."
+],
+"ety": "From un- + immunized.",
+"examples": [
+"We know there are unimmunized people out there, and measles is extremely infectious."
+],
+"p": null
+},
+{
+"w": "dictaphone",
+"pos": "noun",
+"senses": [
+"A dictation machine."
+],
+"ety": "Early 20th century, originally a trademarked name for a type of dictation machine, presumably from dictate and -phone.",
+"examples": [],
+"p": "DIK-tuh-fohn"
+},
+{
+"w": "hobnailed",
+"pos": "adjective",
+"senses": [
+"Having hobnails."
+],
+"ety": "From hobnail + -ed.",
+"examples": [
+"The farmer's hobnailed boots were used in mud and snow.",
+"The clumping of hobnailed boots on the gravel outside proclaimed the approach of Manning. John looked questioningly at Poirot."
+],
+"p": null
+},
+{
+"w": "secundo",
+"pos": "noun",
+"senses": [
+"The secondary part of a duet."
+],
+"ety": "From Italian secondo (“second”). Doublet of second and secund.",
+"examples": [],
+"p": null
+},
+{
+"w": "decrim",
+"pos": "noun",
+"senses": [
+"Decriminalization."
+],
+"ety": "Clipping of decriminalization.",
+"examples": [
+"Our Anti-Drug Coalition had thrown our full weight into the New York State fight over decrim, rallying the population and holding up the drug pushers in the legislature to public scorn.",
+"In 2015, Amnesty International, after a worldwide consultation looking at all available data, endorsed supporting decrim."
+],
+"p": null
+},
+{
+"w": "bumblebee",
+"pos": "noun",
+"senses": [
+"A mid yellow, sometimes slightly orange.",
+"A layered drink with ice whose main ingredients are orange juice and espresso coffee."
+],
+"ety": "1520s from bumble + bee, replacing Middle English humbul-be. Merged with Middle English bombeln (“to boom, buzz”), in the late 14th century. The name of the drink is a semantic loan from Ukrainian джміль (džmilʹ).",
+"examples": [],
+"p": "BUM-bul-bee"
+},
+{
+"w": "intramuscular",
+"pos": "adjective",
+"senses": [
+"Inside a muscle or the muscles."
+],
+"ety": "From Late Latin intramuscularis, from prefix intra-, \"within\", + musculum, \"muscle\".",
+"examples": [],
+"p": null
+},
+{
+"w": "snuffy",
+"pos": "adjective",
+"senses": [
+"Soiled with snuff.",
+"Resembling or characteristic of snuff.",
+"That causes sniffing and nasal irritation due to dust."
+],
+"ety": "From snuff + -y.",
+"examples": [],
+"p": "SNUF-ee"
+},
+{
+"w": "robonaut",
+"pos": "noun",
+"senses": [
+"A humanoid robot designed to perform relatively complex physical operations on space missions."
+],
+"ety": "From robo- + -naut (a robotic astronaut).",
+"examples": [],
+"p": null
+},
+{
+"w": "gristly",
+"pos": "adjective",
+"senses": [
+"Resembling or containing gristle."
+],
+"ety": "From gristle + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "empiricism",
+"pos": "noun",
+"senses": [
+"A doctrine which holds that the only or, at least, the most reliable source of human knowledge is experience, especially perception by means of the physical senses. (Often contrasted with rationalism.)",
+"A pursuit of knowledge purely through experience, especially by means of observation and sometimes by experimentation.",
+"Research methodology shaped from empirical philosophy (see above), e.g. surveys, statistics, etc."
+],
+"ety": "From empiric + -ism.",
+"examples": [
+"Empiricism teaches us that we are unceasingly and intimately in contact with a full, living, breathing Reality, that experience is a constant communion with the real.",
+"He agrees with Kant that Hume's empiricism is refuted de facto by the example of mathematics, whose judgments are synthetic a priori.",
+"Empiricism is the doctrine that human knowledge is grounded on the kind of experience, mostly achieved through the five senses, whose objects are particular events occurring at particular times and in particular places."
+],
+"p": null
+},
+{
+"w": "camporee",
+"pos": "noun",
+"senses": [
+"A gathering of Scouts at which accommodation is in tents."
+],
+"ety": "Blend of camp + jamboree.",
+"examples": [],
+"p": "kam-puh-REE"
+},
+{
+"w": "utilisation",
+"pos": "noun",
+"senses": [
+"The act of using something.",
+"The manner in which something is used."
+],
+"ety": "From French utilisation or from utilise + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "bindi",
+"pos": "noun",
+"senses": [
+"The “holy dot” traditionally worn on the forehead of Hindu women.",
+"Makeup or jewellery worn in imitation of such a dot."
+],
+"ety": "Borrowed from Hindi बिंदी (bindī).",
+"examples": [],
+"p": "bin-dee"
+},
+{
+"w": "administrate",
+"pos": "verb",
+"senses": [
+"to administer"
+],
+"ety": "* archaic: Latin administrātus, past participle of administrō. * modern: Back-formation from administration (from Latin administrātiō, also from administrō) (The exact etymology is disputed, see note below.)",
+"examples": [],
+"p": "ud-MIN-ih-strayt"
+},
+{
+"w": "prothonotary",
+"pos": "noun",
+"senses": [
+"One of the seven prelates, constituting a college in the Roman Curia, whose office is to register pontifical acts and to make and preserve the official record of beatifications.",
+"The chief secretary of the patriarch of Constantinople."
+],
+"ety": "From Middle English prothonotarie, from Medieval Latin protonotarius, from Byzantine Greek πρωτονοτάριος (prōtonotários), from Ancient Greek πρῶτος (prôtos) + Byzantine Greek νοτάριος (notários), from Latin notārius (“notary”).",
+"examples": [],
+"p": null
+},
+{
+"w": "trustor",
+"pos": "noun",
+"senses": [
+"A person who creates a trust."
+],
+"ety": "From trust + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "pinback",
+"pos": "noun",
+"senses": [
+"A badge with a pin on the back for fastening it to clothing."
+],
+"ety": "From pin + back.",
+"examples": [],
+"p": null
+}
+]

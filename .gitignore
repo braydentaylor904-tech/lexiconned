@@ -1,4 +1,5 @@
 .venv/
-data/
+data/*
+!data/batches/
 .DS_Store
 __pycache__/

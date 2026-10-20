@@ -1,0 +1,544 @@
+[
+{
+"w": "samadhi",
+"pos": "noun",
+"senses": [
+"A state of transcendent union supposed to be assumed by a holy man or yogi at his death.",
+"The highest state of meditation, at which complete unity is reached.",
+"The tomb of a holy person or saint in India."
+],
+"ety": "From Sanskrit समाधि (samādhi, “placing together”), from सम (sama, “together”) + आ (ā) prefix + धा (dhā, “to place”).",
+"examples": [
+"She had seated herself cross-legged in the samadhi position and simply ceased to be."
+],
+"p": "suh-MAH-dee"
+},
+{
+"w": "cataract",
+"pos": "noun",
+"senses": [
+"A (large) waterfall, specifically one flowing over the edge of a cliff.",
+"An overwhelming downpour or rush; a flood."
+],
+"ety": "The verb is derived from the noun.",
+"examples": [
+"The cataracts on the Nile helped to compartment Upper Egypt.",
+"The palace bang'd, and buzz'd and clackt, / And all the long-pent stream of life / Dash'd downward in a cataract.",
+"Water—there is not a drop of water there! Were Niagara but a cataract of sand, would you travel your thousand miles to see it?"
+],
+"p": "KAT-uh-rakt"
+},
+{
+"w": "trippy",
+"pos": "adjective",
+"senses": [
+"Strange, surreal, similar to the effects of a hallucinogen."
+],
+"ety": "From trip (“psychedelic trip”) + -y.",
+"examples": [
+"Someone says there's something more to pay for sins that you committed yesterday; it's really rather drippy but something oh so trippy. Something happened to me yesterday."
+],
+"p": "TRIH-pee"
+},
+{
+"w": "liplock",
+"pos": "noun",
+"senses": [
+"A kiss or the act of kissing; especially a long, passionate kiss.",
+"A maneuver in which a fish is hooked by a curled finger inserted under the gill cover and extending to the fish's jaw."
+],
+"ety": "From lip + lock.",
+"examples": [
+"We figgered a gal might give us a lil liplock.",
+"Dhiraj leaned over and kissed her on the lips. She gently returned the liplock."
+],
+"p": "LIP-lok"
+},
+{
+"w": "poblano",
+"pos": "noun",
+"senses": [
+"A mild green chile pepper native to Mexico; when dried, the chilis are called anchos or chiles anchos (“wide chilis”)."
+],
+"ety": "Borrowed from Spanish poblano.",
+"examples": [
+"In our times of popular gourmetism, the Anaheim chili is easy to find year round in the supermarket, but the poblano remains seasonal in spring and fall."
+],
+"p": "puh-BLAH-noh"
+},
+{
+"w": "amaranthine",
+"pos": "noun",
+"senses": [
+"A dark reddish-purple colour.",
+"The amaranth flower."
+],
+"ety": "Coined by Milton, originally meaning \"unfading\", as amaranth + -ine, from Ancient Greek ἀμάραντος (amárantos, “unfading”). Later used for color. First attested in the 1660s.",
+"examples": [
+"The giantesses lift arms like the trunks of sycamores, each finger tipped with an amaranthine talon."
+],
+"p": "am-uh-RAN-thin"
+},
+{
+"w": "measly",
+"pos": "adjective",
+"senses": [
+"Particularly of pigs or pork: infected with larval tapeworms or trichinae (parasitic roundworms).",
+"Of a person: infected with measles.",
+"Small (especially contemptibly small) in amount."
+],
+"ety": "From measle (“singular of measles”) + -y; the word measle is either from Middle Dutch masel (“a blister filled with blood; a pustule, a skin blemish”), or Middle Low German masel (“a red skin blemish”), from Proto-Germanic *masuraz (“a knot or scar in wood; a knarl”), from *mas-, *mēs- (“a spot; a sore; a scar”), from Proto-Indo-European *mos- (“a skin sore”).",
+"examples": [
+"Then take five or six apples, pick out the cores and fill up the holes thus made with flour of brimstone; stop up the holes and cast in the apples to the measly hog.",
+"A measly boy, he looked like a tramp, probably one of the street boys from the village, just walked up here and made himself at home, and when I told him to leave, he wouldn't.",
+"For one whole day's work all I was given was twenty measly pounds."
+],
+"p": "MEEZ-lee"
+},
+{
+"w": "astir",
+"pos": "adjective",
+"senses": [
+"In motion; characterized by motion.",
+"Out of bed; up and about."
+],
+"ety": "From a- + stir.",
+"examples": [
+"Her book has perhaps been a good one; it has refreshed, refilled, rewarmed her heart; it has set her brain astir, furnished her mind with pictures.",
+"For in quick spring the sap is all astir.",
+"Wilson, who was acting as cook, was up and astir at his duties in the cook-house."
+],
+"p": "uh-STUR"
+},
+{
+"w": "swank",
+"pos": "adjective",
+"senses": [
+"Fashionably elegant, posh."
+],
+"ety": "From dialectal swank (“to strut, behave ostentatiously”), perhaps from an unrecorded Old English root, derived from Proto-Germanic *swankijaną (“to cause to sway, swing”) or from Proto-Germanic *swankaz (“lithe, bendsome, slender”), related to the Scots swank and the Middle High German swanken, modern German schwanken (“to sway”).",
+"examples": [
+"You know it's swank when … It's very shiny / It's very tan / It's got Royale in its name",
+"Mr. Heinz belonged to a very swank club in Pittsburgh.",
+"She arrived at a very swank studio, where Mr. Feldman introduced himself as the director of auditions."
+],
+"p": "SWAYNGK"
+},
+{
+"w": "locale",
+"pos": "noun",
+"senses": [
+"The place where something happens."
+],
+"ety": "From French local (adj), nominal use of the adjective.",
+"examples": [
+"Being near running water and good shade, the explorers decided it was a good locale for setting up camp."
+],
+"p": "loh-KAL"
+},
+{
+"w": "steely",
+"pos": "adjective",
+"senses": [
+"Having qualities resembling those of steel, especially hardness and resoluteness.",
+"Made of steel."
+],
+"ety": "From steel + -y.",
+"examples": [
+"The bully backed down before his steely gaze.",
+"She would unarm her noble heart of that steely resistance against the sweet blows of love.",
+"Broach'd with the steely point of Clifford's lance."
+],
+"p": "STEE-lee"
+},
+{
+"w": "contraposition",
+"pos": "noun",
+"senses": [
+"Opposition; contrast."
+],
+"ety": "From French contraposition.",
+"examples": [
+"The expression “Allon” indicates the unique character of this relationship: that of being together in contraposition. I belong to the Allon, and yet detach myself from it."
+],
+"p": "KON-truh-puh-ZISH-un"
+},
+{
+"w": "schoolday",
+"pos": "noun",
+"senses": [
+"A day during which the public schools are open, usually synonymous with weekday during the school year.",
+"The part of a day when students attend school."
+],
+"ety": "From school + day.",
+"examples": [
+"In modern China, Sunday is not usually a schoolday except around major holidays.",
+"I couldn't contact my child during the schoolday because of the school's no-cellphone policy.",
+"The schoolday starts at 9:00 am and ends at 3:00 pm."
+],
+"p": "SKOOL-day"
+},
+{
+"w": "copra",
+"pos": "noun",
+"senses": [
+"The dried kernel of the coconut, from which coconut oil is extruded."
+],
+"ety": "Borrowed from Portuguese copra, from Malayalam കൊപ്ര (kopra). Cognate with Tamil கொப்பரை (kopparai), Kuvi କବ୍ରି (kobri), Sanskrit कूर्पस (kūrpasa), Hindi खोपा (khopā).",
+"examples": [
+"She burnt a small quantity of straw and copra in an earthern incense bowl and took it out to him."
+],
+"p": "KAH-pruh"
+},
+{
+"w": "soother",
+"pos": "noun",
+"senses": [
+"One who, or that which, soothes.",
+"A pacifier; a plastic device that goes into a baby’s mouth, used to calm and quiet the baby."
+],
+"ety": "From soothe + -er.",
+"examples": [
+"Customs earlier received a referral from a related organisation that suspected unsafe soother holders were being supplied on the market."
+],
+"p": "SOO-ther"
+},
+{
+"w": "louden",
+"pos": "verb",
+"senses": [
+"To become louder."
+],
+"ety": "From loud + -en.",
+"examples": [
+"The shouts of the bookies were now loudening outside in the sunlight, and when I'd slipped on my raincoat we went out to see what we could of the Light Weight Race."
+],
+"p": "LOW-dun"
+},
+{
+"w": "ejido",
+"pos": "noun",
+"senses": [
+"A Mexican cooperative farm."
+],
+"ety": "Borrowed from Mexican Spanish ejido, from Latin exitus (“departure”), an early borrowing from Latin. Doublet of exit and exitus.",
+"examples": [
+"Ejidos are land-grant communities organized by the federal government. Each family has a plot, which cannot be sold and can only be inherited by one person. Each ejido member has a vote at ejido meetings.",
+"They made camp in an oakgrove beside the river and built a fire and sat while the girl prepared their dinner out of the bounty they’d carried off from the ejido."
+],
+"p": "eh-HEE-doh"
+},
+{
+"w": "quokka",
+"pos": "noun",
+"senses": [
+"A cat-sized wallaby, Setonix brachyurus, of southwestern Australia."
+],
+"ety": "From Nyunga kwaka.",
+"examples": [
+"At least 673 quokkas were re-introduced from Rottnest Island to the Marsupial Research Station of the University of Western Australia (254 ha) at Jandakot from 1972 to 1988.",
+"Tammars, quokkas and black-footed rock wallabies inhabit islands in the southwest, while three species of hare wallaby, the burrowing bettong and five species of rock wallaby inhabit various islands in the northwest."
+],
+"p": "KWOK-uh"
+},
+{
+"w": "seppuku",
+"pos": "noun",
+"senses": [
+"A form of ritual suicide by disembowelment using a blade, practiced by Japanese samurai, especially to rid oneself of shame, as a means of protest, or, formerly, as a method of capital punishment."
+],
+"ety": "Borrowed from Japanese 切腹 (seppuku), from Middle Chinese 切 (t͡set, “to cut”) + 腹 (pjuwk, “belly”). Compare Cantonese 切腹 (cit³ fuk¹) and Mandarin 切腹 (qiēfù).",
+"examples": [
+"I heard that if you hit a vape and then commit seppuku by slashing out your lungs, it'll look like there's a ghost leaving your body."
+],
+"p": "SEH-poo-koo"
+},
+{
+"w": "slosh",
+"pos": "noun",
+"senses": [
+"A quantity of a liquid; more than a splash.",
+"A sloshing sound or motion.",
+"A game related to billiards."
+],
+"ety": "Onomatopoeic; compare splash, splosh.",
+"examples": [
+"We added a slosh of white wine to the sauce.",
+"Finally they retired, did you not? said Tetty. We did indeed, said Goff, we retired to the billiard-room, for a game of slosh."
+],
+"p": "slahsh"
+},
+{
+"w": "nitrous",
+"pos": "noun",
+"senses": [
+"The system in some racing vehicles which pumps nitrous oxide into the engine to improve performance."
+],
+"ety": "From Middle French nitreux, and its source, Latin nitrōsus (“nitrose”). Doublet of nitroso. By surface analysis, nitro- + -ous.",
+"examples": [
+"When a shot this big is being run, it will also be necessary to pull 6-10 degrees of timing out when the nitrous is being run.",
+"To simulate nitrous, we will use a very simple approach: apply a large force to the back of the car when the nitrous is on.",
+"When tested on a typical summer day, an engine with fuel fed by an annular discharge booster could be 10 hp less over a stepped dogleg booster, but 10 hp more when the nitrous is in operation."
+],
+"p": "NY-trus"
+},
+{
+"w": "temerity",
+"pos": "noun",
+"senses": [
+"Reckless boldness; foolish bravery.",
+"An act or case of reckless boldness.",
+"Effrontery; impudence."
+],
+"ety": "From Middle English temerite, temeryte, from Old French temerité, from Latin temeritās (“chance, accident, rashness”), from temere (“by chance, casually, rashly”). By surface analysis, temer(arious) + -ity.",
+"examples": [
+"One day when he knew old Lobbs was out, Nathaniel Pipkin had the temerity to kiss his hand to Maria Lobbs.",
+"Elizabeth trotted through the open door in the dusk, but becoming alarmed at her own temerity, she went quickly out again by another which stood open in the lofty wall of the back court.",
+"Terror seized me, a horror of my temerity."
+],
+"p": "tuh-MAIR-uh-tee"
+},
+{
+"w": "ramekin",
+"pos": "noun",
+"senses": [
+"A small glass or earthenware dish, often white and circular, in which food is baked and served.",
+"A cheese- or meat-based dish baked in a small mold."
+],
+"ety": "Borrowed from French ramequin, from dialectal Dutch rammeken (“cheese dish”) (compare Dutch rameken (“toasted bread”)) or Low German ramken (“cream”), equivalent to ream + -kin. Compare mannequin/mannikin, and compare creamer.",
+"examples": [
+"The starters have arrived, two triangles of buttered brown bread and a neat little ramekin of crab buried under a haystack of cress, which Smith promptly relocates so that she can sprinkle it over each mouthful.",
+"Setting the soufflés before us, the waitress warns that the ramekins are hot."
+],
+"p": "RAM-ih-kin"
+},
+{
+"w": "presenteeism",
+"pos": "noun",
+"senses": [
+"The fact of being present at work, especially if one is too sick to be productive, or working beyond the expected hours."
+],
+"ety": "From presentee + -ism, after absenteeism, coined by academic Cary Cooper.",
+"examples": [
+"Research shows that presenteeism, apart from the obvious danger of contamination of other workers, can lead to longer absence from work later on.",
+"Employers should guarantee sick pay, including for contacts of known cases, and do everything they can to discourage the practice of “presenteeism”."
+],
+"p": "preh-sun-TEE-iz-um"
+},
+{
+"w": "metanoia",
+"pos": "noun",
+"senses": [
+"A fundamental change of mind.",
+"A spiritual or religious conversion.",
+"A fundamental change in the human personality.",
+"A device used to retract a statement just made, and then state it in a better way."
+],
+"ety": "From Ancient Greek μετάνοια (metánoia, “repentance”, literally “afterthought”), a compound of μετά (metá, “after, with”) and νοέω (noéō, “to perceive, to think”).",
+"examples": [
+"Metanoia is the knowledge that there can be totalities in this world totally different from what we thought. This is the sense in which metanoia is the most radical form of poiesis.",
+"There is therefore enthusiasm no less than resignation in an enlightened metanoia. You give up everything in the form of claims; you receive everything back in the form of a divine presence."
+],
+"p": "met-uh-NOY-uh"
+},
+{
+"w": "slicker",
+"pos": "noun",
+"senses": [
+"One who or that which slicks.",
+"A waterproof coat or jacket.",
+"A symmetrical knife with a handle at each end, used for burnishing leather.",
+"A two-handled tool for finishing concrete or mortar; a darby.",
+"Synonym of slicker brush"
+],
+"ety": "From slick (“to smooth or make slick”) + -er.",
+"examples": [
+"There are numerous grooming products on the market, particularly for longhaired cats – for example, rakes, slickers and detangle sprays, many of which claim to make grooming as simple and safe as possible."
+],
+"p": "SLIK-er"
+},
+{
+"w": "virtuosity",
+"pos": "noun",
+"senses": [
+"The technical skills and fluent style of a virtuoso.",
+"Lovers of the elegant arts as a class."
+],
+"ety": "From virtuoso + -ity (“quality of”); the terminal -o drops out. Compare Middle English vertuosite (“virtuous quality or character”).",
+"examples": [
+"Greek art and culture, which had become international, degenerated to mere virtuosity, empty of any ideal.",
+"At any rate, there is fun to be had not only from the De Vriesian virtuosity in pun and parody, but in following his literally incredible plot."
+],
+"p": "vurt-yoo-OS-ih-tee"
+},
+{
+"w": "objectify",
+"pos": "verb",
+"senses": [
+"To make (something, such as an abstract idea) possible to be perceived by the senses.",
+"To treat (something) as objectively real.",
+"To treat (someone) as a mere (usually sexual) object; to sexually dehumanize (someone)."
+],
+"ety": "From object + -ify.",
+"examples": [
+"It was the unknown, objectified at last, in concrete flesh and blood, bending over him and reaching down to seize hold of him.",
+"The mystic objectifies a rich feeling in the pit of the stomach into a cosmology.",
+"The entire notion of cheerleading is just a sexist attempt to try to objectify the female body."
+],
+"p": "ub-JEK-tih-fy"
+},
+{
+"w": "nihil",
+"pos": "noun",
+"senses": [
+"nothingness, nonbeing"
+],
+"ety": "From Latin nihil, nil.",
+"examples": [
+"I shall no longer believe all the visions of my youth: They have dissolved into nihil.",
+"That is, in the sovereign act of creation, whereby YHWH orders chaos, YHWH provisionally defeated the power of the Nihil but did not destroy or eliminate the threat of chaos."
+],
+"p": "NIH-hil"
+},
+{
+"w": "enviable",
+"pos": "adjective",
+"senses": [
+"Arousing or likely to arouse envy."
+],
+"ety": "From envy + -able (suffix meaning ‘able or fit to be done’ forming adjectives).",
+"examples": [
+"As enviable as summer in the Hamptons can be -- stunning weather, beaches, greenery, produce, and yes, people -- autumn is when the east end of Long Island becomes truly magical."
+],
+"p": "EN-vih-uh-bul"
+},
+{
+"w": "cornichon",
+"pos": "noun",
+"senses": [
+"A dill-pickled gherkin cucumber.",
+"A French-style pickled miniature cucumber."
+],
+"ety": "Borrowed from French cornichon.",
+"examples": [
+"Garnished with excellent Dijon-style mustard, horseradish, cornichons, sprinkled with diced gelee, it was close to perfection as one is likely to get on a dinner plate."
+],
+"p": "kor-nih-shawn"
+},
+{
+"w": "peckerwood",
+"pos": "noun",
+"senses": [
+"A peckerwood sawmill."
+],
+"ety": "Inversion of woodpecker. Application to white people is due to the perception that the woodpecker is a symbol of whites, whereas the crow or blackbird is a symbol of blacks.",
+"examples": [
+"The Langdale Company's new centralized sawmill and debarker in 1958 constituted a tremendous advance over the old peckerwood technology."
+],
+"p": "PEK-er-wuud"
+},
+{
+"w": "funemployed",
+"pos": "adjective",
+"senses": [
+"In a state of enjoyable unemployment."
+],
+"ety": "Blend of fun + unemployed.",
+"examples": [
+"Maybe you’re funemployed and you can go anytime?",
+"Buoyed by severance, savings, unemployment checks or their parents, the funemployed do not spend their days poring over job listings.",
+"A world without rigid temporal boundaries gave some a rare chance to relax and regroup after many years of busyness. Some took advantage of this freedom by becoming, as one respondent cleverly put it, “funemployed.”"
+],
+"p": "fun-im-PLOYD"
+},
+{
+"w": "hucklebuck",
+"pos": "noun",
+"senses": [
+"A rhythmic dance from the time just prior to rock and roll.",
+"A treat consisting of frozen Kool-Aid served in a dixie cup."
+],
+"ety": "The dance is perhaps from huckle (“hip”) + buck.",
+"examples": [
+"So, we made soul food, hucklebucks, corn pone, and bread pudding, gumbo, and greyas."
+],
+"p": "HUKL-buk"
+},
+{
+"w": "bygone",
+"pos": "adjective",
+"senses": [
+"Having been or happened in the distant past."
+],
+"ety": "From by (adverb) + gone. See go by.",
+"examples": [
+"Near by he could see the thicket of raspberry canes, growing tall and close like a tropical jungle, in whose shadow he had played with the Boy on bygone mornings."
+],
+"p": "BY-gawn"
+},
+{
+"w": "denialism",
+"pos": "noun",
+"senses": [
+"The practice of rejecting propositions which are strongly supported by scientific or historical evidence, and often of seeking to influence policy processes and outcomes accordingly."
+],
+"ety": "From denial + -ism.",
+"examples": [
+"At this point Rudd confronts a new denialism. Just as John Howard was wrong to deny the confessional value of the apology, many Laborites are wrong to deny the abject failures of past generation policies.",
+"In other words, the pattern of resistance to the coronavirus vaccines looks less like COVID-19 vaccine hesitancy and more like COVID-19 denialism."
+],
+"p": "dih-NY-yuh-lih-zum"
+},
+{
+"w": "duplicative",
+"pos": "adjective",
+"senses": [
+"Of, related to, or being a duplicate."
+],
+"ety": "From duplicate + -ive.",
+"examples": [
+"The purpose of such a position would be to oversee all aspects of government AIDS programs, weeding out duplicative or wasteful programs in favor of those that would meet the needs of all people with HIV.",
+"MBDA provides minority business enterprises with a variety of business assistance services that are duplicative of other Federal, State, local, and private sector efforts."
+],
+"p": "dyoo-PLIK-uh-tiv"
+},
+{
+"w": "priapus",
+"pos": "noun",
+"senses": [
+"An image of the god Priapus, often used as a scarecrow in ancient gardens.",
+"A representation of a phallus."
+],
+"ety": "Latin, from Ancient Greek Πρίαπος (Príapos).",
+"examples": [
+"In the digging of the Ruins & foundations of London (after the great Conflagration) there were found severall little Priapusses of Copper about an inch long, w^ch the Romans did weare about their necks."
+],
+"p": "pry-AY-pus"
+},
+{
+"w": "babbitt",
+"pos": "verb",
+"senses": [
+"To line (something) with babbitt metal to reduce friction."
+],
+"ety": "The noun is derived from Babbitt, the surname of the American inventor Isaac Babbitt (1799–1862) who invented the alloy. The verb is derived from the noun.",
+"examples": [
+"The main bearings were babbitted and line-bored.",
+"These bearings, with their caps, are babbitted with metal of the finest quality, a jig representing the shafting being used to locate and regulate the proportion of the bearing precisely.",
+"The work of babbitting bearings offers considerable opportunity for the use of different forms of fixtures that are capable of making a material increase in the efficiency with which this operation can be carried on."
+],
+"p": "BAB-it"
+},
+{
+"w": "metabolite",
+"pos": "noun",
+"senses": [
+"Any substance produced by, or taking part in, a metabolic reaction."
+],
+"ety": "From metabolism + -ite.",
+"examples": [
+"Cannabis and some of its metabolites, for example, persist in the fat stores of the body for several weeks after a single dose."
+],
+"p": "mih-TAB-uh-lite"
+}
+]

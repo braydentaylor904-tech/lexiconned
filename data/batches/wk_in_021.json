@@ -1,0 +1,528 @@
+[
+{
+"w": "houseman",
+"pos": "noun",
+"senses": [
+"A male follower or retainer; a male domestic worker or servant.",
+"A medical graduate gaining practical experience in a hospital; a house officer."
+],
+"ety": "From house + -man.",
+"examples": [
+"A young houseman wearing his white coat and name-tag walked past us towards the apartment houses beside the lake."
+],
+"p": "HOW-smun"
+},
+{
+"w": "digestif",
+"pos": "noun",
+"senses": [
+"An alcoholic beverage consumed after eating, so called because it is presumed to aid digestion."
+],
+"ety": "Borrowed from French digestif. Doublet of digestive.",
+"examples": [
+"At Vessel, in Seattle, the bar manager, Jamie Boudreau, starts his cherry bitters by combining separate bourbon- and rye-based infusions with a touch of honey-flavored vodka and the Italian digestif amaro."
+],
+"p": "dy-JES-tif"
+},
+{
+"w": "feijoada",
+"pos": "noun",
+"senses": [
+"A stew of beans with beef and pork, considered the national dish of Brazil."
+],
+"ety": "Borrowed from Portuguese feijoada, from feijão (“bean”).",
+"examples": [
+"There are about a dozen kinds of beef and pork, fresh, smoked and salt, in a feijoada."
+],
+"p": "fayzh-WAH-duh"
+},
+{
+"w": "whilom",
+"pos": "adverb",
+"senses": [
+"At some time in the past; formerly, once upon a time."
+],
+"ety": "From Middle English whilom (“(adverb) at one time, formerly, once; once upon a time; at times, sometimes; at a future time; (conjunction) while”) [and other forms], from Old English hwīlum, hwīlan, hwīlon (“at one time, once; sometimes”), from Proto-West Germanic *hwīlum, the dative plural of *hwīlu (“period of time, time, while; period of rest, pause”), from Proto-Germanic *hwīlō (“period of time, time, while; period of rest, pause”), from Proto-Indo-European *kʷyeh₁- (“to rest; peace, rest”). The Oxford English Dictionary regards adverb sense 2.2 (“for some time that has passed”) as “aberran",
+"examples": [
+"In Northern Clime a valorous Knight Did whilom kill his Bear in fight, And wound a Fidler: we have both Of these the objects of our Wroth And equal Fame and Glory from Th' Attempt or Victory to come.",
+"They who whilome, in midnight fight, Had marvelled at her matchless might, No less her maiden charms approved, But looking liked, and liking loved."
+],
+"p": "WY-lum"
+},
+{
+"w": "pallu",
+"pos": "noun",
+"senses": [
+"The usually decorated end of a sari that hangs loose when worn."
+],
+"ety": "Borrowed from Hindi पल्लू (pallū), from पल्ला (pallā, “side”), from Sanskrit पल्ल (palla). Compare with palla.",
+"examples": [
+"She had pulled the pallu back over her head and her face.",
+"Dressed in a simple grey cotton sari, her head covered with the pallu, she sat on a platform behind a table with a microphone."
+],
+"p": "PAH-loo"
+},
+{
+"w": "prudish",
+"pos": "adjective",
+"senses": [
+"Of excessive propriety; easily offended or shocked, especially by sexual matters."
+],
+"ety": "From prude + -ish.",
+"examples": [
+"Young people who are close to writing off the Democratic Party as a dinosaur, as a gerontocracy of prudish abuelos who gave birth by immaculate conception, may be in for a pleasant surprise."
+],
+"p": "PROO-dish"
+},
+{
+"w": "jaundiced",
+"pos": "adjective",
+"senses": [
+"Prejudiced; envious."
+],
+"ety": "From jaundice + -ed.",
+"examples": [
+"Although Professor Davidson took a very jaundiced view of the Neptune probe, it had already been approved and he saw no point in sending more good money after bad.",
+"If we have experienced a hostile world in childhood, we will continue to view almost everyone with a jaundiced eye and react to them according to our perception."
+],
+"p": "JAWN-dist"
+},
+{
+"w": "contrariety",
+"pos": "noun",
+"senses": [
+"Opposition or contrariness; cross-purposes, marked contrast."
+],
+"ety": "Borrowed from Middle French contrariété, from Late Latin contrarietas, from contrarius, from Latin contra (“against”). By surface analysis, contrary + -ety.",
+"examples": [
+"This contrariety of humours betwixt my father and my uncle, was the source of many a fraternal squabble.",
+"The wind blowing steady and gentle from the south, there was no contrariety between that and the current, and the billows rose and fell unbroken.",
+"This book puts forward a clearer understanding of Diderot's perplexities by taking into account the dynamics of his thought processes, especially the mode, peculiar to him, of thinking via contrarieties."
+],
+"p": "kon-truh-RUH-eer-tee"
+},
+{
+"w": "caipirinha",
+"pos": "noun",
+"senses": [
+"A traditional Brazilian alcoholic drink prepared with cachaça, lime juice, sugar, and ice."
+],
+"ety": "Borrowed from Brazilian Portuguese caipirinha (literally “little hillbilly”).",
+"examples": [
+"They thought of, I don’t know, monkeys and caipirinhas and samba.”",
+"Oh, no! Oh, no! Aunt Hoda got into the caipirinha supply. Everybody, watch yourself, she gets grabby.",
+"The caipirinha isn’t too far removed from its warm-weather drinking buddies, the margarita and daiquiri."
+],
+"p": "ky-pih-REE-nyuh"
+},
+{
+"w": "coulis",
+"pos": "noun",
+"senses": [
+"A thick sauce made with pureed vegetable or fruit and often used as a garnish."
+],
+"ety": "Borrowed from French coulis.",
+"examples": [
+"Just then the desserts, mere bonnes bouches in foot-wide puddles of pink coulis, were set in front of them."
+],
+"p": "KOO-lee"
+},
+{
+"w": "konak",
+"pos": "noun",
+"senses": [
+"A palace or other large official residence in Turkey or the Ottoman Empire."
+],
+"ety": "From Ottoman Turkish قوناق (konak, “mansion, station, inn”).",
+"examples": [
+"It was a small pretty town with four minarets and one campanile and the Pasha's konak sprawling across the foothills."
+],
+"p": "koh-NAHK"
+},
+{
+"w": "kiddush",
+"pos": "noun",
+"senses": [
+"A blessing recited over wine or grape juice in commemoration of the sanctity of the Shabbat or other Jewish holy day."
+],
+"ety": "Borrowed from Hebrew קִדּוּשׁ (kidúsh, “kiddush”, literally “sanctification”). Doublet of kaddish.",
+"examples": [
+"Cohn began the seder with a kiddush for wine, and the first two toasts he proposed were the traditional ones to life and to freedom."
+],
+"p": "KID-uush"
+},
+{
+"w": "catbird",
+"pos": "noun",
+"senses": [
+"An American passerine bird of the genera Dumetella and Melanoptila.",
+"A babbler-like bird from eastern Africa, Parophasma galinieri."
+],
+"ety": "From cat + bird, because its cry is said to resemble that of a cat.",
+"examples": [
+"The catbird’s note exactly resembles the voice of a kitten, that a stranger to it would instantly conclude that such an animal \"had got bewildered in the branches\"."
+],
+"p": "KAT-burd"
+},
+{
+"w": "leaven",
+"pos": "noun",
+"senses": [
+"Any agent used to make dough rise or to have a similar effect on baked goods.",
+"Anything that induces change, especially a corrupting or vitiating change."
+],
+"ety": "From Middle English levayn, borrowed from Old French levain, from Vulgar Latin *levāmen, a noun based on Latin levō (“raise”).",
+"examples": [
+"Take heed, beware of the leaven of the Pharisees, and of the leaven of Herod.",
+"On the far side was reflected a single red and meteoric cloud, which had treasured one last crimson ray from the sunset, or perhaps nursed within it the fiery leaven.",
+"The leaven of insincerity worked through all the fibres of his being."
+],
+"p": "LEV-un"
+},
+{
+"w": "garrigue",
+"pos": "noun",
+"senses": [
+"A type of low scrubland found on limestone soils in southern France and other parts of the Mediterranean Basin."
+],
+"ety": "Borrowed from French garrigue, from Occitan.",
+"examples": [
+"Far away, on the stony garrigues by the fading light of the harvest moon one could hear the musical calling of wolves.",
+"Pure blackberry, cedar and earthy garrigue aromas."
+],
+"p": "guh-REEG"
+},
+{
+"w": "hellacious",
+"pos": "adjective",
+"senses": [
+"horrible, awful, hellish, agonizing, difficult.",
+"nasty, repellent."
+],
+"ety": "Unclear origins; perhaps from hell + -acious",
+"examples": [
+"Because he throws so many hellacious punches, he has the chance of knocking out any fighter on any given night."
+],
+"p": "heh-LAY-shus"
+},
+{
+"w": "jackalope",
+"pos": "noun",
+"senses": [
+"A folkloric animal, a supposed cross between a jackrabbit and an antelope, goat, or deer, usually portrayed as a rabbit with antlers."
+],
+"ety": "Blend of jackrabbit + antelope.",
+"examples": [
+"Most jackalopes are furry and a foot or two tall; many are only heads, mounted on wood plaques; there are some six-footers, covered with fur…"
+],
+"p": "JAK-uh-lohp"
+},
+{
+"w": "toper",
+"pos": "noun",
+"senses": [
+"Someone who drinks alcoholic beverages a lot; a drunkard."
+],
+"ety": "From tope + -er.",
+"examples": [
+"The liquor soon mounted into their heads, as it generally does even with the arrantest topers newly landed from sea, and they began capering about most obstreperously."
+],
+"p": "TOH-per"
+},
+{
+"w": "humectant",
+"pos": "noun",
+"senses": [
+"Any substance that promotes the retention of water, especially one used to keep a food product moist."
+],
+"ety": "From Latin ūmectāns, present participle of ūmectō (“to moisten”), from ūmectus (“moist”), from ūmeō (“to be moist”).",
+"examples": [
+"Sorbitol is an excellent humectant and is used to extend the shelf life of many baked goods and fillings."
+],
+"p": "hyoo-MEK-tunt"
+},
+{
+"w": "subjectivism",
+"pos": "noun",
+"senses": [
+"The doctrine that reality is created or shaped by the mind.",
+"The doctrine that knowledge is based in feelings or intuition.",
+"The doctrine that values and moral principles come from attitudes, convention, whim, or preference."
+],
+"ety": "From subjective + -ism.",
+"examples": [
+"Subjectivism takes as its allies the emotions, intuitive insight, imagination, humaneness, art, and a “higher” truth."
+],
+"p": "sub-JEK-tuh-vih-zum"
+},
+{
+"w": "oviparous",
+"pos": "adjective",
+"senses": [
+"Depositing eggs that develop and hatch outside the body as a reproductive strategy."
+],
+"ety": "Adapted borrowing of Late Latin ōviparus + -ous. By surface analysis, ovi- + -parous.",
+"examples": [
+"The echidna is a monotreme, which is the extremely small subset of oviparous mammals.",
+"Until fairly recently, no female Somniosus had been observed to be carrying embryos, so it was assumed that this was an oviparous species."
+],
+"p": "oh-VIP-uh-rus"
+},
+{
+"w": "romantica",
+"pos": "noun",
+"senses": [
+"Erotic romance."
+],
+"ety": "Blend of romance + erotica.",
+"examples": [
+"Actively seeking romance (including category), romantica, women’s fiction, mystery, thrillers and young adult. Does not want to receive poetry, short stories or screenplays.",
+"If one believes the marketing strategies of erotic romance publishers, romantica re-envisions an autonomous female sexuality."
+],
+"p": "roh-MAN-tih-kuh"
+},
+{
+"w": "quirt",
+"pos": "noun",
+"senses": [
+"A rawhide whip plaited with two thongs of buffalo hide."
+],
+"ety": "From Spanish cuerda (“cord”), or Mexican Spanish cuarta (“whip”).",
+"examples": [
+"He sprang into the saddle easily as a bird, got the quirt from the horn, and gave his pony a slash with it.",
+"He paused a moment and flicked a sage-brush with his quirt.",
+"No gunshot wounds, Barricune observed, but marks of kicks, and couple that must have been made with a quirt."
+],
+"p": "kwert"
+},
+{
+"w": "benediction",
+"pos": "noun",
+"senses": [
+"A short invocation for help, blessing and guidance from God, said on behalf of another person or persons (sometimes at the end of a church worship service).",
+"In the Anglican church, the ceremony used to institute an abbot, analogous to the consecration of a bishop.",
+"A Roman Catholic rite by which bells, banners, candles, etc., are blessed with holy water and formally dedicated to God.",
+"Help, good fortune or reward from God or another supernatural source."
+],
+"ety": "From Middle English benediccion, from Ecclesiastical Latin benedictio, benedictionis, from benedictus (“blessed; well spoken of”). Doublet of benison.",
+"examples": [
+"O, look upon me, sir, And hold your hands in benediction o’er me.",
+"My pen (its last scrawl a benediction on my beloved) dropt from my fingers;",
+"Long brahminical hairs sprouted out of his ears, and he drew further attention to himself by closing his eyes, neatly shaking away tears, putting a hand on Owad’s head and speaking a Hindi benediction."
+],
+"p": "ben-uh-DIK-shun"
+},
+{
+"w": "fritter",
+"pos": "noun",
+"senses": [
+"Synonym of pancake, a portion of batter fried on a pan.",
+"A dish made by coating various other foods in batter and frying or deep-frying them together, typically in small portions.",
+"A fragment; a shred; a small piece."
+],
+"ety": "Inherited from Middle English fryture, from Middle French friture, from Old French friture, from Vulgar Latin *frīctūra, from Latin frīgō (“to fry”); compare fry. For the development of Middle English /iu̯r(ə)/ into /ə(ɹ)/, compare armour, batter, border, solder.",
+"examples": [
+"And cut whole giants into fritters."
+],
+"p": "FRIT-er"
+},
+{
+"w": "clarifier",
+"pos": "noun",
+"senses": [
+"One who, or that which, clarifies.",
+"A vessel in which the process of clarification is conducted.",
+"An additional card used to enhance or explain the primary cards in a spread."
+],
+"ety": "From clarify + -er.",
+"examples": [
+"It is as a pioneer and “land clearer” that we know Martin-Löf – one of the principal clarifiers of the syntax and semantics of constructive mathematics."
+],
+"p": "KLAIR-uh-fy-er"
+},
+{
+"w": "hiker",
+"pos": "noun",
+"senses": [
+"One who hikes, especially frequently."
+],
+"ety": "From hike + -er.",
+"examples": [
+"Members of the Taitung County Fire Department’s Kuanshan Branch rescue an injured hiker in Taitung on Thursday."
+],
+"p": "HY-ker"
+},
+{
+"w": "bogatyr",
+"pos": "noun",
+"senses": [
+"A medieval heroic warrior in Kievan Rus, akin to the Western European knight-errant."
+],
+"ety": "Borrowed from Russian богаты́рь (bogatýrʹ), Old East Slavic богатꙑрь (bogatyrĭ), from a Turkic language, probably Khazar, from Old Turkic [script needed] (baɣatur, “hero”), from Proto-Turkic *bagatur (“hero”). Cognates include Turkish bahadır, Tatar баһадир (bahadir), Chuvash паттӑр (pattăr), Kyrgyz баатыр (baatır), Tuvan маатыр (maatır), Yakut баатыр (baatïr), Turkmen batyr, Middle Turkic baɣatur. Doublet of bahadur.",
+"examples": [
+"There was no answer from the bogatyr. Ilya shouted even louder than before, Louder than before, in a shrill voice— There was no answer from the bogatyr.",
+"Some variants of the tale say that all the bogatyrs perished in the battle except Ilya of Murom, who, however, died after coming back as a winner."
+],
+"p": "boh-guh-TEER"
+},
+{
+"w": "infanta",
+"pos": "noun",
+"senses": [
+"The daughter of a king in Spain or Portugal."
+],
+"ety": "Borrowed from Spanish infanta, Portuguese infanta, feminine of infante.",
+"examples": [
+"It was a dispatch intended specifically to communicate a sense of closure to the Spanish monarchs, to show that England possessed a dynasty fit for an infanta of Spain."
+],
+"p": "in-FAN-tuh"
+},
+{
+"w": "conveyance",
+"pos": "noun",
+"senses": [
+"An act or instance of conveying.",
+"A means of transporting, especially a vehicle."
+],
+"ety": "From Middle English conveiance, conveyaunce, equivalent to convey + -ance.",
+"examples": [
+"The times have changed in nothing more (we follow as we were wont the manuscript of Peter Pattieson,) than in the rapid conveyance of intelligence and communication betwixt one part of Scotland and another."
+],
+"p": "kun-VAY-uns"
+},
+{
+"w": "hocus",
+"pos": "verb",
+"senses": [
+"To play a trick on, to trick (someone); to hoax; to cheat."
+],
+"ety": "Pseudo-Latinism, derived from ellipsis of hocus-pocus. The verb is from the noun.",
+"examples": [
+"HOCUS. To cheat. Hence the more modern term hoax."
+],
+"p": "HOH-kus"
+},
+{
+"w": "memorialize",
+"pos": "verb",
+"senses": [
+"To provide a memorial for someone; to commemorate.",
+"To convert (someone’s profile) into a memorial site/page (e.g. on Facebook).",
+"To petition with a memorial, or statement of facts."
+],
+"ety": "From memorial + -ize.",
+"examples": [
+"In this passage, Andromaque sees Astyanax only through the memorializing lens of his attribution to Hector, his status as \"gage.\"",
+"Facebook says people with memorialized accounts do not appear in advertisements or birthday reminders on the site and are also excluded from the People You May Know list of friend suggestions.",
+"Why, you'll—you'll ask till they tell you. Then you'll memorialize that Department (according to regular forms which you'll find out) for leave to memorialize this Department."
+],
+"p": "muh-MAW-ree-uh-lize"
+},
+{
+"w": "meniscus",
+"pos": "noun",
+"senses": [
+"A crescent moon, or an object shaped like it.",
+"The curved surface of liquids in tubes, whether concave or convex, caused by the surface tension of the liquid."
+],
+"ety": "From Ancient Greek μηνίσκος (mēnískos, “crescent”), from μήνη (mḗnē, “moon”). Piecewise doublet of moonish.",
+"examples": [
+"And from Crabbe's own forehead sweat dripped or gathered into a kind of meniscus to be scooped off."
+],
+"p": "muh-NIS-kus"
+},
+{
+"w": "decriminalize",
+"pos": "verb",
+"senses": [
+"To change the laws so something is no longer a crime."
+],
+"ety": "Back-formation from decriminalization, equivalent to de- + criminalize.",
+"examples": [
+"The march to decriminalize drugs moved further across the nation on Tuesday despite continued federal prohibition.",
+"The House of Representatives approved decriminalizing marijuana at the federal level on Friday in the first time Congress has acted on the issue.",
+"The court’s decision decriminalizes abortions in the first 24 weeks of pregnancy, and means that any woman should be able to seek the procedure from a health professional without fear of criminal prosecution."
+],
+"p": "dee-KRIM-ih-nuh-lize"
+},
+{
+"w": "denude",
+"pos": "verb",
+"senses": [
+"To divest of all covering; to make bare or naked; to strip.",
+"To remove (something or someone) of their possessions or assets."
+],
+"ety": "From Middle French dénuder, from Latin dēnūdāre, from dē- + nūdus (“bare”).",
+"examples": [
+"He denuded himself of his clothes.",
+"Widespread deforestation has led to lands being denuded.",
+"But King Piko had been long harassed with the thought, that the unobstructed and indefinite increase of his browsing subjects might eventually denude of herbage his portion of the island."
+],
+"p": "dih-NYOOD"
+},
+{
+"w": "scald",
+"pos": "verb",
+"senses": [
+"To burn with hot liquid.",
+"To heat almost to boiling."
+],
+"ety": "From Middle English scalden, assumed to stem from Old Northern French escalder (compare central Old French eschauder, eschalder), from Late Latin excaldāre (“bathe in hot water”), from ex- (“off, out”) + cal(i)dus (“hot”). Cognate with Old Swedish skalda, skolda, skolla, skala, Swedish skålla, Danish skolde, Norwegian skålda, skaalda, Icelandic skálda. Also compare Old Norse skálda (“to rot, fall off, of hair”), to skalli (“baldness”), borrowed as Middle English scalle (“hair loss infection, rash, blistering”), English scall.",
+"examples": [
+"Mine own tears / Do scald like molten lead.",
+"Here the blue flames of scalding brimstone fall.",
+"The fireman was scalded by steam, but he did not fare so badly as the enemy pilot, whose dead body was found on a bank about 100 yd. away from the train."
+],
+"p": "skawld"
+},
+{
+"w": "premolar",
+"pos": "noun",
+"senses": [
+"A tooth located in front of the molars, especially the bicuspid tooth between the cuspids and molars in humans."
+],
+"ety": "Clipping of premolar tooth, calque of Latin dens praemolaris. Equivalent to pre- + molar.",
+"examples": [
+"He opened and let out a hogo of medicinal rum and beer. The bad tooth was a premolar."
+],
+"p": "PREE-moh-ler"
+},
+{
+"w": "extrapolation",
+"pos": "noun",
+"senses": [
+"An inference about some hypothetical situation based on known facts.",
+"The diametric opposite of interpolation."
+],
+"ety": "Morphologically extrapolate + -ion",
+"examples": [
+"Casting further doubt on Kerner’s extrapolations from Gebhard’s data, it’s unclear what happened during those 21 minutes of foreplay. Blow jobs? Kissing? Role-playing? We don’t know."
+],
+"p": "ek-strap-uh-LAY-shun"
+},
+{
+"w": "ekstasis",
+"pos": "noun",
+"senses": [
+"The state of being beside oneself or rapt out of oneself."
+],
+"ety": "Ancient Greek ἔκστασις (ékstasis, “displacement, cession, trance”)",
+"examples": [
+"We find ourselves then in the presence of two human ekstases: the ekstasis which throws us into being-in-itself and the ekstasis which engages us in non-being."
+],
+"p": "EK-stuh-sis"
+},
+{
+"w": "witticism",
+"pos": "noun",
+"senses": [
+"a witty remark; a bon mot; an epigram; a zinger."
+],
+"ety": "From witty + -icism; coined in the 1670s by John Dryden, by analogy to criticism.",
+"examples": [
+"Shock of the witticism is a powerful one; while mere fun will have no power over them if it jar on their moral taste.",
+"While the occasional wry witticism seeps through, overall Shipler is painfully conscientious about trying to offer both sides of any debate."
+],
+"p": "WIH-tih-siz-um"
+}
+]

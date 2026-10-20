@@ -1,0 +1,436 @@
+[
+{
+"w": "woomera",
+"pos": "noun",
+"senses": [
+"A traditional spearthrower, consisting of a stick with a hooked end, used by First Nations Australians."
+],
+"ety": "Borrowed from Dharug wumara.",
+"examples": [],
+"p": "wuum-rah"
+},
+{
+"w": "thaler",
+"pos": "noun",
+"senses": [
+"A monetary unit used in a number of central and northern European countries, known locally as daalder (Netherlands), daler (Scandinavia), Taler, Thaler (Germany), etc.",
+"The currency of Baden from 1829 to 1837, valued at 100 Kreuzer."
+],
+"ety": "Borrowed from German Thaler, an abbreviation of Joachimsthaler, after Sankt Joachimsthal, the German city in which some of the earliest thalers were minted in 1518. Doublet of dollar and tolar.",
+"examples": [],
+"p": "TAH-ler"
+},
+{
+"w": "climatology",
+"pos": "noun",
+"senses": [
+"The science that deals with climates, and investigates their phenomena and causes."
+],
+"ety": "From climate + -ology.",
+"examples": [],
+"p": "kly-mih-TAH-luh-jee"
+},
+{
+"w": "macrocephaly",
+"pos": "noun",
+"senses": [
+"The excessive concentration of population and development in a single centre, to the detriment of other areas."
+],
+"ety": "From macro- + -cephaly.",
+"examples": [],
+"p": null
+},
+{
+"w": "grasper",
+"pos": "noun",
+"senses": [
+"A person who grasps",
+"A tool used for grasping"
+],
+"ety": "From grasp + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "grandmamma",
+"pos": "noun",
+"senses": [
+"Grandmother."
+],
+"ety": "From grand- + mamma.",
+"examples": [],
+"p": null
+},
+{
+"w": "approver",
+"pos": "noun",
+"senses": [
+"One who approves or gives approval."
+],
+"ety": "From approve + -er.",
+"examples": [],
+"p": "uh-PROO-ver"
+},
+{
+"w": "advocation",
+"pos": "noun",
+"senses": [
+"The process of removing a cause from an inferior court to the supreme court."
+],
+"ety": "From Latin advocātiō. Doublet of advowson",
+"examples": [],
+"p": null
+},
+{
+"w": "exclave",
+"pos": "verb",
+"senses": [
+"To separate a region in a way that turns it into an exclave."
+],
+"ety": "From ex- + (en)clave.",
+"examples": [],
+"p": "EKS-klayv"
+},
+{
+"w": "fatback",
+"pos": "noun",
+"senses": [
+"A layer of fat, along the back of a pig, used as a cut of meat or to make lard",
+"A fish, the menhaden."
+],
+"ety": "From fat + back.",
+"examples": [],
+"p": null
+},
+{
+"w": "ginseng",
+"pos": "noun",
+"senses": [
+"The root of such a plant, or an extract of these roots."
+],
+"ety": "Borrowed from Hokkien 人參 /人参 (jîn-sim, “ginseng”). Doublet of ninzin.",
+"examples": [],
+"p": "JIN-seng"
+},
+{
+"w": "cossette",
+"pos": "noun",
+"senses": [
+"One of the thin strips into which sugar beets are cut as part of the sugar-making process."
+],
+"ety": "From French cossette.",
+"examples": [],
+"p": null
+},
+{
+"w": "palapa",
+"pos": "noun",
+"senses": [
+"An open-sided dwelling with a thatched roof made of dried palm leaves."
+],
+"ety": "Borrowed from Spanish palapa, from Tagalog palapa (“midrib of a coconut frond”), from Proto-Malayo-Polynesian *palaqpaq.",
+"examples": [
+"At the average home price, you can find a two- or even three-bedroom house with a pool and palapa."
+],
+"p": null
+},
+{
+"w": "witcher",
+"pos": "noun",
+"senses": [
+"A male witch; warlock.",
+"A human who has undergone a controlled mutation so that he can kill monsters as a professional mercenary in Andrzej Sapkowski's The Witcher series."
+],
+"ety": "From witch + -er, a male equivalent of witch using the -er suffix as masculine, as in widower vs. widow, a calque of Polish wiedźmin. Possibly influenced by witchery. The Polish word was coined in 1986 by author Andrzej Sapkowski as a male equivalent of wiedźma (“witch”) for his The Witcher book series and media franchise. The English calque witcher was popularized by the series' English translation.",
+"examples": [],
+"p": "WICH-er"
+},
+{
+"w": "deactivation",
+"pos": "noun",
+"senses": [
+"The act of deactivating something, such as a bomb or alarm."
+],
+"ety": "From de- + activation.",
+"examples": [],
+"p": "dee-ak-tih-VAY-shun"
+},
+{
+"w": "strudel",
+"pos": "noun",
+"senses": [
+"A pastry made from multiple thin layers of dough rolled up and filled with fruit, etc.",
+"A vertical hole in sea ice through which downward jet-like, buoyancy-driven drainage of flood water is thought to occur."
+],
+"ety": "Borrowed from German Strudel (“whirlpool, strudel”).",
+"examples": [],
+"p": "STROO-dul"
+},
+{
+"w": "manged",
+"pos": "adjective",
+"senses": [
+"Infected with mange; mangy."
+],
+"ety": "From mange + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "nocturn",
+"pos": "noun",
+"senses": [
+"The night office of the Christian liturgy of the Hours, such as is performed in monasteries.",
+"A portion of the psalter used during nocturns."
+],
+"ety": "From Middle English nocturne, borrowed from Medieval Latin nocturna, noun use of the feminine form of Latin nocturnus (“nocturnal, of the night”), derived from nox (“night”).",
+"examples": [],
+"p": "NAHK-turn"
+},
+{
+"w": "hamate",
+"pos": "noun",
+"senses": [
+"The hamate bone."
+],
+"ety": "From Latin hamus (“hook”) + -ate (adjective forming suffix); the noun is a back-formation from hamate bone, see -ate (noun-forming suffix).",
+"examples": [],
+"p": "HAY-mayt"
+},
+{
+"w": "pressurisation",
+"pos": "noun",
+"senses": [
+"The act or process of increasing pressure within a space."
+],
+"ety": "From pressurise + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "aught",
+"pos": "noun",
+"senses": [
+"The digit zero."
+],
+"ety": "Rebracketing of a naught.",
+"examples": [],
+"p": "awt"
+},
+{
+"w": "cyclo",
+"pos": "noun",
+"senses": [
+"A cycle rickshaw"
+],
+"ety": "From cycle + -o.",
+"examples": [],
+"p": null
+},
+{
+"w": "salami",
+"pos": "noun",
+"senses": [
+"A large cured meat sausage of Italian origin, served in slices."
+],
+"ety": "From Italian salami, plural of salame (“salami”), from sale (“salt”), from Latin sal.",
+"examples": [],
+"p": "suh-LAH-mee"
+},
+{
+"w": "estado",
+"pos": "noun",
+"senses": [
+"A traditional Spanish unit of length, equivalent to about 1.67 m."
+],
+"ety": "From Spanish estado (“Spanish fathom, state, status”), from Latin stātus (“standing, state, status”). Doublet of state, status, estate, and stade.",
+"examples": [],
+"p": null
+},
+{
+"w": "dimmable",
+"pos": "adjective",
+"senses": [
+"Able to be dimmed: able to have illumination decreased in brightness without blowing out or degrading the service life of the LED or light bulb."
+],
+"ety": "From dim + -able.",
+"examples": [
+"The store is having a sale on dimmable chandeliers."
+],
+"p": null
+},
+{
+"w": "nahor",
+"pos": "noun",
+"senses": [
+"Mesua ferrea (Ceylon ironwood)."
+],
+"ety": "Borrowed from Assamese নাহৰ (nahor), ultimately from Sanskrit नागकेसर (nāgakesara).",
+"examples": [],
+"p": null
+},
+{
+"w": "caparisoned",
+"pos": "adjective",
+"senses": [
+"Having a richly ornamented harness.",
+"Dressed in richly ornamented finery."
+],
+"ety": "From caparison + -ed.",
+"examples": [
+"Preceded by the richly caparisoned guards, care had been taken to give them the appearance of an escort necessary to dignity—but not to security.",
+"Nevertheless, a good Turkish meal was enjoyed in the merry company of Customs men and divers gaily-caparisoned officials."
+],
+"p": null
+},
+{
+"w": "jugate",
+"pos": "noun",
+"senses": [
+"A portrait which depicts two side-by-side subjects with relative proximity."
+],
+"ety": "Borrowed from Latin iugātus (“yoked together in pairs”), perfect passive participle of iugō (“to yoke”), see -ate (adjective-forming suffix) and -ate (noun-forming suffix).",
+"examples": [],
+"p": null
+},
+{
+"w": "proglacial",
+"pos": "adjective",
+"senses": [
+"Situated in front, or outside the margins, of a glacier or ice sheet (and formed from its meltwaters)."
+],
+"ety": "From pro- + glacial.",
+"examples": [],
+"p": null
+},
+{
+"w": "nyayo",
+"pos": "noun",
+"senses": [
+"A person's precedent or example."
+],
+"ety": "Borrowed from Swahili nyayo (“footsteps, footprints”), from Proto-Bantu [Term?].",
+"examples": [
+"Chapos or no chapos, this was a good time to follow my father's nyayo and leave these innovative ladies of Kabete to their poetic cookery."
+],
+"p": null
+},
+{
+"w": "foldout",
+"pos": "noun",
+"senses": [
+"An overlarge page that is folded into a book or magazine.",
+"A bed that folds out from a closed position."
+],
+"ety": "Deverbal from fold out.",
+"examples": [],
+"p": null
+},
+{
+"w": "macroporous",
+"pos": "adjective",
+"senses": [
+"Having macropores, i.e. pores of a relatively large size (e.g. greater than 50 nanometres)."
+],
+"ety": "From macro- + porous.",
+"examples": [],
+"p": null
+},
+{
+"w": "thema",
+"pos": "noun",
+"senses": [
+"A subject or theme."
+],
+"ety": "Learned borrowing from Ancient Greek θέμᾰ (thémă). Doublet of theme.",
+"examples": [
+"Eco has his own image for this method-spiral repetition: every new exploration elevates the solutions to a higher level by expanding the thema's cognitive context."
+],
+"p": null
+},
+{
+"w": "sangiovese",
+"pos": "noun",
+"senses": [
+"Either of two grape varieties grown in Tuscany and Romagna.",
+"Any of several red wines made from these grapes."
+],
+"ety": "From Italian sangiovese.",
+"examples": [],
+"p": null
+},
+{
+"w": "mushroomy",
+"pos": "adjective",
+"senses": [
+"Characteristic of mushrooms.",
+"Resembling a mushroom.",
+"Flavoured with mushrooms."
+],
+"ety": "From mushroom + -y.",
+"examples": [
+"Dried mushrooms are really mushroomier than the canned and very simple to use; they are used a great deal in Chinese and Italian cooking.",
+"It grew steadily colder and presently a mushroomy sort of smell came up from the darkness.",
+"Near-synonyms: mushroomoid, mushroomlike; fungiform"
+],
+"p": null
+},
+{
+"w": "federale",
+"pos": "noun",
+"senses": [
+"A federal law enforcement officer, usually belonging to the United States government."
+],
+"ety": "Back-formation from the plural, from Mexican Spanish federales, from federal.",
+"examples": [],
+"p": null
+},
+{
+"w": "trebbiano",
+"pos": "noun",
+"senses": [
+"A widely cultivated Italian grape variety of high acidity, used in the production of white wine and brandy.",
+"A variety of dry white wine made from this grape."
+],
+"ety": "Borrowed from Italian trebbiano.",
+"examples": [],
+"p": "treb-ee-AH-noh"
+},
+{
+"w": "trackman",
+"pos": "noun",
+"senses": [
+"A railway employee who inspects and maintains the permanent way of a railway installation."
+],
+"ety": "From track + -man.",
+"examples": [
+"When a passenger or freight train is snowbound, any train crew or passengers must first be rescued and taken to the nearest station. This task is usually done by local trackmen.",
+"Drones and helicopters have been in common use by Network Rail for some time, and are a far cry from the days when all inspections were carried out by trackmen reaching remote sites on foot."
+],
+"p": null
+},
+{
+"w": "marginalization",
+"pos": "noun",
+"senses": [
+"The act of marginalizing."
+],
+"ety": "From marginal + -ization.",
+"examples": [],
+"p": "mar-jih-nuh-ly-ZAY-shun"
+},
+{
+"w": "parallelize",
+"pos": "verb",
+"senses": [
+"To make parallel (to each other).",
+"To treat as if parallel; to draw parallels between."
+],
+"ety": "From parallel + -ize.",
+"examples": [
+"Care must be taken lest the machine parallelize the fibers.",
+"They erroneously parallelized the symptoms of the two diseases."
+],
+"p": null
+}
+]

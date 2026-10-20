@@ -1,0 +1,439 @@
+[
+{
+"w": "dampener",
+"pos": "noun",
+"senses": [
+"A device that moistens or dampens something.",
+"A discouraging event or remark."
+],
+"ety": "From dampen + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "crine",
+"pos": "verb",
+"senses": [
+"To wither, wilt, shrivel."
+],
+"ety": "From Scots crine (“to shrivel”), from Scottish Gaelic crìon (“withered”), from Old Irish crín.",
+"examples": [],
+"p": "krine"
+},
+{
+"w": "hepcidin",
+"pos": "noun",
+"senses": [
+"A hormone produced by the liver that regulates iron homeostasis in mammals."
+],
+"ety": "From hep(ato)- (“liver”) + -cide (“killing”) + -in (“compound”), because of its origin and bacteria-killing properties.",
+"examples": [],
+"p": null
+},
+{
+"w": "whammo",
+"pos": "noun",
+"senses": [
+"An action-packed scene in a film, etc."
+],
+"ety": "From wham + -o.",
+"examples": [],
+"p": "WAM-oh"
+},
+{
+"w": "balboa",
+"pos": "noun",
+"senses": [
+"The currency of Panama, divided into 100 centésimos"
+],
+"ety": "Named after Vasco Núñez de Balboa. See also Balboa.",
+"examples": [],
+"p": "bal-BOH-uh"
+},
+{
+"w": "sexercise",
+"pos": "noun",
+"senses": [
+"Sexual exercise; the performance of sexual activity as a means of promoting health and fitness.",
+"Exercise that is directed towards the improvement of sexual performance."
+],
+"ety": "Blend of sex + exercise.",
+"examples": [
+"Now some choose to use sexercise to get rid of the weight, and those are the ones that every male crew member hopes to get and keep.",
+"It would lift me high above my obsession; only, this time I wouldn't be on an elevated sexercise mat or swimming in a plate of French cream sauce.",
+"In addition, there are books on sexercise aimed at strengthening and promoting flexibility in muscles that are purported to be of special significance to sexual activity."
+],
+"p": null
+},
+{
+"w": "osteoarthritic",
+"pos": "adjective",
+"senses": [
+"Affected with osteoarthritis."
+],
+"ety": "From osteo- + arthritic.",
+"examples": [],
+"p": null
+},
+{
+"w": "sharpish",
+"pos": "adjective",
+"senses": [
+"Somewhat sharp (sudden, abrupt).",
+"Somewhat sharp; not blunt."
+],
+"ety": "From sharp + -ish.",
+"examples": [],
+"p": null
+},
+{
+"w": "butchy",
+"pos": "adjective",
+"senses": [
+"Like or characteristic of a butch."
+],
+"ety": "From butch + -y.",
+"examples": [],
+"p": "BUUCH-ee"
+},
+{
+"w": "mazurek",
+"pos": "noun",
+"senses": [
+"A kind of Polish cake baked at Easter, typically made from pastry with a layer of butter sponge cake on top, sometimes affixed with marmalade, and topped with nut-based icing and candied fruits."
+],
+"ety": "From Polish mazurek.",
+"examples": [],
+"p": null
+},
+{
+"w": "resealable",
+"pos": "adjective",
+"senses": [
+"Able to be resealed."
+],
+"ety": "From reseal + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "diocesan",
+"pos": "noun",
+"senses": [
+"The bishop of a diocese.",
+"An inhabitant of a diocese."
+],
+"ety": "From Middle French diocesain.",
+"examples": [],
+"p": "dy-AH-sih-sun"
+},
+{
+"w": "lignum",
+"pos": "noun",
+"senses": [
+"A perennial shrub, Duma florulenta, native to semiarid areas of inland Australia.",
+"Land covered by lignum."
+],
+"ety": "Contraction of polygonum (“plant of the family Polygonaceae”).",
+"examples": [
+"They assembled in the lignum / Where the Boss said pigs were thick."
+],
+"p": null
+},
+{
+"w": "nubby",
+"pos": "adjective",
+"senses": [
+"Knobbly; covered with small knobs.",
+"Nub-like, resembling a small bump or protrusion; stubby."
+],
+"ety": "From nub + -y. Compare knobby.",
+"examples": [],
+"p": "nub-ee"
+},
+{
+"w": "energic",
+"pos": "adjective",
+"senses": [
+"Carried out with force; vigorous, energetic; full of energy."
+],
+"ety": "From energy + -ic. Compare earlier energetic (now the more usual word).",
+"examples": [],
+"p": null
+},
+{
+"w": "shibe",
+"pos": "noun",
+"senses": [
+"A Shiba Inu."
+],
+"ety": "Shortened form of Shiba, as in Shiba Inu.",
+"examples": [],
+"p": "sheeb"
+},
+{
+"w": "baingan",
+"pos": "noun",
+"senses": [
+"An eggplant; a brinjal."
+],
+"ety": "From Hindi बैंगन (baiṅgan, “eggplant”).",
+"examples": [],
+"p": null
+},
+{
+"w": "rageful",
+"pos": "adjective",
+"senses": [
+"full of rage, enraged"
+],
+"ety": "From rage + -ful.",
+"examples": [],
+"p": null
+},
+{
+"w": "vanpool",
+"pos": "verb",
+"senses": [
+"To transport people in a vanpool.",
+"To be transported in a vanpool."
+],
+"ety": "From van + pool.",
+"examples": [],
+"p": null
+},
+{
+"w": "pansori",
+"pos": "noun",
+"senses": [
+"A traditional Korean style of narrative song, in which a single performer is accompanied by a drummer.",
+"An individual song in this style."
+],
+"ety": "From Korean 판소리.",
+"examples": [],
+"p": null
+},
+{
+"w": "coracoid",
+"pos": "adjective",
+"senses": [
+"hooked like the beak of a crow"
+],
+"ety": "From Latin corax + -oid.",
+"examples": [],
+"p": null
+},
+{
+"w": "electrum",
+"pos": "noun",
+"senses": [
+"German silver plate."
+],
+"ety": "From Latin ēlectrum, from Ancient Greek ἤλεκτρον (ḗlektron).",
+"examples": [],
+"p": "ih-LEK-trum"
+},
+{
+"w": "circulator",
+"pos": "noun",
+"senses": [
+"A person or thing that causes something to circulate",
+"A local transit system that provides regular service within a closed loop"
+],
+"ety": "From circulate + -or.",
+"examples": [
+"Who is the circulator of this rumor?",
+"You can ride the airport circulator to the next terminal."
+],
+"p": null
+},
+{
+"w": "tanglefoot",
+"pos": "noun",
+"senses": [
+"A sticky substance put at the base of trees or other plants to trap insects and prevent them from climbing up."
+],
+"ety": "From tangle + foot.",
+"examples": [
+"We reared experimental colonies in plastic nest containers (30 cm by 14 cm by 8 cm) lined with fluon and tanglefoot to prevent ants from escaping."
+],
+"p": null
+},
+{
+"w": "cappo",
+"pos": "noun",
+"senses": [
+"Synonym of capote (“coat”)."
+],
+"ety": "Modification of French capote.",
+"examples": [],
+"p": null
+},
+{
+"w": "daywalker",
+"pos": "noun",
+"senses": [
+"One who can go out in the sunlight, distinguished from vampires, etc., who cannot."
+],
+"ety": "From day + walker.",
+"examples": [],
+"p": null
+},
+{
+"w": "choate",
+"pos": "adjective",
+"senses": [
+"Complete, fully formed."
+],
+"ety": "By back-formation from inchoate.",
+"examples": [
+"Unlike this particular image of Emerson's, however, Bloom's visions are more particularized and more choate in the grimness of his tone.",
+"They used Islam—though admittedly much more inchoate in the seventh century than in the twelfth–to give definition to Judaism, again one more choate in the twelfth century than in the seventh."
+],
+"p": null
+},
+{
+"w": "handman",
+"pos": "noun",
+"senses": [
+"One who assembles printing type by hand."
+],
+"ety": "From hand + man, modelled after handmaiden, etc. For the printing sense, see by hand.",
+"examples": [
+"The handman reads copy and assembles type by hand, including straight composition, tables and display."
+],
+"p": null
+},
+{
+"w": "proleague",
+"pos": "adjective",
+"senses": [
+"Supporting the League of Nations."
+],
+"ety": "From pro- + league.",
+"examples": [],
+"p": null
+},
+{
+"w": "fenland",
+"pos": "noun",
+"senses": [
+"A kind of low-lying ground, often wet or marshy."
+],
+"ety": "From Middle English fenlond, from Old English fenland, equivalent to fen + land. Cognate with Saterland Frisian Foanlound (“moorland”), West Frisian feanlân (“peat bog”), Dutch veenland (“peat bog”), Middle Low German vēnlant, vennelant (“swampy, boggy pastureland”).",
+"examples": [],
+"p": null
+},
+{
+"w": "cybernetics",
+"pos": "noun",
+"senses": [
+"The theory/science of communication and control in living organisms or machines.",
+"The art/study of governing, controlling automatic processes and communication.",
+"Technology that is part of and controlled by a living organism (e.g. a cyborg); cybernetic or bionic technology such as prostheses.",
+"Technology related to computers and the Internet."
+],
+"ety": "From Ancient Greek κυβερνήτης (kubernḗtēs, “steersman”), from κυβερνάω (kubernáō, “to steer, drive, guide, act as a pilot”) (whence English govern). The term is attested since at least 1948 in the book Cybernetics by Norbert Wiener, influenced by the cognate term and doublet governor, the name of an early control device proposed by James Clerk Maxwell in 1868. Note also the 1830s French cybernétique (“the art of governing”). Also doublet of Kubernetes.",
+"examples": [],
+"p": "sy-ber-NEH-tiks"
+},
+{
+"w": "oxidizable",
+"pos": "adjective",
+"senses": [
+"Capable of being oxidized."
+],
+"ety": "From oxidize + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "rearm",
+"pos": "verb",
+"senses": [
+"To arm, or prepare for use, again."
+],
+"ety": "From re- + arm.",
+"examples": [],
+"p": "ree-ARM"
+},
+{
+"w": "sandhya",
+"pos": "noun",
+"senses": [
+"Morning or evening prayers."
+],
+"ety": "Borrowed from Sanskrit संध्या (saṃdhyā, “twilight, twilight prayers”).",
+"examples": [
+"He did his sandhya in the mornings after he had his bath, put the red tilak on the foreheads of the gods and goddesses, said his prayers, prostrated before them and went off to work."
+],
+"p": null
+},
+{
+"w": "socioeconomics",
+"pos": "noun",
+"senses": [
+"The branch of economics that deals with social aspects."
+],
+"ety": "From socio- + economics.",
+"examples": [],
+"p": null
+},
+{
+"w": "fayre",
+"pos": "noun",
+"senses": [
+"A fair, a market."
+],
+"ety": "From Old French foire, from Latin fēriae.",
+"examples": [
+"The market or fayre of Usurers.",
+"Stebbing Elizabethan fayre: The fourth great Elizabethan fayre to be held in the village and church of Stebbing."
+],
+"p": null
+},
+{
+"w": "nontheistic",
+"pos": "adjective",
+"senses": [
+"Not believing in any gods."
+],
+"ety": "From non- + theistic.",
+"examples": [
+"Thus what he called \"natural religion\" must not be confused with modern brands of naturalistic or nontheistic religion.",
+"The nontheistic tradition of Buddhism generally takes the view that people (with each other's help) can liberate themselves."
+],
+"p": null
+},
+{
+"w": "patrolman",
+"pos": "noun",
+"senses": [
+"A police officer, especially a junior officer assigned patrol duty instead of detection or supervision."
+],
+"ety": "From patrol + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "kathoey",
+"pos": "noun",
+"senses": [
+"A feminine or effeminate transgender person or person of a third gender assigned male at birth from Cambodia, Laos, or Thailand.",
+"A effeminate gay man."
+],
+"ety": "Borrowed from Thai กะเทย (gà-təəi), from Khmer ខ្ទើយ (khtəəy), from Proto-Mon-Khmer *ɡɗəəj.",
+"examples": [],
+"p": "ka-TOY"
+},
+{
+"w": "phytoplankton",
+"pos": "noun",
+"senses": [
+"Plankton, especially those small in size, that obtain energy by photosynthesis."
+],
+"ety": "From phyto- + plankton. From Ancient Greek φυτόν (phutón, “plant”) + πλαγκτόν (planktón), neuter of πλαγκτός (planktós, “wandering”). However, they are no longer classified as plants, so the terminology is showing a historical meaning.",
+"examples": [],
+"p": "fy-tuh-PLANGK-tun"
+}
+]

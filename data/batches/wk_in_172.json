@@ -1,0 +1,418 @@
+[
+{
+"w": "multiway",
+"pos": "adjective",
+"senses": [
+"Having multiple paths, channels or configurations"
+],
+"ety": "From multi- + way.",
+"examples": [],
+"p": null
+},
+{
+"w": "lichenoid",
+"pos": "adjective",
+"senses": [
+"Resembling lichen"
+],
+"ety": "From lichen + -oid.",
+"examples": [],
+"p": null
+},
+{
+"w": "schiedam",
+"pos": "noun",
+"senses": [
+"Gin produced in Schiedam, a southern municipality of the Netherlands."
+],
+"ety": "Short for Schiedam schnapps.",
+"examples": [],
+"p": null
+},
+{
+"w": "ontake",
+"pos": "verb",
+"senses": [
+"To take on; undertake; assume."
+],
+"ety": "From Middle English ontaken, equivalent to on- + take. Compare Old English onniman (“to receive, take”).",
+"examples": [],
+"p": null
+},
+{
+"w": "kendi",
+"pos": "noun",
+"senses": [
+"A container of Asian derivation, usually handleless, used to hold liquid with a broad opening on top for inserting liquid and usually only one spout for pouring."
+],
+"ety": "Borrowed from Malay kendi, from Sanskrit कुण्ड (kuṇḍa) or कुण्डिक (kuṇḍika, “water pot”).",
+"examples": [],
+"p": null
+},
+{
+"w": "aanchal",
+"pos": "noun",
+"senses": [
+"The end of a sari that hangs loose over the shoulder."
+],
+"ety": "Borrowed from Hindi आँचल (ā̃cal), from Sanskrit अञ्चल (añcala).",
+"examples": [],
+"p": null
+},
+{
+"w": "lettice",
+"pos": "noun",
+"senses": [
+"A kind of whitish-grey fur from the winter coat of the least weasel."
+],
+"ety": "From Middle English letuse, from Anglo-Norman letuse; further etymology is unknown.",
+"examples": [],
+"p": "LET-is"
+},
+{
+"w": "martlet",
+"pos": "noun",
+"senses": [
+"A depiction of a bird similar to a house martin or swallow with stylized feet."
+],
+"ety": "From Middle English martilet, probably a blend of martinet (“martin”; from Middle French martinet and Medieval Latin martineta) and Middle French merlet.",
+"examples": [],
+"p": "MART-lut"
+},
+{
+"w": "stereotypy",
+"pos": "noun",
+"senses": [
+"The process of making stereotype plates and printing from them."
+],
+"ety": "Borrowed from French stéréotypie, from stéréotype + -ie. By surface analysis, stereotype + -y (suffix forming abstract nouns).",
+"examples": [],
+"p": "STAIR-ee-uh-ty-pee"
+},
+{
+"w": "yonsei",
+"pos": "noun",
+"senses": [
+"The fourth generation or great-grandchildren of Japanese immigrants, particularly in North America and in Latin America."
+],
+"ety": "From Japanese 四世 (よんせい (yonsei)), from 四 (yon-, “fourth”) + 世 (sei, “generation”).",
+"examples": [],
+"p": null
+},
+{
+"w": "korowai",
+"pos": "noun",
+"senses": [
+"A woven Maori cloak covered with muka tassels."
+],
+"ety": "From Māori korowai.",
+"examples": [],
+"p": null
+},
+{
+"w": "parabellum",
+"pos": "noun",
+"senses": [
+"A type of cartridge used in some handguns.",
+"A type of German semiautomatic pistol."
+],
+"ety": "For Latin parā bellum (“furnish war”), from the Latin adage sī vīs pācem, parā bellum (“if you want peace, prepare for war”).",
+"examples": [],
+"p": null
+},
+{
+"w": "wapiti",
+"pos": "noun",
+"senses": [
+"The American elk (Cervus canadensis)."
+],
+"ety": "From Shawnee waapiti (“elk; white rump”).",
+"examples": [],
+"p": "WAH-pih-tee"
+},
+{
+"w": "biopsychosocial",
+"pos": "adjective",
+"senses": [
+"Having biological, psychological and social characteristics."
+],
+"ety": "From bio- + psychosocial.",
+"examples": [],
+"p": null
+},
+{
+"w": "terabyte",
+"pos": "noun",
+"senses": [
+"One trillion (10¹², or 1,000,000,000,000) bytes or 1,000 gigabytes."
+],
+"ety": "From tera- + byte.",
+"examples": [],
+"p": "TAIR-uh-bite"
+},
+{
+"w": "bubby",
+"pos": "noun",
+"senses": [
+"Familiar term of address for a boy; bub; bubba."
+],
+"ety": "Perhaps from brother, as pronounced by young children who are not yet able to properly pronounce its complex consonants, but alternatively perhaps from Pennsylvania German; see bub. Compare sissy.",
+"examples": [
+"Mother sent me to hunt you; she is dying, and sissy and bubby are hungry and the baby is crying, and we're afraid the cross man will come."
+],
+"p": null
+},
+{
+"w": "froot",
+"pos": "noun",
+"senses": [
+"A boot (storage compartment) located at the front rather than the rear of a car, especially an electric vehicle."
+],
+"ety": "Blend of front + boot.",
+"examples": [],
+"p": "froot"
+},
+{
+"w": "poesy",
+"pos": "noun",
+"senses": [
+"The art or composition of poetry."
+],
+"ety": "From Middle English poesie (Middle English po(esie) + -esy), from Middle French poesie, from Late Latin poesia, from earlier poēsis, from Ancient Greek ποίησις (poíēsis). Doublet of poiesis.",
+"examples": [],
+"p": "POH-ih-zee"
+},
+{
+"w": "turmeric",
+"pos": "noun",
+"senses": [
+"The pulverized rhizome of the turmeric plant, used for flavoring and to add a bright yellow color to food.",
+"A yellow to reddish-brown dye extracted from the turmeric plant."
+],
+"ety": "From Middle English turmeryte, tarmaret, of uncertain origin. Possibly corrupted from Arabic كُرْكُم (kurkum, “Curcuma”) or from Old French terre mérite (“deserving earth”), potentially as a folk etymology of the Arabic.",
+"examples": [],
+"p": "TUR-mer-ik"
+},
+{
+"w": "nitride",
+"pos": "verb",
+"senses": [
+"To subject to the nitriding process."
+],
+"ety": "From nitr(ogen) + -ide.",
+"examples": [],
+"p": "NY-tride"
+},
+{
+"w": "firmer",
+"pos": "noun",
+"senses": [
+"A physical exercise or cosmetic product intended to firm part of the body.",
+"A thin chisel with a tang to enter the handle instead of a socket for receiving it."
+],
+"ety": "From firm + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "swooping",
+"pos": "adjective",
+"senses": [
+"That swoops or swoop."
+],
+"ety": "From swoop + -ing.",
+"examples": [
+"With a huge rush of wind a swooping eagle dropped from out of the night sky."
+],
+"p": null
+},
+{
+"w": "autobio",
+"pos": "noun",
+"senses": [
+"autobiography"
+],
+"ety": "Clipping. By surface analysis, auto- + bio.",
+"examples": [],
+"p": null
+},
+{
+"w": "pirarucu",
+"pos": "noun",
+"senses": [
+"An arapaima (Arapaima gigas), a large fish of the Amazon."
+],
+"ety": "Borrowed from Brazilian Portuguese pirarucu.",
+"examples": [],
+"p": "pih-rah-ruh-KOO"
+},
+{
+"w": "geoinformation",
+"pos": "noun",
+"senses": [
+"geospatial information"
+],
+"ety": "From geo- + information.",
+"examples": [],
+"p": null
+},
+{
+"w": "geoinformatics",
+"pos": "noun",
+"senses": [
+"A science and technology which develops and uses information science to address problems of geography, geosciences and related branches of engineering"
+],
+"ety": "From geo- + informatics.",
+"examples": [],
+"p": null
+},
+{
+"w": "genlock",
+"pos": "noun",
+"senses": [
+"A technique whereby the video output of one source, or a specific reference signal, is used to synchronize other sources."
+],
+"ety": "Short for generator lock.",
+"examples": [],
+"p": null
+},
+{
+"w": "schroff",
+"pos": "noun",
+"senses": [
+"A banker or moneychanger."
+],
+"ety": "Borrowed from Persian صراف (sarâf) or Urdu صراف (sarrāf), from Arabic صَرَّاف (ṣarrāf).",
+"examples": [],
+"p": "shrof"
+},
+{
+"w": "imperishable",
+"pos": "adjective",
+"senses": [
+"Not perishable; not subject to decay; enduring permanently."
+],
+"ety": "From Middle French impérissable. See im- + perishable.",
+"examples": [
+"The child was to be a prophet, unrivalled among men, and the parent of an imperishable race."
+],
+"p": null
+},
+{
+"w": "duang",
+"pos": "noun",
+"senses": [
+"A kind of Asian horoscope."
+],
+"ety": "From Thai ดวง (duuang).",
+"examples": [],
+"p": null
+},
+{
+"w": "inevitability",
+"pos": "noun",
+"senses": [
+"An inevitable condition or outcome."
+],
+"ety": "From inevitable + -ity.",
+"examples": [],
+"p": "ih-nev-ih-tuh-BIL-ih-tee"
+},
+{
+"w": "transuranic",
+"pos": "adjective",
+"senses": [
+"Of an element: lying beyond uranium in the periodic table; having an atomic number greater than 92."
+],
+"ety": "From trans- + uranic.",
+"examples": [],
+"p": null
+},
+{
+"w": "yeehaw",
+"pos": "verb",
+"senses": [
+"To shout yee-haw, or exclaim in a similar manner."
+],
+"ety": "From gee and haw, words used to instruct a horse to turn in different directions.",
+"examples": [],
+"p": "yee-HAW"
+},
+{
+"w": "herpetologist",
+"pos": "noun",
+"senses": [
+"One who studies reptiles and amphibians; a reptile and amphibian specialist."
+],
+"ety": "From herpeto- (From Ancient Greek ἑρπετόν (herpetón, “creeping animal, reptile, especially a snake”)) + -logist.",
+"examples": [
+"Already, Griffith has observed several amphibian extinctions. Pretty much every herpetologist working out in the field has watched several."
+],
+"p": null
+},
+{
+"w": "sanghi",
+"pos": "noun",
+"senses": [
+"A member or supporter of the Rashtriya Swayamsevak Sangh."
+],
+"ety": "Borrowed from Hindi संघी (saṅghī), from Hindi संघ (saṅgh, “association, union”), clipping of राष्ट्रीय स्वयंसेवक संघ (rāṣṭrīya svayansevak saṅgh, “Rashtriya Swayamsevak Sangh”), a Hindu nationalist right-wing group in India.",
+"examples": [
+"By using Sanghi, Digvijaya Singh is apparently referring to the RSS, the parent organisation of the BJP."
+],
+"p": null
+},
+{
+"w": "embolism",
+"pos": "noun",
+"senses": [
+"The insertion or intercalation of days into the calendar in order to correct the error arising from the difference between the civil year and the solar year.",
+"An intercalated prayer for deliverance from evil coming after the Lord's Prayer.",
+"The variable body of a liturgical preface, between the protocol and eschatocol, typically stating the motive for worship on a given day."
+],
+"ety": "The term was coined in 1848 by Rudolf Virchow. From Old French embolisme (“intercalation of days in a calendar to correct errors”), from Late Latin embolismus, from Ancient Greek ἐμβολισμός (embolismós, “intercalary”), from ἐμβάλλω (embállō, “to insert, throw in”).",
+"examples": [],
+"p": "EM-buh-lih-zum"
+},
+{
+"w": "cacciatore",
+"pos": "adjective",
+"senses": [
+"Prepared in an Italian style with wine, mushrooms, spices and tomatoes."
+],
+"ety": "Borrowed from Italian cacciatore (“hunter”).",
+"examples": [],
+"p": "kahch-uh-TOR-ee"
+},
+{
+"w": "lucre",
+"pos": "noun",
+"senses": [
+"Money, riches, or wealth, especially when seen as having a corrupting effect or causing greed, or obtained in an underhanded manner."
+],
+"ety": "From Middle English lūcre, lucor, lucour, lucur (“gain in money, profit; money; wages; illicit gain; advantage, benefit”), from Old French lucre or Latin lucrum (“advantage, profit; love of gain, avarice”), from Proto-Indo-European *leh₂w- (“gain, profit”) + *-tlom (variant of *-trom (suffix forming nouns denoting tools or instruments)).",
+"examples": [],
+"p": "LOO-ker"
+},
+{
+"w": "geoarchaeology",
+"pos": "noun",
+"senses": [
+"Usage of geological techniques in archaeology."
+],
+"ety": "From geo- + archaeology.",
+"examples": [],
+"p": null
+},
+{
+"w": "washery",
+"pos": "noun",
+"senses": [
+"The place in the above-ground part of a coal mine where coal is washed.",
+"Synonym of laundromat, launderette."
+],
+"ety": "From wash + -ery.",
+"examples": [],
+"p": null
+}
+]

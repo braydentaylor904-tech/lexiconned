@@ -1,0 +1,439 @@
+[
+{
+"w": "quarrier",
+"pos": "noun",
+"senses": [
+"Somebody who works in a quarry."
+],
+"ety": "From quarry + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "pothole",
+"pos": "noun",
+"senses": [
+"A shallow pit or other edged depression in a road's surface, especially when caused by erosion, weather or traffic.",
+"A pit formed in the bed of a turbulent stream.",
+"A pit resulting from unauthorized excavation by treasure-hunters or vandals.",
+"A shallow hole dug for the purpose of prospecting for opal or gold."
+],
+"ety": "From dialectal pot (“pit, hollow, cavity”) + hole. The \"cave\" senses, attested since at least 1809 (as pot-hole), may be from Middle English pot, potte (“a deep hole for a mine, or from peat-digging”), of uncertain origin; perhaps related to English pit, pote, or pot. Compare Scots pott, patt (“a pit dug in the ground; coalpit”).",
+"examples": [
+"I was so tired that potholes, fumes and noise aside, I slept regardless, my head rag-dolling from side to side.",
+"The previous Elantra had three problems: The steering hero-worshiped Novocain, occupants grew hoarse from shouting over road noise, and large potholes betrayed a lack of structure."
+],
+"p": null
+},
+{
+"w": "gauzy",
+"pos": "adjective",
+"senses": [
+"Resembling gauze; light, thin, translucent.",
+"light; giving the effect of haze",
+"vague or elusive",
+"tinged with tenderness and warmth; dewy-eyed, romantic"
+],
+"ety": "From gauze + -y.",
+"examples": [
+"Were she but the daring equestrienne jumping through the flaming hoops, little it would matter to her if her gauzy skirts did catch.",
+"Or perhaps something darker—a raw hunger, a blind ambition wrapped in the gauzy language of service?"
+],
+"p": null
+},
+{
+"w": "fleur",
+"pos": "noun",
+"senses": [
+"fleur-de-lis"
+],
+"ety": "An ellipsis of fleur-de-lis from French fleur (“flower”). Doublet of flor, flour, and flower.",
+"examples": [],
+"p": null
+},
+{
+"w": "welder",
+"pos": "noun",
+"senses": [
+"One who welds, that is, unites pieces of steel, aluminum, or other metals by welding.",
+"A machine that a human operator uses for welding.",
+"A robotic machine that welds automatically.",
+"One who welds, that is, wields."
+],
+"ety": "From weld + -er.",
+"examples": [],
+"p": "WEL-der"
+},
+{
+"w": "lambada",
+"pos": "noun",
+"senses": [
+"A fast-paced, erotic Brazilian dance in which couples dance with their stomachs touching.",
+"The music to which it is danced."
+],
+"ety": "Borrowed from Portuguese lambada (“strong slap, hit”).",
+"examples": [],
+"p": null
+},
+{
+"w": "avocat",
+"pos": "noun",
+"senses": [
+"An advocate; a lawyer."
+],
+"ety": "From Middle English avocat, from Old French avocat, from Latin advocātus. Doublet of advocate.",
+"examples": [],
+"p": null
+},
+{
+"w": "spatchcock",
+"pos": "noun",
+"senses": [
+"Poultry which has been cut along the spine and spread out for more even cooking."
+],
+"ety": "The noun is probably derived from one of the following: * A variant of spitchcock (“eel split lengthwise and broiled”). from Middle English spiche-coke, The further etymology is uncertain; the following possibilities have been suggested: ** From Middle English *speche, *spiche (“to split”) + cock, coken (“to allow (something) to cook; to cook”). ** From spik (“animal fat, especially lard”), spik, spike (“large nail; pointed stud”), or spit, spite (“rod for cooking meat, spit; pointed object”); + cok (“male of the common domestic fowl, cock, rooster”). * From Irish spot (“spot”) or spochta (the",
+"examples": [],
+"p": "SPACH-kahk"
+},
+{
+"w": "contemplative",
+"pos": "adjective",
+"senses": [
+"Inclined to contemplate; introspective and thoughtful; meditative."
+],
+"ety": "From Middle English contemplatyve, contemplatyf, from Old French contemplatif, from Latin contemplātīvus.",
+"examples": [],
+"p": "kun-TEM-pluh-tiv"
+},
+{
+"w": "unguardable",
+"pos": "adjective",
+"senses": [
+"That may not be guarded."
+],
+"ety": "From un- + guardable.",
+"examples": [],
+"p": null
+},
+{
+"w": "chakram",
+"pos": "noun",
+"senses": [
+"A disc-like throwing weapon from India."
+],
+"ety": "From Sanskrit चक्रम् (cakram), ultimately from Proto-Indo-European *kʷékʷlos. Doublet of chakra, charkha, chukker, cycle, cyclus, kike, and wheel.",
+"examples": [],
+"p": null
+},
+{
+"w": "gnarl",
+"pos": "noun",
+"senses": [
+"A knot in wood; a knurl or a protuberance with twisted grain, on a tree.",
+"Something resembling a knot in wood, such as in stone or limbs."
+],
+"ety": "Back-formation from gnarled.",
+"examples": [],
+"p": "narl"
+},
+{
+"w": "caroler",
+"pos": "noun",
+"senses": [
+"A carol singer."
+],
+"ety": "From carol + -er.",
+"examples": [
+"It's Christmas at ground zero / There's music in the air / The sleigh bells are ringing / And the carolers are singing / While the air raid sirens blare"
+],
+"p": null
+},
+{
+"w": "saltus",
+"pos": "noun",
+"senses": [
+"A break of continuity in time.",
+"A leap from premises to conclusion."
+],
+"ety": "From Latin saltus (“a leap”). Doublet of salto.",
+"examples": [],
+"p": null
+},
+{
+"w": "snorer",
+"pos": "noun",
+"senses": [
+"A person who snores (or is snoring)."
+],
+"ety": "From snore + -er.",
+"examples": [
+"One snorer can keep a whole room of sleepy people awake.",
+"But there, Erskine was not a snorer. And yet to look at him, or hear him sing his song, you would have taken him for a snorer, a great snorer."
+],
+"p": null
+},
+{
+"w": "shoop",
+"pos": "noun",
+"senses": [
+"The fruit of the rose; rosehip."
+],
+"ety": "From Middle English schoupe, from Old Norse *hjúpa (“rosehip”), from Proto-Germanic *heupǭ (“haw, hawthorn, thornbush, rosehip”). Cognate with Faroese hjúpa (“rosehip”), Old English hēope (“hip, rosehip”). Doublet of hip.",
+"examples": [],
+"p": "shoop"
+},
+{
+"w": "earthen",
+"pos": "adjective",
+"senses": [
+"Made of earth or mud.",
+"Made of clay."
+],
+"ety": "From Middle English erthen, urthen, from Old English eorþen, yrþen, ierþen (“made of earth”), from Proto-Germanic *irþīnaz. Cognate with Dutch aarden (“earthen”), German irden (“earthen”). By surface analysis, earth + -en (“made of”).",
+"examples": [],
+"p": "UR-thun"
+},
+{
+"w": "plafond",
+"pos": "noun",
+"senses": [
+"A ceiling, especially one that is ornately decorated.",
+"A painting or decoration on a ceiling."
+],
+"ety": "Borrowed from French plafond (“ceiling”).",
+"examples": [],
+"p": "pluh-FOND"
+},
+{
+"w": "ident",
+"pos": "adjective",
+"senses": [
+"Diligent; persistent."
+],
+"ety": "From a later form of ithand, itself an alteration (due to assimilation to suffix -and) of Middle English ithen, from Old Norse iðinn (“assiduous, diligent”), from iðja, iðna (“to do, perform”), from ið (“a restless motion”), equivalent to ithe + -and and/or ithe + -en. Cognate with Icelandic iðinn (“diligent”), Norwegian idig (“busy”), Danish id (“pursuit, calling, business”). More at ithand.",
+"examples": [],
+"p": "EYE-dunt"
+},
+{
+"w": "matchy",
+"pos": "adjective",
+"senses": [
+"color-coordinated, matching, especially to an excess."
+],
+"ety": "From match + -y.",
+"examples": [],
+"p": "MACH-ee"
+},
+{
+"w": "fretter",
+"pos": "noun",
+"senses": [
+"One who or that which frets."
+],
+"ety": "From Middle English fretere (“that which frets, devours, or corrodes”), equivalent to fret + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "taonga",
+"pos": "noun",
+"senses": [
+"In Maori culture, any treasured thing, whether tangible or intangible."
+],
+"ety": "Borrowed from Māori taonga.",
+"examples": [
+"The islands and fishing grounds that are now a jewel in the crown of tourism were from the earliest days populated and prized by Maori as taonga."
+],
+"p": null
+},
+{
+"w": "tokenize",
+"pos": "verb",
+"senses": [
+"To treat as a token minority."
+],
+"ety": "From token + -ize.",
+"examples": [],
+"p": "TOH-kun-ize"
+},
+{
+"w": "workday",
+"pos": "noun",
+"senses": [
+"That part of a day in which work is done."
+],
+"ety": "From Middle English werkdai, werkedei, werkedai, from Old English weorcdæġ (“workday”), equivalent to work + day. Cognate with West Frisian wurkdei (“workday”), Dutch werkdag (“workday”), German Low German Warkdag (“workday”), German Werktag (“workday”). See also workaday.",
+"examples": [],
+"p": null
+},
+{
+"w": "bipyramidal",
+"pos": "adjective",
+"senses": [
+"Having the shape of a bipyramid"
+],
+"ety": "From bi- + pyramidal.",
+"examples": [],
+"p": null
+},
+{
+"w": "rimmer",
+"pos": "noun",
+"senses": [
+"An implement for cutting, trimming, or ornamenting the rim of anything, as the edges of pies, etc.",
+"A mixture of confections, spices, and/or salt applied to the rim of a beverage glass or mug."
+],
+"ety": "From rim + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "medievalist",
+"pos": "noun",
+"senses": [
+"One who studies the culture and history of the Middle Ages."
+],
+"ety": "From medieval + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "irradiance",
+"pos": "noun",
+"senses": [
+"The act of irradiating; emission of rays of light.",
+"That which irradiates or is irradiated; lustre; splendour; brilliancy."
+],
+"ety": "From irradiant + -ance.",
+"examples": [],
+"p": "ih-RAY-dee-uns"
+},
+{
+"w": "lappet",
+"pos": "noun",
+"senses": [
+"A small decorative fold or flap, especially of lace or muslin, in a garment or headdress.",
+"A head-dress made with lappets for lace pendants."
+],
+"ety": "From lap + -et.",
+"examples": [
+"I have small breasts that lie flattened against the chest like lappets."
+],
+"p": null
+},
+{
+"w": "shtum",
+"pos": "adjective",
+"senses": [
+"Silent; speechless; dumb."
+],
+"ety": "Borrowed from Yiddish שטום (shtum, “mute, dumb, voiceless”), from Middle High German stum, from Old High German stum, from Proto-West Germanic *stumm. Cognate with German stumm, Dutch stom, Swedish stum. Doublet of stum.",
+"examples": [],
+"p": "shtuum"
+},
+{
+"w": "envelopment",
+"pos": "noun",
+"senses": [
+"The act of enveloping.",
+"That which envelops; a covering."
+],
+"ety": "From French enveloppement.",
+"examples": [],
+"p": null
+},
+{
+"w": "moonlighted",
+"pos": "adjective",
+"senses": [
+"Illuminated by moonlight."
+],
+"ety": "From moon + lighted.",
+"examples": [
+"I sat for hours afterwards, gazing out of the cavern entrance at the moonlighted grove, silent and desolate beyond any telling."
+],
+"p": null
+},
+{
+"w": "serval",
+"pos": "noun",
+"senses": [
+"A medium-sized African wild cat, Leptailurus serval, formerly Felis serval."
+],
+"ety": "From French serval, from Portuguese (lobo) cerval (“Iberian lynx”), from Latin lupus cervārius (literally “stag wolf”), i.e. \"wolf that hunts stags\", from cervus (“deer, stag”).",
+"examples": [],
+"p": "SUR-vul"
+},
+{
+"w": "boxcutter",
+"pos": "noun",
+"senses": [
+"A utility knife."
+],
+"ety": "From box + cutter.",
+"examples": [],
+"p": null
+},
+{
+"w": "hognose",
+"pos": "adjective",
+"senses": [
+"Having an upturned snout like a pig's."
+],
+"ety": "From hog + nose.",
+"examples": [],
+"p": null
+},
+{
+"w": "meatpacker",
+"pos": "noun",
+"senses": [
+"A person or company involved in the meatpacking industry, including slaughtering and meat processing"
+],
+"ety": "From meat + packer.",
+"examples": [],
+"p": null
+},
+{
+"w": "prion",
+"pos": "noun",
+"senses": [
+"A petrel of the genera Pachyptila and Halobaena."
+],
+"ety": "From Prion (former genus name), from Ancient Greek πρίων (príōn, “saw”).",
+"examples": [],
+"p": "PRY-un"
+},
+{
+"w": "conjunctival",
+"pos": "adjective",
+"senses": [
+"Serving to join or connect."
+],
+"ety": "From Latin conjūnctīvus (“serving to connect, connective”) + English -al.",
+"examples": [],
+"p": "kahn-jungk-TY-vul"
+},
+{
+"w": "siltation",
+"pos": "noun",
+"senses": [
+"The (typically undesirable) increase in concentration and or of deposition of water-borne silt in a body of water."
+],
+"ety": "From silt + -ation.",
+"examples": [
+"They are also heavily engineered upstream: a dam built upstream in neighboring India can critically stanch the flow of freshwater down here, increasingly the chances of salinity and siltation."
+],
+"p": null
+},
+{
+"w": "ceaser",
+"pos": "noun",
+"senses": [
+"One who ceases; one who stops."
+],
+"ety": "From cease + -er.",
+"examples": [],
+"p": null
+}
+]

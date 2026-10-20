@@ -1,0 +1,442 @@
+[
+{
+"w": "orthopraxy",
+"pos": "noun",
+"senses": [
+"Correctness of practice or action in regard to religion and especially religious ritual, particularly in juxtaposition to \"correct doctrine\", or \"correct belief\" (that is, \"orthodoxy\")."
+],
+"ety": "A modern, nineteenth century derivation mimicking that of Ancient Greek ὀρθοδοξία (orthodoxía), using the stems of ὀρθός (orthós, “correct”) + πρᾶξις (prâxis, “action, deed; conduct, practice”), and the English suffix -y creating abstract nouns.",
+"examples": [],
+"p": "OR-thuh-prak-see"
+},
+{
+"w": "plaice",
+"pos": "noun",
+"senses": [
+"Pleuronectes platessa (European plaice), commonly found in the North Sea and Irish Sea, with smooth brown skin and red or orange spots.",
+"Hippoglossoides platessoides (American plaice), of the North American Atlantic.",
+"Pleuronectes quadrituberculatus (Alaska plaice), of the eastern North Pacific.",
+"Acanthopsetta nadeshnyi (scale-eye plaice), of the western North Pacific.",
+"Liopsetta glacialis (polar plaice)"
+],
+"ety": "Inherited from Middle English playce, plays, from Old French plaiz, from Late Latin platessa, from Ancient Greek πλατύς (platús, “broad”). See platy-, plat and flat.",
+"examples": [],
+"p": "plays"
+},
+{
+"w": "blokey",
+"pos": "adjective",
+"senses": [
+"Associated with the mainstream male culture, particularly blue-collar."
+],
+"ety": "From bloke + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "fourdrinier",
+"pos": "noun",
+"senses": [
+"A machine for making continuous rolls of paper."
+],
+"ety": "Named after Henry Fourdrinier, its joint inventor.",
+"examples": [],
+"p": null
+},
+{
+"w": "gifty",
+"pos": "adjective",
+"senses": [
+"Suited to being given as a gift."
+],
+"ety": "From gift + -y.",
+"examples": [],
+"p": "GIF-tee"
+},
+{
+"w": "telegraphic",
+"pos": "adjective",
+"senses": [
+"Brief or concise, especially resembling a telegram with clipped syntax."
+],
+"ety": "From telegraph + -ic.",
+"examples": [
+"Her conversation, I soon found, was couched in the telegraphic style. “Weeds grow like house afire. Can’t keep even with ’em. Shall press you in. Better be careful.”"
+],
+"p": null
+},
+{
+"w": "externalist",
+"pos": "adjective",
+"senses": [
+"Contending that there are non-internal factors which can affect the justificatory status of a belief"
+],
+"ety": "From external + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "mesclun",
+"pos": "noun",
+"senses": [
+"A mixture of small, young leaves as a salad"
+],
+"ety": "From French mesclun, from Occitan.",
+"examples": [],
+"p": null
+},
+{
+"w": "electropop",
+"pos": "noun",
+"senses": [
+"a genre fusing electronic and pop music; technopop"
+],
+"ety": "From electro- + pop.",
+"examples": [
+"I said, I bet that you look good on the dancefloor / Dancing to electropop like a robot from 1984",
+"Electropop songs are essentially pop songs, often with simple, catchy hooks and dance beats, but they differentiated from those of electronic dance music genres in that the songwriting takes precedence over danceability."
+],
+"p": null
+},
+{
+"w": "carioca",
+"pos": "noun",
+"senses": [
+"A sideways step in which one leg crosses over the other."
+],
+"ety": "Borrowed from Portuguese carioca.",
+"examples": [
+"These included the cocontraction maneuver (a shuffling maneuver around a semicircle while tethered to surgical tubing), a carioca (crossover stepping), and a shuttle run (an acceleration and deceleration test).",
+"Leg press, squat, circle running, figure eights, single-leg hops, vertical jumps, lateral bounds, one-legged long jumps, and carioca (crossover walking) are some examples."
+],
+"p": null
+},
+{
+"w": "recrimination",
+"pos": "noun",
+"senses": [
+"The act of recriminating.",
+"A counter or mutual accusation."
+],
+"ety": "From French récrimination.",
+"examples": [],
+"p": "ree-krim-uh-NAY-shun"
+},
+{
+"w": "sporulation",
+"pos": "noun",
+"senses": [
+"The process of a bacterium becoming a spore."
+],
+"ety": "From sporule + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "woreda",
+"pos": "noun",
+"senses": [
+"An administrative division of Ethiopia, managed by a local government."
+],
+"ety": "From Amharic ወረዳ (wäräda).",
+"examples": [],
+"p": null
+},
+{
+"w": "illusionist",
+"pos": "noun",
+"senses": [
+"One who works with illusion or sleight of hand.",
+"One who deceives by magical or mystical means."
+],
+"ety": "From illusion + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "rangatira",
+"pos": "noun",
+"senses": [
+"A hereditary Māori leader of a kinship group; a chieftain or high-born Maori."
+],
+"ety": "Borrowed from Māori rangatira.",
+"examples": [
+"Stout commoners on the left side, and real rangatira on the right distaff side. A New Zealander through and through.",
+"Defeated and captured rangatira became slaves, but they could regain their former status if they succeeded in escaping from their captors or eventually obtaining an honourable release."
+],
+"p": null
+},
+{
+"w": "funfair",
+"pos": "noun",
+"senses": [
+"A travelling amusement park."
+],
+"ety": "From fun + fair.",
+"examples": [],
+"p": null
+},
+{
+"w": "tamga",
+"pos": "noun",
+"senses": [
+"A seal or stamp used by Eurasian nomads and the cultures they influenced; typically the emblem of a particular tribe, clan, or family."
+],
+"ety": "Learned borrowing from Old Turkic 𐱃𐰢𐰍𐰀 (t¹mg¹a), from Proto-Turkic *tamga.",
+"examples": [],
+"p": null
+},
+{
+"w": "monospace",
+"pos": "adjective",
+"senses": [
+"Of a typeface, having characters with uniform width."
+],
+"ety": "From mono- + space.",
+"examples": [],
+"p": null
+},
+{
+"w": "recognizer",
+"pos": "noun",
+"senses": [
+"A person, device, or software algorithm that recognizes."
+],
+"ety": "From recognize + -er.",
+"examples": [
+"The microphone signal was fed to a custom-made, real-time song recognizer that detected the first stereotypic syllable of song motifs using a two-layer neural network trained on spectrotemporal song data."
+],
+"p": null
+},
+{
+"w": "chernozem",
+"pos": "noun",
+"senses": [
+"A fertile black soil containing a very high percentage of humus (3% to 15%) and high percentages of phosphoric acids, phosphorus and ammonia."
+],
+"ety": "Borrowed from Russian чернозём (černozjóm, “black soil”). The letter ё (jo) is usually written as е (je) in Russian, more accurately transliterated as \"chernozyom\"; compare чернозе́мье (černozémʹje), where ё (jo) is changed to е (je).",
+"examples": [],
+"p": "CHUR-nuh-zem"
+},
+{
+"w": "kettler",
+"pos": "noun",
+"senses": [
+"The worker in charge of a kettle used in dyeing, bleaching, etc",
+"A person who mends kettles"
+],
+"ety": "From kettle + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "lictor",
+"pos": "noun",
+"senses": [
+"An officer in Ancient Rome, attendant on a consul or magistrate, who bore the fasces and was responsible for punishing criminals."
+],
+"ety": "Borrowed from Latin līctor.",
+"examples": [],
+"p": "LIK-ter"
+},
+{
+"w": "anthroposophical",
+"pos": "adjective",
+"senses": [
+"anthroposophic"
+],
+"ety": "From anthroposophic + -al.",
+"examples": [],
+"p": "an-thruh-puh-SAH-fih-kul"
+},
+{
+"w": "footbag",
+"pos": "noun",
+"senses": [
+"A small beanbag or sandbag used as a ball in a number of sports and games. It is typically controlled by the feet, but in some sports every part of the body except the hands and arms may be used."
+],
+"ety": "From foot + bag, by analogy with football.",
+"examples": [],
+"p": null
+},
+{
+"w": "cogwheel",
+"pos": "noun",
+"senses": [
+"A gear wheel.",
+"Something behaving in a jerky manner similar to a cogwheel, e.g. cogwheel respiration as a side effect of hyperbaric medicine."
+],
+"ety": "From cog + wheel.",
+"examples": [],
+"p": null
+},
+{
+"w": "mashable",
+"pos": "adjective",
+"senses": [
+"Of a consistency suitable for mashing.",
+"Suitable for inclusion in a mashup."
+],
+"ety": "From mash + -able.",
+"examples": [
+"Cook the pumpkin until mashable with a potato masher.",
+"As mentioned earlier, mashable services often require some sort of identifying information to understand what applications use their capabilities.",
+"That is, this chapter answers the question, how would you as a content producer make your digital content most effectively remixable and mashable to users?"
+],
+"p": null
+},
+{
+"w": "selca",
+"pos": "noun",
+"senses": [
+"A photographic portrait taken by the subject; a selfie."
+],
+"ety": "Borrowed from Korean 셀카 (selka), from English self + camera.",
+"examples": [
+"My daughter and her friends take the best selcas and that's even before they use filters.",
+"Jimin's selca (selfie) obsession provides ARMY with a wealth of glorious photos.",
+"Fans take selcas with cutouts of BTS wearing traditional Korean garb—hanbok—at an exhibit of the 2018 Gangnam Festival."
+],
+"p": null
+},
+{
+"w": "cavitation",
+"pos": "noun",
+"senses": [
+"The formation of pits on a surface."
+],
+"ety": "From cavity + -ation.",
+"examples": [],
+"p": "kav-ih-TAY-shun"
+},
+{
+"w": "washbag",
+"pos": "noun",
+"senses": [
+"A small bag used to hold toiletries and personal washing items."
+],
+"ety": "From wash + bag.",
+"examples": [],
+"p": null
+},
+{
+"w": "apolitical",
+"pos": "adjective",
+"senses": [
+"Having no interest or involvement in politics.",
+"Having no political relevance or function.",
+"Politically neutral, unbiased, nonaligned and free from party politics."
+],
+"ety": "From a- + political.",
+"examples": [
+"The Queen is an apolitical figure.",
+"The PM's visit to the school was entirely apolitical.",
+"My colleagues and I come to this task with open minds, we are apolitical and independent of any political party."
+],
+"p": null
+},
+{
+"w": "porticus",
+"pos": "noun",
+"senses": [
+"A small room in a church, commonly forming extensions to the north and south sides of it, giving the building a cruciform plan, which may function as a chapel, rudimentary transept or burial place.",
+"An ancient Roman colonnade, arcade, or portico."
+],
+"ety": "From Latin porticus. Doublet of porch, portego, and portico.",
+"examples": [
+"Only the nave survives but it is not difficult to imagine the apse at the east end, and the small porticuses to the north and south.",
+"The upper end of the crypto-porticus forms its own room looking out to the hippodrome, the vineyards, and the mountains; next to it is a room that enjoys the sun, especially during winter."
+],
+"p": null
+},
+{
+"w": "pulverization",
+"pos": "noun",
+"senses": [
+"The act of pulverizing."
+],
+"ety": "From French pulvérisation. By surface analysis, pulverize + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "osteopenia",
+"pos": "noun",
+"senses": [
+"The medical condition of having low bone density, but not low enough to be considered osteoporosis."
+],
+"ety": "From osteo- + -penia.",
+"examples": [],
+"p": null
+},
+{
+"w": "perfecta",
+"pos": "noun",
+"senses": [
+"A kind of bet wherein the first- and second-place finishers must be predicted in the correct order."
+],
+"ety": "From American Spanish quiniela perfecta (“perfect quinella”).",
+"examples": [],
+"p": "puh-FEK-tuh"
+},
+{
+"w": "sphenoid",
+"pos": "adjective",
+"senses": [
+"Having a wedge shape."
+],
+"ety": "From New Latin sphenoides, from Ancient Greek σφηνοειδής (sphēnoeidḗs, “wedge-shaped”), from σφήν (sphḗn, “wedge”) + -ειδής (-eidḗs, “-form, -like”).",
+"examples": [],
+"p": "SFEE-noyd"
+},
+{
+"w": "egoless",
+"pos": "adjective",
+"senses": [
+"Lacking ego: not egotistical"
+],
+"ety": "From ego + -less.",
+"examples": [],
+"p": null
+},
+{
+"w": "pharm",
+"pos": "noun",
+"senses": [
+"A site where organisms are produced for the creation of medicine or pharmaceuticals."
+],
+"ety": "Blend of pharmaceutical + farm.",
+"examples": [],
+"p": null
+},
+{
+"w": "predynastic",
+"pos": "adjective",
+"senses": [
+"Before the time of a dynasty"
+],
+"ety": "From pre- + dynastic.",
+"examples": [],
+"p": null
+},
+{
+"w": "dumpy",
+"pos": "adjective",
+"senses": [
+"Short and thick; stout or stocky."
+],
+"ety": "First attested in 1750; exact origin unknown. Perhaps derived from, or cognate with, dumpling, or from the noun sense of dump.",
+"examples": [],
+"p": "DUM-pee"
+},
+{
+"w": "briner",
+"pos": "noun",
+"senses": [
+"One who pickles food in brine."
+],
+"ety": "From brine + -er.",
+"examples": [],
+"p": null
+}
+]

@@ -1,0 +1,432 @@
+[
+{
+"w": "chicklet",
+"pos": "noun",
+"senses": [
+"A small or young chick.",
+"A young woman."
+],
+"ety": "From chick + -let.",
+"examples": [],
+"p": null
+},
+{
+"w": "bracketology",
+"pos": "noun",
+"senses": [
+"The practice of predicting and analyzing sports tournament brackets."
+],
+"ety": "From bracket + -ology, coined by American sportswriter and commentator Joe Lunardi.",
+"examples": [
+"The field of so-called bracketology has attracted mathematicians and statheads who endlessly tweak predictive models, researching new ways to gain any small edge."
+],
+"p": null
+},
+{
+"w": "pickerel",
+"pos": "noun",
+"senses": [
+"A wading bird, the dunlin."
+],
+"ety": "From Middle English pikerel; equivalent to pike + -rel.",
+"examples": [],
+"p": "PIK-uh-rul"
+},
+{
+"w": "denazification",
+"pos": "noun",
+"senses": [
+"The process of the removal of Nazis from public office and positions of responsibility in Germany and Austria after World War II."
+],
+"ety": "From de- + Nazification.",
+"examples": [],
+"p": null
+},
+{
+"w": "sloboda",
+"pos": "noun",
+"senses": [
+"A kind of settlement, village, or suburb in the history of Russia, Belarus and Ukraine."
+],
+"ety": "Borrowed from Russian слобода́ (slobodá), which is related to a common Slavic word for “freedom”, in reference to such settlements' initial freedom from taxes and forced labor duties.",
+"examples": [],
+"p": null
+},
+{
+"w": "hornfels",
+"pos": "noun",
+"senses": [
+"Any of a series of contact metamorphic rocks that have been baked and indurated by the heat of intrusive igneous masses and rendered massive, hard, splintery, and in some cases exceedingly tough and durable."
+],
+"ety": "Borrowed from German Hornfels, literally \"horn stone\", after its frequent association with glacial \"horn peaks\" in the Alps.",
+"examples": [],
+"p": null
+},
+{
+"w": "morada",
+"pos": "noun",
+"senses": [
+"a religious meeting hall associated with the Penitente Brotherhood of New Mexico"
+],
+"ety": "Borrowed from Spanish morada.",
+"examples": [],
+"p": null
+},
+{
+"w": "civitas",
+"pos": "noun",
+"senses": [
+"the social body of the citizens united by law"
+],
+"ety": "Unadapted borrowing from Latin cīvitās. Doublet of city.",
+"examples": [],
+"p": "KEE-wih-tahs"
+},
+{
+"w": "muter",
+"pos": "noun",
+"senses": [
+"Something that mutes sound."
+],
+"ety": "From mute + -er.",
+"examples": [
+"The violinist often uses a muter when she practices."
+],
+"p": null
+},
+{
+"w": "digitate",
+"pos": "adjective",
+"senses": [
+"Having digits, fingers or things shaped like fingers; fingerlike"
+],
+"ety": "The adjective is first attested in 1661, the verb in 1657; the adjective was borrowed from Latin digitātus (see -ate (adjective-forming suffix)), the verb from digitātus, perfect passive participle of digitō (see -ate (verb-forming suffix)).",
+"examples": [],
+"p": "DIJ-ih-tut"
+},
+{
+"w": "heatseeker",
+"pos": "noun",
+"senses": [
+"A heat-seeking missile."
+],
+"ety": "From heat + seeker.",
+"examples": [],
+"p": null
+},
+{
+"w": "anteros",
+"pos": "noun",
+"senses": [
+"The counterlove or affectionate response a philerast gives to the love of an erastes."
+],
+"ety": "From Ancient Greek ἀντέρως (antérōs), reputedly coined by Plato. That in turn comes from ἀντί (antí, “against”) + ἔρως (érōs, “love”), hence the translation as counterlove.",
+"examples": [],
+"p": null
+},
+{
+"w": "chaconne",
+"pos": "noun",
+"senses": [
+"A slow, stately Baroque dance.",
+"The music for such a dance, often containing variations on a theme."
+],
+"ety": "From French chaconne, from Spanish chacona, likely from Basque txukun (“pretty”).",
+"examples": [],
+"p": "shuh-KON"
+},
+{
+"w": "nodder",
+"pos": "noun",
+"senses": [
+"A drowsy person.",
+"Synonym of noddy (“cutaway scene of an interviewer nodding”)."
+],
+"ety": "From nod + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "cowled",
+"pos": "adjective",
+"senses": [
+"Wearing a cowl; hooded.",
+"Fitted with a cowl. (of a chimney)"
+],
+"ety": "From cowl + -ed.",
+"examples": [
+"She had thrown a shawl about her and, as they went together towards the tram, sprays of her fresh warm breath flew gaily above her cowled head and her shoes tapped blithely on the glassy road."
+],
+"p": null
+},
+{
+"w": "emend",
+"pos": "verb",
+"senses": [
+"To correct and revise (text or a document)."
+],
+"ety": "From Middle English emenden, from Latin ēmendō (“to free from fault”), from ex- (“out”) + mendum (“fault, blemish”). Doublet of amend.",
+"examples": [],
+"p": "ih-MEND"
+},
+{
+"w": "crucian",
+"pos": "noun",
+"senses": [
+"A small greenish-brown carp, Carassius carassius, farmed in parts of Europe."
+],
+"ety": "From Low German karusse, karutze, possibly from Medieval Latin coracinus (“kind of river fish”). Also compare German Karausche.",
+"examples": [],
+"p": "KROO-shun"
+},
+{
+"w": "newsman",
+"pos": "noun",
+"senses": [
+"A male reporter; a male person in the profession of providing news."
+],
+"ety": "From news + -man.",
+"examples": [],
+"p": "NYOOZ-man"
+},
+{
+"w": "cornu",
+"pos": "noun",
+"senses": [
+"A horn, or anything shaped like or resembling a horn.",
+"A brass instrument from Ancient Rome about 3 metres long in the shape of a letter 'G'."
+],
+"ety": "Borrowed from Latin cornū (“horn”). Doublet of corn (“callus”), corno, and horn.",
+"examples": [],
+"p": null
+},
+{
+"w": "webform",
+"pos": "noun",
+"senses": [
+"A collection of user interface components on a website designed to solicit information from a user."
+],
+"ety": "From web + form.",
+"examples": [
+"While this is longer it is both clearer to understand and to implement as a webform where the user will select an instrument."
+],
+"p": null
+},
+{
+"w": "lesbophobia",
+"pos": "noun",
+"senses": [
+"Fear, dislike, or hatred of lesbians (female homosexuals)."
+],
+"ety": "From lesbo- + -phobia.",
+"examples": [],
+"p": null
+},
+{
+"w": "beardie",
+"pos": "noun",
+"senses": [
+"A fish, a bearded loach or stone loach (Barbatula barbatula)."
+],
+"ety": "From beard + -ie.",
+"examples": [],
+"p": null
+},
+{
+"w": "wattle",
+"pos": "verb",
+"senses": [
+"To construct a wattle, or make a construction of wattles.",
+"To bind with wattles or twigs."
+],
+"ety": "From Middle English wattel, watel, from Old English watel, watul (“hurdle”). Ultimately from Proto-Indo-European *wey- (“to turn, wind, bend”).",
+"examples": [],
+"p": "WAH-tul"
+},
+{
+"w": "seapunk",
+"pos": "noun",
+"senses": [
+"A fashion and visual art style, characterized by aquatic themes and colours, rave culture, and the digital aesthetic of the 1990s.",
+"A follower of the seapunk style."
+],
+"ety": "From sea + -punk; compare earlier cyberpunk, steampunk. Coined by Brooklyn-based DJ Lil Internet, who tweeted about a surreal dream he had in June 2011 (\"Seapunk leather jacket with barnacles where the studs used to be\"), and later popularized as a Twitter hashtag.",
+"examples": [],
+"p": null
+},
+{
+"w": "lungful",
+"pos": "noun",
+"senses": [
+"As much as the lungs will hold."
+],
+"ety": "From lung + -ful.",
+"examples": [
+"The diver took in lungfuls of air as he returned to the surface.",
+"For there are many kinds of freedom, not just the ones that involve surf and lungfuls of fresh air."
+],
+"p": null
+},
+{
+"w": "swaddle",
+"pos": "verb",
+"senses": [
+"To bind (a baby) with long narrow strips of cloth."
+],
+"ety": "From Middle English swathlen (“to bind; swaddle”), from Middle English swathel, swethel, from Old English swaþul, swæþel, sweþel, sweoþol (“swaddling cloth”), equivalent to swathe (“to wrap with fabric”) + -le (agent/instrumental suffix), the word then underwent th-stopping (its voiced th became a d). Cognate with Middle Dutch swadel (“swaddling; bandage”), Old High German swedili (“poultice”), Old English sweþian, besweþian (“to wrap; swaddle”).",
+"examples": [],
+"p": "SWAW-dul"
+},
+{
+"w": "barycenter",
+"pos": "verb",
+"senses": [
+"To determine such a barycenter"
+],
+"ety": "From bary- + center.",
+"examples": [],
+"p": null
+},
+{
+"w": "diverter",
+"pos": "noun",
+"senses": [
+"A person or thing that diverts.",
+"A valve used to change the flow of fluid through a system of pipes."
+],
+"ety": "From divert + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "dualism",
+"pos": "noun",
+"senses": [
+"Duality; the condition of being double.",
+"The view that the world consists of, or is explicable in terms of, two fundamental principles, such as mind and matter or good and evil.",
+"The legal doctrine that international law must be transposed into domestic law to have effect."
+],
+"ety": "From dual + -ism.",
+"examples": [
+"By breaking free of it, historians could shed the dualisms that now entrap them, and escape the declensionism - the longing for the lost alternative"
+],
+"p": null
+},
+{
+"w": "gigue",
+"pos": "noun",
+"senses": [
+"An Irish dance, derived from the jig, used in the Partita form (Baroque Period)."
+],
+"ety": "From French gigue. Doublet of jig.",
+"examples": [],
+"p": "zheeg"
+},
+{
+"w": "stimulatory",
+"pos": "adjective",
+"senses": [
+"stimulative; serving to stimulate"
+],
+"ety": "From stimulate + -ory.",
+"examples": [],
+"p": "STIM-yuh-luh-taw-ree"
+},
+{
+"w": "petulance",
+"pos": "noun",
+"senses": [
+"Childish impatience or sulkiness; testiness."
+],
+"ety": "From Middle French pétulance, and its source, Latin petulantia.",
+"examples": [],
+"p": "PET-yoo-luns"
+},
+{
+"w": "subsea",
+"pos": "adjective",
+"senses": [
+"Beneath the sea, that is, beneath the sea surface, inside the sea."
+],
+"ety": "From sub- + sea.",
+"examples": [],
+"p": null
+},
+{
+"w": "revivalism",
+"pos": "noun",
+"senses": [
+"Advocacy for the revival of a former practice, custom, etc.",
+"Spiritual fervour of or for a religious revival."
+],
+"ety": "From revival + -ism.",
+"examples": [
+"Neither the Revivalism that assails a boy at about the age of fifteen, nor the skepticism that meets him five years later, could sway him from his allegiance to the church into which he had been born."
+],
+"p": null
+},
+{
+"w": "moxie",
+"pos": "noun",
+"senses": [
+"Nerve, spunk, strength of character.",
+"Wit, smarts, skill."
+],
+"ety": "First recorded use in 1930. From the name of an American soft drink Moxie made since 1885 to which advertisement ascribed many beneficial properties directly but also indirectly by using the same name as a patent medicine first manufactured in 1878. The word appears in very many place names in Maine, especially of falls and ponds, as well as the local name of a plant, the moxie-plum, and is perhaps ultimately from an Abenaki word meaning 'dark water' or an Algonquian root maski- meaning 'herbal infusion'.",
+"examples": [],
+"p": "MOK-see"
+},
+{
+"w": "benzoin",
+"pos": "noun",
+"senses": [
+"The spicebush, Lindera benzoin."
+],
+"ety": "From Middle French benjoin, from Catalan benjuí, from Arabic لُبَان جَاوِيّ (lubān jāwiyy, “Javanese frankincense”). The first word is from Proto-West Semitic *laban- (“white”), the second from جاوة (jāwa, “Java”) (from Javanese ꦗꦮ (jawa)). The initial lu was probably lost because it was taken as the definite article in Romance. Compare oliban.",
+"examples": [],
+"p": "BEN-zoh-in"
+},
+{
+"w": "platz",
+"pos": "verb",
+"senses": [
+"To become aggravated."
+],
+"ety": "From Yiddish פּלאַצן (platsn, “to split, crack, burst, explode”).",
+"examples": [],
+"p": null
+},
+{
+"w": "pelage",
+"pos": "noun",
+"senses": [
+"Fur, hair, or any other form of the coat of a mammal.",
+"The characteristic nature of this coat: its coarseness or fineness, its typical lay, and so on."
+],
+"ety": "From French pelage (“fur”).",
+"examples": [],
+"p": "PEL-ij"
+},
+{
+"w": "satoyama",
+"pos": "noun",
+"senses": [
+"A border zone or area between mountain foothills and arable flat land in Japan."
+],
+"ety": "Borrowed from Japanese 里山 (satoyama).",
+"examples": [],
+"p": null
+},
+{
+"w": "quadrocopter",
+"pos": "noun",
+"senses": [
+"Synonym of quadcopter."
+],
+"ety": "From quadro- + copter.",
+"examples": [
+"The Vision is the latest quadrocopter from DJI, which has been in the business for a relatively short while. It’s not a toy by any means — and at $1,200, it is certainly not cheap."
+],
+"p": null
+}
+]

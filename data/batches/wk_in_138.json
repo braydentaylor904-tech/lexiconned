@@ -1,0 +1,435 @@
+[
+{
+"w": "subdermal",
+"pos": "adjective",
+"senses": [
+"just below the skin"
+],
+"ety": "From sub- + dermal.",
+"examples": [],
+"p": null
+},
+{
+"w": "silvertip",
+"pos": "noun",
+"senses": [
+"A grizzly bear (Ursus arctos horribilis).",
+"A shark (Carcharhinus albimarginatus).",
+"A fir tree (Abies magnifica)."
+],
+"ety": "From silver + tip.",
+"examples": [],
+"p": null
+},
+{
+"w": "lacer",
+"pos": "noun",
+"senses": [
+"A person or thing that laces."
+],
+"ety": "From lace + -er.",
+"examples": [],
+"p": "LAYS-er"
+},
+{
+"w": "palatinate",
+"pos": "noun",
+"senses": [
+"The office or rank of a palatine.",
+"A territory ruled by a palatine.",
+"A native or inhabitant of such a territory."
+],
+"ety": "Borrowed from Latin palātīnātus.",
+"examples": [],
+"p": "puh-LAT-ih-nit"
+},
+{
+"w": "echelon",
+"pos": "noun",
+"senses": [
+"A level or rank in an organization, profession, or society."
+],
+"ety": "Borrowed from French échelon (“rung; echelon”), from échelle (“ladder”) + -on (diminutive suffix). Échelle is derived from Latin scāla (“ladder”), from scandō (“to ascend, climb”), from Proto-Indo-European *skend- (“to jump”).",
+"examples": [],
+"p": "ESH-uh-lahn"
+},
+{
+"w": "dysplastic",
+"pos": "noun",
+"senses": [
+"A person with a disproportionate body shape."
+],
+"ety": "From dysplas(is)- (see dysplasia) + -tic (a formative ending for adjectives in Greek).",
+"examples": [],
+"p": "dis-PLAS-tik"
+},
+{
+"w": "caramelization",
+"pos": "noun",
+"senses": [
+"The process that converts sugars into caramel; the process of caramelizing.",
+"The browning of sugars by heat."
+],
+"ety": "From caramel + -ization.",
+"examples": [
+"Slowly cooking the onions will cause caramelization which will bring out the sweetness and give them a brown color."
+],
+"p": null
+},
+{
+"w": "chappy",
+"pos": "noun",
+"senses": [
+"A chap; a fellow."
+],
+"ety": "From chap + -y.",
+"examples": [],
+"p": "CHAP-ee"
+},
+{
+"w": "willet",
+"pos": "noun",
+"senses": [
+"Tringa semipalmata (or formerly Catoptrophorus semipalmatus), a large shorebird in the family Scolopacidae."
+],
+"ety": "Onomatopoeic, from the bird's cry (\"pill-will-willet\").",
+"examples": [],
+"p": null
+},
+{
+"w": "attunement",
+"pos": "noun",
+"senses": [
+"The quality of being in tune with something",
+"The process of attuning or becoming attuned"
+],
+"ety": "From attune + -ment.",
+"examples": [
+"We read Izaak Walton for his tone, for his perfect attunement to the quiet streams and flowered meadows and bosky hills of the Thames valley long ago.",
+"Deford's bio embodies one of the most perverse notions of modernity, namely that homosexuality is unmasculine and therefore incompatible with the manly attunement of body and spirit that is called for in athletics.",
+"My attunement to this power is accomplished."
+],
+"p": null
+},
+{
+"w": "sattvic",
+"pos": "adjective",
+"senses": [
+"Relating or conforming to sattva (one of the gunas in Hindu philosophy)."
+],
+"ety": "From sattva + -ic.",
+"examples": [],
+"p": "SAT-vik"
+},
+{
+"w": "topmast",
+"pos": "noun",
+"senses": [
+"The highest mast in a fore-and-aft-rigged ship.",
+"The mast below the topgallant mast in a square-rigged ship."
+],
+"ety": "From top + mast.",
+"examples": [],
+"p": "TAHP-mast"
+},
+{
+"w": "spriggan",
+"pos": "noun",
+"senses": [
+"In Cornish folklore, a malicious spirit in the form of a wizened old man."
+],
+"ety": "Borrowed from Cornish spyrysyon (“spirits; fairies”).",
+"examples": [],
+"p": "SPRIG-un"
+},
+{
+"w": "internee",
+"pos": "noun",
+"senses": [
+"One who is imprisoned or otherwise confined."
+],
+"ety": "From intern + -ee.",
+"examples": [],
+"p": "in-tur-NEE"
+},
+{
+"w": "poliovirus",
+"pos": "noun",
+"senses": [
+"A human enterovirus of the Picornaviridae family that causes poliomyelitis."
+],
+"ety": "From polio + virus, the first element shortened from poliomyelitis.",
+"examples": [
+"By now Jameson, a victim of polio, was confined to a wheelchair; most likely he'd contracted the poliovirus from an East German defector whom he interrogated in 1955."
+],
+"p": null
+},
+{
+"w": "crutcher",
+"pos": "noun",
+"senses": [
+"A vessel in which the ingredients of soap are stirred with a crutch (form of prop).",
+"One who shears the hindquarters of a sheep."
+],
+"ety": "From crutch + -er (relational noun suffix) or + -er (occupational suffix).",
+"examples": [
+"The conveyance of soap to the crutchers from the kettle may be by pump or by gravity. In the latter case, which is simpler and involves less trouble, the top level of the crutchers should be below that of the nigre.",
+"It provides terms and conditions including rates of pay, hours of work and general conditions for shearers, crutchers, wiggers, ringers, shedhands, wool-pressers and cooks."
+],
+"p": null
+},
+{
+"w": "toxicologist",
+"pos": "noun",
+"senses": [
+"A scientist or physician who specializes in toxicology."
+],
+"ety": "From toxicology + -ist.",
+"examples": [
+"Toxicologists at the Taft Laboratory at the National Institute of Occupational Safety and Health (NIOSH) here are dosing mice with poppers to solve the baffling mystery of diseases which are killing gay men."
+],
+"p": null
+},
+{
+"w": "reconcilement",
+"pos": "noun",
+"senses": [
+"The fact of being restored to cordial relations with each other; settling differences, making peace; reconciliation."
+],
+"ety": "From reconcile + -ment.",
+"examples": [],
+"p": "REK-un-suh-il-munt"
+},
+{
+"w": "sunfish",
+"pos": "verb",
+"senses": [
+"Of an animal such as a bull or a horse: to twist the body into a crescent shape and roll back and forth."
+],
+"ety": "* From sun + fish. * (type of fish): Perhaps from the rounded body shape.",
+"examples": [],
+"p": "SUN-fish"
+},
+{
+"w": "volter",
+"pos": "noun",
+"senses": [
+"A device that produces or requires a specific number of volts."
+],
+"ety": "From volt + -er.",
+"examples": [
+"Another idea I heard but haven't tried is getting a 240 volt fan. It should run at half the speed of the 120 volter.",
+"I have the 5590, which is the multi-volt, black face Euro version. It says on back that it consumes 1200 watts of energy at full rated power output, eek! I do have a 1250 too, but it's just the 120 Volter."
+],
+"p": null
+},
+{
+"w": "hackman",
+"pos": "noun",
+"senses": [
+"The driver of a hack (a carriage, cab, or taxi)."
+],
+"ety": "From hack + -man.",
+"examples": [
+"But he makes all his calculations with the nicest precision, and goes darting in and out among a Broadway confusion of busy craft with the easy confidence of the educated hackman.",
+"He did not engage the services of any hackman or professional guide.",
+"The hackman had taken him to the house where Jones was lying."
+],
+"p": null
+},
+{
+"w": "mutagenicity",
+"pos": "noun",
+"senses": [
+"A measure of the extent to which something is mutagenic."
+],
+"ety": "From mutagenic + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "prismatic",
+"pos": "adjective",
+"senses": [
+"Separated or distributed by, or as if by, a transparent prism; formed by a prism; varied or brilliant in color."
+],
+"ety": "Borrowed from French prismatique. Equivalent to prism + -atic.",
+"examples": [],
+"p": "priz-MAT-ik"
+},
+{
+"w": "toppo",
+"pos": "adjective",
+"senses": [
+"top, great, the best"
+],
+"ety": "From top + -o; compare topping.",
+"examples": [],
+"p": null
+},
+{
+"w": "herefor",
+"pos": "adverb",
+"senses": [
+"For this: instead or in consideration of this, with a view to this."
+],
+"ety": "From the Middle English hēr-for; equivalent to here + for; compare herefore, therefor, and wherefor, as well as the Danish herfor, the Dutch hiervoor, the German hierfür, and the Swedish härför.",
+"examples": [],
+"p": "heer-FAW"
+},
+{
+"w": "cumbia",
+"pos": "noun",
+"senses": [
+"A traditional style of Colombian dance and music, or a piece in this style."
+],
+"ety": "From Colombian and Panamanian Spanish cumbia.",
+"examples": [],
+"p": "KOOM-byah"
+},
+{
+"w": "borey",
+"pos": "noun",
+"senses": [
+"a gated community"
+],
+"ety": "From Khmer បុរី (borəy).",
+"examples": [],
+"p": null
+},
+{
+"w": "kango",
+"pos": "noun",
+"senses": [
+"A Sino-Japanese word, a Japanese word of Chinese origin or a Japanese word coined along Chinese lines."
+],
+"ety": "From Japanese 漢(かん)語(ご) (kango), from Middle Chinese 漢語 (MC xanH ngjoX, “Han, Chinese + speech, language”), compare modern Mandarin 漢語／汉语 (Hànyǔ, “Chinese language”).",
+"examples": [],
+"p": "KAHNG-goh"
+},
+{
+"w": "cucurbit",
+"pos": "noun",
+"senses": [
+"Any member of the family Cucurbitaceae of gourds."
+],
+"ety": "From Middle English cocurbite, concurbite, cucurbita, cucurbite, from Middle French cucurbite and Latin cucurbita. Doublet of gourd.",
+"examples": [],
+"p": "kyoo-KUR-bit"
+},
+{
+"w": "pluralistic",
+"pos": "adjective",
+"senses": [
+"Characteristic of pluralism."
+],
+"ety": "From plural + -istic.",
+"examples": [],
+"p": null
+},
+{
+"w": "cyclonic",
+"pos": "adjective",
+"senses": [
+"Rotating in the same direction as the Earth i.e. anticlockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere."
+],
+"ety": "From cyclone + -ic.",
+"examples": [],
+"p": null
+},
+{
+"w": "facture",
+"pos": "noun",
+"senses": [
+"An invoice or bill of parcels."
+],
+"ety": "From French facture (“a making, invoice”), from Latin factura (“a making”). Doublet of feature. See fact.",
+"examples": [],
+"p": "FAK-cher"
+},
+{
+"w": "facies",
+"pos": "noun",
+"senses": [
+"General appearance."
+],
+"ety": "Borrowed from Latin faciēs (“form, configuration, figure; face, visage, countenance”). Doublet of face.",
+"examples": [],
+"p": "FAY-shee-eez"
+},
+{
+"w": "discarnate",
+"pos": "adjective",
+"senses": [
+"Having no physical body or form; disembodied."
+],
+"ety": "From Renaissance Latin discarnatus, alteration of Classical Latin dēcarnātus. Compare decarnate.",
+"examples": [
+"At least for a time, Jung regarded some of these experiences as authentic contact with discarnate entities."
+],
+"p": null
+},
+{
+"w": "microtia",
+"pos": "noun",
+"senses": [
+"A congenital deformity where the pinna (external ear) is underdeveloped."
+],
+"ety": "From micr- + oto- + -ia.",
+"examples": [],
+"p": null
+},
+{
+"w": "portaloo",
+"pos": "noun",
+"senses": [
+"A portable toilet."
+],
+"ety": "From a trademark of Portakabin Ltd, based on portable and loo.",
+"examples": [
+"On what would once have been the front lawn there is now a prefabricated hut and a portaloo."
+],
+"p": null
+},
+{
+"w": "ostensive",
+"pos": "adjective",
+"senses": [
+"Apparently true, but not necessarily; ostensible",
+"Clearly demonstrative."
+],
+"ety": "From Middle French ostensif and its etymon Late Latin ostēnsīvus.",
+"examples": [],
+"p": "os-TEN-siv"
+},
+{
+"w": "cardiomegaly",
+"pos": "noun",
+"senses": [
+"megalocardia"
+],
+"ety": "From cardio- + -megaly.",
+"examples": [],
+"p": null
+},
+{
+"w": "shiel",
+"pos": "noun",
+"senses": [
+"A shepherd's hut or shieling."
+],
+"ety": "From Middle English schele. Akin to Old Frisian skiāle (“stable”) and Old Norse skjól (“shelter”). See also sheal.",
+"examples": [],
+"p": "sheel"
+},
+{
+"w": "ranter",
+"pos": "noun",
+"senses": [
+"One who rants; a noisy, boisterous speaker or declaimer."
+],
+"ety": "From rant + -er.",
+"examples": [],
+"p": null
+}
+]

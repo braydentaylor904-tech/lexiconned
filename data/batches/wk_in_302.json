@@ -1,0 +1,440 @@
+[
+{
+"w": "rhumb",
+"pos": "noun",
+"senses": [
+"A line which crosses successive meridians at a constant angle.",
+"A unit of angular measure equal to 1/32 of a circle or 11.25°."
+],
+"ety": "Borrowed from Spanish rumbo or Portuguese rumo, from Latin rhombus, from Ancient Greek ῥόμβος (rhómbos). Doublet of rhomb and rhombus.",
+"examples": [],
+"p": "rum"
+},
+{
+"w": "suprathreshold",
+"pos": "adjective",
+"senses": [
+"That is sufficiently strong (greater than a threshold strength) to generate a response"
+],
+"ety": "From supra- + threshold.",
+"examples": [],
+"p": null
+},
+{
+"w": "picaroon",
+"pos": "noun",
+"senses": [
+"A pirate or picaro.",
+"A pirate ship."
+],
+"ety": "From Spanish picarón, from pícaro (“rogue”).",
+"examples": [],
+"p": "pik-uh-ROON"
+},
+{
+"w": "asteroseismology",
+"pos": "noun",
+"senses": [
+"The study of oscillations in stars."
+],
+"ety": "From aster- (“star”) + -o- + seismology (“study of Earth's vibrations (ie. earthquakes)”). Ultimately from Ancient Greek ἀστήρ (astḗr, “celestial body”) + σεισμός (seismós, “earthquake”) + -λογία (-logía, “study of”)",
+"examples": [],
+"p": null
+},
+{
+"w": "duble",
+"pos": "noun",
+"senses": [
+"The official currency of Slowjamastan."
+],
+"ety": "Blend of dub + ruble.",
+"examples": [],
+"p": null
+},
+{
+"w": "hornwort",
+"pos": "noun",
+"senses": [
+"Any of certain bryophytes, of phylum Anthocerotophyta, with a leafless thallus characterized by a dominant gametophyte stage of the life cycle and a sporophyte stage shaped like a horn.",
+"Vernal grasses (Anthoxanthum spp.)."
+],
+"ety": "From horn + wort (“plant”), from the fact that the spores are produced in slender horn-shaped structures.",
+"examples": [],
+"p": null
+},
+{
+"w": "gyoza",
+"pos": "noun",
+"senses": [
+"A Japanese crescent-shaped dumpling filled with a minced stuffing and steamed, boiled or fried; the Japanese equivalent of the Chinese jiaozi."
+],
+"ety": "Borrowed from Japanese 餃子 (gyōza), itself borrowed from Mandarin 餃子／饺子 (jiǎozi), possibly from a variety without significant palatalization, such as Peninsular Mandarin (Weihai: /ciau²¹³ tsz̩⁰/), or from Mandarin before palatalization (ie. *giǎozi). Doublet of jiaozi.",
+"examples": [],
+"p": "GYOZ-uh"
+},
+{
+"w": "bakufu",
+"pos": "noun",
+"senses": [
+"A shogunate; the office and administration of a shogun."
+],
+"ety": "From Japanese 幕府 (bakufu).",
+"examples": [
+"Later, however, Edo received a request from Kyoto that Yoshiatsu and members of the procourt faction at Mito accompany the shogun, and in the outcome the bakufu yielded to the request."
+],
+"p": null
+},
+{
+"w": "favel",
+"pos": "adjective",
+"senses": [
+"yellow or dun in colour"
+],
+"ety": "From Old French fauvel, favel, diminutive of Old French fauve; of German origin. See fallow (adjective).",
+"examples": [],
+"p": null
+},
+{
+"w": "frappe",
+"pos": "noun",
+"senses": [
+"A liqueur or cocktail served on shaved ice.",
+"A thick milkshake containing ice cream.",
+"An iced, sweetened, beaten coffee drink, associated with Greek cuisine."
+],
+"ety": "Borrowed from French frappé.",
+"examples": [],
+"p": "frap"
+},
+{
+"w": "equestrienne",
+"pos": "noun",
+"senses": [
+"A female equestrian."
+],
+"ety": "From equestrian + -ienne.",
+"examples": [
+"Were she but the daring equestrienne jumping through the flaming hoops, little it would matter to her if her gauzy skirts did catch.",
+"Horsewomen, lesbian feminists: would you like to gather a group together dressage, driving, trail riding, shows sharing equestrienne activity"
+],
+"p": null
+},
+{
+"w": "metrizable",
+"pos": "adjective",
+"senses": [
+"measurable, quantifiable"
+],
+"ety": "From metrize + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "sente",
+"pos": "noun",
+"senses": [
+"First move, initiative."
+],
+"ety": "From Japanese 先手 (sente).",
+"examples": [],
+"p": null
+},
+{
+"w": "shinai",
+"pos": "noun",
+"senses": [
+"A bamboo sword used in the Japanese martial art kendo."
+],
+"ety": "Borrowed from Japanese 竹刀(しない) (shinai).",
+"examples": [],
+"p": null
+},
+{
+"w": "gigantism",
+"pos": "noun",
+"senses": [
+"The quality or state of being gigantic; being of abnormally large size."
+],
+"ety": "From French gigantisme, from Latin gigans (“giant”).",
+"examples": [],
+"p": "jy-GAN-tih-zum"
+},
+{
+"w": "spadefoot",
+"pos": "noun",
+"senses": [
+"Scaphiopodidae spp. (American spadefoot toads)",
+"Borneophrys (Edwardina's spadefoot toads)",
+"Pelobates (European spadefoot toads)",
+"Notaden (Australian spadefoots)"
+],
+"ety": "From spade + foot.",
+"examples": [],
+"p": null
+},
+{
+"w": "kinako",
+"pos": "noun",
+"senses": [
+"A type of roasted soybean flour."
+],
+"ety": "Borrowed from Japanese きなこ (kinako, literally “yellow flour”).",
+"examples": [],
+"p": null
+},
+{
+"w": "gumline",
+"pos": "noun",
+"senses": [
+"The line along the top of the gums, where they meet the surface of the teeth"
+],
+"ety": "From gum + line.",
+"examples": [
+"Leaving plaque along the gumline leaves gums swollen and inflamed and apt to bleed."
+],
+"p": null
+},
+{
+"w": "gater",
+"pos": "noun",
+"senses": [
+"A mechanism that saves power in a circuit by removing the clock signal while the circuit is not in use.",
+"A component of a neural network that determines the probability that each member of a set of predictors will be selected."
+],
+"ety": "From gate + -er.",
+"examples": [
+"Optimizing the selection of clock gaters based on activity is known as power-driven clock gating.",
+"With more clock buffers instead of gaters in the clock distribution, the power is significantly reduced based on Table 4-4.",
+"In the same spirit, one can use a neural network called the gater to select which one out of several expert networks will be used to compute the output, given the current input."
+],
+"p": null
+},
+{
+"w": "recte",
+"pos": "adverb",
+"senses": [
+"Used parenthetically in a verbatim quotation to correct an error in the source (compare sic, which notes an error without correcting it)"
+],
+"ety": "From Latin recte (“rightly, correctly”).",
+"examples": [
+"The Seignory of Castleton, containing 200 (sic, query recte 12,000) acres",
+"Here is a list of errors not observed by the corrector. 193: and (recte 'as') 735: a quartere (add 'ȝеге') 796: noblel (recte 'noble' or 'nobel') 1527: him (recte 'hem') 2455: holid (? recte 'helid')"
+],
+"p": null
+},
+{
+"w": "handsaw",
+"pos": "noun",
+"senses": [
+"A saw small enough to be used by one hand."
+],
+"ety": "From Middle English handsawe, handsagh, equivalent to hand + saw. Cognate with West Frisian hânseage (“handsaw”), Dutch handzaag (“handsaw”), German Handsäge (“handsaw”), Danish håndsav (“handsaw”), Swedish handsåg (“handsaw”), Icelandic handsög (“handsaw”).",
+"examples": [],
+"p": null
+},
+{
+"w": "refract",
+"pos": "verb",
+"senses": [
+"To mediate; to alter; to distort."
+],
+"ety": "From Latin refrāctum, neuter form of refrāctus, the past participle of refringō, itself from re- (“again”) + frangō (“to break”).",
+"examples": [],
+"p": null
+},
+{
+"w": "flageolet",
+"pos": "noun",
+"senses": [
+"A type of small flute of the fipple family.",
+"A technique for playing stringed instrument that produces high-pitched overtones.",
+"A type of small light green kidney-shaped bean, common in France."
+],
+"ety": "Borrowed from French flageolet.",
+"examples": [],
+"p": "FLAZH-uh-lay"
+},
+{
+"w": "testo",
+"pos": "noun",
+"senses": [
+"testosterone, especially pharmaceutical testosterone"
+],
+"ety": "Clipping of testosterone.",
+"examples": [],
+"p": null
+},
+{
+"w": "ammer",
+"pos": "noun",
+"senses": [
+"The yellowhammer; yellow bunting; Emberiza citrinella."
+],
+"ety": "Inherited from Middle English *amere, *ambre, from Old English amore. Alternatively, it may be a clipping of yellowhammer or earlier yelambre. Favored over *hammer due to the influence of its German cognate and synonym Ammer (“bunting”) and its predecessors, Middle High German amer and Old High German amaro.",
+"examples": [],
+"p": "A-mer"
+},
+{
+"w": "tetragonal",
+"pos": "adjective",
+"senses": [
+"Having four sides, like a tetragon."
+],
+"ety": "From tetragon + -al.",
+"examples": [],
+"p": "teh-TRAG-uh-nul"
+},
+{
+"w": "mesonet",
+"pos": "noun",
+"senses": [
+"An integrated network of automated weather-monitoring stations designed to observe mesoscale meteorological phenomena"
+],
+"ety": "Blend of mesoscale + network.",
+"examples": [],
+"p": null
+},
+{
+"w": "labrys",
+"pos": "noun",
+"senses": [
+"A double-headed axe in Minoan mythology.",
+"A symbol of a double-headed axe used to represent lesbian pride."
+],
+"ety": "Learned borrowing from Ancient Greek λάβρυς (lábrus, “axe”), from Lydian 𐤩𐤠𐤡𐤭𐤧𐤳 (lapryš).",
+"examples": [],
+"p": "LA-bris"
+},
+{
+"w": "ungual",
+"pos": "noun",
+"senses": [
+"A modified toe bone, typically ending in a hoof or claw."
+],
+"ety": "From Latin unguis (“nail, claw, hoof”) + -al .",
+"examples": [],
+"p": "UNG-gwul"
+},
+{
+"w": "glomus",
+"pos": "noun",
+"senses": [
+"A fold of the mesothelium arising near the base of the mesentery in the pronephron, and containing a ball of blood vessels."
+],
+"ety": "Borrowed from Latin glomus (“ball-shaped mass”).",
+"examples": [],
+"p": "GLOH-mus"
+},
+{
+"w": "essentiality",
+"pos": "noun",
+"senses": [
+"The condition of being essential; a basic set of essential traits; being",
+"An essential thing."
+],
+"ety": "From essential + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "bodycon",
+"pos": "adjective",
+"senses": [
+"Figure-hugging, skintight, form-fitting."
+],
+"ety": "From Japanese ボディコン (bodikon) (clipping of English body conscious), name of a fashion subculture among young Japanese women in the mid-to-late 1980s and early 1990s.",
+"examples": [
+"She has, of late, tried to tone down her usual fembot style – all bodycon dresses and pointed shoulders – with more interesting looks: a jumpsuit here, a pussybow there, a fluted sleeve there."
+],
+"p": null
+},
+{
+"w": "geomorphologist",
+"pos": "noun",
+"senses": [
+"A geologist whose speciality is geomorphology."
+],
+"ety": "From geo- + morphologist.",
+"examples": [
+"University of Maryland geomorphologist Stephen Leatherman added a gloomier note: \"Over the next century we predict beaches will erode from two to five times faster than in the past hundred years.\""
+],
+"p": null
+},
+{
+"w": "holotropic",
+"pos": "adjective",
+"senses": [
+"Oriented or moving towards wholeness."
+],
+"ety": "Coined by psychiatrist Stanislav Grof. From ὅλος (hólos, “whole”) + -tropic (“turning or changing”), from τροπή (tropḗ, “movement towards something”) and τρέπω (trépō, “turn towards something”).",
+"examples": [],
+"p": "HOL-uh-trop-ik"
+},
+{
+"w": "messer",
+"pos": "noun",
+"senses": [
+"Someone or something who messes."
+],
+"ety": "From mess + -er.",
+"examples": [],
+"p": "MES-er"
+},
+{
+"w": "peepshow",
+"pos": "noun",
+"senses": [
+"An exhibition of pictures or objects viewed through a small hole or magnifying glass.",
+"A titillating or pornographic display viewed through a small slot, generally equipped with a timer to automatically close the slot when payment has expired."
+],
+"ety": "From peep + show.",
+"examples": [],
+"p": "PEEP-shoh"
+},
+{
+"w": "cutlet",
+"pos": "noun",
+"senses": [
+"A thin slice of meat, usually fried.",
+"A chop, a specific piece of meat (especially pork, chicken, or beef) cut from the side of an animal.",
+"A piece of fish that has been cut perpendicular to the spine, rather than parallel (as with a fillet); often synonymous with steak.",
+"A prawn or shrimp with its head and outer shell removed, leaving only the flesh and tail.",
+"A mash of vegetables (usually potatoes) fried with bread."
+],
+"ety": "From French côtelette (recorded in English since 1706), from Middle French costelette (“little rib”), from coste + -elette, from Old French coste (“rib, side”), from Latin costa. Influenced by English cut, as if from cut + -let. Doublet of kotlet and kotleta.",
+"examples": [],
+"p": null
+},
+{
+"w": "allegro",
+"pos": "noun",
+"senses": [
+"A tempo mark directing that a passage is to be played in a quick, lively tempo, faster than allegretto but slower than presto.",
+"An expressive mark indicating that a passage is to be played in a lively or happy manner, not necessarily quickly.",
+"A passage having this mark."
+],
+"ety": "Borrowed from Italian allegro.",
+"examples": [],
+"p": "uh-LEG-roh"
+},
+{
+"w": "linocut",
+"pos": "noun",
+"senses": [
+"A type of woodcut in which a block of linoleum is used for the relief surface; the design cut into the block."
+],
+"ety": "From lino (“linoleum”) + cut.",
+"examples": [],
+"p": "LY-noh-kut"
+},
+{
+"w": "psychedelia",
+"pos": "noun",
+"senses": [
+"The subculture associated with those who take psychedelic drugs."
+],
+"ety": "From psychedelic + -ia.",
+"examples": [],
+"p": null
+}
+]

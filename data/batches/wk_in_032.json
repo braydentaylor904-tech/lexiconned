@@ -1,0 +1,541 @@
+[
+{
+"w": "cairn",
+"pos": "noun",
+"senses": [
+"A rounded or conical heap of stones erected by early inhabitants of the British Isles, apparently as a sepulchral monument.",
+"A pile of stones heaped up as a landmark, to guide travelers on land or at sea, or to arrest attention, as in surveying, or in leaving traces of an exploring party, etc.",
+"A cairn terrier."
+],
+"ety": "From Scots cairn, from Scottish Gaelic càrn, from Old Irish carn, from Proto-Celtic *karnos, from Proto-Indo-European *ḱerh₂- (“horn”). Compare Welsh carn, Cornish carn. Doublet of carn and horn.",
+"examples": [
+"After fifteen minutes of this we were glad to reach a high saddle on which former travellers had piled little cairns of commemoration and thankfulness."
+],
+"p": "kairn"
+},
+{
+"w": "rizla",
+"pos": "noun",
+"senses": [
+"A rolling paper."
+],
+"ety": "From the Rizla+ brand of rolling papers, coined in 1886 from French riz (“rice”) and Lacroix, referring to the use of rice paper and the inventor's family name.",
+"examples": [
+"Now I was standing in the corner / I'm searching for my rizla / I had some marijuana / I needed to get higher",
+"A slight breeze picked up, sending a few loose rizlas skimming along the sand.",
+"Answers on the back of a rizla paper to the usual address."
+],
+"p": "RIZ-luh"
+},
+{
+"w": "incumbency",
+"pos": "noun",
+"senses": [
+"An obligation or duty.",
+"Benefice, lucrative position or possession."
+],
+"ety": "From incumbent + -cy.",
+"examples": [
+"ORR believes the two companies have incumbency advantages dating back to privatisation."
+],
+"p": "ing-KUM-bun-see"
+},
+{
+"w": "pleasance",
+"pos": "noun",
+"senses": [
+"A pleasure ground laid out with shady walks, trees and shrubs, statuary, and ornamental water; a secluded part of a garden."
+],
+"ety": "From Middle English plaisaunce, plesaunce, from Old French plaisance. By surface analysis, please + -ance.",
+"examples": [
+"It is a tropical pleasance, washed by a noble river."
+],
+"p": "PLEZ-uns"
+},
+{
+"w": "zamindar",
+"pos": "noun",
+"senses": [
+"An Indian landowner who collected local taxes and paid them to the British government."
+],
+"ety": "Borrowed from Urdu زمیندار (zamīndār, “landlord”), from Persian زمیندار.",
+"examples": [
+"An Oxford avatar of the old zamindar mentality―a landlord forcing his attentions on women who depended on him for their livelihood.",
+"Indian princes, zamindars and industrialists engaged him as their counsel and paid him whatever he asked for as fees.",
+"The power of the zamindars, who were mainly Brahmin or Rajput, was challenged in a series of peasant movements between 1919 and 1921, when Charan Singh was in his late teens."
+],
+"p": "zuh-MEEN-dar"
+},
+{
+"w": "kheer",
+"pos": "noun",
+"senses": [
+"A sweet rice pudding from South Asia."
+],
+"ety": "Borrowed from Hindi खीर / Urdu کھیر (khīr, “kheer”) (or a similar Indo-Aryan cognate), from Sanskrit क्षीर (kṣīrá, “milk”), from Proto-Indo-Iranian *kšiHrám.",
+"examples": [
+"Sizzling kebabs, delicious kheer and the ever popular haleem -it's a clear sign that Ramadan sure brings with it a culinary awakening. At the same time, Ramadan is all about discipline and faith."
+],
+"p": "keer"
+},
+{
+"w": "afoot",
+"pos": "adverb",
+"senses": [
+"On foot. (means of locomotion, walking)",
+"On foot. (support of the body, standing)",
+"In motion; in action; astir; stirring; in progress."
+],
+"ety": "From a- + foot.",
+"examples": [
+"Is it fit, let your mightyship say, / That I, like some pitiful flirt, / Should tarry within doors all day, / Or else trudge it afoot in the dirt?",
+"Possibly some chemical experiment was afoot; possibly----Well, it was no business of mine to speculate upon why he wanted it.",
+"In San Francisco and in New Jersey, to quote two other examples, plans are afoot to subsidise new commuter line construction or existing operations out of toll revenue from state highways or bridges."
+],
+"p": "uh-FUUT"
+},
+{
+"w": "quiver",
+"pos": "noun",
+"senses": [
+"A ready storage location for figurative tools or weapons."
+],
+"ety": "From Middle English quiver, from Anglo-Norman quivre, from Old Dutch cocare (source of Dutch koker, and cognate to Old English cocer (“quiver, case”)), from Proto-West Germanic *kokar (“container”), said to be from Hunnic, possibly from Proto-Mongolic *kökexür (“leather vessel for liquids”); see there for more. Replaced early modern cocker, the inherited reflex of that West Germanic word. The mathematical sense originated as German Köcher in a 1972 paper by Pierre Gabriel; it was likely chosen because a quiver contains arrows, while a digraph contains directed edges (also called \"arrows\").",
+"examples": [
+"He's got lots of sales pitches in his quiver."
+],
+"p": "KWIV-er"
+},
+{
+"w": "verve",
+"pos": "noun",
+"senses": [
+"Enthusiasm, rapture, spirit, or vigour, especially of imagination such as that which animates an artist, musician, or writer, in composing or performing."
+],
+"ety": "Borrowed from French verve (“animation; caprice, whim; rapture; spirit; vigour; type of expression”), probably from Late Latin verva, a variant of Latin verba (“words; discourse; expressions; language”), the plural of verbum (“word”), ultimately from Proto-Indo-European *werh₁- (“to say, speak”). Doublet of verb and word.",
+"examples": [
+"His hands were strong and elegant; his experience of life evidently varied; his speech full of pith and verve; his manners forward, but perfectly presentable."
+],
+"p": "vurv"
+},
+{
+"w": "weedy",
+"pos": "adjective",
+"senses": [
+"Abounding with weeds.",
+"Consisting of weeds.",
+"Small and weak.",
+"Lacking power or effectiveness."
+],
+"ety": "From weed + -y.",
+"examples": [
+"See, from the weedy earth a rivulet break And purl along the untrodden wilderness;",
+"There on the pendant boughs her coronet weeds Clamb’ring to hang, an envious sliver broke, When down her weedy trophies and herself Fell in the weeping brook.",
+"Daily the beans saw me come to their rescue armed with a hoe, and thin the ranks of their enemies, filling up the trenches with weedy dead."
+],
+"p": "WEE-dee"
+},
+{
+"w": "exasperate",
+"pos": "verb",
+"senses": [
+"To tax the patience of; irk, frustrate, vex, provoke, annoy; to make angry."
+],
+"ety": "First attested in 1534; borrowed from Latin exasperātus, the perfect passive participle of Latin exasperō (see -ate (verb-forming suffix) and -ate (adjective-forming suffix)), from ex (“out of; thoroughly”) + asperō (“to make rough”), from asper (“rough”). Participial usage of the adjective up until Early Modern English.",
+"examples": [
+"Beadle goes into various shops and parlours, examining the inhabitants; always shutting the door first, and by exclusion, delay, and general idiotcy, exasperating the public.",
+"News that Adam Crozier, Royal Mail chief executive, is set to receive a bumper bonus will exasperate postal workers."
+],
+"p": "ig-ZAS-puh-rayt"
+},
+{
+"w": "mademoiselle",
+"pos": "noun",
+"senses": [
+"A young woman or girl, especially one who is French or French-speaking."
+],
+"ety": "Unadapted borrowing from French mademoiselle.",
+"examples": [
+"It was a teenage wedding, and the old folks wished them well / You could see that Pierre did truly love the mademoiselle..."
+],
+"p": "ma-dum-wuh-ZEL"
+},
+{
+"w": "radish",
+"pos": "noun",
+"senses": [
+"A plant of the Brassicaceae family, Raphanus sativus or Raphanus raphanistrum subsp. sativus, having an edible root.",
+"The root of this plant used as food. Some varieties are pungent and usually eaten raw in salads, etc., while others have a milder taste and are cooked."
+],
+"ety": "From Middle English radiche, from Old English rǣdiċ, from Proto-West Germanic *rādik, borrowed from Latin rādīcem (“root of a plant; radish”); later influenced by Anglo-Norman radich and Middle French radice, borrowed from Italian radice, from the same Latin source. Doublet of radix.",
+"examples": [
+"The flavors of radicchio and radish are delicious with only a touch of balsamic vinegar for a dressing.",
+"Purple shoots had grown up from the wheat seeds sown in the furrows. He fell to his knees and dug up a radish. There was a sound like a bubble popping as the thin roots parted from the earth."
+],
+"p": "RAD-ish"
+},
+{
+"w": "abyssal",
+"pos": "adjective",
+"senses": [
+"Of or belonging to the ocean depths, especially below 2000 metres (6500 ft): abyssal zone.",
+"In the utter depths of despair; gloomy."
+],
+"ety": "First attested in the 1690s. From Medieval Latin abyssalis, from Latin abyssus (“abyss”) + -alis (“-al”). Equivalent to abyss + -al.",
+"examples": [
+"This \"abyssal\" life, typically in the form of strange tube-worms and microbes, is almost completely unknown to science.",
+"In an attempt to avoid sliding into incorrigible despair, I abandon such abyssal and existential pondering and investigate the artist behind the work."
+],
+"p": "uh-BIS-ul"
+},
+{
+"w": "zayat",
+"pos": "noun",
+"senses": [
+"A building in Myanmar used for meetings and religious assemblies and to give shelter to travellers."
+],
+"ety": "From Burmese ဇရပ် (ja.rap).",
+"examples": [
+"There are always several zayats in the neighborhood of a kyoung, to which the devotees of Boodh resort to listen to their priests."
+],
+"p": "ZY-ut"
+},
+{
+"w": "dishevelled",
+"pos": "adjective",
+"senses": [
+"Of a person, with the hair uncombed.",
+"Disorderly or untidy in appearance."
+],
+"ety": "From earlier dishevely, from Old French deschevelé (modern French déchevelé and échevelé), from des- (“dis-”), + chevel (“hair”) (modern French cheveu). See there for more details.",
+"examples": [
+"This is a crazy, dishevelled, often hilarious film, in which lightning flashes of wit and insight crackle periodically across a plane of tedium. I sometimes felt I was watching the 100-hour version."
+],
+"p": "dih-SHEV-uld"
+},
+{
+"w": "getback",
+"pos": "noun",
+"senses": [
+"An act of revenge."
+],
+"ety": "Deverbal from get back.",
+"examples": [
+"If the resource was general and valuable, elements of criminality and vengeful getbacks — 'I'll burn your crops' — were an ever-present threat.",
+"I ran from my parents' mistakes and the dark cloud that loomed over me from their petty games of getback."
+],
+"p": "GET-bak"
+},
+{
+"w": "lolcat",
+"pos": "noun",
+"senses": [
+"An image macro of, usually, a kitten or a cat with a humorous caption.",
+"The deliberately misspelled and grammatically quirky form of English associated with such images' captions."
+],
+"ety": "From lol + cat.",
+"examples": [
+"I had heard of Caturday when I wrote the piece, but I’d understood that it was a proto-lolcats practice that was different from the actual lolcats meme."
+],
+"p": "LAHL-kat"
+},
+{
+"w": "exorcism",
+"pos": "noun",
+"senses": [
+"The ritual act of driving out evil spirits from persons, places or things that are possessed by them."
+],
+"ety": "From Old French exorciser, from Late Latin exorcizō, from Ancient Greek ἐξορκίζω (exorkízō, “to ward off, to charge under oath, adjure”), from ἐξ (ex) + ὅρκος (hórkos).",
+"examples": [
+"Master Hume, we are therefore prouided: / will her Ladyship behold and heare our Exorcismes?"
+],
+"p": "EK-sor-sih-zum"
+},
+{
+"w": "idyll",
+"pos": "noun",
+"senses": [
+"Any poem or short written piece composed in the style of Theocritus's short pastoral poems, the Idylls.",
+"An episode or series of events or circumstances of pastoral or rural simplicity, fit for an idyll; a carefree or lighthearted experience.",
+"A composition, usually instrumental, of a pastoral or sentimental character, e.g. Siegfried Idyll by Richard Wagner."
+],
+"ety": "From Latin īdyllium, from Ancient Greek εἰδύλλιον (eidúllion), from diminutive of εἶδος (eîdos, “form, shape”).",
+"examples": [
+"Its pages contain not just recipes but an idyll of prelapsarian plenty, passed down the generations by those who still connect with pagan forces: Saturnus and his groaning table, a Saturnalia from the Golden Age."
+],
+"p": "EYE-dil"
+},
+{
+"w": "shawm",
+"pos": "noun",
+"senses": [
+"A mediaeval double-reed wind instrument with a conical wooden body."
+],
+"ety": "From Middle English shalmuse, from Old French chalemel (modern French chalumeau), from Late Latin calamellus, from Latin calamus (“reed”), from Ancient Greek κάλαμος (kálamos). Doublet of caramel, chalumeau, and qalam, as well as related to calame, calamus, culm, and haulm.",
+"examples": [
+"And all the field is thick with companies Of fair-clothed men that play on shawms and lutes And gather honey of the yellow fruits Between the branches waxen soft and wide",
+"There are four flutes, a harp of twenty strings, a mournful shawm, and a number of drums of oxhide, some to be struck, others spanked."
+],
+"p": "shawm"
+},
+{
+"w": "cohabitation",
+"pos": "noun",
+"senses": [
+"An emotional and physical intimate relationship which includes a common living place and which exists without legal or religious sanction.",
+"The act of living together.",
+"A place where two or more individuals reside together.",
+"Cooperation between politicians of opposing political parties; especially, in France, between a President and Prime Minister."
+],
+"ety": "From Middle English cohabitacioun, from Old French cohabitacion and Late Latin cohabitātiō. By surface analysis, co- + habitation.",
+"examples": [
+"According to Greene, sodomy, gross indecency, adultery, cohabitation and repeated convictions for indecent exposure are all considered sex offenses in Michigan.",
+"She said: “I am respectful of institutions; I am not calling for institutional chaos. There will simply be a cohabitation.”"
+],
+"p": "koh-hab-ih-TAY-shun"
+},
+{
+"w": "cheongsam",
+"pos": "noun",
+"senses": [
+"A tight-fitting Chinese formal woman's dress, usually brightly coloured, patterned and/or embroidered, with a split at the thigh.",
+"A plain coloured, tight-fitting dress with a short split at the thigh, worn as a school uniform by schoolgirls.",
+"A long formal dress-like garment or robe worn by Asian men."
+],
+"ety": "From Cantonese 長衫／长衫 (coeng4 saam1, “long robe”).",
+"examples": [
+"A white velvet cheongsam! Except for people in movies, I've never seen anyone look as good in a cheongsam as she does."
+],
+"p": "HOHNG-sam"
+},
+{
+"w": "norther",
+"pos": "noun",
+"senses": [
+"A strong north wind, a wind blowing from the north."
+],
+"ety": "From north + -er.",
+"examples": [
+"Brisk winds from the south for several days in Texas are generally followed by a \"norther.\"",
+"She lay well secured even against a ‘Norther’. Bond estimated there would be about twenty feet of water below her keel.",
+"Keep her going South-South East as fast as she'll take it, Shelby. It'll be a wet ride till we get outside the stream with this Norther."
+],
+"p": "NOR-ther"
+},
+{
+"w": "saman",
+"pos": "noun",
+"senses": [
+"A fine; a monetary penalty imposed for breaking the law."
+],
+"ety": "Borrowed from Malay saman (“fine, financial penalty”), from English summons. Doublet of summons.",
+"examples": [
+"I pass thru this gantry at ecp without cashcard. why do i kena saman till $70?",
+"Not just 'saman' kings: Kind parking warden helps old woman alight from taxi.",
+"I did not know that a permit was needed to set a tent. So this nparks people came and check and issued me a saman of $300!"
+],
+"p": "SAH-man"
+},
+{
+"w": "hafiz",
+"pos": "noun",
+"senses": [
+"A Muslim who has memorized the whole Qur'an."
+],
+"ety": "Persian, from Arabic حَافِظ (ḥāfiẓ), present participle of حَفِظَ (ḥafiẓa, “to guard, know by heart”).",
+"examples": [
+"He was a hafiz, one who knows the Qur’an by heart, and he sang it in a slow, simple chant."
+],
+"p": "HAH-fiz"
+},
+{
+"w": "mither",
+"pos": "verb",
+"senses": [
+"To make an unnecessary fuss, moan, bother.",
+"To pester or irritate someone."
+],
+"ety": "Late 17th century, of unknown origin; * Possibly related to Middle English bemothered (“confused, perplexed”), itself probably related to Old English mēþe (“exhausting, troublesome”), Old Norse móðr (“angry, frustrated”), Middle Dutch moeden (“to tire, exhaust, disturb, trouble”). * Possibly allied to Welsh moedro (“to worry or bother”), though according to the GPC, the latter is borrowed from English. * Alternatively, possibly tied to Welsh meidda (“to beg for whey”), from maidd (“whey”). * Perhaps from Welsh meiddio (“to dare or venture”), a variant of beiddio (“to dare”). The \"dd\" in Welsh ",
+"examples": [
+"The European Commission is pondering how to compel phone companies to come up with a universal plug for their chargers. Apple, which uses its own design for its charger cables, is mithering about the change."
+],
+"p": "MY-ther"
+},
+{
+"w": "spined",
+"pos": "adjective",
+"senses": [
+"Having spines, spiny.",
+"Having a certain type of spine (backbone)."
+],
+"ety": "From spine + -ed.",
+"examples": [
+"He's just another linguini-spined politician."
+],
+"p": "speyend"
+},
+{
+"w": "cahoot",
+"pos": "noun",
+"senses": [
+"A company or partnership.",
+"Chiefly preceded by in: a group of people working together, chiefly for a nefarious reason; hence, a collaboration or collusion.",
+"An accomplice, a partner."
+],
+"ety": "For the noun, see cahoots. The verb is derived from the noun.",
+"examples": [
+"Gineral Government and the ministration are going in cahoot to undermine and overrule the undertakings of the free people of Georgia.",
+"Fisk and his “cahoots” have got at cross purposes, and he has been put out of bed. Whether Fisk is rightly or wrongly out of bed is not for Congress to determine.",
+"This particular day he set the scene by arranging with his cahoots to clean up the local operators."
+],
+"p": "kuh-HOOT"
+},
+{
+"w": "celandine",
+"pos": "noun",
+"senses": [
+"Either of two not closely related flowering plants",
+"Greater celandine (Chelidonium majus).",
+"Lesser celandine (Ficaria verna, formerly Ranunculus ficaria)."
+],
+"ety": "From Middle English celidoine, Old French celidoine, French chélidoine, from Latin chelīdonia, from chelīdonius (“relating to the swallow”), from Ancient Greek χελιδόνιος (khelidónios), χελιδών (khelidṓn). It was traditionally supposed to flower when the swallows appeared, and to perish when they departed.",
+"examples": [
+"Buttercups, that will be seen, Whether we will see or no; Others, too, of lofty mien; They have done as worldlings do, Taken praise that should be thine, Little, humble Celandine!",
+"Coming suddenly round a corner into a glade of silver birch trees Edmund saw the ground covered in all directions with little yellow flowers—celandines.",
+"The poor but lovely bird sat there, posing among the celandines and wood anemones, wondering why its wing-tips were frozen together."
+],
+"p": "SEL-un-dine"
+},
+{
+"w": "rapacity",
+"pos": "noun",
+"senses": [
+"The quality of being rapacious; voracity."
+],
+"ety": "From rapac(ious) + -ity, from Middle French rapacité (whence -acity, from Latin rapācitās, from rapāx, from rapiō (“snatch, grab, carry off”).",
+"examples": [
+"A taint of imbecile rapacity blew through it all, like a whiff from some corpse."
+],
+"p": "ruh-PA-sih-tee"
+},
+{
+"w": "stewardess",
+"pos": "noun",
+"senses": [
+"A female flight attendant (a member of the crew of an airplane who is responsible for the comfort and safety of its passengers).",
+"A woman who works at housekeeping and passenger service aboard a ship, yacht, or other type of boat that carries passengers.",
+"A female steward (any sense)."
+],
+"ety": "From steward + -ess (feminine suffix).",
+"examples": [
+"She usually rang for the stewardess early, but this morning of course there had been no ring. The stewardess had gone in all the same about eight o'clock and found the cabin empty.",
+"Certainly a stewardess who may have fifty or even a hundred passengers to look after cannot give much attention to nursing, even if she knows how.",
+"He regarded the tray with apprehension, then with dismay as the stewardess said: \"She's just rung for breakfast in bed, going to stay there all day as she feels a cold coming.\""
+],
+"p": "STOO-er-dis"
+},
+{
+"w": "tagliatelle",
+"pos": "noun",
+"senses": [
+"Long, flat ribbons of egg pasta, originally from Emilia-Romagna, sliced from a rolled-out sheet."
+],
+"ety": "Unadapted borrowing from Italian tagliatelle, from tagliare (“to cut”). * In Italian, -gli(a)- is pronounced /ʎ-/, which can be approximated in English by /lj-/; the pronunciation with /ɡ/ is a spelling pronunciation. * In English, the final vowel is most often /i/, and only rarely /eɪ/ (the expected approximation of Italian /e/, as in e.g. bersagliere), probably due to the prevalence of Italian terms ending in /i/ (cavatelli, ravioli, etc).",
+"examples": [
+"When the tagliatelle are al dente, drain thoroughly and transfer to a warm bowl.",
+"And the tagliatelle are topped with shrimp and accompanied by a plate of good hot French bread made before your eyes in the restaurant’s small glass-walled bakery.",
+"Stir the ham into the sauce; if the tagliatelle are not quite ready, remove the ham and the peas from the heat."
+],
+"p": "tal-yuh-TEL-ee"
+},
+{
+"w": "chillum",
+"pos": "noun",
+"senses": [
+"A conical pipe used for smoking marijuana, usually made of fired clay, porcelain, soapstone, glass or, more rarely, wood.",
+"The part of such a pipe that contains the tobacco and charcoal balls."
+],
+"ety": "Borrowed from Hindustani चिलम (cilam) / چِلَم (cilam), from Classical Persian چِلَم (čilam).",
+"examples": [
+"He could not think of moving till his baggage was cleared, or of travelling until he could do so with his chillum."
+],
+"p": "CHIL-um"
+},
+{
+"w": "andante",
+"pos": "noun",
+"senses": [
+"A tempo mark directing that a passage is to be played in a moderately slow tempo; faster than adagio but slower than moderato.",
+"A passage having this mark."
+],
+"ety": "Borrowed from Italian andante.",
+"examples": [
+"The music’s marking is andante, a delicate footfall."
+],
+"p": "ahn-DAHN-tay"
+},
+{
+"w": "essent",
+"pos": "noun",
+"senses": [
+"that which is; an entity, a being, an existent"
+],
+"ety": "Pseudo-Latinism, coined by Ralph Manheim in his 1959 English translation of Martin Heidegger’s Einführung in die Metaphysik to render German Seiendes (as distinct from Sein) on the basis of *essens, a pseudo-Latin present participle of sum.",
+"examples": [
+"The essent can be things at our disposal; things at hand such as tools, or vehicles. The land, the sea, the mountains, rivers, woods are also essents. Trees, birds, insects, grasses and stones are essents."
+],
+"p": "ES-unt"
+},
+{
+"w": "freekeh",
+"pos": "noun",
+"senses": [
+"Wheat grains that are harvested while still unripe and then roasted."
+],
+"ety": "Borrowed from Arabic فَرِيكَة (farīka).",
+"examples": [
+"Meanwhile, rinse the freekeh very well under cold water, tip it into a pan and cover with lots of salted water."
+],
+"p": "FREE-keh"
+},
+{
+"w": "cringey",
+"pos": "adjective",
+"senses": [
+"Characterised by causing feelings of embarrassment; embarrassing.",
+"Cringing; cowardly."
+],
+"ety": "From cringe + -y.",
+"examples": [
+"During a recent appearance on “The Last Laugh” podcast, the actor, who played Dwight Schrute on the hit NBC comedy, talked about how cringey parts of the series could be."
+],
+"p": "KRIN-jee"
+},
+{
+"w": "ootheca",
+"pos": "noun",
+"senses": [
+"An egg case of any of the orthopteroid insects (such as cockroaches and mantids)."
+],
+"ety": "From oo- (“egg-”) + theca (“sheath”).",
+"examples": [
+"Since the founding of the colony it had been a tradition to unload oothecae – egg sacs – in the cabinets so the younglings would be near the principal food stocks."
+],
+"p": "oh-uh-THEE-kuh"
+},
+{
+"w": "compounder",
+"pos": "noun",
+"senses": [
+"A person who compounds (mixes ingredients, and tests the result)",
+"One who attempts to bring persons or parties to terms of agreement, or to accomplish ends by compromises.",
+"One who compounds a debt, obligation, or crime.",
+"A Jacobite who favoured the restoration of James II, on condition of a general amnesty and of guarantees for the security of the civil and ecclesiastical constitution of the realm."
+],
+"ety": "From compound + -er.",
+"examples": [
+"Religious houses made compounders / For the horrid actions of their founders."
+],
+"p": "kum-POWN-der"
+}
+]

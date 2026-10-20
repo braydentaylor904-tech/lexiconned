@@ -1,0 +1,432 @@
+[
+{
+"w": "superfit",
+"pos": "adjective",
+"senses": [
+"Extremely fit, either physically or evolutionarily"
+],
+"ety": "From super- + fit.",
+"examples": [],
+"p": null
+},
+{
+"w": "diwaniya",
+"pos": "noun",
+"senses": [
+"In Kuwait, a guest room where men gather to chat, eat and drink.",
+"A traditional Kuwaiti social gathering in such a room."
+],
+"ety": "From Gulf Arabic ديوانية (dīwānīya).",
+"examples": [
+"In the past, candidates depended mostly on personal ties with voters at diwaniyas, traditional evening social gatherings."
+],
+"p": null
+},
+{
+"w": "decipherable",
+"pos": "adjective",
+"senses": [
+"that can be deciphered, understood or comprehended"
+],
+"ety": "From decipher + -able.",
+"examples": [
+"The milk tank wagons are owned by the various dairy companies whose names they carry on small plates barely decipherable beneath the grime."
+],
+"p": null
+},
+{
+"w": "dharani",
+"pos": "noun",
+"senses": [
+"A Buddhist chant or incantation."
+],
+"ety": "Borrowed from Sanskrit धारणी (dhāraṇī).",
+"examples": [],
+"p": null
+},
+{
+"w": "retar",
+"pos": "verb",
+"senses": [
+"To provide (a road, etc.) with a new coating of tar."
+],
+"ety": "From re- + tar.",
+"examples": [],
+"p": null
+},
+{
+"w": "charry",
+"pos": "adjective",
+"senses": [
+"Having a flavor of charred wood."
+],
+"ety": "From char + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "mandala",
+"pos": "noun",
+"senses": [
+"A division or book of the Rigveda (of which there are ten)."
+],
+"ety": "Borrowed from Sanskrit मण्डल (máṇḍala). Doublet of mandal.",
+"examples": [],
+"p": "MUN-duh-luh"
+},
+{
+"w": "farmboy",
+"pos": "noun",
+"senses": [
+"A boy or young man who works on a farm, especially one who is growing up there as a child of the farmer.",
+"A man who grew up on a farm and prides himself on a farm-based identity."
+],
+"ety": "From farm + boy.",
+"examples": [
+"He likes to say that he's still just a farmboy at heart.",
+"Even if I wear shit-kicker boots, faded Levi's and a flannel shirt, something about me betrays too many years around universities. In the same clothes, you exuded farmboy simplicity and innocence."
+],
+"p": null
+},
+{
+"w": "tikka",
+"pos": "noun",
+"senses": [
+"A marinade made from various aromatic spices usually with a yoghurt base; often used in Indian cuisine prior to grilling in a tandoor."
+],
+"ety": "Borrowed from Hindustani टिक्का (ṭikkā, “piece”) / ٹِکّہ (ṭikka), ultimately from Classical Persian تکه (tikka).",
+"examples": [],
+"p": "tik-uh"
+},
+{
+"w": "fougasse",
+"pos": "noun",
+"senses": [
+"A type of lattice-shaped bread associated with the area of Provence.",
+"An old-fashioned type of land mine, in the form of a foxhole filled with explosives or projectiles."
+],
+"ety": "Borrowed from French fougasse. Doublet of focaccia.",
+"examples": [],
+"p": null
+},
+{
+"w": "melik",
+"pos": "noun",
+"senses": [
+"A member of hereditary nobility in certain Armenian principalities, especially in Artsakh"
+],
+"ety": "From Armenian մելիք (melikʻ).",
+"examples": [],
+"p": null
+},
+{
+"w": "rumbly",
+"pos": "adjective",
+"senses": [
+"Making a rumbling noise."
+],
+"ety": "From rumble + -y.",
+"examples": [
+"His voice is pleasantly rumbly; his smile is so wide that it seems to have been drawn onto his face with a crayon."
+],
+"p": null
+},
+{
+"w": "corseted",
+"pos": "adjective",
+"senses": [
+"Wearing a corset."
+],
+"ety": "From corset + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "dobbin",
+"pos": "noun",
+"senses": [
+"An old jaded horse."
+],
+"ety": "From Dobbin, a common name given to workhorses.",
+"examples": [],
+"p": "DAH-bin"
+},
+{
+"w": "reductionism",
+"pos": "noun",
+"senses": [
+"An approach to studying complex systems or ideas by reducing them to a set of simpler components."
+],
+"ety": "From reduction + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "dequeen",
+"pos": "verb",
+"senses": [
+"To remove the queen from (a beehive)."
+],
+"ety": "From de- + queen.",
+"examples": [],
+"p": null
+},
+{
+"w": "latrine",
+"pos": "noun",
+"senses": [
+"An open trench or pit used for urination and defecation.",
+"Any facility or device used for urination or defecation, whether toilet, lavatory, or outhouse."
+],
+"ety": "From French latrine (“latrine”), from Latin lātrīna.",
+"examples": [],
+"p": "luh-TREEN"
+},
+{
+"w": "essentialist",
+"pos": "noun",
+"senses": [
+"An advocate of essentialism."
+],
+"ety": "From essential + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "repairman",
+"pos": "noun",
+"senses": [
+"A male repairer, a man who repairs things."
+],
+"ety": "From repair + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "tannin",
+"pos": "noun",
+"senses": [
+"An evil sea monster in Canaanite and Hebrew mythology."
+],
+"ety": "Borrowed from Hebrew תַּנִּין (tannīn).",
+"examples": [],
+"p": null
+},
+{
+"w": "reprieve",
+"pos": "verb",
+"senses": [
+"To cancel or postpone the punishment of someone, especially an execution.",
+"To bring relief to someone.",
+"To abandon or postpone plans to close, withdraw or abolish (something)."
+],
+"ety": "First use appears c. 1513 in the writings of Robert Fabyan. In the sense of “to take back to prison”, from Middle English repryen (“to remand, detain”) (1494), possibly from Middle French repris, in the form of reprendre (“take back”); a cognate to reprise. The sense has become generalized, but does retain connotations of punishment and execution. The noun's first use appears c. 1592.",
+"examples": [],
+"p": "rih-PREEV"
+},
+{
+"w": "sadza",
+"pos": "noun",
+"senses": [
+"Synonym of nshima (“maize porridge”)."
+],
+"ety": "Borrowed from Shona sadza.",
+"examples": [
+"Locals would speak sorrowfully about the state of affairs, often while nursing their sole plate of sadza (maize porridge) for the day."
+],
+"p": null
+},
+{
+"w": "pommer",
+"pos": "noun",
+"senses": [
+"An alto, tenor, or bass instrument of the shawm family."
+],
+"ety": "From German Pommer, from Middle High German bumhart, from Italian bombarda.",
+"examples": [],
+"p": null
+},
+{
+"w": "glaucomatous",
+"pos": "adjective",
+"senses": [
+"Affected by glaucoma."
+],
+"ety": "By surface analysis, glauc- + -omatous.",
+"examples": [],
+"p": null
+},
+{
+"w": "cohosh",
+"pos": "noun",
+"senses": [
+"A perennial American herb (Caulophyllum thalictroides), the rough rootstock of which is used in medicine.",
+"A smooth herb, Actaea racemosa, marketed for medicinal use."
+],
+"ety": "From an Algonquian word meaning rough, probably from Eastern Abenaki / Penobscot *kkwὰhas. Compare Massachusett kushki (“(it is) rough”). Compare English cocash.",
+"examples": [],
+"p": "kuh-HOSH"
+},
+{
+"w": "paddleball",
+"pos": "noun",
+"senses": [
+"An early form of racquetball"
+],
+"ety": "From paddle + ball.",
+"examples": [],
+"p": null
+},
+{
+"w": "prill",
+"pos": "verb",
+"senses": [
+"to flow, spurt"
+],
+"ety": "A variant of purl, 17th century.",
+"examples": [],
+"p": "pril"
+},
+{
+"w": "religionist",
+"pos": "noun",
+"senses": [
+"An adherent of a religion.",
+"Especially, a religious zealot."
+],
+"ety": "From religion + -ist.",
+"examples": [
+"How could Christians and other kinds of religionists justify being ruled by laws and rules, written and unwritten, that go against their faith?",
+"With what astoundment would ye, if ye were alive with your merely human perfections, listen to the creed of our, so called, rational religionists!"
+],
+"p": null
+},
+{
+"w": "ointment",
+"pos": "noun",
+"senses": [
+"A substance used to anoint, as in religious rituals."
+],
+"ety": "A later form (as if oint + -ment) of Middle English oinement, borrowed from Old French oignement (“an anointing”), from oigner, oindre, ongier (“to anoint”), from Latin ung(u)ō (“I anoint”), from Proto-Indo-European *h₃engʷ- (“to smear, anoint”). Partly displaced native Old English sealf, whence modern salve.",
+"examples": [],
+"p": "OYNT-munt"
+},
+{
+"w": "giganotosaurus",
+"pos": "noun",
+"senses": [
+"Any of several very large, carnivorous dinosaurs of the subfamily Giganotosaurinae, from the Cretaceous period."
+],
+"ety": "Borrowed from translingual Giganotosaurus, from giga- (“large”) + noto- (“southern”) + -saurus (“lizard”).",
+"examples": [],
+"p": null
+},
+{
+"w": "gilet",
+"pos": "noun",
+"senses": [
+"A waistcoat worn by a man.",
+"A bodice worn by a woman similar to a man's waistcoat; also, a decorative panel at the front of such a bodice, or worn separately.",
+"A sleeveless jacket resembling a waistcoat but generally closed at the neck; specifically, one which is padded to provide warmth."
+],
+"ety": "Borrowed from French gilet (“vest, waistcoat”), from regional Italian gileccu (Calabria), gilecco (Genoa), gelecco (Naples), ggileccu (Sicily), etc. (standard Italian gilè is borrowed from French), from Turkish yelek (“jelick; vest, waistcoat”) (ultimately from Proto-Turkic *yẹl (“wind”, noun)) with the final syllable modified to match other types of clothing such as corselet and mantelet. The Oxford English Dictionary does not regard the French word as having derived from Arabic جَلِيقَة (jalīqa), which it views as a recent borrowing from Italian into Algerian Arabic. Doublet of jelick.",
+"examples": [],
+"p": "ZHIL-ay"
+},
+{
+"w": "pondok",
+"pos": "noun",
+"senses": [
+"A crudely-built hut in parts of Asia."
+],
+"ety": "Borrowed from Malay pondok, borrowed from Arabic فُنْدُق (funduq), borrowed from Ancient Greek πανδοκεῖον (pandokeîon), from πᾰν- (păn-, “all, every”) + δοκ- (dok-, o-grade of the stem of δέχομαι (dékhomai, “to receive”)) + -εῖον (-eîon).",
+"examples": [],
+"p": null
+},
+{
+"w": "distiller",
+"pos": "noun",
+"senses": [
+"A person who distills, especially alcoholic spirits or hard liquor by a process of distillation; a person who owns, works in or operates a distillery.",
+"A device or apparatus that distills, a condenser; a still.",
+"A company whose business is distilling, especially one that manufactures alcoholic spirits or liquor."
+],
+"ety": "From distill + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "asexuality",
+"pos": "noun",
+"senses": [
+"The quality of experiencing little or no sexual attraction.",
+"The quality of lacking a sex or sexual organs."
+],
+"ety": "From a- (“lacking, without”) + sexuality, equivalent to asexual + -ity.",
+"examples": [],
+"p": "ay-sek-shoo-A-luh-tee"
+},
+{
+"w": "achievability",
+"pos": "noun",
+"senses": [
+"The state or condition of being achievable."
+],
+"ety": "From achieve + -ability.",
+"examples": [],
+"p": null
+},
+{
+"w": "ghosty",
+"pos": "noun",
+"senses": [
+"Ghost (especially a non-frightening one)"
+],
+"ety": "From ghost + -y.",
+"examples": [],
+"p": "GOH-stee"
+},
+{
+"w": "routier",
+"pos": "noun",
+"senses": [
+"A French brigand of the 14th century.",
+"Any brigand or armed robber."
+],
+"ety": "From French routier, from Old French route (“company”); compare highwayman.",
+"examples": [],
+"p": null
+},
+{
+"w": "stalkless",
+"pos": "adjective",
+"senses": [
+"Having no stalk; sessile."
+],
+"ety": "From stalk + -less.",
+"examples": [],
+"p": null
+},
+{
+"w": "transferware",
+"pos": "noun",
+"senses": [
+"A style of ceramics decorated by transfer printing."
+],
+"ety": "From transfer + -ware.",
+"examples": [],
+"p": "TRANS-fer-wair"
+},
+{
+"w": "shastri",
+"pos": "noun",
+"senses": [
+"Someone who teaches the shastras."
+],
+"ety": "From Hindi शास्त्री (śāstrī).",
+"examples": [
+"Sanskrit was for him the language of the shastris, who, despite their learning, were poor and dependent."
+],
+"p": null
+}
+]

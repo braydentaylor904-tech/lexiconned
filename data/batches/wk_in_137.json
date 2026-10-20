@@ -1,0 +1,436 @@
+[
+{
+"w": "canephora",
+"pos": "noun",
+"senses": [
+"A caryatid supporting a basket on her head."
+],
+"ety": "Borrowed from Ancient Greek κανηφόρος (kanēphóros).",
+"examples": [],
+"p": null
+},
+{
+"w": "permethrin",
+"pos": "noun",
+"senses": [
+"A synthetic insecticide, C₂₁H₂₀Cl₂O₃, used to treat head lice, nits, and scabies; as an active ingredient in flea collars; and to eradicate woodworm infestations."
+],
+"ety": "From Latin perme(ō) (“to pervade”) + English -thrin.",
+"examples": [],
+"p": null
+},
+{
+"w": "changshan",
+"pos": "noun",
+"senses": [
+"Synonym of cheongsam (“robe worn by Asian men”)."
+],
+"ety": "From Mandarin 長衫／长衫 (chángshān).",
+"examples": [
+"On Tai Street, everyone's wearing masks instead of their traditional Chinese New Year changshan jackets."
+],
+"p": null
+},
+{
+"w": "hoody",
+"pos": "noun",
+"senses": [
+"The hooded crow.",
+"The hooded gull."
+],
+"ety": "From hood + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "neuralgic",
+"pos": "noun",
+"senses": [
+"A person afflicted by neuralgia."
+],
+"ety": "From neuralgia + -ic.",
+"examples": [],
+"p": null
+},
+{
+"w": "potch",
+"pos": "noun",
+"senses": [
+"A slap or spank. Alternative spellings include patsh, potsh."
+],
+"ety": "From Yiddish פּאַטש (patsh, “slap”).",
+"examples": [],
+"p": "poch"
+},
+{
+"w": "mohel",
+"pos": "noun",
+"senses": [
+"The person who performs the circumcision in a Jewish bris."
+],
+"ety": "From Hebrew מוֹהֵל (mohél), but the common pronunciations are borrowed via Yiddish מוהל (moyel).",
+"examples": [],
+"p": "MOY-ul"
+},
+{
+"w": "precipice",
+"pos": "noun",
+"senses": [
+"A very steep cliff.",
+"The brink of a dangerous situation."
+],
+"ety": "First attested in 1598, from Middle French precipice, from Latin praecipitium (“a steep place”), from praeceps (“steep”), from prae + caput (“head”), ultimately from Proto-Indo-European *kap- (“head”). Distantly related to precept through Latin praecipiō (“to teach”), from prae + capiō (“take”), ultimately from Proto-Indo-European *kap-, *keh₂p- (“to hold; to seize”).",
+"examples": [],
+"p": "PRES-ih-pis"
+},
+{
+"w": "zatch",
+"pos": "noun",
+"senses": [
+"The stomach."
+],
+"ety": "Coined by James Thurber in the 13 Clocks (1950)",
+"examples": [
+"Worse. I shall have to rip him from his guggle to his zatch.",
+"He gave some blood to the lab, and five days later was in surgery, “slit,” as he put it, “from gizzard to zatch”"
+],
+"p": null
+},
+{
+"w": "intertextuality",
+"pos": "noun",
+"senses": [
+"The idea that a given text is a response to what has already been written, be it explicit or implicit.",
+"The reference to another separate and distinct text within a text."
+],
+"ety": "Borrowed from French intertextualité.",
+"examples": [
+"When one studies the intertextuality of \"Hamlet\", one realises that William Shakespeare must have read thousands of books.",
+"All of these issues—subjectivity, intertextuality, reference, ideology—underlie the problematized relations between history and fiction in postmodernism."
+],
+"p": null
+},
+{
+"w": "karez",
+"pos": "noun",
+"senses": [
+"A qanat, in parts of central southern Asia."
+],
+"ety": "Borrowed from Persian کاریز (kârêz).",
+"examples": [],
+"p": null
+},
+{
+"w": "palmette",
+"pos": "noun",
+"senses": [
+"A motif in decorative art resembling the fan-shaped leaves of a palm tree."
+],
+"ety": "From French palmette. By surface analysis, palm + -ette.",
+"examples": [],
+"p": null
+},
+{
+"w": "burnisher",
+"pos": "noun",
+"senses": [
+"A tool used to burnish, for making smooth and shiny by rubbing."
+],
+"ety": "From burnish + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "lazyboy",
+"pos": "noun",
+"senses": [
+"A plush stuffed swivel rocking recliner armchair."
+],
+"ety": "Genericized trademark of La-Z-Boy, from lazy + boy.",
+"examples": [],
+"p": null
+},
+{
+"w": "cryosleep",
+"pos": "noun",
+"senses": [
+"A deep sleep during which the body is stored at very cold temperature, to preserve it; cryogenic sleep."
+],
+"ety": "From cryo- + sleep.",
+"examples": [],
+"p": null
+},
+{
+"w": "casuistic",
+"pos": "adjective",
+"senses": [
+"Of or related to casuistry, attempting to solve moral dilemmas by application of general rules.",
+"Similar to the arguments of casuists, particularly (figurative, derogatory) overly subtle, hair-splitting."
+],
+"ety": "From casuist + -ic.",
+"examples": [],
+"p": "kaz-yoo-IS-tik"
+},
+{
+"w": "swire",
+"pos": "noun",
+"senses": [
+"A hollow between two hills or peaks, especially with a road running through it; a vale."
+],
+"ety": "From Middle English swire, from Old English swēora, from Proto-Germanic *swerhô.",
+"examples": [],
+"p": "swy-uh"
+},
+{
+"w": "sambar",
+"pos": "noun",
+"senses": [
+"A food preparation common in southern India and Sri Lanka, made of vegetables and lentils (usually pigeon peas, also called toor dal) in a spicy tamarind and lentil flour soup base."
+],
+"ety": "From Tamil சாம்பார் (cāmpār), from Marathi सांभार (sāmbhār)/सांबार (sāmbār, “curry”), from Old Marathi सांबार (sāṃbāra), from Sanskrit सम्भार (sambhārá, “materials required for a particular purpose, provision; collection of spices”), from Proto-Indo-Aryan *sambʰārás, from Proto-Indo-Iranian *sambʰārás, from Proto-Indo-European *sem-bʰor-ó-s, from *sem- (“together, one”) + *bʰer- (“to bear, carry”) + *-ós (deverbal suffix). Doublet of Anbar and ambar.",
+"examples": [],
+"p": null
+},
+{
+"w": "krige",
+"pos": "verb",
+"senses": [
+"To perform kriging of data."
+],
+"ety": "First used by Georges Matheron, from Danie G. Krige's surname.",
+"examples": [],
+"p": null
+},
+{
+"w": "razer",
+"pos": "noun",
+"senses": [
+"Someone who razes."
+],
+"ety": "From raze + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "bastardly",
+"pos": "adjective",
+"senses": [
+"Having been born out of marriage.",
+"Of no use or purpose; useless; worthless."
+],
+"ety": "From bastard + -ly.",
+"examples": [],
+"p": null
+},
+{
+"w": "aarti",
+"pos": "noun",
+"senses": [
+"A particular Hindu prayer ritual, involving candles made from clarified butter."
+],
+"ety": "Borrowed from Hindi आरती (ārtī), from Sanskrit आरात्रिक (ārātrika).",
+"examples": [
+"There is no priest, only an enthusiastic local who leads the aarti by striking a steel plate with a spoon, the lyrics a mash of Hindi and Sanskrit, the lack of melody made up for by gusto."
+],
+"p": null
+},
+{
+"w": "farouche",
+"pos": "adjective",
+"senses": [
+"Sullen or recalcitrant."
+],
+"ety": "Unadapted borrowing from French farouche.",
+"examples": [],
+"p": "fuh-ROOSH"
+},
+{
+"w": "unbar",
+"pos": "verb",
+"senses": [
+"To unlock or unbolt a door that had been locked or bolted with a bar.",
+"To remove an impediment that obstructs the passage of (someone or something).",
+"To remove a prohibition."
+],
+"ety": "From Middle English unbarren, equivalent to un- + bar.",
+"examples": [
+"Only Enid could dare him at such a time, and even she felt occasionally that sinking of the heart which the bravest of tamers may experience as he unbars the gate of the cage."
+],
+"p": null
+},
+{
+"w": "meranti",
+"pos": "noun",
+"senses": [
+"The timber of these trees."
+],
+"ety": "From Malay meranti.",
+"examples": [
+"Homeowners can also use cedar, at $1.50 to $3 or more per foot, or exotic hardwoods like meranti from Southeast Asia or ipê from Brazil at about $3 a foot."
+],
+"p": null
+},
+{
+"w": "reeses",
+"pos": "noun",
+"senses": [
+"Synonym of peanut butter cup"
+],
+"ety": "A genericization of the trademark Reese, a popular brand of peanut butter cup, thus applied to all peanut butter cups.",
+"examples": [],
+"p": null
+},
+{
+"w": "detangle",
+"pos": "verb",
+"senses": [
+"To disentangle, remove tangles from (especially hair)."
+],
+"ety": "From de- + tangle.",
+"examples": [
+"We know that mycorrhizal fungi form and re-form their connections with plants, tangling, detangling and retangling."
+],
+"p": null
+},
+{
+"w": "tonearm",
+"pos": "noun",
+"senses": [
+"The pivoting bar that holds the pickup of a record player and conducts the resulting signal to the amplifier."
+],
+"ety": "From tone + arm.",
+"examples": [],
+"p": null
+},
+{
+"w": "kinara",
+"pos": "noun",
+"senses": [
+"A candle holder used in Kwanzaa celebrations."
+],
+"ety": "From Swahili kinara (“candlestick”), ultimately from Arabic مَنَارَة (manāra).",
+"examples": [],
+"p": "kih-NAH-ruh"
+},
+{
+"w": "rumba",
+"pos": "noun",
+"senses": [
+"A slow-paced Cuban partner dance in 4:4 time."
+],
+"ety": "Borrowed from Spanish rumba.",
+"examples": [],
+"p": "RUUM-buh"
+},
+{
+"w": "bhakt",
+"pos": "noun",
+"senses": [
+"Someone who practises bhakti; a person who is devoted to God; a devotee; a worshipper; a religious disciple."
+],
+"ety": "Transliteration of Hindi भक्त (bhakt).",
+"examples": [
+"In commenting on these stories, Ganga Giri selects the virtues of suffering and sacrifice exhibited variously by the male bhakts as characteristic of renunciant bhakti."
+],
+"p": null
+},
+{
+"w": "spiritualist",
+"pos": "noun",
+"senses": [
+"One who professes a regard for spiritual things only; one whose employment is of a spiritual character; an ecclesiastic.",
+"One who maintains the philosophic doctrine of spiritualism.",
+"One who practises spiritism (a.k.a. spiritualism); a believer in the possibility of communication with the dead; one who attempts to communicate with the dead."
+],
+"ety": "From spiritual + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "humidifier",
+"pos": "noun",
+"senses": [
+"A device that is used to increase the humidity of the air."
+],
+"ety": "From humidify + -er.",
+"examples": [
+"Even the plants look expensive. A humidifier hisses beneath her calatheas."
+],
+"p": null
+},
+{
+"w": "valorisation",
+"pos": "noun",
+"senses": [
+"realisation of capital, creation of surplus value, self-expansion of capital, increase in value"
+],
+"ety": "From Portuguese valorizacão, from valorizar (“to enhance the value of”; from valor (“value, worth”) + -izar (“-ize”)) + -acão (“-ation”).",
+"examples": [],
+"p": null
+},
+{
+"w": "squonk",
+"pos": "verb",
+"senses": [
+"To produce a raucous noise like a squawk or honk."
+],
+"ety": "Onomatopoeic; compare squawk, honk.",
+"examples": [],
+"p": "skwahngk"
+},
+{
+"w": "normale",
+"pos": "noun",
+"senses": [
+"A normal espresso drink, neither ristretto (shorter) nor lungo (longer)."
+],
+"ety": "Borrowed from Italian normale (“normal”). Doublet of normal.",
+"examples": [],
+"p": null
+},
+{
+"w": "terahertz",
+"pos": "noun",
+"senses": [
+"A unit of measurement based on one trillion hertz.",
+"One trillion hertz, 10¹² Hz."
+],
+"ety": "From tera- + hertz.",
+"examples": [],
+"p": null
+},
+{
+"w": "sheave",
+"pos": "noun",
+"senses": [
+"A wheel having a groove in the rim for a rope to work in, and set in a block, mast, or similar; the wheel of a pulley.",
+"A sliding scutcheon for covering a keyhole."
+],
+"ety": "From Middle English, from a Germanic base akin to German Scheibe, late Old Norse skífa (“slice”), all ultimately from Proto-Indo-European *skey- (“to split”). For more see shive.",
+"examples": [],
+"p": "sheev"
+},
+{
+"w": "sealant",
+"pos": "noun",
+"senses": [
+"Any material used to seal a surface so as to prevent passage of a fluid.",
+"A mixture of polymers, fillers, and pigments used to fill and seal joints where moderate movement is expected."
+],
+"ety": "From seal + -ant.",
+"examples": [],
+"p": "SEE-lunt"
+},
+{
+"w": "optionality",
+"pos": "noun",
+"senses": [
+"Quality or state in which choice or discretion is allowed."
+],
+"ety": "From optional + -ity.",
+"examples": [
+"Some offices do not follow the corporate procedure, due to a culture of optionality."
+],
+"p": null
+}
+]

@@ -1,0 +1,432 @@
+[
+{
+"w": "spiker",
+"pos": "noun",
+"senses": [
+"An engineer employed to drive in the nails that fasten the rails.",
+"A mechanical device for driving in the nails."
+],
+"ety": "From spike + -er (agent suffix).",
+"examples": [],
+"p": null
+},
+{
+"w": "repulsor",
+"pos": "noun",
+"senses": [
+"A device used to deflect or repel other objects, or for flight stability."
+],
+"ety": "From repulse + -or.",
+"examples": [],
+"p": "rih-PULS-er"
+},
+{
+"w": "declivity",
+"pos": "noun",
+"senses": [
+"A downward bend in a path."
+],
+"ety": "1610s, from French déclivité, from Latin declivitatem, dēclīvitās, from dēclivis (“a sloping downward”), from de (“down”) + clīvus (“a slope”), from Proto-Indo-European *ḱleywo-, from Proto-Indo-European *ḱley- (“to lean”) (English lean).",
+"examples": [],
+"p": "dih-KLIV-ih-tee"
+},
+{
+"w": "tightener",
+"pos": "noun",
+"senses": [
+"Something used to tighten."
+],
+"ety": "From tighten + -er. Referring to a meal, suggests the tightening of one's belt around the expanding waistline.",
+"examples": [],
+"p": "TY-tuh-ner"
+},
+{
+"w": "jammer",
+"pos": "noun",
+"senses": [
+"Any device used to jam radio reception.",
+"A musician who jams.",
+"A device (e.g. a jumar) which will slide along a rope in one direction but not the other, used in rock-climbing, caving etc.",
+"A player who attempts to score points by making their way past other players."
+],
+"ety": "From jam + -er.",
+"examples": [],
+"p": "JAM-er"
+},
+{
+"w": "cowrie",
+"pos": "noun",
+"senses": [
+"A small gastropod (Monetaria moneta, syn. Cypraea moneta) common in the Indian Ocean; its shell.",
+"Any gastropod of the family Cypraeidae; its shell."
+],
+"ety": "Mid-17th century, borrowed from Hindi कौड़ी (kauṛī).",
+"examples": [],
+"p": "KOW-ree"
+},
+{
+"w": "calzone",
+"pos": "noun",
+"senses": [
+"A baked Italian turnover made of pizza dough and stuffed with tomato, cheese and other toppings."
+],
+"ety": "Unadapted borrowing from Italian calzone (literally “stocking, trouser”). Doublet of chausson.",
+"examples": [],
+"p": "kal-ZOHN"
+},
+{
+"w": "tondo",
+"pos": "noun",
+"senses": [
+"A round picture or other work of art."
+],
+"ety": "From Italian tondo, from ritondo, rotondo (“round”), from Latin rotundus. Doublet of round.",
+"examples": [],
+"p": "TON-doh"
+},
+{
+"w": "denotation",
+"pos": "noun",
+"senses": [
+"The act of denoting, or something (such as a symbol) that denotes",
+"A first level of analysis: what the audience can visually see on a page. Denotation often refers to something literal, and avoids being a metaphor."
+],
+"ety": "From Late Latin dēnotātiō, from Latin dēnotāre (“to denote, mark out”) + -tiō (suffix forming nouns of action), from dē- (“completely”) + notāre (“to mark”); equivalent to denote + -ation.",
+"examples": [],
+"p": "dee-noh-TAY-shun"
+},
+{
+"w": "linter",
+"pos": "noun",
+"senses": [
+"The short fibres that cling to cottonseeds after the first ginning.",
+"A machine for removing these fibres.",
+"A person or device that collects lint for use in making hats etc."
+],
+"ety": "From lint + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "bejeweled",
+"pos": "adjective",
+"senses": [
+"Covered in jewels, especially as decoration."
+],
+"ety": "From bejewel + -ed.",
+"examples": [
+"It is their silly pope and the rich, bejeweled bishops who are to blame and not the Catholic people.",
+"We tried to block the glare from the lunch-break o’clock sun as we watched this babe with bejeweled nails dancing with a shirtless dude in the desert while rapping."
+],
+"p": null
+},
+{
+"w": "madrina",
+"pos": "noun",
+"senses": [
+"An animal (usually an old mare), wearing a bell and acting as the leader of a troop of pack mules."
+],
+"ety": "Borrowed from Spanish madrina.",
+"examples": [],
+"p": null
+},
+{
+"w": "solipsist",
+"pos": "noun",
+"senses": [
+"One who adheres to self-absorption and an ignorance of the views or needs of others."
+],
+"ety": "From solipsism + -ist.",
+"examples": [
+"Some of this grandiosity is to be expected. Innovators tend to be solipsists. They often want to cram every stray fact and experience into their new model."
+],
+"p": null
+},
+{
+"w": "taconite",
+"pos": "noun",
+"senses": [
+"A low-grade flint-like iron ore containing 20-30% iron."
+],
+"ety": "From Taconic + -ite, after the Taconic Mountains. The name Taconic is from a Lenape language.",
+"examples": [],
+"p": null
+},
+{
+"w": "satay",
+"pos": "noun",
+"senses": [
+"A dish made from small pieces of meat or fish grilled on a skewer and served with a spicy peanut sauce, originating from Indonesia and Malaysia."
+],
+"ety": "From Malay sate (“satay”), ultimately from Tamil சதை (catai). Doublet of sosatie and shacha.",
+"examples": [],
+"p": "sa-TAY"
+},
+{
+"w": "nosology",
+"pos": "noun",
+"senses": [
+"A treatise or written classification of diseases."
+],
+"ety": "From post-classical Latin nosologia, formed as from Ancient Greek νόσος (nósos, “disease”) + Ancient Greek -λογία (-logía, “discourse, branch of knowledge”).",
+"examples": [],
+"p": "noh-SAH-luh-jee"
+},
+{
+"w": "gatch",
+"pos": "noun",
+"senses": [
+"A form of plaster of Paris formerly used in Persia."
+],
+"ety": "From Persian [Term?].",
+"examples": [],
+"p": null
+},
+{
+"w": "complementarian",
+"pos": "noun",
+"senses": [
+"Someone who believes that men and women are equal in status but should have different and complementary roles, especially in marriage."
+],
+"ety": "From complement + -arian.",
+"examples": [],
+"p": null
+},
+{
+"w": "fundamentalism",
+"pos": "noun",
+"senses": [
+"A rigid conformity to any set of basic tenets."
+],
+"ety": "From fundamental + -ism. First used in the 1910s by American Christians.",
+"examples": [],
+"p": "fun-duh-MEN-tuh-lih-zum"
+},
+{
+"w": "dookie",
+"pos": "noun",
+"senses": [
+"swimming costume, bathing suit"
+],
+"ety": "In Scots, dookie, doukit, and douker (terms related to the British English duck, equivalent to the American English dunk) have all been used to refer to Baptists. Hence a dookie in Scots is, jocularly, someone who ducks or dunks people in water when baptising them.",
+"examples": [],
+"p": null
+},
+{
+"w": "linker",
+"pos": "noun",
+"senses": [
+"That which links."
+],
+"ety": "From link + -er",
+"examples": [],
+"p": "LING-ker"
+},
+{
+"w": "mellophone",
+"pos": "noun",
+"senses": [
+"A brass instrument frequently used in place of the French horn in marching bands and similar performance groups."
+],
+"ety": "Apparently from mellow + -phone, although compare melo-.",
+"examples": [
+"On the issue of the mellophone being used as an introductory instrument for a beginning French horn student you must consider the fact that although they look similar, the instruments are entirely different.",
+"A pupil wishing to study the French horn will make more rapid progress by having at least a year's experience on the mellophone."
+],
+"p": null
+},
+{
+"w": "fletch",
+"pos": "verb",
+"senses": [
+"To feather, as an arrow."
+],
+"ety": "A modification of fledge (“to acquire feathers”) due to the influence of fletcher (“arrow-maker”). Compare flèche.",
+"examples": [],
+"p": "flech"
+},
+{
+"w": "rabot",
+"pos": "noun",
+"senses": [
+"A rubber used in polishing marble."
+],
+"ety": "Borrowed from French rabot.",
+"examples": [],
+"p": null
+},
+{
+"w": "movability",
+"pos": "noun",
+"senses": [
+"The condition of being movable; ability or capacity to be moved.",
+"The ability to move (oneself)."
+],
+"ety": "From move + -ability.",
+"examples": [],
+"p": null
+},
+{
+"w": "affricate",
+"pos": "verb",
+"senses": [
+"To produce (a plosive) as an affricate."
+],
+"ety": "Borrowed from Latin affricātus.",
+"examples": [],
+"p": "AF-rih-kayt"
+},
+{
+"w": "shocky",
+"pos": "adjective",
+"senses": [
+"In a state of shock; suffering from shock.",
+"Characteristic of or pertaining to a shock wave."
+],
+"ety": "From shock + -y.",
+"examples": [
+"Shock! She's going to get shocky!",
+"One young girl, who looked pale and shocky, was wandering around the first floor, pausing to pick up a fallen book and trying to reshelve it.",
+"Might be a bit shocky. Does wonders for the shocky types a cup of tea does."
+],
+"p": null
+},
+{
+"w": "lechwe",
+"pos": "noun",
+"senses": [
+"Kobus leche, an African antelope that inhabits marshy regions."
+],
+"ety": "From Tswana [Term?], or from Sotho letsa (“antelope”).",
+"examples": [],
+"p": "LECH-way"
+},
+{
+"w": "forma",
+"pos": "noun",
+"senses": [
+"Synonym of form (“the component of a thing that determines its kind”)."
+],
+"ety": "Learned borrowing from New Latin fōrma. Doublet of form.",
+"examples": [],
+"p": "FOR-muh"
+},
+{
+"w": "revolutionise",
+"pos": "verb",
+"senses": [
+"To change radically or significantly, as in a revolution."
+],
+"ety": "From revolution + -ise.",
+"examples": [],
+"p": null
+},
+{
+"w": "speakout",
+"pos": "noun",
+"senses": [
+"A public forum or meeting at which members of a community speak out about an issue facing the community, e.g. rape."
+],
+"ety": "Deverbal from speak out.",
+"examples": [
+"What they lack, though, is something that has to do with the stepping of the individual storyteller into the public when she (or he) tells her (or his) own rape story in a speakout."
+],
+"p": null
+},
+{
+"w": "favouritism",
+"pos": "noun",
+"senses": [
+"The unfair favouring of one person or group at the expense of another."
+],
+"ety": "From favourit(e) + -ism.",
+"examples": [
+"Heidi Alexander has experience of London. As Transport Secretary, she will also be under pressure not to show favouritism to the capital."
+],
+"p": null
+},
+{
+"w": "biogenic",
+"pos": "adjective",
+"senses": [
+"produced by living organisms, or by a biological process",
+"essential for the maintenance of life"
+],
+"ety": "From bio- + -genic.",
+"examples": [],
+"p": null
+},
+{
+"w": "feely",
+"pos": "adjective",
+"senses": [
+"Tending to feel things by physically touching them."
+],
+"ety": "From feel + -y.",
+"examples": [],
+"p": "FEE-lee"
+},
+{
+"w": "igniter",
+"pos": "noun",
+"senses": [
+"Any device that is used to ignite something, especially a fuel mixture, or a charge of explosive"
+],
+"ety": "From ignite + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "spoked",
+"pos": "adjective",
+"senses": [
+"Having spokes."
+],
+"ety": "From spoke + -ed.",
+"examples": [
+"It features equal-sized spoked hickory wheels, pneumatic tires, a chain drive, and an elliptical chain ring, something Japanese manufacturers reintroduced on bicycles in the late 1970s."
+],
+"p": null
+},
+{
+"w": "multinodular",
+"pos": "adjective",
+"senses": [
+"Having multiple nodules."
+],
+"ety": "From multi- + nodular.",
+"examples": [],
+"p": null
+},
+{
+"w": "pearlie",
+"pos": "noun",
+"senses": [
+"A pearly king or pearly queen."
+],
+"ety": "From pearl + -ie.",
+"examples": [],
+"p": null
+},
+{
+"w": "magnetization",
+"pos": "noun",
+"senses": [
+"The act of magnetizing, or the state of being magnetized",
+"The magnitude of the magnetic strength of a magnetized object."
+],
+"ety": "From magnetize + -ation.",
+"examples": [],
+"p": "mag-nih-ty-ZAY-shun"
+},
+{
+"w": "weaponization",
+"pos": "noun",
+"senses": [
+"American and Oxford British English standard spelling of weaponisation."
+],
+"ety": "From weapon + -ization.",
+"examples": [],
+"p": "wep-uh-nuh-ZAY-shin"
+}
+]

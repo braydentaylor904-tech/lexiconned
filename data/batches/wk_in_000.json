@@ -1,0 +1,572 @@
+[
+{
+"w": "handout",
+"pos": "noun",
+"senses": [
+"An act of handing out something.",
+"A printed sheet such as a leaflet or pamphlet, or a worksheet, that is given out free of charge (usually by hand) for a certain use, for example as an advertisement or for information.",
+"Synonym of press release (“an official written statement that is sent to the media so that it can be publicized”)."
+],
+"ety": "Deverbal from hand out.",
+"examples": [
+"Therefore, it is often recommended that the framework or outline for a lecture be provided to students on the chalkboard or in a handout so they can more easily follow the logic as the lecture progresses."
+],
+"p": "HAND-owt"
+},
+{
+"w": "conventionality",
+"pos": "noun",
+"senses": [
+"Something conventional; a convention."
+],
+"ety": "From conventional + -ity.",
+"examples": [
+"The Sugar Pine is as free from conventionalities of form and motion as any oak."
+],
+"p": "kun-ven-shuh-NAL-ih-tee"
+},
+{
+"w": "embayment",
+"pos": "noun",
+"senses": [
+"A bay. (the water)",
+"The shoreline of a bay, an indentation in a shoreline. (the land, not the water)",
+"A topographical feature that used to be a bay, like the Mississippi embayment.",
+"The process by which a bay is formed."
+],
+"ety": "From em- + bay + -ment.",
+"examples": [
+"The path climbed along a wall of purple sandstone above an embayment and in the sunlit shadows below him he could see the long cataphracted forms of gars lying in a kind of electric repose among the reeds."
+],
+"p": "im-BAY-munt"
+},
+{
+"w": "scram",
+"pos": "verb",
+"senses": [
+"To leave in a hurry; to go away."
+],
+"ety": "Probably either: * a clipping of scramble by apocope; or * from dialectal German schramm, the imperative singular form of schrammen (“to scratch, scrape”), from Late Middle High German schramm, schramme (“a graze, scratch”); further etymology unknown.",
+"examples": [
+"What are you kids doing on my lawn? Scram!",
+"Maybe when he found that Chet's jalopy was gone, he felt he'd better scram, and forgot the coat and hat.",
+"The boy who was playing glowered at the intruder and growled. \"Well, scram Kibitzer; scram.\""
+],
+"p": "skram"
+},
+{
+"w": "gmina",
+"pos": "noun",
+"senses": [
+"commune; municipality; township; the smallest administrative territorial division and the first level of regional government in Poland"
+],
+"ety": "From Polish gmina, from Middle High German gemeine, gemeinde. Doublet of mean, common, and commune.",
+"examples": [
+"Details of the growth rates of individual gminy are in Skorowidz gmin Rzeczypospolitej Polski, Statystyka Polski GSU, Series B, pt. 1, no. 8 (Warsaw, 1933), p. 61."
+],
+"p": "guh-MEE-nuh"
+},
+{
+"w": "tabular",
+"pos": "adjective",
+"senses": [
+"Having a flat (planar) horizontal surface at top.",
+"Organized as a table or list.",
+"Calculated by means of a table."
+],
+"ety": "From Late Latin tabulāris. By surface analysis, tabula + -ar, or, by surface analysis, table + -ar. Compare fabular.",
+"examples": [
+"Mesas got their name from being tabular.",
+"In technical communication, don't use prose to present information that lends itself to a tabular presentation."
+],
+"p": "TAB-yoo-luh"
+},
+{
+"w": "whisker",
+"pos": "noun",
+"senses": [
+"That part of the beard which grows upon the sides of the face, usually of the male, or upon the chin, or upon both.",
+"A hair of the beard.",
+"One of the long, projecting hairs growing at the sides of the mouth of a cat, or other animal.",
+"The (very small) distance between two things.",
+"One who, or that which, whisks, or moves with a quick, sweeping motion."
+],
+"ety": "Inherited from Middle English wisker, whisk (verb) + -er.",
+"examples": [
+"It missed falling on your foot by a whisker.",
+"Boosted by their reward, Wolves continued to push forward and Jamie O'Hara came within a whisker of doubling the lead, smashing a 25-yard effort on to the bar."
+],
+"p": "wih-sker"
+},
+{
+"w": "archfiend",
+"pos": "noun",
+"senses": [
+"A chief fiend (devil, demon or monster).",
+"A diabolically evil person."
+],
+"ety": "From arch- + fiend. Compare German Erzfeind, Dutch aartsvijand.",
+"examples": [
+"Seven chief demons, seven archfiends, aid Ahriman in his struggle against the forces of light."
+],
+"p": "ARCH-feend"
+},
+{
+"w": "vexed",
+"pos": "adjective",
+"senses": [
+"annoyed, irritated or distressed",
+"much debated, discussed or disputed"
+],
+"ety": "From Middle English vexed, vexede, vexit, vixid, equivalent to vex + -ed.",
+"examples": [
+"She became more and more vexed as she struggled to cope with the demands of the job.",
+"He would be left in no doubt that they were annoyed. He might even go so far as to deduce that they were quite vexed."
+],
+"p": "VEKST"
+},
+{
+"w": "saturate",
+"pos": "verb",
+"senses": [
+"To cause to become completely permeated with, or soaked (especially with a liquid).",
+"To fill thoroughly or to excess."
+],
+"ety": "The adjective is first attested in the second part of the 15ᵗʰ century, in Middle English, the verb in 1538, the noun in 1921; inherited from Middle English saturat(e) (“satiated, satisfied”), borrowed from Latin saturātus, perfect passive participle of saturō (“to fill, satisfy, quench”) (see -ate (etymology 1, 2 and 3)), from satur (“full”) + -ō (verb-forming suffix).",
+"examples": [
+"After walking home in the driving rain, his clothes were saturated.",
+"Innumerable flocks and herds covered that vast expanse of emerald meadow, saturated with the moisture of the Atlantic.",
+"Modern television is saturated with violence."
+],
+"p": "SACH-uh-rayt"
+},
+{
+"w": "fizzy",
+"pos": "adjective",
+"senses": [
+"Containing bubbles.",
+"Lively, vivacious.",
+"Makes a hissing sound."
+],
+"ety": "From fizz + -y.",
+"examples": [
+"Fizzy drinks are also known as carbonated beverages."
+],
+"p": "FIZ-ee"
+},
+{
+"w": "aubade",
+"pos": "noun",
+"senses": [
+"A poem or song evoking or greeting the dawn or early morning.",
+"A morning love song, or a song of lovers parting in the morning.",
+"A concert held at dawn or in the morning, especially outdoors."
+],
+"ety": "Borrowed from French aubade, from Old French albade, from Old Spanish albada (“musical or poetic composition to be performed in the morning”), from alba (“dawn”), from Vulgar Latin *alba (“dawn; sunrise”), from Latin albus (“bright, clear; white”), ultimately from Proto-Indo-European *albʰós (“white”).",
+"examples": [
+"And there he lingered till the crowing cock, / The Alectryon of the farmyard and the flock, / Sang his aubade with lusty voice and clear, / To tell the sleeping world that dawn was near.",
+"Alladad Khan woke to the far crying of kampong cocks in the dark. That noise had been the farmyard aubade in the Punjab in his dream."
+],
+"p": "oh-BAHD"
+},
+{
+"w": "flaneur",
+"pos": "noun",
+"senses": [
+"One who wanders aimlessly, who roams, who travels at a lounging pace. One who walks to observe and enjoy rather than to get somewhere.",
+"An idler, a loafer."
+],
+"ety": "From French flâneur (“loafer, idler, dawdler, loiterer”).",
+"examples": [
+"More than any other urban type, the flaneur suggests the contradictions of the modern city, caught between the insistent mobility of the present and the visible weight of the past.",
+"Portsmouth is a flaneur’s dream come true, a place that simply begs to be explored randomly and on foot.",
+"The Byrons and Brookes who had defied life from mountain tops were in the end but flaneurs and poseurs, at best mistaking the shadow of courage for the substance of wisdom."
+],
+"p": "flah-NOOR"
+},
+{
+"w": "throe",
+"pos": "noun",
+"senses": [
+"A severe pang or spasm of pain, especially one experienced when the uterus contracts during childbirth, or when a person is about to die.",
+"The pain of labour or childbirth; the suffering of death.",
+"Any severe pang or spasm, especially an outburst of feeling; a paroxysm.",
+"A hard struggle, especially one associated with the beginning or finishing of a task."
+],
+"ety": "The noun is probably derived partly: * from Middle English throu, throwe (“(chiefly in the plural) uterine contraction during the birth of a child; pain experienced while giving birth; suffering; a pain; emotional distress, anxiety”) [and other forms], perhaps from: ** Old English þrawu (rare), a variant of þrēa (“affliction, torment; disaster; oppression; a rebuke; severity; threat”), from Proto-West Germanic *þrau, from Proto-Germanic *þrawō (“longing; suffering”), from Proto-Indo-European *trewh₁-; and ** Old English þrōwian (“to endure, suffer”), from Proto-Germanic *þrōwijaną, probably fr",
+"examples": [
+"Nature has her tortures as well as art, and how happy should we think the man who escapes from the throes of a mortal and painful disorder, in the space of a short half hour?"
+],
+"p": "throh"
+},
+{
+"w": "untie",
+"pos": "verb",
+"senses": [
+"To loosen, as something interlaced or knotted; to disengage the parts of.",
+"To free from fastening or from restraint; to let loose; to unbind.",
+"To resolve; to unfold; to clear.",
+"To become untied or loosed."
+],
+"ety": "From Middle English untien, unteyen, untyȝen, untiȝen, from Old English untīġan (“to untie”), equivalent to un- + tie.",
+"examples": [
+"Sacharissa's captive fain / Would untie his iron chain.",
+"Though you untie the winds, and let them fight / Against the churches.",
+"All the evils of an untied tongue we put upon the accounts of drunkenness."
+],
+"p": "un-TY"
+},
+{
+"w": "cushy",
+"pos": "adjective",
+"senses": [
+"Making few demands; comfortable, easy.",
+"Comfortable, often in a way that will suit a person's body; ergonomic."
+],
+"ety": "Borrowed from Hindustani خوشی (xośī) / ख़ुशी (xuśī), from Classical Persian خوشی (xuši, “happiness”).",
+"examples": [
+"This is a really cushy job. Mostly I just sit around drinking tea.",
+"But if it really is such a cushy number, why doesn’t Britain have enough drivers – and what does it take to join their ranks?"
+],
+"p": "KUUSH-ee"
+},
+{
+"w": "mitred",
+"pos": "adjective",
+"senses": [
+"Wearing an abbot's or bishop's mitre.",
+"Having a mitre joint."
+],
+"ety": "From Middle English mytred; equivalent to mitre (“pointed hat”) + -ed.",
+"examples": [
+"Their leaves were green when the Abbey rose in splendour, and mitred abbots walked in their shadow.",
+"Again I bestride the mitred, leather-winged steed."
+],
+"p": "MY-terd"
+},
+{
+"w": "combustible",
+"pos": "adjective",
+"senses": [
+"Capable of burning.",
+"Easily kindled or excited; quick; fiery; irascible."
+],
+"ety": "From Middle French combustible [from combust (past participle of comburir) + -ible] and Latin combustibilis. By surface analysis, combust + -ible.",
+"examples": [
+"Dumping fertilizer on top of whatever mysterious goop was in the storage tank created a combustible mix which caught fire.",
+"Sin is to the soul like fire to combustible matter.",
+"Arnold, however, was a combustible character."
+],
+"p": "kum-BUS-tih-bul"
+},
+{
+"w": "depress",
+"pos": "verb",
+"senses": [
+"To press down.",
+"To make depressed, sad or bored.",
+"To bring down or humble; to abase (pride, etc.)."
+],
+"ety": "From Middle English depressen, from Old French depresser, from Latin dēpressus, perfect participle of dēprimō (“to press down, to weigh down”), from dē- (“off, away, down, out”) + premō (“to press”).",
+"examples": [
+"Depress the upper lever to start the machine."
+],
+"p": "dih-PRES"
+},
+{
+"w": "anthill",
+"pos": "noun",
+"senses": [
+"A cone-shaped structure built from sediment and other available materials by ants or white ants (termites), and beneath which the colony nests."
+],
+"ety": "From Middle English ametehul, amptehille, from Old English ǣmethyll, equivalent to ant + hill.",
+"examples": [
+"On arrival at Edinburgh Waverley, I fight my way through the throngs of tourists and locals turning the place into a human anthill."
+],
+"p": "ANT-hil"
+},
+{
+"w": "transpire",
+"pos": "verb",
+"senses": [
+"To give off (vapour, waste matter etc.); to exhale (an odour etc.).",
+"To become known; to escape from secrecy.",
+"To happen, take place."
+],
+"ety": "Borrowed from Middle French transpirer, from Medieval Latin transpirare (“to breathe through”), from Latin trans (“across”) spirare (“to breathe”). The sense “to become known” is also present in French, while the sense “to happen” is not; the latter probably developed in English from the former.",
+"examples": [
+"It eventually transpired that the murder victim had been a notorious blackmailer.",
+"The story of Paulina's and Maximilian's mutual attachment had transpired through many of the travellers.",
+"Hubert then recommends M. Leproux to be punctual to meet him at the rendezvous agreed on between them, where a third individual, whose name did not transpire, was to join them."
+],
+"p": "tran-SPY-er"
+},
+{
+"w": "flasher",
+"pos": "noun",
+"senses": [
+"Anything that flashes, especially a device that switches a light on and off.",
+"An indicator or turn signal."
+],
+"ety": "From flash + -er.",
+"examples": [
+"Look here, look at this fire truck! It has flashers and sirens, and if you push the button at the bottom, it moves by itself."
+],
+"p": "FLASH-er"
+},
+{
+"w": "shive",
+"pos": "noun",
+"senses": [
+"A slice, especially of bread.",
+"A beam or plank of split wood.",
+"A flat, wide cork for plugging a large hole or closing a wide-mouthed bottle."
+],
+"ety": "A parallel form of sheave, from Middle English schyve, from Proto-West Germanic *skībā, from Proto-Germanic *skībǭ, presumably through an Old English *sċīfe (though it is not attested before the Middle English period). Cognate with German Scheibe, late Old Norse skífa (“slice”), brauðskífa (“slice of bread”) (whence Danish skive (“disc, slice”)), Dutch schijf (“disc, slice”).",
+"examples": [
+"In my cool room with the shutters shut and the thin shives of air and light coming through the slats, I cried myself to sleep in an overloud selfpitying transport.",
+"If the conditioning continues to be fairly brisk, a wooden tut might appear to distort a little under the stress of the internal pressure, with the beer seeping out around the tut and shive."
+],
+"p": "shive"
+},
+{
+"w": "introverted",
+"pos": "adjective",
+"senses": [
+"Thinking about internal or spiritual matters.",
+"Of or characteristic of the personality of an introvert: thoughtful, reflective.",
+"Arranged so that two similar words, lines, etc. form the middle of the structure."
+],
+"ety": "From introvert + -ed, q.v.",
+"examples": [
+"An extraverted individual can hardly understand the necessity that forces the introverted to accomplish his adaptation by first formulating a general conception.",
+"The introverted type is characterised by the fact that his libido is turned towards his own personality to a certain extent.",
+"There is a tendency to equate ‘introverted’ with ‘withdrawn’ or ‘schizoid’."
+],
+"p": "IN-truh-vur-tud"
+},
+{
+"w": "upend",
+"pos": "verb",
+"senses": [
+"To end up; to set on end.",
+"To tip or turn over.",
+"To destroy, invalidate, overthrow, or defeat.",
+"To affect or upset drastically."
+],
+"ety": "From up- + end.",
+"examples": [
+"When he upended the bottle of water over his sleeping sister, the lid popped off and surprised them both.",
+"The scientific evidence upended the popular myth.",
+"James Meredith's forced admission was a milestone in upending the old order in America's most segregated state, a kind of race relations ground zero."
+],
+"p": "up-END"
+},
+{
+"w": "harmonize",
+"pos": "verb",
+"senses": [
+"To be in harmonious agreement.",
+"To play or sing in harmony.",
+"To provide parts to.",
+"To bring things into harmony, or to make things compatible; to reconcile; juggle.",
+"To provide the harmony for a melody."
+],
+"ety": "From French harmoniser. By surface analysis, harmony + -ize.",
+"examples": [
+"This explanation of the clan totem harmonizes with the supposed effect of killing one of the totem species."
+],
+"p": "HAR-muh-nize"
+},
+{
+"w": "tubby",
+"pos": "adjective",
+"senses": [
+"stout, rotund",
+"Resembling a tub",
+"sounding dull and without resonance or freedom of sound."
+],
+"ety": "From tub + -y. False cognate with chubby, even though they are often interchangeable.",
+"examples": [
+"Grace bent to her oars with a springing verve and force which made the tubby little boat draw towards the shore, the whispering lapse of water gliding under its sides all the while.",
+"The clerk vanished, to be replaced a minute later by a tubby Indian with exhausted, visionary eyes."
+],
+"p": "TUB-ee"
+},
+{
+"w": "imprecation",
+"pos": "noun",
+"senses": [
+"The act of imprecating, or invoking evil upon someone; a prayer that a curse or calamity may befall someone."
+],
+"ety": "Learned borrowing from Latin imprecātiō (“calling down of curses”), from imprecor (“call down, invoke”).",
+"examples": [
+"Her son turned to look at her as she reeled and swayed in the middle of the room, her fierce face convulsed with passion, her blotched arms raised high in imprecation. \"May Gawd curse her forever,\" she shrieked."
+],
+"p": "im-prih-KAY-shun"
+},
+{
+"w": "scraggly",
+"pos": "adjective",
+"senses": [
+"Rough, scruffy, or unkempt.",
+"Jagged or uneven; scraggy."
+],
+"ety": "As if from a verb *scraggle (in turn from scrag). Equivalent to scrag + -le + -ly.",
+"examples": [
+"The sunburn of my face, what little of it could be seen through a scraggly growth of beard, had faded to a sickly yellow.",
+"Faintly from the street scraggly children's voices singing a yule song. Miss Tomson going to the window. \"Hey come here Mr Smith look at this, isn't that sweet, group of urchins, they're singing.\"",
+"What he painted was scenes of the Old West, cowboys and Indians, cattle and horses. Pictures scraggly with sagebrush."
+],
+"p": "SKRAG-uh-lee"
+},
+{
+"w": "gorgon",
+"pos": "noun",
+"senses": [
+"A vicious female monster from Greek mythology with sharp fangs and hair of living, venomous snakes. One of the three sisters: Medusa, Stheno and Euryale",
+"An intimidating, ugly, or disgusting woman; anything hideous or horrid."
+],
+"ety": "From Middle English gorgon, from Latin Gorgō, from Ancient Greek Γοργώ (Gorgṓ), from γοργός (gorgós, “terrible”). Possibly from the same root as the Sanskrit word \"garğ\" (गर्जन), which is defined as a guttural sound, similar to the growling of a beast, thus possibly originating as an onomatopoeia.",
+"examples": [
+"I'll shrowd this Gorgon from all humane view.",
+"Swilling martinis and spewing venom, Phyllis is a particularly unappetizing gorgon, telling us at one point that an acquaintance of hers is aroused by the Heimlich maneuver."
+],
+"p": "GOR-gun"
+},
+{
+"w": "purlieu",
+"pos": "noun",
+"senses": [
+"The ground on the edges of a forest, especially when partly subject to the same forest laws concerning game hunting etc.",
+"The outskirts of any place; an adjacent district; the environs or neighborhood; milieu."
+],
+"ety": "From Middle English purlewe (“piece of land on the edge of a forest”), modification under the influence of Old French lieu (“place”) of porale, purale (“royal perambulation”), from Old French porale, from poraler (“to traverse”), from por- (“forth”) (from Latin prō-) + aler, aller (“to go”).",
+"examples": [
+"Whether Lady Anne knew or suspected who it was that drew his steps from the purlieus of fashion he knew not, nor held himself bound to explain.",
+"Bred up, like a bailiff or a shabby attorney, about the purlieus of the Inns of Court, Shepherd’s Inn is always to be found in the close neighbourhood of Lincoln’s-Inn Fields, and the Temple.",
+"The mission occupied eight or ten ares of land, a barren purlieu that held a few goats and burros."
+],
+"p": "PURL-yoo"
+},
+{
+"w": "titrate",
+"pos": "verb",
+"senses": [
+"To ascertain the amount of a constituent in a solution (or other mixture) by measuring the volume of a known concentration (the \"standard solution\") needed to complete a reaction.",
+"To precisely control."
+],
+"ety": "Modelled after French titrer. Equivalent to French titre (“title, quality, chemical proportion”) + -ate (verb-forming suffix).",
+"examples": [
+"He was obsessed with making LSD even purer than Sandoz, producing it first in powder form in gelatin capsules as well as light-blue liquid (“Mother's Milk”) that was easily recognizable when titrated onto sugar cubes.",
+"In crisis debriefing, because it is done in group sessions, you can’t titrate the amount of exposure to the individual, so some may get more upset."
+],
+"p": "TIT-rayt"
+},
+{
+"w": "endocrinologist",
+"pos": "noun",
+"senses": [
+"A person who is skilled at, or practices, endocrinology."
+],
+"ety": "From endocrinology + -ist.",
+"examples": [
+"Some endocrinologists argue that our core understanding of T, as a fundamentally male sex hormone, is inherently flawed.",
+"They standardize the terminology that professionals should use with patients and reaffirms the role that an endocrinologist should play in the patient’s broader individualized care."
+],
+"p": "EN-doh-krin-ol-uh-jist"
+},
+{
+"w": "phantasia",
+"pos": "noun",
+"senses": [
+"A phantasm (an impression received through the senses) or the faculty of receiving or representing these impressions.",
+"Something imaginary; a fantasy."
+],
+"ety": "Borrowed from Latin phantasia (“fancy, fantasy; imagination”), and from its etymon Ancient Greek φᾰντᾰσῐ́ᾱ (phăntăsĭ́ā, “appearance, look; display, presentation; pageantry, pomp; impression, perception; image”), from φᾰ́ντᾰσῐς (phắntăsĭs) + -ῐ́ᾱ (-ĭ́ā, suffix forming feminine abstract nouns). Φᾰ́ντᾰσῐς (Phắntăsĭs) is derived from φᾰντᾰ́ζω (phăntắzō, “to make visible, show; to become visible, appear; to imagine”), from φαίνω (phaínō, “to appear; to reveal; to shine”), ultimately from Proto-Indo-European *bʰeh₂- (“to shine”). The English word is a doublet of fancy, fantasia, fantasy, and phantas",
+"examples": [
+"What we consider a clear logical conclusive chain of argument is as often a phantasia."
+],
+"p": "fan-TAY-zee-uh"
+},
+{
+"w": "acrid",
+"pos": "adjective",
+"senses": [
+"Sharp and harsh, or bitter and not to the taste.",
+"Causing heat and irritation.",
+"Caustic; bitter; bitterly irritating."
+],
+"ety": "From Latin ācris, from ācer (“sharp”); probably assimilated in form to acid. Compare eager.",
+"examples": [
+"The bombardier beetle sprays acrid secretions to defend itself.",
+"In a chaotic, 90-minute back-and-forth, the two major party nominees expressed a level of acrid contempt for each other unheard-of in modern American politics."
+],
+"p": "AK-rid"
+},
+{
+"w": "rationalization",
+"pos": "noun",
+"senses": [
+"A statement of one's motives, or of the causes of some event."
+],
+"ety": "First attested in 1831. From French rationalisation, equivalent to rational + -ization or rationalize + -ation.",
+"examples": [
+"Her self-flagellating rationalization for the theft was mostly ignored by the jury.",
+"But, he insisted, he was neither a “Union Saver” nor a “freedom shrieker.” He rejected all high-flown rationalizations for the war effort — “to hell with the devilish twaddle about freedom.”",
+"After every shooting, blame and rationalizations fly. I know, because I was shot in the head at a 2011 congressional event near my home in Tucson, Ariz. Eighteen other people were shot at that event, six of whom died."
+],
+"p": "rash-uh-nuh-ly-ZAY-shun"
+},
+{
+"w": "knackered",
+"pos": "adjective",
+"senses": [
+"Broken, inoperative."
+],
+"ety": "From \"ready for the knacker's yard\" or \"fit to be knackered\", meaning \"worn-out livestock, fit to be slaughtered and rendered\".",
+"examples": [
+"In the end though he had to admit that the car was knackered...",
+"We take an old knackered machine out to China and say, 'Copy that, brand new,' and they do."
+],
+"p": "NAK-erd"
+},
+{
+"w": "protoplast",
+"pos": "noun",
+"senses": [
+"The first-created human; Adam.",
+"The first person in a given family, lineage etc.; an ancestor."
+],
+"ety": "From Middle French prothoplaste, and its source Late Latin protoplastus, from Hellenistic Ancient Greek πρωτόπλαστος (prōtóplastos, “first-formed”), from Ancient Greek πρωτο- (prōto-) + πλαστός (plastós, “formed, moulded”).",
+"examples": [
+"Habsburg tradition insists that the protoplast of the family was called Guntram."
+],
+"p": "PROH-tuh-plast"
+},
+{
+"w": "auton",
+"pos": "noun",
+"senses": [
+"A machine or robot, usually in the form of a living being, designed to follow a precise sequence of instructions."
+],
+"ety": "Coined by Robert Holmes in 1969, from a contraction of automaton.",
+"examples": [
+"Not far away in the woods the Auton had been standing motionless under a tree. It was shaped like a man but it was not human."
+],
+"p": "AH-tahn"
+},
+{
+"w": "elide",
+"pos": "verb",
+"senses": [
+"To leave out or omit (something).",
+"To conflate; to smear together; to blur the distinction between."
+],
+"ety": "From Latin ēlīdō (“to knock, dash or strike out”), from ex- (“out, away”) + laedō (“to strike, collide, hurt”) (whence e- (“assimilated form of ex-”)).",
+"examples": [
+"Graham Hough's apparently objective assertion that 'Ozymandias' is 'extremely clear and direct', for example, elides the question of 'to whom?'."
+],
+"p": "ih-LIDE"
+}
+]

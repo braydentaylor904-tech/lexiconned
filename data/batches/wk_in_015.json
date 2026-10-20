@@ -1,0 +1,554 @@
+[
+{
+"w": "rectenna",
+"pos": "noun",
+"senses": [
+"A special type of antenna that converts microwave energy into direct current electricity."
+],
+"ety": "Blend of rectifying + antenna.",
+"examples": [
+"This leads to highly efficient photon-to-electron conversion, orders of magnitude larger than conventional rectennas."
+],
+"p": "rek-TEN-uh"
+},
+{
+"w": "spaceman",
+"pos": "noun",
+"senses": [
+"An astronaut, often a male astronaut.",
+"A humanoid extraterrestrial."
+],
+"ety": "From space + -man.",
+"examples": [
+"I want to be a spaceman when I grow up.",
+"A spaceman from Mars could easily pick out the most civilized nations here. They are the only ones who know how to make atom bombs.",
+"He was out UFO-hunting in the Mojave Desert, California, when he was greeted by a tall, blond spaceman from Venus"
+],
+"p": "SPAYS-man"
+},
+{
+"w": "biphobic",
+"pos": "adjective",
+"senses": [
+"Exhibiting or characteristic of biphobia."
+],
+"ety": "From bi + -phobic.",
+"examples": [
+"If counselors are homophobic or biphobic, they should refer clients facing those issues to a counselor who could be objective.",
+"One such article appeared in the April 3rd issue of the New York Times: \"AIDS Specter for Women: The Bisexual Man,\" a nasty, biphobic piece of journalism."
+],
+"p": "by-FOH-bik"
+},
+{
+"w": "libation",
+"pos": "noun",
+"senses": [
+"The act of pouring a liquid, most often wine, in sacrifice on the ground, on a ritual object, or on a victim, in honor of some deity.",
+"The wine or liquid thus poured out.",
+"A beverage, especially an alcoholic one."
+],
+"ety": "From Latin lībātiō, from lībāre (“to take a little from anything, to taste, to pour out as an offering”).",
+"examples": [
+"While we to Jove the pure libations pay, Than Jove what apter claims the hallow'd lay?"
+],
+"p": "ly-BAY-shun"
+},
+{
+"w": "namer",
+"pos": "noun",
+"senses": [
+"One who names, or calls by name."
+],
+"ety": "From name + -er.",
+"examples": [
+"It was that veteran namer of geological periods Charles Lyell who coined the term Pleistocene."
+],
+"p": "NAYM-er"
+},
+{
+"w": "javelin",
+"pos": "noun",
+"senses": [
+"A light spear thrown with the hand and used as a weapon.",
+"A metal-tipped spear thrown for distance in an athletic field event.",
+"A javelinfish (Coelorinchus australis)."
+],
+"ety": "From Middle English chafeveleyn, gavelong, from Old French javelline, diminutive of javelot, diminutive of *javel, from Vulgar Latin *gabalus, from Gaulish gabulum (compare Old Irish gabul (“fork”), Welsh gafl), from Proto-Celtic *gablā (“fork, forked branch”), from Proto-Indo-European *gʰeh₁bʰ-. The Old French term was also borrowed into Middle Low German as gaveline, and into Middle High German as gabilot. Cognate with gavelock, gaffle.",
+"examples": [
+"Flies the javelin swifter to its mark, / Launched by the vigour of a Roman arm?",
+"With what apprehensions we proceeded, ignorant at what moment we might be greeted by the javelin of some ambushed savage!",
+"Searching through snow / For the javelin I had not / Meant to throw right at you / For if it had hit its mark / There’d be blood in the place / Where you stood"
+],
+"p": "JAV-uh-lin"
+},
+{
+"w": "envoi",
+"pos": "noun",
+"senses": [
+"A short stanza at the end of a poem, used either to address a person or to comment on the preceding body of the poem."
+],
+"ety": "Borrowed from French envoi.",
+"examples": [
+"From the pulsing throb of the very opening, this was a detailed, incisive playing, culminating in an envoi glowing enough to provide the catharsis this programme so uncompromisingly demanded."
+],
+"p": "EN-voy"
+},
+{
+"w": "biltong",
+"pos": "noun",
+"senses": [
+"A South African food categorized by strips of lean meat cured by salting and drying, similar to American jerky."
+],
+"ety": "Borrowed from Afrikaans biltong, from bil (“buttock, hindquarter”) + tong (“tongue, strip”).",
+"examples": [
+"The rest of the buck's flesh we cut into strips and hung in the sun to dry into 'biltong,' as, I believe, the South African Dutch call flesh thus prepared."
+],
+"p": "BIL-tong"
+},
+{
+"w": "strew",
+"pos": "verb",
+"senses": [
+"To distribute objects or pieces of something over an area, especially in a random manner.",
+"To populate with at random points; to cause to appear randomly distributed throughout."
+],
+"ety": "From Middle English strewen, strawen, streowen, from Old English strewian, strēawian, strēowian (“to strew, scatter”), from Proto-West Germanic *strauwjan, from Proto-Germanic *strawjaną (“to strew”), from Proto-Indo-European *strew- (“to spread, scatter”). Cognate with Scots strow, straw (“to strew”), West Frisian streauwe (“to strew”), Dutch strooien (“to strew, scatter, sprinkle”), German streuen (“to strew, scatter”), Swedish strö (“to strew”), Icelandic strá (“to strew”), Norwegian Nynorsk strå (“to strew”).",
+"examples": [
+"The files had been strewn all over the floor.",
+"Sweet flower, with flowers thy bridal bed I strew.",
+"And strewed his mangled limbs about the field."
+],
+"p": "stroo"
+},
+{
+"w": "wagyu",
+"pos": "noun",
+"senses": [
+"Any of several Japanese breeds of cattle genetically predisposed to intense marbling and to producing a high percentage of oleaginous unsaturated fat.",
+"Beef from such cattle."
+],
+"ety": "From Japanese 和(わ)牛(ぎゅう) (wagyū), from Middle Chinese 和 (MC hwa, “a gloss for 倭 (MC 'wa, “Japan”)”) + 牛 (MC ngjuw, “cow”).",
+"examples": [
+"Slices of wagyu beef come with spheres of root vegetables and mini-towers of polenta."
+],
+"p": "WAG-yoo"
+},
+{
+"w": "devilish",
+"pos": "adjective",
+"senses": [
+"Resembling a devil.",
+"Evil, wicked.",
+"Roguish or mischievous.",
+"Excessive, extreme."
+],
+"ety": "From Middle English develissh, develyssh, equivalent to devil + -ish. Cognate with Saterland Frisian düvelsk, düüwelsk (“devilish”), West Frisian duvelsk (“devilish”), Dutch duivels (“devilish”), German Low German düvelsk (“devilish”), German teuflisch (“devilish”), Danish djævelsk (“devilish”), Swedish djävulsk (“devilish”), Norwegian djevelsk (“devilish”).",
+"examples": [
+"A devilish effort yielded a devilish success.",
+"I had a devilish time moving the wardrobe downstairs."
+],
+"p": "DEV-uh-lish"
+},
+{
+"w": "larch",
+"pos": "noun",
+"senses": [
+"Wood of the larch."
+],
+"ety": "From early modern German Larche, Lärche, from Middle High German larche, from Old High German larihha, from Proto-West Germanic *larikā, an early borrowing from Latin larix, from Ancient Greek λάριξ (lárix), itself possibly of Gaulish origin.",
+"examples": [
+"The cart was of rough wood, without springs, like a big box fixed on long larch poles between two pairs of wheels. The larch poles did instead of springs, bending and creaking, as the cart moved over the forest track."
+],
+"p": "LARCH"
+},
+{
+"w": "omnidirectional",
+"pos": "adjective",
+"senses": [
+"In every direction, especially of a radio system capable of transmitting or receiving signals in all directions, or of a microphone capable of detecting sound from all directions."
+],
+"ety": "From omni- + directional.",
+"examples": [
+"An omnidirectional radio beacon."
+],
+"p": "om-NID-ih-REK-shuh-nul"
+},
+{
+"w": "panacea",
+"pos": "noun",
+"senses": [
+"A solution to all problems."
+],
+"ety": "From Latin panacēa, from Ancient Greek πανάκεια (panákeia), from πανακής (panakḗs, “all-healing”), from πᾶν (pân, “all”) (equivalent to English pan-) + ἄκος (ákos, “cure”).",
+"examples": [
+"A monorail will be a panacea for our traffic woes.",
+"Podson was seated on the bed, going through such turf forecasts as he could find in the papers; his panacea for correcting the mistakes of fortune.",
+"Hydrogen is not a panacea for reaching the zero net emissions target by 2050, but it can grow to become \"a big niche\" fuel in particular sectors and applications, claims a new report."
+],
+"p": "pan-uh-SEE-uh"
+},
+{
+"w": "twerk",
+"pos": "noun",
+"senses": [
+"Synonym of twerking (“a sexually-provocative dance, involving the performer thrusting their hips back from a low squatting stance while shaking their buttocks”).",
+"A fitful movement similar to a twitch or jerk."
+],
+"ety": "Blend of twitch + jerk. The \"sexually-provocative dance\" sense was particularly popularized since c. 2000 by hip-hop from the United States of America, and again in 2013 by singer Miley Cyrus.",
+"examples": [
+"With a quick twerk at her shift, the girl lifted it to her rounded belly, and squatted nakedly on his lap."
+],
+"p": "twurk"
+},
+{
+"w": "gigolo",
+"pos": "noun",
+"senses": [
+"A man funded by women who find him attractive, particularly",
+"A hired escort or dancing partner.",
+"A male prostitute with female clients."
+],
+"ety": "First attested in English in 1922. From French gigolo (“young lover kept by an older woman”), first attested in that sense in 1904 (attested since 1850 in the sense “Amant de cœur, compagnon d'une gigolette\", and since 1894 in the sense “elegant young man whose means of livelihood are dubious”), a back-formation from gigolette (“promiscuous dancing girl, girl available for hire as a dancing partner”), attested since 1850, from giguer (“to dance”), from gigue (“fiddle; type of dance; jig”). More at jig.",
+"examples": [
+"How's the, uh, gigolo campaign going?",
+"I'm just a gigolo / And everywhere I go / People know the part I'm playin' / Paid for every dance / Sellin' each romance / Ooh, what they're sayin'"
+],
+"p": "JIG-uh-loh"
+},
+{
+"w": "livre",
+"pos": "noun",
+"senses": [
+"A unit of currency formerly used in France, divided into 20 sols or sous.",
+"An ancient French unit of weight, equal to about 1 avoirdupois pound."
+],
+"ety": "Borrowed from French livre. Doublet of arratel, libbra, Libra, libra, lira, litra, litre, and rottol.",
+"examples": [
+"They like to see them awarded comfortable pensions. Is it 700,000 livres a year to the Polignac family?"
+],
+"p": "LEEV-ruh"
+},
+{
+"w": "absolutist",
+"pos": "noun",
+"senses": [
+"One who is in favor of an absolute or autocratic government.",
+"One who believes that it is possible to realize a cognition or concept of the Absolute.",
+"An uncompromising person; one who maintains certain principles to be absolute."
+],
+"ety": "From absolute + -ist after French absolutiste.",
+"examples": [
+"The billionaire tech mogul, who has described himself as a free speech absolutist, introduced a new red line this week after he claimed that a car carrying one of his children was accosted by a “crazy stalker.”"
+],
+"p": "AB-suh-loo-tist"
+},
+{
+"w": "skerry",
+"pos": "noun",
+"senses": [
+"A small rocky island which may be covered by the sea at high tide or during storms."
+],
+"ety": "From dialectal Scots (Shetlandic and Orcadian) skerry, from Old Norse sker (whence Danish skær and Norwegian Bokmål skjær). Ultimately from Proto-Indo-European *(s)ker-.",
+"examples": [
+"The fog disappeared gradually, disclosing the blue line of the coast and the far outlying naked skerries, while before us lay the ocean in its interminable extent, blushing in the morning sun.",
+"Grim the Halogalander's crew sailed along Borgarfjord beyond the skerries, then cast anchor until the storm died down and the weather brightened up.",
+"The three men proceeded, with a little difficulty, to scale the skerry, finding Gannets and Guillemots on the upper reaches."
+],
+"p": "SKAIR-ee"
+},
+{
+"w": "peppery",
+"pos": "adjective",
+"senses": [
+"Resembling or characteristic of pepper, especially in having a spicy taste.",
+"Having a fiery temperament."
+],
+"ety": "From pepper + -y.",
+"examples": [
+"For I'm a peppery potentate, / Who's little inclined his claim to bate, / To fit the wit of a bit of a chit, / And that's the long and short of it!"
+],
+"p": "PEP-uh-ree"
+},
+{
+"w": "gulag",
+"pos": "noun",
+"senses": [
+"Also GULAG: the system of all Soviet labour camps and prisons in use, especially during the Stalinist period (1930s–1950s).",
+"A prison camp, especially one used to hold political prisoners.",
+"A place where, or political system in which, people with dissident views are routinely oppressed."
+],
+"ety": "Borrowed from Russian ГУЛА́Г (GULÁG), the acronym of Гла́вное управле́ние исправи́тельно-трудовы́х лагере́й (Glávnoje upravlénije ispravítelʹno-trudovýx lageréj, “Chief Administration of Corrective-Labor Camps”), the government agency in charge of the Soviet Union’s network of forced labour camps, which was established in 1918 and formally abolished in 1960: see GULAG.",
+"examples": [
+"Nevertheless, the Trump administration has continued to insist that Abrego Garcia is a dangerous gang member in order to justify sending him to an overseas Gulag that has been accused of torturing inmates."
+],
+"p": "GOO-lahg"
+},
+{
+"w": "manhandle",
+"pos": "verb",
+"senses": [
+"To assault or beat up a person.",
+"To mishandle; to handle roughly; to mangle.",
+"To control (a machine, vehicle, situation, etc.) by means of physical strength."
+],
+"ety": "From Middle English manne-handlen, man handelen, equivalent to man (“male person”) + handle.",
+"examples": [
+"The polls were guarded by bullies who did not hesitate at command to manhandle any decent citizen indicated by the local leaders.",
+"She yells at people who manhandle the tomatoes or break the beans.",
+"Britain’s most senior police chief defied pressure to resign as she dismissed “armchair” critics amid widespread outrage over officers manhandling women who were mourning the killing of Sarah Everard."
+],
+"p": "MAN-han-dul"
+},
+{
+"w": "littoral",
+"pos": "noun",
+"senses": [
+"A shore, coastline, or coast.",
+"The zone of a coast between high tide and low tide levels."
+],
+"ety": "From Late Latin littoralis, from litoris (genitive of litus). The doubled 't' is a late medieval addition, and the more classical litoral is also sometimes found. Cognate to French littoral, Spanish litoral, Portuguese litoral, and more distantly to English lido (“outdoor pool”), via Italian lido (“beach, shore”).",
+"examples": [
+"The railway running along the littoral from Brighton westward to Portsmouth forms an important section of the L.B.S.C.R. (Central) secion of the Southern Railway.",
+"Just beyond the locomotive depot is the junction of the Anecho line, which curves sharply eastwards. It runs for the whole way along the flat, sandy littoral among coconut plantations, usually a mile or so inland."
+],
+"p": "LIT-uh-rul"
+},
+{
+"w": "beautification",
+"pos": "noun",
+"senses": [
+"Making beautiful, beautifying, improving the appearance of something."
+],
+"ety": "First attested in 1600, from beautify (“to make beautiful”) + -ication.",
+"examples": [
+"Thanks to the beautification efforts, the appearance of the highway has vastly improved.",
+"This trend, which he attributes to social media and describes as “beautification” rather than a desire to turn back the years, might involve a blepharoplasty or removing buccal fat (between the cheek and jaw bones.)"
+],
+"p": "byoo-tih-fih-KAY-shun"
+},
+{
+"w": "despotic",
+"pos": "adjective",
+"senses": [
+"Acting or ruling as a despot, tyrannical."
+],
+"ety": "From Ancient Greek δεσποτικός (despotikós) via French despotique, equivalent to despot + -ic.",
+"examples": [
+"The despotic king dissolved the parliament, and took personal control of the country."
+],
+"p": "des-PAHT-ik"
+},
+{
+"w": "opine",
+"pos": "verb",
+"senses": [
+"To express an opinion; to state as an opinion; to suppose, consider (that).",
+"To give one's formal opinion (on or upon something).",
+"To suppose, consider as correct, or entertain, an opinion."
+],
+"ety": "Borrowed from Middle French opiner, from Latin opīnor (“to hold as an opinion”), from *opīnus (“thinking, expecting”), only in negative nec-opīnus (“not expecting”) and in-opīnus (“not expected”); akin to optō (“to choose, desire”), and to apīscor (“to obtain”); see optate and opt.",
+"examples": [
+"I opined that matters would soon become considerably worse.",
+"I had to opine on the situation because I thought a different perspective was in order.",
+"Do you, Maister Francis, opine that ye will re-establish your father's credit by cutting your kinsman's thrapple, or getting your ain sneckit instead thereof in the College-yards of Glasgow?"
+],
+"p": "oh-PINE"
+},
+{
+"w": "imbue",
+"pos": "verb",
+"senses": [
+"To instill or inspire (someone) with a certain quality, feeling, or idea.",
+"To wet or stain an object completely with some physical quality.",
+"In general, to act in a way which results in an object becoming completely permeated or impregnated by some quality."
+],
+"ety": "From Latin imbuō (“wet, moisten”). Compare imbibe.",
+"examples": [
+"The shirt was imbued with his scent.",
+"The entire text is imbued with the sense of melancholy and hopelessness."
+],
+"p": "im-BYOO"
+},
+{
+"w": "hogshead",
+"pos": "noun",
+"senses": [
+"A cask of a certain size; its volume used as a measure of capacity for liquids, containing 63 wine gallons, or about 52+¹⁄₂ imperial gallons (a half pipe).",
+"A large barrel or cask of indefinite contents, especially one containing from 100 to 140 gallons."
+],
+"ety": "From Late Middle English hogshead, hagyshed, hogeyshed, hoggesyde, hokkeshed, Middle English hoggeshed, hogges-hed, hogeshed, hoggeshede, hoggesheed, hoggesheudes, hoggesheved, hoggishede, hoggisheed, hoggyssehed, hogyshed, hoogeshed (“measure of liquid capacity equivalent to about 63 gallons; large barrel or cask”, literally “hog’s head”), from hog, hogge (“swine, especially a castrated male swine”) + hed (“animal or human head”), equivalent to hog + -s- + head. The connection between the cask and the head of a hog is uncertain, but may refer to the shape of the cask. The word has often been ",
+"examples": [
+"Barrels came in firkins, nine gallons; kilderkins, eighteen gallons; halves, twenty-seven gallons; barrels, thirty-six gallons and hogsheads, fifty-four.",
+"So set me down as one that will refuse to come into your treaty, though you should smoke a hogshead of tobacco over it.",
+"Over men and horses, hoops and garters, Lastly through a hogshead of real fire. In this way, Mr. K. will challenge the world."
+],
+"p": "HAHGZ-hed"
+},
+{
+"w": "intersex",
+"pos": "noun",
+"senses": [
+"The condition of being intersex; intersexuality.",
+"A person who can get pregnant and also impregnate someone else."
+],
+"ety": "Borrowed from German Intersexe. By surface analysis, inter- + sex. (This etymology is missing or incomplete. Please add to it, or discuss it at the Etymology scriptorium. Particularly: “Needs more details, especially the German etymology.”) Doublet of intersect.",
+"examples": [
+"A Canadian believes that he has solved the diagnostic problem in human intersex. All human cells, says Dr. Murray L. Barr of the University of Western Ontario, contain something called sex chromatin.",
+"A much more common condition caused by early exposure of fish larvae to oestrogenic substances is intersex, which in males usually takes the form of ovotestis."
+],
+"p": "IN-ter-seks"
+},
+{
+"w": "bannock",
+"pos": "noun",
+"senses": [
+"An unleavened bread, usually made with barleymeal, wheatmeal, or oatmeal; sometimes of peasemeal or otherwise.",
+"A biscuit bread made of wheat flour or cornmeal, fat, and sometimes baking powder, typically baked over a fire, wrapped around a stick or in a pan.",
+"This or any similar traditional bread when made by indigenous Americans, originally from native sources such as maize or pseudocereals and plants with starchy roots"
+],
+"ety": "From Middle English bannoke, from Old English bannuc, perhaps from a Goidelic word (compare Irish bonnóg, Manx bonnag, Scottish Gaelic bonnach), possibly from Latin pānicum (“millet”). Doublet of bonnag.",
+"examples": [
+"So she baked two oatmeal bannocks, and set them on to the fire to harden. After a while, the old man came in, and sat down beside the fire, and takes one of the bannocks, and snaps it through the middle.",
+"My father’s bannock was nothing but lard, flour, salt, and baking powder patted into big rounds and cooked on sticks over a campfire."
+],
+"p": "BA-nuk"
+},
+{
+"w": "rerun",
+"pos": "noun",
+"senses": [
+"An act or instance of rerunning; a repetition.",
+"A television program shown after its initial presentation, particularly many weeks after its initial presentation; a repeat.",
+"Another printing run (impression; batch of copies of a given edition) of a book, cartoon, etc.",
+"A political candidate who holds the same political agenda or doctrine as a past or incumbent holder of a given political office."
+],
+"ety": "From re- + run.",
+"examples": [
+"I'm not a fan of the new Simpsons episodes, but the old reruns have me in stitches, although I've seen them countless times."
+],
+"p": "REE-run"
+},
+{
+"w": "lubricate",
+"pos": "verb",
+"senses": [
+"To make slippery or smooth (normally to minimize friction) by applying a lubricant.",
+"To cause someone to become drunk, especially to make them more sociable or talkative."
+],
+"ety": "Borrowed from Latin lūbricātus, perfect passive participle of lūbricō (“make slippery”) (see -ate (verb-forming suffix) for more), from lūbricus (“slippery”). Ultimately from Proto-Indo-European *slewbʰ- (“slip, slide”).",
+"examples": [
+"If your bicycle chain is squeaking you should lubricate it.",
+"They listened with wonder and pride at their album as it played several times throughout the afternoon, with Cosmo lubricating them with beer and whiskey."
+],
+"p": "LOO-brih-kayt"
+},
+{
+"w": "globule",
+"pos": "noun",
+"senses": [
+"A small round particle of substance; a drop."
+],
+"ety": "From French globule, from Latin globulus, from globus (“globe”).",
+"examples": [
+"A civilized hotel is a little urban globule floating like scum on a rustic pool.",
+"They described the eggs as spherical in shape, highly transparent with a thin, horny egg membrane and a relatively wide perivitelline space. Each egg contained a single oil globule."
+],
+"p": "GLAH-byool"
+},
+{
+"w": "chyron",
+"pos": "noun",
+"senses": [
+"A set of graphics or words at the bottom of a television screen, sometimes unrelated to the current viewing content."
+],
+"ety": "Genericization of the trademark Chyron, from Chiron (“centaur of Greek mythology”).",
+"examples": [
+"Chyrons (electronically enlarged words or numbers superimposed on the screen) might be used to illustrate and compare budget figures or to emphasize a quote.",
+"Chyron recognition: A celebrity who needs no electronically inserted title or caption (a chyron) to identify him or her on television, especially news programs or interview shows.",
+"Chyron. Words shown on a video screen. Also known as a super. A slash (/) indicates a line break in a Chyron message in a script."
+],
+"p": "KY-rahn"
+},
+{
+"w": "squarish",
+"pos": "adjective",
+"senses": [
+"Approximately square.",
+"Somewhat square."
+],
+"ety": "From square + -ish.",
+"examples": [
+"When they reached the foot of the hill they caught a glimpse of what might be rocks on each side—squarish rocks, if you looked at them carefully, but no one did.",
+"The cars, which are of pleasing but somewhat squarish outline, are unstreamlined."
+],
+"p": "SKWAIR-ish"
+},
+{
+"w": "wronger",
+"pos": "noun",
+"senses": [
+"One who wrongs someone.",
+"One who commits a wrong."
+],
+"ety": "From wrong (verb) + -er.",
+"examples": [
+"LEONATO. Which is the villain? Let me see his eyes, That, when I note another man like him, I may avoid him. Which of these is he? BORACHIO. If you would know your wronger, look on me."
+],
+"p": "RAWNG-er"
+},
+{
+"w": "potluck",
+"pos": "noun",
+"senses": [
+"A meal, especially one offered to a guest, consisting of whatever food is available.",
+"Whatever is available in a particular situation.",
+"A shared meal consisting of whatever guests have brought (sometimes without prior arrangement); a potlatch; also, a dish of food brought to such a meal."
+],
+"ety": "From pot + luck. According to the Oxford English Dictionary, sense 3 (“a shared meal consisting of whatever guests have brought”) is unlikely to have been influenced by potlatch.",
+"examples": [
+"Here are some leftover beans and meat; we can make a good potluck stew from them.",
+"Instead of frequent potluck enjoyments, it seems folks, now-a-days, regale their friends with a feast, which, if as seldom attempted as the author paints, cannot induce bankruptcy."
+],
+"p": "PAHT-luk"
+},
+{
+"w": "netter",
+"pos": "noun",
+"senses": [
+"One who nets (in any sense), or who uses a net.",
+"An Internet or Usenet user."
+],
+"ety": "Inherited from Middle English netter, nettare. By surface analysis, net + -er.",
+"examples": [
+"The vast majority of Indonesian netters use landlines, either from home or office, or from a public Internet access point."
+],
+"p": "NET-er"
+},
+{
+"w": "perky",
+"pos": "adjective",
+"senses": [
+"Lively and often cheerful and enthusiastic.",
+"Standing upright; firm."
+],
+"ety": "From perk + -y.",
+"examples": [
+"She answered with a perky smile and bounced off.",
+"The plant looks much perkier since I watered it."
+],
+"p": "PUR-kee"
+},
+{
+"w": "heddle",
+"pos": "noun",
+"senses": [
+"A component in a loom, being one of a number of similar components, through the eye of each of which a distinct strand of the warp is threaded.",
+"One of the sets of parallel doubled threads which, with mounting, compose the harness employed to guide the warp threads to the lathe or batten in a loom."
+],
+"ety": "From Middle English helde, from Old English hefeld, from the root of Proto-Germanic *habjaną (“to have, heave”), from Proto-Indo-European *kap-. Cognate with Old Saxon hevild, Middle Low German hevelte, Icelandic hafald.",
+"examples": [
+"The heddles and heddle frames, Fig. 3, and the reed may be purchased from dealers in craftwork supplies."
+],
+"p": "HED-ul"
+}
+]

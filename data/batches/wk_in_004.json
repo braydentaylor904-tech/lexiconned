@@ -1,0 +1,540 @@
+[
+{
+"w": "voivode",
+"pos": "noun",
+"senses": [
+"A local ruler or official in various parts of central and eastern Europe, especially early semi-independent rulers of Transylvania.",
+"An administrative chief in modern Poland."
+],
+"ety": "Variously from a number of Slavic languages including Bulgarian войвода (vojvoda), Czech vojevoda, Polish wojewoda, Russian воево́да (vojevóda), and Serbo-Croatian vojvoda, војвода, all from Proto-Slavic *vojevoda (“army leader; duke; warlord”).",
+"examples": [
+"Who was it but one of my own race who as Voivode crossed the Danube and beat the Turk on his own ground? This was a Dracula indeed!"
+],
+"p": "VOY-vohd"
+},
+{
+"w": "mutator",
+"pos": "noun",
+"senses": [
+"That which causes mutation or change.",
+"A setting which alters specific gameplay mechanics, such as rules, physics, or abilities."
+],
+"ety": "From mutate + -or. The video gaming sense likely originated in the video game Unreal Tournament (1999).",
+"examples": [
+"In object-oriented programming, the mutator function changes the value of the field that gives its name."
+],
+"p": "MYOO-tay-ter"
+},
+{
+"w": "rebus",
+"pos": "noun",
+"senses": [
+"An arrangement of pictures, symbols, or words representing phrases or words, especially as a word puzzle.",
+"An arrangement of pictures on a coat of arms which suggests the name of the person to whom it belongs.",
+"A type of crossword puzzle in which some squares contain entire words, or symbols representing words, instead of single letters."
+],
+"ety": "From French rébus (“rebus (puzzle); ambiguity; word used in an oblique sense; unintelligible remark”), or directly from its probable etymon Latin rēbus, the ablative plural of rēs (“object, stuff, thing; issue, matter, subject, topic”), ultimately from Proto-Indo-European *reh₁ís (“goods; wealth”). The connection between the English word and its Latin etymon is unclear. further etymology The following possibilities have been suggested, but according to the Oxford English Dictionary are problematic: * According to the French scholar Gilles Ménage (1613–1692) in Les origines de la langue françoi",
+"examples": [
+"I back him at a Rebus or a Charade against the best Rhymer in the Kingdom—has your Ladyship heard the Epigram he wrote last week on Lady Frizzle's Feather catching Fire—",
+"Instead of spelling out card suits, for example, perhaps the constructor inserted a \"rebus,\" or picture icon for clubs, hearts, spades, or diamonds in one answer box.",
+"Rebuses are a vital part of cryptic crosswords and even themed standard crossword puzzles, as modernized under the leadership of Will Shortz at The New York Times, make use of rebuses."
+],
+"p": "REE-bus"
+},
+{
+"w": "recidivism",
+"pos": "noun",
+"senses": [
+"Committing new offenses after a crime committed in the past.",
+"Returning to a negative behavior after having stopped it for a period of time."
+],
+"ety": "From French récidivisme, from Latin recidīvus (“returning, recurring”). Compare recidivous, -ism. By surface analysis, recidive + -ism.",
+"examples": [
+"The increase in criminal activity was attributed to recidivism."
+],
+"p": "ruh-SID-uh-vuh-zum"
+},
+{
+"w": "popularise",
+"pos": "verb",
+"senses": [
+"To make something popular.",
+"To present information in a form less difficult for the general public to understand or enjoy, especially by excluding details and jargon found in technical or academic publications."
+],
+"ety": "From popular + -ise.",
+"examples": [
+"Homer Simpson popularised the term \"d'oh\".",
+"Special cheap day return facilities have been introduced to popularise the railbuses."
+],
+"p": "POP-yoo-luh-rize"
+},
+{
+"w": "skive",
+"pos": "verb",
+"senses": [
+"To avoid one's lessons or work (chiefly at school or university); shirk."
+],
+"ety": "Probably from French esquiver (“slink away”), from Middle French esquiver (“to escape”), from Spanish esquivar (“to avoid, reject, elude”), from esquivo (“contemptuous, loathsome”), itself from Old French eschiver, of East Germanic origin, from Gothic *𐍃𐌺𐌹𐌿𐌷𐍃 (*skiuhs, “afraid, barefaced”), from Proto-Germanic *skeuhaz (“afraid, frightened”). Cognate with English shy, eschew.",
+"examples": [
+"Truancies, rather bewilderingly, have risen among children on the programme; the government hopes this is because children skive more as they get older."
+],
+"p": "SKIVE"
+},
+{
+"w": "shekel",
+"pos": "noun",
+"senses": [
+"A currency unit of both ancient and modern Israel.",
+"An ancient unit of weight equivalent to one-fiftieth of a mina."
+],
+"ety": "From Hebrew שֶׁקֶל (shékel, “shekel”), from שָׁקַל (shakál, “to weigh”), from Akkadian 𒂅 (šiqlum).",
+"examples": [
+"So David bought the threshingfloor and the oxen for fifty shekels of silver.",
+"And it came to pass, as the camels had done drinking, that the man took a golden earring of half a shekel weight, and two bracelets for her hands of ten shekels weight of gold;"
+],
+"p": "SHEK-ul"
+},
+{
+"w": "chide",
+"pos": "verb",
+"senses": [
+"To admonish in blame; to reproach angrily."
+],
+"ety": "From Middle English chiden (“to chide, rebuke, disapprove, criticize; complain, grumble, dispute; argue, debate, dispute, quarrel”), from Old English ċīdan (“to chide, reprove, rebuke; blame, contend, strive, quarrel, complain”). Cognate with German kiden (“to sound”); Old High German kīdal (“wedge”).",
+"examples": [
+"Valentine: Well, you’ll still be too forward. Speed: And yet I was last chidden for being too slow.",
+"Whiles you chid me, I did love; How then might your prayers move!",
+"Then she had not chidden him for the use of that familiar salutation, nor did she chide him now, though she was promised to another."
+],
+"p": "chide"
+},
+{
+"w": "retry",
+"pos": "verb",
+"senses": [
+"To try or attempt again."
+],
+"ety": "From re- + try.",
+"examples": [
+"On October 20, Forsen streamed on Twitch as he retried to defeat the Ender Dragon as fast as he could.",
+"There’s a chance the error code appeared as a mistake, so retrying could help you get back to the fight in no time.",
+"The problem? Unlike dying during the Great Ape Vegeta fight, you can’t retry right away."
+],
+"p": "ree-TRY"
+},
+{
+"w": "endive",
+"pos": "noun",
+"senses": [
+"A leafy salad vegetable, Cichorium endivia, which is often confused with common chicory (Cichorium intybus)."
+],
+"ety": "From Middle French endive, from Medieval Latin endivia or Italian indivia~endivia, from Byzantine Greek ἐντύβιον (entúbion), from Latin intibus (which see). The ultimate source is likely Semitic.",
+"examples": [
+"Take the three heads of endive out of the water, drain them, and leave the largest whole.",
+"Endive, like a number of similar plants, is both esculent and reputed to have some aphrodisiac property.",
+"Endive and escarole are the same vegetable, but endive has leaves that are cut and curled, while escarole has smooth, broad leaves."
+],
+"p": "EN-dive"
+},
+{
+"w": "emetophobia",
+"pos": "noun",
+"senses": [
+"An inordinate fear of vomit or vomiting, especially in public."
+],
+"ety": "From emeto- + -phobia.",
+"examples": [
+"Ignorant about vomiting before the incident, I was now terrified of it. I self-diagnosed myself with emetophobia – fear of vomiting.",
+"Not many people have heard of the condition emetophobia but I’ve lived with it for over 30 years and it was a worry when I was pregnant with my son, Hunter, last year."
+],
+"p": "ih-met-uh-FOH-bee-uh"
+},
+{
+"w": "potable",
+"pos": "noun",
+"senses": [
+"Any drinkable liquid; a beverage."
+],
+"ety": "The adjective is derived from Late Middle English potable (“drinkable, potable”), from Middle French, Old French potable (modern French potable (“drinkable, potable”)), and from its etymon Late Latin pōtābilis (“drinkable, potable”), from Latin pōtāre (“to drink”) + -bilis (suffix forming adjectives indicating a capacity or worth of being acted upon). Pōtāre is the present active infinitive of pōtō (“to drink”), from Proto-Italic *pōtos, from Proto-Indo-European *peh₃- (“to drink”). The English word is cognate with Catalan potable, Italian potabile, Spanish potable. The noun is derived from th",
+"examples": [
+"When solar beams / Parch thirsty human veins, the damask'd meads, / Unforc'd display ten thousand painted flow'rs / Useful in potables."
+],
+"p": "POH-tuh-bul"
+},
+{
+"w": "omniscient",
+"pos": "adjective",
+"senses": [
+"Having total knowledge."
+],
+"ety": "From Medieval Latin omnisciens (“all-knowing”), from Latin omnis (“all”) + sciens (“knowing”) (further analysable via scient).",
+"examples": [
+"The story was narrated from an omniscient point of view.",
+"The Abrahamic God is omniscient.",
+"For me, anything is possible. I am omniscient and omnipotent, extremely vain, and, what is more, I come in a handy self-carrying package."
+],
+"p": "ahm-NISH-unt"
+},
+{
+"w": "pareidolia",
+"pos": "noun",
+"senses": [
+"The tendency to interpret a vague stimulus as something known to the observer, such as interpreting marks on Mars as canals, seeing shapes in clouds, or hearing hidden messages in music."
+],
+"ety": "Borrowed from German Pareidolie, constructed from Ancient Greek παρα- (para-, “alongside”) + εἴδωλον (eídōlon, “image”) + -ία (-ía). By surface analysis, par- + eidolia.",
+"examples": [
+"This last is called by Dr. Kahlbaum, changing hallucination, partial hallucination, perception of secondary images, or pareidolia.",
+"Pareidolia underlies several forms of divination.",
+"Pareidolias aren't solely limited to images. When I was a youngster, I remember listening to The Beatles' song \"Strawberry Fields\" over and over to hear what seemed to be \"I buried Paul.\""
+],
+"p": "par-eye-DOH-lee-uh"
+},
+{
+"w": "flautist",
+"pos": "noun",
+"senses": [
+"One who plays the flute."
+],
+"ety": "Borrowed from Italian flautista.",
+"examples": [
+"The flautist Bezaly adds to the impressive list of flute concertos dedicated to her with the composer Pulkkis’s contribution to the genre."
+],
+"p": "FLOW-tist"
+},
+{
+"w": "gunge",
+"pos": "noun",
+"senses": [
+"A viscous or sticky substance, particularly an unpleasant one of vague or unknown composition; goo; gunk."
+],
+"ety": "First attested around 1935–40. Probably an alteration of gunk.",
+"examples": [
+"Have I got trails of gunge on these frills?"
+],
+"p": "gunj"
+},
+{
+"w": "chancery",
+"pos": "noun",
+"senses": [
+"The type of building that houses a diplomatic mission or embassy.",
+"The type of building that houses the offices and administration of a diocese; the offices of a diocese.",
+"In the Middle Ages, a government office that produced and notarized official documents."
+],
+"ety": "From Middle English chancerie, a reduced form of chancellerie. See chancellery.",
+"examples": [
+"The territorial expansion of the United States thus caused no great political stir in the chanceries of Europe."
+],
+"p": "CHAHN-suh-rih"
+},
+{
+"w": "masque",
+"pos": "noun",
+"senses": [
+"A dramatic performance, often performed at court as a royal entertainment, consisting of dancing, dialogue, pantomime and song.",
+"Words and music written for a masque.",
+"A masquerade.",
+"A facial mask."
+],
+"ety": "Unadapted borrowing from French masque. Doublet of mask and mesh.",
+"examples": [
+"Over six sections – a prologue, a life-story, a dream-quest, a dirge, a masque and an epilogue – they meditate on their lives, their hopes, their losses, and on the human condition."
+],
+"p": "mask"
+},
+{
+"w": "jumbie",
+"pos": "noun",
+"senses": [
+"A ghost or evil spirit."
+],
+"ety": "Borrowed from Kongo zumbi (“fetish”). Doublet of zombie.",
+"examples": [
+"Jethro stomped away up the hill, though the trail was supposed to be haunted by spirits of the dead called jumbies. He didn't care. He didn't believe in jumbies."
+],
+"p": "JUM-bee"
+},
+{
+"w": "influencer",
+"pos": "noun",
+"senses": [
+"A person who or a thing which influences.",
+"A person who is able to influence consumption, lifestyle, or political preferences of their online audience by creating or engaging with social media content, often as a part of a marketing campaign."
+],
+"ety": "From influence + -er.",
+"examples": [
+"Over the past year, mansions full of young influencers have proliferated across the United States (in Los Angeles, Dallas and Las Vegas) and around the world (France, the U.K., Mexico, Spain and Russia)."
+],
+"p": "IN-floo-un-ser"
+},
+{
+"w": "vestry",
+"pos": "noun",
+"senses": [
+"A room in a church where the clergy put on their vestments and where these are stored; also used for meetings and classes.",
+"An assembly of persons (ad hoc or recurrent) who manage parochial affairs; so called because usually held in a vestry.",
+"A committee of parishioners elected to administer the temporal affairs of a parish."
+],
+"ety": "From Anglo-Norman vesterie, from Old French vestiaire (“room for vestments, dressing room”), from Latin vestiarium (“wardrobe”). Doublet of vestiary.",
+"examples": [
+"The choirboys change into their cassocks in the vestry.",
+"What a day, eh? Demmy, it's like the commencement of the rainy season in Bengal. But you'll find my carriage is watertight. Come along, my mother and Emmy are in the vestry.",
+"The vestry meets on the first Tuesday of every month."
+],
+"p": "VES-tree"
+},
+{
+"w": "defacement",
+"pos": "noun",
+"senses": [
+"An act of defacing; an instance of visibly marring or disfiguring something.",
+"An act of voiding or devaluing; nullification of the face value.",
+"A symbol added to a flag or coat of arms to change it or make it different from another."
+],
+"ety": "From deface + -ment.",
+"examples": [
+"Some consider the defacement of the Sphinx to be the most egregious crime of Napolean's campaigns.",
+"The soldiers found a variety of creative uses for their payment scrip after its defacement to scrap paper; some used it as toilet paper."
+],
+"p": "dih-FAY-smunt"
+},
+{
+"w": "karahi",
+"pos": "noun",
+"senses": [
+"A deep circular vessel resembling a wok, traditionally of cast iron, used in South Asian cuisine.",
+"A kind of curry or stew prepared in such a vessel."
+],
+"ety": "Borrowed from Hindi कड़ाही (kaṛāhī). Cognate with Bengali কড়াই (koṛai).",
+"examples": [
+"Making most delicious Chicken Karahis ever."
+],
+"p": "kuh-RY"
+},
+{
+"w": "inimical",
+"pos": "adjective",
+"senses": [
+"Harmful in effect.",
+"Unfriendly, hostile."
+],
+"ety": "From Late Latin inimīcālis (“hostile”), from inimīcus (“enemy”) (from in- (“not”) + amīcus (“friend”)) + -ālis.",
+"examples": [
+"Slaves knew that some of the treatments worsened problems and, perhaps most important, they realized that a master's interest in their fitness for work was sometimes inimical to their health.",
+"She doesn’t want to touch it, and indeed every particle of her screams against doing so because it is somehow inimical to her.",
+"Her inimical attitude precludes romance."
+],
+"p": "ih-NIH-mih-kul"
+},
+{
+"w": "bluesy",
+"pos": "adjective",
+"senses": [
+"Characteristic of, or similar to, blues music."
+],
+"ety": "From blues + -y.",
+"examples": [
+"When he entered the kitchen, Vida was folding clothes and singing along to some bluesy country music on the radio."
+],
+"p": "BLOO-zee"
+},
+{
+"w": "birria",
+"pos": "noun",
+"senses": [
+"A Mexican dish of stewed meat (usually goat, beef or lamb; sometimes pork or chicken) and spices, typically served like a soup with (or sometimes in) tortillas."
+],
+"ety": "Borrowed from Spanish birria.",
+"examples": [
+"They might also have goat birria, red and earthy from chiles, cinnamon, and cloves."
+],
+"p": "BEER-ee-uh"
+},
+{
+"w": "sofer",
+"pos": "noun",
+"senses": [
+"A Jewish scribe who can transcribe Torah scrolls and other religious writings."
+],
+"ety": "Borrowed from Hebrew סופר (sofér).",
+"examples": [
+"Twice in seven years it must be examined by a sofer (a religious scribe) to assure its legitimacy."
+],
+"p": "soh-FAIR"
+},
+{
+"w": "griot",
+"pos": "noun",
+"senses": [
+"A West African storyteller who passes on oral traditions; a wandering musician and poet."
+],
+"ety": "Borrowed from French griot.",
+"examples": [
+"Yet the critics of writing weren’t entirely wrong. In oral cultures, bards carried epics in their heads; griots could reel off centuries of genealogy on demand."
+],
+"p": "GREE-oh"
+},
+{
+"w": "hominy",
+"pos": "noun",
+"senses": [
+"A food made from hulled corn (maize) kernels soaked in lye water, rinsed, then cooked and eaten; or, the rinsed kernels are dried and coarsely ground into hominy grits."
+],
+"ety": "First recorded in 1629. From Powhatan (\"Virginia Algonquian\"), though the exact source word is in question: suggestions include uskatahomen, appuminnéonash (“parched corn”), and rokohamin (“parched, ground corn”), the last yielding also the unclipped rockahominy.",
+"examples": [
+"Then his plate was put before him: hominy grits and a scrap of bacon. He wanted to cry, like a child: ‘But, Mama, it's my birthday!’"
+],
+"p": "HOM-ih-nee"
+},
+{
+"w": "throuple",
+"pos": "noun",
+"senses": [
+"Three individuals engaged in a romantic or sexual relationship."
+],
+"ety": "Blend of three + couple.",
+"examples": [
+"The Air Force veteran fatally shot by police during last week’s US Capitol riot had been in a “throuple” with her husband and their live-in girlfriend, according to reports.",
+"Throuples with only white people are so funny they're like hi this is my starter ethnostate we're all in love"
+],
+"p": "THRUP-ul"
+},
+{
+"w": "halation",
+"pos": "noun",
+"senses": [
+"The action of light surrounding some object as if making a halo.",
+"The blurring of light around a bright area of a photographic image, or on a television screen."
+],
+"ety": "From halo + -ation.",
+"examples": [
+"Halation, properly speaking, is the reflection and diffusion, within the film, from the lighter areas to the adjacent darker ones.",
+"Halation can be prevented or diminished by using an absorbing layer between the sensitive emulsion and the support (anti-halo undercoat) or on the back of the support (anti-halo backing)."
+],
+"p": "huh-LAY-shun"
+},
+{
+"w": "swindle",
+"pos": "verb",
+"senses": [
+"To obtain (money or property) by fraudulent or deceitful methods.",
+"For a player in a losing position to play a clever move that provokes an error from the opponent, thus achieving a win or a draw."
+],
+"ety": "Back-formation from swindler, from German Schwindler, from German schwindeln, from Middle High German swindeln, swindelen, from Old High German swintilōn, frequentative of the verb swintan, from Proto-West Germanic *swindan (“to diminish”). See also Modern German schwindeln, Danish svindel and svindle, Dutch zwindelen and zwendelen, Yiddish שווינדל (shvindl), Low German swinneln, Middle English swinden (“to languish, waste away”).",
+"examples": [
+"She swindled more than £200 out of me."
+],
+"p": "SWIN-dul"
+},
+{
+"w": "cowed",
+"pos": "adjective",
+"senses": [
+"Frightened into submission."
+],
+"ety": "* Probable origins are Scandinavian, cf. Danish kue, to subdue.",
+"examples": [
+"For quotations using this term, see Citations:cowed."
+],
+"p": "kowd"
+},
+{
+"w": "bandini",
+"pos": "noun",
+"senses": [
+"A swimsuit consisting of a generally strapless bandeau top and a bikini bottom."
+],
+"ety": "Blend of bandeau + bikini.",
+"examples": [
+"The new concept in two-piece swimwear, along with sister suits -- the camisole-strapped camikini and the bandeau-topped bandini, will be the dominant silhouettes for spring/summer '99."
+],
+"p": "ban-DEE-nee"
+},
+{
+"w": "cymbal",
+"pos": "noun",
+"senses": [
+"A concave plate of metal, usually brass or bronze, that produces a sharp, ringing sound when struck: played either in pairs, by striking them together, or singly by striking with a drumstick or the like."
+],
+"ety": "From Middle English cymbal, from Old English cimbal, cimbala and Old French cimbale, both from Latin cymbalum (“cymbal”), from Ancient Greek κύμβαλον (kúmbalon), from κύμβη (kúmbē, “bowl”). See also chime.",
+"examples": [
+"The trumpets, sackbuts, psalteries and fifes, Tabours and cymbals and the shouting Romans, Make the sun dance.",
+"Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.",
+"Trumpets and Drums shall fright her from the Throne, As sounding Cymbals aid the lab'ring Moon."
+],
+"p": "SIM-bul"
+},
+{
+"w": "yoink",
+"pos": "verb",
+"senses": [
+"To make an oinking sound.",
+"To hop or bounce.",
+"nonce word for an action that impacts on something, especially if it is sudden."
+],
+"ety": "1954. Onomatopoeic.",
+"examples": [
+"Outside in the fog and the damp and cool air, common to County Cavan, he strode briskly along the road and when he arrived Cummings was already out and busy and the pigs—a big drove of them—were yoinking for their feed.",
+"All of the clout is upstairs, yoinking around with meetings and that.",
+"Por supuesto, Ethan Suva yoinked the silence."
+],
+"p": "yoyngk"
+},
+{
+"w": "lengthen",
+"pos": "verb",
+"senses": [
+"To make longer, to extend the length of.",
+"To become longer."
+],
+"ety": "From length + -en.",
+"examples": [
+"You need to lengthen the story if you want to have it published.",
+"The platforms of all stations from Shepherds Bush to Liverpool Street have been lengthened from 325 ft. to 427 ft. between tunnel headwalls, to take longer trains.",
+"The shadows on the lawn lengthened as the sun began to set."
+],
+"p": "LENG-thun"
+},
+{
+"w": "unicellular",
+"pos": "noun",
+"senses": [
+"A single-celled organism; a unicell."
+],
+"ety": "From uni- + cellular.",
+"examples": [
+"Among unicellulars, the rate of increase is beyond belief.",
+"In unicellulars the uncoupling of the various nutritional and energy sources is much more widely spread.",
+"More or less distinct specialisation of reproductive elements in some unicellulars."
+],
+"p": "yoo-nih-SEL-yoo-ler"
+},
+{
+"w": "holler",
+"pos": "noun",
+"senses": [
+"A yell, shout.",
+"Any communication to get somebody's attention.",
+"A field holler."
+],
+"ety": "American variant of holla, hallo or hollo.",
+"examples": [
+"I heard a holler from over the fence.",
+"Listen! Listen to the holler! If I write a book, it will be called \"Life and How To Live It.\"",
+"If you need anything, just give me a holler."
+],
+"p": "HAH-ler"
+},
+{
+"w": "kukui",
+"pos": "noun",
+"senses": [
+"Aleurites moluccana, the candlenut tree."
+],
+"ety": "From Hawaiian kukui. Doublet of tuitui.",
+"examples": [
+"Passing through a grove of kukui trees, with their silver-gray leaves, and then through a valley, they would have reached sugarcane fields, their stalks as tall as a man and densely clumped together."
+],
+"p": "koo-KOO-ee"
+}
+]

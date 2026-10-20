@@ -1,0 +1,428 @@
+[
+{
+"w": "trawler",
+"pos": "noun",
+"senses": [
+"A fishing boat that uses a trawl net or dragnet to catch fish.",
+"A fisherman who uses a trawl net."
+],
+"ety": "From trawl + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "novelistic",
+"pos": "adjective",
+"senses": [
+"Having characteristics of a novel."
+],
+"ety": "From novelist + -ic.",
+"examples": [],
+"p": null
+},
+{
+"w": "egotistic",
+"pos": "adjective",
+"senses": [
+"Egotistical."
+],
+"ety": "From egotist + -ic.",
+"examples": [],
+"p": "ee-goh-TIS-tik"
+},
+{
+"w": "waymarked",
+"pos": "adjective",
+"senses": [
+"Marked with a waymark."
+],
+"ety": "From waymark + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "propagator",
+"pos": "noun",
+"senses": [
+"A person who disseminates news or rumour",
+"A person who propagates plants",
+"A covered, sometimes heated container for germinating seeds or raising seedlings"
+],
+"ety": "From propagate + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "solander",
+"pos": "noun",
+"senses": [
+"A box, in the form of a book, used for keeping botanical specimens etc; drop-spine or clamshell box"
+],
+"ety": "From D. C. Solander, Swedish botanist.",
+"examples": [
+"Among the many unmatted drawings in the solander box was a large, colorful chalk and pastel Christ Child on greenish-blue laid paper ..."
+],
+"p": null
+},
+{
+"w": "gogan",
+"pos": "noun",
+"senses": [
+"Saurauia napaulensis, a type of flowering plant found in the Himalayas"
+],
+"ety": "Borrowed from Nepali गोगन (gogan).",
+"examples": [],
+"p": null
+},
+{
+"w": "insurrectionary",
+"pos": "noun",
+"senses": [
+"One who takes part in insurrection."
+],
+"ety": "From insurrection + -ary.",
+"examples": [],
+"p": null
+},
+{
+"w": "siglos",
+"pos": "noun",
+"senses": [
+"A silver coin of Achaemenid Persia worth one twentieth of a daric and weighing about 5.6 grams."
+],
+"ety": "From Ancient Greek σίγλος (síglos), from Semitic. Compare Hebrew שֶׁקֶל (shékel), Akkadian 𒅆𒅗𒇻 (šiqlu).",
+"examples": [],
+"p": null
+},
+{
+"w": "cornett",
+"pos": "noun",
+"senses": [
+"An early horn wind instrument used in European music of the medieval, Renaissance, and Baroque periods. Not to be confused with later brass instrument."
+],
+"ety": "Old French cornet, a diminutive of corne (“horn”), from Latin cornū.",
+"examples": [],
+"p": "kor-NET"
+},
+{
+"w": "dichromatic",
+"pos": "adjective",
+"senses": [
+"having two colors."
+],
+"ety": "From di- + Ancient Greek χρῶμα (khrôma, “color”) + -ic.",
+"examples": [],
+"p": null
+},
+{
+"w": "loadsa",
+"pos": "adverb",
+"senses": [
+"Lots of; much."
+],
+"ety": "Contraction of loads + of.",
+"examples": [],
+"p": null
+},
+{
+"w": "homotopy",
+"pos": "noun",
+"senses": [
+"The relationship between two continuous functions where homotopy from one to the other is evident."
+],
+"ety": "From Ancient Greek ὁμός (homós, “same, similar”) + τόπος (tópos, “place”); earliest known use in print in 1922, Oswald Veblen, Analysis Situs.",
+"examples": [],
+"p": "huh-MAH-tuh-pee"
+},
+{
+"w": "holomorphic",
+"pos": "adjective",
+"senses": [
+"Having holohedral symmetry."
+],
+"ety": "From holo- + -morphic.",
+"examples": [],
+"p": null
+},
+{
+"w": "splasher",
+"pos": "noun",
+"senses": [
+"Someone who splashes.",
+"A guard to keep off splashes from anything; especially, one of the guards over the wheels of a carriage, locomotive, etc."
+],
+"ety": "From splash + -er.",
+"examples": [
+"They gave her room, all right, especially if her medium happened to be water color, as Judy was a grand splasher and spared neither water nor paint.",
+"No. 6959 is painted in the standard wartime black livery and, like its immediate predecessors, does not carry a nameplate, but the words \"Hall Class\" have been painted on the middle coupled-wheel splasher."
+],
+"p": null
+},
+{
+"w": "delamination",
+"pos": "noun",
+"senses": [
+"The separation of the layers of a laminar composite material as a result of repeated stress, or failure of the adhesive"
+],
+"ety": "From de- + lamination.",
+"examples": [],
+"p": "dee-lam-ih-NAY-shun"
+},
+{
+"w": "superhit",
+"pos": "noun",
+"senses": [
+"A very successful hit."
+],
+"ety": "From super- + hit.",
+"examples": [
+"The band's first song was a superhit, but they never made it into the charts again."
+],
+"p": null
+},
+{
+"w": "flattop",
+"pos": "noun",
+"senses": [
+"A short haircut in which the hair is brushed straight up then cut flat across the top.",
+"A type of stringed instrument, most often an acoustic guitar, with a flat top (as opposed to an archtop), with strings held in place with pins, and with a complex system of bracing struts on the top.",
+"A grill with a flat cooking surface rather than metal bars."
+],
+"ety": "From flat + top. Sense of “aircraft carrier” attributed to the message, “Scratch one flattop,” radioed during the Battle of the Coral Sea by LCDR Robert E. Dixon to the USS Lexington, whose commanding officer credited the pilot with coining the standard USN slang.",
+"examples": [],
+"p": null
+},
+{
+"w": "entryist",
+"pos": "noun",
+"senses": [
+"A participant in or proponent of entryism."
+],
+"ety": "From entry + -ist.",
+"examples": [
+"Watson’s letter was a riposte to the accusation made on Tuesday by Corbyn’s campaign that he was “peddling conspiracy theories” after he said in a Guardian interview that Labour was at risk from “Trotskyist entryists”.",
+"He said encouraging people to join up to back a single issue, or candidate, was “not a good approach to running a political party and its supporters, because entryists tend to be fanatics, as the Labour party has found”."
+],
+"p": null
+},
+{
+"w": "zwieback",
+"pos": "noun",
+"senses": [
+"A form of rusk, usually sweetened bread enriched with eggs that is baked and then sliced and toasted until dry and crisp; considered easy to digest and therefore given to the ill and used as a teething food for toddlers."
+],
+"ety": "From German Zwieback, from zwie- (“twi-, two-”) + backen (“to bake”) (i.e. “twice-baked”), a calque of Italian biscotto (but not to be confused with it).",
+"examples": [
+"Ogden Nash, Adventures Of Isabel She nibbled the zwieback that she always fed off, And when it was gone, she cut the giant's head off."
+],
+"p": null
+},
+{
+"w": "ranty",
+"pos": "adjective",
+"senses": [
+"Characterised by ranting."
+],
+"ety": "From rant + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "liquidy",
+"pos": "adjective",
+"senses": [
+"Having a consistency similar to a liquid, but also similar to a solid (for example custard); semifluid."
+],
+"ety": "From liquid + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "intraclass",
+"pos": "adjective",
+"senses": [
+"Within a class."
+],
+"ety": "From intra- + class.",
+"examples": [],
+"p": null
+},
+{
+"w": "roughage",
+"pos": "noun",
+"senses": [
+"Originally (archaic), garbage, rubbish, or waste; later (agriculture) the portions of a crop which are discarded, such as husks, stalks, etc.; also, agricultural waste such as weeds.",
+"Coarse or rough plant material such as hay and silage used as animal fodder."
+],
+"ety": "From rough (“not smooth; crude, unrefined”) + -age (suffix forming nouns with the sense of appurtenance or collection).",
+"examples": [],
+"p": "RUF-ij"
+},
+{
+"w": "wetsuit",
+"pos": "noun",
+"senses": [
+"A close fitting, insulating garment usually made from neoprene or similar material designed to keep one warm during activities on or under water."
+],
+"ety": "From wet + suit.",
+"examples": [],
+"p": "WET-syoot"
+},
+{
+"w": "electrohydraulic",
+"pos": "adjective",
+"senses": [
+"Both electric and hydraulic."
+],
+"ety": "From electro- + hydraulic.",
+"examples": [],
+"p": null
+},
+{
+"w": "passager",
+"pos": "noun",
+"senses": [
+"A bird in its first year."
+],
+"ety": "Apparently from passage + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "deserialization",
+"pos": "noun",
+"senses": [
+"The act or process of deserializing."
+],
+"ety": "From deserialize + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "hereat",
+"pos": "adverb",
+"senses": [
+"At this time; upon this event.",
+"At this; because of this."
+],
+"ety": "From Middle English her-att; here + at.",
+"examples": [],
+"p": null
+},
+{
+"w": "sundeck",
+"pos": "noun",
+"senses": [
+"An area on a ship's deck or on the roof of a house used for sunbathing."
+],
+"ety": "From sun + deck.",
+"examples": [],
+"p": "SUN-dek"
+},
+{
+"w": "guanciale",
+"pos": "noun",
+"senses": [
+"An Italian dish of fatty bacon prepared from pig cheeks."
+],
+"ety": "From Italian guanciale, from guancia (“cheek”).",
+"examples": [],
+"p": null
+},
+{
+"w": "dissenter",
+"pos": "noun",
+"senses": [
+"Someone who dissents (disagrees), especially from an established church."
+],
+"ety": "From dissent + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "somnambulant",
+"pos": "adjective",
+"senses": [
+"Walking as if, or while, asleep; sleepwalking."
+],
+"ety": "From Latin somnus (“sleep”) + ambulō (“to walk”) + -ant.",
+"examples": [],
+"p": "sumn-AMBY-lunt"
+},
+{
+"w": "oculist",
+"pos": "noun",
+"senses": [
+"An eye doctor; an ophthalmologist or optometrist."
+],
+"ety": "From French oculiste (“oculist”), from Latin oculus (“eye”).",
+"examples": [],
+"p": "AH-kyuh-list"
+},
+{
+"w": "widener",
+"pos": "noun",
+"senses": [
+"Any device used to widen something; especially a drill designed to produce a hole greater than its own diameter."
+],
+"ety": "From widen + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "jagua",
+"pos": "noun",
+"senses": [
+"The oval-shaped fruit of this tree; genipap.",
+"The extract of this fruit, used as a dye for temporary body art and tattoos that stain the upper layer of the skin."
+],
+"ety": "Borrowed from Spanish jagua.",
+"examples": [
+"Nothing is wasted— leaves are used to make baskets, the juice of the jagua fruit is applied as a mosquito repellent, and the river provides fresh water for bathing.",
+"This concoction, which Estellita Lins claims capable of dissolving a candiru lodged in the urethra, is a hot tea made from jagua juice. Jagua is the fruit of the tropical tree Genipa americana."
+],
+"p": null
+},
+{
+"w": "backpropagation",
+"pos": "noun",
+"senses": [
+"An error correction technique used in neural networks."
+],
+"ety": "From back + propagation.",
+"examples": [
+"In machine learning, backpropagation of error (‘backprop’) is the algorithm most often used to train deep neural networks and is the most successful learning procedure for these networks."
+],
+"p": null
+},
+{
+"w": "kitsune",
+"pos": "noun",
+"senses": [
+"A Japanese fox spirit, often but not exclusively female, said to have powers such as shape-shifting, and whose power is symbolized by increase in number of tails."
+],
+"ety": "From Japanese 狐 (kitsune, “fox”).",
+"examples": [],
+"p": "kit-SOO-nay"
+},
+{
+"w": "intermediacy",
+"pos": "noun",
+"senses": [
+"intervention"
+],
+"ety": "From intermediate + -cy.",
+"examples": [],
+"p": "in-ter-MEE-dee-uh-see"
+},
+{
+"w": "lensed",
+"pos": "adjective",
+"senses": [
+"Having a (specified form of) lens"
+],
+"ety": "From lens + -ed.",
+"examples": [],
+"p": null
+}
+]

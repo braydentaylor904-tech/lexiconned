@@ -1,0 +1,442 @@
+[
+{
+"w": "underrun",
+"pos": "verb",
+"senses": [
+"To run or pass under."
+],
+"ety": "From under- + run.",
+"examples": [
+"He spoke fast, with the uneasy tone that so often underran his words."
+],
+"p": null
+},
+{
+"w": "kreuzer",
+"pos": "noun",
+"senses": [
+"A small coin of varying value formerly used in parts of Germany and Austria."
+],
+"ety": "From German Kreuzer, from Kreuz (“cross”).",
+"examples": [],
+"p": "KROYT-suh"
+},
+{
+"w": "fermenter",
+"pos": "noun",
+"senses": [
+"Any organism, such as a yeast, that causes fermentation.",
+"A fermentor; a vessel in which fermentation takes place."
+],
+"ety": "From ferment + -er.",
+"examples": [
+"Where this has proved impossible, we've outsourced the process using barrels, jars, comost heaps and industrial fermenters."
+],
+"p": null
+},
+{
+"w": "haily",
+"pos": "adjective",
+"senses": [
+"Containing hail; involving hail falling."
+],
+"ety": "From hail + -y (adjectival suffix).",
+"examples": [],
+"p": null
+},
+{
+"w": "riyaz",
+"pos": "noun",
+"senses": [
+"The rigorous practice of Hindustani classical music."
+],
+"ety": "From Urdu ریاض f (riyāz).",
+"examples": [],
+"p": null
+},
+{
+"w": "tengen",
+"pos": "noun",
+"senses": [
+"The center point on a Go board."
+],
+"ety": "Borrowed from Japanese 天元 (tengen).",
+"examples": [
+"Opening at tengen is a sound strategy on a 9x9 board, but considered experimental in standard 19x19 Go."
+],
+"p": null
+},
+{
+"w": "moonraker",
+"pos": "noun",
+"senses": [
+"Someone from Wiltshire."
+],
+"ety": "From moon + raker. (someone from Wiltshire): After a story in which some Wiltshire peasants, seeing the reflection of the moon in a shallow pool, tried to rake it out.",
+"examples": [],
+"p": "MOON-ray-ker"
+},
+{
+"w": "trapiche",
+"pos": "noun",
+"senses": [
+"A mill made of wooden rollers used to extract juice from fruit, originally olives, or from sugar cane.",
+"A star-shaped pattern of inclusions sometimes found in gemstones."
+],
+"ety": "Borrowed from Spanish trapiche.",
+"examples": [],
+"p": null
+},
+{
+"w": "submontane",
+"pos": "adjective",
+"senses": [
+"Located at the base of a mountain, or in the foothills of a mountain chain."
+],
+"ety": "From sub- + montane.",
+"examples": [],
+"p": null
+},
+{
+"w": "moombahton",
+"pos": "noun",
+"senses": [
+"A fusion genre of house music and reggaeton."
+],
+"ety": "Blend of Moombah (the name of a track by Surinamese-born Dutch musician DJ Chuckie) and reggaeton.",
+"examples": [],
+"p": "MOOM-buh-ton"
+},
+{
+"w": "bedbound",
+"pos": "adjective",
+"senses": [
+"Unable to leave one's bed (for any reason, such as illness, injury, or disability)."
+],
+"ety": "From bed + bound.",
+"examples": [],
+"p": null
+},
+{
+"w": "linnet",
+"pos": "noun",
+"senses": [
+"A small passerine bird, the common linnet (Linaria cannabina syn. Carduelis cannabina), in the finch family Fringillidae, native to Europe, western Asia, and north Africa.",
+"A house finch (Haemorhous mexicanus), of North America."
+],
+"ety": "From Old French linette, from lin (“flax”), from the bird's fondness for the seeds of flax, the source of linen and Old English līnete, līnetwige (“linnet”) (> dialectal English lintwhite).",
+"examples": [],
+"p": "LIN-it"
+},
+{
+"w": "abrogation",
+"pos": "noun",
+"senses": [
+"A repeal by authority; abolition.",
+"The blocking of a molecular process or function."
+],
+"ety": "First attested in 1535. From Middle French abrogation, from Latin abrogātiō (“repealed”), from abrogo, from ab (“from”) + rogo (“ask, inquire”). By surface analysis, ab- + Latin rog- + -ate + -ion.",
+"examples": [],
+"p": "ab-ruh-GAY-shun"
+},
+{
+"w": "tetracyclic",
+"pos": "noun",
+"senses": [
+"Any drug derived from tetracycline"
+],
+"ety": "From tetra- + cyclic.",
+"examples": [],
+"p": null
+},
+{
+"w": "saltimbocca",
+"pos": "noun",
+"senses": [
+"An Italian dish of veal, thinly sliced and rolled in prosciutto ham and sage leaves."
+],
+"ety": "Borrowed from Italian saltimbocca, univerbation of saltare (“to leap”) + in (“into”) + bocca (“mouth”).",
+"examples": [],
+"p": null
+},
+{
+"w": "kummel",
+"pos": "noun",
+"senses": [
+"A German caraway liqueur."
+],
+"ety": "From German Kümmel.",
+"examples": [],
+"p": null
+},
+{
+"w": "mahila",
+"pos": "noun",
+"senses": [
+"Woman or women."
+],
+"ety": "Borrowed from Hindi महिला (mahilā).",
+"examples": [],
+"p": null
+},
+{
+"w": "harebrained",
+"pos": "adjective",
+"senses": [
+"Absurd, foolish or stupid.",
+"Frivolous and silly; featherbrained or scatterbrained; stupid."
+],
+"ety": "From hare + brained.",
+"examples": [],
+"p": null
+},
+{
+"w": "psytrance",
+"pos": "noun",
+"senses": [
+"A genre of trance music characterized by hypnotic arrangements of synthetic rhythms and complex layered melodies created by high-tempo riffs."
+],
+"ety": "Short for psychedelic trance.",
+"examples": [],
+"p": "SY-trans"
+},
+{
+"w": "trendsetter",
+"pos": "noun",
+"senses": [
+"Someone who starts a trend, or makes something more popular."
+],
+"ety": "From trend + setter.",
+"examples": [],
+"p": "TREND-set-uh"
+},
+{
+"w": "skirted",
+"pos": "adjective",
+"senses": [
+"Wearing a skirt.",
+"Having a skirt.",
+"Passed around; evaded.",
+"Narrowly missed."
+],
+"ety": "From skirt + -ed.",
+"examples": [
+"Carefully the child tried to cover her deformed leg under her skirted pyjamas.",
+"Women should wear skirted suits or dresses with dress shoes; pantsuits are not usually worn.",
+"The women whose new jobs required pants, overalls, or skirted uniforms broke dramatically with convention."
+],
+"p": null
+},
+{
+"w": "backgrounder",
+"pos": "noun",
+"senses": [
+"A briefing or document typically provided prior to a meeting or other event that gives basic details on subjects that are likely to be mentioned.",
+"A person employed to draw backgrounds for a comic or cartoon.",
+"A cattle farmer or rancher who runs a backgrounding operation."
+],
+"ety": "From background + -er (agent noun suffix) or + -er (occupational suffix).",
+"examples": [
+"One of the President's aides gave us a ten-minute backgrounder on the dairy industry before the meeting."
+],
+"p": null
+},
+{
+"w": "exfoliate",
+"pos": "verb",
+"senses": [
+"To remove the leaves from a plant.",
+"To remove a layer of dead skin cells, as in cosmetic preparation."
+],
+"ety": "From Late Latin exfoliō (“to strip of leaves”), from ex- (“out of”) + folium (“leaf”); compare effoliate and French exfolier.",
+"examples": [],
+"p": "eks-FOH-lee-ayt"
+},
+{
+"w": "contractible",
+"pos": "adjective",
+"senses": [
+"Capable of contraction"
+],
+"ety": "From contract + -ible.",
+"examples": [],
+"p": null
+},
+{
+"w": "vigesimal",
+"pos": "adjective",
+"senses": [
+"Occurring in intervals of twenty.",
+"To the base twenty."
+],
+"ety": "From Latin vīgēsimus (“twentieth”), variant of Latin vīcēsimus (“twentieth”), from Latin vīgintī (“twenty”), (from *vīcēnssos, from Proto-Indo-European *wi(h₁)ḱm̥ttós, with the -imus ending of decimus (“tenth”)) + -al (suffix forming an adjective). Compare Latin vīgintī (“twenty”), from Proto-Indo-European *h₁wih₁ḱm̥ti, from *dwi(h₁)dḱm̥ti(h₁), *dwi(h₁)dḱm̥ti (“two tens; two decades”).",
+"examples": [],
+"p": "vih-JES-ih-mul"
+},
+{
+"w": "dormouse",
+"pos": "noun",
+"senses": [
+"Glis glis (edible dormouse).",
+"Muscardinus avellanarius (hazel dormouse).",
+"A person who sleeps a great deal, or who falls asleep readily (by analogy with the sound hibernation of the dormouse)."
+],
+"ety": "From Middle English dormowse, of uncertain origin. Possibly from a dialectal *dor-, from Old Norse dár (“benumbed”) + mous (“mouse”). More at doze, mouse. The word is sometimes conjectured to come from an Anglo-Norman derivative of Old French dormir (“to sleep”) (as *dormouse (“tending to be dormant”), with second element mistaken for mouse), but no such Anglo-Norman term is known to have existed.",
+"examples": [],
+"p": "DOR-mows"
+},
+{
+"w": "ashfield",
+"pos": "noun",
+"senses": [
+"A field that is covered in ash."
+],
+"ety": "From ash + field.",
+"examples": [
+"The ashfield of ten square miles above Nicolosi, created by the eruption of 1669, which was entirely barren in 1835, is now planted with vines almost to the summits of Mone Rosso, at a height of three thousand feet.",
+"Components of oil-shale ash deposited on ashfields, consumed or ejected with exhaust gases."
+],
+"p": null
+},
+{
+"w": "burgh",
+"pos": "noun",
+"senses": [
+"a small mound, often used in reference to tumuli (mostly restricted to place names)."
+],
+"ety": "From Middle English borwe, borgh, burgh, buruh, from Old English burh, from Proto-West Germanic *burg, from Proto-Germanic *burgz (“city, stronghold”). Cf. Strasbourg. Cognate with Dutch burg, French bourg, German Burg, Persian برج (borj, “tower; battlement, fort”), Swedish borg. Doublet of borough, Brough, and Bury.",
+"examples": [],
+"p": "BUR-oh"
+},
+{
+"w": "symbolical",
+"pos": "adjective",
+"senses": [
+"Synonym of symbolic."
+],
+"ety": "From Latin symbolicus + -al.",
+"examples": [],
+"p": null
+},
+{
+"w": "shimeji",
+"pos": "noun",
+"senses": [
+"Any of a group of edible mushrooms used in Japanese cookery."
+],
+"ety": "Borrowed from Japanese 湿地(しめじ) (shimeji).",
+"examples": [
+"Shimeji are those odd-looking clusters of small mushrooms you often find in so-called \"exotic\" selections at the supermarket. They have an appealing firmness that is retained during light cooking."
+],
+"p": null
+},
+{
+"w": "dandyism",
+"pos": "noun",
+"senses": [
+"The manners and dress of a dandy."
+],
+"ety": "From dandy + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "adagio",
+"pos": "noun",
+"senses": [
+"A tempo mark directing that a passage is to be played rather slowly, leisurely and gracefully.",
+"A passage having this mark."
+],
+"ety": "Borrowed from Italian adagio.",
+"examples": [],
+"p": "uh-DAH-jee-oh"
+},
+{
+"w": "salvo",
+"pos": "noun",
+"senses": [
+"An exception; a reservation; an excuse."
+],
+"ety": "From Latin salvo, ablative of salvus, the past participle of salvāre (“to save, to reserve”), either from salvo jure (“the right being reserved”), or from salvo errore et omissone (“reserving error and omission”).",
+"examples": [],
+"p": "SAL-voh"
+},
+{
+"w": "calabaza",
+"pos": "noun",
+"senses": [
+"A burr gherkin."
+],
+"ety": "Borrowed from Spanish calabaza.",
+"examples": [],
+"p": null
+},
+{
+"w": "pantaleon",
+"pos": "noun",
+"senses": [
+"A very large dulcimer, invented around 1700."
+],
+"ety": "From Pantaleon, as it was invented by Pantaleon Hebenstreit. Doublet of pantaloon.",
+"examples": [],
+"p": null
+},
+{
+"w": "chooser",
+"pos": "noun",
+"senses": [
+"One who chooses something."
+],
+"ety": "From Middle English *chosere, cheoser, chesere, cheosere, equivalent to choose + -er.",
+"examples": [],
+"p": "CHOO-zer"
+},
+{
+"w": "bilingualism",
+"pos": "noun",
+"senses": [
+"The condition of being bilingual; the ability to speak two languages."
+],
+"ety": "From bilingual + -ism.",
+"examples": [
+"At Kingsbridge, the bilingualism of the Irish Republic was evident in the tickets, the station notices, and the neat destination boards on the 10.40 a.m. express to Cork."
+],
+"p": null
+},
+{
+"w": "cubist",
+"pos": "noun",
+"senses": [
+"A player of Rubik's cube; a cuber."
+],
+"ety": "From cube + -ist.",
+"examples": [
+"Being a new reader of this group and a novice cubist, I'm not familiar with either of these notations. Would someone please fill me in? Thanks in advance for the help."
+],
+"p": null
+},
+{
+"w": "adytum",
+"pos": "noun",
+"senses": [
+"A private chamber; a sanctum."
+],
+"ety": "Borrowed from Latin adytum, from Ancient Greek ἄδυτον (áduton, “innermost sanctuary; shrine”), inflected form of ἄδυτος (ádutos, “not to be entered”).",
+"examples": [],
+"p": "AD-uh-tum"
+},
+{
+"w": "ericaceous",
+"pos": "adjective",
+"senses": [
+"Acid-loving, thriving in acidic conditions."
+],
+"ety": "Borrowed from New Latin erīcāceus.",
+"examples": [
+"Ericaceous plants include camellias, hollies, hydrangeas, and maples as well as members of the Ericaceae.",
+"Ralph E. Martin, a New Jersey engineer and gardener, concurs that coffee grounds for general garden and lawn use are too acid. He recommends small quantities for ericaceous (acid-loving) ornamentals.",
+"Many people long to grow some of these beautiful ericaceous (acid-loving) plants, but think they can't because they don't have the appropriate soil."
+],
+"p": null
+}
+]

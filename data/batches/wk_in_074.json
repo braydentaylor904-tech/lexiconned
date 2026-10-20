@@ -1,0 +1,536 @@
+[
+{
+"w": "magnification",
+"pos": "noun",
+"senses": [
+"The act of magnifying; enlargement; exaggeration.",
+"The apparent enlargement of an object in an image, for example using a lens, or by zooming in on a computer.",
+"Amplification."
+],
+"ety": "From magnify + -ification.",
+"examples": [
+"His story included a magnification of the events."
+],
+"p": "mag-nih-fih-KAY-shun"
+},
+{
+"w": "centralization",
+"pos": "noun",
+"senses": [
+"The act or process of centralizing, or the state of being centralized; the act or process of combining or reducing several parts into a whole"
+],
+"ety": "From French centralisation, equivalent to central + -ization or centralize + -ation.",
+"examples": [
+"V-Dem lists the characteristics of autocratization as deteriorations in freedom of expression, the decline of free and fair elections, and the centralization of authority."
+],
+"p": "sen-truh-luh-ZAY-shun"
+},
+{
+"w": "remuda",
+"pos": "noun",
+"senses": [
+"A herd of horses from which the horses to be used for a particular purpose are selected."
+],
+"ety": "Borrowed from Spanish remuda.",
+"examples": [
+"To one side of the barn was a remuda of work-horses, perhaps twenty in all.",
+"A big remuda had been driven up, Cayuse ponies mixed with larger American horses."
+],
+"p": "ruh-MOO-duh"
+},
+{
+"w": "agender",
+"pos": "adjective",
+"senses": [
+"Lacking gender (in any sense) entirely."
+],
+"ety": "c. 2000s, from a- (“not”) + gender.",
+"examples": [
+"An agender noun includes both the masculine and feminine forms.",
+"All I understand is that G-d is amorphous, agender, etc. so \"image\" can't be a physical or gender or sexual thing.",
+"But despite this near-universality of gender, cultures can have transgender, agender, and hypergender individuals."
+],
+"p": "ay-JEN-der"
+},
+{
+"w": "asphyxia",
+"pos": "noun",
+"senses": [
+"Loss of consciousness due to the interruption of breathing and consequent anoxia.",
+"Loss of consciousness due to the body's inability to deliver oxygen to its tissues, either by the breathing of air lacking oxygen or by the inability of the blood to carry oxygen."
+],
+"ety": "Learned borrowing from New Latin asphyxia, itself borrowed from Ancient Greek ἀσφυξία (asphuxía, “stopping of the pulse”).",
+"examples": [
+"Asphyxia may result from choking, drowning, electric shock, or injury."
+],
+"p": "az-FIK-see-uh"
+},
+{
+"w": "layan",
+"pos": "verb",
+"senses": [
+"To respond to (a person) through conversation or actions, to entertain."
+],
+"ety": "From Malay layan (“to serve, to entertain”).",
+"examples": [
+"BTW investors are profit-driven and motivated lar. I can elaborate on this but I'm too lazy to spend too much time to 'layan' ignorant morons like you.",
+"LOL. You must be desperate and lonely....okay....I layan you enough already today. Bye."
+],
+"p": "LUY-un"
+},
+{
+"w": "revolutionize",
+"pos": "verb",
+"senses": [
+"To radically or significantly change (something), as in a revolution."
+],
+"ety": "From revolution + -ize.",
+"examples": [
+"Researchers have developed a new gel they say is as durable as metal, has the flexibility of jello, and could revolutionize how our bodies heal and age.",
+"Another kind of machine learning, called neural networks, is also “revolutionizing” AI, the report said.",
+"ChatGPT and reinforcement learning with human feedback (RLHF) have revolutionized the AI landscape, providing an accessible and reliable platform for AI-enabled applications."
+],
+"p": "rev-uh-LYOO-shuh-nize"
+},
+{
+"w": "kiosk",
+"pos": "noun",
+"senses": [
+"A small enclosed structure, often freestanding, open on one side or with a window, used as a booth to sell newspapers, cigarettes, etc.",
+"A similar but unattended stand for the automatic dispensing of tickets, etc; an e-kiosk.",
+"A public telephone booth.",
+"A Turkish garden pavilion."
+],
+"ety": "",
+"examples": [
+"I remember that one time I went to the kiosk next door to buy condoms, it was raining, she appeared."
+],
+"p": "KEE-ahsk"
+},
+{
+"w": "lobsterman",
+"pos": "noun",
+"senses": [
+"A fisherman (male or female) for lobsters.",
+"A male fisher of lobster, masculine of lobsterwoman.",
+"A fictional alien or monster that looks like a lobster/human hybrid."
+],
+"ety": "From lobster + -man.",
+"examples": [
+"So they are unprepared when the lobsterman, in a symbolic evolutionary leap, cracks his shell and steps out as the rock superman; and, unappreciated, he is left to attempt suicide at the end.",
+"The movie nods to Robot Monster by giving the lobsterman a sidekick who is a gorilla with a space helmet.",
+"Poor Lobsterman. Out there living among regular men with regular hands. Misunderstood. Impaired, Shunned."
+],
+"p": "LOB-ster-mun"
+},
+{
+"w": "lather",
+"pos": "noun",
+"senses": [
+"The foam made by rapidly stirring soap and water.",
+"Foam from profuse sweating, as of a horse.",
+"A state of agitation."
+],
+"ety": "From Middle English lather, from Old English lēaþor (“a kind of nitre used for soap, soda”), from Proto-West Germanic *lauþr, from Proto-Germanic *lauþrą (“that which is used for washing, soap”), from Proto-Indo-European *lówh₃trom (“that which is used for washing”), from *lewh₃-, *lowh₃- (“to wash, bathe”). Cognate with Swedish lödder (“lather, foam, froth, soap”), Icelandic löður (“foam, froth, a kind of niter used for soap”), Old Irish loathar (“wash-basin”), Ancient Greek λουτρόν (loutrón, “a bath, wash-room”), Latin lavō (“to wash”), Albanian laj (“to wash”), Ancient Greek λούω (loúō). Mo",
+"examples": [
+"Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed."
+],
+"p": "LATH-er"
+},
+{
+"w": "unionize",
+"pos": "verb",
+"senses": [
+"To organize workers into a trade union."
+],
+"ety": "From union + -ize.",
+"examples": [
+"The company laid off all the workers when they tried to unionize.",
+"My uncle got roughed up by some corporate thugs after they caught him trying to unionize their workers.",
+"She attended a teach-in to learn how to unionize her workplace."
+],
+"p": "YOON-yuh-nize"
+},
+{
+"w": "grinchy",
+"pos": "adjective",
+"senses": [
+"Possessing the qualities of a grinch; grouchy; being a killjoy.",
+"Possessing the appearance of the Grinch; green and/or tufty."
+],
+"ety": "From grinch + -y.",
+"examples": [
+"This grinchy pronouncement by the president had the value of being truthful."
+],
+"p": "GRIN-chee"
+},
+{
+"w": "orisha",
+"pos": "noun",
+"senses": [
+"A divine entity in Yoruba religion that possesses the supernatural capability of reflecting some of the manifestations of Olódùmarè"
+],
+"ety": "Borrowed from Yoruba òrìṣà.",
+"examples": [
+"Under the command of Olorun were also orishas, intermediaries in the Yorubic religion said to be connected between man and the supernatural."
+],
+"p": "OR-ih-shah"
+},
+{
+"w": "vuvuzela",
+"pos": "noun",
+"senses": [
+"A trumpet-shaped horn, now usually plastic, that produces a loud buzzing sound."
+],
+"ety": "Borrowed from Zulu vuvuzela (“to make a vu vu noise”), from the /vuː/ sound the horns make.",
+"examples": [
+"When the Manchester United squad walked through the arrival gates at Durban International yesterday, most players heard a vuvuzela for the first time.",
+"I’m talking, of course, about the vuvuzela. Essentially, a metre-long blowhorn, which you may struggle to get past a steward at an English football ground.",
+"For some, the vuvuzelas herald the country’s piercing emergence from the forced racial hush of apartheid."
+],
+"p": "voo-voo-ZAY-luh"
+},
+{
+"w": "exsanguination",
+"pos": "noun",
+"senses": [
+"Bloodletting.",
+"Slaughter of an animal by cutting its throat and allowing it to bleed out, especially for the production of halal and kosher meat.",
+"The process of draining the blood of an animal."
+],
+"ety": "From exsanguinate + -ion.",
+"examples": [
+"Solutrean points resemble the canines of the sabre-toothed cats. Indeed, they may have killed in a similar way - by exsanguination."
+],
+"p": "ek-sang-gwih-NAY-shun"
+},
+{
+"w": "indeclinable",
+"pos": "adjective",
+"senses": [
+"That one cannot decline; unavoidable."
+],
+"ety": "From French indéclinable, from Middle French, from Latin indeclinabilis. Equivalent to in- + declinable.",
+"examples": [
+"He'd planned to work a double shift Friday night, but Gladys Silverman's indeclinable invitation threw a hefty wrench into David's plans."
+],
+"p": "in-dih-KLAHY-nuh-bul"
+},
+{
+"w": "macher",
+"pos": "noun",
+"senses": [
+"An important person, often in the negative sense of self-important; a bigwig."
+],
+"ety": "From Yiddish מאַכער (makher, “influential person”, literally “one who makes”) from מאַכן (makhn, “to make”). Cognate, naturally, to English maker and German Macher.",
+"examples": [
+"An ordinary man doesn’t jump the Snake River Canyon / with nothing underneath his ass / but a two-wheeled, fin-stabilised X-1 Skycycle / and a seven-figure guarantee from some macher in LA.",
+"Finally, Mr. Wall Street macher, there's our own Abe Silverfish, a man who has editing awards from prestige film festivals in Tanganyika and Bali."
+],
+"p": "MAH-kher"
+},
+{
+"w": "bolus",
+"pos": "noun",
+"senses": [
+"A round mass of something, especially of chewed food in the mouth or alimentary canal.",
+"A single, large dose of a drug, especially one in that form."
+],
+"ety": "From Late Latin bōlus (“clod of earth, lump”), plural bōlī, from Ancient Greek βῶλος (bôlos, “clod, lump”). Doublet of bole.",
+"examples": [
+"I gave him a bolus, twice the size of a gooseberry."
+],
+"p": "BOH-lus"
+},
+{
+"w": "brooder",
+"pos": "noun",
+"senses": [
+"A person who broods.",
+"A heated box used for chicks or premature babies."
+],
+"ety": "From brood + -er.",
+"examples": [
+"Ah! our poor simple fathers should rise up Out of their graves, and come to get advice And comfort from the brooders that are now."
+],
+"p": "BROO-der"
+},
+{
+"w": "twinge",
+"pos": "verb",
+"senses": [
+"To have a sudden, pinching or sharp pain in a specific part of the body, like a twitch."
+],
+"ety": "The verb is derived from Middle English twengen (“to nip, pinch, tweak; to tear at”), from Old English twenġan (“to pinch, squeeze”), from Proto-West Germanic *twangijan (“to pinch, squeeze”), from Proto-Germanic *twangijaną (“to pinch, squeeze”), the causative form of *twinganą (“to press, squeeze”); further etymology uncertain, possibly related to *þwangiz (“belt, strap, thong; pressure, restraint”) or *þwinganą, *þwinhaną (“to constrain; to force”) (whence German zwingen), both ultimately from Proto-Indo-European *twenk- (“to press, pressure, squeeze”). However, the Oxford English Dictionar",
+"examples": [
+"My side twinges if I sit too long."
+],
+"p": "twinj"
+},
+{
+"w": "melodica",
+"pos": "noun",
+"senses": [
+"A free-reed keyboard wind instrument, often played with a flexible plastic tube connected to the mouthpiece."
+],
+"ety": "Possibly a blend of melodeon + harmonica.",
+"examples": [
+"On “Seven by Seven” it was the reedy blend of two melodicas, played by Mr. Apfelbaum and Mr. Valera over a haunting drone."
+],
+"p": "muh-LAH-dih-kuh"
+},
+{
+"w": "townie",
+"pos": "noun",
+"senses": [
+"A person living in a university area who is not associated with the university.",
+"A working-class citizen in a metropolitan area.",
+"A person from Stornoway."
+],
+"ety": "From town + -ie (“person associated”).",
+"examples": [
+"Professional gamblers have a cushy racket in college football because old grads and even townies of college localities are sentimental bettors and easy to separate from their money.",
+"School is an ivory tower on the hill; it nestles in the gated groves of academe. It’s residents do not mix with “townies.”",
+"In Spike Lee's movie School Daze you play a townie who's very hostile to the college students from out of town."
+],
+"p": "TOW-nee"
+},
+{
+"w": "hummel",
+"pos": "noun",
+"senses": [
+"A stag that has failed to grow antlers; a cow that has not developed horns.",
+"Especially in hummel corn: grain that lacks awns (beards or bristles), or has had its awns removed (barley, oats, etc.)."
+],
+"ety": "Probably from Middle English hamelen (“to maim, mutilate; to cut short”), from Old English hamelian (“to hamstring, mutilate”), from Proto-Germanic *hamalōną, *hamlōną (“to mutilate”), from Proto-Indo-European *kem- (“hornless; mutilated”). Cognate with Dutch hamel (“wether”), English hamble, Low German hommel, hummel (“an animal lacking horns”), humlich, dialectal hommlich (“lacking horns”), Bavarian humlet (“lacking horns”), German hammeln, hämmeln (“to geld”), Icelandic hamla (“to maim, mutilate”). OxfordDictionaries.com suggests that the “ear of grain with its awns removed” sense preceded ",
+"examples": [
+"We have a stane o' meal a week, / An' five big bowes o' hummel corn; / Potatoes, coals, lint, a'thing free, / A soo, an' hens—a gude coo's grass— / There's little, to be sure, for tea, / But mony honest folk hae less."
+],
+"p": "HUM-ul"
+},
+{
+"w": "pathic",
+"pos": "noun",
+"senses": [
+"Synonym of bottom: a passive usually-male partner in homosexual anal intercourse."
+],
+"ety": "From Latin pathicus, from Ancient Greek παθικός (pathikós), from πάθος (páthos, “suffering, feeling”), from πάσχω (páskhō, “to feel, to suffer”).",
+"examples": [
+"In England the vices in fashion are whoring & drinking, in Turkey, Sodomy & smoking, we prefer a girl and a bottle, they a pipe and pathic.",
+"And enough of these gooey saints with a look of pathic dismay as if they getting fucked up the ass and try not to pay any mind.",
+"But in those days I was Paul Dempster, who had been made to forget it and take a name from the side of a barn, and be the pathic of a perverted drug-taker."
+],
+"p": "PATH-ik"
+},
+{
+"w": "homey",
+"pos": "adjective",
+"senses": [
+"Befitting a home; cozy, intimate."
+],
+"ety": "From home + -y.",
+"examples": [
+"Susan added some homey touches to her office.",
+"The enticing, homey scent of apple pie wafted into the hallway as she beckoned them into her lair."
+],
+"p": "HOH-mee"
+},
+{
+"w": "listenership",
+"pos": "noun",
+"senses": [
+"The audience that listens to a certain form or genre of audio material (specifically (Internet, radio), an audio broadcast such as a radio program or a podcast)."
+],
+"ety": "From listener + -ship (suffix denoting a property or state of being).",
+"examples": [
+"The American research confirmed the figure of 35 million as the average listenership of the station within Nigeria."
+],
+"p": "LIS-uh-ner-ship"
+},
+{
+"w": "guacamole",
+"pos": "noun",
+"senses": [
+"An avocado-based greenish dip with onions, tomato, and spices, common to Mexican cuisine and often served with tortilla chips."
+],
+"ety": "Borrowed from Spanish guacamole, from Classical Nahuatl āhuacamōlli (from āhuacatl (“avocado”) + mōlli (“sauce; broth”)).",
+"examples": [
+"Typical Mexican food is prepared here according to ancient recipes and served in orthodox sequence, that is, guacamole at the beginning and frijoles at the end."
+],
+"p": "gwah-kuh-MOHL-ee"
+},
+{
+"w": "kapok",
+"pos": "noun",
+"senses": [
+"A silky fibre obtained from seed pods of the silk-cotton tree (Ceiba pentandra) used for insulation and stuffing for mattresses, pillows, etc.",
+"A silk-cotton tree (Ceiba pentandra).",
+"A cotton tree, Malabar silk-cotton tree, or red silk-cotton tree (Bombax ceiba)."
+],
+"ety": "Borrowed from Malay kapuk (“silky fibre from the silk-cotton tree; Ceiba pentandra”).",
+"examples": [
+"You can stuff them full of kapok to make a decent cushion and there is nothing better to carry frogs in.",
+"A still summer night a world away in a house that smells of cactus and dust and musty kapok."
+],
+"p": "KAY-pahk"
+},
+{
+"w": "epiphenomenal",
+"pos": "adjective",
+"senses": [
+"Being of secondary consequence to a causal chain of processes, but playing no causal role in the process of interest."
+],
+"ety": "From epi- + phenomenal.",
+"examples": [
+"An organism's consciousness is epiphenomenal to its behavior, and its behavior is determined by unconscious calculations."
+],
+"p": "ep-ih-fih-NOM-ih-nul"
+},
+{
+"w": "arcology",
+"pos": "noun",
+"senses": [
+"Urban development theory proposed by Paolo Soleri involving three-dimensional building methods and efficient use of space and resources.",
+"An extremely large building or complex, sufficient to maintain an internal ecology as well as an extremely high human population density."
+],
+"ety": "Blend of architecture + ecology, coined by Italian architect Paolo Soleri in 1969.",
+"examples": [
+"Behind the port lay the city, factory domes dominated by the vast cubes of corporate arcologies."
+],
+"p": "ar-KAH-luh-jee"
+},
+{
+"w": "reticulation",
+"pos": "noun",
+"senses": [
+"A network of criss-crossing lines, strands, cables or pipes.",
+"A method of copying a painting by the help of threads stretched across a frame."
+],
+"ety": "By surface analysis, reticule + -ation, or, by surface analysis, reticulate + -ion.",
+"examples": [
+"The students studied the reticulation of the veins in the leaf."
+],
+"p": "ruh-tik-yuh-LAY-shun"
+},
+{
+"w": "quadrille",
+"pos": "noun",
+"senses": [
+"The music for this dance.",
+"A Spanish trick-taking card game from the 1700s played with a 40-card deck.",
+"A choreographed dressage ride, commonly performed to music, with a minimum of four horses."
+],
+"ety": "French, in sense of “group of knights”, from Spanish cuadrilla, diminutive of cuadra (“square”) (compare also cuadra (“four”)), from Latin quadra.",
+"examples": [
+"There was ol' Mickey Coote Who played hard on his flute When the ladies lined up for a set He was tootin' with skill For each sparkling quadrille Though the dancers were fluther'd and bet",
+"It now first struck her that she was selected from among her sisters as worthy of being the mistress of Hunsford Parsonage, and of assisting to form a quadrille table at Rosings, in the absence of more eligible visitors."
+],
+"p": "kwod-RIL"
+},
+{
+"w": "gazetteer",
+"pos": "verb",
+"senses": [
+"Synonym of gazette (“to announce the status of (someone) in an official gazette”)."
+],
+"ety": "The noun is borrowed from French gazettier (archaic), gazetier (“journalist, newspaperman”) + English -eer (suffix forming agent nouns denoting people associated with or engaged in a specified activities). Gazettier, gazetier are derived from gazette (“newspaper”) + -ier (suffix denoting a profession); and gazette from Italian gazzetta, from Venetan gazeta, from gazeta dele novità (literally “a gazeta of news”) (referring to the cost of the newspaper, a gazeta being a Venetian coin of little value, whence English gazet (obsolete)), possibly a diminutive of Latin gaza (“riches, treasure; treasu",
+"examples": [
+"But the change was at hand, and two new major-generals and six brigadier-generals were gazetteered to the anxious country."
+],
+"p": "gaz-uh-TEER"
+},
+{
+"w": "oligarch",
+"pos": "noun",
+"senses": [
+"A very wealthy business owner who wields political power.",
+"A protoplanet formed during oligarchic accretion."
+],
+"ety": "From French oligarque, olygarche, from Late Latin oligarcha, from Ancient Greek ὀλιγάρχης (oligárkhēs). By surface analysis, olig- (“few”) + -arch (“ruler, leader”).",
+"examples": [
+"Millions of people were starving, while the oligarchs and their supporters were surfeiting on the surplus.",
+"Ukraine's oligarchs emerged in parallel to Russia's, who have been more closely studied, and they were quite similar.",
+"The astronomical sales of the tome have proven once and for all that for teen girls and young women in Russia, the allure of marrying an oligarch is many times more powerful than acquiring fame or intellectual status."
+],
+"p": "AH-luh-gark"
+},
+{
+"w": "trilobite",
+"pos": "noun",
+"senses": [
+"An extinct arthropod of the class Trilobita, whose body had three large lobes."
+],
+"ety": "Borrowed from translingual Trilobita. By surface analysis, tri- (“three”) + lobe + -ite (“mineral, individual”), literally “three-lober”.",
+"examples": [
+"When you look at a Precambrian trilobite in the lobby of a New York bank, it is difficult to speculate about its primeval environment."
+],
+"p": "TRY-luh-bite"
+},
+{
+"w": "dingleberry",
+"pos": "noun",
+"senses": [
+"Vaccinium erythrocarpum, the southern mountain cranberry.",
+"Any residual irregularity following processing."
+],
+"ety": "A (possibly dialectal) alteration of dangleberry.",
+"examples": [
+"Helen sat on the ground crumbling hard lumps of clay between her fingers, and tried to imagine the green place in the swamp where the dingleberries grew.",
+"Vaccinium erythrocarpum, the dingleberry, sometimes produces berries of excellent flavor, which are used locally for jellies; Uphof (1968) reports that this species has been recommended for cultivation.",
+"The contour of the root bead is very irregular and solidified drops of metal, \"cherries\" or \"dingleberries,\" extend therefrom evidencing burn-throughs."
+],
+"p": "DING-gul-bair-ee"
+},
+{
+"w": "enfeeble",
+"pos": "verb",
+"senses": [
+"To make feeble."
+],
+"ety": "From Middle English enfeblen, from Old French enfeblir. Constructed like en- + feeble.",
+"examples": [
+"In the face of enfeebled, self-harming opposition on both sides of the border (and a miserable economic recession on both sides too) he has performed brilliantly.",
+"The Republican-appointed justices may yet enfeeble the executive branch’s ability to implement federal law."
+],
+"p": "in-FEE-bul"
+},
+{
+"w": "lisle",
+"pos": "noun",
+"senses": [
+"A type of strong cotton thread, or a cloth woven from such thread."
+],
+"ety": "Named after Lisle, France (now Lille), where it was first produced.",
+"examples": [
+"She herself dressed in dark dresses of heavy rayon crêpe, with grey Lisle stockings bound under the knee with two loops of knotted elastic.",
+"He wore a feather in his hat, doeskin breeches, lisle hose and an iridescent waistcoat."
+],
+"p": "lile"
+},
+{
+"w": "critter",
+"pos": "noun",
+"senses": [
+"A creature, and specifically, an animal or something animal-like.",
+"A small locomotive used in an industrial setting."
+],
+"ety": "First attested 1815, from a dialectal pronunciation of creature.",
+"examples": [
+"The San Juan market is Mexico City's most famous deli of exotic meats, where an adventurous shopper can hunt down hard-to-find critters such as ostrich, wild boar and crocodile.",
+"One of the biggest challenges facing a railfan photographer is the correct identification of one manufacturer's \"critter\" locomotive from that of another competing builder."
+],
+"p": "KRIT-er"
+},
+{
+"w": "soiree",
+"pos": "noun",
+"senses": [
+"A formal evening party."
+],
+"ety": "Borrowed from French soirée (“evening activity”).",
+"examples": [
+"An invite to a party / Or watching The Price Is Right / Opting for a soiree / For the first time in a year"
+],
+"p": "swah-RAY"
+}
+]

@@ -1,0 +1,446 @@
+[
+{
+"w": "purger",
+"pos": "noun",
+"senses": [
+"One who, or that which, purges or cleanses.",
+"A cathartic medicine."
+],
+"ety": "From purge + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "punji",
+"pos": "noun",
+"senses": [
+"A sharpened stick, often made of bamboo and covered in feces or other biohazardous material, set in the ground to wound or impale enemy soldiers."
+],
+"ety": "From Jingpho [Term?].",
+"examples": [
+"Ordinary punjis will penetrate thick uniforms or the upper part of a shoe."
+],
+"p": null
+},
+{
+"w": "kiddle",
+"pos": "noun",
+"senses": [
+"A kind of fishweir resembling a wattle or fence."
+],
+"ety": "From Middle English kidel, kedel, kydel, from Anglo-Norman quidel, quideau (“a wicker framework used to trap fish”), from Old Breton kidel (“a net at the mouth of a stream”).",
+"examples": [],
+"p": null
+},
+{
+"w": "revelry",
+"pos": "noun",
+"senses": [
+"Joyful or riotous merry-making."
+],
+"ety": "From Middle English revelrye; equivalent to revel + -ry.",
+"examples": [],
+"p": "REV-ul-ree"
+},
+{
+"w": "epicentre",
+"pos": "verb",
+"senses": [
+"Of an earthquake: to have its epicentre (at a specified location)."
+],
+"ety": "From epi- (“over, on top”) + centre, from Ancient Greek ἐπί (epí, “on”) + κέντρον (kéntron, “centre”). Sense of “center of an activity (particularly a disaster)” (1908) by generalization from earthquakes, possibly influenced by epidemic.",
+"examples": [],
+"p": "EP-ih-sen-ter"
+},
+{
+"w": "cancionero",
+"pos": "noun",
+"senses": [
+"A collection of songs."
+],
+"ety": "Borrowed from Spanish cancionero.",
+"examples": [],
+"p": null
+},
+{
+"w": "uncoachable",
+"pos": "adjective",
+"senses": [
+"Impossible or very difficult to coach."
+],
+"ety": "From un- + coachable.",
+"examples": [
+"These new players are just uncoachable; they don't listen to anything I say."
+],
+"p": null
+},
+{
+"w": "copaiba",
+"pos": "noun",
+"senses": [
+"An oleoresin, extracted from such trees, used in varnishes, ointments and as a perfume fixative."
+],
+"ety": "Borrowed from Portuguese copaíba, borrowed from Old Tupi kopa'yba, from Proto-Tupi-Guarani *kopaʔɨβ + Old Tupi -a.",
+"examples": [],
+"p": "koh-py-EE-buh"
+},
+{
+"w": "dispersity",
+"pos": "noun",
+"senses": [
+"The state of being dispersed, of being a dispersion.",
+"The extent to which something is dispersed."
+],
+"ety": "From disperse + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "biserial",
+"pos": "adjective",
+"senses": [
+"Arranged in two series"
+],
+"ety": "From bi- + serial.",
+"examples": [],
+"p": null
+},
+{
+"w": "gabled",
+"pos": "adjective",
+"senses": [
+"Having one or more gables."
+],
+"ety": "From gable + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "marang",
+"pos": "noun",
+"senses": [
+"Artocarpus odoratissimus; an evergreen tree that bears a strong smelling fruit with a creamy pulp.",
+"The fruit of this tree."
+],
+"ety": "From Mindanao Cebuano marang.",
+"examples": [],
+"p": null
+},
+{
+"w": "bozon",
+"pos": "noun",
+"senses": [
+"A notional particle of stupidity."
+],
+"ety": "Blend of bozo + boson.",
+"examples": [
+"Chain book sellers are, by and large, bogon and bozon emitters like nothing you've ever seen.",
+"One bozon is the exact amount of stupidity and lack of scientific knowledge needed to confuse joules with watts.",
+"There might be a superhigh concentration of bozons which will create a Stupid Hole and suck them all in."
+],
+"p": null
+},
+{
+"w": "traditionalism",
+"pos": "noun",
+"senses": [
+"The adherence to traditional views or practices, especially with regard to cultural or religious matters.",
+"The continuation of theological rituals on the basis that the ritual has always completed, rather than the ritual being a manifestation of theology."
+],
+"ety": "From traditional + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "smeller",
+"pos": "noun",
+"senses": [
+"Someone or something that smells, that detects scent.",
+"Someone or something that gives off a smell."
+],
+"ety": "From smell + -er.",
+"examples": [
+"December 12 2009, The Age - My space Steve Flamsteed I'm much more of a smeller than a taster and I think that comes from being a chef."
+],
+"p": null
+},
+{
+"w": "concetto",
+"pos": "noun",
+"senses": [
+"Affected wit; a witty turn of phrase; a conceit."
+],
+"ety": "Borrowed from Italian concetto, from Latin conceptus. See conceit and concept, which are doublets.",
+"examples": [],
+"p": "kun-CHET-oh"
+},
+{
+"w": "soupy",
+"pos": "adjective",
+"senses": [
+"Resembling soup; creamy.",
+"Extravagantly sentimental; slushy."
+],
+"ety": "From Middle English soupi, suppy, equivalent to soup + -y.",
+"examples": [],
+"p": "SOO-pee"
+},
+{
+"w": "dastan",
+"pos": "noun",
+"senses": [
+"An ornate form of oral history from Central Asia, generally centered on one individual who protects his tribe or people from an outside invader or enemy."
+],
+"ety": "Borrowed from Persian داستان (“story”).",
+"examples": [],
+"p": null
+},
+{
+"w": "lowdown",
+"pos": "noun",
+"senses": [
+"inside information, the story or truth.",
+"A lowlife, a despicable person."
+],
+"ety": "Compound adjective of low + down in the sense of \"humble\" recorded in the 1540s, in the sense of \"vulgar, far down the social scale\" in 1888. Recorded as a noun in 1915 in the slang sense of secret or inside information.",
+"examples": [
+"All the reporters hoped to be the first to get the lowdown on the celebrity's marriage plans."
+],
+"p": null
+},
+{
+"w": "sewerage",
+"pos": "noun",
+"senses": [
+"A network of sewer pipes that geographically transfers wastewater; a sewer system."
+],
+"ety": "From sewer + -age.",
+"examples": [],
+"p": "SOO-rij"
+},
+{
+"w": "unmissable",
+"pos": "adjective",
+"senses": [
+"Not to be missed; thoroughly worth seeing or experiencing.",
+"Impossible to miss."
+],
+"ety": "From un- + missable.",
+"examples": [],
+"p": null
+},
+{
+"w": "bovid",
+"pos": "noun",
+"senses": [
+"An animal of the family Bovidae (such as the antelope, cattle, goat, and sheep)."
+],
+"ety": "From the stem of Classical Latin bōs + -id, after taxonomic name Bovidae. By surface analysis, an appellativization from Bovid(ae) minus -ae (a pattern that recurs with many -idae names).",
+"examples": [],
+"p": "BOH-vid"
+},
+{
+"w": "sunkissed",
+"pos": "adjective",
+"senses": [
+"Sunny (exposed to a high amount of sunlight).",
+"Rendered warm or brown due to exposure from the sun.",
+"Having an attractive appearance from recent sun exposure, i.e. a slight tan, often a slight sunburn, and a radiant glow."
+],
+"ety": "From sun + kissed.",
+"examples": [],
+"p": null
+},
+{
+"w": "freedman",
+"pos": "noun",
+"senses": [
+"A man who has been released from a condition of slavery."
+],
+"ety": "From freed + man.",
+"examples": [
+"The nomen belonged to all members of a gens and to all those attached to it (women, clients, and freedmen included).",
+"Education was a high priority for Appalachian freedmen and freedwomen just as it was for blacks throughout the Reconstruction South."
+],
+"p": null
+},
+{
+"w": "narcocorrido",
+"pos": "noun",
+"senses": [
+"A genre of Mexican music based on the polka, depicting drug smugglers, cartels, and other criminal activities.",
+"Any song in this genre."
+],
+"ety": "From Spanish narcocorrido, from narco- (“drug”) + corrido (“ballad”).",
+"examples": [
+"They were nonjudgmental first-person stories, including the notorious narcocorrido “Pacas de a Kilo,” (“One-Kilo Packets”) told from the point of view of a proud marijuana grower."
+],
+"p": null
+},
+{
+"w": "cubiculum",
+"pos": "noun",
+"senses": [
+"A small room, especially a bedroom, typically those small rooms found on the upper floor of a Roman house.",
+"A small room carved out of the wall of a catacomb, used as a mortuary chapel, and in Roman times, for Christian worship."
+],
+"ety": "Learned borrowing from Latin cubiculum (“bedroom”). Doublet of cubicle.",
+"examples": [],
+"p": "kyoo-BIK-yoo-lum"
+},
+{
+"w": "nagara",
+"pos": "noun",
+"senses": [
+"A drum used in folk music in the Caucasus region."
+],
+"ety": "Ultimately derived from Arabic نَقَّارَة (naqqāra). Doublet of nacre, naqareh, and nagada.",
+"examples": [],
+"p": null
+},
+{
+"w": "projective",
+"pos": "adjective",
+"senses": [
+"projecting outward"
+],
+"ety": "Formed by the suffixation of prōiect- (the perfect passive participial stem of the Classical Latin prōiciō, whence the English verb project) with the English -ive, forming project + -ive; however, compare the post-Classical Latin prōiectīvus (“relating to purging”).",
+"examples": [],
+"p": null
+},
+{
+"w": "crabeater",
+"pos": "noun",
+"senses": [
+"A cobia or sergeant fish (Rachycentron canadum).",
+"An Antarctic seal (Lobodon carcinophagus) that feeds on krill."
+],
+"ety": "From crab + eater.",
+"examples": [
+"Although crabeaters often gather on the ice in large numbers, pupping takes place in small groups.",
+"Also distinguishing them is that crabeaters often have moderate scaring around the head and chest from fights with conspecifics and deep scaring along the body resulting from close encounters with leopard seals."
+],
+"p": null
+},
+{
+"w": "implode",
+"pos": "verb",
+"senses": [
+"To collapse or burst inward violently.",
+"To suddenly lose support in all areas of a campaign simultaneously.",
+"To cause to collapse or burst inward violently."
+],
+"ety": "Back-formation from implosion.",
+"examples": [
+"The submarine imploded as it sank below its crush depth.",
+"Ragusa's campaign imploded after she confused coal mining with oil drilling during a speech."
+],
+"p": null
+},
+{
+"w": "bioresource",
+"pos": "noun",
+"senses": [
+"Any resource of biological origin."
+],
+"ety": "From bio- + resource.",
+"examples": [],
+"p": null
+},
+{
+"w": "sentimentalize",
+"pos": "verb",
+"senses": [
+"To give a sentimental feel to.",
+"To think or act in a sentimental manner; to get sentimental."
+],
+"ety": "From sentimental + -ize.",
+"examples": [
+"Let us not sentimentalize things just because they are old. Getting all dewy-eyed about it because it was started in the 17th century doesn't make sense when we're talking about the town dump."
+],
+"p": null
+},
+{
+"w": "crackling",
+"pos": "adjective",
+"senses": [
+"Sounding with small, sharp cracks or reports, frequently repeated."
+],
+"ety": "By surface analysis, crackle + -ing.",
+"examples": [],
+"p": "KRAK-uh-ling"
+},
+{
+"w": "luminaire",
+"pos": "noun",
+"senses": [
+"An electrical device that contains an electric lamp that provides illumination."
+],
+"ety": "Unadapted borrowing from French luminaire. Doublet of luminary.",
+"examples": [],
+"p": "loo-muh-NAIR"
+},
+{
+"w": "argal",
+"pos": "adverb",
+"senses": [
+"thus, therefore"
+],
+"ety": "A corruption of the Latin ergō (“therefore, thus”) by William Shakespeare for The Gravedigger in his famous play, Hamlet.",
+"examples": [],
+"p": "AR-gul"
+},
+{
+"w": "delver",
+"pos": "noun",
+"senses": [
+"One who digs or delves, as with a spade."
+],
+"ety": "From Middle English delvere, from Old English delfere (“a digger”), equivalent to delve + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "payee",
+"pos": "noun",
+"senses": [
+"one to whom money is paid."
+],
+"ety": "From pay + -ee.",
+"examples": [],
+"p": null
+},
+{
+"w": "mukti",
+"pos": "noun",
+"senses": [
+"Feminine synonym of masculine substantive noun मोक्ष (mokṣa, “liberation”)."
+],
+"ety": "Borrowed from Sanskrit मुक्ति (mukti).",
+"examples": [],
+"p": null
+},
+{
+"w": "alpinist",
+"pos": "noun",
+"senses": [
+"A mountain climber, especially in the European Alps or in ranges of similar ruggedness and elevation."
+],
+"ety": "From alpine + -ist.",
+"examples": [
+"The Swiss geologist and alpinist, Horace Bénédict de Saussure, the first to make the ascent of Mont Blanc (Aug. 3, 1787), is to have erected in his honor a statue in the village of Chamounix.",
+"A cross in the sky could have appeared. . . . The famous Alpinist Edward Whymper saw a similar effect on the Matterhorn."
+],
+"p": null
+},
+{
+"w": "dayroom",
+"pos": "noun",
+"senses": [
+"A common room in a residential total institution such as barracks, psychiatric hospital, prison, or dormitory where the inhabitants can mingle and socialize."
+],
+"ety": "From day + room.",
+"examples": [],
+"p": null
+}
+]

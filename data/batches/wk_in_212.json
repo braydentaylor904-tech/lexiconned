@@ -1,0 +1,431 @@
+[
+{
+"w": "occidentalism",
+"pos": "noun",
+"senses": [
+"The habits and attitudes of westerners."
+],
+"ety": "From occidental + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "amira",
+"pos": "noun",
+"senses": [
+"A member of a wealthy class of Armenian grandees in Constantinople which was in charge of national Armenian matters in the Ottoman Empire before the Armenian National Constitution of 1860 was adopted."
+],
+"ety": "From Armenian ամիրա (amira), from Old Armenian ամիրայ (amiray), from Classical Syriac ܐܡܝܪܐ (ʾămīrāʾ), from Arabic أَمِير (ʔamīr, “commander”). Doublet of amir, Amir, emir, and admiral.",
+"examples": [],
+"p": null
+},
+{
+"w": "diker",
+"pos": "noun",
+"senses": [
+"One who digs or works on dykes; a ditcher.",
+"One who builds stone walls, usually dry-stone without lime."
+],
+"ety": "From dike + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "ecolabel",
+"pos": "noun",
+"senses": [
+"A label on a product that states that it has been produced in an environmentally friendly manner."
+],
+"ety": "From eco- + label.",
+"examples": [],
+"p": null
+},
+{
+"w": "noddy",
+"pos": "noun",
+"senses": [
+"In full knave noddy: the jack or knave playing card.",
+"In full noddy-fifteen: a certain card game related to cribbage."
+],
+"ety": "Noun etymology 1 sense 1 is possibly from nod (“to incline the head up and down; to gradually fall asleep”) + -y (suffix forming diminutive nouns or familiar names); or a shortening of noddypoll, an obsolete alteration of hoddypoll (“fumbling, inept person”). The origin of noun etymology 1 sense 2 is uncertain; it is possibly derived from etymology 1 sense 1. Compare muggins (“fool, idiot; card game based on building in suits or matching exposed cards, the object being to get rid of one’s cards”). The origin of the adjective is uncertain; it is possibly also from nod (verb) + -y (suffix meanin",
+"examples": [],
+"p": "NAH-dee"
+},
+{
+"w": "ageism",
+"pos": "noun",
+"senses": [
+"The treating of a person or people, especially older people, differently from others based on assumptions, prejudices or/and stereotypes relating to their age."
+],
+"ety": "From age + -ism. Coined by American academic Robert N. Butler in 1969.",
+"examples": [],
+"p": "AYJ-ih-zum"
+},
+{
+"w": "scalloped",
+"pos": "adjective",
+"senses": [
+"Having an edge or border marked with semicircles.",
+"Cooked gratin; baked in a typical type of sauce, usually with cheese, as a casserole, e.g. scalloped potatoes; scalloped corn",
+"Baked in a scallop shell."
+],
+"ety": "From scallop + -ed. In culinary sense, originally referred to a seafood dish baked and served in a scallop shell, but now used more generally.",
+"examples": [],
+"p": null
+},
+{
+"w": "sontag",
+"pos": "noun",
+"senses": [
+"A knitted worsted jacket, worn over the waist of a woman's dress."
+],
+"ety": "After Henriette Sontag (1806–1854), German soprano singer.",
+"examples": [],
+"p": null
+},
+{
+"w": "spritzer",
+"pos": "noun",
+"senses": [
+"A chilled long drink, made from white wine and soda water, or fruit juice and soda water.",
+"Synonym of spray bottle.",
+"Synonym of seltzer bottle.",
+"Synonym of windscreen washer."
+],
+"ety": "From German Spritzer (“splash, spatter”). By surface analysis, spritz + -er; more at spritz.",
+"examples": [],
+"p": null
+},
+{
+"w": "obfuscatory",
+"pos": "adjective",
+"senses": [
+"Tending to obfuscate; intended to conceal the truth by confusion."
+],
+"ety": "From obfuscate + -ory.",
+"examples": [
+"I can't vote for a resolution with such obfuscatory language."
+],
+"p": null
+},
+{
+"w": "perturbation",
+"pos": "noun",
+"senses": [
+"Agitation; the state of being perturbed.",
+"A small change in a physical system, or more broadly any definable system (such as a biological or economic system)."
+],
+"ety": "Borrowed from Middle French perturbation, from Old French perturbacion, from Latin perturbatio.",
+"examples": [
+"But her mind had never been in such perturbation; and it needed a very strong effort to appear attentive and cheerful till the usual hour of separating allowed her the relief of quiet reflection."
+],
+"p": null
+},
+{
+"w": "narrativity",
+"pos": "noun",
+"senses": [
+"The presentation (and subsequent interpretation) of a dramatic narrative."
+],
+"ety": "From narrative + -ity.",
+"examples": [
+"Is any of this true? Do we create ourselves? Is the narrativity view a profound and universal insight into the human condition?"
+],
+"p": null
+},
+{
+"w": "cephalic",
+"pos": "adjective",
+"senses": [
+"Toward the head; in bipeds such as humans, this direction corresponds to superior.",
+"Headlike; cephaloid."
+],
+"ety": "From Middle French céphalique, from Latin cephalicus (“head”), from Ancient Greek κεφαλικός (kephalikós, “capital”), from κεφαλή (kephalḗ, “head”).",
+"examples": [],
+"p": "sih-FAL-ik"
+},
+{
+"w": "mineralogy",
+"pos": "noun",
+"senses": [
+"Mineral materials.",
+"A treatise on mineralogy."
+],
+"ety": "From New Latin minerālogia, from Medieval Latin minera (“mineral”) + Latin -logia (“study”). By surface analysis, mineral + -logy.",
+"examples": [],
+"p": "min-uh-RAH-luh-jee"
+},
+{
+"w": "aristos",
+"pos": "noun",
+"senses": [
+"An Ancient Greek nobleman."
+],
+"ety": "Borrowed from Ancient Greek ἄριστοι (áristoi).",
+"examples": [],
+"p": null
+},
+{
+"w": "delicatessen",
+"pos": "noun",
+"senses": [
+"A shop that sells cooked or prepared foods ready for serving."
+],
+"ety": "First attested 1864. From German Delikatessen, plural of Delikatesse (“delicacy, fine food”), at the time also spelled Delicatesse(n), from French délicatesse, from délicat (“fine”), from Latin delicatus (“alluring”). The sense of store is more recent, originating in ellipsis from the common attributive use, as in delicatessen shop, delicatessen store, etc.",
+"examples": [],
+"p": "del-ih-kuh-TES-un"
+},
+{
+"w": "choroidal",
+"pos": "noun",
+"senses": [
+"choroidal effusion"
+],
+"ety": "From choroid + -al.",
+"examples": [],
+"p": null
+},
+{
+"w": "inlaw",
+"pos": "noun",
+"senses": [
+"One who is within the domain or protection of the law."
+],
+"ety": "From Middle English inlaghe, inlage, from the verb (see above).",
+"examples": [],
+"p": "IN-law"
+},
+{
+"w": "hegemon",
+"pos": "noun",
+"senses": [
+"A dominating leader or force, especially that which dominates a separate political entity; a hegemonist."
+],
+"ety": "From Ancient Greek ἡγεμών (hēgemṓn, “a leader, guide, commander, chief”), from ἡγέομαι (hēgéomai, “to lead”).",
+"examples": [],
+"p": "HEH-jeh-mun"
+},
+{
+"w": "beastman",
+"pos": "noun",
+"senses": [
+"An intelligent man-sized beast with varying characteristics."
+],
+"ety": "From beast + man.",
+"examples": [],
+"p": null
+},
+{
+"w": "cupula",
+"pos": "noun",
+"senses": [
+"A cup-shaped or dome-shaped object."
+],
+"ety": "Borrowed from Latin cūpula, from cūpa + -ula. Doublet of cupola. False cognate of English cupule in which English cup is descendant of Old English copp of Germanic origin.",
+"examples": [],
+"p": null
+},
+{
+"w": "bolas",
+"pos": "noun",
+"senses": [
+"A throwing weapon made of weights on the ends of interconnected cords, designed to capture animals by entangling their legs.",
+"A sticky thread whirled around by certain spiders to catch prey."
+],
+"ety": "Borrowed from Spanish bola(s) (“ball(s)”) and Portuguese bola(s) (“ball(s)”). First attested in 1843.",
+"examples": [],
+"p": "BOH-lus"
+},
+{
+"w": "antemortem",
+"pos": "adjective",
+"senses": [
+"Having occurred or having been inflicted before death."
+],
+"ety": "Learned borrowing from Latin ante mortem (“before death”).",
+"examples": [
+"Although the antemortem injuries are severe, they are not the cause of death."
+],
+"p": null
+},
+{
+"w": "barras",
+"pos": "noun",
+"senses": [
+"coarse linen fabric"
+],
+"ety": "From French barras.",
+"examples": [],
+"p": null
+},
+{
+"w": "mucker",
+"pos": "noun",
+"senses": [
+"A person who removes muck (waste, debris, broken rock, etc.), especially from a mine, construction site, or stable."
+],
+"ety": "By surface analysis, muck + -er. Compare Swedish mokare/mockare (“one who cleans dung”, agent noun) → rörmokare/rörmockare (“plumber”, literally “pipe mucker”). Compare the military sense to Finnish mokkeri (“private”, colloquial), to Swedish mocka (“to clean muck”); and Swedish mecka/meka (“to repair or improve (mechanical) equipment”), to meckaniker (“mechanic”); also Swedish mucka (“to complete military service”), from Tavringer Romani mucka (“to be released”). The military sense might also derive from a slur, a common practice in military lingo.",
+"examples": [],
+"p": "MUK-er"
+},
+{
+"w": "encyst",
+"pos": "verb",
+"senses": [
+"To enclose within a cyst.",
+"To be enclosed within a cyst."
+],
+"ety": "From en- + cyst.",
+"examples": [],
+"p": "en-SIST"
+},
+{
+"w": "illiberalism",
+"pos": "noun",
+"senses": [
+"The principle, state or quality of being illiberal."
+],
+"ety": "From illiberal + -ism.",
+"examples": [
+"As the Oxford political theorist Michael Freeden observed, if just one of the necessary components — for example, the free market — dominates, then the result can be illiberalism.",
+"In the Netherlands, the anti-immigrant right became the second-most-popular vote-getter — a new high-water mark for illiberalism in that once famously liberal country."
+],
+"p": null
+},
+{
+"w": "asperger",
+"pos": "noun",
+"senses": [
+"An aspergillum.",
+"A ceremonial herb bundle or perforated object used to sprinkle witch's water at the commencement of a ritual."
+],
+"ety": "From the verb asperge, ultimately a learned borrowing from Latin aspergō.",
+"examples": [],
+"p": "uh-SPUR-juh"
+},
+{
+"w": "bioinformatician",
+"pos": "noun",
+"senses": [
+"A practitioner of bioinformatics"
+],
+"ety": "From bio- + informatician.",
+"examples": [],
+"p": null
+},
+{
+"w": "shakti",
+"pos": "noun",
+"senses": [
+"the divine force that pervades the universe."
+],
+"ety": "From Sanskrit शक्ति (śákti, “power, energy”).",
+"examples": [],
+"p": null
+},
+{
+"w": "chlorinator",
+"pos": "noun",
+"senses": [
+"That which chlorinates."
+],
+"ety": "From chlorinate + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "cannibalization",
+"pos": "noun",
+"senses": [
+"adapting, borrowing or stealing plots, characters, themes or ideas from one story for use in another or from one medium to another",
+"a reduction in sales volume, sales revenue, or market share of one product when the same company introduces a new product",
+"the practice of removing parts or subsystems necessary for repair from another similar device"
+],
+"ety": "From cannibal + -ization.",
+"examples": [],
+"p": "kah-nih-buh-luh-ih-ZAYSHN"
+},
+{
+"w": "oxygenation",
+"pos": "noun",
+"senses": [
+"The process of reacting or treating something with oxygen."
+],
+"ety": "From oxygen + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "primatologist",
+"pos": "noun",
+"senses": [
+"A specialist in primatology."
+],
+"ety": "From primatology + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "masculinist",
+"pos": "noun",
+"senses": [
+"An advocate of masculinism."
+],
+"ety": "From masculine + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "nonsteroidal",
+"pos": "noun",
+"senses": [
+"Any drug not containing steroids."
+],
+"ety": "From non- + steroidal.",
+"examples": [],
+"p": null
+},
+{
+"w": "oikos",
+"pos": "noun",
+"senses": [
+"A basic societal unit in Ancient Greece; a household or family line.",
+"Synonym of kontakion (hymn or poem recited as a dialogue)"
+],
+"ety": "From Ancient Greek οἶκος (oîkos).",
+"examples": [],
+"p": null
+},
+{
+"w": "badman",
+"pos": "noun",
+"senses": [
+"A violence-prone man who has had run-ins with the law; especially one from the Old West days of U.S. history."
+],
+"ety": "From bad + man.",
+"examples": [],
+"p": null
+},
+{
+"w": "caliver",
+"pos": "noun",
+"senses": [
+"A type of light musket."
+],
+"ety": "Variant of calibre.",
+"examples": [],
+"p": "KAH-lih-vuh"
+},
+{
+"w": "escapism",
+"pos": "noun",
+"senses": [
+"An inclination to escape from routine or reality into fantasy.",
+"A genre of book, film etc. that one uses to indulge this tendency.",
+"The performance of an escape artist."
+],
+"ety": "From escape + -ism.",
+"examples": [],
+"p": "ih-SKAY-pih-zum"
+}
+]

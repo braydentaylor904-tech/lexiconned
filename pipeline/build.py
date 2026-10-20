@@ -1,8 +1,9 @@
 """Step 6: assemble the frozen sequence and write words/YYYY-MM.json plus words/manifest.json.
 
 Day N (counted from the launch date in config.json) uses sequence entries 3N..3N+2.
-The sequence is: hand-written entries, then generated WordNet entries in curation order, skipping
-rejected ones and stopping at the first word that hasn't been generated yet.
+The sequence is: hand-written entries, then generated WordNet entries in curation order, then generated
+Wiktionary entries in wk_in_NNN order, skipping rejected ones and stopping at the first word that hasn't
+been generated yet.
 
 words/lock.json holds "locked_days": every day below it is already live and must never change.
 The build refuses to write if any locked day would come out different.
@@ -34,11 +35,21 @@ def build_sequence():
             continue
         o = gen.get(r["w"])
         if o is None:
-            break
+            return seq
         if not o.get("ok", True):
             continue
         seq.append({"w": r["w"], "p": r["p"], "pos": r["pos"], "d": r["d"],
                     "f": [cap(x) for x in o["f"]], "r": cap(o["r"]), "s": o["s"]})
+    for f in sorted((ROOT / "data" / "batches").glob("wk_in_*.json")):
+        out = ROOT / "pipeline" / "generated" / f"wk_out_{f.stem[6:]}.json"
+        done = json.loads(out.read_text()) if out.exists() else []
+        for r, o in zip(json.loads(f.read_text()), done):
+            if r["w"] in dropped or not o.get("ok", True):
+                continue
+            seq.append({"w": r["w"], "p": r["p"] or o["p"], "pos": r["pos"], "d": cap(o["d"]),
+                        "f": [cap(x) for x in o["f"]], "r": cap(o["r"]), "s": o["s"]})
+        if len(done) < len(json.loads(f.read_text())):
+            break
     return seq
 
 

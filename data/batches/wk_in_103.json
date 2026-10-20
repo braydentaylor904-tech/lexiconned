@@ -1,0 +1,550 @@
+[
+{
+"w": "twang",
+"pos": "noun",
+"senses": [
+"The sharp, quick sound of a vibrating tight string, for example, of a bow or a musical instrument.",
+"A particular sharp vibrating sound characteristic of electric guitars.",
+"A trace of a regional or foreign accent in someone's voice.",
+"A sharp, pungent taste or flavor; sometimes, a disagreeable one specifically."
+],
+"ety": "Onomatopoeic. Compare Middle English twengen (“to pinch, tweak”) (whence modern English twinge), from Old English twenġan (“to pinch, twinge”); Middle English twingen (“to afflict, torment, oppress”), from Old Norse þvinga (“to weigh down, oppress”); Old English twingan (“to force, press”).",
+"examples": [
+"Despite having lived in Canada for 20 years, he still has that Eastern European twang in his voice.",
+"Judging by the new voice over the PA, we've had a crew change in Plymouth - the warning about masks and the apology for lack of catering is made in a chirpy Cockney twang rather than a West Country burr."
+],
+"p": "TWAYNG"
+},
+{
+"w": "harpy",
+"pos": "noun",
+"senses": [
+"A mythological creature generally depicted as a bird-of-prey with the head of a maiden, a face pale with hunger and long claws on her hands personifying the destructive power of storm winds.",
+"One who is rapacious or ravenous; an extortioner.",
+"The European moor buzzard or marsh harrier (Circus aeruginosus)."
+],
+"ety": "Ultimately from Middle French harpie, from Latin harpyia, from Ancient Greek ἅρπυιᾰ (hárpuiă, literally “snatcher”), from ἁρπάζω (harpázō, “to snatch, seize”). Compare rapacious. Middle English had arpie.",
+"examples": [
+"Both table and provisions vanish'd quite, With sound of harpies' wings and talons heard."
+],
+"p": "HAR-pee"
+},
+{
+"w": "clump",
+"pos": "verb",
+"senses": [
+"To form clusters or lumps.",
+"To gather in dense groups.",
+"To walk with heavy footfalls.",
+"To strike; to beat."
+],
+"ety": "From Middle English clompe, from Old English clymppe, a variant of clympre (“a lump or mass of metal”), from Proto-Germanic *klumpô (“mass, lump, clump; clasp”), from Proto-Indo-European *glembʰ- (“lump, clamp”). Alternatively, possibly from Middle Dutch clompe or Middle Low German klumpe (compare German Klumpen). Doublet of klomp. Cognates include Danish klump (probably from Low German as well). Compare Norwegian Bokmål klump.",
+"examples": [
+"There is his poor little cap hanging up on the door; and there on the table is the knife he chipped a piece out of through not minding the mark on the knife machine, and I clumped his head for him, poor lamb!"
+],
+"p": "klump"
+},
+{
+"w": "hybridity",
+"pos": "noun",
+"senses": [
+"Synonym of hybridism."
+],
+"ety": "From hybrid + -ity.",
+"examples": [
+"One reason for the popularity of portmanteau words in naming language hybrids may be the fact that the names themselves embody a type of hybridity."
+],
+"p": "hy-BRID-ih-tee"
+},
+{
+"w": "swindler",
+"pos": "noun",
+"senses": [
+"A person who swindles, cheats or defrauds."
+],
+"ety": "Borrowed from German Schwindler, 1774.",
+"examples": [
+"But I got somethin’ to say bearin’ on that swindler who got what was comin’ to him.",
+"There’s good reason to worry. In an earlier memoir, “Five-Finger Discount,” Stapinski recreated the terrifying world of swindlers, embezzlers, burglars and mobster wannabes who made up her extended Jersey City family."
+],
+"p": "SWIND-ler"
+},
+{
+"w": "soylent",
+"pos": "noun",
+"senses": [
+"An undesirable, lackluster, and artificial foodstuff, as a substitute for real meat."
+],
+"ety": "Blend of soy + lentil, coined in Harry Harrison's 1966 Make Room! Make Room!",
+"examples": [
+"The soylent steaks were sitting like lead in his stomach and twice he had to go back to the dark and miserable toilet in the rear of the building.",
+"It is decided that the product will be composed of three elements — soylent green, red, and blue. Each pound of the final product must contain at least 2000 calories of energy and 1000 units of vitamins."
+],
+"p": "SOY-lunt"
+},
+{
+"w": "monism",
+"pos": "noun",
+"senses": [
+"The doctrine that there is a single source of political authority, especially that the church is subordinate to the state or vice versa.",
+"The legal doctrine that international law forms part of domestic law automatically after ratification or accession."
+],
+"ety": "The word was coined by German philosopher Baron Christian von Wolff and first used in English in 1862, from New Latin monismus, from Ancient Greek μόνος (mónos, “alone”). By surface analysis, mon- + -ism.",
+"examples": [
+"The same conflict between the monism of temporal theorists and the dualism of ecclesiastical thinkers—the same opposition of organic to symbiotic union—occurred in the ninth century."
+],
+"p": "MAH-nih-zum"
+},
+{
+"w": "multilingualism",
+"pos": "noun",
+"senses": [
+"The condition of being multilingual; the ability to speak multiple languages."
+],
+"ety": "From multilingual + -ism.",
+"examples": [
+"This is, perhaps, where writing centers and composition studies are implicated most obviously into the conversation of language ideology, translingualism, and multilingualism.",
+"Spielberg showed us, a nation historically obsessed with the idea of domination, that respect is a courageous choice and that multilingualism is our true color. It is who we are."
+],
+"p": "mul-tee-LING-gwuh-lih-zum"
+},
+{
+"w": "spontaneity",
+"pos": "noun",
+"senses": [
+"Spontaneous behaviour."
+],
+"ety": "From Latin spontaneus (“voluntary”). By surface analysis, spont(aneous) + -aneity. Compare French spontanéité.",
+"examples": [
+"Romney Leigh, who lives by diagrams, / And crosses out the spontaneities / Of all his individual, personal life / With formal universals."
+],
+"p": "SPON-tuh-nay-uh-tee"
+},
+{
+"w": "wintry",
+"pos": "adjective",
+"senses": [
+"Suggestive or characteristic of winter; cold, stormy.",
+"Containing sleet or snow.",
+"Aged, white-haired.",
+"Chilling, cheerless."
+],
+"ety": "From winter + -y; compare Old English wintriġ (a parallel formation).",
+"examples": [
+"A faded, and an ancient dragon he was; and many a wintry storm of rain, snow, sleet, and hail, had changed his colour from a gaudy blue to a faint lack-lustre shade of gray.",
+"The UK could face a spell of wintry weather in March, with lower-than-average temperatures and even the chance of snow, the Met Office has warned.",
+"It will be cloudy overnight, with outbreaks of heavy rain at times. The rain may turn wintry over higher ground."
+],
+"p": "WIN-tuh-ree"
+},
+{
+"w": "advisability",
+"pos": "noun",
+"senses": [
+"The quality of being advisable or prudent.",
+"An instance of advisability; a consideration in determining overall advisability."
+],
+"ety": "From advisable + -ity.",
+"examples": [
+"Viggo assumed a cheery offhand manner, but I could see that he was worried, doubtful as to the advisability of leaving me here alone."
+],
+"p": "ad-vize-uh-BIL-uh-tee"
+},
+{
+"w": "debar",
+"pos": "verb",
+"senses": [
+"To exclude or shut out; to bar.",
+"To hinder or prevent."
+],
+"ety": "From Anglo-Norman debarrer.",
+"examples": [
+"As for the guides, they were debarred from the pleasure of discourse, the one being placed in the van, and the other obliged to bring up the rear.",
+"How can I then return in happy plight, That am debarr'd the benefit of rest?"
+],
+"p": "dih-BAR"
+},
+{
+"w": "guarantor",
+"pos": "noun",
+"senses": [
+"A person, company, or organization that provides a guarantee."
+],
+"ety": "From guarant(ee) + -or.",
+"examples": [
+"The party is the visible embodiment of class-consciousness, the sole guarantor of the correct political orientation of the proletariat and the sole exponent of its 'real' will."
+],
+"p": "GAR-un-ter"
+},
+{
+"w": "kakistocracy",
+"pos": "noun",
+"senses": [
+"Government under the control of a nation's worst or least-qualified citizens."
+],
+"ety": "From Ancient Greek κάκιστος (kákistos, “worst”), superlative of κακός (kakós, “bad”) + -κρατία (-kratía, “power, rule, government”) (corresponding to -cracy). The word was used, perhaps re-coined, by the English author Thomas Love Peacock (1785–1866) in his 1829 novella The Misfortunes of Elphin as the opposite of aristocracy (see second quotation).",
+"examples": [
+"Is ours a \"government of the people, by the people, for the people,\" or a Kakistocracy rather, for the benefit of knaves at the cost of fools?",
+"Thus, the problem was not whether corruption/power abuse was allowed, but how to keep a balance between uprightness and kakistocracy.",
+"Some nation-states have suffered what the Greeks called kakistocracy—government by the worst of men. International law can, in theory if not always in practice, keep these kakistocracies from damaging too much."
+],
+"p": "kak-is-TAH-kruh-see"
+},
+{
+"w": "wheelie",
+"pos": "noun",
+"senses": [
+"An action or stunt where a bicycle, motorcycle, or other vehicle is ridden for a short period while it is standing only on its rear wheel or wheels.",
+"A wheelchair user."
+],
+"ety": "From wheel + -ie.",
+"examples": [
+"Jim fell off his bike when he was trying to do a wheelie.",
+"I learned how to let the clutch out slo-ow-ly so my tractor wouldn't pop a wheely and go hauling over backward.",
+"The bikers pop wheelies and execute speedy figure eights along the busy street. Still, something more purposeful than joyriding would seem to be on their minds."
+],
+"p": "HWEE-lee"
+},
+{
+"w": "overset",
+"pos": "verb",
+"senses": [
+"To knock over or overturn (someone or something); to capsize, to upset.",
+"To physically or mentally disturb (someone); to upset; specifically, to make (someone) ill, especially nauseous; to nauseate, to sicken.",
+"To throw (something, such as an organization, a plan, etc.) into confusion or out of order; to subvert, to unsettle, to upset.",
+"To set (copy or type) in excess of a given space.",
+"To recover from (an illness)."
+],
+"ety": "The verb is derived from Middle English oversetten (“to place or set over, cover; to assail; to defeat, overcome, overpower, overthrow; to defer; to discredit, refute; to disregard, overlook, set aside; to hinder; to oppress; to repulse”), from Old English ofersettan (“to put in a position of authority; to overcome or be overcome; to set over”), from Proto-West Germanic *ubarsattjan (“to place above, set over; to establish, install”), from *ubarsittjan (“to abstain from, neglect; to occupy, possess; to sit over or upon”), from *ubar- (prefix meaning ‘above, over’) + *sittjan (“to sit”) (from P",
+"examples": [
+"A reef between them also now began / To show its boiling surf and bounding spray, / But finding no place for their landing better, / They ran the boat for shore, and overset her.",
+"A thunderstorm is coming on, the maids say, and the hot and stifling air has overset the pretty dear; no wonder; they have felt their own knees all of a tremble all day long.",
+"Thus has the Tailor-art, so to speak, overset itself, like most other things; changed its centre-of-gravity; whirled suddenly over from zenith to nadir."
+],
+"p": "oh-ver-SET"
+},
+{
+"w": "munchkin",
+"pos": "noun",
+"senses": [
+"A person of very short stature.",
+"A player who mainly concentrates on increasing their character's power and capabilities.",
+"A pet name one used for someone considered adorable, such as a pet, child, or a romantic partner."
+],
+"ety": "Coined by American author L. Frank Baum in 1900 in his novel The Wonderful Wizard of Oz. Perhaps reflective of German Mensch or munch + -kin. Compare Low German Menschken and Low German Minschken. Sense 5 (“donut hole”) is a genericization of the Dunkin' trademark \"Munchkins\".",
+"examples": [
+"It'll also have a keyboard configured for a munchkin (...)",
+"Doesn't anybody recognize humor anymore, or have our faces gone completely stiff from thinking about good vs. evil or character balance or munchkin-zapping?"
+],
+"p": "MUNCH-kin"
+},
+{
+"w": "chested",
+"pos": "adjective",
+"senses": [
+"Having a chest (with a specified quality)."
+],
+"ety": "From chest + -ed.",
+"examples": [
+"Jenny was the most flat-chested of her friends.",
+"Beholding Ajax then, the aged king / Asked yet again: \"Who is that other chief / Of the Achaians, tall, and large of limb,— / Taller and broader-chested than the rest?\"",
+"Loud greetings followed, and another burst of laughter, heavy, deep-chested and glad."
+],
+"p": "CHES-tid"
+},
+{
+"w": "usury",
+"pos": "noun",
+"senses": [
+"An exorbitant rate of interest, in excess of any legal rates or at least immorally.",
+"The practice of lending money at such rates."
+],
+"ety": "From Middle English usurie, from Latin ūsūria, from ūsūra (“lending at interest, usury”) from ūsus (“use”), from stem of ūtī (“to use”). Compare usurp and use.",
+"examples": [
+"As a practical matter, California usury laws do not seriously inconvenience most lenders, and offer little protection to most borrowers."
+],
+"p": "YOO-zhuh-ree"
+},
+{
+"w": "megalopolis",
+"pos": "noun",
+"senses": [
+"A large conurbation, where two or more large cities have sprawled outward to meet, forming something larger than a normal metropolis."
+],
+"ety": "From megalo- (“great”) + -polis (“city”).",
+"examples": [
+"The Eastern Seaboard megalopolis extends from New Hampshire to Alexandria, VA."
+],
+"p": "meh-guh-LAH-puh-lis"
+},
+{
+"w": "wassail",
+"pos": "noun",
+"senses": [
+"A toast to health, usually on a festive occasion.",
+"The beverage served during a wassail, especially one made of ale or wine flavoured with spices, sugar, roasted apples, etc.",
+"A festive or drinking song or glee."
+],
+"ety": "From Middle English wassail, from Old Norse ves heill (“be healthy!”), from the imperative of vesa (“to be”) + heill (“healthy”). The earliest documented use of the term is from the first part of the 12th century CE, in Geoffroy of Monmouth's Historia Regum Britanniae (see page's citations).",
+"examples": [
+"Have you done your wassail? 'Tis a handsome, drowsy ditty, I'll assure you."
+],
+"p": "WAH-sayl"
+},
+{
+"w": "anile",
+"pos": "adjective",
+"senses": [
+"Characteristic of a crone or a feeble old woman."
+],
+"ety": "From Latin anīlis, from anus (“old woman”).",
+"examples": [
+"Romanticism, so sanguine and so venturous in its revolutionary youth, grew anile in its premature decrepitude ; mumbled its credos ; cursed its heretics — and died.",
+"Steerpike derived as much pleasure in watching these anile and pitiful creatures, dressed in their purple finery, as they crawled beneath the carpet as he got from anything."
+],
+"p": "A-nile"
+},
+{
+"w": "draconian",
+"pos": "adjective",
+"senses": [
+"Very severe, cruel, or harsh."
+],
+"ety": "From Latin Dracō (stem Dracōn-) + -ian, from Ancient Greek Δράκων (Drákōn), after the Athenian lawmaker Draco, known for making harsh laws. See δράκων (drákōn, “dragon”).",
+"examples": [
+"The mayor announced draconian budget cuts today.",
+"Perhaps lessons had already been learned from the Draconian infrastructure cuts on the Waterloo-Exeter route."
+],
+"p": "druh-KOH-nee-un"
+},
+{
+"w": "mukhtar",
+"pos": "noun",
+"senses": [
+"A person acting as an agent, particularly a lawyer."
+],
+"ety": "From North Levantine Arabic مختار (“village headman”), from substantive application of Arabic مُخْتَار (muḵtār, “chosen”), the passive participle of اِخْتَارَ (iḵtāra, “to elect, to choose”). Specific application with influence from various local languages including Ottoman Turkish مختار (muhtar, “village headman”) and Bengali মুখতার (mukhtar), Marathi मुख्तार (mukhtār), and Urdu مختار (muktār, “agent; lawyer”). Within Indian English, the application of mukhtar is influenced by a folk etymology derivation from Sanskrit मुक्ति (mukti, “liberation, becoming or setting free”). Doublet of muhtar.",
+"examples": [
+"It was not sufficient that Thakur Parshad was the Mukhtar of the Court of Wards, and said he had authority to admit the plaintiff's right."
+],
+"p": "MUUK-tar"
+},
+{
+"w": "tonneau",
+"pos": "noun",
+"senses": [
+"The rear body or compartment of some types of motor vehicle, especially one containing seats for passengers.",
+"An old-style open passenger vehicle with a tonneau (rear compartment with seats)."
+],
+"ety": "Borrowed from French tonneau.",
+"examples": [
+"From the tonneau of Bentley's car the sheriff and Garland removed the groceries and sick-room supplies, stowing them in the kyacks.",
+"The first step was to install a tonneau cover.",
+"He has spent ten years lovingly restoring a rather luxurious tonneau with teak panelling and leather seats."
+],
+"p": "tuh-NOH"
+},
+{
+"w": "menstruation",
+"pos": "noun",
+"senses": [
+"The periodic discharging of the menses, the flow of blood and cells from the lining of the uterus in unfertilized females of humans and other primates.",
+"An instance of menstruation, the part of each month during which a fertile woman menstruates."
+],
+"ety": "From menstruum + -ation, modelled after Late Latin menstruatio. The word is a cognate with French menstruation, Spanish menstruación, which displaced Old English mōnaþblōd (literally “monthblood”).",
+"examples": [
+"It would seem that in Avebury, Stonehenge, and Malta the mystery cult of menstruation/mensuration reached its most consummate development."
+],
+"p": "men-stroo-AY-shun"
+},
+{
+"w": "superficies",
+"pos": "noun",
+"senses": [
+"The surface (of something immaterial, especially of the mind or soul)."
+],
+"ety": "Borrowing from Latin superficiēs (“top, surface”), from super- (“above, over”) + faciēs (“form, configuration, shape”). Doublet of surface.",
+"examples": [
+"An immense metropolis, like London, is calculated to make men selfish and uninteresting. … They present but the cold superficies of character—its rich and genial qualities have no time to be warmed into a flow."
+],
+"p": "soo-per-FIH-sheez"
+},
+{
+"w": "bazinga",
+"pos": "noun",
+"senses": [
+"A thingamabob, a placeholder word for any unknown or nonspecific object."
+],
+"ety": "Probably from zing. Appears to originate from the X-Files season 7 episode \"Hollywood A.D.\" Popularized as the catchphrase of the character Sheldon Cooper on the American sitcom The Big Bang Theory.",
+"examples": [
+"Anyone have a good guess as to what the bazinga is that I've crudely circled in this photo?"
+],
+"p": "buh-ZING-guh"
+},
+{
+"w": "misophonia",
+"pos": "noun",
+"senses": [
+"A neurological disorder in which negative experiences, such as anger or disgust, are triggered by specific sounds."
+],
+"ety": "From miso- (“hatred”) + -phonia.",
+"examples": [
+"The misophonia patients shared a similar pattern of symptoms in which an auditory or visual stimulus provoked an immediate aversive physical reaction with anger, disgust and impulsive aggression."
+],
+"p": "mih-suh-FOH-nee-uh"
+},
+{
+"w": "exceedance",
+"pos": "noun",
+"senses": [
+"The extent to which an action, activity or substance exceeds a limit set by recommended practice, legislation, etc."
+],
+"ety": "From exceed + -ance.",
+"examples": [
+"A region is considered \"nonattainment\" of an air quality standard (NAAQS) if its estimated exceedance rate of the NAAQS is more than once per year over three years. Exceedances are counted in terms of days.",
+"As defined in Chapter 2, an exceedance probability curve is a graphical representation of the probability that a certain level of loss will be exceeded over a future time period."
+],
+"p": "ek-SEE-duns"
+},
+{
+"w": "messager",
+"pos": "noun",
+"senses": [
+"One who sends a message."
+],
+"ety": "From message + -er.",
+"examples": [
+"Some of the most avid text messagers are clustered in Southeast Asia."
+],
+"p": "MES-ih-jer"
+},
+{
+"w": "fleck",
+"pos": "noun",
+"senses": [
+"A lock, as of wool.",
+"A small spot or streak; a speckle.",
+"A small amount."
+],
+"ety": "From Middle English *flekk, *flekke (attested in Middle English flekked (“spotted, flecked”)), from Old Norse flekkr (“spot”), from Proto-Germanic *flekka-. Cognate with Dutch vlek, German Fleck, Swedish fläck.",
+"examples": [
+"With teeth they smooth their work, as on it slips, And flecks of wool stick to their wither'd lips",
+"A single fleck of wool from his sock got caught on a splintery floorboard and that was enough to convict him."
+],
+"p": "flek"
+},
+{
+"w": "serviette",
+"pos": "noun",
+"senses": [
+"A table napkin, now especially a paper one."
+],
+"ety": "From Middle English serviotis pl, from Middle French serviette.",
+"examples": [
+"Nature of goods.—Toilet paper, paper handkerchiefs, paper towels, paper serviettes and paper covers for lavatory seats, none being medicated.",
+"Avoid the temptation to lick your fingers – a finger bowl filled with warm water is usually placed on the table to wash your fingers at the end of the meal and serviettes should be on hand to dry them."
+],
+"p": "sur-vee-ET"
+},
+{
+"w": "bippy",
+"pos": "noun",
+"senses": [
+"An unspecified part of the anatomy, usually used in the phrase \"you bet your (sweet) bippy\"."
+],
+"ety": "Pacifier sense from a brand name.",
+"examples": [
+"Does this new law give us the right to trespass anywhere we like? You bet your sweet bippy it does."
+],
+"p": "BIH-pee"
+},
+{
+"w": "burglarize",
+"pos": "verb",
+"senses": [
+"To commit burglary."
+],
+"ety": "From burglar + -ize (1829).",
+"examples": [
+"People who would now attempt to burglarize in top-boots, would be as mad as if they were to adopt that costume for picking pockets.",
+"In this dilemma there were but two resources open to the infuriated stewards, -- one to carry the key vi et armis; the other, to burglarize the cellar.",
+"Deaseley Brothers & Dodge, wholesale dry goods store, was burglarized last night, and three thousand dollars worth of silks taken. No arrests."
+],
+"p": "BUR-gluh-rize"
+},
+{
+"w": "floaty",
+"pos": "adjective",
+"senses": [
+"Tending to float on a liquid or to rise in air or a gas; buoyant.",
+"Of music: light and relaxing.",
+"Of an object: light and flimsy or soft; specifically, of a dress: lightweight, so as to rise away from the body when the wearer is moving.",
+"Of a person: feeling calm, dreamy, happy, etc., as if floating in the air.",
+"Of speech or writing: overly complicated or elaborate; flowery, grandiloquent."
+],
+"ety": "From float (noun or verb) + -y (suffix meaning ‘inclined to’ forming adjectives). Compare Middle English floti, floty (“of a place: well supplied with water”).",
+"examples": [
+"The Oxonians, too, though, judging by avoirdupois, they were big enough for the floatiest outrigger, preferred the old friend in which they had won the 'Varsity in 1878 and 'suffered' last year.",
+"O here is a Bed / Shrinkproofer than that, / A floatier, boatier / Bed than that!",
+"Flip had spent all morning trimming and styling her hair so it looked as much like her nephew’s as possible. The lady had put on her longest, floatiest dress too, in the hope that the man would be able to fit into it."
+],
+"p": "FLOH-tee"
+},
+{
+"w": "tumid",
+"pos": "adjective",
+"senses": [
+"Swollen, enlarged, bulging.",
+"Cancerous, unhealthy.",
+"Pompous, bombastic."
+],
+"ety": "Borrowed from Latin tumidus (“swollen”).",
+"examples": [
+"Tumid blustering, with more or less of sincerity, which need not be entirely sincere, yet the sincerer the better, is like to go far."
+],
+"p": "TYOO-mid"
+},
+{
+"w": "ameliorative",
+"pos": "adjective",
+"senses": [
+"Able to repair or ameliorate."
+],
+"ety": "From ameliorate + -ive.",
+"examples": [
+"One night while he was moaning on about his sorry existence I said: Do you really want to change it? Of course I do, he said, but nothing I’ve tried has been ameliorative."
+],
+"p": "uh-MEE-lee-uh-ruh-tiv"
+},
+{
+"w": "commonalty",
+"pos": "noun",
+"senses": [
+"The common people; the commonality.",
+"A group of things having similar characteristics.",
+"A class composed of persons lacking clerical or noble rank; commoners.",
+"The state or quality of having things in common.",
+"A shared feature."
+],
+"ety": "From Middle English comunalte, communalte, from Old French comunalté, comunauté (modern communauté), probably from an alteration of communité, from Latin commūnitās. Some senses are influenced by commonality.",
+"examples": [
+"The people were averse to him, as the supposed author of the violence on the monasteries; establishments which were still revered and beloved by the commonalty.",
+"In much the same way do the commonalty lead their leaders in many other things, at the same time that the leaders little suspect it.",
+"Second Citizen: Would you proceed especially against Caius Marcius? First Citizen: Against him first: he's a very dog to the commonalty."
+],
+"p": "KOM-uh-nul-tee"
+},
+{
+"w": "bloodhound",
+"pos": "noun",
+"senses": [
+"A large scenthound famed for its ability to follow a scent many days old, over vast distances. This dog is often used as a police dog to track missing people, fleeing suspects, or escaped prisoners.",
+"A detective or other person skilled at finding people or clues."
+],
+"ety": "Inherited from Middle English blodhound, blodhond; equivalent to blood + hound. Cognate with Dutch bloedhond (“bloodhound”), Middle Low German blōthunt (“bloodhound”), German Bluthund (“bloodhound”), Danish blodhund (“bloodhound”), Swedish blodhund (“bloodhound”). The detective sense follows from the dog's ability to follow a trail.",
+"examples": [
+"Someone stole our bloodhounds, but we got the backup bloodhounds to chase the first tier of bloodhounds."
+],
+"p": "BLUD-hownd"
+}
+]

@@ -1,0 +1,432 @@
+[
+{
+"w": "gerontologist",
+"pos": "noun",
+"senses": [
+"A physician who specializes in gerontology"
+],
+"ety": "From gerontology + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "muley",
+"pos": "adjective",
+"senses": [
+"Without horns."
+],
+"ety": "Gaelic maolag, a hornless cow, from maol, bald, hornless, blunt.",
+"examples": [],
+"p": null
+},
+{
+"w": "lightman",
+"pos": "noun",
+"senses": [
+"A man who carries or takes care of a light."
+],
+"ety": "From light (noun) + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "sophisticate",
+"pos": "adjective",
+"senses": [
+"Of a person: experienced in the ways of the world; cosmopolitan, worldly-wise.",
+"Of art or other things: appealing to the tastes of an intellectual or sophisticated (sense 1.1) person; cerebral; also, cultured, elegant, refined."
+],
+"ety": "From Middle English sophisticat, sophisticate (“adulterated; not genuine, counterfeit”), an adjective use of the past participle of sophisticaten (verb) See Etymology 1 and -ate (adjective-forming suffix) for more.",
+"examples": [],
+"p": "suh-FIS-tih-kayt"
+},
+{
+"w": "conceptus",
+"pos": "noun",
+"senses": [
+"The fetus or embryo, including all the surrounding tissues protecting and nourishing it during pregnancy."
+],
+"ety": "From Latin cōncipiō (“to take hold of, to receive”), from Latin capiō (“to capture”).",
+"examples": [],
+"p": null
+},
+{
+"w": "loach",
+"pos": "noun",
+"senses": [
+"Any true loach, of the family Cobitidae.",
+"A similar fish in one of three other families of Cypriniformes: Botiidae, Balitoridae, and Gyrinocheilidae."
+],
+"ety": "From Middle English loche, from Old French loche, further origin uncertain, possibly from Vulgar Latin *laukka (“loach”), which could be from Gaulish *leuca (“loach, slug”), also attested as the feminine name Leuca, from leux (“bright, light”), a reference to slugs' bright appearance, the fish later being associated due to similarities to the slug.",
+"examples": [],
+"p": "LOHCH"
+},
+{
+"w": "triomphe",
+"pos": "noun",
+"senses": [
+"A card game dating from the late 15th century."
+],
+"ety": "From French triomphe (literally “triumph”).",
+"examples": [],
+"p": null
+},
+{
+"w": "fabliau",
+"pos": "noun",
+"senses": [
+"A short, farcical, often bawdy tale of a genre written in the North of France in the 12th, 13th and 14th centuries."
+],
+"ety": "Learned borrowing from Old French fabliau, diminutive of fable.",
+"examples": [],
+"p": null
+},
+{
+"w": "solus",
+"pos": "adjective",
+"senses": [
+"alone, unaccompanied (as a stage direction)",
+"Appearing on its own page."
+],
+"ety": "Borrowed from Latin sōlus.",
+"examples": [],
+"p": null
+},
+{
+"w": "uplifter",
+"pos": "noun",
+"senses": [
+"One who, or that which, uplifts."
+],
+"ety": "From uplift + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "furmint",
+"pos": "noun",
+"senses": [
+"A type of grape grown in Hungary, commonly used in tokays.",
+"A white wine made from this grape."
+],
+"ety": "From Hungarian furmint, from Middle French fromenté (“a type of grape”). Doublet of frumenty.",
+"examples": [
+"Varietals commonly affected by botrytis include chenin blanc, furmint, muscadelle, muscat, riesling, sauvignon blanc, and semillon.",
+"It was made from the furmint grape, which is better known in Hungary’s lusciously sweet tokays, but this was delicate, floral and just right with a tart chicken curry dish.",
+"I’m not sure if it qualifies as a trend just yet, but you may have noticed more of the central and eastern European grape variety furmint cropping up in your wine shop in the past couple of years."
+],
+"p": null
+},
+{
+"w": "tindal",
+"pos": "noun",
+"senses": [
+"A petty officer among lascars; a boatswain's mate; a cockswain.",
+"An attendant on an army."
+],
+"ety": "From Malayalam തണ്ടല് (taṇṭal) or Telugu తండేలు (taṇḍēlu), ultimately from Proto-Dravidian *tanḍal-.",
+"examples": [
+"One thing that continued unchanged was the division of the crew into two watches, each led by a tindal."
+],
+"p": null
+},
+{
+"w": "adland",
+"pos": "noun",
+"senses": [
+"The world of advertising."
+],
+"ety": "From ad + land.",
+"examples": [],
+"p": null
+},
+{
+"w": "allodynia",
+"pos": "noun",
+"senses": [
+"Pain produced by innocuous stimulation of normal skin."
+],
+"ety": "From allo- + -odynia.",
+"examples": [],
+"p": null
+},
+{
+"w": "tagless",
+"pos": "adjective",
+"senses": [
+"Without a tag or tags."
+],
+"ety": "From tag + -less.",
+"examples": [],
+"p": "TAG-lus"
+},
+{
+"w": "paranoiac",
+"pos": "noun",
+"senses": [
+"Somebody who has paranoia, a paranoid person."
+],
+"ety": "From paranoia + -ac.",
+"examples": [],
+"p": "par-uh-NOY-ak"
+},
+{
+"w": "hypnagogic",
+"pos": "adjective",
+"senses": [
+"That induces sleep; soporific, somniferous.",
+"That accompanies falling asleep; especially, pertaining to the semi-conscious period immediately preceding sleep."
+],
+"ety": "From French hypnagogique, from Ancient Greek ὕπνος (húpnos, “sleep”) + ἀγωγός (agōgós, “leading”).",
+"examples": [],
+"p": "hip-nuh-GAH-jik"
+},
+{
+"w": "isinglass",
+"pos": "noun",
+"senses": [
+"A form of gelatin obtained from the air bladder of the sturgeon and certain other fish, used as an adhesive and as a clarifying agent for wine and beer."
+],
+"ety": "Apparently from obsolete Dutch huisenblas, from German Hausenblase, from Hausen (“sturgeon of the Huso genus”) + Blase (“bladder”), with alteration after glass.",
+"examples": [],
+"p": "EYE-zing-glas"
+},
+{
+"w": "veery",
+"pos": "noun",
+"senses": [
+"An American thrush (Catharus fuscescens) common in the Northern United States and Canada."
+],
+"ety": "Probably imitative of the bird's call. Attested since the 19th century.",
+"examples": [],
+"p": "VEER-ree"
+},
+{
+"w": "sobel",
+"pos": "noun",
+"senses": [
+"A government soldier who joined the rebels during the Sierra Leone civil war."
+],
+"ety": "From the phrase \"soldier by day, rebel by night\", referring to soldiers who would secretly cooperate with rebels to enrich themselves.",
+"examples": [],
+"p": null
+},
+{
+"w": "neocon",
+"pos": "adjective",
+"senses": [
+"Neoconservative."
+],
+"ety": "Clipping of neoconservative.",
+"examples": [
+"Even Paul Wolfowitz, the former George W. Bush administration official credited as one of the architects behind the Iraq War and an anchor of the neocon movement, said he may vote for Clinton."
+],
+"p": null
+},
+{
+"w": "reichsmark",
+"pos": "noun",
+"senses": [
+"The monetary unit in Germany between 1924 and 1948."
+],
+"ety": "Unadapted borrowing from German Reichsmark.",
+"examples": [],
+"p": null
+},
+{
+"w": "anticlinal",
+"pos": "adjective",
+"senses": [
+"Inclining or dipping in opposite directions."
+],
+"ety": "From anticline + -al.",
+"examples": [],
+"p": null
+},
+{
+"w": "swizz",
+"pos": "noun",
+"senses": [
+"A swindle, con."
+],
+"ety": "Possible alteration of swindle, early 20th c.",
+"examples": [
+"That packet only had ten sweets in it; what a swizz."
+],
+"p": null
+},
+{
+"w": "hyphy",
+"pos": "noun",
+"senses": [
+"A subgenre of hip-hop music and dancing associated with the San Francisco Bay Area."
+],
+"ety": "Probably an alteration of hype or hyper. American rapper Keak da Sneak is sometimes credited as coining the word in the 1990s, but no evidence exists to support this and the term is first attested in 2002.",
+"examples": [],
+"p": "HY-fee"
+},
+{
+"w": "presbyterianism",
+"pos": "noun",
+"senses": [
+"That form of church government which invests presbyters with all spiritual power, and admits no prelates over them; also, the faith and polity of the Presbyterian churches, taken collectively."
+],
+"ety": "From presbyterian + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "shibori",
+"pos": "noun",
+"senses": [
+"A form of Japanese tie-dye on silk"
+],
+"ety": "Borrowed from Japanese しぼり.",
+"examples": [],
+"p": null
+},
+{
+"w": "trinary",
+"pos": "noun",
+"senses": [
+"A ternary, a set of three things."
+],
+"ety": "From Late Latin trīnārius (“consisting of three”), from Latin trīni (“triple, three each”) + -ārius.",
+"examples": [
+"Collectively, religion, the secular, the superstition form what Josephson has called a \"trinary\" of mutually constitutive forces."
+],
+"p": null
+},
+{
+"w": "washi",
+"pos": "noun",
+"senses": [
+"A tough paper used in traditional Japanese art forms."
+],
+"ety": "From Japanese 和紙 (washi).",
+"examples": [
+"My favorite is Model B, a nubby construction that is 18 inches wide by 92 inches long and is made of washi paper over bamboo ribs."
+],
+"p": null
+},
+{
+"w": "nautiloid",
+"pos": "noun",
+"senses": [
+"A mollusc resembling a nautilus; specifically, a cephalopod of the subclass Nautiloidea."
+],
+"ety": "From nautilus + -oid.",
+"examples": [
+"Cephalopods have a long fossil record, the earliest certain cephalopod fossils are loosely coiled or straight shelled nautiloids found in the Cambrian of China 515 million years ago."
+],
+"p": null
+},
+{
+"w": "carden",
+"pos": "noun",
+"senses": [
+"A garden grown inside of a car, usually in the dashboard."
+],
+"ety": "Blend of car + garden.",
+"examples": [],
+"p": "KAR-dun"
+},
+{
+"w": "biodata",
+"pos": "noun",
+"senses": [
+"Biographical data.",
+"A form resembling a curriculum vitae, used by employers to select workers."
+],
+"ety": "From bio- + data.",
+"examples": [
+"I will also examine their biodatas. I expect my wife to be educated."
+],
+"p": null
+},
+{
+"w": "electromyography",
+"pos": "noun",
+"senses": [
+"A technique for evaluating and recording the activation signal of muscles."
+],
+"ety": "From electro- + myography.",
+"examples": [],
+"p": null
+},
+{
+"w": "sesquicentennial",
+"pos": "adjective",
+"senses": [
+"Occurring every 150 years."
+],
+"ety": "From sesqui- (“one-and-a-half”) + centennial (“of 100 years”). By surface analysis, sesqui- + cent- + -ennial.",
+"examples": [],
+"p": "ses-kwih-sen-TEN-ee-ul"
+},
+{
+"w": "piccata",
+"pos": "adjective",
+"senses": [
+"Sliced, sautéed and served with lemon, parsley and butter sauce."
+],
+"ety": "From Italian piccata (“larded”), past participle of piccare (“to prick; to lard”).",
+"examples": [],
+"p": "pih-KAH-tuh"
+},
+{
+"w": "malathion",
+"pos": "noun",
+"senses": [
+"An organophosphorus insecticide, Diethyl [(dimethoxyphosphinothioyl)-thio]butanedioate."
+],
+"ety": "From malate + -thion. Coined as a trade name.",
+"examples": [],
+"p": null
+},
+{
+"w": "tuberculous",
+"pos": "adjective",
+"senses": [
+"Tubercular: having or relating to tuberculosis.",
+"Having or relating to tubercles."
+],
+"ety": "From Latin tuberculum (“little lump”) + -ous.",
+"examples": [],
+"p": "too-BUR-kyuh-lus"
+},
+{
+"w": "intraparty",
+"pos": "adjective",
+"senses": [
+"Occurring within a political party."
+],
+"ety": "From intra- + party.",
+"examples": [
+"The former president has positioned himself as an impartial elder statesman above intraparty machinations and was neutral during the 2020 Democratic primaries."
+],
+"p": null
+},
+{
+"w": "planisphere",
+"pos": "noun",
+"senses": [
+"Any representation (map projection) of part of a sphere on a plane surface.",
+"A map constructed by stereographic projection, as described in Ptolemy's treatise Planisphaerium and later used in planispheric astrolabes",
+"A map of the whole world, especially those from the 16th–17th century"
+],
+"ety": "From plani- + sphere or plani- + -sphere.",
+"examples": [],
+"p": "PLAY-nih-sfeer"
+},
+{
+"w": "yinzer",
+"pos": "noun",
+"senses": [
+"A native of Pittsburgh, Pennsylvania."
+],
+"ety": "From yinz + -er, in reference to the Pittsburgh dialect's use of that pronoun.",
+"examples": [],
+"p": null
+}
+]

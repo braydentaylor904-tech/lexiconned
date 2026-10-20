@@ -1,0 +1,434 @@
+[
+{
+"w": "mangabey",
+"pos": "noun",
+"senses": [
+"Any of several large, arboreal Old World monkeys in the genera Cercocebus and Lophocebus."
+],
+"ety": "So called by Buffon from Mangaby, in Madagascar, where he erroneously supposed them to be native.",
+"examples": [],
+"p": null
+},
+{
+"w": "orthographic",
+"pos": "adjective",
+"senses": [
+"Of a projection used in maps, architecture etc., in which the rays are parallel."
+],
+"ety": "From ortho- + -graph + -ic. Compare French orthographique, Latin orthographus, Ancient Greek ὀρθογράφος (orthográphos).",
+"examples": [],
+"p": "or-thuh-GRAF-ik"
+},
+{
+"w": "gumdrop",
+"pos": "noun",
+"senses": [
+"A small chewy candy made with corn syrup, gelatin, and flavouring."
+],
+"ety": "From gum + drop.",
+"examples": [],
+"p": "GUM-drahp"
+},
+{
+"w": "jaleo",
+"pos": "noun",
+"senses": [
+"A lively Andalusian dance.",
+"The clapping that accompanies it."
+],
+"ety": "Borrowed from Spanish jaleo.",
+"examples": [],
+"p": "hah-LAY-oh"
+},
+{
+"w": "hoggy",
+"pos": "adjective",
+"senses": [
+"Synonym of hoggish (“resembling a pig”)."
+],
+"ety": "From hog + -y.",
+"examples": [
+"Then the packing-houses in making lard got to dumping into the pans everything — heads, feet, etc. — and made a product which was offensive, having, as witness said, a \"hoggy taste.\""
+],
+"p": null
+},
+{
+"w": "militaristic",
+"pos": "adjective",
+"senses": [
+"Using the power of the military.",
+"Related to the use of the military."
+],
+"ety": "From militarist + -ic or military + -istic.",
+"examples": [],
+"p": "mil-uh-tuh-RIS-tik"
+},
+{
+"w": "tonno",
+"pos": "noun",
+"senses": [
+"Tuna in solid (unflaked) form, packed in olive oil."
+],
+"ety": "From Italian tonno. Doublet of tuna.",
+"examples": [],
+"p": null
+},
+{
+"w": "cithara",
+"pos": "noun",
+"senses": [
+"An ancient Greek stringed instrument, which could be considered a forerunner of the guitar."
+],
+"ety": "From Latin cithara, from Ancient Greek κιθάρα (kithára). Doublet of cither, guitar, kithara, kissar, and zither.",
+"examples": [],
+"p": null
+},
+{
+"w": "microcephalic",
+"pos": "adjective",
+"senses": [
+"Having an abnormally small head."
+],
+"ety": "From French microcéphalique, from Ancient Greek μικρός (mikrós, “small”) + κεφαλή (kephalḗ, “head”).",
+"examples": [],
+"p": null
+},
+{
+"w": "airer",
+"pos": "noun",
+"senses": [
+"A framework upon which laundry is aired; a clotheshorse."
+],
+"ety": "From air + -er.",
+"examples": [],
+"p": "AIR-er"
+},
+{
+"w": "chatterbox",
+"pos": "noun",
+"senses": [
+"One who chats or talks to excess.",
+"Synonym of cootie catcher (“children's fortune-telling device”).",
+"The orchid Epipactis gigantea."
+],
+"ety": "From chatter + box.",
+"examples": [],
+"p": "CHA-ter-boks"
+},
+{
+"w": "thumri",
+"pos": "noun",
+"senses": [
+"A genre of light classical north Indian music.",
+"An individual piece of music in this style."
+],
+"ety": "From Hindi ठुमरी (ṭhumrī).",
+"examples": [
+"Subhra Guha's \"rendition of the thumri is notable for its rich technique and aesthetic appeal emanating from her immaculate use of bol.\"",
+"These courtesans sang beautiful tappas and thumris much to the delight of the citizens."
+],
+"p": null
+},
+{
+"w": "roughy",
+"pos": "noun",
+"senses": [
+"The orange roughy, Hoplostethus atlanticus."
+],
+"ety": "From rough + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "recto",
+"pos": "noun",
+"senses": [
+"The front side of a flat object which is to be examined visually, as for reading, such as a sheet, leaf, coin or medal.",
+"The right-hand page of a book of a script which reads from left to right, usually having an odd page number."
+],
+"ety": "Borrowed from Latin rēctō foliō (“on the right leaf, on the right page”), the ablative case of the Latin rēctus (“right”). Compare versus (“turned”).",
+"examples": [],
+"p": "REK-toh"
+},
+{
+"w": "klang",
+"pos": "noun",
+"senses": [
+"Any periodic sound, especially one composed of a fundamental and harmonics, as opposed to simple periodic sounds (sine tones)."
+],
+"ety": "Borrowed from German Klang.",
+"examples": [],
+"p": null
+},
+{
+"w": "deformability",
+"pos": "noun",
+"senses": [
+"A measure of the extent to which something is deformable (under standard conditions)"
+],
+"ety": "From deform + -ability.",
+"examples": [],
+"p": "dih-faw-muh-BIL-ih-tee"
+},
+{
+"w": "personalism",
+"pos": "noun",
+"senses": [
+"The character of being personal.",
+"A doctrine of subjective idealism that regards personality as the means of interpreting reality."
+],
+"ety": "From personal + -ism.",
+"examples": [],
+"p": "PER-suh-nuh-liz-um"
+},
+{
+"w": "clawfoot",
+"pos": "noun",
+"senses": [
+"A foot of this kind.",
+"A decorative foot on a bathtub etc. resembling a claw."
+],
+"ety": "From claw + foot.",
+"examples": [],
+"p": null
+},
+{
+"w": "synthesist",
+"pos": "noun",
+"senses": [
+"A musician who programs or plays a synthesizer."
+],
+"ety": "From synthesize + -ist.",
+"examples": [],
+"p": "SIN-thih-sist"
+},
+{
+"w": "herbalist",
+"pos": "noun",
+"senses": [
+"A person who treats diseases by means of medicinal herbs."
+],
+"ety": "From herbal + -ist.",
+"examples": [],
+"p": "HUR-buh-lust"
+},
+{
+"w": "sukkah",
+"pos": "noun",
+"senses": [
+"A temporary dwelling or booth used by practising Jews during Tabernacles (Sukkot)."
+],
+"ety": "From Hebrew סֻכָּה (suká, “sukkah”).",
+"examples": [],
+"p": "SUUK-uh"
+},
+{
+"w": "marinara",
+"pos": "adjective",
+"senses": [
+"Prepared with tomatoes, or in a tomato sauce.",
+"Of pasta: In a seafood sauce. Of pizza: With seafood topping."
+],
+"ety": "From Italian alla marinara (“sailor style”).",
+"examples": [],
+"p": null
+},
+{
+"w": "vegetal",
+"pos": "adjective",
+"senses": [
+"Having a grassy, herbaceous taste."
+],
+"ety": "Learned borrowing from Medieval Latin vegetālis, from Latin vegetō.",
+"examples": [],
+"p": "VEJ-ih-tul"
+},
+{
+"w": "cichlid",
+"pos": "noun",
+"senses": [
+"Any of many tropical fish, of the family Cichlidae, popular as aquarium fish."
+],
+"ety": "Borrowed from Translingual Cichlidae.",
+"examples": [],
+"p": "SIK-lid"
+},
+{
+"w": "transfiguration",
+"pos": "noun",
+"senses": [
+"A major change in appearance or form; a metamorphosis.",
+"A change that exalts or glorifies.",
+"superposition of one or more ideal-elements in comparison with other real ones, often through imagination but sometimes at the risk of confusing when not clearly realized."
+],
+"ety": "From Middle English transfiguracioun, from Old French transfiguracion, Anglo-Norman transfiguraciun, and Latin transfigūrātio.",
+"examples": [],
+"p": null
+},
+{
+"w": "wiffleball",
+"pos": "noun",
+"senses": [
+"The ball used in that game."
+],
+"ety": "From (onomatopoeia) whiff (“to strike, to strikeout”) + ball. Not derived from whiffle, though both derive from same onomatopoeic sources, namely a sound of wind.",
+"examples": [],
+"p": null
+},
+{
+"w": "hydrocolloid",
+"pos": "noun",
+"senses": [
+"Any material that forms a colloid (especially a gel) when mixed with water.",
+"Any of a broad subclass of such materials that are of biologic origin or importance, most being biopolymers such as polysaccharides or proteins.",
+"Such a material, made from agar, used to make dental impressions."
+],
+"ety": "From hydro- + colloid.",
+"examples": [],
+"p": "hy-droh-KOL-oyd"
+},
+{
+"w": "smudger",
+"pos": "noun",
+"senses": [
+"One who, or that which, smudges."
+],
+"ety": "From smudge + -er.",
+"examples": [
+"Servile smudgers of history, prattling about an Emil Ludwig and a Thomas Mann season — meaning the Weimar period — as if it had produced me and as if I had used the Republic for a background!",
+"The tools can get rather exotic - spinners, rubber stamps, airbrush, smudgers, and so on."
+],
+"p": null
+},
+{
+"w": "subsidize",
+"pos": "verb",
+"senses": [
+"To assist (someone or something) by granting a subsidy."
+],
+"ety": "From subsidy + -ize.",
+"examples": [],
+"p": "SUB-sih-dize"
+},
+{
+"w": "unpredictability",
+"pos": "noun",
+"senses": [
+"Something which is unpredictable."
+],
+"ety": "From un- + predictability.",
+"examples": [],
+"p": null
+},
+{
+"w": "puritanism",
+"pos": "noun",
+"senses": [
+"Extreme strictness regarding moral scruples."
+],
+"ety": "Borrowed from French puritanisme, equivalent to puritan + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "agriculturist",
+"pos": "noun",
+"senses": [
+"One who practices agriculture, a farmer, a gardener.",
+"An expert in agriculture who advises farmers."
+],
+"ety": "From agriculture + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "mehfil",
+"pos": "noun",
+"senses": [
+"In parts of South Asia, a gathering where poetry or classical music is performed for a small audience in an intimate setting."
+],
+"ety": "From Urdu محفل (mahfil), from Arabic مَحْفِل (maḥfil, “festive gathering to entertain or praise someone”).",
+"examples": [
+"One of the most interesting descriptions in the Muraqqa’ is of the famous mehfils, the literary or musical evenings for which the city was then renowned.",
+"The entire mehfil was babbling away but Bahadur's tense silence rang like an alarm in my head."
+],
+"p": null
+},
+{
+"w": "levee",
+"pos": "noun",
+"senses": [
+"An embankment to prevent inundation; as, the levees along the Mississippi.",
+"The border of an irrigated field."
+],
+"ety": "From French levée, from lever (“to raise, rise”).",
+"examples": [],
+"p": "LEV-ee"
+},
+{
+"w": "mutualization",
+"pos": "noun",
+"senses": [
+"The act or process of mutualizing."
+],
+"ety": "From mutual + -ization.",
+"examples": [],
+"p": null
+},
+{
+"w": "bunchy",
+"pos": "adjective",
+"senses": [
+"Having, or growing in bunches."
+],
+"ety": "From Middle English bunchy, bonchy, equivalent to bunch + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "smoot",
+"pos": "noun",
+"senses": [
+"A unit of length defined as exactly sixty-seven inches (approximately 1.70 meters)."
+],
+"ety": "Derives from the height of Oliver R. Smoot, who had lain on the Harvard Bridge to measure it as a fraternity prank at MIT.",
+"examples": [],
+"p": "smoot"
+},
+{
+"w": "bandicoot",
+"pos": "noun",
+"senses": [
+"A bandicoot rat; any of the genera Bandicota and Nesokia of rat-like rodents of southeast Asia."
+],
+"ety": "Ultimately from Telugu పందికొక్కు (pandikokku), from పంది (pandi, “pig, boar”) + కొక్కు (kokku, “bandicoot”); first used of Asian murids, now called bandicoot rats, thence applied to the Australian marsupials which bear some resemblance.",
+"examples": [],
+"p": "BAN-dee-koot"
+},
+{
+"w": "currier",
+"pos": "noun",
+"senses": [
+"A specialist in the leather processing industry, who dresses the leather by beating, rubbing, scraping and colouring.",
+"One who grooms a horse with a curry comb."
+],
+"ety": "From Old French corier, from Latin coriarius (“tanner, currier”).",
+"examples": [],
+"p": "KUR-eer"
+},
+{
+"w": "rookery",
+"pos": "noun",
+"senses": [
+"A colony of breeding birds or other animals.",
+"A crowded tenement."
+],
+"ety": "From rook + -ery, 1725.",
+"examples": [
+"It was a rookery which had never been raided by the hunters, and in consequence the seals were mild-tempered and at the same time unafraid.",
+"In winter rooks roost together in large numbers, and the roost may or may not be a rookery, but almost daily the local residents pay visits to the nesting trees, and about this time often begin playing at nest-building.",
+"There are six rookeries either side of Haddiscoe Island, which average 283 nests each."
+],
+"p": null
+}
+]

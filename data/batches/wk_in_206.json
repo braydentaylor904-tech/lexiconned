@@ -1,0 +1,433 @@
+[
+{
+"w": "summarizer",
+"pos": "noun",
+"senses": [
+"One who, or that which, summarizes."
+],
+"ety": "From summarize + -er. Equivalent to summary + -izer.",
+"examples": [],
+"p": null
+},
+{
+"w": "merrigan",
+"pos": "noun",
+"senses": [
+"a dog or dingo"
+],
+"ety": "Borrowed from Wiradjuri mirrigan.",
+"examples": [],
+"p": null
+},
+{
+"w": "conic",
+"pos": "adjective",
+"senses": [
+"Synonym of conical."
+],
+"ety": "Learned borrowing from Ancient Greek κωνῐκός (kōnĭkós). By surface analysis, cone + -ic.",
+"examples": [],
+"p": "KAH-nik"
+},
+{
+"w": "oxidization",
+"pos": "noun",
+"senses": [
+"Synonym of oxidation."
+],
+"ety": "From oxidize + -ation.",
+"examples": [],
+"p": "ahk-sih-dih-ZAY-shun"
+},
+{
+"w": "kicky",
+"pos": "adjective",
+"senses": [
+"Lively, exciting, thrilling.",
+"Characterised by kicking motions."
+],
+"ety": "From kick + -y.",
+"examples": [],
+"p": "KIK-ee"
+},
+{
+"w": "shinny",
+"pos": "verb",
+"senses": [
+"To climb in an awkward manner."
+],
+"ety": "From shin (noun) + -y.",
+"examples": [],
+"p": "SHIN-ee"
+},
+{
+"w": "inflorescence",
+"pos": "noun",
+"senses": [
+"An instance of a plant beginning to flower."
+],
+"ety": "From Latin inflōrēscentia, from inflōrēscō (“to begin to flower”), inchoative verb of flōreō (“to flower”).",
+"examples": [],
+"p": "in-fluh-RES-uns"
+},
+{
+"w": "collateralize",
+"pos": "verb",
+"senses": [
+"To secure a loan or other contract by using collateral.",
+"To pledge assets as collateral."
+],
+"ety": "From collateral + -ize.",
+"examples": [],
+"p": null
+},
+{
+"w": "joinder",
+"pos": "noun",
+"senses": [
+"The act of joining; a putting together; conjunction."
+],
+"ety": "Substantivisation of the Old French verb joindre (“to join”), from Latin iungō (“join”).",
+"examples": [],
+"p": null
+},
+{
+"w": "blowgun",
+"pos": "noun",
+"senses": [
+"A hollow tube through which a dart or similar missile may be blown."
+],
+"ety": "From blow + gun.",
+"examples": [],
+"p": "BLOH-gun"
+},
+{
+"w": "solderability",
+"pos": "noun",
+"senses": [
+"The quality or degree of being solderable."
+],
+"ety": "From solder + -ability.",
+"examples": [],
+"p": null
+},
+{
+"w": "balancer",
+"pos": "noun",
+"senses": [
+"One who, or that which, balances."
+],
+"ety": "From balance + -er.",
+"examples": [],
+"p": "BA-lun-ser"
+},
+{
+"w": "implantology",
+"pos": "noun",
+"senses": [
+"The science of or techniques involved in dental implants."
+],
+"ety": "From implant + -ology.",
+"examples": [
+"In oral implantology, bacteria are present in dental plaque and along with in the microgap between implant and prosthesis screws on implants."
+],
+"p": null
+},
+{
+"w": "sprayer",
+"pos": "noun",
+"senses": [
+"Synonym of spray bottle.",
+"A device, machine or vehicle used for large-area spraying, as for irrigation, weed killers, fertilizers, insecticides, or in manufacturing and production line processes."
+],
+"ety": "From spray + -er.",
+"examples": [],
+"p": "SPRAY-er"
+},
+{
+"w": "revaluate",
+"pos": "verb",
+"senses": [
+"To make a new valuation or appraisal of."
+],
+"ety": "From re- + valuate.",
+"examples": [],
+"p": null
+},
+{
+"w": "midge",
+"pos": "noun",
+"senses": [
+"A small, short or insignificant person.",
+"Any bait or lure designed to resemble a midge."
+],
+"ety": "From Middle English mydge, migge, from Old English myġġ, myċġ (“midge, gnat, mosquito”), from Proto-West Germanic *muggju, from Proto-Germanic *mugjō, from Proto-Indo-European *mū-, *mu-, *mew- (“fly, midge”). The dialectal sense of \"short person\" was originally figurative, and gave rise to midget (“short person”) via the diminutive suffix -et, which has since become part of standard English with that meaning; this has caused midge to undergo rebracketing as a clipping of midget. Cognates * Scots mige (“midge”) * Saterland Frisian Määge (“gnat, mosquito”) * West Frisian mich (“fly, mosquito”) ",
+"examples": [],
+"p": "mij"
+},
+{
+"w": "multicar",
+"pos": "adjective",
+"senses": [
+"Using or involving multiple cars"
+],
+"ety": "From multi- + car.",
+"examples": [
+"Case in point: this morning’s traffic report included the usual five or six accidents with injuries and multicar crashes that snarl the Bay Area freeways twice a day."
+],
+"p": null
+},
+{
+"w": "pozzolanic",
+"pos": "adjective",
+"senses": [
+"Having the characteristics of pozzolana, a type of volcanic ash used for mortar or for cement which sets under water."
+],
+"ety": "From pozzolana + -ic, from Italian pozz(u)ollana, earth of Pozzuoli, a town near Naples.",
+"examples": [],
+"p": null
+},
+{
+"w": "vocality",
+"pos": "noun",
+"senses": [
+"The quality or degree of being vocal.",
+"The quality of being a vowel; vocalic character."
+],
+"ety": "From vocal + -ity. Compare Latin vocalitas (“euphony”).",
+"examples": [],
+"p": null
+},
+{
+"w": "unclenched",
+"pos": "adjective",
+"senses": [
+"Not clenched"
+],
+"ety": "From un- + clenched.",
+"examples": [],
+"p": null
+},
+{
+"w": "accommodationist",
+"pos": "noun",
+"senses": [
+"Someone who tries to accommodate an opposition, usually a political one."
+],
+"ety": "",
+"examples": [],
+"p": null
+},
+{
+"w": "doggo",
+"pos": "adverb",
+"senses": [
+"Only used in lie doggo and play doggo."
+],
+"ety": "The noun is from dog + -o (colloquializing suffix), perhaps after the adverb. The adverb is probably of the same origin.",
+"examples": [],
+"p": "DAW-goh"
+},
+{
+"w": "pyrophoric",
+"pos": "adjective",
+"senses": [
+"Spontaneously igniting in air, especially when in a finely divided state.",
+"Producing sparks, especially by friction.",
+"Able to oxidize with exposure to atmospheric oxygen at normal temperatures."
+],
+"ety": "From Ancient Greek πυροφόρος (purophóros, “fire-bearing”) + -ic. Analyzable as pyro- + -phore + -ic.",
+"examples": [],
+"p": "py-roh-FAW-rik"
+},
+{
+"w": "watsu",
+"pos": "noun",
+"senses": [
+"A form of body massage performed on a subject lying in warm water."
+],
+"ety": "Blend of water + shiatsu.",
+"examples": [
+"Overnight guests receive $5 off the whole-hour massage or watsu sessions."
+],
+"p": null
+},
+{
+"w": "egotistical",
+"pos": "adjective",
+"senses": [
+"Tending to talk excessively about oneself.",
+"Believing oneself to be better and more important than others due to one's position, popularity, wealth, appearance, etc."
+],
+"ety": "From egotistic + -al.",
+"examples": [],
+"p": "ee-goh-TIS-tik-ul"
+},
+{
+"w": "swishy",
+"pos": "adjective",
+"senses": [
+"Producing a swishing sound.",
+"Swish; fancy, posh, impressive.",
+"Effeminate; gay"
+],
+"ety": "From swish + -y.",
+"examples": [
+"And quit flouncing that rifle around like a swishy fag, wiggling the dressed ranks on my parade ground. Hear me, Private Driggers?"
+],
+"p": null
+},
+{
+"w": "redan",
+"pos": "noun",
+"senses": [
+"A defensive fortification work in the shape of a V."
+],
+"ety": "From French redan, corruption of redent, from re- + dent (“tooth”).",
+"examples": [],
+"p": "rih-DAN"
+},
+{
+"w": "evangelization",
+"pos": "noun",
+"senses": [
+"The act of evangelizing; the state of being evangelized."
+],
+"ety": "From evangelize + -ation.",
+"examples": [
+"Their cooperation was really anticipated and their middle position gave evangelization a more disposing tone as the message could be given from native evangelizers too."
+],
+"p": null
+},
+{
+"w": "caerphilly",
+"pos": "noun",
+"senses": [
+"A light-colored, crumbly cheese made from cow's milk."
+],
+"ety": "Named after the town of Caerphilly, Wales.",
+"examples": [],
+"p": "keh-FIL-ee"
+},
+{
+"w": "dasha",
+"pos": "noun",
+"senses": [
+"One of various systems of Hindu astrology based on planetary periods, in which these planetary periods have good or bad effects depending on their placement by sign, house, combinations with other planets, and aspects."
+],
+"ety": "Borrowed from Sanskrit दशा (daśā).",
+"examples": [],
+"p": null
+},
+{
+"w": "dowel",
+"pos": "noun",
+"senses": [
+"A pin, or block, of wood or metal, fitting into holes in the abutting portions of two pieces, and being partly in one piece and partly in the other, to keep them in their proper relative position.",
+"A wooden rod, as one to make short pins from.",
+"A piece of wood or similar material fitted into a surface not suitable for fastening so that other pieces may be fastened to it."
+],
+"ety": "From Middle English dowle, dule, of uncertain origin. Perhaps from Old French doelle (“the hollow part of a tool where the handle is”), from Frankish *duli (“hollow tube, pipe”), from Proto-Germanic *dulją (“pipe”), from Proto-Indo-European *dʰel- (“curvature, hollow”). If so, then cognate with French douelle, douille. Alternatively from Middle Low German dövel (“peg, plug”), from Old Saxon *dubil, from Proto-Germanic *dubilaz. If so, then cognate with Dutch deuvel (“wooden peg”), German Dübel (“dowel”).",
+"examples": [],
+"p": "DOW-ul"
+},
+{
+"w": "screencap",
+"pos": "noun",
+"senses": [
+"A screenshot."
+],
+"ety": "Clipping of screen capture.",
+"examples": [],
+"p": null
+},
+{
+"w": "decet",
+"pos": "noun",
+"senses": [
+"A group of ten musicians; a piece of music written for such a group"
+],
+"ety": "From Italian decetto, from dieci (“ten”).",
+"examples": [],
+"p": "deh-SET"
+},
+{
+"w": "mandal",
+"pos": "noun",
+"senses": [
+"An administrative division in some countries in South Asia."
+],
+"ety": "Ultimately from Sanskrit मण्डल (maṇḍala, literally “circle”). Doublet of mandala.",
+"examples": [],
+"p": null
+},
+{
+"w": "welfarist",
+"pos": "noun",
+"senses": [
+"Someone who supports welfare, especially of animals.",
+"A supporter of the politics or principles of the welfare state."
+],
+"ety": "From welfare + -ist.",
+"examples": [],
+"p": "WEL-fair-ist"
+},
+{
+"w": "signee",
+"pos": "noun",
+"senses": [
+"One who is signed (signed up, enlisted) by someone else; thus, one who signs a contract, especially in athletic contexts."
+],
+"ety": "From sign + -ee.",
+"examples": [
+"Near-synonyms: enrollee, enlistee; signer, signatory",
+"Our team has landed some great signees in this draft."
+],
+"p": null
+},
+{
+"w": "ragout",
+"pos": "noun",
+"senses": [
+"a stew of meat and vegetables mixed together",
+"any stew, soup, or sauce"
+],
+"ety": "Borrowed from French ragoût. Compare ragù of the same origin, borrowed from Italian.",
+"examples": [],
+"p": "ra-GOO"
+},
+{
+"w": "paypoint",
+"pos": "noun",
+"senses": [
+"A location where people can make payments for a service."
+],
+"ety": "From pay + point.",
+"examples": [
+"At smaller mobile paypoints, stall holders set themselves up for an hour or two, and then follow pension vehicles to the next paypoint."
+],
+"p": null
+},
+{
+"w": "needleman",
+"pos": "noun",
+"senses": [
+"A man who works with a needle; a male embroiderer, sewer, etc."
+],
+"ety": "From needle + man.",
+"examples": [],
+"p": null
+},
+{
+"w": "nodose",
+"pos": "adjective",
+"senses": [
+"Knot-like; swollen"
+],
+"ety": "Borrowed from Latin nōdōsus. Equivalent to nodo- + -ose.",
+"examples": [
+"The epidermal cells of the capsule wall of Jubulopsis, with nodose \"trigones\" at the angles, are very reminiscent of what one finds in Frullania spp."
+],
+"p": null
+}
+]

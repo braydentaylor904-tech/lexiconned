@@ -1,0 +1,452 @@
+[
+{
+"w": "clonogenic",
+"pos": "adjective",
+"senses": [
+"Having the ability to form clones"
+],
+"ety": "From clono- + -genic.",
+"examples": [],
+"p": null
+},
+{
+"w": "murderbot",
+"pos": "noun",
+"senses": [
+"A robot that murders."
+],
+"ety": "From murder + -bot.",
+"examples": [],
+"p": null
+},
+{
+"w": "plurinational",
+"pos": "adjective",
+"senses": [
+"Describing a state containing large groups of people of different nationalities."
+],
+"ety": "From pluri- + national.",
+"examples": [],
+"p": null
+},
+{
+"w": "expansionary",
+"pos": "adjective",
+"senses": [
+"That promotes or exhibits expansion."
+],
+"ety": "From expansion + -ary.",
+"examples": [
+"A ruthless, if strategic, expansionary policy was only part of Kautilya's vision for the state."
+],
+"p": null
+},
+{
+"w": "decretal",
+"pos": "noun",
+"senses": [
+"A papal decree, particularly one derived from an ecclesiastical letter."
+],
+"ety": "From Middle French decretal, from Late Latin dēcrētālis, from Latin decretum.",
+"examples": [],
+"p": "dih-KREE-tul"
+},
+{
+"w": "chica",
+"pos": "noun",
+"senses": [
+"A Latin-American girl; a Latina."
+],
+"ety": "Borrowed from Spanish chica (“girl”).",
+"examples": [],
+"p": null
+},
+{
+"w": "priapism",
+"pos": "noun",
+"senses": [
+"The obsessive focus on one's genitals or on the need for genital gratification."
+],
+"ety": "From Latin priapismus, from Priapus (“the god of procreation, the penis”) + -ism, from Ancient Greek πριαπισμός (priapismós).",
+"examples": [],
+"p": "PRY-uh-pih-zum"
+},
+{
+"w": "elongation",
+"pos": "noun",
+"senses": [
+"The act of lengthening.",
+"That which lengthens out; a continuation.",
+"The ratio of the extension of a material to the length of the material prior to stretching.",
+"A removal to a distance; a withdrawal; a being at a distance; a distance."
+],
+"ety": "Borrowed from Late Latin elongatio, elongationem.",
+"examples": [],
+"p": null
+},
+{
+"w": "dimmer",
+"pos": "noun",
+"senses": [
+"A rheostat that is used to vary the intensity of a domestic electric light",
+"A switch used to select between the low and high headlamp beam on a road vehicle. (usually as \"dimmer switch\", primarily in North America; elsewhere \"dipswitch\" or \"dipper switch\")"
+],
+"ety": "From dim (verb) + -er.",
+"examples": [],
+"p": "DIM-er"
+},
+{
+"w": "omakase",
+"pos": "adjective",
+"senses": [
+"Chef's choice."
+],
+"ety": "Borrowed from Japanese お任(まか)せ (omakase, “it's up to you”).",
+"examples": [
+"So Americans are stuck between chef-driven omakase meals at elite restaurants that cost a fortune and the cheap, predictable fare at our neighborhood places.",
+"He prefers a greasy cheeseburger to a hundred-dollar omakase sushi dinner.",
+"An omakase menu is available, as are sushi plates, which consist of a variety of nigiri, maki, and/or sashimi chosen by the chef."
+],
+"p": null
+},
+{
+"w": "waker",
+"pos": "noun",
+"senses": [
+"One who wakens or arouses from sleep.",
+"One who wakes somebody or something.",
+"An alarm clock."
+],
+"ety": "From Middle English wakere, equivalent to wake + -er. Compare West Frisian wekker (“alarm clock”, literally “waker”), Dutch wekker, German Wecker.",
+"examples": [],
+"p": null
+},
+{
+"w": "sounder",
+"pos": "noun",
+"senses": [
+"Something or someone who makes a sound.",
+"An instrument used in telegraphy in place of a register, the communications being read by sound.",
+"Synonym of sting (“brief musical sequence in television etc.”)."
+],
+"ety": "From Middle English soundar, sownere, equivalent to sound + -er.",
+"examples": [],
+"p": "SOWN-der"
+},
+{
+"w": "treemap",
+"pos": "noun",
+"senses": [
+"A representation of hierarchical data as a set of nested rectangles."
+],
+"ety": "From tree + map.",
+"examples": [],
+"p": null
+},
+{
+"w": "zoomer",
+"pos": "noun",
+"senses": [
+"That which zooms.",
+"A kind of small swim fin.",
+"A baby boomer with a very active lifestyle.",
+"An eccentric, erratic or crazy person, particularly associated with more extreme supporters of Scottish nationalism."
+],
+"ety": "From zoom + -er. The sense of \"active baby boomer\" is influenced by the word boomer, and is attributed to Moses Znaimer.",
+"examples": [
+"A recent study released by the Conference Board of Canada states that the Zoomers (Baby Boomers who refuse to age), Gen X and Gen Y have more in common than we might think."
+],
+"p": null
+},
+{
+"w": "kente",
+"pos": "noun",
+"senses": [
+"A type of fabric made of interwoven cloth strips, native to Ghana."
+],
+"ety": "Borrowed from Akan kɛntɛn (“basket”).",
+"examples": [],
+"p": null
+},
+{
+"w": "cashbox",
+"pos": "noun",
+"senses": [
+"A box for holding cash."
+],
+"ety": "From cash + box.",
+"examples": [],
+"p": null
+},
+{
+"w": "heder",
+"pos": "noun",
+"senses": [
+"An elementary school in which students are taught to read Hebrew texts."
+],
+"ety": "From Hebrew חֶדֶר (khéder, “room”).",
+"examples": [],
+"p": null
+},
+{
+"w": "bubinga",
+"pos": "noun",
+"senses": [
+"Guibourtia spp.",
+"Didelotia africana",
+"Copaifera spp.",
+"Brachystegia spp."
+],
+"ety": "Borrowed from Duala bobiŋga.",
+"examples": [],
+"p": null
+},
+{
+"w": "dasatinib",
+"pos": "noun",
+"senses": [
+"A particular drug used as a tyrosine kinase inhibitor."
+],
+"ety": "From Das + -tinib, after its discoverer, the chemist Jagabandhu Das.",
+"examples": [
+"In 2009, Mayfield still remains in remission, now on dasatinib."
+],
+"p": null
+},
+{
+"w": "venturous",
+"pos": "adjective",
+"senses": [
+"Adventurous; venturesome; willing to undertake activities involving risk."
+],
+"ety": "From venture + -ous.",
+"examples": [],
+"p": null
+},
+{
+"w": "synodic",
+"pos": "adjective",
+"senses": [
+"Of, related to or produced by a synod; synodal."
+],
+"ety": "From Latin synodicus, from Ancient Greek συνοδικός (sunodikós, “of or related to an assembly or meeting”). Equivalent to synod + -ic.",
+"examples": [],
+"p": "sih-NAHD-ik"
+},
+{
+"w": "petunia",
+"pos": "noun",
+"senses": [
+"A dark purple colour, like that of some petunia flowers."
+],
+"ety": "Borrowed from taxonomic name Petunia, from (now obsolete) French pétun (“tobacco”), from Old Tupi petyma (“tobacco”).",
+"examples": [],
+"p": "puh-TOO-nee-uh"
+},
+{
+"w": "scaffolder",
+"pos": "noun",
+"senses": [
+"A person who erects and dismantles scaffolding.",
+"A spectator in the gallery of a theatre."
+],
+"ety": "From scaffold + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "upliftment",
+"pos": "noun",
+"senses": [
+"Lifting up; elevation or promotion."
+],
+"ety": "From uplift + -ment.",
+"examples": [
+"For instance, the most plausible stylistic progenitors of Yorick's rhapsodic upliftments of language are the astonishing outbursts of Theocles in 'The Moralists'.",
+"We turn to the spirit because the material world has nothing to offer us; we declare spiritual upliftments to be the highest virtues.",
+"Intermarriage, he apparently thought, would produce racial upliftment, biologically as much as spiritually and culturally, through generational enhancement."
+],
+"p": null
+},
+{
+"w": "insurrectionist",
+"pos": "noun",
+"senses": [
+"A person who provokes or takes part in an insurrection."
+],
+"ety": "From insurrection + -ist.",
+"examples": [
+"It comes from the Latin insurgo, meaning “to rise up within”: so insurrectionists are, etymologically, the same as “insurgents”, even if that is normally a word for those who do not meekly accept western military rule."
+],
+"p": null
+},
+{
+"w": "wordie",
+"pos": "noun",
+"senses": [
+"Someone interested in words; especially, one enthusiastic about the study of word use but not bent on being pedantic about usage prescription."
+],
+"ety": "From word + -ie; the enthusiast sense is parallel in nature with foodie and was probably influenced by it.",
+"examples": [],
+"p": "WUR-dee"
+},
+{
+"w": "cyclamen",
+"pos": "noun",
+"senses": [
+"A purplish-red colour."
+],
+"ety": "Borrowing from New Latin cyclamen, from Latin cyclamīnos.",
+"examples": [],
+"p": "SIK-luh-mun"
+},
+{
+"w": "cubie",
+"pos": "noun",
+"senses": [
+"One of the smaller cubes making up a Rubik's cube.",
+"A five-gallon, boxed, plastic bag of drinking water used by firefighters."
+],
+"ety": "From cube + -ie.",
+"examples": [
+"Each of the tiles is actually part of a small cube, or cubie.",
+"Each nine-cubie face is capable of being rotated en bloc."
+],
+"p": null
+},
+{
+"w": "wonkette",
+"pos": "noun",
+"senses": [
+"A female wonk."
+],
+"ety": "From wonk + -ette.",
+"examples": [],
+"p": null
+},
+{
+"w": "tendresse",
+"pos": "noun",
+"senses": [
+"Tenderness, gentle intimacy or affection."
+],
+"ety": "Borrowed from French tendresse.",
+"examples": [
+"When Papillon makes his last impossible try for freedom they embrace with the tendresse of lovers, however manly and platonic.",
+"Women loved him, it is true, but he could not respond with enduring tendresse.",
+"Tár has furthermore conceived a tendresse for a new cellist."
+],
+"p": null
+},
+{
+"w": "steric",
+"pos": "adjective",
+"senses": [
+"of the repulsion of atoms due to closeness or arrangement"
+],
+"ety": "From ster(eo)- (“3D”) + -ic.",
+"examples": [],
+"p": "STAIR-ik"
+},
+{
+"w": "fatherly",
+"pos": "adjective",
+"senses": [
+"Characteristic of what is considered the ideal behaviour pertaining to fatherhood.",
+"Befitting of a father; protective, paternal."
+],
+"ety": "From Middle English faderly, from Old English fæderlīċ (“fatherly, paternal”), from Proto-West Germanic *faderlīk, from Proto-Germanic *fadurlīkaz (“fatherly, paternal”), equivalent to father + -ly. Cognate with West Frisian faderlik (“fatherly”), Dutch vaderlijk (“fatherly”), German väterlich (“fatherly”), Danish faderlig (“fatherly”), Swedish faderlig (“fatherly”), Icelandic föðurlegur (“fatherly”) . Doublet of fatherlike.",
+"examples": [],
+"p": "FAH-ther-lee"
+},
+{
+"w": "vulgarism",
+"pos": "noun",
+"senses": [
+"A spelling, word, or phrase used in common speech that is considered improper or incorrect for formal communication."
+],
+"ety": "From vulgar + -ism.",
+"examples": [
+"We never descended to the vulgarism of a quarrel. People said that neither of us had a heart, but it appears to me that politeness is an excellent substitute.",
+"Editors of newspapers allow more vulgarisms to go to print today than they used to."
+],
+"p": null
+},
+{
+"w": "metatarsal",
+"pos": "adjective",
+"senses": [
+"Of the metatarsus."
+],
+"ety": "From meta- + tarsal.",
+"examples": [],
+"p": "met-uh-TAR-sul"
+},
+{
+"w": "pilly",
+"pos": "adjective",
+"senses": [
+"Covered in pills (particles created by mechanical wear).",
+"Characterized by or involving many pills."
+],
+"ety": "From pill + -y. In some cases, pill is a clipping of a longer word.",
+"examples": [
+"After many washings, my favorite sweater is faded and pilly.",
+"I gave the superintendent a deposit and I got a room on the third floor with a bed that had sheets and a pilly blanket and a pillow so flat you had to fold it over to rest your head on it.",
+"One was a young woman with stringy brown hair, a pilly black sweater and fabulous boots of parti-coloured suede."
+],
+"p": null
+},
+{
+"w": "petrification",
+"pos": "noun",
+"senses": [
+"Turning to stone: the process of replacement of the organic residues of plants (and animals) with insoluble salts, with the original shape and topography being retained.",
+"obduracy; callousness.",
+"Sheer terror; great fright."
+],
+"ety": "From French pétrification, from Middle French pétrifier + -ation.",
+"examples": [],
+"p": "pet-rih-fih-KAY-shun"
+},
+{
+"w": "modularity",
+"pos": "noun",
+"senses": [
+"The property of being modular."
+],
+"ety": "From modular + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "mathlete",
+"pos": "noun",
+"senses": [
+"A member of the math team of a primary school or secondary school."
+],
+"ety": "Blend of mathematics + athlete. The term is a registered trademark of the MathCounts organization. The term entered pop culture from the movies American Pie (1999) and Mean Girls (2004), as well as being featured in the short-lived cult TV series Freaks and Geeks. Mathletes was the name of a US national organization in the 1970s that sponsored high school mathematics competitions (\"Mathletes\") and junior high school competitions (\"Junior Mathletes\") between school teams known as \"Math Teams\". A team's news and results could be covered either under Sports (because it was a team competition) or ",
+"examples": [],
+"p": "MATH-leet"
+},
+{
+"w": "propulsor",
+"pos": "noun",
+"senses": [
+"Any object that propels or produces a propulsive force."
+],
+"ety": "From the participle stem of Latin prōpellō (“propel”) + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "laghman",
+"pos": "noun",
+"senses": [
+"A Central Asian dish of pulled noodles, meat and vegetables."
+],
+"ety": "From Uyghur لەڭمەن (lengmen, “lengmen”), from Chinese 拉麵 /拉面 (lāmiàn). Doublet of lamian, ramen, and ramyeon.",
+"examples": [],
+"p": null
+}
+]

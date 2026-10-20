@@ -1,0 +1,454 @@
+[
+{
+"w": "liberatory",
+"pos": "adjective",
+"senses": [
+"Serving to liberate."
+],
+"ety": "From liberate + -ory.",
+"examples": [
+"In the case of Rothbard, for example, crusader's faith in the efficiency and liberatory potential of the invisible hand is resolutely resistant to the piled-up evidence that it's a catastrophe for the many."
+],
+"p": null
+},
+{
+"w": "stoled",
+"pos": "adjective",
+"senses": [
+"Having or wearing a stole."
+],
+"ety": "From stole + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "hypocaust",
+"pos": "noun",
+"senses": [
+"An underfloor space or flue through which heat from a furnace passes to heat the floor of a room or a bath.",
+"An underfloor heating system, even without such an underfloor space or flue, as adapted for modern housing."
+],
+"ety": "From Latin hypocaustum, from Ancient Greek ὑπόκαυστον (hupókauston), from Ancient Greek ὑπό (hupó, “underneath”) + καυστόν (kaustón, “burnt offering”).",
+"examples": [],
+"p": null
+},
+{
+"w": "wuxia",
+"pos": "noun",
+"senses": [
+"A genre of East Asian fiction concerning the adventures of martial artists, typically set in Ancient China."
+],
+"ety": "From Mandarin 武俠 /武侠 (wǔxiá, “martial hero”).",
+"examples": [],
+"p": "woo-SHAH"
+},
+{
+"w": "cephalopod",
+"pos": "noun",
+"senses": [
+"Any mollusc of the class Cephalopoda, which includes squid, cuttlefish, octopus, nautiloids etc."
+],
+"ety": "From French céphalopode, from Ancient Greek κεφαλή (kephalḗ, “head”) + ποδός (podós), genitive singular of πούς (poús, “foot, leg”). By surface analysis, cephalo- + -pod.",
+"examples": [],
+"p": "SEF-uh-luh-pod"
+},
+{
+"w": "milfoil",
+"pos": "noun",
+"senses": [
+"Common yarrow, Achillea millefolium."
+],
+"ety": "From Old French milfoil (modern French mille-feuille), from Latin millefolium, from mīlle + folium. Doublet of mille-feuille.",
+"examples": [],
+"p": null
+},
+{
+"w": "tombo",
+"pos": "noun",
+"senses": [
+"A traditional sweet beer made from the bamboo palm."
+],
+"ety": "Borrowed from Ndonga otombo.",
+"examples": [],
+"p": null
+},
+{
+"w": "symphonia",
+"pos": "noun",
+"senses": [
+"Concord in Ancient Greek music."
+],
+"ety": "From Ancient Greek σῠμφωνῐ́ᾱ (sŭmphōnĭ́ā). Doublet of sinfonia, symphony, tsampouna, and zampogna. By surface analysis, sym- + -phonia.",
+"examples": [],
+"p": null
+},
+{
+"w": "whist",
+"pos": "noun",
+"senses": [
+"Any of several four-player card games, similar to bridge.",
+"A session of playing this card game."
+],
+"ety": "Alteration of whisk, perhaps so called from the notion of “whisking” up cards after each trick. Altered perhaps on assumption that the word was an interjection invoking silence, by influence of whist (“silent”).",
+"examples": [],
+"p": "wist"
+},
+{
+"w": "jyotirlinga",
+"pos": "noun",
+"senses": [
+"A shrine where Lord Shiva is worshipped in the form of a Jyotirlingam or \"Lingam (pillar) of light.\""
+],
+"ety": "Borrowed from Sanskrit ज्योतिर्लिङ्ग (jyotirliṅga).",
+"examples": [
+"One of Shiva's revered Jyotirlingas is protected within the inner sanctum of the city's Kashi Vishwanath temple. It is one of the more famous lingas in the country."
+],
+"p": null
+},
+{
+"w": "croagh",
+"pos": "noun",
+"senses": [
+"A hill or mountain in Ireland."
+],
+"ety": "Borrowed from Irish cruach. Doublet of rick.",
+"examples": [],
+"p": "KROHG"
+},
+{
+"w": "flameout",
+"pos": "noun",
+"senses": [
+"The act of flaming out or burning out; extinguishing.",
+"The act of quitting or failing, especially due to overwork or in a dramatic manner.",
+"The sudden extinguishing of the flame of a burner (due to obstruction of fuel or airflow)."
+],
+"ety": "Deverbal from flame out.",
+"examples": [
+"The company was one of Silicon Valley's more famous dot-com flameouts.",
+"The left engine suffered a flameout from ingesting heavy rain."
+],
+"p": null
+},
+{
+"w": "permute",
+"pos": "verb",
+"senses": [
+"To change the order of."
+],
+"ety": "From Middle English permuten, from Old French permuter, from Latin permūtāre.",
+"examples": [],
+"p": "per-MYOOT"
+},
+{
+"w": "genki",
+"pos": "noun",
+"senses": [
+"A playful, hyperactive girl."
+],
+"ety": "Borrowed from Japanese げんき (“energetic, peppy”).",
+"examples": [],
+"p": null
+},
+{
+"w": "tweetup",
+"pos": "noun",
+"senses": [
+"A meeting in person organised on the social networking web site Twitter."
+],
+"ety": "Blend of tweet + meetup.",
+"examples": [],
+"p": null
+},
+{
+"w": "haddock",
+"pos": "noun",
+"senses": [
+"A saltwater fish, Melanogrammus aeglefinus, of the North Atlantic, important as a food fish."
+],
+"ety": "From Middle English haddok. Compare Anglo-Norman hadoc from Old French hadot, probably from an English source. Further origin uncertain, but hadot could have evolved from (h)adoux, (h)adoz, from adoub, from adouber, adober (“to prepare”), cognate with Italian addobbare (“to souse fish or meat”). The spelling is usually regarded as a diminutive in -ok (see -ock).",
+"examples": [],
+"p": "HAD-uk"
+},
+{
+"w": "cartman",
+"pos": "noun",
+"senses": [
+"A person who transports goods or people by horse and cart; a carman.",
+"A private garbage collection and haulage worker or contractor."
+],
+"ety": "From cart + -man.",
+"examples": [
+"No person shall be licensed as a cartman unless he be twenty-one years of age, and the owner of a good horse and cart, over and above all debts due by him."
+],
+"p": null
+},
+{
+"w": "selectivity",
+"pos": "noun",
+"senses": [
+"The quality of being selective, or extent to which something is selective.",
+"The ability of a radio receiver to separate a desired signal frequency from others.",
+"An approach to social work that prioritizes people perceived as having the most need for assistance."
+],
+"ety": "From selective + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "herzog",
+"pos": "noun",
+"senses": [
+"A German duke."
+],
+"ety": "From German Herzog. Doublet of heretog and heretoga.",
+"examples": [
+"Germany had its herzogs and landgrafs, each of whom had his territories, where he ruled, “monarch of all he surveyed.”",
+"He was a herzog, going to meet the Queen of England; stopped for the slightest possible refreshment—a glass of Rhenish and a biscuit—and going on at once.",
+"The herzogs and the bishops hampered political independence, and the attempts of some German Carolingians to restore the empire fell through."
+],
+"p": null
+},
+{
+"w": "waiata",
+"pos": "noun",
+"senses": [
+"A Māori folk song."
+],
+"ety": "From Māori waiata.",
+"examples": [],
+"p": null
+},
+{
+"w": "titlist",
+"pos": "noun",
+"senses": [
+"The holder of a title in a competitive sport; a champion."
+],
+"ety": "From title + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "secretarial",
+"pos": "adjective",
+"senses": [
+"Connected with a secretary's work."
+],
+"ety": "From a Latin-type formation *sēcrētāriālis, from Medieval Latin sēcrētārius + Latin -ālis. By surface analysis, secretary + -al.",
+"examples": [],
+"p": "sek-ruh-TAIR-ee-ul"
+},
+{
+"w": "loverman",
+"pos": "noun",
+"senses": [
+"A man who is skilled at making love.",
+"A man who has sex with many women; player.",
+"A male sexual partner."
+],
+"ety": "From lover + man.",
+"examples": [
+"Spencer. The newcomer. The slender, dark-haired loverman.",
+"This can cause some strange changes. I've seen lovermen go weird. Romeos who broke and balled the ladies outside, lovesickness turns them into lisping, stubble-chinned, prison-yard queens.",
+"In his autobiography, the notorious Venetian loverman Giacomo Casanova shocked his peers by giving lurid accounts of the sex he'd had with 122 women."
+],
+"p": null
+},
+{
+"w": "kolinsky",
+"pos": "noun",
+"senses": [
+"The Siberian weasel, Mustela sibirica",
+"The fur of the Siberian weasel"
+],
+"ety": "From Russian колинский (kolinskij, literally “from the Kola peninsula”).",
+"examples": [],
+"p": null
+},
+{
+"w": "sutra",
+"pos": "noun",
+"senses": [
+"A rule or thesis in Sanskrit grammar or Hindu law or philosophy."
+],
+"ety": "Borrowed from Sanskrit सूत्र (sū́tra, “thread, yarn, string; rule”). Doublet of sutta; more distantly related to sew and suture.",
+"examples": [],
+"p": "SOO-truh"
+},
+{
+"w": "fathe",
+"pos": "noun",
+"senses": [
+"The diacritical mark ـَ (-a) used in the Persian script to denote the short vowel sound a, analogically to Arabic fatha."
+],
+"ety": "Borrowed from Persian فَتْحِه (fathe).",
+"examples": [],
+"p": null
+},
+{
+"w": "oleoresin",
+"pos": "noun",
+"senses": [
+"A homogeneous mix of essential oil and resin."
+],
+"ety": "From oleo- + resin.",
+"examples": [],
+"p": null
+},
+{
+"w": "jatra",
+"pos": "noun",
+"senses": [
+"An annual village festival in Maharashtra, India.",
+"A form of Bengali theater."
+],
+"ety": "Ultimately from Sanskrit यात्रा (yātrā), cf. Bengali যাত্রা (jatra).",
+"examples": [],
+"p": null
+},
+{
+"w": "laner",
+"pos": "noun",
+"senses": [
+"In MOBA (multiplayer online battle arena) games, a player who focuses on enemy characters traversing a particular \"lane\" or path on the map."
+],
+"ety": "From lane + -er (relational suffix).",
+"examples": [],
+"p": "LAY-ner"
+},
+{
+"w": "tallish",
+"pos": "adjective",
+"senses": [
+"somewhat tall"
+],
+"ety": "From tall + -ish.",
+"examples": [],
+"p": null
+},
+{
+"w": "hanko",
+"pos": "noun",
+"senses": [
+"A traditional Japanese stamp bearing a personal seal, used (in place of a handwritten signature) to authorise or certify documents."
+],
+"ety": "Borrowed from Japanese 版行(はんこ) (hanko).",
+"examples": [
+"I used my hanko, and as I did I realized I needed a new one, with my new name."
+],
+"p": null
+},
+{
+"w": "platypus",
+"pos": "noun",
+"senses": [
+"A semiaquatic monotreme from eastern Australia with a bill resembling that of a duck, that has a mole-like body, a tail resembling that of a beaver, a waterproof pelt, and flat webbed feet (Ornithorhynchus anatinus)."
+],
+"ety": "From New Latin Platypus (originally a genus name already in use for a type of beetle), from Ancient Greek πλατύπους (platúpous, “flat-footed”), from πλατύς (platús, “flat”) + πούς (poús, “foot”). Piecewise doublet of flatfoot.",
+"examples": [],
+"p": "PLAT-ih-puus"
+},
+{
+"w": "ranchman",
+"pos": "noun",
+"senses": [
+"An owner or occupant of a ranch",
+"A laborer on a ranch."
+],
+"ety": "From ranch + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "transact",
+"pos": "verb",
+"senses": [
+"To do, carry through, conduct or perform.",
+"To carry over, hand over or transfer something.",
+"To conduct business.",
+"To exchange or trade, as of ideas, money, goods, etc."
+],
+"ety": "Back-formation from transaction, or else from Latin trānsāctus, past participle of trānsigere.",
+"examples": [],
+"p": "tran-ZAKT"
+},
+{
+"w": "crumpet",
+"pos": "noun",
+"senses": [
+"A type of savoury cake, typically flat and round, made from batter and yeast, containing many small holes and served toasted, usually with butter."
+],
+"ety": "First appears c. the 17th century, either from crompid cake (“wafer, literally, curled-up cake”), from crompid, form of crumpen (“to curl up”); cognate to crumpled. An alternate etymology is from Celtic; compare Breton krampouezh (“crepe, pancake”) and Welsh crempog (“pancake”). The sense of a “desirable woman” is attested since 1936, possibly as Cockney rhyming slang for strumpet; alternatively, compare tart (“a loose woman, a prostitute”) (itself possibly Cockney rhyming slang for heart or sweetheart). Note that muffin has a similar sense, and that, in the 19th and early 20th centuries, Muff",
+"examples": [],
+"p": "KRUM-pit"
+},
+{
+"w": "irrigator",
+"pos": "noun",
+"senses": [
+"One who, or that which, irrigates.",
+"A device for cleansing a wound with water."
+],
+"ety": "From irrigate + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "kurta",
+"pos": "noun",
+"senses": [
+"A traditional article of clothing worn in Afghanistan, Bangladesh, India, Pakistan, and Sri Lanka, consisting of a loose, collarless, long-sleeved, knee-length shirt worn by both men and women."
+],
+"ety": "Borrowed from Hindi कुरता (kurtā)/Urdu کرتا (kurtā), from Classical Persian کرته (kurta).",
+"examples": [
+"He wore a white cotton kurta to the festival.",
+"Now her fingers began to unbutton the ivory studs that ran slantwise across the chest of his kurta.",
+"One particularly notable fan moment occurred when Zohran Mamdani, the mayor of New York, wore a kurta made out of the team’s 2025-26 away kit to attend Eid al-Adha prayers in the Bronx."
+],
+"p": null
+},
+{
+"w": "onload",
+"pos": "verb",
+"senses": [
+"To load onto or upon."
+],
+"ety": "From on- + load.",
+"examples": [
+"Webb taxied to the FARP site, refueled, and then onloaded General Canavan and additional personnel for a re- turn flight to Monrovia.",
+"Ship to Shore Cranes Ship to shore container cranes are giant industrial cranes designed to onload and offload ocean freight containers from ocean vessels to dock side port facilities.",
+"The interface to onload tasks is similar to that of workqueues but semantically richer and designed for parallel operations."
+],
+"p": null
+},
+{
+"w": "coiner",
+"pos": "noun",
+"senses": [
+"A person who makes coins (often counterfeit coins).",
+"A person who invents words or phrases."
+],
+"ety": "From Middle English coynour, from Middle French coigneur; equivalent to coin + -er (agent noun suffix). In the cryptocurrency sense, coin + -er (“supporter”).",
+"examples": [
+"The figures and letters were so mingled together, that one would think the Coiner was hard put to it on what part of the money to bestow the several words of his inscription.",
+"The coiners too multiplied and prospered; for the worse the current money became the more easily it was imitated.",
+"They are expert smiths and coiners; they are said to have great treasures in the dolmen in which they dwell, and of which they are regarded as the builders."
+],
+"p": null
+},
+{
+"w": "inductee",
+"pos": "noun",
+"senses": [
+"One who, or that which, is inducted.",
+"A person who is inducted into an organization.",
+"A person who is drafted or a volunteer that is activated into military service."
+],
+"ety": "From induct + -ee.",
+"examples": [
+"Amrolia had inducted his son Jamshed together with that person’s wife and two children to stay with him in the flat afore-mentioned. Later on, relations between the inductor and inductees deteriorated."
+],
+"p": null
+}
+]

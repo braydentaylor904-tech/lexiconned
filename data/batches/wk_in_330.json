@@ -1,0 +1,433 @@
+[
+{
+"w": "aquavit",
+"pos": "noun",
+"senses": [
+"A Scandinavian liquor distilled from potato or grain mash to about 40% ABV and typically flavored with anise, although caraway seeds, fennel, dill, and other spices and herbs are also used."
+],
+"ety": "From Swedish and Danish akvavit and Norwegian akevitt, from Medieval Latin aqua vitae (“water of life”). Doublet of aqua vitae and akvavit. Compare eau de vie, whisky, whiskey, and water of life from the same source.",
+"examples": [],
+"p": "ak-wuh-VEET"
+},
+{
+"w": "hallo",
+"pos": "noun",
+"senses": [
+"The cry \"hallo!\"",
+"A shout of exultation."
+],
+"ety": "From Middle English halou, halow, halloo (interjection used to call attention), representing Old English hēlā, ǣlā, ēalā (“O!, alas!, oh!, lo!”), equivalent to hey + lo.",
+"examples": [],
+"p": "huh-LOH"
+},
+{
+"w": "marmoset",
+"pos": "noun",
+"senses": [
+"Any small monkey, now specifically a Central and South American monkey of the genera Callithrix, Mico, Cebuella, and Callibella, with claws instead of nails, and a rather primitive layout."
+],
+"ety": "Borrowed from Middle French marmouset (“a gargoyle; a small child”), probably from marmouser (“to mumble”), of imitative origin.",
+"examples": [],
+"p": "MAR-muh-sut"
+},
+{
+"w": "remap",
+"pos": "verb",
+"senses": [
+"To assign differently; to relabel or repurpose.",
+"To map again."
+],
+"ety": "From re- + map.",
+"examples": [
+"He remapped the variable in the code to hold the value directly, instead of a pointer to the value.",
+"Because the topography and development of the land changed so much in the floods, the region had to be remapped."
+],
+"p": null
+},
+{
+"w": "zoologist",
+"pos": "noun",
+"senses": [
+"One who studies or practices zoology."
+],
+"ety": "From zoology + -ist.",
+"examples": [],
+"p": "zoh-AH-luh-jist"
+},
+{
+"w": "desensitization",
+"pos": "noun",
+"senses": [
+"The act or process of desensitizing, of reducing or eliminating sensitivity."
+],
+"ety": "From de- + sensitization.",
+"examples": [
+"Furthermore, the desensitization steps should be incremental so that the animal experiences little or no fear response during the sessions."
+],
+"p": null
+},
+{
+"w": "sextet",
+"pos": "noun",
+"senses": [
+"Any group of six people or things.",
+"A composition for six voices or instruments.",
+"A group of six singers or instrumentalists."
+],
+"ety": "From French sextette, from Italian sestetto.",
+"examples": [],
+"p": "seks-TET"
+},
+{
+"w": "indifferentism",
+"pos": "noun",
+"senses": [
+"Relativism, agnosticism; apathy, indifference.",
+"An expression of such a doctrine or view.",
+"The doctrine of absolute identity, i.e. that to be in thought and to exist are one and the same thing."
+],
+"ety": "From indifferent + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "pushout",
+"pos": "noun",
+"senses": [
+"A person who is expelled from school or who drops out because of a lack of support."
+],
+"ety": "* Deverbal from push out. * (one who leaves school): Intended to avoid the negative implications of dropout.",
+"examples": [],
+"p": null
+},
+{
+"w": "abalone",
+"pos": "noun",
+"senses": [
+"The meat of the aforementioned mollusc."
+],
+"ety": "From American Spanish abulón, from an indigenous language of the Monterey Bay area such as Rumsen/Southern Ohlone aūlun (“red abalone”)",
+"examples": [],
+"p": "ab-uh-LOH-nee"
+},
+{
+"w": "estadio",
+"pos": "noun",
+"senses": [
+"A traditional Portuguese unit of distance, variously equivalent to about 185.2, 231.5, or 257.2 m depending on the number of leagues per equatorial degree."
+],
+"ety": "From Portuguese estádio, from Latin stadium (“stadium, Roman stade”), from Ancient Greek στάδιον (stádion, “stadium for footraces, stadion”). Doublet of stade, stadium, and stadion.",
+"examples": [],
+"p": null
+},
+{
+"w": "mistic",
+"pos": "noun",
+"senses": [
+"A kind of small sailing vessel historically used in the Mediterranean, rigged partly like a xebec and partly like a felucca."
+],
+"ety": "From Spanish místico. Compare Catalan místic, French mistique, Italian mistico, and Ottoman Turkish مستقو (mistiko). These all refer to sailing ships of the Mediterranean, but not necessarily to the same kind of ship. The number of masts is variously two or three and the sails are lateen or square. The New English Dictionary traces the origin to an Arabic word misṭeḥ \"flat surface\" (compare مُسَطَّح (musaṭṭaḥ)) but Kahane et al. disagree.",
+"examples": [],
+"p": null
+},
+{
+"w": "unauthenticated",
+"pos": "adjective",
+"senses": [
+"Having no authentication"
+],
+"ety": "From un- + authenticated.",
+"examples": [],
+"p": null
+},
+{
+"w": "garnets",
+"pos": "noun",
+"senses": [
+"An old Russian dry measure, approximately 3.28 litres."
+],
+"ety": "Borrowed from Russian га́рнец (gárnec).",
+"examples": [],
+"p": null
+},
+{
+"w": "raddle",
+"pos": "noun",
+"senses": [
+"A red ochre."
+],
+"ety": "From a variation of reddle, ruddle. Related to red.",
+"examples": [],
+"p": "RAD-ul"
+},
+{
+"w": "medievalism",
+"pos": "noun",
+"senses": [
+"The study of the Middle Ages.",
+"A custom or belief from the Middle Ages."
+],
+"ety": "From medieval + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "piggyback",
+"pos": "adjective",
+"senses": [
+"On somebody's back or shoulders.",
+"Attached or appended to something larger or more important."
+],
+"ety": "A corruption of pickaback, itself a corruption of pick-pack, like a pack.",
+"examples": [],
+"p": null
+},
+{
+"w": "yakisoba",
+"pos": "noun",
+"senses": [
+"A Japanese stir-fried dish made of fried wheat flour noodles, pork, vegetables, and a sweet sauce."
+],
+"ety": "Borrowed from Japanese 焼きそば (literally “fried noodle”).",
+"examples": [],
+"p": "yah-kee-SOH-buh"
+},
+{
+"w": "biophysicist",
+"pos": "noun",
+"senses": [
+"A biologist or physicist whose speciality is biophysics."
+],
+"ety": "From bio- + physicist.",
+"examples": [],
+"p": null
+},
+{
+"w": "hematology",
+"pos": "noun",
+"senses": [
+"The scientific study of blood and blood-producing organs."
+],
+"ety": "From international scientific vocabulary, reflecting New Latin combining forms: hemato- + -logy = hemat- + -ology; morphologically parallel with haematology.",
+"examples": [],
+"p": "hee-muh-TOL-uh-jee"
+},
+{
+"w": "inhalant",
+"pos": "adjective",
+"senses": [
+"Intended for inhaling."
+],
+"ety": "From inhale + -ant.",
+"examples": [],
+"p": null
+},
+{
+"w": "disembowelment",
+"pos": "noun",
+"senses": [
+"The act of disemboweling."
+],
+"ety": "From disembowel + -ment.",
+"examples": [],
+"p": null
+},
+{
+"w": "stapler",
+"pos": "noun",
+"senses": [
+"A device which binds together sheets of paper by driving a thin metal staple through the sheets and simultaneously folding over the ends of the staple against the back surface of the paper.",
+"Any device for stapling with (small or large) staples, including any office stapler, staple gun, or hammer tacker."
+],
+"ety": "From staple (verb) + -er.",
+"examples": [],
+"p": "STAY-pler"
+},
+{
+"w": "uninitialized",
+"pos": "adjective",
+"senses": [
+"Not initialized."
+],
+"ety": "From un- + initialized.",
+"examples": [],
+"p": null
+},
+{
+"w": "vaporetto",
+"pos": "noun",
+"senses": [
+"A public water bus, originally steam-powered, found especially in Venice."
+],
+"ety": "Borrowed from Italian vaporetto.",
+"examples": [],
+"p": null
+},
+{
+"w": "imagism",
+"pos": "noun",
+"senses": [
+"The theory that thinking is based on the formation of images in the mind."
+],
+"ety": "From image + -ism.",
+"examples": [],
+"p": "IM-ih-jih-zum"
+},
+{
+"w": "lettable",
+"pos": "adjective",
+"senses": [
+"Able to be let (that is, rented or leased)."
+],
+"ety": "From let + -able.",
+"examples": [
+"Very many investors in this sector buy properties in bad condition, and then renovate them to make them lettable."
+],
+"p": null
+},
+{
+"w": "neurostimulation",
+"pos": "noun",
+"senses": [
+"stimulation of neurons"
+],
+"ety": "From neuro- + stimulation.",
+"examples": [],
+"p": null
+},
+{
+"w": "testa",
+"pos": "noun",
+"senses": [
+"The external calciferous shell, or endoskeleton, of an echinoderm; the test."
+],
+"ety": "Borrowed from Latin testa.",
+"examples": [],
+"p": "TES-tuh"
+},
+{
+"w": "apsis",
+"pos": "noun",
+"senses": [
+"A recess or projection, with a dome or vault, at the east end of a church."
+],
+"ety": "From Latin apsis, hapsis, from Ancient Greek ἁψίς (hapsís, “arch, vault”). See also apse.",
+"examples": [],
+"p": "AP-sis"
+},
+{
+"w": "shrivelled",
+"pos": "adjective",
+"senses": [
+"Wrinkled because the volume has reduced while the surface area of the outer layer has remained constant.",
+"Collapsed in size."
+],
+"ety": "Equivalent to shrivel + -ed.",
+"examples": [
+"All true histories contain instruction; though, in some, the treasure may be hard to find, and when found, so trivial in quantity that the dry, shrivelled kernel scarcely compensates for the trouble of cracking the nut."
+],
+"p": null
+},
+{
+"w": "scally",
+"pos": "noun",
+"senses": [
+"A flat cap or driving cap."
+],
+"ety": "Abbreviation of scallywag.",
+"examples": [],
+"p": "SKAL-ee"
+},
+{
+"w": "pavon",
+"pos": "noun",
+"senses": [
+"A small triangular flag, especially one attached to a knight's lance; a pennon.",
+"The peacock bass",
+"A tropical butterfly, Doxocopa pavon, noted for the iridescent purple coloration of the male.",
+"A hydrochloride of opium alkaloid, similar to Pantopon, used as a pain medication."
+],
+"ety": "From Latin pavo (“peacock”).",
+"examples": [
+"Some of these books contain illustrations of this flag; nevertheless there is not, nor has there ever been, bunting of any shape or size named a pavon.",
+"The pavon shape was popular in the fourteenth century.",
+"A pavon on every cast and my hands were raw from grabbing their jaws."
+],
+"p": null
+},
+{
+"w": "baraat",
+"pos": "noun",
+"senses": [
+"A wedding procession carried out by the bridegroom in North India, West India, and Pakistan."
+],
+"ety": "Borrowed from Hindustani بَرات (barāt) / बरात (barāt), ultimately from Sanskrit वरयात्रा (varayātrā).",
+"examples": [],
+"p": null
+},
+{
+"w": "shoveler",
+"pos": "noun",
+"senses": [
+"One who, or that which, shovels."
+],
+"ety": "From Middle English schoveler, equivalent to shovel + -er.",
+"examples": [
+"The sand was loaded by 3 shovelers into wheelbarrows holding 3.6 cu. ft. each..."
+],
+"p": null
+},
+{
+"w": "kriya",
+"pos": "noun",
+"senses": [
+"A technique or practice within a yoga discipline.",
+"An outward physical manifestation of awakened kundalini, such as spontaneous body movement."
+],
+"ety": "From Sanskrit क्रिया (kriyā).",
+"examples": [],
+"p": null
+},
+{
+"w": "astronautical",
+"pos": "adjective",
+"senses": [
+"referring to travel in outer space"
+],
+"ety": "From astronaut + -ical.",
+"examples": [],
+"p": null
+},
+{
+"w": "prothesis",
+"pos": "noun",
+"senses": [
+"The preparation and preliminary oblation of the Eucharistic bread and wine in the Divine Liturgy of the Eastern Orthodox and Eastern Catholic Churches.",
+"Credence table."
+],
+"ety": "From Ancient Greek πρόθεσις (próthesis, “a preposing”), from προτίθημι (protíthēmi, “to prepose”), from πρό (pró, “before”) + τίθημι (títhēmi, “to place”), from Proto-Indo-European *pro- + *dʰédʰeh₁ti (“to be putting, to be placing”).",
+"examples": [],
+"p": "PRAW-thuh-sis"
+},
+{
+"w": "politburo",
+"pos": "noun",
+"senses": [
+"The governing council and chief policymaking body of the Communist Party of the Soviet Union and other Marxist-Leninist political systems."
+],
+"ety": "Borrowed from Russian Политбюро́ (Politbjuró, “politburo of the Communist Party of the Soviet Union”), a contraction of полити́ческое бюро́ (politíčeskoje bjuró, “political bureau”).",
+"examples": [],
+"p": "PAH-lut-byoor-oh"
+},
+{
+"w": "criminality",
+"pos": "noun",
+"senses": [
+"Criminal activity.",
+"A criminal act."
+],
+"ety": "From French criminalité, from Latin criminalitas, from Latin criminalis. By surface analysis, criminal + -ity.",
+"examples": [],
+"p": null
+}
+]

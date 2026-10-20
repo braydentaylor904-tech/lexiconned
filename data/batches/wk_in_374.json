@@ -1,0 +1,431 @@
+[
+{
+"w": "interlingua",
+"pos": "noun",
+"senses": [
+"an interlanguage"
+],
+"ety": "From inter- + Latin lingua (“language”).",
+"examples": [],
+"p": null
+},
+{
+"w": "stygian",
+"pos": "adjective",
+"senses": [
+"Infernal or hellish.",
+"Dark and gloomy.",
+"Having a luminosity below 0%."
+],
+"ety": "From Latin stygius + -ian, from Ancient Greek Στύγιος (Stúgios, “relating to Styx”), from Στύξ (Stúx, “Styx, chief river of underworld”).",
+"examples": [],
+"p": "STIJ-ee-un"
+},
+{
+"w": "masquerader",
+"pos": "noun",
+"senses": [
+"One who masquerades; a person wearing a mask or disguise."
+],
+"ety": "From masquerade + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "dreck",
+"pos": "noun",
+"senses": [
+"Trash; rubbish; useless or worthless stuff."
+],
+"ety": "From Yiddish דרעק (drek, “dirt, crap”), from Middle High German drek, from Old High German *threc (in mūsthrec), from Proto-West Germanic *þraki, from Proto-Germanic *þrakjaz. Compare Cimbrian drèkh (“excrement, manure”), Dutch drek (“dung; semi-liquid filth; mud”), German Dreck (“dirt; filth”), Latin stercus (“dung, manure”).",
+"examples": [],
+"p": "drek"
+},
+{
+"w": "empyrean",
+"pos": "adjective",
+"senses": [
+"Of the sky or the heavens, and particularly relating to the highest celestial sphere in premodern cosmology; celestially refined.",
+"French: empyréen (fr)"
+],
+"ety": "From Latin empȳreus, from Ancient Greek ἐμπύριος (empúrios), from ἐν (en, “in”) + πῦρ (pûr, “fire”) (whence English pyre).",
+"examples": [],
+"p": "em-py-REE-un"
+},
+{
+"w": "barwood",
+"pos": "noun",
+"senses": [
+"Red wood of a leguminous African tree, Baphia nitida, used as a dyewood and for various other purposes such as ramrods, violin bows and handles for woodturning tools."
+],
+"ety": "From bar + wood, since it was imported from Africa in bars.",
+"examples": [],
+"p": null
+},
+{
+"w": "entente",
+"pos": "noun",
+"senses": [
+"An informal alliance or friendly understanding between two states."
+],
+"ety": "Unadapted borrowing from French entente (“understanding”). Doublet of intent.",
+"examples": [],
+"p": "ahn-TAHNT"
+},
+{
+"w": "altitudinal",
+"pos": "adjective",
+"senses": [
+"Of or in relation to altitude"
+],
+"ety": "From Latin altitūdin- + -al, from oblique stem of Latin altitūdō, from altus + -tūdō. By surface analysis, altitude + -al.",
+"examples": [],
+"p": null
+},
+{
+"w": "terumah",
+"pos": "noun",
+"senses": [
+"heave offering"
+],
+"ety": "From Hebrew תְּרוּמָה.",
+"examples": [],
+"p": null
+},
+{
+"w": "coped",
+"pos": "adjective",
+"senses": [
+"Clad in a cope."
+],
+"ety": "From cope + -ed. Piecewise doublet of caped, capped, and chaped.",
+"examples": [],
+"p": null
+},
+{
+"w": "blanken",
+"pos": "verb",
+"senses": [
+"To make or become blank"
+],
+"ety": "From blank + -en.",
+"examples": [
+"I asked Obdulia if she weren't afraid of the police. Her face blankened. \"Oh, I never saw the witch, senor,\" she said."
+],
+"p": null
+},
+{
+"w": "hawfinch",
+"pos": "noun",
+"senses": [
+"A large Eurasian finch (Coccothraustes coccothraustes), with a thick bill."
+],
+"ety": "haw (“berry of the common hawthorn, Crataegus monogyna”) + finch. Named by English ornithologist Francis Willughby in 1676.",
+"examples": [],
+"p": null
+},
+{
+"w": "weigher",
+"pos": "noun",
+"senses": [
+"One who or something that weighs.",
+"A person employed at a dock to weigh incoming goods."
+],
+"ety": "From weigh + -er.",
+"examples": [],
+"p": "WAY-er"
+},
+{
+"w": "bogart",
+"pos": "verb",
+"senses": [
+"To obtain by bullying, intimidation; be a tough guy.",
+"To behave like a bully."
+],
+"ety": "From actor Humphrey Bogart, from Dutch surname Bogaard (“keeper of an orchard”), from boomgaard (“treegarden, orchard”), cognate to English boom (“piece of wood”)/beam + garden. Senses of selfishness and excess evolved from the original 1960s use meaning “keep a joint in the mouth instead of passing it on”, recalling the actor’s signature practice of keeping a cigarette dangling from his mouth even while speaking. Other senses of “bullying” or “tough guy” also originated in the 1960s and recall the actor’s various movie roles. Another potential origin of the vernacular comes from Humphrey Boga",
+"examples": [
+"He tried to bogart his way in.",
+"He sat patiently and rode it out, inching his way along, drinking a Red bull and listening to the news radio until he was able to bogart his way over to the lane on his right that was moving at a faster pace."
+],
+"p": null
+},
+{
+"w": "snoek",
+"pos": "noun",
+"senses": [
+"An edible fish, Thyrsites atun, native to South African (Cape), South American and Australian waters, often smoked or salted.",
+"The queen mackerel, Scomberomorus lineolatus."
+],
+"ety": "Borrowed from Afrikaans snoek, from Dutch snoek, from Middle Dutch snoec, from Old Dutch *snuoc. Some senses come from or are influenced by Dutch zeesnoek (“barracuda”, literally “sea pike”), a word that Van Riebeeck applied to the Thyrsites atun. Doublet of snook and possibly a distant doublet of snake.",
+"examples": [
+"Snoek need not be scaled. The scales are very fine and usually slip off during handling."
+],
+"p": null
+},
+{
+"w": "phototoxicity",
+"pos": "noun",
+"senses": [
+"Any adverse effect due to exposure to light, especially such effects on the skin"
+],
+"ety": "From photo- + toxicity.",
+"examples": [],
+"p": null
+},
+{
+"w": "shoppable",
+"pos": "adjective",
+"senses": [
+"Allowing or promoting shopping; suitable for shopping in."
+],
+"ety": "From shop + -able.",
+"examples": [
+"Technology shrinks and expands at the same time: we launched PORTER, our glossy shoppable print magazine in February 2014, because our customers enjoy 360-degree immersive experiences."
+],
+"p": null
+},
+{
+"w": "quincentennial",
+"pos": "adjective",
+"senses": [
+"Of or related to a 500th anniversary."
+],
+"ety": "From quin- (prefix meaning ‘five’) + centennial (“100-year; 100-year anniversary”). Compare Latin quingenti (“500”).",
+"examples": [],
+"p": null
+},
+{
+"w": "gharana",
+"pos": "noun",
+"senses": [
+"An Indian system of social organization linking musicians or dancers by lineage or apprenticeship, and by adherence to a particular musical style and ideology."
+],
+"ety": "Borrowed from Hindi घराना (gharānā).",
+"examples": [],
+"p": null
+},
+{
+"w": "benthic",
+"pos": "noun",
+"senses": [
+"Any organism that lives on the seafloor."
+],
+"ety": "From benthos + -ic. By surface analysis, benth- + -ic.",
+"examples": [],
+"p": "BEN-thik"
+},
+{
+"w": "exploder",
+"pos": "noun",
+"senses": [
+"Someone or something that explodes.",
+"A device to trigger explosive detonators such as a plunger or crank operated electrical generator.",
+"A person who directs their anger outward."
+],
+"ety": "From explode + -er.",
+"examples": [],
+"p": "ik-SPLOH-der"
+},
+{
+"w": "normalizer",
+"pos": "noun",
+"senses": [
+"One who or that which normalizes, fits to a norm or standard etc."
+],
+"ety": "From normalize + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "membrana",
+"pos": "noun",
+"senses": [
+"A thin, animal-derived, flexible planar material, such as parchment."
+],
+"ety": "From Latin membrāna (“membrane, parchment”). Doublet of membrane.",
+"examples": [
+"Parchment was used for the MSS. of the Pentateuch in the time of Josephus, and the membranae of 2 Tim. iv. 13, were skins of parchment.",
+"The parchment being much dearer than papyrus, the membranae consisted only of a few leaves."
+],
+"p": null
+},
+{
+"w": "pedunculate",
+"pos": "adjective",
+"senses": [
+"Having a peduncle or stalk."
+],
+"ety": "From Late Latin pedunculātus.",
+"examples": [
+"A lobster has a pedunculate eye."
+],
+"p": null
+},
+{
+"w": "interrobang",
+"pos": "noun",
+"senses": [
+"The nonstandard punctuation mark ⟨‽⟩ (a combination of ⟨?⟩ and ⟨!⟩), which may be used at the end of a sentence to express excitement or disbelief, or to indicate that it is a rhetorical question."
+],
+"ety": "A blend of French (point d')interrogation (“question mark”) or the equivalent term in another Romance language + bang (“exclamation mark, exclamation point”), coined in a 1962 article in the journal TYPEtalks by American advertising executive Martin Kiehra Speckter (1915–1988), who invented the symbol.",
+"examples": [],
+"p": "in-TEH-ruh-bang"
+},
+{
+"w": "chantant",
+"pos": "adjective",
+"senses": [
+"Played in a melodious and singsong style."
+],
+"ety": "French chantant (“singing”).",
+"examples": [],
+"p": null
+},
+{
+"w": "propellent",
+"pos": "adjective",
+"senses": [
+"Capable of propelling."
+],
+"ety": "From propel + -ent; originally from Latin prōpellēnt-, from prōpellēns, from prōpellō. Less common than propellant despite being more correct from an etymological viewpoint.",
+"examples": [],
+"p": null
+},
+{
+"w": "divaricate",
+"pos": "verb",
+"senses": [
+"To spread apart; to (cause to) diverge or branch off."
+],
+"ety": "The verb is first attested in 1623, the adjective in 1788; borrowed from Latin dīvāricātus, perfect passive participle of dīvāricō (see -ate (verb-forming suffix) and -ate (adjective-forming suffix)), from dis- + vāricō (“to straddle, to stretch (the legs) apart”), from vāricus (“straddling”).",
+"examples": [],
+"p": "dy-VAR-ih-kayt"
+},
+{
+"w": "yachty",
+"pos": "noun",
+"senses": [
+"A yachtsman or yachtswoman."
+],
+"ety": "From yacht + -y (diminutive suffix).",
+"examples": [],
+"p": null
+},
+{
+"w": "mushmouth",
+"pos": "noun",
+"senses": [
+"Synonym of skipjack tuna."
+],
+"ety": "From mush + mouth.",
+"examples": [],
+"p": null
+},
+{
+"w": "currant",
+"pos": "noun",
+"senses": [
+"A small dried grape, usually the Black Corinth grape.",
+"A shrub bearing such fruit."
+],
+"ety": "Borrowed from French raisin de Corinthe (literally “grapes of Corinth, the city in Greece”). Cognate with Dutch krent. Doublet of Corinth.",
+"examples": [],
+"p": "KUR-unt"
+},
+{
+"w": "stive",
+"pos": "noun",
+"senses": [
+"The floating dust in a flour mill caused by the operation of grinding."
+],
+"ety": "Apparently from a Middle Dutch noun related to stuiven and cognate to German Staub (“dust”).",
+"examples": [],
+"p": "stive"
+},
+{
+"w": "bulla",
+"pos": "noun",
+"senses": [
+"A clay envelope or hollow ball, typically with seal impressions or writing on its outside indicating its contents.",
+"In ancient Rome, a kind of amulet or boss.",
+"A handwritten document from the papal chancellery."
+],
+"ety": "Borrowed from Latin bulla (“bubble”). Doublet of bill and bull (“papal bull; bubble”).",
+"examples": [],
+"p": "BUUL-uh"
+},
+{
+"w": "anaerobe",
+"pos": "noun",
+"senses": [
+"An anaerobic organism; one that does not require oxygen to sustain its metabolic processes."
+],
+"ety": "From French anaérobie.",
+"examples": [],
+"p": "AN-uh-rohb"
+},
+{
+"w": "panchromatic",
+"pos": "adjective",
+"senses": [
+"sensitive to all visible colours",
+"sensitive to a wide range of wavelengths of light, typically most of the visible spectrum"
+],
+"ety": "From pan- + chromatic.",
+"examples": [],
+"p": null
+},
+{
+"w": "baryonyx",
+"pos": "noun",
+"senses": [
+"Baryonyx walkeri, a theropod from the Cretaceous period discovered in 1983 in Surrey, England by William Walker, believed to be an ancestor of Spinosaurus."
+],
+"ety": "From Ancient Greek βαρύς (barús, “heavy or strong”) + ὄνυξ (ónux, “claw or talon”).",
+"examples": [],
+"p": null
+},
+{
+"w": "dilbit",
+"pos": "noun",
+"senses": [
+"An oil-like substance consisting of bitumen derived from tar sands or other sources diluted with natural gas condensates such as naptha that may be processed in a manner similar to petroleum."
+],
+"ety": "From diluted + bitumen.",
+"examples": [
+"The new dilbit pipeline will run alongside the oil one.",
+"Most dilbits are similar in consistency to intermediate fuel oils."
+],
+"p": null
+},
+{
+"w": "anoxic",
+"pos": "adjective",
+"senses": [
+"Lacking oxygen."
+],
+"ety": "From an- + oxygen + -ic.",
+"examples": [],
+"p": "a-NAHK-sik"
+},
+{
+"w": "piezoceramic",
+"pos": "noun",
+"senses": [
+"Any ceramic material suitable for use with piezoelectricity."
+],
+"ety": "From piezo- + ceramic.",
+"examples": [],
+"p": null
+},
+{
+"w": "tuneful",
+"pos": "adjective",
+"senses": [
+"Having or producing a pleasing tune; melodic or melodious"
+],
+"ety": "From tune + -ful.",
+"examples": [],
+"p": null
+}
+]

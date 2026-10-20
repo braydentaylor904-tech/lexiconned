@@ -1,0 +1,554 @@
+[
+{
+"w": "kopje",
+"pos": "noun",
+"senses": [
+"A small hill or mound, especially on the African veld."
+],
+"ety": "From (South African) Dutch kopje, diminutive of kop (“head”).",
+"examples": [
+"In one spot only was the solemn monotony of the plain broken. Near the center a small solitary “kopje” rose. Alone it lay there, a heap of round ironstones piled one upon the other, as over some giant’s grave.",
+"We selected a lichenous kopje perhaps fifteen yards away, and landed neatly on its summit one after the other.",
+"It was nearly noon when he reached the great bowlder at the top of which terminated the secret passage to the pits beneath the city. Like a cat he scaled the precipitous sides of the frowning granite kopje."
+],
+"p": "koh-pee"
+},
+{
+"w": "croup",
+"pos": "noun",
+"senses": [
+"The top of the rump of a horse or other quadruped."
+],
+"ety": "From Middle English croupe, from Old French croupe (“rump, body”), from Old Norse kroppr (“body, trunk, mass”), from Proto-Germanic *kruppaz (“body, mass, heap, collection, crop”), from Proto-Indo-European *grewb- (“to curve, bend, crawl”). More at crupper, doublet of croupe, group, and crop.",
+"examples": [
+"So light to the croup the fair lady he swung, / So light to the saddle before her he sprung.",
+"Curved like a stallion's croup, from dusk to dawn, / And drums upon it with his heels, whereby / Is bred the neighing thunder in the hills."
+],
+"p": "kroop"
+},
+{
+"w": "cardiologist",
+"pos": "noun",
+"senses": [
+"A physician who specializes in medical problems related to the heart."
+],
+"ety": "From cardio- + -logist.",
+"examples": [
+"The homeless guy thus ends up getting treated by one of the best cardiologists in the city."
+],
+"p": "kar-dee-AH-luh-jist"
+},
+{
+"w": "promiscuity",
+"pos": "noun",
+"senses": [
+"The state or quality of being promiscuous.",
+"Indiscriminateness in the choice of sexual partners.",
+"State of being mixed, composed of diverse elements, unsystematic; heterogeneity."
+],
+"ety": "From French promiscuité.",
+"examples": [
+"Experimental variety or what Rey Anthony has called selective promiscuity - is the cornerstone of sane sexual choice.",
+"I'm not advocating sexual promiscuity but I think it's possible for a woman to have many kinds of sexual relationships with many men and that shouldn't affect the status of the marriage",
+"Seeing these happy pairings, I thought of the cheerful promiscuity to come. I felt a growing sexual need, not only for the young women brushing against me in the crowded street..."
+],
+"p": "prahm-ih-SKYOO-ih-tee"
+},
+{
+"w": "dissociative",
+"pos": "adjective",
+"senses": [
+"Removing or separating from some association.",
+"Causing dissociation.",
+"Related to or caused by dissociation or dissociative disorders."
+],
+"ety": "From dissociate + -ive.",
+"examples": [
+"It was a lonely, dissociative time in my life, when I stayed holed up in my apartment for weeks on end.",
+"The dissociative techniques separated ammonium chloride into hydrochloric acid and ammonia.",
+"He had to take a few weeks off school after a dissociative episode."
+],
+"p": "dih-SOH-shee-uh-tiv"
+},
+{
+"w": "cardinality",
+"pos": "noun",
+"senses": [
+"The number of terms that can inhabit a type; the possible values of a type."
+],
+"ety": "From cardinal + -ity.",
+"examples": [
+"For many types, such as String, the set of possible values is unlimited. Such types have an infinite cardinality."
+],
+"p": "kar-dih-NAL-ih-tee"
+},
+{
+"w": "adios",
+"pos": "verb",
+"senses": [
+"To leave; to literally or figuratively say “adios” to.",
+"To get rid of."
+],
+"ety": "Borrowed from Spanish adiós; see there for more. Doublet of adieu.",
+"examples": [
+"About an hour later I adiosed the office.",
+"Three cups later, he and Juana stacked together their collated notes and he adiosed the kids and caregivers.",
+"By the time they got there, somebody’d adiosed the corpse."
+],
+"p": "ah-dee-OHS"
+},
+{
+"w": "teleology",
+"pos": "noun",
+"senses": [
+"The study of the design or final purpose of natural occurrences, that is, of such occurrences being the result of intention instead of prior causes.",
+"Design, final purpose, or intention in a natural occurrence; (countable) an assertion or instance of this."
+],
+"ety": "Partly borrowed from French téléologie and from German Teleologie + English -logy (suffix denoting a branch of learning or study of a particular subject). Téléologie and Teleologie are both derived from Late Latin teleologia, from Ancient Greek τέλεος (téleos) (the genitive singular of τέλος (télos, “final cause, purpose”), ultimately from Proto-Indo-European *kʷel- (“to turn end-over-end; to revolve around, hence, to dwell, sojourn”)) + Latin -logia (suffix denoting the logical discourse or study of a subject) (from Ancient Greek -λογῐ́ᾱ (-logĭ́ā, suffix denoting a branch of learning or study",
+"examples": [
+"Their proposed explanation at the time was riddled with teleology."
+],
+"p": "tel-ee-AH-luh-jee"
+},
+{
+"w": "lumpy",
+"pos": "adjective",
+"senses": [
+"Full of lumps, not smooth, uneven.",
+"Of a water surface: covered in many small waves as a result of wind; choppy."
+],
+"ety": "From lump + -y.",
+"examples": [
+"I don't know which was worse, the lumpy soup or the lumpy bed.",
+"The film makes fun of the lumpiest and palest set of tourists ever to carry plastic shoulder bags. It makes fun of an upwardly mobile hotel manager, married to a lecherous blonde.",
+"With the bathers, especially, bodies harden into things. Torsos like clay. Buttocks like pears. More classically proportioned figures could be paired, on the same page, with squatter, lumpier piles of flesh."
+],
+"p": "LUM-pee"
+},
+{
+"w": "cyclopean",
+"pos": "adjective",
+"senses": [
+"Suggestive of a cyclops.",
+"Fitted together of huge irregular stones.",
+"Massive in stature.",
+"Created by combining two images."
+],
+"ety": "From cyclops + -ean.",
+"examples": [
+"Some of the descendants of this cyclopean ancestor left their burrows and started to swim."
+],
+"p": "SY-kloh-pee-un"
+},
+{
+"w": "deify",
+"pos": "verb",
+"senses": [
+"To make into a god.",
+"To regard as being like a deity; to treat as worthy of worship; to exalt."
+],
+"ety": "From French déifier, from Latin deificāre, from deus (“god”). By surface analysis, deity + -ify.",
+"examples": [
+"Near-synonyms: demideify, mythologize"
+],
+"p": "DEE-uh-fy"
+},
+{
+"w": "wherefore",
+"pos": "noun",
+"senses": [
+"An intent or purpose; a why."
+],
+"ety": "From Middle English wherfor, wherfore, hwarfore, equivalent to where- (“what”) + for. Compare Dutch waarvoor (“what for, wherefore”), German wofür (“for what, what for, why”), Danish and Norwegian hvorfor (“wherefore, why”), Swedish varför (“wherefore, why”). More at where, for.",
+"examples": [
+"Let Us make one to seek, to seek and never to find out concerning the wherefore of the making of the gods.",
+"They want their money without reference to the hows and wherefores."
+],
+"p": "WAIR-for"
+},
+{
+"w": "talon",
+"pos": "noun",
+"senses": [
+"A sharp, hooked claw of a bird of prey or other predatory animal.",
+"A kind of moulding, concave at the bottom and convex at the top; an ogee. (When the concave part is at the top, it is called an inverted talon.)",
+"The shoulder of the bolt of a lock on which the key acts to shoot the bolt.",
+"The remaining stock of undealt cards."
+],
+"ety": "From Middle English talon, taloun, from Old French talon (“heel, spur”), from Medieval Latin tālōnem, from Proto-Romance *tālōnis, from Latin tālus (“ankle”).",
+"examples": [
+"It may be tried also whether birds may not have something done to them when they are young , whereby they may be made to have greater or longer bills , or greater and longer talons ?"
+],
+"p": "TAL-un"
+},
+{
+"w": "russet",
+"pos": "noun",
+"senses": [
+"A reddish-brown color.",
+"A coarse, reddish-brown, homespun fabric; clothes made with such fabric.",
+"A variety of apple with rough, russet-colored skin.",
+"A variety of potato with rough, dark gray-brown skin."
+],
+"ety": "From Middle English russet, from Anglo-Norman russet, rossat, roset, and Middle French rosset, rousset (“reddish, reddish-brown; a rough wool cloth”), from Middle French rous, rus (“to rouse”) + -et (diminutive suffix); compare Late Latin rossetum, russetum, russeta (“rough wool cloth”), Latin russus (“red”) (from Proto-Indo-European *h₁rewdʰ- (“red”)), Occitan rosseta (“rough wool cloth”).",
+"examples": [
+"And I could tell / What form my dreaming was about to take. / Magnified apples appear and disappear, / Stem end and blossom end, / And every fleck of russet showing clear."
+],
+"p": "RUS-it"
+},
+{
+"w": "crimp",
+"pos": "noun",
+"senses": [
+"A fastener or a fastening method that secures parts by bending metal around a joint and squeezing it together, often with a tool that adds indentations to capture the parts.",
+"The natural curliness of wool fibres.",
+"Hair that is shaped so it bends back and forth in many short kinks."
+],
+"ety": "From Middle English crimpen (“to be contracted, be drawn together”), from Middle Dutch crimpen, crempen (“to crimp”), from Proto-Germanic *krimpaną (“to shrink, draw back”) (compare related Old English ġecrympan (“to curl”)). Cognate with Dutch krimpen, German Low German krimpen, Faroese kreppa (“crisis”), and Icelandic kreppa (“to bend tightly, clench”). Compare also derivative Middle English crymplen (“to wrinkle”) and causative crempen (“to turn something back, restrain”, literally “to cause to shrink or draw back”), both ultimately derived from the same root. See also cramp.",
+"examples": [
+"The strap was held together by a simple metal crimp."
+],
+"p": "krimp"
+},
+{
+"w": "alpaca",
+"pos": "noun",
+"senses": [
+"A sheep-like domesticated animal of the Andes, Vicugna pacos, in the camel family, closely related to the llama, guanaco, and vicuña.",
+"Wool from the alpaca, with strong very long fibres and coloring from black to brown to white.",
+"A garment made of such wool."
+],
+"ety": "Borrowed from Spanish alpaca, from Aymara allpaqa.",
+"examples": [
+"Away from the village, there was an enclosure containing several large animals of a kind I had not seen before—shaggy, long-necked, small-headed creatures who stood or lay at ease around their pen. Alpacas?",
+"A lady in frayed alpaca, carrying a house-flannel, came to hearken.",
+"The dress was at the bottom, — it was an alpaca, of a pretty shade in blue, bedecked with lace and ribbons, as is the fashion of the hour, and lined with sea-green silk."
+],
+"p": "al-PAK-uh"
+},
+{
+"w": "balrog",
+"pos": "noun",
+"senses": [
+"A fiery demonic creature."
+],
+"ety": "From Sindarin, a fictional language created by J.R.R. Tolkien, meaning something akin to \"mighty demon\".",
+"examples": [
+"What was released was a demon, a balrog of pure sexual energy which had been denied for too long."
+],
+"p": "BAWL-rahg"
+},
+{
+"w": "ingress",
+"pos": "noun",
+"senses": [
+"The act of entering.",
+"A permission to enter.",
+"A door or other means of entering."
+],
+"ety": "From Latin ingressus, from the verb ingredior.",
+"examples": [
+"Now could be beheld that change from the handsome to the curious which the features of a wood undergo at the ingress of the winter months.",
+"I could find no means of ingress. Every window and door was fastened and locked, and I returned baffled to the porch.",
+"Accordingly, anti-Israeli terrorists turned to city transport. Railway systems depend on easy ingress and egress at numerous points along the route."
+],
+"p": "ING-gres"
+},
+{
+"w": "donga",
+"pos": "noun",
+"senses": [
+"A usually dry, eroded watercourse running only in times of heavy rain."
+],
+"ety": "Borrowed from Afrikaans donga, borrowed from Zulu ū́dongá, from Proto-Bantu *mʊ̀dòngà.",
+"examples": [
+"Major Pack-Beresford and other officers were shot down, and every unhorsed man remained necessarily as a prisoner under the very muzzles of the riflemen in the donga.",
+"There were trenches for us men, but no place of safety for our horses nearer than this long and narrow donga which ran from within our lines towards those of the Boers.",
+"Thousands of miserable cattle and goats roamed everywhere making tracks that would someday form cracks which successive rains would open into gullies and dongas."
+],
+"p": "DAWNG-guh"
+},
+{
+"w": "mandrill",
+"pos": "noun",
+"senses": [
+"A primate, Mandrillus sphinx, with a colorful face and rump."
+],
+"ety": "From man + drill (“Mandrillus leucophaeus”). Displaced earlier English man-tiger. First attested in 1744.",
+"examples": [
+"For the Mandrills live in society, and their bands are so powerful in point of numbers, and so crafty in point of management, that they are about as formidable neighbours as could be imagined.",
+"In both mandrills and drills, males have long muzzles with pronounced maxillary ridges and long tooth rows. Like baboons, mandrills and drills have forelimbs and hindlimbs of nearly equal length.",
+"Mandrills occur in Gabon, Congo, Rio Muni and in Cameroon, to the south of the Sanaga River."
+],
+"p": "MAN-dril"
+},
+{
+"w": "waxen",
+"pos": "adjective",
+"senses": [
+"Made of or covered with wax.",
+"Having the pale smooth characteristics of wax, waxlike, waxy.",
+"Easily molded, influenced, or bent; yielding, impressible."
+],
+"ety": "From Middle English waxen (“made of wax”), from Old English weaxen (“waxen, made of wax”), equivalent to wax + -en (“made of”).",
+"examples": [
+"She is fair; and so is Julia that I love— That I did love, for now my love is thaw’d; Which, like a waxen image, ’gainst a fire, Bears no impression of the thing it was.",
+"It was hard to imagine that the broken thing had once been new; that those withered, waxen cheeks had been fresh and tinted. That her eyes had long ago glinted with laughter.",
+"The traveller hears me now and then, ⁠And sometimes harshly will he speak: ⁠‘This fellow would make weakness weak, And melt the waxen hearts of men.’"
+],
+"p": "WAK-sun"
+},
+{
+"w": "licit",
+"pos": "adjective",
+"senses": [
+"Unforbidden; permitted."
+],
+"ety": "From Latin licitus (“lawful”), perfect participle of licet (“[it] is permitted”, impersonal verb).",
+"examples": [
+"Undated, Pope Honorius III Solet Annuere (anonymous translator), Let it not be in any way licit to anyone among men to infringe this page of our confirmation, or to contravene it with rash daring."
+],
+"p": "LIS-it"
+},
+{
+"w": "ambry",
+"pos": "noun",
+"senses": [
+"A cupboard or storage area in a church to hold books, communion vessels, vestments, etc. (usually in the sacristy); an armarium."
+],
+"ety": "From Middle English almerie, from Anglo-Norman almarie, aumer, etc., from Old French almarie, from Latin armārium. Doublet of armarium, armoire, and almirah.",
+"examples": [
+"Portions of the consecrated bread from the Eucharist were stored or reserved in an ambry or tabernacle to be taken to the sick."
+],
+"p": "AM-bree"
+},
+{
+"w": "freighted",
+"pos": "adjective",
+"senses": [
+"Loaded with cargo; charged."
+],
+"ety": "From freight + -ed.",
+"examples": [
+"The purple silk curtains excluded the night-dews, while they allowed the air to enter freighted with odours from the orange trees on the terrace below.",
+"Everything I did seemed awkward to me, and everything I said sounded freighted with hidden meaning.",
+"It will also consider problems of periodization, a freighted issue in the case of Russia, in part because there the conclusion of peace did not mark the end of armed conflict."
+],
+"p": "FRAY-tid"
+},
+{
+"w": "tikanga",
+"pos": "noun",
+"senses": [
+"A custom, value or principle, especially of the Maori people."
+],
+"ety": "Borrowed from Māori tikanga.",
+"examples": [
+"Male primogeniture was still the concept most often ratified by tikanga."
+],
+"p": "TEE-kung-uh"
+},
+{
+"w": "harissa",
+"pos": "noun",
+"senses": [
+"A North African spice mix, containing chillis, garlic and salt, used as both a condiment and an ingredient."
+],
+"ety": "From Arabic هَرِيسَة (harīsa).",
+"examples": [
+"Another sauce, mainly used as a condiment, is harissa, made from pulverised chillies, garlic, salt and olive oil. Harissa is not generically Moroccan, but nevertheless is often found accompanying tajines and couscous.",
+"Tunisians love spicy food and harissa is the main ingredient used to provide the heat.",
+"Harissa is a fiery pepper paste that is used as an ingredient in couscous and grilled dishes or as a condiment served on the side of a Moroccan meal."
+],
+"p": "huh-RIS-uh"
+},
+{
+"w": "absurdist",
+"pos": "noun",
+"senses": [
+"An advocate of absurdism, in particular a writer of absurd topics."
+],
+"ety": "From absurd + -ist.",
+"examples": [
+"The basic assumptions of our way of life as we traditionally justified it are being questioned by that revolt of the young absurdists.",
+"But Mr. Albert was a leader of the Yippies, inasmuch as there were leaders, from before the formal hatching of the self-styled gang of political absurdists in January 1968 until they faded away after Vietnam."
+],
+"p": "ab-SURD-ust"
+},
+{
+"w": "hippogriff",
+"pos": "noun",
+"senses": [
+"a mythical beast, half griffin and half horse, supposedly the offspring of a griffin and a filly."
+],
+"ety": "From French hippogriffe, from Ancient Greek ἵππος (híppos, “horse”, English hippo-) + γρύψ (grúps, “griffin”).",
+"examples": [
+"Oceanus himself follows on a hippogriff, and counsels Prometheus to submit to Zeus."
+],
+"p": "HIP-uh-grif"
+},
+{
+"w": "banal",
+"pos": "adjective",
+"senses": [
+"Common in a boring way, to the point of being predictable; containing nothing new or fresh."
+],
+"ety": "Borrowed from French banal (“held in common, relating to feudal service, by extension commonplace”), from Old French banel, related to Medieval Latin bannālis (“subject to feudal authority”), from Latin bannus (“jurisdiction”), both ultimately from Proto-Germanic *bannaną (“to order, summon, forbid”). Equivalent to ban + -al. See also ban, abandon.",
+"examples": [
+"The movie’s dialogue was predictable and banal.",
+"He made a few banal remarks about the weather.",
+"One of the most banal scenes is suddenly invested with so much meaning! All these banalities - They're suddenly turned into these… these beautiful, effervescent pearls. From Music."
+],
+"p": "buh-NAHL"
+},
+{
+"w": "womanly",
+"pos": "adjective",
+"senses": [
+"Considered typical of, stereotypical of, or appropriate to women; feminine."
+],
+"ety": "From Middle English womanly, wommanlich, wommanly, wommanlych, wummonlich, equivalent to woman + -ly (adjectival suffix).",
+"examples": [
+"I know that the sound of it moved me more even than her words, it was so very human - so very womanly."
+],
+"p": "WUUM-un-lee"
+},
+{
+"w": "necrophilia",
+"pos": "noun",
+"senses": [
+"Sexual activity with corpses."
+],
+"ety": "From necro- (Ancient Greek νεκρός (nekrós, “corpse, dead”)) + -philia (Ancient Greek φιλία (philía, “affection”)), after German Nekrophilie (in Krafft-Ebing 1887).",
+"examples": [
+"A woman in Sweden has been accused of necrophilia after investigators found some 100 skeleton parts in her apartment.",
+"Mann was a vocal leader in the group, and she was particularly outspoken about an incident in which the school's rugby team engaged in chants calling for violence against women -- including rape and necrophilia."
+],
+"p": "nek-roh-FIL-ee-uh"
+},
+{
+"w": "elegy",
+"pos": "noun",
+"senses": [
+"A mournful or plaintive poem; a funeral song; a poem of lamentation.",
+"A composition of mournful character.",
+"A classical poem written in elegiac meter"
+],
+"ety": "From Middle French elegie, from Latin elegīa, itself a borrowing from Ancient Greek ἐλεγείᾱ (elegeíā), ellipsis of ἐλεγείᾱ ᾠδή (elegeíā ōidḗ, “an elegiac song”).",
+"examples": [
+"He composed an elegy for his late friend."
+],
+"p": "EL-ih-jee"
+},
+{
+"w": "pamphleteer",
+"pos": "noun",
+"senses": [
+"A writer, publisher, or distributer of pamphlets, a second-rate journalist."
+],
+"ety": "From pamphlet + -eer.",
+"examples": [
+"The Commons are very slow in bringing in their Bill to limit the press, and the pamphleteers make good use of their time; for there come out three or four every day."
+],
+"p": "pam-fluh-TEER"
+},
+{
+"w": "completist",
+"pos": "noun",
+"senses": [
+"A collector who strives to obtain a complete collection of some type of thing, especially a fan who aims to own or consume the complete output of a particular author, publisher, musician or band.",
+"A person who champions any philosophy which focuses on the completeness of something."
+],
+"ety": "From complete + -ist.",
+"examples": [
+"Ozzie Train, secretary. Ozzie needs little introduction, other than that he is the remaining half of Prime Press, and a genuine completist.",
+"There's no new material on it, just previously issued bits and pieces. That rules out the completist collector. Go figure.",
+"A completist philosopher holds that a definite complete body of knowledge exists to be discovered."
+],
+"p": "kum-PLEE-tist"
+},
+{
+"w": "flamenco",
+"pos": "noun",
+"senses": [
+"A genre of folk music and dance native to Andalusia, in Spain.",
+"A song or dance performed in such a style."
+],
+"ety": "Borrowed from Spanish flamenco, from Middle Dutch vlaminc (“Fleming”) (> Dutch Vlaming).",
+"examples": [
+"It's impossible to tell the story of flamenco without talking about Lorca, who found in it a source of inspiration in a lifelong political-cultural-sexual struggle against bourgeois philistinism.",
+"Among the dancers, who joined in periodically, the outlier wasn’t the Spanish flamenco dancer, Jesús Carmona (in town for the Flamenco Festival at City Center), so much as the New York salsero, Eddie Torres Jr.",
+"La Niña was so goddam terrific that after a month of singing with the vocal trio, she was singing solo and she was dancing a flamenco better'n a gypsy fireball!"
+],
+"p": "fluh-MENG-koh"
+},
+{
+"w": "eatable",
+"pos": "adjective",
+"senses": [
+"Able to be eaten; edible."
+],
+"ety": "From eat + -able (“able, capable”). Doublet of edible.",
+"examples": [
+"The contents of the pan began to boil, and he turned to plunge his hand into the bowl; I conjectured that this preparation was probably for our supper, and, being hungry, I resolved it should be eatable;",
+"When the seeds are larger, softer, and more eatable, they are protected by an excessively hard and stony covering, as in the plum and peach tribe ; or they are enclosed in a tough horny core, as with crabs and apples.",
+"Their diet includes practically everything eatable they can capture or kill."
+],
+"p": "EE-tuh-bul"
+},
+{
+"w": "stagger",
+"pos": "noun",
+"senses": [
+"An unsteady movement of the body in walking or standing as if one were about to fall; a reeling motion.",
+"Bewilderment; perplexity.",
+"The spacing out of various actions over time."
+],
+"ety": "From Middle English stakeren, from Old Norse stakra (“to push, stagger”). Cognate with dialectal Danish stagre.",
+"examples": [
+"Afy slowly gathered in the sense of the words. She gasped twice, as if her breath had gone, and then, with a stagger and a shiver, fell heavily to the ground."
+],
+"p": "STAG-er"
+},
+{
+"w": "orchestrate",
+"pos": "verb",
+"senses": [
+"To arrange or score music for performance by an orchestra.",
+"To compose or arrange orchestral music for a dramatic performance.",
+"To arrange or direct diverse elements to achieve a desired effect"
+],
+"ety": "From orchestra + -ate (verb-forming suffix). Compare French orchestrer.",
+"examples": [
+"Sergio Leone orchestrated \"The Good, the Bad and the Ugly\".",
+"Orchestrated histories are not fact-based.",
+"Here is chromophonic montage at its most skillful, as Minnelli orchestrates camera movement, music, and lighting in a crescendo of sound and color which red comes to dominate in the climactic moment of violent explosion."
+],
+"p": "OR-kuh-strayt"
+},
+{
+"w": "ohana",
+"pos": "noun",
+"senses": [
+"An extended Hawaiian family unit."
+],
+"ety": "Borrowed from Hawaiian ʻohana (“family, kin”).",
+"examples": [
+"The House and Senate are committing more than $30 million to establish “ohana zones” where the homeless can live, but are leaving it to Gov. David Ige’s administration to figure out the details."
+],
+"p": "uh-HAH-nuh"
+},
+{
+"w": "salivate",
+"pos": "verb",
+"senses": [
+"To produce saliva.",
+"To show eager anticipation at the expectation of something."
+],
+"ety": "From Latin salivatus, past participle of salivare (“to spit out, also salivate”), from saliva (“spittle”).",
+"examples": [
+"He's been salivating over the latest model sports car for a while now."
+],
+"p": "SAL-uh-vayt"
+}
+]

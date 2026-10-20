@@ -1,0 +1,429 @@
+[
+{
+"w": "boxman",
+"pos": "noun",
+"senses": [
+"A casino employee who supervises the craps table."
+],
+"ety": "From box + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "boatman",
+"pos": "noun",
+"senses": [
+"A sailor on a small vessel (boat), particularly its captain."
+],
+"ety": "From Middle English boteman, botman, bateman. Equivalent to boat + -man.",
+"examples": [],
+"p": "BOHT-mun"
+},
+{
+"w": "octopod",
+"pos": "noun",
+"senses": [
+"Any animal with eight feet or foot-like parts.",
+"Any cephalopod molluscs of the order Octopoda.",
+"A railway locomotive with eight wheels."
+],
+"ety": "From octo- + -pod, after taxonomic name Octopoda. Piecewise doublet of octopede and octopus.",
+"examples": [],
+"p": "AHK-toh-pahd"
+},
+{
+"w": "garang",
+"pos": "adjective",
+"senses": [
+"Bold, daring, fearless",
+"Imposing, impressive; manly (of appearance)"
+],
+"ety": "From Malay garang.",
+"examples": [],
+"p": "GAH-rahng"
+},
+{
+"w": "funhouse",
+"pos": "noun",
+"senses": [
+"A structure, usually at a circus or amusement park, enclosing several interactive attractions such as distorting mirrors, ramps, slides, stairs, rotating barrel slides, etc., that usually do not involve performers."
+],
+"ety": "From fun + house.",
+"examples": [],
+"p": "FUN-hows"
+},
+{
+"w": "contextuality",
+"pos": "noun",
+"senses": [
+"The extent to which something is contextual."
+],
+"ety": "From contextual + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "bewigged",
+"pos": "adjective",
+"senses": [
+"Wearing a wig.",
+"Perplexed, bewildered."
+],
+"ety": "From be- + wigged.",
+"examples": [
+"The walls were adorned with oil paintings, portraits of stiff ladies with powdered coiffures, of bewigged Oldenborgians and other redoubtable persons in mail and armour or red coats.",
+"Why should anyone imagine that bewigged judges in The Hague will succeed where cold steel has failed?"
+],
+"p": null
+},
+{
+"w": "polaroid",
+"pos": "noun",
+"senses": [
+"A sheet of plastic embedded with microscopic crystals of herapathite or similarly acting material, so that light passing through it is polarized.",
+"Spectacles made with lenses of this material, once used to view certain 3-D movies, now used as sunglasses.",
+"A camera that develops its own film.",
+"A print from such a camera."
+],
+"ety": "A genericization of the trademark Polaroid, owned by Polaroid Corporation.",
+"examples": [
+"If there is no sample in the cell, and the second polaroid is rotated until it is at right angles to the first, the observer will see no light.",
+"Polaroids are used as window screens to regulate the amount of light entering the room.",
+"She went to see BWANA DEVIL and, after donning the polaroids, saw correctly."
+],
+"p": null
+},
+{
+"w": "corrido",
+"pos": "noun",
+"senses": [
+"A Mexican or Mexican-American ballad or folk song."
+],
+"ety": "Borrowed from Spanish corrido.",
+"examples": [],
+"p": null
+},
+{
+"w": "skyspace",
+"pos": "noun",
+"senses": [
+"An architectural design in which a room has a large hole in its ceiling, open to the sky."
+],
+"ety": "From sky + space.",
+"examples": [],
+"p": null
+},
+{
+"w": "necked",
+"pos": "adjective",
+"senses": [
+"Having some specific type of neck or neckline."
+],
+"ety": "From neck + -ed.",
+"examples": [],
+"p": "nekt"
+},
+{
+"w": "aeolian",
+"pos": "adjective",
+"senses": [
+"Aeolian mode"
+],
+"ety": ". Piecewise doublet of Aeolian.",
+"examples": [],
+"p": "ee-OH-lee-un"
+},
+{
+"w": "habitational",
+"pos": "adjective",
+"senses": [
+"Deriving from the name of a place where a presumed ancestor once lived."
+],
+"ety": "From habitation + -al.",
+"examples": [],
+"p": "hab-ih-TAY-shuh-nul"
+},
+{
+"w": "dokkaebi",
+"pos": "noun",
+"senses": [
+"A creature in Korean mythology, also known as \"Korean goblin\""
+],
+"ety": "Borrowed from Korean 도깨비 (dokkaebi).",
+"examples": [],
+"p": "doh-KAY-bee"
+},
+{
+"w": "depositor",
+"pos": "noun",
+"senses": [
+"A person who makes a deposit, especially a deposit of money in a bank."
+],
+"ety": "From deposit + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "incipit",
+"pos": "noun",
+"senses": [
+"The first few words of a text, especially its first line.",
+"The first few bars of a piece of music."
+],
+"ety": "Borrowed from Latin incipit (“it begins”).",
+"examples": [],
+"p": "IN-sih-pit"
+},
+{
+"w": "steppe",
+"pos": "noun",
+"senses": [
+"The grasslands of Eastern Europe and Asia.",
+"A vast, cold, dry, grassy plain."
+],
+"ety": "From German Steppe or French steppe, in turn from Russian степь (stepʹ, “flat grassy plain”) or Ukrainian степ (step). There is no generally accepted earlier etymology, but there is a speculative Old East Slavic reconstruction *сътепь (sŭtepĭ, “trampled place, flat, bare”), related to топот (topot), топтать (toptatĭ).",
+"examples": [],
+"p": "step"
+},
+{
+"w": "soundset",
+"pos": "noun",
+"senses": [
+"A collection of electronically stored sounds, used in synthesizers, music software, etc."
+],
+"ety": "From sound + set.",
+"examples": [],
+"p": null
+},
+{
+"w": "marketization",
+"pos": "noun",
+"senses": [
+"The exposure of service industries to market forces.",
+"A restructuring process that enables state enterprises to operate as market-oriented firms by changing the legal environment in which they operate."
+],
+"ety": "From marketize + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "sullied",
+"pos": "adjective",
+"senses": [
+"Stained, soiled.",
+"Defiled, tainted."
+],
+"ety": "From sully + -ied (suffix forming participial adjectives and past participal forms of verbs ending in -y).",
+"examples": [],
+"p": "SUL-eed"
+},
+{
+"w": "perinuclear",
+"pos": "adjective",
+"senses": [
+"Surrounding a nucleus"
+],
+"ety": "From peri- + nuclear.",
+"examples": [],
+"p": null
+},
+{
+"w": "vielle",
+"pos": "noun",
+"senses": [
+"A medieval stringed instrument similar to a violin.",
+"The hurdy-gurdy."
+],
+"ety": "From Old French viele, vielle. Doublet of viola.",
+"examples": [],
+"p": "vee-EL"
+},
+{
+"w": "agroecosystem",
+"pos": "noun",
+"senses": [
+"A conceptual model of an agricultural system (crop, farm or whole economy), relating its functions to its inputs and outputs."
+],
+"ety": "From agro- + ecosystem.",
+"examples": [],
+"p": null
+},
+{
+"w": "paramahamsa",
+"pos": "noun",
+"senses": [
+"A Hindu spiritual teacher who has become enlightened."
+],
+"ety": "From Sanskrit परम (parama, “supreme”) and Sanskrit हंस (haṃsa, “swan”).",
+"examples": [],
+"p": null
+},
+{
+"w": "sputter",
+"pos": "noun",
+"senses": [
+"Moist matter thrown out in small detached particles.",
+"Confused and hasty speech."
+],
+"ety": "Probably representing Middle English *sputren, *sputrien, a frequentative form of Middle English sputen (“to spout, vomit”), equivalent to spout + -er. Cognate with Saterland Frisian spüttern (“to inject, spray, splash”), West Frisian sputterje (“to sputter”), Dutch sputteren (“to sputter”), Low German sputtern, spruttern (“to sprinkle”), German sprudeln (“to spout, squirt”). Compare splutter.",
+"examples": [],
+"p": "SPUT-er"
+},
+{
+"w": "westly",
+"pos": "adjective",
+"senses": [
+"Synonym of westerly."
+],
+"ety": "From west + -ly.",
+"examples": [],
+"p": null
+},
+{
+"w": "fagot",
+"pos": "verb",
+"senses": [
+"To make a fagot of (objects); to bind (objects) together in a fagot or bundle."
+],
+"ety": "Most likely from Italian fagotto, from Latin fascis.",
+"examples": [],
+"p": "FAG-ut"
+},
+{
+"w": "kyrios",
+"pos": "noun",
+"senses": [
+"The male head of a household in Ancient Greece."
+],
+"ety": "Ancient Greek κύριος (kúrios)",
+"examples": [],
+"p": null
+},
+{
+"w": "epifluorescence",
+"pos": "noun",
+"senses": [
+"Fluorescence produced by reflected rather than transmitted light."
+],
+"ety": "From epi- + fluorescence.",
+"examples": [],
+"p": null
+},
+{
+"w": "fabless",
+"pos": "adjective",
+"senses": [
+"Of a company: that does not make its own silicon wafers, and primarily concerns itself with research and design."
+],
+"ety": "fabrication and -less.",
+"examples": [
+"The fabless semiconductor company recently finished designing its new line of microchips."
+],
+"p": null
+},
+{
+"w": "lymphotoxin",
+"pos": "noun",
+"senses": [
+"Any of several lymphokines that are toxic to certain cells"
+],
+"ety": "From lympho- + toxin.",
+"examples": [],
+"p": null
+},
+{
+"w": "fluted",
+"pos": "adjective",
+"senses": [
+"Having flutes or grooves, either for decoration or to trim weight."
+],
+"ety": "From flute + -ed.",
+"examples": [
+"Mr. W. Younger, of Huntington, Tenn., has invented a new washing machine, which by a rotary motion of a driving roller, he has combined a toothed roller and a fluted one and a rubbing board.",
+"The table and two base pedestals cost more than $4,000. The pedestals are described as having “hand applied ebonized inlay with bell flowers topped by hand carved scrolls and a fluted column.”"
+],
+"p": null
+},
+{
+"w": "pleural",
+"pos": "adjective",
+"senses": [
+"Thin and transparent."
+],
+"ety": "From pleura + -al.",
+"examples": [],
+"p": "PLOOR-ul"
+},
+{
+"w": "hoppus",
+"pos": "noun",
+"senses": [
+"A unit of measure of volume equal to 1.273 cubic feet or 2,200 cubic inches. Used in the British Empire as a measure of lumber."
+],
+"ety": "After Edward Hoppus, English surveyor.",
+"examples": [],
+"p": null
+},
+{
+"w": "impeccability",
+"pos": "noun",
+"senses": [
+"The property of being impeccable."
+],
+"ety": "From impeccable + -ability.",
+"examples": [],
+"p": null
+},
+{
+"w": "highlander",
+"pos": "noun",
+"senses": [
+"A person who inhabits the Scottish Highlands.",
+"Any person who lives in mountainous or hilly terrain.",
+"The Igorot people, referring to them originating from the Cordillera Mountain Range."
+],
+"ety": "From highland + -er.",
+"examples": [],
+"p": "HY-lun-der"
+},
+{
+"w": "nalla",
+"pos": "noun",
+"senses": [
+"Useless person, slacker"
+],
+"ety": "From Hindi नल्ला (nallā)",
+"examples": [],
+"p": null
+},
+{
+"w": "limen",
+"pos": "noun",
+"senses": [
+"A liminal point; the threshold of a physiological or psychological response."
+],
+"ety": "Learned borrowing from Latin līmen (“threshold”).",
+"examples": [],
+"p": null
+},
+{
+"w": "anole",
+"pos": "noun",
+"senses": [
+"Any member of the family Dactyloidae of chiefly arboreal dactyloid lizards native to the Americas, which feature a brightly colored dewlap and the ability to change color."
+],
+"ety": "From a Cariban term.",
+"examples": [],
+"p": "uh-NOH-lee"
+},
+{
+"w": "kestrel",
+"pos": "noun",
+"senses": [
+"A common kestrel (Falco tinnunculus)."
+],
+"ety": "From Middle English castrel (“staniel, bird of prey”), from Middle French cresserelle, crecerelle (“bird of prey”), usually assumed to be from crecelle (“rattle, wooden reel”) (modern crécelle), of obscure origin. Cognates possibly include: Medieval Latin clisterella f, French crécerelle f and cristel m, Neapolitan castariello m and crestariello m, all sharing the same meaning. Derivation from the assumed Vulgar Latin *crepicella, *crepitacillum, a diminutive of crepitāculum, from crepitāre (“to crackle”) is difficult to explain from a morphological point of view. Instead, possibly from a root",
+"examples": [],
+"p": "KES-trul"
+}
+]

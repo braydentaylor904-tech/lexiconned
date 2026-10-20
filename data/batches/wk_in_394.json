@@ -1,0 +1,432 @@
+[
+{
+"w": "needler",
+"pos": "noun",
+"senses": [
+"One who needles (someone else).",
+"One who makes or uses needles.",
+"A dealer in needles."
+],
+"ety": "From Middle English nedlere, equivalent to needle + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "cupholder",
+"pos": "noun",
+"senses": [
+"A holder for a cup containing a drink, usually in a vehicle."
+],
+"ety": "From cup + holder.",
+"examples": [],
+"p": null
+},
+{
+"w": "melba",
+"pos": "noun",
+"senses": [
+"A dessert made originally from peach (now also other fruits), ice cream, and raspberry."
+],
+"ety": "From Peach Melba, a dish invented for Nellie Melba, an Australian opera singer.",
+"examples": [],
+"p": null
+},
+{
+"w": "vinegared",
+"pos": "adjective",
+"senses": [
+"Seasoned with vinegar."
+],
+"ety": "From vinegar + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "plover",
+"pos": "noun",
+"senses": [
+"A masked lapwing (Vanellus miles)."
+],
+"ety": "Inherited from Middle English plover, from Anglo-Norman plover, plovier, from Medieval Latin plovarius, pluviārius, of disputed origin; perhaps from Latin pluvia (“rain”).",
+"examples": [],
+"p": "PLUV-er"
+},
+{
+"w": "bronzer",
+"pos": "noun",
+"senses": [
+"A cosmetic product intended to give the skin a temporary bronzed colour resembling a suntan."
+],
+"ety": "From bronze (“to tan skin”) + -er (agent noun suffix).",
+"examples": [
+"Bronzers, you see, contain alcohol, which can't help but be drying to the skin.",
+"Some men were turning up with their faces covered with \"bronzers\" that made them look jaundiced, mottled terra cotta, or muddy brown.",
+"With his signature bronzer, Trump seems to be aiming for a weathered ruggedness, perhaps. He is playing the macho cowboy who just rode into town."
+],
+"p": null
+},
+{
+"w": "chocolaty",
+"pos": "adjective",
+"senses": [
+"Resembling chocolate in taste.",
+"Smooth, alluring, and deep or rich."
+],
+"ety": "From chocolat(e) + -y.",
+"examples": [],
+"p": "CHAWK-lit-ee"
+},
+{
+"w": "formulator",
+"pos": "noun",
+"senses": [
+"A person who formulates"
+],
+"ety": "From formulate + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "lupine",
+"pos": "adjective",
+"senses": [
+"Wolfish (all senses); wolflike."
+],
+"ety": "Borrowed from Latin lupīnus, from lupus (“wolf”) + -īnus (“pertaining to”). Doublet of lupin and piecewise doublet of wolven, Latin lupus being a cognate of wolf and -ine being a doublet of -en.",
+"examples": [],
+"p": "LOO-pine"
+},
+{
+"w": "annexationist",
+"pos": "noun",
+"senses": [
+"An advocate of annexation"
+],
+"ety": "From annexation + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "backburner",
+"pos": "verb",
+"senses": [
+"To relegate to a lower priority."
+],
+"ety": "From back + burner.",
+"examples": [],
+"p": null
+},
+{
+"w": "tricolored",
+"pos": "adjective",
+"senses": [
+"Having three colours; tricolor."
+],
+"ety": "From tri- + colored.",
+"examples": [],
+"p": null
+},
+{
+"w": "magaziner",
+"pos": "noun",
+"senses": [
+"Someone who writes for a magazine."
+],
+"ety": "From magazine + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "plica",
+"pos": "noun",
+"senses": [
+"A neume, in the form of a tail at the end of a ligature, indicating an additional note."
+],
+"ety": "From Medieval Latin, from Latin plicare (“to fold”).",
+"examples": [],
+"p": "PLY-kuh"
+},
+{
+"w": "monogenic",
+"pos": "adjective",
+"senses": [
+"producing offspring of only one sex, exhibiting monogeny"
+],
+"ety": "From mono- + -genic.",
+"examples": [],
+"p": null
+},
+{
+"w": "compadre",
+"pos": "noun",
+"senses": [
+"A friend or companion."
+],
+"ety": "Borrowed from Spanish compadre (“joint father, godfather, friend”). Doublet of compeer, compere, and goombah.",
+"examples": [
+"Whenever he had a compadre or a friend, it was his bounden duty to do him some service.",
+"He looks like a solid guy. Hiro leans into him. \"Compadre, who is the guy with the antenna? A friend of yours?\""
+],
+"p": null
+},
+{
+"w": "bander",
+"pos": "noun",
+"senses": [
+"A device for putting metal bands around crates."
+],
+"ety": "From band + -er.",
+"examples": [
+"The metal banding he was currently winding round a loaded pallet twisted and snapped like a splinter of wood. He took a deep breath, removed the mangled end from the bander, and started over."
+],
+"p": null
+},
+{
+"w": "prolongation",
+"pos": "noun",
+"senses": [
+"The act of prolonging.",
+"That which has been prolonged; an extension."
+],
+"ety": "From Middle English prolongacioun, from Old French prolongation, from Late Latin prōlongātiō, from prōlongātus, perfect passive participle of Latin prōlongō, from prō + longus. By surface analysis, prolong + -ation.",
+"examples": [],
+"p": "proh-lawng-GAY-shun"
+},
+{
+"w": "bundt",
+"pos": "noun",
+"senses": [
+"A baking pan with a hollow, circular, raised area in the middle."
+],
+"ety": "From German Bundkuchen, from Bund (“tied together”) + Kuchen (“cake”).",
+"examples": [],
+"p": "bunt"
+},
+{
+"w": "kabaddi",
+"pos": "noun",
+"senses": [
+"A South Asian team sport in which players must hold their breath while making raids into the opposing team's half of the field."
+],
+"ety": "Borrowed from Hindi कबड्डी (kabaḍḍī), from Tamil கபடி (kapaṭi), from Tamil கைபிடி (kaipiṭi), from கை (kai, “hand”) + பிடி (piṭi, “catch, grasp”), which could be translated as \"holding hands\".",
+"examples": [],
+"p": "KUB-uh-dee"
+},
+{
+"w": "frontbencher",
+"pos": "noun",
+"senses": [
+"A Member of Parliament who sits on the front bench, and is typically part of the cabinet."
+],
+"ety": "From front bench + -er.",
+"examples": [
+"Cleverly did not directly respond to the claim from the Labour frontbencher when he later answered her questions."
+],
+"p": null
+},
+{
+"w": "kumbha",
+"pos": "noun",
+"senses": [
+"A piece of Indian pottery symbolizing the womb and fertility."
+],
+"ety": "Learned borrowing from Sanskrit कुम्भ (kumbha)",
+"examples": [],
+"p": null
+},
+{
+"w": "gauss",
+"pos": "noun",
+"senses": [
+"The unit of magnetic field strength in CGS systems of units, equal to 0.0001 tesla."
+],
+"ety": "Named for Carl Friedrich Gauss, German mathematician and physicist.",
+"examples": [],
+"p": "gows"
+},
+{
+"w": "eyebeam",
+"pos": "noun",
+"senses": [
+"A glance of the eye."
+],
+"ety": "From eye + beam.",
+"examples": [],
+"p": null
+},
+{
+"w": "chomp",
+"pos": "noun",
+"senses": [
+"The act of chomping (see below)"
+],
+"ety": "U.S. regional variation of champ (verb), from Middle English champen, chammen (“to bite; gnash”). (computing storage unit): An allusion to byte, which sounds like bite.",
+"examples": [],
+"p": "chahmp"
+},
+{
+"w": "poloidal",
+"pos": "adjective",
+"senses": [
+"Having a direction on a torus perpendicular to a line that traces around the outside of a torus, or on a sphere perpendicular to the equator, going through both poles."
+],
+"ety": "From poloid + -al.",
+"examples": [
+"While the slope of the toroidal velocity distribution at the outer surface is generally in good agreement with the observed surface value, poloidal velocity consistently shows reduced energy at low harmonics ."
+],
+"p": null
+},
+{
+"w": "inyanga",
+"pos": "noun",
+"senses": [
+"In Zulu communities, a traditional doctor or healer"
+],
+"ety": "Borrowed from Zulu ínyanga, from Proto-Bantu *mʊ̀gàngà. Doublet of mganga and ngaka.",
+"examples": [],
+"p": null
+},
+{
+"w": "stellated",
+"pos": "adjective",
+"senses": [
+"star-shaped; stellate"
+],
+"ety": "Latin stellatus (“starry”).",
+"examples": [],
+"p": null
+},
+{
+"w": "mitogenic",
+"pos": "adjective",
+"senses": [
+"Causing mitosis."
+],
+"ety": "From mitogen + -ic or mito- + -genic.",
+"examples": [],
+"p": null
+},
+{
+"w": "chicot",
+"pos": "noun",
+"senses": [
+"Synonym of Kentucky coffeetree.",
+"A tree or tree limb that is dead and may fall and cause injury."
+],
+"ety": "From French chicot.",
+"examples": [
+"Felling a tree which is supporting a chicot can be dangerous as depicted in the above drawing. The victim in this case was fatally crushed by the falling chicot."
+],
+"p": null
+},
+{
+"w": "aeroponics",
+"pos": "noun",
+"senses": [
+"The growing of plants without either soil or hydroponics but in a mist-laden atmosphere."
+],
+"ety": "From aero- + -ponics, which is from geoponics.",
+"examples": [
+"The aeroponics system uses a spinner from a home humidifier to propel nutrient solution into a polyethylene-lined plywood box atop which plants are supported on plastic light-fixture “egg crating.”"
+],
+"p": null
+},
+{
+"w": "carven",
+"pos": "adjective",
+"senses": [
+"Made by carving, especially when intricately or artistically done."
+],
+"ety": "From Middle English carven, a variant (with the vowel modified to match the present stem) of Middle English corven, y-corven (“carved”), from Old English corfen, ġecorfen (“cut, carved”), from Proto-West Germanic *korban, from Proto-Germanic *kurbanaz (“cut, carved”), past participle of *kerbaną (“to carve”). Equivalent to carve + -en (past participle ending).",
+"examples": [
+"The beams that thro' the Oriel shine / Make prisms in every carven glass, / And beaker brimm'd with noble wine."
+],
+"p": null
+},
+{
+"w": "rascally",
+"pos": "adjective",
+"senses": [
+"Like a rascal."
+],
+"ety": "From rascal + -y.",
+"examples": [
+"He was speedily reassured, and with a large, white, rascally grin, and a glance at his charge, seemed to take me into partnership in his exalted trust.",
+"My chief creditor is, unhappily, my most bitter enemy—a rascally fellow, Sam Brewer, whom I was once compelled to horse-whip on Newmarket Heath."
+],
+"p": null
+},
+{
+"w": "pekan",
+"pos": "noun",
+"senses": [
+"A fisher cat or fisher (Pekania pennanti, syn. Martes pennanti)",
+"An American marten (Martes americana)."
+],
+"ety": "From the Abenaki apanakes (“pine marten, Martes americana”), or a Penobscot cognate of it.",
+"examples": [],
+"p": null
+},
+{
+"w": "angelology",
+"pos": "noun",
+"senses": [
+"The study of angels. Angels have been grouped into nine categories or “choirs,” from lowest to highest: angel, archangel, principality, power, virtue, dominion, throne, cherub, and seraph."
+],
+"ety": "From angel + -ology.",
+"examples": [],
+"p": "ayn-juh-LOL-uh-jee"
+},
+{
+"w": "pyrantel",
+"pos": "noun",
+"senses": [
+"An antinematodal thiophene."
+],
+"ety": "From pyr(imidine) + -antel (“anthelmintic”).",
+"examples": [],
+"p": null
+},
+{
+"w": "bloggy",
+"pos": "adjective",
+"senses": [
+"Having the characteristics of a blog; resembling a blog."
+],
+"ety": "From blog + -y.",
+"examples": [
+"It is, dare I say it, too preoccupied with being respectably booky rather than wildly bloggy."
+],
+"p": null
+},
+{
+"w": "heterodyne",
+"pos": "adjective",
+"senses": [
+"Of two oscillations: having two slightly different frequencies such that, when combined, they produce a beat"
+],
+"ety": "From hetero- + -dyne.",
+"examples": [],
+"p": null
+},
+{
+"w": "unicolor",
+"pos": "adjective",
+"senses": [
+"Of one color; monochromatic."
+],
+"ety": "From uni- + color.",
+"examples": [],
+"p": null
+},
+{
+"w": "microphonics",
+"pos": "noun",
+"senses": [
+"The science of amplifying sound, or of microphones generally."
+],
+"ety": "From the adjective microphonic (“relating to the variations in electrical potential in response to sound waves”). By surface analysis, micro- + -phonics.",
+"examples": [],
+"p": null
+}
+]

@@ -1,0 +1,433 @@
+[
+{
+"w": "necropsy",
+"pos": "verb",
+"senses": [
+"To perform a necropsy on."
+],
+"ety": "From necro- + -opsy.",
+"examples": [],
+"p": "NEK-rahp-see"
+},
+{
+"w": "trappy",
+"pos": "adjective",
+"senses": [
+"Traplike, reminiscent of a trap.",
+"Of a gait, short, rapid and high-stepping.",
+"Of an opening, having many traps that can be played against opponents unfamiliar with the lines.",
+"Abundant in traps"
+],
+"ety": "From trap + -y.",
+"examples": [],
+"p": "TRAP-ee"
+},
+{
+"w": "enamorado",
+"pos": "noun",
+"senses": [
+"A lover; a person in love."
+],
+"ety": "Borrowed from Spanish enamorado.",
+"examples": [],
+"p": null
+},
+{
+"w": "opusculum",
+"pos": "noun",
+"senses": [
+"An opuscule; a short work."
+],
+"ety": "Borrowed from Latin opusculum.",
+"examples": [],
+"p": "oh-PUS-kyoo-lum"
+},
+{
+"w": "lilliputian",
+"pos": "noun",
+"senses": [
+"A very small person or being.",
+"Involving delusions or hallucinations of tiny beings."
+],
+"ety": "From the name of a fictional island called Lilliput in the novel Gulliver's Travels by Jonathan Swift.",
+"examples": [],
+"p": "lil-ih-PYOO-shun"
+},
+{
+"w": "dembow",
+"pos": "noun",
+"senses": [
+"A genre of Caribbean popular music or musical rhythm."
+],
+"ety": "After Dem Bow (1990), a song performed by Shabba Ranks.",
+"examples": [],
+"p": "dem-BOH"
+},
+{
+"w": "shomer",
+"pos": "noun",
+"senses": [
+"A male who watches over the body of a deceased person in the ritual of shemira."
+],
+"ety": "From Hebrew שומר (shomer, “keeper”).",
+"examples": [],
+"p": null
+},
+{
+"w": "divyang",
+"pos": "noun",
+"senses": [
+"A disabled person."
+],
+"ety": "Borrowed from Hindi दिव्यांग (divyāṅg, literally “divine organ”).",
+"examples": [],
+"p": null
+},
+{
+"w": "exosphere",
+"pos": "noun",
+"senses": [
+"the uppermost layer of a planet's atmosphere",
+"an extremely thin atmosphere, as on Saturn's moon Dione"
+],
+"ety": "From exo- + -sphere.",
+"examples": [],
+"p": "EK-sohs-feer"
+},
+{
+"w": "toker",
+"pos": "noun",
+"senses": [
+"One who tokes, especially marijuana."
+],
+"ety": "From toke + -er.",
+"examples": [
+"I'm a joker, I'm a smoker / I'm a midnight toker",
+"You could take a few steps down the sidewalk and enter Friendly Stranger, which trades on nostalgia for tokers who picked up their first bong here, long before cannabis was legalized three and a half years ago."
+],
+"p": null
+},
+{
+"w": "photonics",
+"pos": "noun",
+"senses": [
+"The science and technology of generating and controlling photons, particularly in the visible and near infrared light spectrum."
+],
+"ety": "From photon + -ics.",
+"examples": [],
+"p": "foh-TAH-niks"
+},
+{
+"w": "sooky",
+"pos": "noun",
+"senses": [
+"A sook, a crybaby."
+],
+"ety": "From sook + -y (“characteristic of”) and -y (“diminutive”).",
+"examples": [],
+"p": null
+},
+{
+"w": "woobie",
+"pos": "noun",
+"senses": [
+"Any object, typically a blanket, garment or stuffed animal, that is used simply for its comforting characteristics; a security blanket.",
+"A term of endearment."
+],
+"ety": "From the 1983 film Mr. Mom, in which it is a child's word for his security blanket; perhaps from a childish diminutive of *woob (compare plushie, from plush), an alternative pronunciation of wub, from wuv, a baby talk form of love (cf. luv).",
+"examples": [],
+"p": "WUUB-ee"
+},
+{
+"w": "organum",
+"pos": "noun",
+"senses": [
+"A type of medieval polyphony which builds upon an existing plainsong."
+],
+"ety": "Borrowed from Latin organum, itself a borrowing from Ancient Greek ὄργανον (órganon, “organ, instrument, tool”). Doublet of organ, organon, and orgue.",
+"examples": [],
+"p": "OR-guh-num"
+},
+{
+"w": "ethnocentrism",
+"pos": "noun",
+"senses": [
+"The tendency to look at the world primarily from the perspective of one's own traditional, deferred, or adoptive ethnic culture."
+],
+"ety": "From ethno- + -centrism.",
+"examples": [],
+"p": "eth-noh-SEN-trih-zum"
+},
+{
+"w": "dhoni",
+"pos": "noun",
+"senses": [
+"A handcrafted sailboat with a motor or lateen sails, resembling a dhow, that is used in the Maldives."
+],
+"ety": "Borrowed from Dhivehi ދޯނި (dōni).",
+"examples": [
+"The witchery of the dawn turned the grey river-reaches to purple, gold, and opal; and it was as though the lumbering dhoni crept across the splendors of a new heaven."
+],
+"p": null
+},
+{
+"w": "gossiper",
+"pos": "noun",
+"senses": [
+"A person who gossips."
+],
+"ety": "From gossip + -er.",
+"examples": [
+"The gossiper, Emma wishes to control her receiver's of gossip (Harriet) opinion about Emma's marriage through setting Miss Bates, the gossipee, as a bad example to be followed in pursuing a dream of marriage."
+],
+"p": null
+},
+{
+"w": "salter",
+"pos": "noun",
+"senses": [
+"One who makes, sells, or applies salt.",
+"A trout leaving salt water to ascend a stream."
+],
+"ety": "From salt + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "paprikash",
+"pos": "noun",
+"senses": [
+"A Hungarian dish resembling goulash (a paprika-based potato stew), but without potatoes and using meat instead, often chicken and sometimes veal."
+],
+"ety": "From Hungarian paprikás, from paprika, whence also English paprika.",
+"examples": [],
+"p": null
+},
+{
+"w": "immunoblot",
+"pos": "noun",
+"senses": [
+"A blot used in western blot analysis."
+],
+"ety": "From immuno- + blot.",
+"examples": [],
+"p": null
+},
+{
+"w": "kabaka",
+"pos": "noun",
+"senses": [
+"The title of the king of Buganda."
+],
+"ety": "Borrowed from Luganda akabaka.",
+"examples": [],
+"p": "kuh-BAH-kuh"
+},
+{
+"w": "educative",
+"pos": "adjective",
+"senses": [
+"Serving to educate; educational."
+],
+"ety": "From educate + -ive.",
+"examples": [],
+"p": null
+},
+{
+"w": "roust",
+"pos": "verb",
+"senses": [
+"to rout out of bed; to rouse.",
+"To harass, to treat in a rough way.",
+"To drive strongly."
+],
+"ety": "1650s, variant of rouse, possibly influenced by rout.",
+"examples": [],
+"p": "rowst"
+},
+{
+"w": "recuse",
+"pos": "verb",
+"senses": [
+"To reject or repudiate (an authority, a person, a court judgment, etc.)."
+],
+"ety": "From Late Middle English recusen, from Old French recuser (modern French récuser (“to challenge; to impugn; (formal) to make an objection; (law) to recuse”), and from its etymon Latin recūsāre, the present active infinitive of recūsō (“to decline, refuse, reject; (law) to object to, protest”), from re- (prefix meaning ‘again’, denoting opposition or reversal) + causa (“cause, reason; (law) case, claim; etc.”) + -ō (suffix forming regular first-conjugation verbs). Doublet of rouse and possibly ruse. Cognates * Catalan recusar * French récuser * Italian ricusare * Old Occitan recuzar * Portugues",
+"examples": [],
+"p": "ree-KYOOZ"
+},
+{
+"w": "lispy",
+"pos": "adjective",
+"senses": [
+"Tending to lisp when speaking."
+],
+"ety": "From lisp + -y.",
+"examples": [],
+"p": "LIS-pee"
+},
+{
+"w": "wettable",
+"pos": "adjective",
+"senses": [
+"Capable of being wetted."
+],
+"ety": "From wet + -able.",
+"examples": [
+"But in other species, including Nepenthes rafflesiana, the one studied by Dr. Federle in northern Borneo, the outer part of the lip is covered in tiny ridges that make it extremely wettable."
+],
+"p": null
+},
+{
+"w": "paned",
+"pos": "adjective",
+"senses": [
+"Having panes."
+],
+"ety": "From pane + -ed.",
+"examples": [],
+"p": "paynd"
+},
+{
+"w": "beamer",
+"pos": "noun",
+"senses": [
+"A projector.",
+"A device that projects or transmits matter, information, or energy.",
+"A big smile."
+],
+"ety": "From beam (“project, transmit”) + -er (agent noun suffix), or, for the ball, + -er (patient suffix).",
+"examples": [],
+"p": "BEE-mer"
+},
+{
+"w": "frevo",
+"pos": "noun",
+"senses": [
+"Any of a wide range of music and dance styles originating from Recife, Pernambuco, Brazil, and traditionally associated with Brazilian carnival."
+],
+"ety": "From Portuguese, said to come from ferver (“to boil”).",
+"examples": [
+"Musicians from Recife, Olinda and rural Pernambuco have concocted rock laced with funk; reggae; the local beats of maracatú and frevo; old rural songs; and the beats, burbles and scratches of electronica."
+],
+"p": null
+},
+{
+"w": "structuralism",
+"pos": "noun",
+"senses": [
+"A theory of sociology that views elements of society as part of a cohesive, self-supporting structure.",
+"A school of thought that focuses on exploring the individual elements of consciousness, how they are organized into more complex experiences, and how these mental phenomena correlate with physical events."
+],
+"ety": "From structural + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "stiller",
+"pos": "noun",
+"senses": [
+"One who stills, or quiets."
+],
+"ety": "From still + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "filmgoer",
+"pos": "noun",
+"senses": [
+"Person who regularly frequents movie theaters."
+],
+"ety": "From film + goer.",
+"examples": [
+"Not trusting filmgoers to catch the drift, Ms. Coppola underscores the women’s attempts to gussy up with snippets of arch dialogue."
+],
+"p": null
+},
+{
+"w": "wagoneer",
+"pos": "noun",
+"senses": [
+"One who drives a wagon."
+],
+"ety": "From wagon + -eer.",
+"examples": [],
+"p": null
+},
+{
+"w": "twinkly",
+"pos": "adjective",
+"senses": [
+"happy and cheerful"
+],
+"ety": "From twinkle + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "algor",
+"pos": "noun",
+"senses": [
+"Cold, chilliness."
+],
+"ety": "Learned borrowing from Latin algor.",
+"examples": [],
+"p": null
+},
+{
+"w": "murti",
+"pos": "noun",
+"senses": [
+"A sacred image of a deity."
+],
+"ety": "From Sanskrit मूर्ति (mūrti).",
+"examples": [],
+"p": null
+},
+{
+"w": "sunchoke",
+"pos": "noun",
+"senses": [
+"Synonym of Jerusalem artichoke (tuber)."
+],
+"ety": "Blend of sunflower + artichoke.",
+"examples": [],
+"p": "SUN-chohk"
+},
+{
+"w": "cassation",
+"pos": "noun",
+"senses": [
+"The abrogation of a law by a higher authority; annulment."
+],
+"ety": "From French cassation, from Latin cassō (“destroy, annul”).",
+"examples": [],
+"p": "ka-SAY-shun"
+},
+{
+"w": "boulter",
+"pos": "noun",
+"senses": [
+"One who boults or sifts."
+],
+"ety": "From boult + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "kobold",
+"pos": "noun",
+"senses": [
+"An ambivalent, sometimes vindictive, spirit that is capable of materialising as an object or human, often a child; a sprite.",
+"A mischievous elf or goblin, or one connected (and helpful) to a family or household.",
+"One of a diminutive and usually malevolent race of beings, often with a reptilian or dog-like appearance."
+],
+"ety": "Borrowed from German Kobold. Doublet of cobalt.",
+"examples": [
+"Movers, in the first chapter of his Phönizier, says that that group of deities called Dactyls, Cabiri, Corybantes, and Cyclopes, were similar to those old Germanic divinities now known as Kobolds.",
+"When the Kobold is about coming into any place, he first, in this way, makes trial of the disposition of the family.",
+"Among the nonhuman creatures that peopled rural Europe in the Middle Ages — the fairies, elves, dwarfs, trolls, and kobolds — there were beneficent female spirits who patronized those households that treated them well."
+],
+"p": null
+}
+]

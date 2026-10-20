@@ -1,0 +1,438 @@
+[
+{
+"w": "drizzly",
+"pos": "adjective",
+"senses": [
+"Abounding with drizzle; drizzling."
+],
+"ety": "From drizzle + -y.",
+"examples": [
+"Thursday, January 21, was a miserable, wet, drizzly day; the thaw started fairly rapidly and transport began to move again.",
+"On a drizzly mid-January evening, I stood at the arches of the wall of Buda Castle, overlooking the Danube and the 19th-century Chain Bridge that links Buda with Pest."
+],
+"p": null
+},
+{
+"w": "carfax",
+"pos": "noun",
+"senses": [
+"A junction of four roads."
+],
+"ety": "From Middle English carfukes, an Anglicisation of Latin quadrifurcus (“four-pronged, four-forked”). Doublet of carfour.",
+"examples": [],
+"p": "KAR-faks"
+},
+{
+"w": "gulal",
+"pos": "noun",
+"senses": [
+"a colored powder often used during the Holi festival."
+],
+"ety": "Borrowed from Hindi गुलाल (gulāl).",
+"examples": [],
+"p": null
+},
+{
+"w": "capitular",
+"pos": "noun",
+"senses": [
+"An act passed in a chapter.",
+"A member of a chapter.",
+"The head or prominent part."
+],
+"ety": "From Late Latin capitulāre, capitulārium, capitulārius, from Latin capitulum (“a small head, a chapter”).",
+"examples": [
+"The chapter itself, and all its members or capitulars."
+],
+"p": null
+},
+{
+"w": "jaybird",
+"pos": "noun",
+"senses": [
+"A jay or blue jay.",
+"One who talks incessantly."
+],
+"ety": "From jay + bird.",
+"examples": [
+"Belinda was a jaybird and could prattle on for hours about the latest gossip."
+],
+"p": null
+},
+{
+"w": "batterie",
+"pos": "noun",
+"senses": [
+"The percussion section of an orchestra or band, the battery; marching instruments in a drumline, as opposed to the pit."
+],
+"ety": "Borrowed from French batterie, from battre (“to hit”). Doublet of battery.",
+"examples": [],
+"p": "BAT-uh-ree"
+},
+{
+"w": "microkernel",
+"pos": "noun",
+"senses": [
+"A minimal operating system kernel offering basic mechanisms rather than abstract services."
+],
+"ety": "From micro- + kernel.",
+"examples": [],
+"p": null
+},
+{
+"w": "scalability",
+"pos": "noun",
+"senses": [
+"The property of being scalable."
+],
+"ety": "From scale + -ability or scalable + -ity.",
+"examples": [],
+"p": "skay-luh-BIL-uh-tee"
+},
+{
+"w": "polycyclic",
+"pos": "adjective",
+"senses": [
+"Involving more than one cycle."
+],
+"ety": "From poly- + cyclic.",
+"examples": [],
+"p": null
+},
+{
+"w": "pozzolan",
+"pos": "noun",
+"senses": [
+"Any material which, when combined with calcium hydroxide, exhibits cementitious properties; often used as an extender with Portland cements."
+],
+"ety": "From Italian pozzolana.",
+"examples": [
+"Both are what are called pozzolans, reactive materials that help make the concrete stronger."
+],
+"p": null
+},
+{
+"w": "winker",
+"pos": "noun",
+"senses": [
+"A person or an animal that winks (“blinks with one eye; blinks with one eye as a message, signal, or suggestion, usually with an implication of conspiracy”).",
+"A person who connives with another; a conniver.",
+"Synonym of turn signal (“each of the flashing lights on each side of a vehicle which is used to indicate that the vehicle is moving left or right”); a blinker, an indicator.",
+"A small bellows in an organ, regulated by a spring, which controls variations of wind pressure."
+],
+"ety": "From wink (“blinking of only one eye”) + -er (suffix forming agent nouns).",
+"examples": [],
+"p": "WING-ker"
+},
+{
+"w": "ultramontane",
+"pos": "adjective",
+"senses": [
+"From the other side of a mountain range, particularly the Alps."
+],
+"ety": "Borrowed from Middle French ultramontain, from Late Latin ultramontanus.",
+"examples": [
+"He was slenderly provided with means for his ultramontane journey; and he resolved to save all he could in Italy, that he might not be restricted when among foreigners."
+],
+"p": null
+},
+{
+"w": "unsifted",
+"pos": "adjective",
+"senses": [
+"Not having been sifted."
+],
+"ety": "From un- + sifted.",
+"examples": [
+"If you bake with unsifted flour you don't know how much you are using because it might be packed down or very fluffy."
+],
+"p": null
+},
+{
+"w": "shunga",
+"pos": "noun",
+"senses": [
+"A style of Japanese erotic art"
+],
+"ety": "From Japanese 春画, from Middle Chinese 春 (t͡ʃʰwin \"spring\", by extension \"sexual\", \"erotic\") + 畫 (hwɛ̀ \"painting\").",
+"examples": [
+"The works confound stereotypes of Japanese etiquette, even as they update the tradition of the anatomically explicit shunga print."
+],
+"p": null
+},
+{
+"w": "flanged",
+"pos": "adjective",
+"senses": [
+"Having one or more flanges."
+],
+"ety": "From flange + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "casuarina",
+"pos": "noun",
+"senses": [
+"Any of numerous trees, of the genera Casuarina and Allocasuarina, having segmented needle-like leaves; especially the ironwood and beefwood; she-oak."
+],
+"ety": "From the genus name, ultimately a derivative of Malay kasuari (“cassowary”), from the resemblance of the leaves to the bird's feathers.",
+"examples": [],
+"p": "kas-oo-uh-REE-nuh"
+},
+{
+"w": "ginner",
+"pos": "noun",
+"senses": [
+"A person who operates a cotton gin.",
+"A cotton ginning plant."
+],
+"ety": "From gin + -er.",
+"examples": [
+"Cotton cloth was currency in Mongol China; in such a market, a gin that could be operated by one ginner replaced the productive but labor-intensive two-person model."
+],
+"p": null
+},
+{
+"w": "electrospun",
+"pos": "adjective",
+"senses": [
+"Manufactured by means of electrospinning"
+],
+"ety": "From electro- + spun.",
+"examples": [],
+"p": null
+},
+{
+"w": "storeman",
+"pos": "noun",
+"senses": [
+"A warehouseman."
+],
+"ety": "From store + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "cambion",
+"pos": "noun",
+"senses": [
+"The half-demon offspring of either an incubus and a female human or a succubus and a male human."
+],
+"ety": "From Late Latin cambio (“I exchange”). Doublet of change.",
+"examples": [],
+"p": null
+},
+{
+"w": "phosphine",
+"pos": "noun",
+"senses": [
+"Chrysaniline, often in the form of a salt."
+],
+"ety": "From phosph- + -ine.",
+"examples": [],
+"p": "FOS-feen"
+},
+{
+"w": "affiche",
+"pos": "noun",
+"senses": [
+"A written or printed notice to be posted, as on a wall; a poster; a placard."
+],
+"ety": "Borrowed from French affiche.",
+"examples": [],
+"p": null
+},
+{
+"w": "onscreen",
+"pos": "adjective",
+"senses": [
+"As seen on a screen (as of television, film, or computer) rather than in real life."
+],
+"ety": "From on + screen.",
+"examples": [
+"The two actors had a very realistic onscreen romance, but in reality they couldn't stand each other."
+],
+"p": null
+},
+{
+"w": "shahanshah",
+"pos": "noun",
+"senses": [
+"King of kings; a title given to the rulers of ancient Persia and sometimes of Armenia."
+],
+"ety": "Borrowed from Classical Persian شَاهَنْشَاه (šāhanšāh), from Middle Persian 𐭬𐭫𐭪𐭠𐭭 𐭬𐭫𐭪𐭠 (mlkʾn mlkʾ /⁠šāhān šāh⁠/, “king of kings”), which see for more.",
+"examples": [],
+"p": null
+},
+{
+"w": "supernaturalism",
+"pos": "noun",
+"senses": [
+"The quality or condition of being supernatural.",
+"A belief in the doctrine of supernatural or divine agency as manifested in the world, in human events, religious revelation, miracles, etc."
+],
+"ety": "From supernatural + -ism.",
+"examples": [
+"More tragic, too, is the supernaturalism of the ancient dramatist. Darius, evoked from Hades to bring relief to the desperate condition of his realm, announces a yet greater calamity to befall his people."
+],
+"p": null
+},
+{
+"w": "melos",
+"pos": "noun",
+"senses": [
+"The melody in Ancient Greek music."
+],
+"ety": "From Ancient Greek μέλος (mélos).",
+"examples": [],
+"p": null
+},
+{
+"w": "hopple",
+"pos": "noun",
+"senses": [
+"A fetter for horses or cattle when turned out to graze."
+],
+"ety": "From hop; compare hobble.",
+"examples": [],
+"p": "HOP-ul"
+},
+{
+"w": "tertian",
+"pos": "noun",
+"senses": [
+"A tertian fever.",
+"A cask of a certain size; its volume used as a measure of capacity (one-third of a tun's).",
+"A Jesuit going through tertianship."
+],
+"ety": "From Middle English tertiān, terciān, terciāne (adjective and noun), originally often as part of the collocation fever cum terciane, after Latin febris cum tertiānā. Compare the \"third\" essence of tertiary. By surface analysis, terti- + -an.",
+"examples": [
+"And although we feele it not, it is not to bee doubted, if a continuall ague may in the end suppresse our mind, a tertian will also (according to her measure and proportion) breed some alteration in it.",
+"He died of the slow fever call'd the tertian, / And left his widow to her own aversion."
+],
+"p": null
+},
+{
+"w": "salivation",
+"pos": "noun",
+"senses": [
+"The process of producing saliva."
+],
+"ety": "From Latin salīvātiō.",
+"examples": [],
+"p": "sal-uh-VAY-shun"
+},
+{
+"w": "transitionary",
+"pos": "adjective",
+"senses": [
+"Transitional."
+],
+"ety": "From transition + -ary.",
+"examples": [],
+"p": null
+},
+{
+"w": "kriek",
+"pos": "noun",
+"senses": [
+"A Belgian beer made by fermenting lambic with sour morello cherries."
+],
+"ety": "Borrowed from Dutch kriek.",
+"examples": [],
+"p": "kreek"
+},
+{
+"w": "buttock",
+"pos": "noun",
+"senses": [
+"Each of the two large fleshy halves of the posterior part of the body between the base of the back, the perineum, and the top of the legs."
+],
+"ety": "Inherited from Middle English buttok, probably from Old English buttuc (“end; end piece”; also, “short piece of land”). Attested with its current anatomical meaning since 1300. A diminutive form of what is presumably the Old English precursor of butt + -ock (diminutive suffix).",
+"examples": [],
+"p": "BUT-uk"
+},
+{
+"w": "dater",
+"pos": "noun",
+"senses": [
+"A date-stamping device."
+],
+"ety": "From date + -er.",
+"examples": [],
+"p": "DAY-ter"
+},
+{
+"w": "limpy",
+"pos": "adjective",
+"senses": [
+"Having or resembling a limp."
+],
+"ety": "From limp + -y.",
+"examples": [
+"The arguments ended, I would hear Dad's limpy gait coming up the stairs."
+],
+"p": null
+},
+{
+"w": "aventurine",
+"pos": "noun",
+"senses": [
+"A kind of brownish glass containing gold-coloured spangles."
+],
+"ety": "Borrowed from French aventurine, from Italian avventurino, from avventurare (“to venture; to make lucky or prosperous”), from avventura (“chance; adventure, venture”) + -are (suffix forming the infinitive of most regular verbs), apparently so named because it was discovered by accident in Murano, Italy, when brass or copper filings were dropped into melted glass (see, however, the 1843 quotation).",
+"examples": [],
+"p": "uh-VEN-chuh-rin"
+},
+{
+"w": "juiced",
+"pos": "adjective",
+"senses": [
+"That has had the juice extracted."
+],
+"ety": "From juice + -d.",
+"examples": [],
+"p": null
+},
+{
+"w": "garganey",
+"pos": "noun",
+"senses": [
+"A small dabbling duck, Anas querquedula, that breeds in much of Europe and western Asia, and winters in Africa."
+],
+"ety": "From the Italian/Lombard language word gargenei, variant of garganello, by dissimilation of earlier *gargalella, diminutive of *gargala, ultimately from Late Latin gargala (“tracheal artery”), from the root *garg (“throat”), imitative of gargling, see also Ancient Greek γαργαρεών (gargareṓn, “uvula, trachea”). The English usage owes its origins to Conrad Gesner, who used the Italian name in the third volume of his Historiae Animalium (History of Animals) of 1555.",
+"examples": [],
+"p": null
+},
+{
+"w": "transcriber",
+"pos": "noun",
+"senses": [
+"A person who transcribes; a transcriptionist."
+],
+"ety": "From transcribe + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "germline",
+"pos": "noun",
+"senses": [
+"Those cells of an individual that have genetic material that could be passed to offspring; the source of gametes."
+],
+"ety": "From germ + line.",
+"examples": [],
+"p": null
+},
+{
+"w": "unilateralism",
+"pos": "noun",
+"senses": [
+"A tendency of nations to act on their own, or with only minimal consultation and involvement with other nations."
+],
+"ety": "From unilateral + -ism.",
+"examples": [],
+"p": null
+}
+]

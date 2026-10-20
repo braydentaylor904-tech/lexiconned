@@ -1,0 +1,557 @@
+[
+{
+"w": "authenticate",
+"pos": "verb",
+"senses": [
+"To render authentic; to give authority to, by the proof, attestation, or formalities required by law, or sufficient to entitle to credit.",
+"To prove authentic; to determine as real and true."
+],
+"ety": "Borrowed from Medieval Latin authenticō. By surface analysis, authentic + -ate (verb-forming suffix).",
+"examples": [
+"He didn’t manage to authenticate the portrait: it’s probably a fake.",
+"The server could not authenticate the request."
+],
+"p": "aw-THEN-tih-kayt"
+},
+{
+"w": "passageway",
+"pos": "noun",
+"senses": [
+"A covered walkway, between rooms or buildings.",
+"Any way for passing in, out or through something."
+],
+"ety": "From passage + way.",
+"examples": [
+"The door of the twins' room opposite was open; a twenty-watt night-light threw a weak yellow glow into the passageway. David could hear the twins breathing in time with each other.",
+"The units have transverse seats, two and three astride the passageway with single or double longitudinal seats alongside the two entrance vestibules in each car."
+],
+"p": "PA-sij-way"
+},
+{
+"w": "descanso",
+"pos": "noun",
+"senses": [
+"A cross placed at the site of a violent, unexpected death, in memoriam."
+],
+"ety": "Borrowed from Spanish descanso (“place of rest, as of a funeral procession”).",
+"examples": [
+"The highways of the USA are littered with descansos, silent reminders of automobile accidents."
+],
+"p": "des-KAHN-soh"
+},
+{
+"w": "welkin",
+"pos": "noun",
+"senses": [
+"The sky which appears to an observer on the Earth as a dome in which celestial bodies are visible; the firmament.",
+"The upper atmosphere occupied by clouds, flying birds, etc."
+],
+"ety": "Inherited from Middle English welkne (“weather; heavens; (earlier) cloud”), from Old English wolcnu (“sky, heavens”), plural form of wolcn (“cloud”), from Proto-West Germanic *wolkn (“cloud”), from Proto-Germanic *wulkną (“cloud”), possibly from Proto-Indo-European *wĺ̥ɡ-no-m, from *welg- (“damp; wet”). Cognate with Dutch wolk (“cloud”), German Wolke (“cloud”).",
+"examples": [
+"I've seen the moving stars / Shoot rapidly athwart the sombre sky, / Red fiery meteors in the welkin blaze, / And sheeted lightnings gleam, but ne'er before / Saw I a sight like this.",
+"Which, by the welkin and its stars, you would not be slow in avenging, Master Christian.",
+"I look out at some early hour of the day, and see a fine, perfect rainbow, bright with promise, gloriously spanning the beclouded welkin of life."
+],
+"p": "WEL-kun"
+},
+{
+"w": "lovey",
+"pos": "noun",
+"senses": [
+"An informal mode of address (associated most often with actors and the like).",
+"A baby's toy, blanket, or other object of affection."
+],
+"ety": "From love + -y.",
+"examples": [
+"The number one I hope to reap / Depends upon the tears you weep / So cry, lovey, cry",
+"Young children need to have certain love objects or “loveys” such as teddy bears around all the time.",
+"A lovey can be a comfort to your child and ease the pain of separation."
+],
+"p": "LUV-ee"
+},
+{
+"w": "cumulus",
+"pos": "noun",
+"senses": [
+"A heap or mound.",
+"A large white, puffy cloud that develops through convection."
+],
+"ety": "Learned borrowing from Latin cumulus. Doublet of comble. Sense 2 (“type of cloud”) was coined by the British chemist and amateur meteorologist Luke Howard (1772–1864): see the 1803 quotation.",
+"examples": [
+"There were some new cumuli in the east, out above the water, and they began to take the late afternoon sun."
+],
+"p": "KYOO-myuh-lus"
+},
+{
+"w": "unbidden",
+"pos": "adjective",
+"senses": [
+"not invited, requested or asked for"
+],
+"ety": "From un- + bidden.",
+"examples": [
+"The words of the spell rose unbidden in his throat. He opened his mouth as in a dream, shaping it around the first barbaric syllable."
+],
+"p": "un-BID-un"
+},
+{
+"w": "mirepoix",
+"pos": "noun",
+"senses": [
+"A combination of diced onions, carrots, celery and herbs sautéed in oil or butter as used in French cooking."
+],
+"ety": "Borrowed from French mirepoix, named after Gaston de Lévis, duc de Mirepoix (1699–1757).",
+"examples": [
+"The Mirepoix is from this moment complete.",
+"Trim off superfluous fat, rub over the outside of the meat with salt and flour, and set it upon the mirepoix.",
+"Classic seasoning combinations include mirepoix, matignon, marinades, oignon piqué, and oignon brûlé."
+],
+"p": "meer-PWAH"
+},
+{
+"w": "prosumer",
+"pos": "noun",
+"senses": [
+"A person in postindustrial society who combines the economic roles of producer and consumer."
+],
+"ety": "Blend of producer + consumer, coined by futurologist Alvin Toffler in his book The Third Wave (1980). Concept based on suggestion by Marshall McLuhan and Barrington Nevitt in their 1972 book Take Today (p. 4) that consumers would take on producer roles in mass customization.",
+"examples": [
+"During the First Wave most people consumed what they themselves produced. They were neither producers nor consumers in the usual sense. They were instead what might be called \"prosumers.\""
+],
+"p": "proh-SYOO-muh"
+},
+{
+"w": "hippopotamus",
+"pos": "noun",
+"senses": [
+"A semi-aquatic, herbivorous, African hoofed mammal of the family Hippopotamidae.",
+"The common hippopotamus (Hippopotamus amphibius)."
+],
+"ety": "From Latin and New Latin hippopotamus, from Ancient Greek ἱπποπόταμος (hippopótamos), from ἵππος (híppos, “horse”) (English hippo-) + ποταμός (potamós, “river”). First attested in the 1560s. Displaced displaced English nicker (from native Old English nicor) and river horse.",
+"examples": [
+"These were the first hippopotami that we had ever seen, and, to judge by their insatiable curiosity, I should judge that we were the first white men that they had ever seen."
+],
+"p": "hip-uh-PAH-tuh-mus"
+},
+{
+"w": "parch",
+"pos": "verb",
+"senses": [
+"To burn the surface of, to scorch.",
+"To roast, as dry grain.",
+"To dry to extremity; to shrivel with heat.",
+"To be very thirsty.",
+"To become superficially burnt; to become sunburned."
+],
+"ety": "From Middle English parchen, paarchen (“to parch; dry; roast”), of uncertain origin. Perhaps a variant of Middle English perchen (“to roast”).",
+"examples": [
+"The sun today could parch cement.",
+"Ye shall eat neither bread, nor parched corn.",
+"The patient’s mouth is parched from fever."
+],
+"p": "parch"
+},
+{
+"w": "crusted",
+"pos": "adjective",
+"senses": [
+"Having or consisting of a crust.",
+"Having a hardened or rough demeanor; crusty or gruff.",
+"Extremely conservative; hidebound; firmly established and inflexible.",
+"Of wine, aged and full of sediment."
+],
+"ety": "From crust + -ed.",
+"examples": [
+"The snow had all fallen from the trees, and the snow was very crusted by the action of the sun by day and succeeding frost at night, but not sufficiently to bear our weight.·",
+"Concentric crusted structure may be formed in very different ways .",
+"Theories explaining infiltration into layered or crusted soils have been developed ."
+],
+"p": "KRUS-tid"
+},
+{
+"w": "lecher",
+"pos": "noun",
+"senses": [
+"A lecherous person: someone given to excessive sexual activity or debauchery."
+],
+"ety": "From Middle English lechour, from Old French lecheor (“glutton, sensualist, libertine”) , from Old French lecher, lechier, lekier, lescher (“to lick, live in gluttony or sensuality”), from Old Frankish *likkōn (“to lick”), from Proto-Germanic *likkōną (“to lick”), from Proto-Indo-European *leyǵʰ- (“to lick”). More at lick.",
+"examples": [
+"The comedies work in very obvious ways to feminize this socially-ominous triad of young fops, old lechers, and greedy businessmen."
+],
+"p": "LECH-er"
+},
+{
+"w": "kokutai",
+"pos": "noun",
+"senses": [
+"The national essence and character of Japan viewed as conforming to Shinto-Confucian ideals, with the emperor as its ethical, spiritual, cultural and political center.",
+"The ideology centered on the principle of kokutai."
+],
+"ety": "Borrowed from Japanese 国体(こくたい) (kokutai, literally “national character”).",
+"examples": [
+"In response to the international communist movement, the Peace Preservation Law was enacted to criminalize attempts to change the Japanese kokutai."
+],
+"p": "koh-koo-TY"
+},
+{
+"w": "sieve",
+"pos": "noun",
+"senses": [
+"A device with a mesh, grate, or otherwise perforated bottom to separate, in a granular material, larger particles from smaller ones, or to separate solid objects from a liquid.",
+"A process, physical or abstract, that arrives at a final result by filtering out unwanted pieces of input from a larger starting set of input.",
+"A person, or their mind, that cannot remember things or is unable to keep secrets."
+],
+"ety": "From Middle English sive, syfe, from Old English sife, from Proto-West Germanic *sibi (“sieve”), from Proto-Indo-European *seyp-, *seyb- (“to pour, sieve, strain, run, drip”). Akin to German Sieb, Dutch zeef, Proto-Slavic *sito (Russian си́то (síto), сев (sev), се́ять (séjatʹ)).",
+"examples": [
+"Use the sieve to get the pasta from the water.",
+"The philosopher Demonax said of two dunces, 'one appeared to be milking a he-goat while the other was holding a sieve for him.'",
+"Given a list of consecutive numbers starting at 1, the Sieve of Eratosthenes algorithm will find all of the prime numbers."
+],
+"p": "siv"
+},
+{
+"w": "grandkid",
+"pos": "noun",
+"senses": [
+"A grandchild."
+],
+"ety": "From grand- + kid.",
+"examples": [
+"They love spending time with all six of their grandkids, and they carry the photos to prove it."
+],
+"p": "GRAND-kid"
+},
+{
+"w": "spoilery",
+"pos": "adjective",
+"senses": [
+"Involving or relating to spoilers (disclosures of a story's twists or ending)."
+],
+"ety": "From spoiler + -y.",
+"examples": [
+"I responded to a call for the chance for an advanced preview of this issue with the caveat that I post my initial thoughts to Facebook in a non-spoilery way as soon as possible."
+],
+"p": "SPOY-luh-rih"
+},
+{
+"w": "dicey",
+"pos": "adjective",
+"senses": [
+"Fraught with danger.",
+"Of uncertain, risky outcome.",
+"Of doubtful or uncertain efficacy, provenance, etc.; dodgy."
+],
+"ety": "From dice + -y.",
+"examples": [
+"This was a dicey stratagem because all too often the support Britain rendered played into Zanu-PF's anti-colonial constructions.",
+"Devouring the flesh of animals killed on roadways can be a bit dicey.",
+"As if I'm not a bit past that, Clem thought, as if with his dicey ticker and all he shouldn′t be taking life pretty quietly, instead of waking with the old memoroes disturbing him."
+],
+"p": "DY-see"
+},
+{
+"w": "baijiu",
+"pos": "noun",
+"senses": [
+"A clear Chinese distilled alcoholic beverage, generally distilled from sorghum and about 40–60% alcohol by volume."
+],
+"ety": "From the Hanyu Pinyin romanization of Mandarin 白酒 (báijiǔ, “white alcohol”), where \"white\" refers to its clearness. Compare huangjiu (“yellow alcohol”).",
+"examples": [
+"He took another sip of baijiu from the bottle, shaking his head at the taste."
+],
+"p": "BY-joo"
+},
+{
+"w": "chary",
+"pos": "adjective",
+"senses": [
+"Careful, cautious, shy, wary.",
+"Excessively particular or fussy about details; fastidious.",
+"Not disposed to give freely; not lavish; frugal, sparing."
+],
+"ety": "From Middle English chari, charre, charri, chary, Early Middle English cearig, chariȝ (“concerned with, diligent; sad, sorrowful; of a person: cherished, loved”), from Old English ċeariġ (“careful; pensive; chary, wary; anxious, sad, sorrowful; dire, grievous”), from Proto-West Germanic *karag (“anxious; sad”), from Proto-Germanic *karō + *-gaz, ultimately from Proto-Indo-European *ǵeh₂r- (“exclamation; voice”) + *-kos (suffix forming adjectives with the meaning ‘pertaining to; typical of’)); analysable as care + -y. The English word is cognate with Danish karrig (“miserly, stingy”), Dutch kar",
+"examples": [
+"I should have been chary of discussing my guardian too freely with her; but I should have gone on with the subject so far as to describe the dinner in Gerrard-street, if we had not then come into a sudden glare of gas.",
+"The latter of these conceptions of law is the one that prevails in current science such as avoids metaphysical insinuation, and, chary as to a priori principles and methods, proceeds empirically and inductively.",
+"When Lord Berek speaks with you and your companions alone, as he must, be chary in your replies. If you are at any time uncertain of what may be said, permit me to answer in your stead."
+],
+"p": "CHAIR-ree"
+},
+{
+"w": "qawwali",
+"pos": "noun",
+"senses": [
+"A style of Muslim devotional music, especially among the South Asian Sufis, accompanied by drums and harmonium.",
+"A song in this style."
+],
+"ety": "From Urdu قوالی (qawwālī), from Classical Persian قوالی (qawwālī).",
+"examples": [
+"They are singing not a religious qawwali but its secular and lay cousin."
+],
+"p": "kuh-WAH-lee"
+},
+{
+"w": "ichor",
+"pos": "noun",
+"senses": [
+"The liquid said to flow in place of blood in the veins of the gods.",
+"The blood of human beings or animals; also (obsolete) the clear, fluid portion of blood; blood plasma, plasma.",
+"A blood-like fluid."
+],
+"ety": "Sense 1 (“liquid said to flow in place of blood in the veins of the gods”) is borrowed from Medieval Latin ichor, from Ancient Greek ῑ̓χώρ (īkhṓr, “fluid running through the veins of gods, ichor; watery part of blood, lymph, serum; watery part of milk, whey; gravy; pus; naphtha”); further etymology unknown, probably from Pre-Greek. Sense 2.4 (“fetid, watery discharge from a sore”) is from Middle English icor, icore [and other forms], from Medieval Latin ichor; see further above.",
+"examples": [
+"They will not live / As shades but angle forward to enjoy / The pluck of life, the pressure of their ichor.",
+"Like snow fall you cry a silent storm. / Your tears paint rivers on this oaken wall / Amber nectar / misery ichor."
+],
+"p": "EYE-kor"
+},
+{
+"w": "shroff",
+"pos": "noun",
+"senses": [
+"A provider of financial services, especially a small-scale independent banker or money changer or (historical) a local expert at detecting bad coin.",
+"A cashier, especially for a car park.",
+"The office of such a cashier at a car park etc."
+],
+"ety": "An British Indian variant of saraf, borrowed from Hindustani (Hindi सर्राफ़ (sarrāf) / Urdu صَرَّاف (sarrāf) and Classical Persian صَرَّاف (sarrāf), from Arabic صَرَّاف (ṣarrāf).",
+"examples": [
+"The breakfast soon dispatch'd, they're off, To borrow money from a shroff.",
+"Racing leads to the shroff quicker than anything else.",
+"An assistant shroff of the Queen Mary Hospital faced Mr. J. Reynolds at Central yesterday charged with the larceny of $10."
+],
+"p": "shrawf"
+},
+{
+"w": "deathly",
+"pos": "adjective",
+"senses": [
+"Appearing as though dead, or on the verge of death.",
+"Deadly, fatal, causing death."
+],
+"ety": "From Middle English dethlich, from Old English dēaþlīċ, equivalent to death + -ly.",
+"examples": [
+"I rushed towards her, and embraced her with ardour; but the deathly languor and coldness of the limbs told me, that what I now held in my arms had ceased to be the Elizabeth whom I had loved and cherished."
+],
+"p": "DETH-lee"
+},
+{
+"w": "luigino",
+"pos": "noun",
+"senses": [
+"An imitation coin, based on the French petit louis, once used mostly as an ornament.",
+"The local currency of the internationally unrecognised micronation of Seborga, in northeastern Italy."
+],
+"ety": "Borrowed from Italian luigino, from luigi (“louis”) + -ino (diminutive suffix).",
+"examples": [
+"Really, how often do you need to figure out how many Seborga luiginos are equal to 800 Uzbekistan soms?"
+],
+"p": "loo-ee-JEE-noh"
+},
+{
+"w": "weblog",
+"pos": "noun",
+"senses": [
+"A website in the form of an ongoing journal."
+],
+"ety": "Coined by American blogger Jorn Barger in 1997.",
+"examples": [
+"A Weblog is updated as often as the writer decides and can include photographs and links to other sites around the Web. There are different ways to create a Weblog, and you do not need your own file server.",
+"The case of the Loufan landslide indicates how a mainstream journalist-blogger used his weblog to expose the cover-up of an accident in north-west China."
+],
+"p": "WEB-lawg"
+},
+{
+"w": "continuance",
+"pos": "noun",
+"senses": [
+"The action of continuing.",
+"The period during which something continues or goes on; duration."
+],
+"ety": "From Middle English continuance, contynuaunce, from Old French continuance, from continuer.",
+"examples": [
+"There is little to report of changes on the Great Eastern Line other than deceleration, doubtless explained by continuance of the electrification work."
+],
+"p": "kun-TIN-yoo-uns"
+},
+{
+"w": "argent",
+"pos": "noun",
+"senses": [
+"The white or silver tincture on a coat of arms."
+],
+"ety": "From Middle English argent, from Old French argent m (“silver”), from Latin argentum n (“white money, silver”).",
+"examples": [
+"The metals are gold and silver, these being termed \"or\" and \"argent\"."
+],
+"p": "AR-junt"
+},
+{
+"w": "fraulein",
+"pos": "noun",
+"senses": [
+"A young German woman."
+],
+"ety": "Borrowed from German Fräulein.",
+"examples": [
+"Waiters are in button-downs, and waitresses wear full-on fraulein garb."
+],
+"p": "froy-line"
+},
+{
+"w": "polarize",
+"pos": "verb",
+"senses": [
+"To cause to have a polarization.",
+"To cause a group to be divided into extremes."
+],
+"ety": "From French polariser, equivalent to polar + -ize.",
+"examples": [
+"To polarize, and indeed, to artificially distinguish between the secular and the religious is to dismiss the inarguable Judeo-Christian foundation of contemporary secular institutions.",
+"The deal has polarized Twitter employees, users, and regulators over the power tech giants wield in determining the parameters of acceptable discourse on the internet and how those companies enforce their rules."
+],
+"p": "POH-luh-rize"
+},
+{
+"w": "constancy",
+"pos": "noun",
+"senses": [
+"The quality of being constant; steadiness or faithfulness in action, affections, purpose, etc.",
+"An unchanging quality or characteristic of a person or thing."
+],
+"ety": "Borrowed from Latin cōnstantia.",
+"examples": [
+"Punctuality is a species of Constancy, a very unfashionable quality in a Lady.",
+"Constancy of character is what is chiefly valued and sought for by naturalists.",
+"The overall retention rate of 68 per cent indicates a robust constancy of the linguistic features investigated."
+],
+"p": "KAHN-stun-see"
+},
+{
+"w": "prang",
+"pos": "noun",
+"senses": [
+"An accident involving a motor vehicle, typically minor and without casualties."
+],
+"ety": "Originally World War II Royal Air Force slang; probably imitative.",
+"examples": [
+"The typical prang cost a few hundred dollars in panelbeating charges.",
+"If people drove like that in Australia there would be constant prangs.",
+"The drive host, Mark Day, recalls the sinking feeling as he covered an accident on the Tullamarine expressway and wondered what commuters in Sydney would think about hearing all the details of the prang."
+],
+"p": "PRAYNG"
+},
+{
+"w": "privateer",
+"pos": "noun",
+"senses": [
+"A privately owned warship that acted under a letter of marque to attack enemy merchant ships and take possession of their cargo.",
+"An officer or any other member of the crew of such a ship; a government-sanctioned pirate.",
+"An advocate or beneficiary of privatization of a government service or activity."
+],
+"ety": "From private + -eer probably after volunteer, shortened from the original term \"private man-of-war\".",
+"examples": [
+"Kidd soon threw off the character of a privateer and became a pirate.",
+"This is a major victory, not only for CUPW because it will deter profit-hungry privateers from taking work away from CUPW members, but also because it gives union protection to those employed by the privateers.",
+"Privateers, such as Osborne and Gaebler, promise that good competition will not become bad — will not become cutthroat competition — if good competition is \"carefully structured and managed;\""
+],
+"p": "pry-vuh-TEER"
+},
+{
+"w": "romanticism",
+"pos": "noun",
+"senses": [
+"A romantic quality, spirit or action."
+],
+"ety": "From romantic + -ism.",
+"examples": [
+"On at least ONE day of the week the Jew could conjure up a Messianic era where he breathed freely and happily. This romanticism is voiced in the Sabbath-songs of the Jews throughout the Diaspora.",
+"Sure, maybe. We know — have long known — that romanticism and fatalism are dialectical lovers."
+],
+"p": "roh-MAN-tih-sih-zum"
+},
+{
+"w": "replicator",
+"pos": "noun",
+"senses": [
+"Something capable of self-replication, like a gene or meme.",
+"A technological device that replicates physical objects."
+],
+"ety": "From replicate + -or.",
+"examples": [
+"We, alone on earth, can rebel against the tyranny of the selfish replicators.",
+"Why, this planet was still centuries away from developing such necessities as personal replicators or portable nano-intelligences..."
+],
+"p": "REP-lih-kay-ter"
+},
+{
+"w": "determinate",
+"pos": "adjective",
+"senses": [
+"Distinct, clearly defined.",
+"Fixed, determined, set, unvarying.",
+"Conclusive; decisive; positive.",
+"Of determined purpose; resolute."
+],
+"ety": "From Middle English determinate, determynat, determinat, from Latin dēterminātus, perfect passive participle of dēterminō (“to limit, set bounds”), see -ate (adjective-forming suffix) for more.",
+"examples": [
+"Quantity of words and a determinate number of feet.",
+"More determinate to do than skilfull how to do."
+],
+"p": "dih-TUR-mih-nut"
+},
+{
+"w": "swole",
+"pos": "adjective",
+"senses": [
+"Full (of something); bursting with.",
+"Extremely proud or arrogant.",
+"Upset; experiencing strong negative emotion."
+],
+"ety": "From earlier swoll, from Middle English swal, swall, swalle (simple past tense), and suoll, suolle, swalle, swol, swole, swolle, iswolle, yswolle (past participle), inflected forms of swellen (“to swell”), from Old English sweall (simple past tense), from Proto-Germanic *swall, first and third person singular preterite of Proto-Germanic *swellaną (“to swell”); further origin uncertain.",
+"examples": [
+"Sourdough went on to explain the occasion for the festivity. \"The Popplewells are so swole with pride now they got the upstairs house finished that they got to give a house-warmin'.\"",
+"Honey, I'm all swole up with pride. Here's the horrible part. You're going to have to stay here and meet Norman.",
+"Sweating and red on the dance floor / without meat hooks aimed at my skin, / except for one woman, I ducked / into a room swole with men in work boots."
+],
+"p": "swohl"
+},
+{
+"w": "pidge",
+"pos": "noun",
+"senses": [
+"A pigeonhole."
+],
+"ety": "Clipping of pigeonhole. First attested in the early 2000s; the verb is attested earlier than the noun.",
+"examples": [
+"You must hand your assigned work into my pidge at Nuffield by 5pm the Thursday before. Don’t be late.",
+"Toynbee examined the book with interest. 'He said it was put in your pidge?' he said."
+],
+"p": "pij"
+},
+{
+"w": "snarky",
+"pos": "adjective",
+"senses": [
+"Snide and sarcastic; usually out of irritation."
+],
+"ety": "From snark + -y; 1906, as “irritable”, from snark (“to snort”), by onomatopoeia (1866). Compare Low German snarken (“to snore”), North Frisian snarke, Swedish snarka. In the sense “sarcastic” popularized in the late 1990s.",
+"examples": [
+"In spite of its inherent banality, and because my editors let me relieve my dyspepsia by writing snarky captions, it is regularly one of the more popular destinations on the Globe and Mail website."
+],
+"p": "SNAR-kee"
+},
+{
+"w": "catio",
+"pos": "noun",
+"senses": [
+"An outdoor enclosure for cats."
+],
+"ety": "Blend of cat + patio.",
+"examples": [
+"And we have a catio of sorts, a small screened porch built by the previous owner for humans.",
+"She made a “fence” of them for Varmint inside the wrought iron white fence that bordered the patio so that it was his “catio.”",
+"They're happy to hang out on what we call their “catio” all day, lazing on the couch while glowering at chipmunks and letting the sun warm the downy fur on their bellies."
+],
+"p": "KAT-ee-oh"
+}
+]

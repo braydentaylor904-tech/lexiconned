@@ -1,0 +1,446 @@
+[
+{
+"w": "gasper",
+"pos": "noun",
+"senses": [
+"A person or animal that gasps.",
+"Something that causes one to gasp in shock, suspense, or awe."
+],
+"ety": "From gasp + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "buildout",
+"pos": "noun",
+"senses": [
+"The construction and implementation of a system.",
+"The growth, development, or expansion of something."
+],
+"ety": "Deverbal from build out.",
+"examples": [],
+"p": null
+},
+{
+"w": "micromachined",
+"pos": "adjective",
+"senses": [
+"machined using a micromachine"
+],
+"ety": "From micro- + machined.",
+"examples": [],
+"p": null
+},
+{
+"w": "phoner",
+"pos": "noun",
+"senses": [
+"A broadcast interview conducted by telephone."
+],
+"ety": "From phone + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "kimura",
+"pos": "noun",
+"senses": [
+"An armlock where the implementer isolates the opponent's arm and torques the shoulder in order to cause pain or injury."
+],
+"ety": "Named after Masahiko Kimura, who used it to defeat Hélio Gracie in a famous fight in 1951.",
+"examples": [],
+"p": null
+},
+{
+"w": "hypoglycemic",
+"pos": "adjective",
+"senses": [
+"Causing hypoglycemia."
+],
+"ety": "From hypoglycemia + -ic.",
+"examples": [],
+"p": "hy-poh-gly-SEE-mik"
+},
+{
+"w": "dexamphetamine",
+"pos": "noun",
+"senses": [
+"Synonym of dextroamphetamine."
+],
+"ety": "From dex- + amphetamine.",
+"examples": [
+"Methamphetamine is more potent than dexamphetamine which is in turn more potent than its racemate amphetamine."
+],
+"p": null
+},
+{
+"w": "wigger",
+"pos": "noun",
+"senses": [
+"A maker of wigs."
+],
+"ety": "From wig + -er.",
+"examples": [],
+"p": "WIG-er"
+},
+{
+"w": "couverture",
+"pos": "noun",
+"senses": [
+"Chocolate prepared for covering cakes and sweets; a covering of such chocolate."
+],
+"ety": "Borrowed from French couverture. Doublet of coverture.",
+"examples": [],
+"p": "KOO-ver-choor"
+},
+{
+"w": "remembrancer",
+"pos": "noun",
+"senses": [
+"A person who reminds someone.",
+"A memento or souvenir.",
+"A recorder, or municipal judge.",
+"An officer of exchequer."
+],
+"ety": "From remembrance + -er.",
+"examples": [
+"I wonder, Dick, you did not put me in mind of sending for my own mattresses - But, if I had not been an ass, I should not have needed a remembrancer.",
+"Tribal chieftains in Africa had had official remembrancers about them; I was Ulick's remembrancer.",
+"Near a fortnight had passed before I attempted to restrain their affliction; for premature consolation is but the remembrancer of sorrow."
+],
+"p": null
+},
+{
+"w": "karambit",
+"pos": "noun",
+"senses": [
+"A small, curved Southeast Asian knife resembling a Sumatran tiger's claw."
+],
+"ety": "Borrowed from Minangkabau kurambik, karambiak.",
+"examples": [],
+"p": "ka-RAHM-bit"
+},
+{
+"w": "pratfall",
+"pos": "noun",
+"senses": [
+"A fall onto the buttocks.",
+"A humiliating mistake.",
+"A staged trip or fall, often for comedic purposes."
+],
+"ety": "From prat + fall.",
+"examples": [
+"The motivational speaker started with a pratfall so he could speak about the importance of getting back up."
+],
+"p": null
+},
+{
+"w": "jeweler",
+"pos": "noun",
+"senses": [
+"A person whose job is making, repairing or selling jewelry."
+],
+"ety": "From Middle English jueler, from Anglo-Norman jueler, or Old French juelier. By surface analysis, jewel + -er.",
+"examples": [],
+"p": "JOO-uh-ler"
+},
+{
+"w": "longarm",
+"pos": "noun",
+"senses": [
+"A free-motion sewing machine with an extended arm and frame for holding large quilts."
+],
+"ety": "From long + arm.",
+"examples": [],
+"p": null
+},
+{
+"w": "stewy",
+"pos": "adjective",
+"senses": [
+"Stew-like, similar to stew."
+],
+"ety": "From stew + -y.",
+"examples": [
+"All food is fetched in dixeys (large boilers), and tea, stew, and bacon are all cooked in turn in these, so if the orderlies don't wash them clean at dinner time we have greasy, stewy tea."
+],
+"p": null
+},
+{
+"w": "slike",
+"pos": "verb",
+"senses": [
+"To crawl; creep; slide."
+],
+"ety": "From Middle English sliken, from Old English *slīcan (“to crawl, slink”), from Proto-West Germanic *slīkan, from Proto-Germanic *slīkaną (“to creep, crawl”), from Proto-Indo-European *sleyg-, *sleyǵ- (“to glide, smooth, spread”). Cognate with German Low German slieken (“to slink, crawl”), German schleichen (“to creep, crawl, slink, sneak”), Old English slīcian (“to make sleek, slick, smooth, or glossy”).",
+"examples": [],
+"p": null
+},
+{
+"w": "artos",
+"pos": "noun",
+"senses": [
+"a loaf of leavened bread that is blessed during services in the Eastern Orthodox and Byzantine Rite Catholic churches."
+],
+"ety": "Borrowed from Ancient Greek ἄρτος (ártos, “leavened loaf”), probably from Mycenaean Greek 𐀀𐀵 (a-to), from the compound word 𐀀𐀵𐀡𐀦 (a-to-po-qo, “bakers”). Compare Greek αρτοποιός (artopoiós, “baker”).",
+"examples": [],
+"p": null
+},
+{
+"w": "seriation",
+"pos": "noun",
+"senses": [
+"the arrangement of things in a series",
+"the relative dating of archaeological artifacts in a chronological order"
+],
+"ety": "From seriate + -ion.",
+"examples": [],
+"p": null
+},
+{
+"w": "sohan",
+"pos": "noun",
+"senses": [
+"A traditional Persian brittle toffee made with saffron."
+],
+"ety": "Borrowed from Persian سوهان.",
+"examples": [],
+"p": null
+},
+{
+"w": "tsuba",
+"pos": "noun",
+"senses": [
+"The guard at the end of the grip of a Japanese sword or bladed weapon."
+],
+"ety": "Borrowed from Japanese 鍔 (つば, tsuba).",
+"examples": [],
+"p": "TSOO-buh"
+},
+{
+"w": "seropositive",
+"pos": "adjective",
+"senses": [
+"Of blood serum, testing positive for a given pathogen, especially HIV (HIV positive).",
+"Of a person or animal, having seropositive blood serum."
+],
+"ety": "From sero- + positive.",
+"examples": [
+"They offer individual and group counseling to seropositive individuals, street outreach education, and an educational workshop series for people at risk.",
+"Other tests (marked ‘+ +’ in Table 2C.8) are more sensitive in that they produce higher antibody titres but they do not detect substantially more seropositive individuals in a population."
+],
+"p": null
+},
+{
+"w": "hermaphrodite",
+"pos": "noun",
+"senses": [
+"A farm wagon convertible to multiple purposes."
+],
+"ety": "From Hermaphroditus, the mythical son of Hermes and Aphrodite, who merged bodies with a naiad, thereafter having both male and female qualities.",
+"examples": [],
+"p": "hur-MAF-ruh-dite"
+},
+{
+"w": "panfish",
+"pos": "noun",
+"senses": [
+"Any fish that is suitable for cooking in a frying pan by virtue of its size and taste."
+],
+"ety": "From pan + fish.",
+"examples": [
+"Panfish are caught primarily for eating, rather than for sport."
+],
+"p": null
+},
+{
+"w": "cobblestoned",
+"pos": "adjective",
+"senses": [
+"Cobbled; laid with cobblestones."
+],
+"ety": "From cobblestone + -ed.",
+"examples": [
+"Wandering away from the entrance to the restaurant, Sam stood by the fountain in the old cobblestoned square, looking at the church of Santa Maria..."
+],
+"p": null
+},
+{
+"w": "unpoliced",
+"pos": "adjective",
+"senses": [
+"Not policed; not subject to effective regulation"
+],
+"ety": "From un- + policed.",
+"examples": [],
+"p": null
+},
+{
+"w": "latimer",
+"pos": "noun",
+"senses": [
+"Synonym of interpreter."
+],
+"ety": "From Old French latimier, latinier (“interpreter”), etc. and directly from Vulgar Latin latimarus, from Latin latinarius (“interpreter, speaker of Latin”), from lingua Latina + -arius (“-ary”). Equivalent to Latin + -er and compare Latiner.",
+"examples": [],
+"p": "LAT-ih-mer"
+},
+{
+"w": "youngish",
+"pos": "adjective",
+"senses": [
+"Somewhat young."
+],
+"ety": "From young + -ish.",
+"examples": [
+"In spite of his youngish appearance, he had much experience.",
+"And our young – well, youngish, since the male cast is now 90% Adam’s apple – heroes have to stop him."
+],
+"p": null
+},
+{
+"w": "nodule",
+"pos": "noun",
+"senses": [
+"A small lump, often roughly hemispherical in shape; a small node."
+],
+"ety": "Borrowed from Latin nōdulus (“small knot”), from nōdus (“knot”). Doublet of nodulus.",
+"examples": [],
+"p": "NAH-jool"
+},
+{
+"w": "blader",
+"pos": "noun",
+"senses": [
+"A rollerblader."
+],
+"ety": "From blade + -er.",
+"examples": [
+"Safety equipment is important for bladers. The amount of padding you wear should always reflect the worst-case scenario for the type of skating that you are doing."
+],
+"p": null
+},
+{
+"w": "gullet",
+"pos": "noun",
+"senses": [
+"The throat or esophagus.",
+"The space between the teeth of a saw blade.",
+"A channel for water.",
+"A preparatory cut or channel in excavations, of sufficient width for the passage of earth wagons.",
+"The wide space under the pommel of a saddle; the hollow over the withers of a saddled animal."
+],
+"ety": "From Middle English golet, borrowed from Old French goulet, from Latin gula.",
+"examples": [],
+"p": "GUL-it"
+},
+{
+"w": "ferrous",
+"pos": "adjective",
+"senses": [
+"Of or containing iron.",
+"Of an element: iron, or in certain ways similar to iron. (Said mainly of iron group elements, in any sense of that term.)"
+],
+"ety": "From ferro- + -ous, from Latin ferreus directly or via French ferreux, from ferrum (“iron”) + -eus (“-ous: forming adjectives”).",
+"examples": [],
+"p": "FAIR-us"
+},
+{
+"w": "bathers",
+"pos": "noun",
+"senses": [
+"A swimsuit; a bathing costume."
+],
+"ety": "Abbreviation of bathing suit.",
+"examples": [
+"The bathers they wore looked sort of the same as now, but their hair was really different.",
+"No one here wore bathers. Both boys wore their homemade underpants, the brand name, ‘Sydney Flour’, emblazoned across the back, as old flour bags were not wasted, but recycled.",
+"I was looking at a pair of bathers to buy and talking about the life of the bathers and how to extend their life."
+],
+"p": null
+},
+{
+"w": "engraftment",
+"pos": "noun",
+"senses": [
+"The act of engrafting, or something engrafted."
+],
+"ety": "From engraft + -ment.",
+"examples": [],
+"p": null
+},
+{
+"w": "palla",
+"pos": "noun",
+"senses": [
+"A traditional Tuscan ball game played in the street."
+],
+"ety": "Borrowed from Italian palla (“ball”). Doublet of ball.",
+"examples": [],
+"p": null
+},
+{
+"w": "quarta",
+"pos": "noun",
+"senses": [
+"A traditional Portuguese unit of dry measure, equal to 3.2–4.8 L in different 19th-century contexts.",
+"A traditional Portuguese unit of mass, usually equivalent to 115 g."
+],
+"ety": "From Portuguese quarta, from Latin quartus (“fourth”), q.v., in reference to the units making up one-fourth of the alqueire (“Portuguese bushel”) or arrantel (“Portuguese pound”). Doublet of quart, quater, and cuaderon.",
+"examples": [],
+"p": null
+},
+{
+"w": "tinga",
+"pos": "noun",
+"senses": [
+"A Mexican dish made with shredded beef or chicken in a red chili sauce."
+],
+"ety": "Borrowed from Spanish tinga.",
+"examples": [],
+"p": null
+},
+{
+"w": "tanoa",
+"pos": "noun",
+"senses": [
+"A bowl for serving kava."
+],
+"ety": "Borrowed from Samoan tānoa or Fijian tanoa.",
+"examples": [],
+"p": "tuh-NOH-uh"
+},
+{
+"w": "serovar",
+"pos": "noun",
+"senses": [
+"A group of microorganisms characterised by a specific set of antigens."
+],
+"ety": "From sero- (“serum”) + clipping of variety.",
+"examples": [],
+"p": null
+},
+{
+"w": "kartel",
+"pos": "noun",
+"senses": [
+"A German industrial cartel.",
+"A Belgian political cartel."
+],
+"ety": "Borrowed from Dutch kartel.",
+"examples": [],
+"p": null
+},
+{
+"w": "tyred",
+"pos": "adjective",
+"senses": [
+"Having a certain number, or type, of tyre."
+],
+"ety": "From tyre + -ed.",
+"examples": [
+"The train arrives from the south at approximately 0830, and the terminal's electric, rubber-tyred gantry crane swings into action, removing the empty containers and loading full ones in their place."
+],
+"p": null
+}
+]

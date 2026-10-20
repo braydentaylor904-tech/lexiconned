@@ -1,0 +1,439 @@
+[
+{
+"w": "cingulate",
+"pos": "noun",
+"senses": [
+"Any mammal of the order Cingulata, an armadillo."
+],
+"ety": "From cingulum + -ate.",
+"examples": [],
+"p": null
+},
+{
+"w": "microfabrication",
+"pos": "noun",
+"senses": [
+"The technology used to fabricate components on a micrometer-sized scale; especially such components built on silicon wafers"
+],
+"ety": "From micro- + fabrication.",
+"examples": [],
+"p": null
+},
+{
+"w": "bioassay",
+"pos": "noun",
+"senses": [
+"The analysis of the biological activity of a substance, with reference to a standard preparation, using a culture of living cells, or a living creature."
+],
+"ety": "From bio- + assay.",
+"examples": [],
+"p": null
+},
+{
+"w": "hygienist",
+"pos": "noun",
+"senses": [
+"A person skilled in hygienics, but especially a dental assistant who cleans teeth etc"
+],
+"ety": "From hygiene + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "angulate",
+"pos": "adjective",
+"senses": [
+"Shaped with corners or angles."
+],
+"ety": "Borrowed from Classical Latin angulātus, from angulus (“angle”) + -ātus.",
+"examples": [],
+"p": "ANGG-yuh-lut"
+},
+{
+"w": "intervenor",
+"pos": "noun",
+"senses": [
+"One who intervenes, especially in a legal sense."
+],
+"ety": "From intervene + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "neoconservative",
+"pos": "noun",
+"senses": [
+"A supporter of neoconservatism."
+],
+"ety": "From neo- + conservative.",
+"examples": [
+"The neoliberals stand today in somewhat the position neoconservatives occupied a decade ago. Their ambition is to attain the influence in liberal politics that the neoconservatives have attained in conservative politics."
+],
+"p": null
+},
+{
+"w": "paedophilia",
+"pos": "noun",
+"senses": [
+"UK standard spelling of pedophilia."
+],
+"ety": "From paedo- + -philia.",
+"examples": [
+"Yes, really. Blanchard has expanded the DSM's \"paraphilia\" section (where crimes such as paedophilia and exhibitionism go) to include transvestic disorder."
+],
+"p": null
+},
+{
+"w": "indexer",
+"pos": "noun",
+"senses": [
+"A person or program which creates indexes."
+],
+"ety": "From index + -er.",
+"examples": [
+"Our \"title index\" (list of story titles) is falling behind. If you'd like to come by and help update it, call Mike at GCN."
+],
+"p": null
+},
+{
+"w": "yizkor",
+"pos": "noun",
+"senses": [
+"An Ashkenazi memorial prayer service for the dead."
+],
+"ety": "From Hebrew יִזְכּוֹר (literally “may [God] remember”), from the opening word of the service.",
+"examples": [],
+"p": "YIZ-ker"
+},
+{
+"w": "hayfield",
+"pos": "noun",
+"senses": [
+"A field of hay."
+],
+"ety": "From hay + field.",
+"examples": [],
+"p": null
+},
+{
+"w": "mashy",
+"pos": "adjective",
+"senses": [
+"Produced by crushing or bruising; resembling, or consisting of, a mash."
+],
+"ety": "From mash + -y.",
+"examples": [],
+"p": "MASH-ee"
+},
+{
+"w": "jilbab",
+"pos": "noun",
+"senses": [
+"A long, loose-fitting coat or similar garment worn by some Muslim women to fulfil hijab."
+],
+"ety": "Borrowed from Arabic جِلْبَاب (jilbāb).",
+"examples": [
+"Most Indonesian women started wearing the jilbab in the last decade, after the fall in 1998 of President Suharto, who had kept a close grip on Islamic groups."
+],
+"p": null
+},
+{
+"w": "rudderless",
+"pos": "adjective",
+"senses": [
+"Without a rudder.",
+"Lacking guidance or direction."
+],
+"ety": "From rudder + -less.",
+"examples": [
+"Their deaths were sobering not merely because of the searingly unbearable wrench of losing those two wonderful people, but because it left me exposed as rudderless.",
+"As Christian Wolmar said in RAIL 990, our railway is \"leaderless and rudderless\", and drifting inexorably towards the rocks of total chaos."
+],
+"p": null
+},
+{
+"w": "conjugation",
+"pos": "noun",
+"senses": [
+"The coming together of things; a union."
+],
+"ety": "Borrowed from Latin coniugātiō (“combining, connecting; conjugation”), from coniugō (“join, unite together”). Equivalent to conjugate + -ion.",
+"examples": [],
+"p": "kahn-juh-GAY-shun"
+},
+{
+"w": "tomatillo",
+"pos": "noun",
+"senses": [
+"A plant of the nightshade family originating in Mexico, Physalis philadelphica, cultivated for its tomato-like green to green-purple fruit surrounded by a thin papery skin."
+],
+"ety": "Borrowed from Spanish tomatillo, diminutive of tomate (“tomato”), ultimately from Classical Nahuatl tomatl.",
+"examples": [],
+"p": "toh-muh-TEE-yoh"
+},
+{
+"w": "calamari",
+"pos": "noun",
+"senses": [
+"Squid as food, especially cooked in the form of calamari rings.",
+"Squid, the mollusk."
+],
+"ety": "Borrowed from Italian calamari, plural of calamaro, from Latin calamarius, from calamus, from Ancient Greek κάλαμος (kálamos, “reed, ink pen”).",
+"examples": [],
+"p": "kal-uh-MAH-ree"
+},
+{
+"w": "stilt",
+"pos": "noun",
+"senses": [
+"Either of two poles with footrests that allow someone to stand or walk above the ground; used mostly by entertainers.",
+"A tall pillar or post used to support some structure; often above water.",
+"The handle of a plough."
+],
+"ety": "From Middle English stilte, stulte, from Old English *stilte, *stylte, from Proto-Germanic *stiltijǭ, *staltijǭ, *stultijǭ (“stilt”), from Proto-Germanic *stelt- (“to be stiff”). Akin to Danish stylte, Dutch stelt, German Stelze.",
+"examples": [],
+"p": "stilt"
+},
+{
+"w": "historicism",
+"pos": "noun",
+"senses": [
+"A theory that events are influenced by historical conditions, rather than by people.",
+"The use of historical styles in contemporary art."
+],
+"ety": "Calque of German Historismus, historic + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "perivascular",
+"pos": "adjective",
+"senses": [
+"Around or surrounding a blood vessel"
+],
+"ety": "From peri- + vascular.",
+"examples": [],
+"p": null
+},
+{
+"w": "economism",
+"pos": "noun",
+"senses": [
+"Working class political action that makes purely economic demands"
+],
+"ety": "From economy + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "cotija",
+"pos": "noun",
+"senses": [
+"A hard, dry cheese from Mexico."
+],
+"ety": "Named for the Mexican town of Cotija.",
+"examples": [
+"The namesake maize de cantina, one of the starters, is a big, sweet ear of local corn dripping with chipotle butter and glazed with melted cotija cheese."
+],
+"p": null
+},
+{
+"w": "intraoperative",
+"pos": "adjective",
+"senses": [
+"Happening during a surgical operation."
+],
+"ety": "From intra- + operative.",
+"examples": [],
+"p": null
+},
+{
+"w": "netroots",
+"pos": "noun",
+"senses": [
+"Grassroots political activism on the internet, especially on blogs."
+],
+"ety": "Blend of net + grassroots.",
+"examples": [],
+"p": "NET-roots"
+},
+{
+"w": "phosphorylate",
+"pos": "verb",
+"senses": [
+"To cause phosphorylation.",
+"To undergo phosphorylation."
+],
+"ety": "From phosphoryl + -ate (verb-forming suffix), or back-formation from phosphorylation.",
+"examples": [
+"The protein made by the viral src gene was so potent and hyperactive that it phosphorylated anything and everything around it."
+],
+"p": null
+},
+{
+"w": "nephritic",
+"pos": "noun",
+"senses": [
+"Someone with nephritis."
+],
+"ety": "From Middle English neufretic, from Medieval Latin nefreticus; compare Classical Latin nephrīticus; equivalent to nephritis + -ic = nephr- (“kidney”) + itis (“inflammation”) + -ic (“related”).",
+"examples": [],
+"p": "nef-RIH-tik"
+},
+{
+"w": "infowar",
+"pos": "noun",
+"senses": [
+"information warfare"
+],
+"ety": "From info + war.",
+"examples": [],
+"p": null
+},
+{
+"w": "crayfish",
+"pos": "noun",
+"senses": [
+"Any of numerous freshwater decapod crustaceans in superfamily Astacoidea or Parastacoidea, resembling the related lobster but usually much smaller.",
+"A freshwater crustacean (family Cambaridae), sometimes used as an inexpensive seafood or as fish bait.",
+"A rock lobster (family Palinuridae).",
+"A freshwater crayfish (family Parastacidae), such as the gilgie, marron, or yabby."
+],
+"ety": "Alteration (by folk etymological influence of fish) of Middle English crevis (whence modern dialectal crevis), from Old French crevice (\"crayfish\"; > Modern French: écrevisse), from Frankish *krebitja (“crayfish”), diminutive of Frankish *krebit (“crab”), from Proto-Germanic *krabitaz (“crab, cancer”), possibly from Proto-Indo-European *gerbʰ-, *grebʰ- (“to scratch, crawl”), or from a substrate word folk-etymologically influenced by this root. Akin to Old High German krebiz (Modern German Krebs (“crustacean, crab, crayfish”)), Middle Low German krēvet (“crab, crayfish”), Dutch kreeft (“crayfis",
+"examples": [],
+"p": "KRAY-fish"
+},
+{
+"w": "behaviourist",
+"pos": "noun",
+"senses": [
+"behaviorist (one who studies behavior of humans or animals)",
+"behaviorist (a supporter of behaviorism)"
+],
+"ety": "From behaviour + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "pitta",
+"pos": "noun",
+"senses": [
+"The dosha composed of fire and water"
+],
+"ety": "Borrowed from Sanskrit पित्त (pitta, “phlegm”).",
+"examples": [],
+"p": "PIT-uh"
+},
+{
+"w": "blobby",
+"pos": "adjective",
+"senses": [
+"Similar in shape to blobs; amorphous and rounded in appearance; partially irregular in appearance like bubbles."
+],
+"ety": "From Late Middle English blobby, equivalent to blob + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "easeful",
+"pos": "adjective",
+"senses": [
+"full of ease, restful, comfortable"
+],
+"ety": "From ease + -ful.",
+"examples": [],
+"p": null
+},
+{
+"w": "orbiter",
+"pos": "noun",
+"senses": [
+"An object that orbits another, especially a spacecraft that orbits a planet etc. without landing on it."
+],
+"ety": "From orbit + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "unhip",
+"pos": "adjective",
+"senses": [
+"Not hip; uncool, unfashionable."
+],
+"ety": "From un- + hip.",
+"examples": [
+"Fifteen years ago, on what remains as possibly the most unhip day of my life, my entire family, all nine of us, went to have our group portrait taken at a local photo salon."
+],
+"p": null
+},
+{
+"w": "chapelry",
+"pos": "noun",
+"senses": [
+"The district attached to a chapel; a division of a large parish which has its own district chapel."
+],
+"ety": "From Old French chapelerie, corresponding to chapel + -ry.",
+"examples": [
+"Similarly in the many large parishes, the curates in the outlying chapelries became financially dependent on their congregations."
+],
+"p": null
+},
+{
+"w": "pentamer",
+"pos": "noun",
+"senses": [
+"An oligomer having five subunits."
+],
+"ety": "From penta- + -mer.",
+"examples": [],
+"p": null
+},
+{
+"w": "nonrelativistic",
+"pos": "adjective",
+"senses": [
+"Not relativistic; classical, Newtonian.",
+"Not moving at a speed comparable to the speed of light."
+],
+"ety": "From non- + relativistic.",
+"examples": [],
+"p": null
+},
+{
+"w": "taijutsu",
+"pos": "noun",
+"senses": [
+"Japanese martial arts techniques that rely on a set of body movements without weapons."
+],
+"ety": "Japanese 体術, literally \"body skill\" or \"body art\".",
+"examples": [],
+"p": null
+},
+{
+"w": "pledgee",
+"pos": "noun",
+"senses": [
+"someone who receives a pledge"
+],
+"ety": "From pledge + -ee.",
+"examples": [],
+"p": null
+},
+{
+"w": "rhapsodize",
+"pos": "verb",
+"senses": [
+"To speak with exaggerated or rapturous enthusiasm (about, (up)on or over something).",
+"To say (something) with exaggerated or rapturous enthusiasm.",
+"To recount or describe (something) as a rhapsody, or in the manner of a rhapsody.",
+"To perform a rhapsody."
+],
+"ety": "From rhapsody + -ize.",
+"examples": [
+"How can one rhapsodise over a view when surrounded by beer-stained tables? How lose one’s self in historical reverie amid the odour of roast veal and spinach?",
+"Ron was rhapsodizing about his new broom to anybody who would listen.",
+"King Charles has rhapsodized about the charms of Romania for decades. “There is a sense of age-old continuity here,” he explained in a story last year in The Spectator."
+],
+"p": null
+}
+]

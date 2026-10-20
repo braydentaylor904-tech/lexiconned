@@ -1,0 +1,551 @@
+[
+{
+"w": "slaty",
+"pos": "adjective",
+"senses": [
+"Resembling the rock slate.",
+"Of a light grey colour as slate."
+],
+"ety": "From slate + -y.",
+"examples": [
+"Their faces and hands were yellow as saffron; their small and slaty eyes were set obliquely beneath lashless lids; and their thin lips, which smiled eternally, were crooked. as the blades of scimitars.",
+"But snow had now begun to fall out of a forbiddingly slaty-grey sky, and this seemed to depress both engine and crew."
+],
+"p": "SLAY-tee"
+},
+{
+"w": "banishment",
+"pos": "noun",
+"senses": [
+"The act of banishing.",
+"The state of being banished, exile."
+],
+"ety": "From banish + -ment.",
+"examples": [
+"The judge pronounced banishment upon the war criminal.",
+"He has been in banishment from his home country for well over four years."
+],
+"p": "BAN-ish-munt"
+},
+{
+"w": "junket",
+"pos": "noun",
+"senses": [
+"A type of cream cheese, originally made in a rush basket; later, a food made of sweetened curds.",
+"A feast or banquet.",
+"A pleasure trip; a journey made for feasting or enjoyment, now especially a trip made ostensibly for business but which entails merrymaking or entertainment.",
+"A gaming room for which the capacity and limits change daily, often rented out to private vendors who run tour groups through them and give a portion of the proceeds to the main casino."
+],
+"ety": "From Middle English jonket (“basket made of rushes”), from Medieval Latin iuncta, possibly from Latin iuncus (“rush, reed”) and therefore a possible doublet of jonquil. Meaning shifted to “feast or banquet” by 1520s, probably via the notion of a picnic basket. This in turn led to the sense of “pleasure trip” (1814), and then to specifically to “trip made ostensibly for business but which entails merrymaking or entertainment” by 1886 in American English.",
+"examples": [
+"The Sunday ended in gloom, which even junket for supper in the blue Dresden bowl could hardly lighten at all.",
+"We're often in waiting / At junket or feting, / And sometimes attend an interment—",
+"It did strike him as odd, perhaps, that merchants did not dare to go on a junket or plan a congenial dinner without pretending to themselves that it had some business significance."
+],
+"p": "JUNG-kit"
+},
+{
+"w": "sorceress",
+"pos": "noun",
+"senses": [
+"A female sorcerer, especially one who is elegant; compare witch."
+],
+"ety": "From Middle English sorceresse, from Anglo-Norman sorceresse.",
+"examples": [
+"The strange-looking chamber, the red glare of the charcoal, her tall form, and long black hair loose, realised the wildest dream of one of the sorceresses of old, bending over herb and drug, to form their potent spells.",
+"Perch: In the head of this fish there are small stones that sorceresses used in concocting love-philtres."
+],
+"p": "SOR-suh-rus"
+},
+{
+"w": "germinate",
+"pos": "verb",
+"senses": [
+"To cause to grow; to produce."
+],
+"ety": "From oblique stem of Latin germen, germinis (“shoot, sprout, bud”) + -ate, from germinātus (“sprouted, budded, grown”), past participle of germinō (“to sprout, bud, grow”), from germen, germinis (“shoot, sprout, bud”).",
+"examples": [
+"These were business hours, and a feeling of loneliness crept over him, perhaps germinated by his sight of the illustrated papers, and accentuated by an attempted perusal of them."
+],
+"p": "JUR-mih-nayt"
+},
+{
+"w": "housetop",
+"pos": "noun",
+"senses": [
+"The roof of a house."
+],
+"ety": "From house + top.",
+"examples": [
+"Up on the housetop, reindeer pause. / Out jumps good old Santa Claus."
+],
+"p": "HOWS-tahp"
+},
+{
+"w": "tsundere",
+"pos": "noun",
+"senses": [
+"A fictional character who fits the archetype of being cold or even hostile towards another person before gradually showing a warm and caring side."
+],
+"ety": "Borrowed from Japanese ツンデレ (tsundere), from つんつん (tsun-tsun, “in a cross, aloof, or standoffish manner”, adverb) + でれでれ (dere-dere, “in a lovey-dovey, infatuated, or lovestruck manner”, adverb).",
+"examples": [
+"I usually draw very peaceful, happy manga, so it has been a real challenge for me to illustrate the vice president's death glare and Ri-chan's subtle tsundere attitude.",
+"Even Kaname's rude and overbearing tsundere personality is explained by her having gone to school in the United States where she was socialized to just bluntly say what she thought."
+],
+"p": "TSOON-der-ay"
+},
+{
+"w": "pooch",
+"pos": "noun",
+"senses": [
+"A bulge, an enlarged part.",
+"A distended or swelled condition.",
+"The lower belly region; often in reference to the stubborn fat stored in the abdominal area."
+],
+"ety": "Probably related to pouch.",
+"examples": [
+"There's a pooch in the plastic where it got too hot.",
+"Her left sleeve has more pooch at the shoulder than the right."
+],
+"p": "pooch"
+},
+{
+"w": "nimby",
+"pos": "adjective",
+"senses": [
+"Not wanting to have to deal with unpleasant or distasteful things near them."
+],
+"ety": "Acronym of not in my back yard. More at NIMBY.",
+"examples": [
+"Their vote against measures to help refugees has been perceived by the socially conscious margin of society as a typically nimby attitude."
+],
+"p": "NIM-bee"
+},
+{
+"w": "sabayon",
+"pos": "noun",
+"senses": [
+"Synonym of zabaglione."
+],
+"ety": "From French sabayon, from Italian zabaione, possibly from Latin sabaia (“Illyrian barley beer”, from an Illyrian word probably from Proto-Indo-European *sab- (“taste”)) + -one (augmentative suffix).",
+"examples": [
+"An orange-blossom-water sabayon is thickened in the microwave (and I will never again make finicky sabayon any other way)."
+],
+"p": "sah-by-OHN"
+},
+{
+"w": "newel",
+"pos": "noun",
+"senses": [
+"A central pillar around which some types of spiral staircase are spiralled.",
+"A sturdy pillar at the top or bottom of a flight of stairs, supporting the handrail."
+],
+"ety": "Inherited from Middle English nowel, *newel, from Old French noel, from either Early Medieval Latin nōdellus (“buckle”, diminutive of nōdus \"knot\") or Late Latin nucālis (“nut-like”, derivative of nux \"nut\"). Doublet of noil and noyau.",
+"examples": [
+"We went along the hall to the end and up a flight of stairs with a carved handrail and newel post."
+],
+"p": "NOO-ul"
+},
+{
+"w": "snaky",
+"pos": "adjective",
+"senses": [
+"Resembling or relating to snakes; snakelike.",
+"Windy; winding; twisty; sinuous, wavy."
+],
+"ety": "From snake + -y.",
+"examples": [
+"Walking through the snaky passages I was soon completely lost.",
+"The nuns' veils billowed and flapped behind the snaky line of girls as if the sisters were shooing the serpent from the Garden of Eden."
+],
+"p": "SNAY-kee"
+},
+{
+"w": "clamato",
+"pos": "noun",
+"senses": [
+"A beverage made from clam juice and tomato juice (especially this concoction as produced by Mott's) used to make Bloody Caesar cocktails."
+],
+"ety": "From Clamato, a blend of clam + tomato trademarked (if not coined) by Mott's.",
+"examples": [
+"Howard watched his wife calmly pour herself a third glass of clamato juice."
+],
+"p": "kluh-MAY-toh"
+},
+{
+"w": "batik",
+"pos": "noun",
+"senses": [
+"A wax-resist method of dyeing fabric."
+],
+"ety": "Borrowed from Javanese bathik.",
+"examples": [
+"Look at her, whirling around the compound wearing batik shorts and a cotton shirt, her long black hair braided into two arcs fastened with colored bands, her teeth gleaming and one slipper broken."
+],
+"p": "buh-TEEK"
+},
+{
+"w": "huipil",
+"pos": "noun",
+"senses": [
+"A traditional blouse worn by the women of various indigenous peoples of Central America including the Maya and Zapotec, or the textile from which such a garment is made."
+],
+"ety": "From Spanish huipil, from Classical Nahuatl huīpīlli (“woman's blouse”).",
+"examples": [
+"Huipiles are traditionally woven on a backstrap loom and embroidered by women, to be worn by women."
+],
+"p": "WEE-peel"
+},
+{
+"w": "limpet",
+"pos": "noun",
+"senses": [
+"Someone clingy or dependent; someone disregarding or ignorant of another's personal space."
+],
+"ety": "From Middle English lempet, from Old English lempedu (“lamprey”), borrowed from Medieval Latin lampreda, alteration of Late Latin lampetra (“lamprey”), whose further origin is unknown, though is traditionally thought to derive from lambō (“to lick, lap”) + petra (“stone, rock”). Doublet of lamprey, which came through Old French.",
+"examples": [
+"He stuck to me like a limpet all day!"
+],
+"p": "LIM-pit"
+},
+{
+"w": "amiss",
+"pos": "adjective",
+"senses": [
+"Wrong; faulty; out of order; improper or otherwise incorrect."
+],
+"ety": "From a- + miss.",
+"examples": [
+"He suspected something was amiss.",
+"Something amiss in the arrangements had distracted the staff.",
+"His wisdom and virtue cannot always rectify that which is amiss in himself or his circumstances."
+],
+"p": "uh-MIS"
+},
+{
+"w": "saudade",
+"pos": "noun",
+"senses": [
+"A feeling of melancholy and wistful yearning for something that is absent, impossible or lost."
+],
+"ety": "Borrowed from Portuguese saudade.",
+"examples": [
+"I have the feeling, from using the word as a first language speaker, that saudade conveys a bit more feeling, a bit more sorrow, a bit more longing than “I miss you”."
+],
+"p": "sow-DAH-duh"
+},
+{
+"w": "licker",
+"pos": "noun",
+"senses": [
+"Someone or something that licks."
+],
+"ety": "From Middle English likkere, lykkare, equivalent to lick + -er. Cognate with Saterland Frisian Läkker, Dutch likker, German Low German Licker, German Lecker.",
+"examples": [
+"When the back of the stamp is licked the first result is to leave on the tongue of the licker an unpleasant coating which demands the instant application of water to wash it off."
+],
+"p": "LIK-er"
+},
+{
+"w": "hauler",
+"pos": "noun",
+"senses": [
+"A person or thing that hauls another person or thing.",
+"A person or company engaged in the haulage of goods.",
+"A miner who hauls coal from the coalface to the bottom of the shaft.",
+"A truck, lorry (vehicle used to transport heavy goods)",
+"Someone who makes a haul video."
+],
+"ety": "From Middle English halere, equivalent to haul + -er. Doublet of haulier.",
+"examples": [
+"Hauler, noun. \"'Bizarre' and 'normal' remind me of the classic scenario of someone being hauled off to the insane asylum and an argument starts about who is insane and who is normal — hauler or haulee?\""
+],
+"p": "haw-ler"
+},
+{
+"w": "worky",
+"pos": "adjective",
+"senses": [
+"Characterized by or pertaining to work.",
+"Especially of attire: appropriate for work.",
+"Requiring much work.",
+"Tending to be very serious about work."
+],
+"ety": "From work (noun) + -y (suffix forming adjectives with the sense ‘having the quality of’).",
+"examples": [
+"I have had no duties of the worky sort except taking care of my own room, paying some attention to Mother and Ellen when sick and teaching Ellen and Richard two afternoons in the week.",
+"There is no end of the epigrams and witticisms which she can throw out, this elegant Mrs. T., on people who marry for love, lead prosy, worky lives, and put on their best cap with pink ribbons for Sunday.",
+"These are not necessarily melancholy days; they are very worky, playful, enjoyable ones to those who keep well and busy."
+],
+"p": "WUR-kee"
+},
+{
+"w": "atavism",
+"pos": "noun",
+"senses": [
+"The reappearance of an ancestral characteristic in an organism after several generations of absence; a throwback.",
+"The recurrence or reversion to a past behaviour, method, characteristic or style after a long period of absence.",
+"A reversion to past primitive behavior, especially violence."
+],
+"ety": "Borrowed from French atavisme.. By surface analysis, at- (“to”) + Latin av(us) (“grandfather, ancestor”) + -ism. Compare ancestorism.",
+"examples": [
+"He was a magnificent atavism, a man so purely primitive that he was of the type that came into the world before the development of the moral nature. He was not immoral, but merely unmoral.",
+"Hence on false premises was built up that belief in spirits or invisible beings outside ourselves, which by some curious atavism was re-emerging in modern days among the less educated strata of mankind.",
+"I have even read in a book of criminology that the tramp is an atavism, a throw-back to the nomadic stage of humanity."
+],
+"p": "AT-uh-viz-um"
+},
+{
+"w": "suffocate",
+"pos": "verb",
+"senses": [
+"To suffer, or cause someone to suffer, from severely reduced oxygen intake to the body.",
+"To die due to, or kill someone by means of, insufficient oxygen supply to the body.",
+"To overwhelm, or be overwhelmed (by a person or issue), as though with oxygen deprivation.",
+"To destroy; to extinguish."
+],
+"ety": "The adjective is first attested in the 1420s, the verb in 1526; from Middle English suffocat(e) (“deprived of air, suffocated”), borrowed from Latin suffōcātus, the perfect passive participle of Latin suffōcō (see -ate (verb-forming suffix) and -ate (adjective-forming suffix)), from sub- (“under, up to”) + fōx (“throat”, oblique stem in fōc-). Participial usage up until Early Modern English.",
+"examples": [
+"Open the hatch, he is suffocating in the airlock!",
+"It is because of freedom, one netizen replied: Like air, you may not realize its importance, but when suffocating, you would know how precious it is.",
+"He suffocated his wife by holding a pillow over her head."
+],
+"p": "SUF-uh-kayt"
+},
+{
+"w": "noonday",
+"pos": "noun",
+"senses": [
+"The time of noon; the time of day when the sun is highest in the sky, especially on a hot day.",
+"The time of greatest prosperity."
+],
+"ety": "From noon + day.",
+"examples": [
+"She should not walk, he said, through the dust and heat of the noonday; Nay, she should ride like a queen, not plod along like a peasant."
+],
+"p": "NOON-day"
+},
+{
+"w": "lustrum",
+"pos": "noun",
+"senses": [
+"A lustration: a ceremonial purification of the people of Rome performed every five years after the census.",
+"Synonym of quinquennium: Any 5-year period."
+],
+"ety": "From Latin lūstrum.",
+"examples": [
+"Q. Now, sir, if you would be so kind as to guess upon his age. / A. Forty five years are certain. I would guess a lustrum more."
+],
+"p": "LUS-trum"
+},
+{
+"w": "defile",
+"pos": "verb",
+"senses": [
+"To make (someone or something) physically dirty or unclean; to befoul, to soil.",
+"To make (someone or something) morally impure or unclean; to corrupt, to tarnish.",
+"To act inappropriately towards or vandalize (something sacred or special); to desecrate, to profane."
+],
+"ety": "From Late Middle English defilen (“to make dirty, befoul; rape; abuse; destroy; injure; oppress”) [and other forms], a variant of defoulen (“to make dirty, defile, pollute; have sexual intercourse with; rape; etc.”) (compare also defoilen). Defoulen is a blend of Middle English foulen (“to make dirty, soil, pollute”) (from the adjective foul (“dirty, rotten, stinking, corrupt, sinful, guilty”) and Old English fūlian (“to decay”)), and Old French defoler, defouler (“to trample, crush; destroy”), from de- (intensifying prefix) + foler, fouler, fuller (“to trample, tread on; mistreat, oppress, de",
+"examples": [
+"Spain might now boast that the stain of heresy no longer defiled the hem of her garment. But at what a price was this purchased!",
+"At mankind's feast, I take my place / In solemn, sanctimonious state, / And have the air of saying grace / While I defile the dinner plate.",
+"To urinate on someone’s grave is an example of a way to defile it."
+],
+"p": "duh-FILE"
+},
+{
+"w": "botnet",
+"pos": "noun",
+"senses": [
+"A collection of compromised computers that is gradually built up and then unleashed as a DDOS attack or used to send very large quantities of spam."
+],
+"ety": "From bot + net.",
+"examples": [
+"Then they blacklisted addresses used by spammers. In response, senders started using botnets (networks of otherwise innocent computers)."
+],
+"p": "BOT-net"
+},
+{
+"w": "impactful",
+"pos": "adjective",
+"senses": [
+"Having impact."
+],
+"ety": "From impact + -ful.",
+"examples": [
+"We might suppose that some of the most impactful heroines of current films would combine these two functions: that of the good-bad girl ...",
+"It is strongly recommended that in the future such investigations not be reported in the literature unless they are designed to test the effects of some hopefully impactful treatment variation.",
+"Everyone knows that vividly presented information is impactful and persuasive."
+],
+"p": "IM-pakt-ful"
+},
+{
+"w": "remand",
+"pos": "noun",
+"senses": [
+"The act of sending an accused person back into custody whilst awaiting trial.",
+"The act of an appellate court sending a matter back to a lower court for review or disposal."
+],
+"ety": "From Middle English remaunden (“to send back”), from Middle French remander (“to send back”), from Late Latin remandare (“to send backward”), from Latin remandare (“to order”). Compare countermand.",
+"examples": [
+"On arrest and unable to obtain bail, could mean that a person may be held in remand prison for six months or more.",
+"As earlier stated, remand in custody under the new Code is an exceptional measure."
+],
+"p": "ruh-MAND"
+},
+{
+"w": "sinuosity",
+"pos": "noun",
+"senses": [
+"The property of being sinuous.",
+"That which is sinuous."
+],
+"ety": "From sinuous + -ity.",
+"examples": [
+"She was like a Beardsley Salome, he had said. And indeed she had the narrow eyes and the high cheekbone of that creature, and as nearly the sinuosity as is compatible with human symmetry."
+],
+"p": "sin-yoo-OS-ih-tee"
+},
+{
+"w": "buyable",
+"pos": "adjective",
+"senses": [
+"That can be bought."
+],
+"ety": "From buy + -able.",
+"examples": [
+"Our merchandise is now buyable online."
+],
+"p": "BY-uh-bul"
+},
+{
+"w": "speedrun",
+"pos": "noun",
+"senses": [
+"A playthrough of a computer or video game in which the whole game or a select part of it, such as a single level, is played with the intent of completing it as quickly as possible, optionally with certain prerequisites."
+],
+"ety": "From speed + run. There are isolated attestations of the term as far back as the 19th century, mostly hyphenated as speed-run and in an engineering context; it is unlikely that these cases influenced the modern form.",
+"examples": [
+"In the speedrun of Super Mario Bros. 3, Anonymous Jones finishes the whole game in just 11 minutes.",
+"Many of the strats for the Glitchless speedrun came from Distortion2, who is a widely known speedrunner who has broken records in games Elden Ring and Seikiro.",
+"Mae, who describes herself on Patreon as a 20-year-old university student from Canada, holds several world records for Baldur’s Gate 3 speedruns already — including her insane 4:15 any% speedrun."
+],
+"p": "SPEED-run"
+},
+{
+"w": "beguine",
+"pos": "noun",
+"senses": [
+"A ballroom dance, similar to a slow rumba, originally from French West Indies and popularized abroad largely through the song \"Begin the Beguine\"; the music for the dance."
+],
+"ety": "From American French béguine, from French béguin.",
+"examples": [
+"When they begin the beguine, / It brings back the sound of music so tender / It brings back the night of tropical splendor, / It brings back a memory ever green."
+],
+"p": "buh-GEEN"
+},
+{
+"w": "throaty",
+"pos": "adjective",
+"senses": [
+"Produced in the throat; having a rough or coarse quality like a sound produced in the throat.",
+"Having a dewlap or excess skin hanging under the neck. (of livestock or dogs)"
+],
+"ety": "From throat + -y.",
+"examples": [
+"But the most haunting of all the melodies is the warbling laughter of the Tulameen; its delicate note is far more powerful, more far-reaching than the throaty thunders of the Niagara.",
+"We could hear a motor running; it seemed too deep and throaty a motor to be the squad car, and after we passed the high school, the engine noise grew louder."
+],
+"p": "THROH-tee"
+},
+{
+"w": "skulk",
+"pos": "noun",
+"senses": [
+"A group of foxes.",
+"A group of people seen as being fox-like (e.g. cunning, dishonest, or having nefarious plans).",
+"The act of moving in a stealthy or furtive way.",
+"A stealthy or furtive gait or way of moving.",
+"The act of avoiding an obligation or responsibility."
+],
+"ety": "From Middle English sculke, skulke, sculken, of North Germanic origin; compare Danish skulke (“shirk”), Swedish skolka (“play truant”).",
+"examples": [
+"A skulk of foxes, a cowardice of curs are tonight’s traffic whispering in the yards and lanes.",
+"A skulk of fox padded daintily over a stream-slashed meadow, and a herd of deer like iron ornaments stood stock still in their winter pelage.",
+"A group of foxes is called a skulk."
+],
+"p": "skulk"
+},
+{
+"w": "formulary",
+"pos": "noun",
+"senses": [
+"A list of formulas; a collection of set forms to be followed, especially in religious belief.",
+"A pharmacopoeia or list of available drugs, particularly prescription drugs.",
+"An ancient or medieval collection of models for official writings.",
+"A collection of formulas in sciences and mathematics."
+],
+"ety": "From Middle French formulaire. By surface analysis, formula + -ary.",
+"examples": [
+"However, when used appropriately under medical guidance, this drug is a safe and essential part of a physician's formulary."
+],
+"p": "FOR-myoo-luh-ree"
+},
+{
+"w": "relict",
+"pos": "adjective",
+"senses": [
+"Surviving, remaining.",
+"That is a relict; pertaining to a relict."
+],
+"ety": "Inherited from Middle English relicte (“widow”), from Middle French relicte (“widow”), from Late Latin relicta (“widow”), from Latin relictus, past participle of relinquō (“to abandon, to relinquish, to leave (behind)”), from re- + linquō (“to leave, quit, forsake, depart from”). Doublet of relic, derelict, and relinquish.",
+"examples": [
+"In the lakes and in the streams were species of fish not known elsewhere on earth and birds and lizards and other forms of life as well all long relict here for the desert stretched away on every side."
+],
+"p": "REL-ikt"
+},
+{
+"w": "viscountess",
+"pos": "noun",
+"senses": [
+"The wife of a viscount.",
+"A woman holding the rank of viscount in her own right."
+],
+"ety": "From Middle English viscountes, viscountesse, probably from Middle French viscontesse; equivalent to viscount + -ess. Doublet of vicomtesse.",
+"examples": [
+"Before his own elevation to an earldom, Disraeli's wife was created Viscountess Beaconsfield by Queen Victoria."
+],
+"p": "VY-kown-tus"
+},
+{
+"w": "spoonie",
+"pos": "noun",
+"senses": [
+"A northern shoveler (Spatula clypeata, formerly Anas clypeata)."
+],
+"ety": "From the spatulate shape of the bill.",
+"examples": [
+"Every time a spoonie would alight within 400 yards of \"Uncle George\" he would proceed to stalk that spoonie with as much care as if it were a ten-point buck.",
+"The Northern shoveler, or ”spoonie,” as he is commonly called, has a bill like no other species of North American duck.",
+"And I would bet a month's salary that if I were to drag that pond, I would find a mess of spoonies stomped into the mud, not to mention the one tossed into the weeds at the pond's edge."
+],
+"p": "SPOO-nee"
+},
+{
+"w": "owlish",
+"pos": "adjective",
+"senses": [
+"Resembling or characteristic of an owl.",
+"Wise and solemn.",
+"Stupid; dull-looking."
+],
+"ety": "From owl + -ish.",
+"examples": [
+"He feebly wanted to get out of this, away from clucking nurses and Dr. Crittenham's owlish peering and the horrible scrambled eggs and cold toast.",
+"This owl imitated Trumpkin’s voice rather well, and there were sounds of owlish laughter all round.",
+"He stands precociously possessed of centuries of owlish wisdom."
+],
+"p": "OW-lish"
+}
+]

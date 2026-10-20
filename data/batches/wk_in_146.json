@@ -1,0 +1,421 @@
+[
+{
+"w": "chondrite",
+"pos": "noun",
+"senses": [
+"A meteorite consisting of rock containing chondrules."
+],
+"ety": "From Ancient Greek χόνδρος (khóndros, “grain”) + -ite. By surface analysis, chondr- + -ite.",
+"examples": [],
+"p": "KON-drite"
+},
+{
+"w": "uplander",
+"pos": "noun",
+"senses": [
+"A person from the uplands."
+],
+"ety": "From upland + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "metronomic",
+"pos": "adjective",
+"senses": [
+"Regular, periodic and repetitive, like a metronome."
+],
+"ety": "From metronome + -ic.",
+"examples": [],
+"p": null
+},
+{
+"w": "exoticism",
+"pos": "noun",
+"senses": [
+"Something exotic."
+],
+"ety": "From exotic + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "sculler",
+"pos": "noun",
+"senses": [
+"One who sculls; an athlete who participates in sculling races.",
+"A boat rowed by one person with two sculls, or short oars."
+],
+"ety": "From scull + -er.",
+"examples": [
+"The first and second guns had been fired, and the scullers in their boats, each some ten yards apart from the other, are anxiously waiting the firing of the third, which is the signal for starting."
+],
+"p": null
+},
+{
+"w": "stich",
+"pos": "noun",
+"senses": [
+"A part of a line of poetry, especially in the distichal poetry of the Hebrew Bible and in early Germanic heroic verse such as Beowulf, where the line is composed of two (occasionally three) such parts."
+],
+"ety": "Borrowed from Ancient Greek στίχος (stíkhos, “line, row, verse”). Akin to στείχω (steíkhō, “I go”).",
+"examples": [],
+"p": "stik"
+},
+{
+"w": "sunlounger",
+"pos": "noun",
+"senses": [
+"An extended deck chair used for sunbathing or relaxing, typically by the sea or a pool."
+],
+"ety": "From sun + lounger.",
+"examples": [],
+"p": null
+},
+{
+"w": "stache",
+"pos": "noun",
+"senses": [
+"A moustache."
+],
+"ety": "Clipping of moustache or mustache.",
+"examples": [],
+"p": "stash"
+},
+{
+"w": "hebra",
+"pos": "noun",
+"senses": [
+"The offspring of a cross between a horse sire and a zebra dam."
+],
+"ety": "Blend of horse + zebra.",
+"examples": [],
+"p": null
+},
+{
+"w": "nanofiber",
+"pos": "noun",
+"senses": [
+"Any fibre having a nanoscale diameter."
+],
+"ety": "From nano- + fiber.",
+"examples": [],
+"p": null
+},
+{
+"w": "dunner",
+"pos": "noun",
+"senses": [
+"One employed in soliciting the payment of debts."
+],
+"ety": "From dun + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "transvestism",
+"pos": "noun",
+"senses": [
+"The condition of being a transvestite."
+],
+"ety": "From transvest(ite) + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "ustad",
+"pos": "noun",
+"senses": [
+"a master, especially of music, in South Asia and the Middle East"
+],
+"ety": "From Urdu استاد (ustād), from Classical Persian استاد (ustād, “master”).",
+"examples": [],
+"p": null
+},
+{
+"w": "pastoralist",
+"pos": "adjective",
+"senses": [
+"Having features common to pastoralism."
+],
+"ety": "From pastoral + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "chemosynthetic",
+"pos": "adjective",
+"senses": [
+"Using or relating to chemosynthesis."
+],
+"ety": "From chemo- + synthetic.",
+"examples": [],
+"p": null
+},
+{
+"w": "bougie",
+"pos": "noun",
+"senses": [
+"A wax candle."
+],
+"ety": "Borrowed from French bougie (“wax candle”), after the Algerian city Bougie (Béjaïa), and the tapered, hand-dipped candles it made. The medical instruments were originally made from waxed linen. Doublet of bugia.",
+"examples": [],
+"p": "BOO-zhee"
+},
+{
+"w": "pekoe",
+"pos": "noun",
+"senses": [
+"A high-quality black tea made using young leaves, grown in Sri Lanka, India, Java and the Azores."
+],
+"ety": "Unclear; possibly from Hokkien 白毫 (pe̍h-ho, “white hair”) or Hokkien 白花 (pe̍h-hoe, “white flower”). See Tea leaf grading#Etymology. Compare to Russian ба́йховый (bájxovyj).",
+"examples": [],
+"p": "PEE-koh"
+},
+{
+"w": "photofit",
+"pos": "noun",
+"senses": [
+"An image of a person constructed out of bits of photographs of other people; an identikit."
+],
+"ety": "From photo + fit, from the British police force's Photofit system for constructing facial composites.",
+"examples": [
+"The witness was called in to create a photofit resembling her memory of the attacker."
+],
+"p": null
+},
+{
+"w": "phytotoxicity",
+"pos": "noun",
+"senses": [
+"A measure of the extent to which something is phytotoxic"
+],
+"ety": "From phyto- + toxicity.",
+"examples": [],
+"p": null
+},
+{
+"w": "dumka",
+"pos": "noun",
+"senses": [
+"A genre of instrumental folk music from Ukraine.",
+"An individual composition in this genre."
+],
+"ety": "From Ukrainian ду́мка (dúmka), diminutive of ду́ма (dúma, “sung epic poem”).",
+"examples": [],
+"p": null
+},
+{
+"w": "didacticism",
+"pos": "noun",
+"senses": [
+"An artistic philosophy that emphasises instructional and informative qualities over mere entertainment.",
+"A work, statement, etc. of this kind."
+],
+"ety": "From didactic + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "pansy",
+"pos": "noun",
+"senses": [
+"A deep purple colour, like that of the pansy."
+],
+"ety": "From Middle French pensée (“thought”), as the plant resembles someone that is in deep thought, with a lowered head. Doublet of pensée.",
+"examples": [],
+"p": "PAN-zee"
+},
+{
+"w": "boggler",
+"pos": "noun",
+"senses": [
+"Something puzzling or confusing."
+],
+"ety": "From boggle + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "acrobatics",
+"pos": "noun",
+"senses": [
+"The art of performing acrobatic gymnastic feats.",
+"A spectacular display of agility."
+],
+"ety": "From acrobat + -ics.",
+"examples": [],
+"p": null
+},
+{
+"w": "gallerist",
+"pos": "noun",
+"senses": [
+"The owner or operator of an art gallery"
+],
+"ety": "From gallery + -ist, possibly by analogy with artist, or influenced by French galeriste; compare German Galerist. Attested since 1962, popular in US since 2000s.",
+"examples": [
+"Artists become gallerists in order to ensure a viewing.",
+"It’s an aesthetic that particularly appeals to the art dealers and gallerists who were scouring the Milan fringe shows for new talent last week."
+],
+"p": null
+},
+{
+"w": "kegel",
+"pos": "noun",
+"senses": [
+"The pubococcygeal muscles.",
+"A contraction of the pubococcygeal muscles, performed for the purpose of strengthening them."
+],
+"ety": "After Arnold Kegel. The surname is of German origin; see Kegel (“skittle, bowling pin”).",
+"examples": [
+"Done for a few minutes a day, Kegels can ease childbirth, help with recovery, prevent incontinence — even improve your sex life.",
+"Hop on top, I wanna ride / I do a kegel while it's inside"
+],
+"p": null
+},
+{
+"w": "doodler",
+"pos": "noun",
+"senses": [
+"A person who doodles."
+],
+"ety": "From doodle + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "bulgur",
+"pos": "noun",
+"senses": [
+"Wheat grains that have been steamed, dried, and crushed; a staple of Middle Eastern cooking."
+],
+"ety": "From Ottoman Turkish بلغور (bulğur) (modern Turkish bulgur), by metathesis from older بورغول (burğul), from Arabic بُرْغُل (burḡul), from Persian برغول (barġul), پرغول (parġul).",
+"examples": [],
+"p": "BUL-ger"
+},
+{
+"w": "geniculate",
+"pos": "adjective",
+"senses": [
+"Having kneelike joints; able to bend at an abrupt angle."
+],
+"ety": "Learned borrowing from Latin geniculātus (“with bended knee”), from geniculum (“little knee”) + -ātus (participial adjective-forming suffix), see -ate (adjective-forming suffix).",
+"examples": [],
+"p": null
+},
+{
+"w": "bacteriostatic",
+"pos": "noun",
+"senses": [
+"An agent (drug or other substance) that is bacteriostatic."
+],
+"ety": "From bacterio- + -static.",
+"examples": [],
+"p": null
+},
+{
+"w": "hooch",
+"pos": "noun",
+"senses": [
+"An alcoholic beverage, especially an inferior or illicit one and especially liquor such as whisky."
+],
+"ety": "Abbreviation of hoochinoo, name of a specific liquor, from Tlingit Xutsnoowú Ḵwáan, the group that produced it, from Hutsnuwu (“grizzly bear fort”), the name of the village on Admiralty Island in which they lived. From Tlingit xóots (“grizzly bear”).",
+"examples": [],
+"p": "hooch"
+},
+{
+"w": "illuminative",
+"pos": "adjective",
+"senses": [
+"of, capable of, or causing illumination"
+],
+"ety": "From illuminate + -ive?",
+"examples": [],
+"p": null
+},
+{
+"w": "meninist",
+"pos": "noun",
+"senses": [
+"An advocate of meninism."
+],
+"ety": "Blend of men + feminist.",
+"examples": [],
+"p": null
+},
+{
+"w": "snuffle",
+"pos": "verb",
+"senses": [
+"To sniff or smell with the nose loudly and audibly.",
+"To speak through the nose; to breathe through the nose when it is obstructed, so as to make a broken sound."
+],
+"ety": "Probably from Low German and Dutch snuffelen (“to snuffle”), equivalent to snuff + -le. Compare also Old English snofl (“snot, nasal mucus”), which might not have survived into Middle English.",
+"examples": [],
+"p": "SNUF-ul"
+},
+{
+"w": "ventriloquism",
+"pos": "noun",
+"senses": [
+"The art of projecting one's voice without moving the lips so that it appears to come from another source, such as a dummy."
+],
+"ety": "From ventriloquy + -ism.",
+"examples": [],
+"p": "ven-TRIL-oh-kwiz-um"
+},
+{
+"w": "regressor",
+"pos": "noun",
+"senses": [
+"Something that regresses, or causes regression."
+],
+"ety": "From regress + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "regurgitator",
+"pos": "noun",
+"senses": [
+"A person or thing that regurgitates"
+],
+"ety": "From regurgitate + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "muddler",
+"pos": "noun",
+"senses": [
+"A person or thing that muddles.",
+"A tool used in muddling, used to mash and mix."
+],
+"ety": "From muddle + -er.",
+"examples": [],
+"p": "MUD-luh"
+},
+{
+"w": "chinchilla",
+"pos": "noun",
+"senses": [
+"The fur of a chinchilla, used for clothing.",
+"A variety of Persian cat with white fur and green eyes."
+],
+"ety": "Borrowed from Spanish chinchilla.",
+"examples": [],
+"p": "chin-CHIL-uh"
+},
+{
+"w": "hemline",
+"pos": "noun",
+"senses": [
+"The line formed by the bottom edge of a skirt, dress, or coat; hem.",
+"The height of this line, measured from the floor."
+],
+"ety": "From hem + line.",
+"examples": [],
+"p": "HEM-line"
+}
+]

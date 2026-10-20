@@ -1,0 +1,430 @@
+[
+{
+"w": "decaf",
+"pos": "adjective",
+"senses": [
+"That has caffeine removed."
+],
+"ety": "Clipping of decaffeinated.",
+"examples": [],
+"p": "DEE-kaf"
+},
+{
+"w": "cuckoldry",
+"pos": "noun",
+"senses": [
+"An act of adultery committed by a married woman against her husband.",
+"The state of being a cuckold."
+],
+"ety": "From cuckold + -ry.",
+"examples": [
+"How many such-like cuckoldries are there in histories, procured by the Gods against seely mortall men?",
+"By the end of 2017, it was clear that Homo politicus, like his allies in Hollywood and the media, tends not towards cuckoldry but a 21st-century equivalent of the droit du seigneur."
+],
+"p": null
+},
+{
+"w": "baren",
+"pos": "noun",
+"senses": [
+"A tool for pressing woodcuts, consisting of a disk with a coil of string glued to one side, covered with a smooth sheet.",
+"Any of several similar printing tools with a low-friction bumpy surface, made of ball bearings, glass, plastic, or other materials."
+],
+"ety": "Borrowed from Japanese 馬楝 (baren).",
+"examples": [],
+"p": null
+},
+{
+"w": "indeterminism",
+"pos": "noun",
+"senses": [
+"Any situation in which the outcome cannot be completely predicted in advance."
+],
+"ety": "Borrowed from French indéterminisme, equivalent to in- + determinism.",
+"examples": [
+"There is a whole gradation of more or less rigid determinisms and more or less free indeterminisms, as they have been given in various theories."
+],
+"p": null
+},
+{
+"w": "webisode",
+"pos": "noun",
+"senses": [
+"A short audio or video presentation on an Internet site.",
+"An episode of an Internet-based movie, etc.",
+"An episode of a television show that is only aired online."
+],
+"ety": "Blend of Web + episode, coined to describe Scott Zakarin's The Spot (1995–1997).",
+"examples": [
+"With the pilot webisode Fault Effect done and the additional character concepts prepared, it was time to start laying the groundwork for the initial batch of future webisodes."
+],
+"p": null
+},
+{
+"w": "squiddy",
+"pos": "adjective",
+"senses": [
+"Resembling or characteristic of a squid."
+],
+"ety": "From squid + -y.",
+"examples": [
+"We were served a plateful of squiddy stuff."
+],
+"p": null
+},
+{
+"w": "kenner",
+"pos": "noun",
+"senses": [
+"One who kens or knows."
+],
+"ety": "From ken + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "exterminator",
+"pos": "noun",
+"senses": [
+"Someone or something that exterminates.",
+"Specifically, a person whose job it is to kill insects and other pests in a building."
+],
+"ety": "Borrowed from Latin exterminātor. By surface analysis, exterminate + -or.",
+"examples": [],
+"p": "ik-STUR-mih-nay-ter"
+},
+{
+"w": "juicery",
+"pos": "noun",
+"senses": [
+"A retail outlet that sells juice to drink."
+],
+"ety": "From juice + -ery.",
+"examples": [],
+"p": null
+},
+{
+"w": "pomme",
+"pos": "noun",
+"senses": [
+"A roundel vert (green circular spot), resembling or representing an apple."
+],
+"ety": "Borrowed from French pomme (“apple”), ultimately from Latin poma. Doublet of pome.",
+"examples": [],
+"p": "pahm"
+},
+{
+"w": "burakumin",
+"pos": "noun",
+"senses": [
+"A member of a Japanese social minority group, descendants of feudal-era outcasts."
+],
+"ety": "Borrowed from Japanese 部落民, from Middle Chinese 部落 (bu^X lak, “tribe”) + 民 (mjin, “people”).",
+"examples": [],
+"p": null
+},
+{
+"w": "sunstone",
+"pos": "noun",
+"senses": [
+"A stone, possibly Icelandic spar, said in late medieval sources to have been used by navigators in the Viking Age and later to find the location of the sun in an overcast sky, possibly via polarization of light."
+],
+"ety": "sun + stone. Compare Icelandic sólarsteinn.",
+"examples": [],
+"p": null
+},
+{
+"w": "classicism",
+"pos": "noun",
+"senses": [
+"All the classical traditions of the art and architecture of ancient Greece and Rome, especially the aspects of simplicity, elegance and proportion.",
+"Classical scholarship.",
+"A Latin or Ancient Greek expression used in an English sentence."
+],
+"ety": "From classic + -ism.",
+"examples": [
+"It catches an American athleticism and energetic team spirit that still seem to smash European notions of ballet classicism, as does its dancers’ selfless manner and their practicelike costumes."
+],
+"p": null
+},
+{
+"w": "souverain",
+"pos": "noun",
+"senses": [
+"A gold coin of several former polities of the Netherlands."
+],
+"ety": "Ultimately from French souverain. Doublet of sovereign.",
+"examples": [],
+"p": null
+},
+{
+"w": "brander",
+"pos": "noun",
+"senses": [
+"A person who brands."
+],
+"ety": "From brand + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "tasseled",
+"pos": "adjective",
+"senses": [
+"Having tassels."
+],
+"ety": "From tassel + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "ujima",
+"pos": "noun",
+"senses": [
+"Collective work and responsibility, in the context of African-American culture."
+],
+"ety": "From Swahili ujima (“collective work and responsibility”).",
+"examples": [],
+"p": "oo-JEE-muh"
+},
+{
+"w": "contrarianism",
+"pos": "noun",
+"senses": [
+"A pattern of stubbornly adopting contrary, nonconforming viewpoints; the beliefs and practices of a contrarian."
+],
+"ety": "From contrarian + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "hyperphagia",
+"pos": "noun",
+"senses": [
+"Synonym of polyphagia (“excessive appetite for food”)."
+],
+"ety": "From hyper- + -phagia.",
+"examples": [],
+"p": null
+},
+{
+"w": "pangolin",
+"pos": "noun",
+"senses": [
+"Any of several long-tailed, scale-covered mammals of the family Manidae within the order Pholidota of tropical Africa and Asia."
+],
+"ety": "Borrowed from Malay pengguling, from peng- (“denominative prefix”) + guling (“to roll”).",
+"examples": [],
+"p": "PANG-guh-lin"
+},
+{
+"w": "bakhsh",
+"pos": "noun",
+"senses": [
+"An administrative division of Iran, similar to a township in the United States or a district in England."
+],
+"ety": "From Persian بخش.",
+"examples": [],
+"p": null
+},
+{
+"w": "demutualization",
+"pos": "noun",
+"senses": [
+"The act or process of demutualizing."
+],
+"ety": "From de- + mutualization.",
+"examples": [],
+"p": null
+},
+{
+"w": "uncrewed",
+"pos": "adjective",
+"senses": [
+"without a crew; unmanned"
+],
+"ety": "From un- + crewed.",
+"examples": [],
+"p": null
+},
+{
+"w": "upgradable",
+"pos": "adjective",
+"senses": [
+"Having the capacity to undergo an upgrade."
+],
+"ety": "From upgrade + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "dural",
+"pos": "noun",
+"senses": [
+"Synonym of duralumin."
+],
+"ety": "Clipping of duralumin.",
+"examples": [],
+"p": "DYOOR-ral"
+},
+{
+"w": "welfarism",
+"pos": "noun",
+"senses": [
+"An axiology or ethical theory in which value is determined by the well-being (e.g., happiness) of people or other sentient beings."
+],
+"ety": "From welfare + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "dango",
+"pos": "noun",
+"senses": [
+"A Japanese dumpling made from mochiko (rice flour)."
+],
+"ety": "Borrowed from Japanese 団子 (dango).",
+"examples": [
+"On a given day he went to the parental home of his bride to inquire after the health of the family, when they gave him some dango (dumplings) to eat.",
+"Dango are related to mochi in that both are made from glutinous rice flour. Dango, however, tend to be dense, sticky, and not stuffed with fillings.",
+"Grill the dangos until marks appear and then lightly brush the thick sauce over it."
+],
+"p": null
+},
+{
+"w": "wakeup",
+"pos": "noun",
+"senses": [
+"An act or instance of waking up.",
+"An act or instance of being awakened; a wake-up call.",
+"Colaptes auratus, northern flicker."
+],
+"ety": "Deverbal from wake up.",
+"examples": [
+"Give me a wakeup around six, will you?"
+],
+"p": null
+},
+{
+"w": "philology",
+"pos": "noun",
+"senses": [
+"The humanistic study of texts and their languages, especially ancient or classical languages."
+],
+"ety": "Inherited from Middle English Philologie, from Latin philologia, from Ancient Greek φιλολογίᾱ (philologíā, “love of argument or reasoning, love of learning and literature”).",
+"examples": [],
+"p": "fih-LAH-luh-jee"
+},
+{
+"w": "gunfighter",
+"pos": "noun",
+"senses": [
+"A person who engages in gunfights; a gunslinger."
+],
+"ety": "From gun + fighter.",
+"examples": [],
+"p": null
+},
+{
+"w": "legendry",
+"pos": "noun",
+"senses": [
+"Legends in general; mythology."
+],
+"ety": "From legend + -ry.",
+"examples": [
+"All the legendry, of course, white and Indian alike, died down during the nineteenth century, except for occasional atavistical flareups."
+],
+"p": null
+},
+{
+"w": "sampradaya",
+"pos": "noun",
+"senses": [
+"Any of several Hindu sects or denominations"
+],
+"ety": "Borrowed from Sanskrit सम्प्रदाय (sampradāya).",
+"examples": [],
+"p": null
+},
+{
+"w": "cottony",
+"pos": "adjective",
+"senses": [
+"Having some characteristics of cotton; soft and fluffy"
+],
+"ety": "From cotton + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "countertop",
+"pos": "noun",
+"senses": [
+"The top surface of a counter, for preparation of food, etc."
+],
+"ety": "From counter + top.",
+"examples": [],
+"p": null
+},
+{
+"w": "apish",
+"pos": "adjective",
+"senses": [
+"Resembling or characteristic of an ape."
+],
+"ety": "From ape + -ish.",
+"examples": [],
+"p": "AY-pish"
+},
+{
+"w": "trishna",
+"pos": "noun",
+"senses": [
+"The Vedic concept of craving or lust."
+],
+"ety": "From Sanskrit तृष्णा (tṛṣṇā).",
+"examples": [],
+"p": "TRISH-nuh"
+},
+{
+"w": "infantilism",
+"pos": "noun",
+"senses": [
+"An emotional dependency on being treated as an infant."
+],
+"ety": "From infantile + -ism.",
+"examples": [],
+"p": "in-FAN-tih-lizm"
+},
+{
+"w": "floreal",
+"pos": "adjective",
+"senses": [
+"floral; flowery"
+],
+"ety": "From Latin flōreus + -al.",
+"examples": [],
+"p": null
+},
+{
+"w": "pressurization",
+"pos": "noun",
+"senses": [
+"The act or process of increasing pressure within a volume of space."
+],
+"ety": "From pressure + -ization.",
+"examples": [],
+"p": null
+},
+{
+"w": "groschen",
+"pos": "noun",
+"senses": [
+"Any of several obsolete European silver coins."
+],
+"ety": "From German Groschen, from Middle High German grosse, from Medieval Latin (denarius) grossus (“thick (penny)”).",
+"examples": [],
+"p": null
+}
+]

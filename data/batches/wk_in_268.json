@@ -1,0 +1,419 @@
+[
+{
+"w": "cloister",
+"pos": "noun",
+"senses": [
+"such an arcade in a monastery;",
+"such an arcade fitted with representations of the stages of Christ's Passion.",
+"A place, especially a monastery or convent, devoted to religious seclusion.",
+"The monastic life."
+],
+"ety": "Recorded since about 1300 as Middle English cloistre, borrowed from Old French cloistre, clostre, or via Old English clauster, both from Medieval Latin claustrum (“portion of monastery closed off to laity”), from Latin claustrum (“place shut in, bar, bolt, enclosure”), a derivation of the past participle of claudere (“to close”). Doublet of claustrum.",
+"examples": [],
+"p": "KLOY-ster"
+},
+{
+"w": "optometrist",
+"pos": "noun",
+"senses": [
+"A person trained and skilled in examining and testing the eyes for defects, in order to prescribe corrective lenses or treatment."
+],
+"ety": "From optometry + -ist.",
+"examples": [],
+"p": "ahp-TAH-muh-trist"
+},
+{
+"w": "tingly",
+"pos": "adjective",
+"senses": [
+"Producing or feeling tingles."
+],
+"ety": "From tingle + -y.",
+"examples": [],
+"p": "TING-glee"
+},
+{
+"w": "wifebeater",
+"pos": "noun",
+"senses": [
+"One who (usually as a repeated practice) beats his wife, or a husband prone to violence."
+],
+"ety": "From wife + beater. The sleeveless shirt acquired the nickname by association with men who commit domestic violence. The lager, being relatively strong, was thought to lead to drunken disputes.",
+"examples": [],
+"p": null
+},
+{
+"w": "padma",
+"pos": "noun",
+"senses": [
+"lotus blossom"
+],
+"ety": "From Sanskrit पद्म (padma).",
+"examples": [],
+"p": null
+},
+{
+"w": "putter",
+"pos": "verb",
+"senses": [
+"To be active, but not excessively busy, at a task or a series of tasks."
+],
+"ety": "Alteration of potter.",
+"examples": [],
+"p": "PUT-er"
+},
+{
+"w": "rurality",
+"pos": "noun",
+"senses": [
+"A rural characteristic."
+],
+"ety": "From rural + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "heptarchy",
+"pos": "noun",
+"senses": [
+"A government of seven people.",
+"The realm so ruled.",
+"A group of seven states, especially (historical) those in Anglo-Saxon Britain."
+],
+"ety": "From New Latin heptarchia, from Ancient Greek ἑπτά (heptá, “hepta-: seven”) + -αρχία (-arkhía, “-archy: rule”). Equivalent to hepta- + -archy.",
+"examples": [],
+"p": "HEP-tar-kee"
+},
+{
+"w": "leachate",
+"pos": "noun",
+"senses": [
+"The liquid produced when water percolates through a permeable material."
+],
+"ety": "From leach + -ate (noun-forming suffix).",
+"examples": [],
+"p": "LEE-chayt"
+},
+{
+"w": "tektite",
+"pos": "noun",
+"senses": [
+"A small, round, dark glassy object, composed of silicates, formed by the rapid cooling of molten ejecta from meteorite impacts."
+],
+"ety": "From Ancient Greek τηκτός (tēktós, “molten”), from τήκειν (tḗkein, “to melt”).",
+"examples": [],
+"p": null
+},
+{
+"w": "chetty",
+"pos": "noun",
+"senses": [
+"A member of one of various South Indian castes of merchants, money-lenders and land-owners."
+],
+"ety": "Ultimately from Sanskrit श्रेष्ठ (śreṣṭha) or श्रेष्ठीन् (śreṣṭhīn).",
+"examples": [
+"Far too many Burmese farmers are heavily in debt to the \"chetties,\" the money-lending caste of the Madras coast."
+],
+"p": null
+},
+{
+"w": "incursion",
+"pos": "noun",
+"senses": [
+"An aggressive movement into somewhere; an invasion in the general sense.",
+"A function hosted within an educational institution, especially by or for students, for recreation, research, education or a display of works."
+],
+"ety": "From Middle English, borrowed from Old French, from Latin incursiō.",
+"examples": [],
+"p": "ing-KUR-zhun"
+},
+{
+"w": "polymorphism",
+"pos": "noun",
+"senses": [
+"The ability to assume different forms or shapes.",
+"A feature pertaining to the dynamic treatment of data elements based on their type, allowing for a method to have several definitions."
+],
+"ety": "* (object-oriented programming) Coined by British computer scientist Christopher Strachey in 1967. By surface analysis, poly- + -morphism.",
+"examples": [],
+"p": "pah-lee-MOR-fih-zum"
+},
+{
+"w": "homeware",
+"pos": "noun",
+"senses": [
+"Furnishings for the home, such as furniture and cushions."
+],
+"ety": "From home + -ware.",
+"examples": [],
+"p": null
+},
+{
+"w": "pygmalion",
+"pos": "noun",
+"senses": [
+"One who acts as the legendary Greek sculptor Pygmalion (who was granted the wish of having life given to a sculpture of his which he fell deeply in love with)."
+],
+"ety": "From Pygmalion, from Ancient Greek Πυγμαλίων (Pugmalíōn), from Phoenician 𐤐𐤏𐤌𐤉𐤕𐤍 (pʿmytn /⁠puġ‘mayaton⁠/), from Phoenician 𐤐𐤌𐤉𐤉𐤕𐤍 (pmyytn /⁠pumayyaton⁠/, “Pumay has given”), from Phoenician 𐤐𐤌𐤉 (pmy, “Pumay”) + Phoenician 𐤉𐤕𐤍 (ytn /⁠yaton⁠/, “to give”).",
+"examples": [],
+"p": "pig-MAY-lee-un"
+},
+{
+"w": "comique",
+"pos": "noun",
+"senses": [
+"A comic actor or singer."
+],
+"ety": "Borrowed from French comique.",
+"examples": [],
+"p": null
+},
+{
+"w": "superdad",
+"pos": "noun",
+"senses": [
+"A father who looks after his home and children whilst being in full-time employment."
+],
+"ety": "From super- + dad.",
+"examples": [
+"Like new dads, superdads have added the caregiver role to their worker role. But unlike new dads, superdads have made changes at work that put their father role ahead of their worker role."
+],
+"p": null
+},
+{
+"w": "hexacopter",
+"pos": "noun",
+"senses": [
+"An unmanned multirotor rotorcraft having six rotors."
+],
+"ety": "By surface analysis, hexa- (“six”) + -copter (“helicopter”).",
+"examples": [],
+"p": null
+},
+{
+"w": "humanitarianism",
+"pos": "noun",
+"senses": [
+"A humanitarian philosophy or practice."
+],
+"ety": "From humanitarian + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "tzolkin",
+"pos": "noun",
+"senses": [
+"The Mayan calendar consisting of 260 days."
+],
+"ety": "A neoterm coined by Western scholars from the Yucatec Maya words tzol (“count”) and k'in (“day”); it is unknown what the classical-era Maya natively called their calendar.",
+"examples": [],
+"p": null
+},
+{
+"w": "uninterruptible",
+"pos": "adjective",
+"senses": [
+"Not able to be interrupted."
+],
+"ety": "From un- + interruptible.",
+"examples": [],
+"p": null
+},
+{
+"w": "assiette",
+"pos": "noun",
+"senses": [
+"A plate of food, but typically a small plate containing the same food item prepared in various different ways",
+"A mixture of bole, bloodstone, and galena once used in bookbinding as a gilding surface"
+],
+"ety": "Borrowed from French assiette. Doublet of ashet.",
+"examples": [],
+"p": null
+},
+{
+"w": "erlenmeyer",
+"pos": "noun",
+"senses": [
+"An Erlenmeyer flask."
+],
+"ety": "Ellipsis of Erlenmeyer flask.",
+"examples": [],
+"p": null
+},
+{
+"w": "unsalvageable",
+"pos": "adjective",
+"senses": [
+"That cannot be salvaged; not salvageable."
+],
+"ety": "From un- + salvageable.",
+"examples": [],
+"p": null
+},
+{
+"w": "briny",
+"pos": "adjective",
+"senses": [
+"Of a person: difficult to get along with or to like; acerbic, prickly, unlikable."
+],
+"ety": "The adjective is from brine (noun) + -y (suffix forming adjectives with the sense ‘having the quality of’). The noun is from the adjective.",
+"examples": [],
+"p": "BRY-nee"
+},
+{
+"w": "electroacoustic",
+"pos": "adjective",
+"senses": [
+"acoustic sounds that are manipulated and processed by electronic devices, e.g. altering vocals with a vocoder"
+],
+"ety": "From electro- + acoustic.",
+"examples": [],
+"p": null
+},
+{
+"w": "syntactical",
+"pos": "adjective",
+"senses": [
+"syntactic, related to syntax"
+],
+"ety": "From Latin syntacticus + -al.",
+"examples": [],
+"p": "sin-TAK-tuh-kul"
+},
+{
+"w": "altissimo",
+"pos": "noun",
+"senses": [
+"The highest register of a woodwind instrument, or a specific note in this register"
+],
+"ety": "Borrowed from Italian altissimo.",
+"examples": [
+"He could fold the full pitch range of the horn into a short solo, from altissimo to the lowest notes, and connect rarefied ideas to the rich, soulful phrasing of saxophonists like Junior Walker."
+],
+"p": null
+},
+{
+"w": "marigold",
+"pos": "adjective",
+"senses": [
+"Having the color of marigolds, a bright yellowish-orange hue."
+],
+"ety": "From Middle English marigolde, marygoldye, from Mary (referring to the Virgin Mary) + Middle English golde (“marigold”).",
+"examples": [],
+"p": "MAR-ih-gohld"
+},
+{
+"w": "marler",
+"pos": "noun",
+"senses": [
+"A laborer in a marlpit."
+],
+"ety": "From marl + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "artel",
+"pos": "noun",
+"senses": [
+"A Russian or Soviet craftsmen's collective."
+],
+"ety": "Borrowed from Russian артель (artelʹ).",
+"examples": [],
+"p": "ar-TEL"
+},
+{
+"w": "rocketman",
+"pos": "noun",
+"senses": [
+"A rocketeer or rocket scientist."
+],
+"ety": "From rocket + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "lumia",
+"pos": "noun",
+"senses": [
+"The use of light patterns as an expressive art form, unaccompanied by sound."
+],
+"ety": "Coined by the musician and inventor Thomas Wilfred (1889-1968), presumably from Latin lumen (“light”).",
+"examples": [],
+"p": null
+},
+{
+"w": "corporatocracy",
+"pos": "noun",
+"senses": [
+"Rule by corporations."
+],
+"ety": "From corporate + -o- + -cracy.",
+"examples": [
+"He spent most of the 1970s and ’80s helping the evil corporatocracy that runs the Secret American Empire establish suzerainty over the Middle East, Southeast Asia, South America and Africa."
+],
+"p": null
+},
+{
+"w": "sentai",
+"pos": "noun",
+"senses": [
+"A Japanese military unit; a squadron, task force, group or wing."
+],
+"ety": "Borrowed from Japanese 戦隊.",
+"examples": [],
+"p": null
+},
+{
+"w": "epact",
+"pos": "noun",
+"senses": [
+"the time (number of days) by which a solar year exceeds twelve lunar months; it is used in the calculation of the date of Easter"
+],
+"ety": "From French épacte, from Latin epactae, from Ancient Greek ἐπακταί (epaktaí, “intercalary days”), feminine plural of ἐπακτός (epaktós, “brought on or in, added”).",
+"examples": [],
+"p": null
+},
+{
+"w": "delegitimization",
+"pos": "noun",
+"senses": [
+"The act or process of delegitimizing (delegitimating)."
+],
+"ety": "From de- + legitimization.",
+"examples": [],
+"p": null
+},
+{
+"w": "agglutinate",
+"pos": "adjective",
+"senses": [
+"United with glue or as with glue; cemented together."
+],
+"ety": "From Latin agglūtinātus, past participle of agglūtināre, adglūtināre (“to glue or cement to a thing”), from ad (“to”) + glūtināre (“to glue”), from glūten (“paste, glue”).",
+"examples": [],
+"p": "uh-GLOO-tih-nut"
+},
+{
+"w": "washup",
+"pos": "noun",
+"senses": [
+"The act by which something is washed.",
+"Something or somebody that is washed up; a has-been."
+],
+"ety": "Deverbal from wash up.",
+"examples": [],
+"p": null
+},
+{
+"w": "gifter",
+"pos": "noun",
+"senses": [
+"One who gives a gift."
+],
+"ety": "From gift + -er.",
+"examples": [],
+"p": null
+}
+]

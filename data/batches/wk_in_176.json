@@ -1,0 +1,440 @@
+[
+{
+"w": "ravioli",
+"pos": "noun",
+"senses": [
+"Small square parcels of pasta filled with meat, cheese, spinach etc.",
+"A dish made with ravioli.",
+"by analogy, similar dishes/pastas from non-Italian cuisines.",
+"Synonym of dumpling, dishes similar to Italian ravioli, stuffed doughs and pastries."
+],
+"ety": "Borrowed from Italian ravioli.",
+"examples": [],
+"p": "ra-vee-OH-lee"
+},
+{
+"w": "artichoke",
+"pos": "noun",
+"senses": [
+"A plant related to the thistle with enlarged flower heads eaten as a vegetable while immature, Cynara cardunculus var. scolymus.",
+"A dull green colour, like that of an artichoke."
+],
+"ety": "From Lombard articioch (cf. articiocco), from Occitan artichaut, from Old Spanish alcarchofa, from Andalusian Arabic الْخَرْشُوف (al-ḵaršúf), from Arabic الْخُرْشُوف (al-ḵuršūf), definite form of خُرْشُوف (ḵuršūf).",
+"examples": [],
+"p": "AR-tih-chohk"
+},
+{
+"w": "grandpappy",
+"pos": "noun",
+"senses": [
+"A grandfather."
+],
+"ety": "From grand- + pappy.",
+"examples": [
+"Come and say hello to your old grandpappy Cranky."
+],
+"p": null
+},
+{
+"w": "keyline",
+"pos": "noun",
+"senses": [
+"A contour line connecting all points in valley at the same elevation as the keypoint, used in planning efficient water usage.",
+"A boundary line that separates color and monochromatic areas or differently colored areas of print."
+],
+"ety": "From key + line.",
+"examples": [],
+"p": null
+},
+{
+"w": "polarizable",
+"pos": "adjective",
+"senses": [
+"Able to be polarized"
+],
+"ety": "From polarize + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "doney",
+"pos": "noun",
+"senses": [
+"girl, sweetheart, darling, young woman, woman"
+],
+"ety": "Perhaps from Catalan dona or Spanish doña; perhaps introduced to England by sailors who had visited Spanish or Italian portshttp://www.mudcat.org/thread.cfm?threadid=54922&messages=35",
+"examples": [],
+"p": null
+},
+{
+"w": "foxfire",
+"pos": "noun",
+"senses": [
+"Wood exhibiting fungal bioluminescence; torchwood."
+],
+"ety": "Possibly from fox + fire, though the semantic connection is unclear. Alternatively, the first element may be ultimately from Old French fols (“false”), or the term may derive by folk etymology from phosphor.",
+"examples": [],
+"p": "FAHKS-fy-er"
+},
+{
+"w": "epididymal",
+"pos": "adjective",
+"senses": [
+"Of, in or pertaining to the epididymis, the tube in male mammals which connects the efferent ducts from the rear of each testicle to its vas deferens."
+],
+"ety": "From epididymis + -al.",
+"examples": [],
+"p": "ep-uh-DID-uh-mul"
+},
+{
+"w": "neurodevelopment",
+"pos": "noun",
+"senses": [
+"The development of the nervous system during the life of an organism."
+],
+"ety": "From neuro- + development.",
+"examples": [],
+"p": null
+},
+{
+"w": "underwhelm",
+"pos": "verb",
+"senses": [
+"To fail to impress; to perform disappointingly."
+],
+"ety": "From under- + whelm: a humorous coinage by novel negation of overwhelm first recorded in the 1950s.",
+"examples": [
+"The fact that I even mentioned YouTube in the same paragraph as the middling TV company ViacomCBS and Twitter … well, that says something about how YouTube has underwhelmed for some time."
+],
+"p": null
+},
+{
+"w": "salumi",
+"pos": "noun",
+"senses": [
+"Synonym of salume (“cured or cooked meat”)."
+],
+"ety": "Borrowed from Italian salumi.",
+"examples": [
+"Knowing when the salumi is ready is also critical, if not downright nerve-racking. While some salumi is sliced as young as three weeks, their best-selling prosciutto is aged for as long as two years.",
+"High on one wall are glass cases where home-cured salumis are hung to age, like a cross between an Italian salumeria and a museum of natural history."
+],
+"p": null
+},
+{
+"w": "torta",
+"pos": "noun",
+"senses": [
+"A sandwich, served either hot or cold, on an oblong white sandwich roll, derived from Mexican cuisine.",
+"A flat heap of moist, crushed silver ore, prepared for the patio process."
+],
+"ety": "Borrowed from Spanish torta, from Latin turta, thought to derive from Latin tŏrta f (“twisted”). Doublet of torte and tart.",
+"examples": [],
+"p": "TOR-tuh"
+},
+{
+"w": "kickout",
+"pos": "noun",
+"senses": [
+"A penalty for holding or sinking the driver",
+"A hole in the playfield that briefly captures the ball and then ejects it."
+],
+"ety": "Deverbal from kick out.",
+"examples": [
+"Juliet Lawrence led the Crushers in Monday's neck-and-neck loss with 3 goals and had 3 steals and a caused kickout.",
+"Strohson tallied a goal, two steals and two exclusions earned. Chimilar finished with an assist, three steals and a kickout drawn.",
+"Taye Luke also scored for Santa Ynez, while accounting for one assist, a steal and one kickout."
+],
+"p": null
+},
+{
+"w": "diasporan",
+"pos": "noun",
+"senses": [
+"A member of a diaspora."
+],
+"ety": "From diaspora + -an.",
+"examples": [],
+"p": "dy-AS-puh-run"
+},
+{
+"w": "exacta",
+"pos": "noun",
+"senses": [
+"A bet in which the bettor must correctly pick the two runners who finish first and second, in the correct order."
+],
+"ety": "Unadapted borrowing from Latin exactus (literally “precise, acccurate”).",
+"examples": [],
+"p": null
+},
+{
+"w": "retrofit",
+"pos": "verb",
+"senses": [
+"To supply (a device, structure, etc.) with new components or parts that were not previously available or installed; to modernize.",
+"To add or substitute (new components or parts) that were not previously available for or installed in a device, structure, etc.",
+"To give new characteristics or make alterations (to someone or something) to suit them to changed circumstances.",
+"To supply a device, structure, etc., with new components or parts that were not previously available or installed."
+],
+"ety": "The verb is derived from retro- (prefix meaning ‘back; backward’) + fit (“to equip, supply”). The noun, which is first attested later than the verb, is either derived: * from the verb (see above); or * from retro- + fit (“act of fitting; conformity of elements one to another”).",
+"examples": [],
+"p": "ret-roh-FIT"
+},
+{
+"w": "porbeagle",
+"pos": "noun",
+"senses": [
+"A large pelagic predatory shark, Lamna nasus, of the Atlantic."
+],
+"ety": "Unclear, but likely from Cornish porth (“harbor”) + bugel (“shepherd”), with the latter element either influenced by English beagle or in fact formed from it, with only the first element truly being from Cornish.",
+"examples": [
+"In English waters, the porbeagle is considered the premier shark to catch, but in other parts of the world it is considered a nuisance, or at best a poor substitute for its more glamorous relative, the mako."
+],
+"p": null
+},
+{
+"w": "pated",
+"pos": "adjective",
+"senses": [
+"Having a pate or a particular type of pate (head)"
+],
+"ety": "From pate + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "prestiged",
+"pos": "adjective",
+"senses": [
+"Of high prestige.",
+"Of prestige."
+],
+"ety": "From prestige + -ed.",
+"examples": [
+"If I could I would guess at the soft whisper’d words / That make little souls flutter like poor prison’d birds, / And arm all the feelings in hostile array / E’en to prestiged invaders like Vivian de Grey.",
+"Where group members are loyal, it is enough merely to let them know that such and such beliefs are heretical or are dangerous, especially if those giving the warning are honored or prestiged persons.",
+"Finally, Colonel Carlos Mendieta Montefur, a very prestiged and reputable man who had fought in the Independence War, took the presidency."
+],
+"p": null
+},
+{
+"w": "snaggle",
+"pos": "noun",
+"senses": [
+"A knotted or intertwined mass, a tangle.",
+"A problem, particularly after orthopedic surgery."
+],
+"ety": "From snag + -le.",
+"examples": [],
+"p": "SNAG-ul"
+},
+{
+"w": "polyglutamine",
+"pos": "adjective",
+"senses": [
+"Involving more than one glutamine; (medicine) applied to a class of trinucleotide repeat disorder."
+],
+"ety": "From poly- + glutamine.",
+"examples": [],
+"p": null
+},
+{
+"w": "chevalier",
+"pos": "noun",
+"senses": [
+"cavalier; knight",
+"In tarot cards, the card between the valet and the dame."
+],
+"ety": "From Middle English chivaler or chevaler (also shyvalere while code-switching), from Anglo-Norman chevaler or chivaler, later refashioned after French chevalier, from Late Latin caballārius (“horseman”), from Latin caballus (“horse”). Doublet of caballero and cavalier.",
+"examples": [],
+"p": "shev-uh-LEER"
+},
+{
+"w": "ostend",
+"pos": "verb",
+"senses": [
+"To exhibit or show"
+],
+"ety": "Latin ostendere (“to show”).",
+"examples": [
+"Mercy to mean offenders we'll ostend."
+],
+"p": null
+},
+{
+"w": "troposphere",
+"pos": "noun",
+"senses": [
+"The lower levels of the atmosphere extending from the surface of the Earth or another celestial body up to the tropopause. It is characterized by convective air movements and a large vertical temperature change."
+],
+"ety": "Borrowed from French troposphère. Equivalent to tropo- + -sphere.",
+"examples": [],
+"p": "TROH-pus-feer"
+},
+{
+"w": "demotivational",
+"pos": "adjective",
+"senses": [
+"Tending or intended to demotivate."
+],
+"ety": "From de- + motivational.",
+"examples": [
+"But could a demotivational process have begun in prelinguistic times and what we see today be a continuation of that?"
+],
+"p": null
+},
+{
+"w": "yamen",
+"pos": "noun",
+"senses": [
+"A residence of an official of the Chinese Empire."
+],
+"ety": "From Mandarin 衙門／衙门 (yámen).",
+"examples": [],
+"p": "YAH-mun"
+},
+{
+"w": "poleman",
+"pos": "noun",
+"senses": [
+"One who propels a boat using a pole.",
+"One who tests the depth of the water using a pole, while aboard a vessel."
+],
+"ety": "From pole + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "backboned",
+"pos": "adjective",
+"senses": [
+"Having a spine."
+],
+"ety": "From backbone + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "ammonoid",
+"pos": "noun",
+"senses": [
+"An extinct cephalopod of the subclass †Ammonoidea (including ammonites)."
+],
+"ety": "From the scientific name Ammonoidea, equivalent to Ammon + -oid.",
+"examples": [],
+"p": null
+},
+{
+"w": "chromogenic",
+"pos": "adjective",
+"senses": [
+"Describing a process in which a black-and-white image is replaced by a coloured one."
+],
+"ety": "From chromo- + -genic or chromogen + -ic.",
+"examples": [],
+"p": null
+},
+{
+"w": "shippable",
+"pos": "adjective",
+"senses": [
+"Able to be shipped."
+],
+"ety": "From ship + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "righty",
+"pos": "noun",
+"senses": [
+"A right-handed person.",
+"A right-wing person."
+],
+"ety": "From right + -y (nominal suffix).",
+"examples": [],
+"p": null
+},
+{
+"w": "yawner",
+"pos": "noun",
+"senses": [
+"A person who yawns."
+],
+"ety": "From yawn + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "twinnie",
+"pos": "noun",
+"senses": [
+"A surfboard with two fins."
+],
+"ety": "From twin + -ie.",
+"examples": [],
+"p": null
+},
+{
+"w": "achill",
+"pos": "adjective",
+"senses": [
+"chilled; chilly"
+],
+"ety": "From a- + chill.",
+"examples": [],
+"p": null
+},
+{
+"w": "innie",
+"pos": "noun",
+"senses": [
+"An introvert."
+],
+"ety": "From in + -ie.",
+"examples": [],
+"p": "IN-ee"
+},
+{
+"w": "spica",
+"pos": "noun",
+"senses": [
+"A kind of bandage passing, by successive turns and crosses, from an extremity to the trunk; a spiral bandage with reversed turns."
+],
+"ety": "Learned borrowing from Latin spica.",
+"examples": [],
+"p": null
+},
+{
+"w": "intrauterine",
+"pos": "adjective",
+"senses": [
+"Located or taking place inside the uterus."
+],
+"ety": "From intra- + uterine.",
+"examples": [],
+"p": "in-truh-YOO-tuh-rin"
+},
+{
+"w": "operable",
+"pos": "adjective",
+"senses": [
+"Able to be operated or used.",
+"Able to be put into operation; practicable.",
+"Able to be treated by surgery."
+],
+"ety": "Borrowed from Latin operābilis.",
+"examples": [],
+"p": "AH-puh-ruh-bul"
+},
+{
+"w": "sheepy",
+"pos": "adjective",
+"senses": [
+"Resembling or characteristic of a sheep."
+],
+"ety": "From sheep + -y.",
+"examples": [],
+"p": null
+}
+]

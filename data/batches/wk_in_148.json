@@ -1,0 +1,433 @@
+[
+{
+"w": "notochord",
+"pos": "noun",
+"senses": [
+"A flexible rodlike structure that forms the main support of the body in the lowest chordates; a primitive spine.",
+"A similar structure found in the embryos of vertebrates from which the spine develops."
+],
+"ety": "From noto- + chord.",
+"examples": [],
+"p": null
+},
+{
+"w": "planetarian",
+"pos": "noun",
+"senses": [
+"An inhabitant of a planet",
+"An operator of a planetarium"
+],
+"ety": "From planetary + -an.",
+"examples": [],
+"p": "plan-uh-TAIR-ee-un"
+},
+{
+"w": "honker",
+"pos": "noun",
+"senses": [
+"A large nose.",
+"A wild goose."
+],
+"ety": "From honk + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "spermatogenesis",
+"pos": "noun",
+"senses": [
+"The process of sperm production in the testes."
+],
+"ety": "From spermato- + -genesis.",
+"examples": [],
+"p": null
+},
+{
+"w": "exedra",
+"pos": "noun",
+"senses": [
+"A semicircular recess, with stone benches, used as a place for discussion.",
+"A curved bench with a high back."
+],
+"ety": "From Ancient Greek ἐξ (ex, “out of”) + ἕδρα (hédra, “seat”).",
+"examples": [],
+"p": null
+},
+{
+"w": "rasam",
+"pos": "noun",
+"senses": [
+"A spicy South Indian soup made with tamarind juice."
+],
+"ety": "Probably borrowed from Tamil ரசம் (racam), from Sanskrit रस (rasa, “juice”). Doublet of rasa.",
+"examples": [],
+"p": null
+},
+{
+"w": "trypan",
+"pos": "noun",
+"senses": [
+"The dye (and former drug) trypan blue."
+],
+"ety": "From trypanocide.",
+"examples": [],
+"p": null
+},
+{
+"w": "podgy",
+"pos": "adjective",
+"senses": [
+"Slightly fat."
+],
+"ety": "From podge + -y.",
+"examples": [],
+"p": "PAH-jee"
+},
+{
+"w": "asphyxiation",
+"pos": "noun",
+"senses": [
+"Death due to lack of oxygen.",
+"An acute lack of oxygen."
+],
+"ety": "From asphyxiate + -ion.",
+"examples": [],
+"p": "as-fik-see-AY-shun"
+},
+{
+"w": "pylon",
+"pos": "noun",
+"senses": [
+"A gateway to the inner part of an Ancient Egyptian temple.",
+"A pillar used to support a bridge.",
+"A tall steel or concrete tower from which cables are strung.",
+"A lighting mast; a freestanding support for floodlights.",
+"A traffic cone."
+],
+"ety": "Learned borrowing from Ancient Greek πυλών (pulṓn, “gateway”).",
+"examples": [],
+"p": "PY-lon"
+},
+{
+"w": "citron",
+"pos": "noun",
+"senses": [
+"The fruit of a citron tree.",
+"The candied rind of the citron fruit.",
+"A greenish yellow colour, inspired by the color of the rind of the citron fruit."
+],
+"ety": "Borrowed from French citron (“lemon, lime”), Latin citrus (“citron tree, thuja”), probably via Etruscan derived from Ancient Greek κέδρος (kédros, “cedar”) (see there for further etymology).",
+"examples": [],
+"p": "SIT-run"
+},
+{
+"w": "werecat",
+"pos": "noun",
+"senses": [
+"A shapeshifter who can change between cat and human form."
+],
+"ety": "From were- + cat.",
+"examples": [],
+"p": "WAIR-kat"
+},
+{
+"w": "shodan",
+"pos": "noun",
+"senses": [
+"The lowest black belt rank in Japanese martial arts.",
+"One who has attained this rank."
+],
+"ety": "Borrowed from Japanese 初段.",
+"examples": [],
+"p": null
+},
+{
+"w": "polydactyl",
+"pos": "adjective",
+"senses": [
+"Polydactylous."
+],
+"ety": "From Ancient Greek πολυδάκτυλος (poludáktulos), equivalent to poly- + -dactyl.",
+"examples": [],
+"p": null
+},
+{
+"w": "telesis",
+"pos": "noun",
+"senses": [
+"Directed social advancement via education and the scientific method."
+],
+"ety": "Borrowed from Ancient Greek τέλεσις (télesis, “accomplishment”).",
+"examples": [],
+"p": null
+},
+{
+"w": "mikan",
+"pos": "noun",
+"senses": [
+"An orange seedless citrus fruit Citrus unshiu, originating from Japan, about the size of a tangerine."
+],
+"ety": "From Japanese 蜜柑 (ミカン, mikan), short for 温州蜜柑 (うんしゅうミカン, Unshū mikan, literally “honey citrus of Wēnzhōu”).",
+"examples": [],
+"p": "mih-KAHN"
+},
+{
+"w": "anarch",
+"pos": "noun",
+"senses": [
+"The author of anarchy; one who excites revolt."
+],
+"ety": "From an- + -arch.",
+"examples": [
+"Thus Satan; and him thus the Anarch old / With falt'ring speech and visage incomposed / Answer'd.",
+"As all the world knows, Emma Goldman is the chief anarch of her time."
+],
+"p": null
+},
+{
+"w": "seafront",
+"pos": "noun",
+"senses": [
+"The seashore, the coast."
+],
+"ety": "From sea + front.",
+"examples": [
+"Visit the Jurassic Coast World Heritage Site in the UK, and ammonite road signs greet you at every town and city and even the lampposts on the seafront feature a familiar coiled shell."
+],
+"p": null
+},
+{
+"w": "bhikkhu",
+"pos": "noun",
+"senses": [
+"A male Buddhist monk or priest; one who follows all Buddhist precepts as a full member of the sangha."
+],
+"ety": "Transliteration of Pali bhikkhu (“beggar, Buddhist monk”), from Sanskrit भिक्षु (bhikṣu, “mendicant”).",
+"examples": [],
+"p": "BIK-oo"
+},
+{
+"w": "kanon",
+"pos": "noun",
+"senses": [
+"Synonym of monochord (used mainly in reference to ancient Greek music)"
+],
+"ety": "From Ancient Greek κᾰνών (kănṓn, “straight rod, bar”). Doublet of cannon, canon, and canyon.",
+"examples": [],
+"p": null
+},
+{
+"w": "gamut",
+"pos": "noun",
+"senses": [
+"A (normally) complete range.",
+"All the notes in a musical scale.",
+"All the colours that can be presented by a device such as a monitor or printer."
+],
+"ety": "1520s, original sense “lowest note of musical scale”, contraction of Medieval Latin gamma ut, from gamma (“Greek letter, corresponding to the musical note G”) + ut (“first solfège syllable, now replaced by do”). In modern terms, “G do” – the first note of the G scale. Meaning later extended to mean all the notes of a scale, and then more generally any complete range.",
+"examples": [],
+"p": "GAM-ut"
+},
+{
+"w": "hydrophobic",
+"pos": "adjective",
+"senses": [
+"Of, or having, hydrophobia (rabies); rabid."
+],
+"ety": "From hydrophobia + -ic.",
+"examples": [],
+"p": "hy-druh-FOH-bik"
+},
+{
+"w": "sourd",
+"pos": "verb",
+"senses": [
+"To arise, issue or emerge; to give rise."
+],
+"ety": "Inherited from Middle English sourden, from Old French sourdre, from Latin surgō, contraction of earlier subrigō. Compare source. Doublet of surge.",
+"examples": [],
+"p": "soord"
+},
+{
+"w": "containerized",
+"pos": "adjective",
+"senses": [
+"Built to be operated out of a seacan, shipping container."
+],
+"ety": "containerize + -ed (past tense): Etymology tree Proto-Indo-European *ḱe? Proto-Indo-European *ḱóm Proto-Italic *kom Proto-Italic *kom- Latin con- Proto-Indo-European *ten- Proto-Indo-European *-yéti Proto-Indo-European *tn̥eh₁yéti Proto-Italic *tenēō Latin teneō Latin contineōder. Latin continērelbor. Old French contenirbor. Middle English conteinen Proto-Indo-European *-yósder. Proto-Italic *-āzios Latin -āriusnom. Latin -āriusbor. Proto-Germanic *-ārijaz Proto-West Germanic *-ārī Old English -ere Middle English -ere Middle English conteiner English container Proto-Indo-European *-id- Proto-I",
+"examples": [],
+"p": null
+},
+{
+"w": "eisteddfod",
+"pos": "noun",
+"senses": [
+"Any of several annual festivals in which Welsh poets, dancers, and musicians compete for recognition.",
+"(more generally) An annual performing arts competition, typically for youth."
+],
+"ety": "Unadapted borrowing from Welsh eisteddfod (“session”), from eistedd (“to sit”) + bod (“to be”), literally “being sitting”.",
+"examples": [],
+"p": "eye-STETH-vod"
+},
+{
+"w": "ignorable",
+"pos": "adjective",
+"senses": [
+"Able to be ignored.",
+"Insignificant or trivial enough to be ignored."
+],
+"ety": "From ignore + -able.",
+"examples": [
+"Users on this Internet chat system are ignorable by right-clicking the user name."
+],
+"p": null
+},
+{
+"w": "hummocky",
+"pos": "adjective",
+"senses": [
+"Having hummocks."
+],
+"ety": "From hummock + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "catatonia",
+"pos": "noun",
+"senses": [
+"A severe psychiatric condition, often associated with schizophrenia, characterized by a tendency to remain in a rigid state of stupor for long periods which give way to short periods of extreme agitation.",
+"A frozen, unresponsive state, as of electronic equipment."
+],
+"ety": "From international scientific vocabulary, from German Katatonie, from New Latin catatonia, from a Greek word meaning to stretch tight. By surface analysis, cata- + tone + -ia.",
+"examples": [],
+"p": "kat-uh-TOH-nee-uh"
+},
+{
+"w": "carder",
+"pos": "noun",
+"senses": [
+"A person employed to card wool.",
+"A carding machine.",
+"A criminal who steals information from credit cards."
+],
+"ety": "From card + -er.",
+"examples": [],
+"p": "KAR-der"
+},
+{
+"w": "garri",
+"pos": "noun",
+"senses": [
+"A West African food made from fried mashed cassava tubers."
+],
+"ety": "From Yoruba gàrí, from Hausa gā̀rī.",
+"examples": [
+"They cooked together, his mother stirring the soup, Obinze making the garri."
+],
+"p": null
+},
+{
+"w": "lyricist",
+"pos": "noun",
+"senses": [
+"A person who writes the lyrics of a song."
+],
+"ety": "From lyric + -ist.",
+"examples": [],
+"p": "LEER-ih-sist"
+},
+{
+"w": "pluralize",
+"pos": "verb",
+"senses": [
+"To multiply; to make manifold.",
+"To hold more than one ecclesiastical benefice at the same time."
+],
+"ety": "From plural + -ize.",
+"examples": [],
+"p": null
+},
+{
+"w": "bastardry",
+"pos": "noun",
+"senses": [
+"The state of being a bastard (illegitimate child)."
+],
+"ety": "From Middle English bastardrie, an alternation of bastardie after the suffix -erie; equivalent to bastard + -ry.",
+"examples": [],
+"p": null
+},
+{
+"w": "entremets",
+"pos": "noun",
+"senses": [
+"A side dish (often of vegetables), or a small dish of savories served between courses."
+],
+"ety": "Borrowed from French entremets. Replaced earlier Middle English entermes, from Old French entremés.",
+"examples": [],
+"p": "AHN-truh-may"
+},
+{
+"w": "verificationism",
+"pos": "noun",
+"senses": [
+"Belief in the verifiability principle."
+],
+"ety": "From verification + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "credentialism",
+"pos": "noun",
+"senses": [
+"Excessive emphasis on the importance of educational, academic, legal, or regulatory qualifications."
+],
+"ety": "From credential + -ism.",
+"examples": [],
+"p": "kruh-DEN-shuh-lih-zum"
+},
+{
+"w": "tunicate",
+"pos": "noun",
+"senses": [
+"Any of very many chordate marine animals, of the subphyla Tunicata or Urochordata, including the sea squirts."
+],
+"ety": "From translingual Tunicata + -ate (noun-forming suffix). Further from Latin tunicātus, perfect passive participle of tunicō (“to clothe with a tunic”).",
+"examples": [],
+"p": null
+},
+{
+"w": "terraformer",
+"pos": "noun",
+"senses": [
+"A machine that has the ability to terraform.",
+"A person who terraforms."
+],
+"ety": "From terraform + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "orator",
+"pos": "noun",
+"senses": [
+"Someone who orates or delivers an oration.",
+"A skilled and eloquent public speaker."
+],
+"ety": "From Middle English oratour, from Anglo-Norman oratour, from Latin ōrātor.",
+"examples": [],
+"p": "AH-ruh-ter"
+},
+{
+"w": "stimulator",
+"pos": "noun",
+"senses": [
+"A person, device or substance that stimulates."
+],
+"ety": "Borrowed from Latin stimulātor.",
+"examples": [],
+"p": null
+}
+]

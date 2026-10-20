@@ -1,0 +1,443 @@
+[
+{
+"w": "agenting",
+"pos": "adjective",
+"senses": [
+"Working as an agent (one who acts for another)."
+],
+"ety": "From agent + -ing.",
+"examples": [
+"His agenting career brought him into contact with numerous Hollywood stars."
+],
+"p": null
+},
+{
+"w": "ginkgo",
+"pos": "noun",
+"senses": [
+"Any trees native to China with small, fan-shaped leaves and edible seeds.",
+"The seed of a ginkgo tree."
+],
+"ety": "From Japanese 銀杏 (ginkyō), from Chinese 銀杏／银杏 (yínxìng, “silver apricot”). Ginkgo is the name that is printed in Amoenitatum exoticarum politico-physico-medicarum Fasciculi V … (1712) authored by Engelbert Kaempfer, the first Westerner to see the species. In his way of transcription ginkyo would have been Ginkjo or Ginkio but was printed as Ginkgo. This was read by Carl Linnaeus, and the misspelling stuck.",
+"examples": [],
+"p": "GING-koh"
+},
+{
+"w": "alaihi",
+"pos": "noun",
+"senses": [
+"The Hawaiian squirrelfish, Sargocentron xantherythrum."
+],
+"ety": "From Hawaiian ʻalaʻihi.",
+"examples": [],
+"p": null
+},
+{
+"w": "deshmukh",
+"pos": "noun",
+"senses": [
+"The head or ruler of a district."
+],
+"ety": "From Marathi देशमुख (deśmukh).",
+"examples": [],
+"p": null
+},
+{
+"w": "maknae",
+"pos": "noun",
+"senses": [
+"The youngest member of an idol group."
+],
+"ety": "Borrowed from Korean 막내 (mangnae, “youngest person in a group”), transferred from its original meaning of \"lastborn child\".",
+"examples": [],
+"p": "MAHK-nay"
+},
+{
+"w": "sexpo",
+"pos": "noun",
+"senses": [
+"An exhibition of sex toys or other sexual goods and services."
+],
+"ety": "Blend of sex + expo.",
+"examples": [
+"During one of my mother's recent visits to Australia to see me, I suggested we go to the sexpo exhibition. She agreed, although without knowing exactly what she was agreeing to."
+],
+"p": null
+},
+{
+"w": "runed",
+"pos": "adjective",
+"senses": [
+"Inscribed with runes."
+],
+"ety": "From rune + -ed.",
+"examples": [
+"The number of these runed pieces is 95, but often several duplicate copies of the same type (and struck from the same die) have been found.",
+"We were on the highest point of the pass , where a deep-runed stone tells the traveller that from this spot his eye can wander over ten provinces of what the old writers called the Kingdom of Japonia."
+],
+"p": null
+},
+{
+"w": "fibrinolysis",
+"pos": "noun",
+"senses": [
+"The process wherein a fibrin clot, the product of coagulation, is broken down."
+],
+"ety": "From fibrino- + -lysis.",
+"examples": [],
+"p": null
+},
+{
+"w": "fernery",
+"pos": "noun",
+"senses": [
+"A specialized garden for the cultivation and display of ferns.",
+"An area naturally abundant in ferns."
+],
+"ety": "From fern + -ery.",
+"examples": [
+"My aunt especially loved the smaller fern houses, the ferneries."
+],
+"p": null
+},
+{
+"w": "ferromagnet",
+"pos": "noun",
+"senses": [
+"a magnet made from such material"
+],
+"ety": "From ferro- + magnet.",
+"examples": [],
+"p": null
+},
+{
+"w": "pyrokinesis",
+"pos": "noun",
+"senses": [
+"The ability to set objects or people on fire or to supernaturally project fire from one's own being through the concentration of psychic power; the power to control fire."
+],
+"ety": "From pyro- + -kinesis.",
+"examples": [],
+"p": "py-roh-kih-NEE-sis"
+},
+{
+"w": "billon",
+"pos": "noun",
+"senses": [
+"Any of several alloys of precious metals and base metals that are used (where legal) to make coins, medals etc."
+],
+"ety": "Borrowed from French billon, from Old French bille (“stick of wood”).",
+"examples": [],
+"p": null
+},
+{
+"w": "lappy",
+"pos": "noun",
+"senses": [
+"A laptop computer.",
+"the lapwing."
+],
+"ety": "Shortened forms + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "teetotalism",
+"pos": "noun",
+"senses": [
+"Abstinence from the consumption of alcohol."
+],
+"ety": "From teetotal + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "calamine",
+"pos": "verb",
+"senses": [
+"To coat or treat with calamine."
+],
+"ety": "From French calamine, from Medieval Latin calamīna, from Latin cadmīa, ultimately from Ancient Greek Κᾰδμείᾱ (Kădmeíā), from Κάδμος (Kádmos, “Cadmus”) + -εια (-eia, “-ia: forming related substances”). Doublet of cadmia, calaminaris, and lapis calaminaris.",
+"examples": [],
+"p": null
+},
+{
+"w": "fractionation",
+"pos": "noun",
+"senses": [
+"The division of a total dose of radiation into fractions.",
+"A form of hypnosis where the patient is made to enter and leave a trance state many times in quick succession."
+],
+"ety": "By surface analysis, fraction + -ation, or, by surface analysis, fractionate + -ion.",
+"examples": [],
+"p": null
+},
+{
+"w": "yarborough",
+"pos": "noun",
+"senses": [
+"A hand, in bridge or whist, that has no card with a value greater than nine (and no aces), though in some circles it is no card above a ten."
+],
+"ety": "After the second Earl of Yarborough (b. 1809), who supposedly bet 1,000 to 1 that such a hand would not occur.",
+"examples": [],
+"p": null
+},
+{
+"w": "partier",
+"pos": "noun",
+"senses": [
+"One who parties; a person who attends a party or other lively gathering.",
+"One who takes part in \"party and play\" activity, combining sex and recreational drugs."
+],
+"ety": "From party + -er.",
+"examples": [
+"Gay circuit partiers, rave kids, and people in rural areas didn't identify themselves with the crack-using population."
+],
+"p": null
+},
+{
+"w": "paddleboard",
+"pos": "noun",
+"senses": [
+"The board used in the sport of paddleboarding."
+],
+"ety": "From paddle + board.",
+"examples": [
+"But I run daily or go to the gym and go in a kayak or on a stand-up paddleboard."
+],
+"p": null
+},
+{
+"w": "iodate",
+"pos": "verb",
+"senses": [
+"To treat with iodine."
+],
+"ety": "From iod(ine) + -ate (verb-forming suffix).",
+"examples": [],
+"p": null
+},
+{
+"w": "markman",
+"pos": "noun",
+"senses": [
+"A freeman who cultivated the land under the mark system.",
+"A member of the Order of Mark Master Masons."
+],
+"ety": "From mark + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "prong",
+"pos": "noun",
+"senses": [
+"A thin, pointed, projecting part, as of an antler or a fork or similar tool.",
+"A branch; a fork.",
+"A fork (agricultural tool)."
+],
+"ety": "From Middle English pronge, perhaps from Middle Low German prange (“stick, restraining device”), from prangen (“to press, pinch”), from Old Saxon *prangan, from Proto-West Germanic *prangan, from Proto-Germanic *pranganą (“to press”), from Proto-Indo-European *(s)preng- (“to wrap up, constrict”). Akin to Lithuanian spriñgti (“to choke, become choked or obstructed”), Latvian sprañgât (“cord, constrict”), Ancient Greek σπαργανόω (sparganóō, “to swaddle”), σπάργανον (spárganon, “swaddling cloth”). See also prank, prance, prink.",
+"examples": [],
+"p": "prawng"
+},
+{
+"w": "chevet",
+"pos": "noun",
+"senses": [
+"Synonym of apse chapel."
+],
+"ety": "French [Term?], head of the bed, diminutive from chef (“head”).",
+"examples": [],
+"p": null
+},
+{
+"w": "washlet",
+"pos": "noun",
+"senses": [
+"A bidet shower, bidet seat, or similar bathroom product meant to cleanse the user."
+],
+"ety": "From a trademark registered by Japanese company Toto Ltd. Re-borrowed from Japanese ウォシュレット (woshuretto). Blend of wash + toilet, or wash + -let.",
+"examples": [],
+"p": null
+},
+{
+"w": "manicurist",
+"pos": "noun",
+"senses": [
+"A person who performs manicures."
+],
+"ety": "From manicure + -ist.",
+"examples": [
+"Again and again, I watched as manicurists, bowed over a hand or a foot of a client, some young as seven, say, “I’m sorry. I’m sorry. I’m so, so sorry,” when they had done nothing wrong."
+],
+"p": null
+},
+{
+"w": "emotionality",
+"pos": "noun",
+"senses": [
+"The state or quality of being emotional.",
+"The observable component of emotion."
+],
+"ety": "From emotional + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "sideling",
+"pos": "adjective",
+"senses": [
+"directed toward one side",
+"inclined; having an inclination"
+],
+"ety": "From Middle English sidlyng (early 14th century), from side + -lyng (modern English side + -ling).",
+"examples": [],
+"p": null
+},
+{
+"w": "snipper",
+"pos": "noun",
+"senses": [
+"A tool used for snipping."
+],
+"ety": "From snip + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "experimenter",
+"pos": "noun",
+"senses": [
+"A person who experiments."
+],
+"ety": "From experiment + -er.",
+"examples": [],
+"p": "ik-SPAIR-uh-men-ter"
+},
+{
+"w": "intrepidity",
+"pos": "noun",
+"senses": [
+"The quality of being intrepid; bravery."
+],
+"ety": "From intrepid + -ity.",
+"examples": [
+"Miss Bingley immediately fixed her eyes on his face, and desired he would tell her what lady had the credit of inspiring such reflections. Mr. Darcy replied with great intrepidity, \"Miss Elizabeth Bennet.\"",
+"The pale, inscrutable determinateness, and flinchless intrepidity of Pierre, now began to domineer upon them; for any social unusualness or greatness is sometimes most impressive in the retrospect.",
+"And then I think I saw the most tremendous exhibition of moral courage and intrepidity that it is possible to conceive."
+],
+"p": null
+},
+{
+"w": "rocketeer",
+"pos": "noun",
+"senses": [
+"Somebody who designs, launches, operates, or travels in a rocket."
+],
+"ety": "From rocket + -eer.",
+"examples": [],
+"p": null
+},
+{
+"w": "farinata",
+"pos": "noun",
+"senses": [
+"A flat baked pancake, somewhat similar to a pizza, made from chickpea flour and olive oil."
+],
+"ety": "Borrowed from Italian farinata.",
+"examples": [
+"To begin: a Ligurian specialty, farinata, half pancake, half pizza, made from chickpea flour, immersed in olive oil and baked until it sets but doesn’t crisp; the insides barely make it past gooey."
+],
+"p": null
+},
+{
+"w": "clifftop",
+"pos": "noun",
+"senses": [
+"The top of a cliff."
+],
+"ety": "From cliff + top.",
+"examples": [
+"Its streets fan out towards the clifftops, and its sheltered North Landing harbours open-decked fishing boats, called 'cobles'.",
+"At Berwick I had the privilege of joining Driver Ross Clark for my favourite clifftop run south through Northumberland, to Newcastle.",
+"Its old town rises out of the Aegean Sea towards a clifftop Venetian castle in a jumble of white-washed narrow streets, flat rooftops and balconies that provide a perfect, obstacle-filled arena for parkour."
+],
+"p": null
+},
+{
+"w": "barra",
+"pos": "noun",
+"senses": [
+"A barramundi."
+],
+"ety": "Clipping of barramundi.",
+"examples": [],
+"p": null
+},
+{
+"w": "boxlike",
+"pos": "adjective",
+"senses": [
+"Resembling or characteristic of a box."
+],
+"ety": "From box + -like.",
+"examples": [
+"The steel skin covering the framing is welded to it and to the underframe, forming a boxlike construction."
+],
+"p": null
+},
+{
+"w": "comune",
+"pos": "noun",
+"senses": [
+"the smallest civil administrative unit in Italy, a municipality in Italy",
+"civil administrative unit in Switzerland, a municipality in Switzerland"
+],
+"ety": "Borrowed from Italian comune. Doublet of commune.",
+"examples": [],
+"p": "kuh-MOO-nay"
+},
+{
+"w": "internationalize",
+"pos": "verb",
+"senses": [
+"To make something international; to involve multiple nations in."
+],
+"ety": "From international + -ize.",
+"examples": [
+"I must say there is something to be said, don't you agree darling, and I rather hope they'll internationalize the cosmic wireless and save us from some of this defatigating news."
+],
+"p": null
+},
+{
+"w": "femboy",
+"pos": "noun",
+"senses": [
+"A (typically young) male or non-binary individual who adopts a feminine aesthetic and has an androgynous appearance."
+],
+"ety": "From fem- (“feminine”) + boy.",
+"examples": [],
+"p": "FEM-boh-ih"
+},
+{
+"w": "eyewall",
+"pos": "noun",
+"senses": [
+"A ring of towering thunderstorms where the most severe weather of a cyclone occurs."
+],
+"ety": "From eye + wall.",
+"examples": [],
+"p": null
+},
+{
+"w": "artbook",
+"pos": "noun",
+"senses": [
+"A book about art, particularly concept art for an animated media production.",
+"A book containing art."
+],
+"ety": "From art + book.",
+"examples": [],
+"p": null
+}
+]

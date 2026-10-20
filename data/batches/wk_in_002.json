@@ -1,0 +1,542 @@
+[
+{
+"w": "tulle",
+"pos": "noun",
+"senses": [
+"A kind of silk lace or light netting, used for clothing, veils, etc."
+],
+"ety": "Borrowed from French tulle, named after French Tulle (a town), named after Latin Tūtēla (a Roman deity), from Latin tūtēla (whence English tutelary), from Latin tueor (whence tutor, tutorial).",
+"examples": [
+"Neer imagined Jane in tulle and leather and sequins and knew the answer."
+],
+"p": "tool"
+},
+{
+"w": "commodify",
+"pos": "verb",
+"senses": [
+"To make something into a commodity, sometimes at the expense of its intrinsic value."
+],
+"ety": "From commodity + -ify.",
+"examples": [
+"Our attention spans have been chopped up and commodified, sold off piecemeal to platforms and algorithms. We’re too busy, too lazy, too preoccupied to lose ourselves in books."
+],
+"p": "kuh-MAH-dih-fy"
+},
+{
+"w": "senility",
+"pos": "noun",
+"senses": [
+"The bodily and mental deterioration associated with old age: Synonym of senescence.",
+"The losing of memory and reason due to senescence."
+],
+"ety": "From senile + -ity.",
+"examples": [
+"He was entering his years of senility and not liking it a bit."
+],
+"p": "suh-NIL-ih-tee"
+},
+{
+"w": "chasm",
+"pos": "noun",
+"senses": [
+"A large difference of opinion."
+],
+"ety": "From Latin chasma, from Ancient Greek χάσμα (khásma, “abyss, cleft”). Doublet of chasma. Compare schism. Displaced native Old English swelh and Old English elh.",
+"examples": [
+"Chelsea may not have regarded themselves as title rivals to City over the whole season but this was a harrowing illustration of the current chasm between the two sides and made for disturbing viewing for the Italian."
+],
+"p": "KAZ-um"
+},
+{
+"w": "dragger",
+"pos": "noun",
+"senses": [
+"Something that drags.",
+"One who takes part in drag racing.",
+"A vehicle used in drag racing."
+],
+"ety": "From drag + -er.",
+"examples": [
+"So young speed enthusiasts can get high performance equipment for their \"street draggers.\""
+],
+"p": "DRAG-er"
+},
+{
+"w": "budgie",
+"pos": "noun",
+"senses": [
+"A budgerigar."
+],
+"ety": "From a clipping of budgerigar + -ie.",
+"examples": [
+"She keeps a ton of budgies in her home."
+],
+"p": "BUJ-ee"
+},
+{
+"w": "canasta",
+"pos": "noun",
+"senses": [
+"A card game similar to rummy and played using two packs, where the object is to meld groups of the same rank.",
+"A meld of seven cards in a game of canasta."
+],
+"ety": "From Spanish canasta. The game originates from Uruguay.",
+"examples": [
+"Modern American Canasta is a younger cousin of the game of Canasta I explain here.",
+"Groups of seven of a kind are called canastas, and before a player can go out he or his partner must have at least one canasta."
+],
+"p": "kuh-NAS-tuh"
+},
+{
+"w": "ardor",
+"pos": "noun",
+"senses": [
+"Great warmth of feeling; fervor; passion.",
+"Spirit; enthusiasm; passion.",
+"Intense heat."
+],
+"ety": "From Middle English ardour, ardowr, ardure, from Anglo-Norman ardour, from Old French ardur, from Latin ardor, from ardere (“to burn”).",
+"examples": [
+"I rushed towards her, and embraced her with ardour; but the deathly languor and coldness of the limbs told me, that what I now held in my arms had ceased to be the Elizabeth whom I had loved and cherished."
+],
+"p": "AR-der"
+},
+{
+"w": "grimy",
+"pos": "adjective",
+"senses": [
+"Stained or covered with grime.",
+"From the urban musical genre called grime."
+],
+"ety": "From grime + -y.",
+"examples": [
+"Riffs from older songs seem to be more popular, as only two from the past decade made it into the top 20. They were Muse's Plug In Baby, at 11, and The White Stripes' grimy Seven Nation Army at 15."
+],
+"p": "GRY-mee"
+},
+{
+"w": "droll",
+"pos": "adjective",
+"senses": [
+"Oddly humorous; whimsical, amusing in a quaint way; waggish."
+],
+"ety": "From French drôle (“comical, odd, funny”), from drôle (“buffoon”) from Middle French drolle (“a merry fellow, pleasant rascal”) from Old French drolle (“one who lives luxuriously”), from Middle Dutch drol (“fat little man, goblin”), itself from Old Norse troll, from Proto-Germanic *truzlą. Doublet of drôle and troll.",
+"examples": [
+"The Theatre of Puppets, or Marionetti—a famous company from Milan—is, without any exception, the drollest exhibition I ever beheld in my life. I never saw anything so exquisitely ridiculous."
+],
+"p": "drohl"
+},
+{
+"w": "theologian",
+"pos": "noun",
+"senses": [
+"A specialist in academic theology.",
+"Someone who studies theology.",
+"A theological lecturer attached to a cathedral church.",
+"A person who has a personal knowledge of God through prayer, asceticism, and mystical experience."
+],
+"ety": "From Old French theologien, equivalent to theology + -an.",
+"examples": [
+"Seminarians are usually divided into philosophers and theologians, depending on their stage of formation."
+],
+"p": "thee-uh-LOH-jun"
+},
+{
+"w": "amanat",
+"pos": "noun",
+"senses": [
+"A Native American hostage taken by Russian colonists."
+],
+"ety": "Borrowed from Russian амана́т (amanát, “hostage”), via a Turkic language from Arabic أَمَانَة (ʔamāna, “surety”).",
+"examples": [
+"Kuznetsov — his Aleut name is unknown — had been given to Russian fur traders as an amanat (hostage).",
+"According to Davydov (1812, 2:54, 132), the chief of the Ugalakhmiut Eyak specially came to Kodiak for a meeting with his son, who was an amanat among the Russians.",
+"Toion Fedor accepted Orthodoxy in the winter of 1795–96 when he lived at Kodiak as an amanat."
+],
+"p": "am-uh-NAHT"
+},
+{
+"w": "shiitake",
+"pos": "noun",
+"senses": [
+"A wide, brown variety of edible mushroom, Lentinula edodes."
+],
+"ety": "Borrowed from Japanese 椎茸 (shītake), from 椎 (shī, “a shii or chinquapin tree”) + 茸 (take, “a mushroom”), from the way the mushrooms tend to grow on chinquapin logs. First cited in English in 1877.",
+"examples": [
+"Some fun meatless recipes include jackfruit sandwiches in place of pulled pork; black bean meatless balls or eggplant and shiitake “meatballs.”",
+"Tea bag-style dashi kits are a better quick choice. They pack katsuobushi, kombu and often other ingredients, like dried baby sardines (niboshi) and shiitake mushrooms, into a steepable bag."
+],
+"p": "shih-TAH-kay"
+},
+{
+"w": "enema",
+"pos": "noun",
+"senses": [
+"An injection of fluid into the large intestine by way of the rectum, usually for medical purposes.",
+"The fluid so injected.",
+"A device for administering such an injection."
+],
+"ety": "Learned borrowing from Late Latin enema, itself borrowed from Ancient Greek ἔνεμα (énema, “injection”), from ἐνίημι (eníēmi, “to send in, inject”).",
+"examples": [
+"To the distensile enema of simple tepid water, no valid objection can be urged."
+],
+"p": "EN-uh-muh"
+},
+{
+"w": "bosky",
+"pos": "adjective",
+"senses": [
+"Having abundant bushes, shrubs or trees.",
+"Caused by trees or shrubs.",
+"Bushy, bristling."
+],
+"ety": "From bosk + -y.",
+"examples": [
+"The Harvard Yard is also darkened and made to seem far more bosky and umbrageous than it was.",
+"We rambled around wet fields and bosky paths that smelled of jasmine.",
+"It was open, and they looked down the road which was darkened over with long bosky shadows."
+],
+"p": "BOS-kee"
+},
+{
+"w": "opportunist",
+"pos": "noun",
+"senses": [
+"Someone who takes advantage of any opportunity to advance their own situation, placing expediency above principle."
+],
+"ety": "From French opportuniste, equivalent to opportune + -ist.",
+"examples": [
+"James Milner's angled free-kick was headed on to the post by the tireless Bent and Lampard the opportunist was perfectly placed to stoop and head in from virtually on the goal-line."
+],
+"p": "op-er-TYOO-nist"
+},
+{
+"w": "frigid",
+"pos": "adjective",
+"senses": [
+"Very cold; lacking warmth; icy.",
+"Chilly in manner; lacking affection or zeal; impassive.",
+"Sexually unresponsive, especially of a woman."
+],
+"ety": "Borrowed from Latin frīgidus (“cold”), from frīgeō (“to be cold”), from frīgus (“cold, coldness”), from Proto-Indo-European *sríHgos.",
+"examples": [
+"A frigid, fine rain was falling.",
+"In Italy, a plant called Pizza ugurdu is said to excite powerful erotic feelings even in the most frigid."
+],
+"p": "FRIJ-id"
+},
+{
+"w": "abnormality",
+"pos": "noun",
+"senses": [
+"The state or quality of being abnormal; variation; irregularity.",
+"Something abnormal; an aberration; an abnormal occurrence or feature."
+],
+"ety": "From abnormal + -ity. First attested in the mid 19th century.",
+"examples": [
+"Taylor said that her fame makes her \"sometimes\" miss the normality of being able to hang out with friends but that she's had to get used to \"the abnormality of my life\".",
+"I want a full genetic analysis. We're going to examine any abnormality we find no matter how insignificant it seems.",
+"The factors that filter out who “gets through” from conception to birth include chromosomal or genetic abnormalities of the fetus or the mother’s stress response to changes in her environment, Catalano said."
+],
+"p": "ab-nor-MAL-ut-ee"
+},
+{
+"w": "bruck",
+"pos": "adjective",
+"senses": [
+"Broke, out of liquidity.",
+"Broken, of annihilated substance integrity."
+],
+"ety": "From Jamaican Creole bruck.",
+"examples": [
+"No we ain't rich but I ain't too bruck I hear them spit, they're tryna be us Run out of flizz, I'm tryna re-up"
+],
+"p": "BRUK"
+},
+{
+"w": "satnav",
+"pos": "noun",
+"senses": [
+"A satellite navigation system; the navigation that is done via the use of such a system.",
+"A satellite navigation system receiver."
+],
+"ety": "Syllabic abbreviation of satellite navigation. Such formation from initial syllables is also alternatively classified as clipping of the compound type (producing a clipped compound), and it is sometimes categorized as blending (but blending stricto sensu involves initial and terminal parts of words that may be delimited by reanalysis).",
+"examples": [
+"Back then there was no satnav — you needed to keep a paper atlas in the delivery van and to consult it daily.",
+"Good thing we have a satnav to help us find our way."
+],
+"p": "SAT-nav"
+},
+{
+"w": "brainteaser",
+"pos": "noun",
+"senses": [
+"A problem or puzzle devised to exercise the brain and mind.",
+"Any difficult problem or puzzle."
+],
+"ety": "From brain + teaser.",
+"examples": [
+"She bought me a book of brainteasers, which is both entertaining and also supposedly good for decreasing dementia risk.",
+"Trying to figure out how to square this circle is a brainteaser to say the least."
+],
+"p": "BRAYN-tee-zer"
+},
+{
+"w": "homily",
+"pos": "noun",
+"senses": [
+"A sermon, especially concerning a practical matter.",
+"A moralizing lecture.",
+"A platitude."
+],
+"ety": "From Middle English omelī, omelīe, omelye, from Old French omelie and directly from Late Latin homīlia (“homily”), from Ancient Greek ὁμῑλίᾱ (homīlíā, “homily; instruction”), from ὅμῑλος (hómīlos, “crowd, throng”) + -ῐ́ᾱ (-ĭ́ā, suffix forming abstract feminine nouns). ὅμῑλος is derived from ὁμός (homós, “common; same”) + ῑ̓́λη (ī́lē, “crowd”) (from εἴλω (eílō, “to aggregate”)).",
+"examples": [
+"But if it be as I have heard my father / Deal out in his long homilies, 'tis a thing— / Oh God! I dare no think on 't!"
+],
+"p": "HAH-muh-lee"
+},
+{
+"w": "paten",
+"pos": "noun",
+"senses": [
+"The plate used to hold the host during the Eucharist.",
+"Any shallow dish found in an archaeological site."
+],
+"ety": "From Middle English patene, from Old French patene, from Latin patina, from Ancient Greek πατάνη (patánē). Doublet of patina, patine, and patena.",
+"examples": [
+"An enameled miniature of Christ is set in the center of a jeweled alabaster paten, the plate that holds the bread during Communion services."
+],
+"p": "PAT-un"
+},
+{
+"w": "luncheonette",
+"pos": "noun",
+"senses": [
+"A small diner or restaurant that serves lunch."
+],
+"ety": "From luncheon + -ette.",
+"examples": [
+"He talked up an acquaintance with a waitress in a luncheonette, made a date to take her driving in his Cadillac that afternoon, and came back to wake me with the news."
+],
+"p": "lun-chuh-NET"
+},
+{
+"w": "vertu",
+"pos": "noun",
+"senses": [
+"The fine arts as a subject of study or expertise; understanding of arts and antiquities.",
+"Objets d'art collectively.",
+"Especially with reference to the writings of Machiavelli (1469–1527): the requisite qualities for political or military success; vitality, determination; power.",
+"Moral worth; virtue, virtuousness."
+],
+"ety": "Borrowed from Italian virtù, †vertù (“moral worth, virtue (13th century); determination, perseverance, military valour (14th century); study of the liberal or fine arts; appreciation of, taste for, or expertise in the fine arts; objets d'art collectively (16th century)”); or from French vertu (“virtue”), ultimately from Latin virtūt-, virtus (“virtue”). Doublet of virtue; compare also virtuoso.",
+"examples": [
+"I marvelled that the king should regard a chapel as an object of vertù."
+],
+"p": "ver-TOO"
+},
+{
+"w": "carer",
+"pos": "noun",
+"senses": [
+"Someone who regularly looks after another person, either as a job or often through family responsibilities."
+],
+"ety": "From care + -er.",
+"examples": [
+"Have you thought of a job as a carer for disabled people?",
+"They retired early to be a full-time carer for their partner.",
+"He said Robins had not been in trouble with the law before and had no previous convictions. Jail would have an adverse effect on her and her three children as she was the main carer."
+],
+"p": "KAIR-er"
+},
+{
+"w": "vesture",
+"pos": "noun",
+"senses": [
+"A covering of, or like, clothing."
+],
+"ety": "From Middle English vesture (noun) and vesturen (verb), from Anglo-Norman, from Old French vesteüre, from Vulgar Latin vestītūra (“clothing”), from Latin vestītus, perfect passive participle of vestiō (“to clothe”), from vestis (“garment”).",
+"examples": [
+"His broad-brim was placed beside him; his legs were stiffly crossed; his drab vesture was buttoned up to his chin; and spectacles on nose, he seemed absorbed in reading from a ponderous volume.",
+"It pencilled each flower with rich and variegated hues, and threw over its exuberant foliage a vesture of emerald green."
+],
+"p": "VES-cher"
+},
+{
+"w": "doomy",
+"pos": "adjective",
+"senses": [
+"Filled with doom and gloom: depressing or pessimistic"
+],
+"ety": "From doom + -y.",
+"examples": [
+"Their big hit at the time was \"Death Valley '69,\" a typical droney, doomy replay of the Manson murders that was about as illuminating as your average TV mini series.",
+"Those children playing didn't look like doomy little criminals, once you knew their names.",
+"What makes Don’t Look Up such a movie of the moment also makes it less of a functional movie at all, and more of a cranky, doomy, occasionally funny headspace."
+],
+"p": "DOO-mee"
+},
+{
+"w": "doona",
+"pos": "noun",
+"senses": [
+"A padded blanket used as a cover in bed; a duvet."
+],
+"ety": "Originally a product name, derived from Danish dyne /dyːnə/. Trademark owned by the Tontine Group.",
+"examples": [
+"He had put the doona on sideways. My feet were sticking out.",
+"Lena pulled the doona over her head.",
+"Doonas can be made of goose feathers, wool or synthetics. Wash them twice a year or even more if you sweat a lot. You can tell it′s time for a wash when the fibres are packed down and lumpy, or the doona smells."
+],
+"p": "DOO-nuh"
+},
+{
+"w": "decompensation",
+"pos": "noun",
+"senses": [
+"The deterioration of cognitive or emotional functionality in a person who is distressed or who suffers from a psychological disorder."
+],
+"ety": "From de- + compensation.",
+"examples": [
+"A varying percentage of our combat soldiers reach the limit of their endurance and must leave their foxholes, not for physical wounds but because of emotional decompensation."
+],
+"p": "dee-kom-pen-SAY-shun"
+},
+{
+"w": "gnash",
+"pos": "verb",
+"senses": [
+"To grind (one's teeth) in pain or in anger.",
+"To grind between the teeth.",
+"To clash together violently.",
+"To run away."
+],
+"ety": "From Middle English gnasten. Origin unknown; the word is probably either Germanic or ultimately onomatopoeic. Compare Old Norse gnastan, Danish gnaske (\"munch\", \"crunch\"), German knirschen, German Low German gnirschen, gnörschen (“gnash”), Swedish gnissla (“squeak; gnash”), all of onomatopoeic origin.",
+"examples": [
+"There they were, boiling up in snowy spouts of spray, smiting and gnashing together like the gleaming teeth of hell."
+],
+"p": "NASH"
+},
+{
+"w": "duvet",
+"pos": "noun",
+"senses": [
+"A quilt or usually flat cloth bag with a filling (traditionally down) and usually an additional washable cover, used instead of blankets; often called a comforter or quilt, especially in US English."
+],
+"ety": "From French duvet, from Middle French duvet, from Old French duvet (“down, the feathers of young birds”), alteration of dumet, dumect, which in turn derives from dum, dun (“down, feathers”), from Old Norse dúnn (“down, down feather”), from Proto-Germanic *dūnaz (“down”), from Proto-Indo-European *dʰewh₂- (“to smoke, fume, raise dust”). Cognate with Icelandic dúnn (“down”), Danish dun (“down”), German Daune (“down”), Dutch dons (“down”). More at down.",
+"examples": [
+"He pulled the thick duvet over his head to block out the morning light."
+],
+"p": "dyoo-VAY"
+},
+{
+"w": "sappy",
+"pos": "adjective",
+"senses": [
+"Excessively sweet, emotional, nostalgic; cheesy; mushy. (British equivalent: soppy)",
+"Having (a particularly large amount of) sap."
+],
+"ety": "From Middle English sappy, sapy, from Old English sæpiġ (“full of sap, succulent”), equivalent to sap + -y. Cognate with West Frisian sappig (“juicy”), Dutch sappig (“juicy, succulent”), Middle High German saffic, seffec (\"juicy, succulent\"; > German saftig), Danish saftig (“juicy”), Swedish saftig (“juicy”). Doublet of zaftig.",
+"examples": [
+"He was a good deal of a character, and much better company than the sappy literature he was selling.",
+"It was a sappy love song, but it reminded them of their first dance.",
+"But these, tho’ fed with careful dirt, Are neither green nor sappy; Half-conscious of the garden-squirt, The spindlings look unhappy,"
+],
+"p": "SAP-ee"
+},
+{
+"w": "catamount",
+"pos": "noun",
+"senses": [
+"A wild animal of the family Felidae, especially the cougar, mountain lion or puma (Puma concolor)."
+],
+"ety": "Clipping of catamountain (“leopard, panther; ocelot; man living in the mountains”), from Late Middle English catamountain, from Middle English catte of the mountayne, cate of þe mounttaynne (“leopard, panther”).",
+"examples": [
+"Uncle Charley's voice was very soft and there was a weary note in it. \"Great snarlin' catamounts, but I'm tired.\""
+],
+"p": "KAT-uh-mownt"
+},
+{
+"w": "atari",
+"pos": "noun",
+"senses": [
+"A move that threatens the immediate capture of one or more stones."
+],
+"ety": "Borrowed from Japanese 当たり.",
+"examples": [
+"In situations like this, beginners often make the mistake of giving an atari, which strengthens only the opponent.",
+"The important thing to note is that playing the simple atari first fails ..."
+],
+"p": "uh-TAH-ree"
+},
+{
+"w": "latke",
+"pos": "noun",
+"senses": [
+"A pancake fried in oil, usually made from potatoes and sometimes also onions, traditionally served on Hanukkah."
+],
+"ety": "Borrowed from Yiddish לאַטקע (latke), from either Russian ла́тка (látka, “pastry, patch”) or Ukrainian оладка (oladka, “pancake, fritter”). In Polish łatka (“patch”) or placek, placki (“fritter, fritters”).",
+"examples": [
+"Her favorite Chanukah memories were of eating latkes and sour cream while her mother gossiped with the aunts and cousins.",
+"We do not spend our days huddled in smoke-filled rooms plotting world domination while Jared Kushner plays dreidel in the back with Noam Chomsky and George Soros sneaks the last latke."
+],
+"p": "LAHT-kee"
+},
+{
+"w": "cheder",
+"pos": "noun",
+"senses": [
+"An elementary school for Jewish children, teaching basic Judaism and Hebrew."
+],
+"ety": "From Yiddish חדר (kheyder), from Hebrew חֶדֶר (khéder, “room”).",
+"examples": [
+"A businessman in New York who happened to be in the Midlands at the time was so impressed by Asher's methods that he was funding him to set up a string of chederim – Sunday schools for Jews – all over the United States."
+],
+"p": "KHED-er"
+},
+{
+"w": "bulldoze",
+"pos": "verb",
+"senses": [
+"To destroy with a bulldozer.",
+"To push someone over by heading straight over them. Often used in conjunction with \"over\".",
+"To push through forcefully.",
+"To push into a heap, as a bulldozer does.",
+"To shoot down an idea immediately and forcefully."
+],
+"ety": "From earlier bulldose (noun, literally “bull-dose, a dose fit for a bull”), equivalent to bull + dose.",
+"examples": [
+"He's certainly very chirpy for a man whose house has just been bulldozed down.",
+"He just ran across the field bulldozing everyone over.",
+"For the second time in a week, Wenger's team gave themselves an encouraging platform. In the 11th minute Theo Walcott drilled in a corner, and Olivier Giroud bulldozed through unopposed to thump the ball goalwards."
+],
+"p": "BUUL-dohz"
+},
+{
+"w": "jacquerie",
+"pos": "noun",
+"senses": [
+"A revolt organized by peasants, typically violent."
+],
+"ety": "Borrowed from French jacquerie, from Jacquerie (derogatory nickname for peasants, literally “James”) + -erie. First attested in the early 1500s. In reference to the Jacquerie uprising of 1358 during the Hundred Years' War.",
+"examples": [
+"A jacquerie, even if carried out with the most respectful of intentions, cannot fail to leave some traces of embarrassment behind it.",
+"Whenever a jacquerie occurred, the authorities looked \"upon it as a revolt of the underdog against his native oppressor.\"",
+"Nearly three thousand manors were destroyed (15 per cent of the total) during the Jacquerie of 1905-6."
+],
+"p": "zha-KREE"
+},
+{
+"w": "meister",
+"pos": "noun",
+"senses": [
+"A person of great skill or authority in a particular field."
+],
+"ety": "From German Meister (“master, highly skilled tradesman; champion”), from Old High German meistar, from Latin magister, whence also English master, mister, magister, and maestro, making all these words doublets of each other.",
+"examples": [
+"The designated leaders so far include superstars like Harold Varmus, a Nobel laureate, and Eric Lander, genome meister."
+],
+"p": "MY-ster"
+}
+]

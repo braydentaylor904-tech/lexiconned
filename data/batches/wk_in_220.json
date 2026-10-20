@@ -1,0 +1,445 @@
+[
+{
+"w": "mouldable",
+"pos": "adjective",
+"senses": [
+"Able to be moulded; plastic"
+],
+"ety": "From mould + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "dinos",
+"pos": "noun",
+"senses": [
+"An Ancient Greek mixing-bowl or cauldron, without handles or feet."
+],
+"ety": "Borrowed from Ancient Greek δεῖνος (deînos).",
+"examples": [],
+"p": null
+},
+{
+"w": "cringer",
+"pos": "noun",
+"senses": [
+"A person who cringes or shies away."
+],
+"ety": "From cringe + -er.",
+"examples": [
+"That's Koops, from Petalburg. He's got confidence issues... He's a...cringer, y'know?"
+],
+"p": null
+},
+{
+"w": "kompromat",
+"pos": "noun",
+"senses": [
+"Compromising material, blackmail material, (real or fabricated) evidence that a person does not want revealed, dirt."
+],
+"ety": "Borrowed from Russian компрома́т (kompromát), short for компромети́рующий материа́л (komprometírujuščij materiál, “compromising material”). Soviet security service slang from the Stalin era.",
+"examples": [
+"Many observers have commented that, with so many Russian newspapers and TV channels now controlled by oligarchs or powerful organisations, kompromat is now a regular feature in the supposedly independent press."
+],
+"p": null
+},
+{
+"w": "lexicographical",
+"pos": "adjective",
+"senses": [
+"Meeting lexicographical standards or requirements; worthy of being included in a dictionary."
+],
+"ety": "From lexicographic + -al.",
+"examples": [],
+"p": null
+},
+{
+"w": "dangly",
+"pos": "adjective",
+"senses": [
+"Dangling; tending to dangle."
+],
+"ety": "From dangle + -y.",
+"examples": [],
+"p": "DANG-glee"
+},
+{
+"w": "biscuity",
+"pos": "adjective",
+"senses": [
+"Resembling or characteristic of a biscuit."
+],
+"ety": "From biscuit + -y.",
+"examples": [
+"Mouthfilling and creamy-smooth, it is peachy and slightly spicy, with biscuity, toasty notes in a high-flavoured, moderately complex style, for drinking now or cellaring."
+],
+"p": null
+},
+{
+"w": "sistren",
+"pos": "noun",
+"senses": [
+"A close female friend, family member, or comrade."
+],
+"ety": "From Middle English sustren, plural of suster influenced by Old Norse systirin, plural of systir; the Old English plurals (of sweostor) were ġesweostor, ġesweostra, and ġesweostru. Analysable as sister + -en (plural ending).",
+"examples": [
+"Come out of the dark and come into the light, sistren."
+],
+"p": null
+},
+{
+"w": "pentatonic",
+"pos": "adjective",
+"senses": [
+"Based on five tones."
+],
+"ety": "From penta- + tonic.",
+"examples": [
+"The middle movement is completely pentatonic, giving it an unusual sound."
+],
+"p": null
+},
+{
+"w": "derivate",
+"pos": "adjective",
+"senses": [
+"Derived; derivative."
+],
+"ety": "From Latin dērīvātus. Equivalent to derive + -ate (adjective-forming suffix).",
+"examples": [],
+"p": "DAIR-ih-vut"
+},
+{
+"w": "bayamo",
+"pos": "noun",
+"senses": [
+"A violent storm in the Caribbean.",
+"A violent force."
+],
+"ety": "From Spanish bayamo, from Bayamo, the capital city of the Granma Province of Cuba.",
+"examples": [
+"There was a bayamo upon the Sea."
+],
+"p": null
+},
+{
+"w": "mythopoeia",
+"pos": "noun",
+"senses": [
+"Creation of any myth."
+],
+"ety": "From mytho- + -poeia, dated 1846 CE, based on Ancient Greek μυθοποιία (muthopoiía, “myth-making”).",
+"examples": [],
+"p": "mith-uh-PEE-uh"
+},
+{
+"w": "shotty",
+"pos": "noun",
+"senses": [
+"A gauzeless pipe for smoking cannabis, more like a Vietnamese Duc Lau than a bong."
+],
+"ety": "Clipping of shotgun.",
+"examples": [],
+"p": "SHAH-tee"
+},
+{
+"w": "giftware",
+"pos": "noun",
+"senses": [
+"Items designed to be bought as gifts"
+],
+"ety": "From gift + -ware.",
+"examples": [
+"The sole witness was the president of the petitioner corporation, an \"Importer and manufacturer of lamps, giftwares, and artwares.\"",
+"We owned a company called Black Is More Than Beautiful, a giftware company. We produced calendars and gift cards and things like that."
+],
+"p": null
+},
+{
+"w": "lumpen",
+"pos": "noun",
+"senses": [
+"A member of the lumpenproletariat."
+],
+"ety": "Shortened from German Lumpenproletariat, from Lump (“a contemptible person”) + Proletariat.",
+"examples": [],
+"p": "LUM-pun"
+},
+{
+"w": "kidskin",
+"pos": "noun",
+"senses": [
+"The skin or hide of a kid, i.e., a young goat.",
+"The leather made from such skins."
+],
+"ety": "From kid + skin.",
+"examples": [],
+"p": null
+},
+{
+"w": "boxwood",
+"pos": "noun",
+"senses": [
+"The box tree, Buxus sempervirens.",
+"The hard, close-grained wood of this tree, used in delicate woodwork and in making inlays."
+],
+"ety": "From box + wood; box from Latin buxus (“box-tree, object made of boxwood”), of uncertain origin; compare Ancient Greek πύξος (púxos).",
+"examples": [],
+"p": null
+},
+{
+"w": "bicipital",
+"pos": "adjective",
+"senses": [
+"Of a muscle, having two heads or points of origin."
+],
+"ety": "From Latin biceps (“double-headed”).",
+"examples": [],
+"p": "by-SIP-ih-tul"
+},
+{
+"w": "volost",
+"pos": "noun",
+"senses": [
+"A traditional administrative subdivision in Eastern Europe."
+],
+"ety": "Borrowed from Russian во́лость (vólostʹ) and Ukrainian во́лость (vólostʹ), from Old East Slavic волость (volostĭ).",
+"examples": [
+"In 1923 Soviet Ukraine’s 102 povity were replaced by 53 larger okruhy (sing. okruha), and its 1,989 volosti by 706 raions."
+],
+"p": null
+},
+{
+"w": "travelator",
+"pos": "noun",
+"senses": [
+"A moving walkway; a slow conveyor belt that transports people horizontally or on an incline in a similar manner to an escalator."
+],
+"ety": "Blend of travel + escalator.",
+"examples": [],
+"p": "TRAV-uh-lay-ter"
+},
+{
+"w": "machinal",
+"pos": "adjective",
+"senses": [
+"In the manner or style of a machine."
+],
+"ety": "From machine + -al.",
+"examples": [],
+"p": null
+},
+{
+"w": "luminaria",
+"pos": "noun",
+"senses": [
+"A vigil fire used in ceremonies in Native American and Hispanic cultures.",
+"A makeshift lantern used as a holiday decoration, especially in Hispanic culture."
+],
+"ety": "Borrowed from Spanish luminaria.",
+"examples": [],
+"p": null
+},
+{
+"w": "helicobacter",
+"pos": "noun",
+"senses": [
+"Any member of the Helicobacter bacteria."
+],
+"ety": "Borrowed from translingual Helicobacter.",
+"examples": [],
+"p": null
+},
+{
+"w": "oatcake",
+"pos": "noun",
+"senses": [
+"Any of many flat biscuits, or cakes, made from oatmeal.",
+"a Staffordshire oatcake"
+],
+"ety": "From oat + cake.",
+"examples": [],
+"p": null
+},
+{
+"w": "sunland",
+"pos": "noun",
+"senses": [
+"A sunny region or landscape."
+],
+"ety": "From sun + -land.",
+"examples": [
+"The sunlands of the West and the spicelands of the East, the smiling Arcadias and blissful Islands of the Blest—ha! ha!"
+],
+"p": null
+},
+{
+"w": "yandy",
+"pos": "noun",
+"senses": [
+"The dish used in this process"
+],
+"ety": "From Yindjibarndi yandy.",
+"examples": [],
+"p": null
+},
+{
+"w": "categoria",
+"pos": "noun",
+"senses": [
+"Exposure of an opponent's secret wickedness, especially in the opponent's presence."
+],
+"ety": "Borrowed from Late Latin, from Ancient Greek κατηγορία (katēgoría, “public accusation”). Doublet of category.",
+"examples": [],
+"p": null
+},
+{
+"w": "eelgrass",
+"pos": "noun",
+"senses": [
+"Zostera spp. in marine environments",
+"especially Zostera marina, growing abundantly in shallow bays along the coasts of the Northern Hemisphere.",
+"Vallisneria spp. in freshwater environments."
+],
+"ety": "From eel + grass.",
+"examples": [],
+"p": null
+},
+{
+"w": "filbert",
+"pos": "noun",
+"senses": [
+"The hazelnut.",
+"The hazel tree.",
+"A paintbrush used in oil and acrylic painting with a long ferrule and a curving, tongue-shaped head."
+],
+"ety": "Earlier filbert-nut, Philibert-nut, from Middle English filbert-note, from Anglo-Norman noix de filbert, so named because they are ripe near Saint Philibert’s Day.",
+"examples": [],
+"p": "FIL-bert"
+},
+{
+"w": "animatronic",
+"pos": "adjective",
+"senses": [
+"Of a robot, etc, that works by animatronics."
+],
+"ety": "Blend of animate + electronic.",
+"examples": [],
+"p": null
+},
+{
+"w": "tubule",
+"pos": "noun",
+"senses": [
+"A small pipe or fistular body; a little tube."
+],
+"ety": "Learned borrowing from Latin tubulus, diminutive of tubus.",
+"examples": [],
+"p": "TOO-byool"
+},
+{
+"w": "hellscape",
+"pos": "noun",
+"senses": [
+"A hellish landscape."
+],
+"ety": "From hell + -scape.",
+"examples": [],
+"p": "HEL-skayp"
+},
+{
+"w": "tartufo",
+"pos": "noun",
+"senses": [
+"An Italian dessert consisting of a ball of ice cream coated in chocolate, with a cherry inside."
+],
+"ety": "From Italian tartufo. Doublet of tartuffe.",
+"examples": [
+"He watched a boy and a girl jump rope and a waiter carry a silver tray of tartufo."
+],
+"p": null
+},
+{
+"w": "caulker",
+"pos": "noun",
+"senses": [
+"A person who caulks various structures (as ships) and certain types of piping.",
+"A tool used for caulking ships; a caulking iron."
+],
+"ety": "From caulk + -er.",
+"examples": [
+"He was one of the best caulkers around."
+],
+"p": null
+},
+{
+"w": "marketeer",
+"pos": "noun",
+"senses": [
+"A specialist in marketing (promoting and selling products and services).",
+"One who promotes and sells products or services; called a marketer in US English.",
+"Someone who works in or supports a certain kind of system of selling and buying, for example free marketeer, black marketeer."
+],
+"ety": "From market + -eer.",
+"examples": [],
+"p": null
+},
+{
+"w": "kirin",
+"pos": "noun",
+"senses": [
+"Synonym of qilin; typically used in Japanese contexts."
+],
+"ety": "Borrowed from Japanese 麒(き)麟(りん) (kirin), from Middle Chinese. Doublet of qilin.",
+"examples": [],
+"p": null
+},
+{
+"w": "barware",
+"pos": "noun",
+"senses": [
+"Drinking utensils that lack a stem, such as beer mugs.",
+"Tools and accessories used for preparing or serving alcoholic drinks."
+],
+"ety": "From bar + -ware.",
+"examples": [
+"The speakeasy—a common feature of many Prohibition-era homes—was transformed into an open bar area with plenty of sturdy, party-ready Mexican recycled glass barware."
+],
+"p": null
+},
+{
+"w": "kigurumi",
+"pos": "noun",
+"senses": [
+"A full-body costume of a cartoon character (typically a mascot of cartoonish proportions) originating in Japan.",
+"A full-body cosplay of a human cartoon character with realistic proportions paired with an anime-style mask, originating in Japan; also (metonymic), the anime-style mask used in such a cosplay.",
+"A themed onesie, typically in the style of a cartoon animal."
+],
+"ety": "Borrowed from Japanese 着ぐるみ (kigurumi), from 着 (ki, “clothes, outfit”) + 包み (kurumi, “bundle, parcel”) (referring to the fact that the costume completely encloses the wearer).",
+"examples": [],
+"p": "kih-goo-ROO-mee"
+},
+{
+"w": "convalescence",
+"pos": "noun",
+"senses": [
+"A gradual healing after illness or injury.",
+"The period of time spent healing."
+],
+"ety": "Borrowed from Middle French convalescence, from Late Latin convalēscentia (“regaining of health”), from Latin convalēscēn(t-)s, present participle of convalēscere (“to become strong or well”); see convalesce.",
+"examples": [],
+"p": null
+},
+{
+"w": "andon",
+"pos": "noun",
+"senses": [
+"A Japanese paper lantern.",
+"A system that notifies workers of a quality or process problem, sometimes with a means to pause production until the problem is resolved.",
+"A light used to indicate a problem in the andon manufacturing system."
+],
+"ety": "(manufacturing): Borrowed from Japanese アンドン (andon), a specialization of 行灯 (andon). Introduced by Toyota.",
+"examples": [],
+"p": null
+}
+]

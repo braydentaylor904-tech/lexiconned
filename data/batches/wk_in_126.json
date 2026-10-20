@@ -1,0 +1,433 @@
+[
+{
+"w": "redox",
+"pos": "verb",
+"senses": [
+"To subject to a redox reaction."
+],
+"ety": "Shortening of reduction and oxidation.",
+"examples": [],
+"p": "REE-doks"
+},
+{
+"w": "retroreflective",
+"pos": "adjective",
+"senses": [
+"Tending to reflect light back to its source with a minimum scattering of light."
+],
+"ety": "From retro- + reflective.",
+"examples": [],
+"p": null
+},
+{
+"w": "acter",
+"pos": "noun",
+"senses": [
+"A play or film with a particular number of acts."
+],
+"ety": "From act + -er (“person or thing to which a certain number or measurement applies”).",
+"examples": [],
+"p": "AK-ter"
+},
+{
+"w": "unflagging",
+"pos": "adjective",
+"senses": [
+"Never tiring or lacking energy; without rest; without slowing."
+],
+"ety": "From un- + flagging.",
+"examples": [
+"His unflagging efforts have not gone unnoticed.",
+"He went on kissing her with unflagging industry, while she remained limply in his arms, in a species of satisfied trance.",
+"He writes of locomotive design, maintenance, passenger timetables, the structure of freight services, supervision and organisation, with unflagging enthusiasm, which comes across to us in a most readable book."
+],
+"p": null
+},
+{
+"w": "tzatziki",
+"pos": "noun",
+"senses": [
+"An appetizer made from yogurt, cucumber, garlic, olive oil and dill or mint; usually served with pita bread and as a meze"
+],
+"ety": "From Greek τζατζίκι (tzatzíki), from Ottoman Turkish جاجیق (cacık). Doublet of cacik.",
+"examples": [],
+"p": "tsah-TSEE-kee"
+},
+{
+"w": "jurisconsult",
+"pos": "noun",
+"senses": [
+"A person authorised to give legal advice.",
+"A master of civil law. Abbreviation: J.C."
+],
+"ety": "Borrowed from Latin iūris consultus (“one skilled in the law”).",
+"examples": [],
+"p": "joor-rih-skun-SULT"
+},
+{
+"w": "manip",
+"pos": "noun",
+"senses": [
+"manipulation",
+"A photomanip."
+],
+"ety": "Clipping of manipulation.",
+"examples": [],
+"p": "muh-NIP"
+},
+{
+"w": "loden",
+"pos": "noun",
+"senses": [
+"A thick waterproof cloth used for garments.",
+"A dark green colour, like that of loden cloth."
+],
+"ety": "Borrowed from German Loden.",
+"examples": [],
+"p": "LOH-dun"
+},
+{
+"w": "shoosh",
+"pos": "noun",
+"senses": [
+"A whooshing noise.",
+"A rhythmic whispering noise.",
+"The sound of skis scraping on snow."
+],
+"ety": "Phonetic alteration of shush.",
+"examples": [
+"As I drove through the vacant lot, the only sounds were the crunch of gravel beneath my tires and the yawp of blue jays overhead and the shoosh of wind through the pines.",
+"I'm a small sea captain, tasting the day's weather—battering rams at the seawall, a spray of grapeshot on my mother's brave geraniums, or the lulling shoosh-shoosh of a full mirrory pool",
+"The only sound a skier brings to the woods is the occasional creak of a rucksack strap and the faint “shoosh” of skis gliding over the crisp snow."
+],
+"p": null
+},
+{
+"w": "gappy",
+"pos": "adjective",
+"senses": [
+"Having many gaps."
+],
+"ety": "From gap + -y.",
+"examples": [],
+"p": "GAP-ee"
+},
+{
+"w": "collembola",
+"pos": "noun",
+"senses": [
+"Any of many minute wingless arthropods of subclass Collembola; a springtail."
+],
+"ety": "From the subclass name.",
+"examples": [],
+"p": null
+},
+{
+"w": "ductwork",
+"pos": "noun",
+"senses": [
+"The system of ducts in a particular building."
+],
+"ety": "From duct + work.",
+"examples": [],
+"p": null
+},
+{
+"w": "labrum",
+"pos": "noun",
+"senses": [
+"A large basin of warm water, with an overhanging lip, in a Roman bath."
+],
+"ety": "From Latin labrum (“lip”).",
+"examples": [],
+"p": "LAY-brum"
+},
+{
+"w": "vermicompost",
+"pos": "verb",
+"senses": [
+"To employ worms to break down organic waste into soil or humus"
+],
+"ety": "From vermi- (“worm”) + compost.",
+"examples": [],
+"p": null
+},
+{
+"w": "placental",
+"pos": "noun",
+"senses": [
+"A mammal of the infraclass Placentalia."
+],
+"ety": "From post-classical Latin placentalis, corresponding to placenta + -al.",
+"examples": [],
+"p": null
+},
+{
+"w": "prognathism",
+"pos": "noun",
+"senses": [
+"An abnormal projection of the jaws."
+],
+"ety": "From pro- + -gnathism, after prognathous and prognathic.",
+"examples": [],
+"p": null
+},
+{
+"w": "craftsy",
+"pos": "adjective",
+"senses": [
+"Suggesting traditional handicraft."
+],
+"ety": "From crafts + -y.",
+"examples": [
+"Small custom shop in So NH sks exp F-T cabinetmaker. Work in hard & soft woods, veneers, & formica. Rough carpenters & craftsy romantics need not apply."
+],
+"p": null
+},
+{
+"w": "catholicity",
+"pos": "noun",
+"senses": [
+"The quality of being catholic, universal or inclusive."
+],
+"ety": "From catholic + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "hernani",
+"pos": "noun",
+"senses": [
+"A thin silk or woollen material for women's dresses."
+],
+"ety": "From the town of Hernani in Spain.",
+"examples": [],
+"p": null
+},
+{
+"w": "petrography",
+"pos": "noun",
+"senses": [
+"The art of writing on stone."
+],
+"ety": "From petro- + -graphy.",
+"examples": [],
+"p": null
+},
+{
+"w": "casis",
+"pos": "noun",
+"senses": [
+"a Muslim holy man or a saint."
+],
+"ety": "From Spanish caciz or Portuguese caxis, which was from a dialectal pronunciation of Arabic قَاضٍ (qāḍin, “judge”). Doublet of qadi and alcalde.",
+"examples": [],
+"p": null
+},
+{
+"w": "cissexism",
+"pos": "noun",
+"senses": [
+"Bias or prejudice favouring cisgender people; transphobia."
+],
+"ety": "From cis- + sexism or cissex(ual) + -ism.",
+"examples": [
+"In that context where cissexism and cissupremacy are the oppressions in question, a cisgender woman would not count as a marginalized person."
+],
+"p": null
+},
+{
+"w": "telescopic",
+"pos": "adjective",
+"senses": [
+"Capable of seeing distant objects; far-seeing.",
+"Able to be extended or retracted by the use of parts that slide over one another.",
+"Referring to parts being extended or retracted along coinciding axes (with or without direct contact between the parts)."
+],
+"ety": "From tele- + -scopic, after telescope.",
+"examples": [],
+"p": "tel-ih-SKOP-ik"
+},
+{
+"w": "ragtag",
+"pos": "adjective",
+"senses": [
+"Unkempt, shabby, or in a state of disrepair.",
+"Very diverse; having irregular and dissimilar components."
+],
+"ety": "From earlier tag-rag and tag and rag, from rag + tag.",
+"examples": [
+"He liked to wear an old ragtag coat that was so threadbare that he'd get sunburned through it.",
+"The guerrillas were a ragtag band of local thugs, former soldiers, displaced farmers, and political idealists."
+],
+"p": null
+},
+{
+"w": "addressee",
+"pos": "noun",
+"senses": [
+"The person or organization to which something, such as a letter or message, is addressed or sent, for whom the item is intended."
+],
+"ety": "From address + -ee.",
+"examples": [],
+"p": "ad-reh-SEE"
+},
+{
+"w": "burrata",
+"pos": "noun",
+"senses": [
+"A fresh southern Italian cheese similar to creamy mozzarella."
+],
+"ety": "Borrowed from Italian burrata, from burro (“butter”).",
+"examples": [],
+"p": "buh-RAH-tuh"
+},
+{
+"w": "natick",
+"pos": "noun",
+"senses": [
+"An intersection of two obscure crossword puzzle clues."
+],
+"ety": "Named after Natick, Massachusetts, used as an example of an obscure clue with, “Town at the eighth mile of the Boston Marathon”. The town is named after the local native word from the Natick people for “Land of Many Hills”.",
+"examples": [],
+"p": null
+},
+{
+"w": "suprarenal",
+"pos": "adjective",
+"senses": [
+"On or above the kidney."
+],
+"ety": "From supra- + renal.",
+"examples": [],
+"p": null
+},
+{
+"w": "centrism",
+"pos": "noun",
+"senses": [
+"Any moderate political philosophy that avoids extremes."
+],
+"ety": "From centre + -ism.",
+"examples": [],
+"p": "SEN-triz-um"
+},
+{
+"w": "zanella",
+"pos": "noun",
+"senses": [
+"An Italian wool or twill fabric."
+],
+"ety": "From Italian zanella.",
+"examples": [],
+"p": "zuh-NEL-uh"
+},
+{
+"w": "tarpaper",
+"pos": "noun",
+"senses": [
+"A heavy paper, coated with tar, used to waterproof walls and roofs."
+],
+"ety": "From tar + paper.",
+"examples": [],
+"p": null
+},
+{
+"w": "hempcrete",
+"pos": "noun",
+"senses": [
+"A mixture of hemp shives and lime (possibly including sand, pozzolans, or cement) used as a material for construction and insulation."
+],
+"ety": "Blend of hemp + concrete, equivalent to hemp + -crete.",
+"examples": [
+"This should not be a problem with hempcrete as it is a very simple building method that can be grasped by ordinary builders within a few hours of instruction.",
+"The issue of assessing the thermal control properties of hempcrete is very important for the widespread adoption of hempcrete in North America, and unfortunately, it is not a straightforward subject.",
+"Fully cured hempcrete blocks float in a bucket of water."
+],
+"p": null
+},
+{
+"w": "abrazo",
+"pos": "noun",
+"senses": [
+"A Latin American embrace."
+],
+"ety": "Borrowed from Spanish abrazar (“to embrace”), from a + brazo (“arm”), from Latin bracchium.",
+"examples": [],
+"p": "uh-BRAH-soh"
+},
+{
+"w": "marmite",
+"pos": "noun",
+"senses": [
+"A rounded cooking pot of various designs, commonly pot-bellied, with or without tripod, handles, lid etc; originally earthenware but currently more commonly of cast iron or other metals."
+],
+"ety": "Borrowed from French marmite.",
+"examples": [],
+"p": "MAR-mite"
+},
+{
+"w": "softener",
+"pos": "noun",
+"senses": [
+"A water softener.",
+"Fabric softener."
+],
+"ety": "From Middle English softener, equivalent to soften + -er.",
+"examples": [],
+"p": "SAW-fuh-ner"
+},
+{
+"w": "tinctured",
+"pos": "adjective",
+"senses": [
+"Coloured or stained with a dye or pigment; coloured, dyed, stained, tinged."
+],
+"ety": "From tincture (verb) + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "petitgrain",
+"pos": "noun",
+"senses": [
+"An essential oil that is extracted from the green twigs of the bitter orange plant."
+],
+"ety": "From French petitgrain.",
+"examples": [],
+"p": "puh-tee-GRA"
+},
+{
+"w": "passible",
+"pos": "adjective",
+"senses": [
+"Able to feel emotion.",
+"Capable of suffering injury or detriment.",
+"Liable to experience change or decay."
+],
+"ety": "Borrowed into Middle English from Old French passible, from Late Latin passibilis.",
+"examples": [],
+"p": "PAH-sih-bul"
+},
+{
+"w": "reformist",
+"pos": "adjective",
+"senses": [
+"Advocating reform of an institution or body.",
+"Specifically, advocating reform and the gradual accumulation of small changes, as opposed to revolutionary action."
+],
+"ety": "From reform + -ist. Originated around the end of the 16th century.",
+"examples": [],
+"p": null
+},
+{
+"w": "basilar",
+"pos": "adjective",
+"senses": [
+"Lower, inferior, base."
+],
+"ety": "Borrowing from New Latin basilāris, irregularly from basis (“a pedestal, foot, base”) + -āris (“-ar, -ary”, adjectival suffix); or from French basilaire, from base (“base, basis”) + -aire (“-ar, -ary”, adjectival suffix), in the pattern of cimbalaire (“cymbal-shaped”).",
+"examples": [],
+"p": "BAZ-ul-er"
+}
+]

@@ -1,0 +1,537 @@
+[
+{
+"w": "protuberance",
+"pos": "noun",
+"senses": [
+"A bulge, knob, swelling, spine, or anything that protrudes."
+],
+"ety": "From French protubérance, from Latin prōtubērantia (“bulge; protuberance”), from prō + tūber (“swelling; protuberance”) + -antia (“-ance”).",
+"examples": [
+"Ever since their creation the Daleks have been attempting to conquer and enslave as much of the universe as they could get their grubby little protuberances on."
+],
+"p": "pruh-TOO-ber-uns"
+},
+{
+"w": "dually",
+"pos": "noun",
+"senses": [
+"A pickup truck with four wheels on the rear axle."
+],
+"ety": "From dual + -y.",
+"examples": [
+"Whatever you do, don't buy a dually. A dually is a big, diesel truck with four wheels in the back that costs three figures to fill up."
+],
+"p": "DOO-uh-lee"
+},
+{
+"w": "squirrelly",
+"pos": "adjective",
+"senses": [
+"Unpredictable or jumpy.",
+"Literally so."
+],
+"ety": "From squirrel + -ly, 1925. Presumably from the erratic movement of squirrels, or by analogy with nuts (“insane”).",
+"examples": [
+"Buscemi relished the chance to portray the squirrelly, volatile crook Carl Showalter, a figure that came together only once the actor got dressed.",
+"I wonder why it didn’t give me a direct quote. I hope it isn’t going to be squirrelly or weird about quotes. Maybe it’s stressed out about copyrighted translations. I’ll try asking for the original.",
+"Some of these lemurs seem almost squirrelly."
+],
+"p": "SKWUR-lee"
+},
+{
+"w": "technologist",
+"pos": "noun",
+"senses": [
+"A scientist, engineer, or technician who specializes in a particular technology, or who uses technology in a particular field."
+],
+"ety": "From technolog(y) + -ist.",
+"examples": [
+"The technologist must be careful not to overmoisten the disk, as false negative results can occur due to dilution of the end product."
+],
+"p": "tek-NAH-luh-jist"
+},
+{
+"w": "tannoy",
+"pos": "noun",
+"senses": [
+"A public address system."
+],
+"ety": "A genericised trademark of Tannoy Ltd, a manufacturer of public address systems. \"Tannoy\" is a syllabic abbreviation of tantalum + alloy, which was the material used in a type of electrolytic rectifier developed by the company.",
+"examples": [
+"Although the supermarket tannoy was bravely broadcasting Rigoletto, its meat counter was thick with wurst and its wine shelves loaded with Liebfraumilch."
+],
+"p": "TAN-oy"
+},
+{
+"w": "emulous",
+"pos": "adjective",
+"senses": [
+"Ambitious or competitive."
+],
+"ety": "From Middle English emulous, from Latin aemulus (“striving to equal or excel, rivaling; in a bad sense, envious, jealous”) + -ous, from Ancient Greek ἁμιλλάομαι (hamilláomai, “strive, contend”), akin to Latin imitari (“to imitate”); see imitate.",
+"examples": [
+"In such near proximity with the invalid, though all had been emulous of showing him attention, perhaps none were more truly affected by the critical situation of the unhappy Douglas than Miss Airey.",
+"A dozen emulous young persons in, or just out of, pinafores, swift-runners, had taken the field."
+],
+"p": "EM-yuh-lus"
+},
+{
+"w": "tropic",
+"pos": "noun",
+"senses": [
+"Either of the two parallels of latitude 23°26′ north and south of the equator; the farthest points at which the sun can be directly overhead; the boundaries of the torrid zone or tropics.",
+"The component of tone or rhetoric in a sentence."
+],
+"ety": "From Late Latin tropicus (“of or pertaining to the solstice, as a noun, one of the tropics”), from Ancient Greek τροπικός (tropikós, “of or pertaining to a turn or change; or the solstice; or a trope or figure; tropic; tropical; etc.”), from τροπή (tropḗ, “turn; solstice; trope”).",
+"examples": [
+"For since on ev'ry Sea, on ev'ry Coast, Your Men have been distress'd, your Navy tost, Sev'n times the Sun has either Tropick view'd,"
+],
+"p": "TROP-ik"
+},
+{
+"w": "frisk",
+"pos": "noun",
+"senses": [
+"A little playful skip or leap; a brisk and lively movement.",
+"The act of frisking, of searching for something by feeling someone's body."
+],
+"ety": "From Middle English frisk (“lively, frisky”), from Middle French frisque (“lively, jolly, blithe, fine, spruce, gay”), of Germanic origin, perhaps from Middle Dutch frisc (“fresh”) or Old High German frisc (“fresh”), ultimately from Proto-Germanic *friskaz (“fresh”). Cognate with Icelandic frískur (“frisky, fresh”). Doublet of fresco and fresh. More at fresh. Alternative etymology derives frisk from an alteration (due to Old French fresche (“fresh”)) of Old French fricque, frique (“smart, strong, playful, bright”), from Gothic *𐍆𐍂𐌹𐌺𐍃 (*friks, “greedy, hungry”), from Proto-Germanic *frekaz, *fr",
+"examples": [
+"The customs officer gave me a frisk after I went through the metal detector."
+],
+"p": "frisk"
+},
+{
+"w": "munificent",
+"pos": "adjective",
+"senses": [
+"Very liberal in giving or bestowing.",
+"Very generous; lavish."
+],
+"ety": "Back-formation from munificence, from Latin mūnificentia.",
+"examples": [
+"An exceptionally munificent benefactor of several institutions, he has given $100 million each to MIT and Harvard.",
+"On the hill, where kites used to be flown, stood the fine college which Mr Laurence's munificent legacy had built.",
+"It was all very well for this casual youth to make her a present of a half million acres of land in this debonair way, but she could not persuade herself to accept so munificent a gift."
+],
+"p": "myoo-NIF-ih-sunt"
+},
+{
+"w": "yesteryear",
+"pos": "noun",
+"senses": [
+"Past years; time gone by; yore."
+],
+"ety": "From yester- + year.",
+"examples": [
+"It seems to me that it isn't these little acts and little connexions we make in our lives that matter so very much. They pass away, and where are they? Where…Where are the snows of yesteryear?",
+"Oh, the cozy glow of yesteryear. Oh, the twinkly lights and all the cheer. We're bringin' back Christmas."
+],
+"p": "YES-ter-yeer"
+},
+{
+"w": "tourbillon",
+"pos": "noun",
+"senses": [
+"A rotating frame, containing the escapement of a clock or watch, that significantly compensates for the effects of gravity.",
+"A whirlwind.",
+"A kind of firework that gyrates in the air.",
+"Any part of a machine with a spiral movement."
+],
+"ety": "Borrowed from French tourbillon (“whirlwind”).",
+"examples": [
+"In their final year, each student must make their own watch with a complication—from a tourbillon to a chiming mode to having a date display."
+],
+"p": "toor-bih-YON"
+},
+{
+"w": "bandura",
+"pos": "noun",
+"senses": [
+"A Ukrainian plucked stringed instrument with a tear-shaped body, like an asymmetrical lute or a vertical zither, which is played with both hands while held upright on the lap."
+],
+"ety": "Borrowed from Ukrainian банду́ра (bandúra), possibly through Italian pandura and Polish bandura, from Late Latin pandura (“musical instrument with three strings”), from Ancient Greek πανδοῦρα (pandoûra, “three-stringed lute; zither”), perhaps from Lydian.",
+"examples": [
+"He touches the strings and pours forth a song descriptive of his live, his wanderings, his anguish, and is discovered by the magic tones of the bandura, his adventures, above all, by his voice and passionate fire.",
+"The bandura, a kind of zither, is unique to Ukraine and is considered the national instrument."
+],
+"p": "ban-DOO-ruh"
+},
+{
+"w": "rescind",
+"pos": "verb",
+"senses": [
+"To repeal, annul, or declare void; to take (something such as a rule or contract) out of effect.",
+"To cut away or off."
+],
+"ety": "From the Latin rescindō (“to cut back”), from re- (“back”) + scindō (“to cut”).",
+"examples": [
+"The agency will rescind the policy because many people are dissatisfied with it.",
+"Coinbase also rescinded hundreds of job offers. Some of those new hires had already quit their previous jobs, or were relying on Coinbase to maintain their work visas."
+],
+"p": "rih-SIND"
+},
+{
+"w": "plumose",
+"pos": "adjective",
+"senses": [
+"Having feathers or plumes.",
+"Having hairs, or other parts, arranged along an axis like a feather."
+],
+"ety": "From Latin plūmōsus (“feathered”), from plūma (“feather”): compare French plumeux. By surface analysis, plume + -ose.",
+"examples": [
+"Male mosquitoes have plumose antennae"
+],
+"p": "PLOO-mohs"
+},
+{
+"w": "vellum",
+"pos": "noun",
+"senses": [
+"A type of parchment paper made from the skin of a lamb, baby goat, or calf.",
+"A writing paper of very high quality."
+],
+"ety": "From Old French velin (French vélin), from Latin vitulinus (“of a calf”), as if derived from Old French veel (“veal”).",
+"examples": [
+"From this list are purposely omitted books printed upon vellum, Books of Hours of the Virgin Mary, and illuminated books; for these are rarities within reach of the wealthy only.",
+"The metaphor is apt, imagining one's spiritual life as a poem, an authored thing, and not preserved on vellum either, but open to revision."
+],
+"p": "VEL-um"
+},
+{
+"w": "altruist",
+"pos": "noun",
+"senses": [
+"A person showing altruism."
+],
+"ety": "",
+"examples": [
+"This event couldn't have been possible without the efforts of the altruists who helped in their spare time."
+],
+"p": "AL-troo-ist"
+},
+{
+"w": "blatter",
+"pos": "noun",
+"senses": [
+"Blather; foolish talk.",
+"A sound of rapid motion.",
+"A hard battering of rain."
+],
+"ety": "From Latin blaterāre. Influenced by other expressive verbs ending in -er.",
+"examples": [
+"Rain type 17 was a dirty blatter battering against his windscreen so hard that it didn't make much odds whether he had his wipers on or off."
+],
+"p": "BLAT-er"
+},
+{
+"w": "novitiate",
+"pos": "noun",
+"senses": [
+"The period during which a novice of a religious order undergoes training.",
+"The place where a novice lives and studies."
+],
+"ety": "First attested in 1517; either borrowed from Middle French noviciat, novitiat or from Medieval Latin noviciātus, novitiātus (“a novitiate”), from Latin novicius, novitius + -ātus (see -ate (forming nouns denoting a rank or office)), from novus (“new”). Sense 1 is not attested in cognates.",
+"examples": [
+"Three weeks after the departure of the Mandevilles, all Naples flocked to witness the profession of a young Englishwoman, a dispensation having been obtained for the novitiate."
+],
+"p": "nuh-VISH-ee-ut"
+},
+{
+"w": "gelati",
+"pos": "noun",
+"senses": [
+"gelato, Italian style ice-cream; a serving of gelato, often in a cone."
+],
+"ety": "Borrowed from Italian gelati, the plural form of gelato, from Latin gelātus, derived from gelū (“frost, chill”), ultimately from the Proto-Indo-European *gel- (“cold”).",
+"examples": [
+"Out in Fitzroy Street, the Saturday afternoon crowds strolled the wide footpaths, licking gelati.",
+"Gelati. Gelati. Limone, Strawberry, Chocolaty! shouts the Gelati man from the south of his face."
+],
+"p": "juh-LAH-tee"
+},
+{
+"w": "barranca",
+"pos": "noun",
+"senses": [
+"A steep-sided gulch or arroyo; a canyon or ravine."
+],
+"ety": "Borrowed from Spanish barranca.",
+"examples": [
+"Have you ever been south of Monterey? / Barrancas carve the coastline / And the chaparral flows to the sea / 'Neath waves of golden sunshine"
+],
+"p": "buh-RANG-kuh"
+},
+{
+"w": "bavin",
+"pos": "adjective",
+"senses": [
+"Made of firewood or kindling."
+],
+"ety": "Perhaps Old French baffe (“a faggot”).",
+"examples": [
+"The skipping King, he ambled up and down, / With shallow jesters, and rash bavin wits, / Soon kindled and soon burnt, carded his state, / Mingled his royalty with capering fools,"
+],
+"p": "BA-vin"
+},
+{
+"w": "hellish",
+"pos": "adjective",
+"senses": [
+"infernal, related or similar to hell.",
+"causing great pain, discomfort or distress."
+],
+"ety": "From hell + -ish.",
+"examples": [
+"I woke up from a hellish noise coming from the house next door."
+],
+"p": "HEL-ish"
+},
+{
+"w": "milkman",
+"pos": "noun",
+"senses": [
+"A man who delivers milk to households and sometimes businesses early in the morning."
+],
+"ety": "From milk + -man.",
+"examples": [
+"Our milkman is a jovial character, but not one given to yodelling at the customers on his round. Only the resounding \"clonk\" of bottles advises us that a couple of pints have been left on the doorstep."
+],
+"p": "MILK-mun"
+},
+{
+"w": "jaded",
+"pos": "adjective",
+"senses": [
+"Bored or lacking enthusiasm, typically after having been overexposed to, or having consumed too much of something.",
+"Worn out, wearied, exhausted or lacking enthusiasm, due to age or experience.",
+"Made callous or cynically insensitive, by experience.",
+"Embittered, disillusioned, emotionally worn down by disappointment"
+],
+"ety": "From jade (“worn-out horse”), possibly from Old Norse jalda (“mare”). Jade as a term of abuse for a woman dates from 1560.",
+"examples": [
+"But now I am jaded / You're out of luck / I'm rolling down the stairs / Too drunk to fuck"
+],
+"p": "JAY-did"
+},
+{
+"w": "symptomatology",
+"pos": "noun",
+"senses": [
+"The scientific study of the symptoms of diseases, as an aspect of clinical medicine, differential diagnosis, public health, and so on."
+],
+"ety": "From Ancient Greek σύμπτωμα (súmptōma, “symptom (of diseases)”) and -λογία (-logía, “study, branch of knowledge”) (i.e., symptomato- and -logy). Compare French symptomatologie.",
+"examples": [
+"Big Pharma has redefined the symptomatology of medical conditions in such a way as to expand enormously the market for its drugs."
+],
+"p": "simp-tuh-muh-TOL-uh-jee"
+},
+{
+"w": "chippy",
+"pos": "noun",
+"senses": [
+"A fish-and-chip shop.",
+"A potato chip.",
+"A chipping sparrow."
+],
+"ety": "From chip + -y.",
+"examples": [
+"Huge queues form outside the Chippy, often stretching back to the Coop and beyond.",
+"Albert was flabbergasted. Yer really buyin′ a chippy?” Tom smiled whilst nodding his head. “That′s me plan.”",
+"Surely no young chippy was ever so stout and so emphatic as this bird. The funny part of it all is that the starling appears to make the chippies do whatever it pleases."
+],
+"p": "CHIP-ee"
+},
+{
+"w": "trypophobia",
+"pos": "noun",
+"senses": [
+"An irrational or obsessive fear of irregular patterns or clusters of small holes, such as those found in honeycombs."
+],
+"ety": "From Ancient Greek τρῦπα (trûpa, “hole”), compare Ancient Greek τρυπάω (trupáō, “bore”), + -phobia (from Ancient Greek φόβος (phóbos, “fear, phobia”)), said to have been coined by a blogger from Ireland in 2005.",
+"examples": [
+"Images of lotus seed heads are often reported as inducing trypophobia. Sufferers of trypophobia report that it is the visual percept that is particularly aversive."
+],
+"p": "trip-uh-FOH-bee-uh"
+},
+{
+"w": "peregrine",
+"pos": "adjective",
+"senses": [
+"Wandering, travelling, migratory.",
+"Lacking essential debility.",
+"Extrinsic or from without; exotic.",
+"With \"tone\" Referring to the tonus peregrinus or 'wandering tone' in ecclesiastical chant and mode theory."
+],
+"ety": "From Middle English peregrin, borrowed from Old French peregrin, from Latin peregrīnus (“foreign”). Doublet of pilgrim.",
+"examples": [
+"The Romani are perpetually peregrine people.",
+"As soon as she had smiled her face altered again, and the petulant expression peregrine to her features took control."
+],
+"p": "PAIR-uh-green"
+},
+{
+"w": "haunch",
+"pos": "noun",
+"senses": [
+"The loin and leg of a quadruped, especially when used as food.",
+"A squat vertical support structure."
+],
+"ety": "From Middle English haunche, hanche, from Old French hanche, hance, anche (compare French hanche, Italian anca), from a Germanic source, probably Frankish *ankijā, from Proto-Germanic *ankijǭ (“joint; ankle”), from Proto-Indo-European *ang- (“joint; lith”). Cognate with Old High German ancha, encha, einka (“the leg; joint, bend”) (compare Old High German anchila, enchila (“ankle”), German Hanke (“haunch”), West Frisian hancke (“haunch”). More at ankle.",
+"examples": [
+"Now these are the Laws of the Jungle, and many and mighty are they; / But the head and the hoof of the Law and the haunch and the hump is—Obey!",
+"On the rough-hewn oaken table the venison haunch was shared."
+],
+"p": "hawnch"
+},
+{
+"w": "titchy",
+"pos": "adjective",
+"senses": [
+"Tiny, very small."
+],
+"ety": "From titch (“small person”) + -y, from the stage name Little Tich.",
+"examples": [
+"Let's 'ave a look at some of them titchy ones."
+],
+"p": "tih-chee"
+},
+{
+"w": "celebrant",
+"pos": "noun",
+"senses": [
+"A person who officiates at a religious ceremony, especially a marriage or the Eucharist.",
+"A person who conducts formal ceremonies in the community, particularly weddings, baby namings, renewals of wedding vows and funerals.",
+"A person who is celebrating something."
+],
+"ety": "From French célébrant, from Latin celebrāns, present participle of celebrō, equivalent to celebrate + -ant.",
+"examples": [
+"The very reverend celebrant was then conducted to the platform of the altar, and the postulant and her attendants having genuflected, the ceremony of reception began with the preparatory prayers and responseries.",
+"These are celebrants who marry people at registry offices.",
+"Church and state are completely separate but all clergy can be licensed as civil celebrants for legal purposes."
+],
+"p": "SEL-ih-brunt"
+},
+{
+"w": "crunk",
+"pos": "noun",
+"senses": [
+"A type of hip hop that originated in the southern United States."
+],
+"ety": "Attested in the Southern US since the late 1980s, originally in the sense of “rowdy, high energy out-of-control behavior by a crowd at Southern night clubs”. Popularized by its use in the fusion genre of crunk music in the 1990s and especially early 2000s. In this context, first used in music lyrics and notably popularized by Lil Jon & the East Side Boyz, on their 1997 debut album Get Crunk, Who U Wit: Da Album. Various possible origins have been proposed: * Blend of crazy + drunk “crazy drunk”. * Blend of chronic (“marijuana”) + drunk “high on marijuana and drunk (on alcohol) at the same time",
+"examples": [
+"On Slanguistics, a special on the MTV2 cable network, Andre 3000 offered a succinct analogy for crunk. “What punk was to rock,” he explains, “crunk is to rap.”",
+"Use a “crunk” song for his cell-phone ring."
+],
+"p": "krungk"
+},
+{
+"w": "mashup",
+"pos": "noun",
+"senses": [
+"A Web application that combines data or functionality from more than one source."
+],
+"ety": "From mash (“to convert into a mash; to mix thoroughly”) + up.",
+"examples": [
+"This app is a mashup mixing news from the BBC and maps from Google."
+],
+"p": "MASH-up"
+},
+{
+"w": "palatial",
+"pos": "adjective",
+"senses": [
+"On a grand scale; with very rich furnishings."
+],
+"ety": "Borrowed from French palatial, formed from the root of Latin palātium (“a palace”), from Palātium (“Palatine Hill”).",
+"examples": [
+"The home where he lived was palatial."
+],
+"p": "puh-LAY-shul"
+},
+{
+"w": "yeomanry",
+"pos": "noun",
+"senses": [
+"A class of small freeholders who cultivated their own land.",
+"A British volunteer cavalry force organized in 1761 for home defense and later incorporated into the Territorial Army."
+],
+"ety": "From Middle English ȝemanry, yemandry, yema[n]ri, yemanrye, yomandrye, yomanry; equivalent to yeoman + -ry.",
+"examples": [
+"The enfranchised yeomanry began to feel an instinct for dominion."
+],
+"p": "YOH-mun-ree"
+},
+{
+"w": "meritocracy",
+"pos": "noun",
+"senses": [
+"Rule by merit and talent.",
+"A type of society where wealth, income, and social status are assigned through competition."
+],
+"ety": "From merit + -o- + -cracy, coined by British sociologist Alan Fox in 1956 in an article in Socialist Commentary from May 1956, used as a derisive term, and popularized by British sociologist Michael Young, Baron Young of Dartington in his book The Rise of the Meritocracy (1958).",
+"examples": [
+"As a small nation without natural resources, Singapore relies on education and meritocracy to develop its economy.",
+"In Markovits’s telling, the rise of the meritocracy is a story of unintended consequences.",
+"Its faculty has also been a factory of books taking differing positions on the merits and demerits of meritocracy and elite education."
+],
+"p": "mair-uh-TAH-kruh-see"
+},
+{
+"w": "afoul",
+"pos": "adverb",
+"senses": [
+"In a state of entanglement or conflict (with)."
+],
+"ety": "From a- + foul.",
+"examples": [
+"He had a knack for running afoul of the law.",
+"What the devil’s the matter with me? I don’t stand right on my legs. Coming afoul of that old man has a sort of turned me wrong side out.",
+"A hemispheric axiom has it that when a dictator falls afoul of Washington, his opponents are emboldened to try to topple him."
+],
+"p": "uh-FOWL"
+},
+{
+"w": "cistern",
+"pos": "noun",
+"senses": [
+"A reservoir or tank for holding water, especially for catching and holding rainwater for later use.",
+"In a flush toilet, the container in which the water used for flushing is held; a toilet tank.",
+"A shallow, typically oval, vessel made of porcelain, pottery, or glass.",
+"The receptacle that holds the fuel in an oil lamp.",
+"The vessel surrounding the condenser in a steam engine."
+],
+"ety": "From Middle English cisterne, from Old French cisterne (Modern French citerne) from Latin cisterna, from cista (“box”), from Ancient Greek κίστη (kístē, “box”). Doublet of cisterna.",
+"examples": [
+"For cistern valves, they are well adapted—opening the full area upon the least descent of the ball, and are not liable to be set fast.",
+"On a broad ledge near the top, we found a stone cabin. Higher up was a cistern and a few more terraces.",
+"Cisterns (bôr, bō'r), mentioned frequently in the Bible, are artificial reservoirs, usually cut into bedrock, for collecting and conserving rain runoff from roofs and courtyards."
+],
+"p": "SIS-tern"
+},
+{
+"w": "arete",
+"pos": "noun",
+"senses": [
+"excellence, goodness; virtue.",
+"The proper state or condition for a human."
+],
+"ety": "From Ancient Greek ἀρετή (aretḗ).",
+"examples": [
+"All arete is included in justice, Cyrnus."
+],
+"p": "AR-ih-tee"
+},
+{
+"w": "capybara",
+"pos": "noun",
+"senses": [
+"The greater capybara (true capybara)."
+],
+"ety": "From Spanish capibara, from Portuguese capivara, from Old Tupi kapi'iûara (literally “grass eater”).",
+"examples": [
+"It was tenanted by the small caymans and by capybaras—the largest known rodent, a huge aquatic guinea-pig, the size of a small sheep."
+],
+"p": "kap-ee-BAIR-uh"
+}
+]

@@ -1,0 +1,431 @@
+[
+{
+"w": "unrepairable",
+"pos": "adjective",
+"senses": [
+"Impossible to repair."
+],
+"ety": "From un- + repairable.",
+"examples": [],
+"p": null
+},
+{
+"w": "prelature",
+"pos": "noun",
+"senses": [
+"prelates in general",
+"the office of a prelate"
+],
+"ety": "From both French prélature and post-Classical Latin praelātūra.",
+"examples": [],
+"p": null
+},
+{
+"w": "developmentalist",
+"pos": "adjective",
+"senses": [
+"Of, or related to developmentalism."
+],
+"ety": "From developmental + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "luminosity",
+"pos": "noun",
+"senses": [
+"the state of being luminous, or a luminous object; brilliance or radiance"
+],
+"ety": "Borrowed from French luminosité or else a native formation from luminous + -ity.",
+"examples": [
+"They reported encountering a luminosity of great intensity and loving angelic beings."
+],
+"p": null
+},
+{
+"w": "calotte",
+"pos": "noun",
+"senses": [
+"A skullcap worn by Roman Catholic priests."
+],
+"ety": "Borrowed from French calotte.",
+"examples": [],
+"p": "kuh-LAHT"
+},
+{
+"w": "cellarer",
+"pos": "noun",
+"senses": [
+"The person, usually in a monastery, responsible for providing food and drink"
+],
+"ety": "From cellar + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "shemagh",
+"pos": "noun",
+"senses": [
+"A headcloth designed for a desert environment to protect the wearer from sand and heat."
+],
+"ety": "British military use, borrowed from Arabic شُمَاغ (šumāḡ).",
+"examples": [],
+"p": "shuh-MAHG"
+},
+{
+"w": "lipoid",
+"pos": "noun",
+"senses": [
+"A lipid or other substance resembling fat"
+],
+"ety": "From lip- + -oid.",
+"examples": [],
+"p": "LIP-oyd"
+},
+{
+"w": "amnestic",
+"pos": "noun",
+"senses": [
+"Synonym of amnesic (noun)."
+],
+"ety": "From amnesty (“forgetfulness”) + -ic.",
+"examples": [],
+"p": "am-NES-tik"
+},
+{
+"w": "nervure",
+"pos": "noun",
+"senses": [
+"One of the ribs in a groined vault; a projecting moulding."
+],
+"ety": "Borrowed from French nervure.",
+"examples": [],
+"p": "NUH-vyoor"
+},
+{
+"w": "derisory",
+"pos": "adjective",
+"senses": [
+"Laughable, ridiculous, especially due to being small, inadequate, or low-quality; provoking derision.",
+"Expressing derision; mocking; ridiculing."
+],
+"ety": "From Middle French dérisoire.",
+"examples": [],
+"p": "dih-RY-zuh-ree"
+},
+{
+"w": "phenomenologist",
+"pos": "noun",
+"senses": [
+"A philosopher who practices, advocates, or specializes in the scholarly study of phenomenology."
+],
+"ety": "From phenomenology + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "monarchism",
+"pos": "noun",
+"senses": [
+"Rule by a monarchy.",
+"The advocacy of such a political system."
+],
+"ety": "Borrowed from French monarchisme.",
+"examples": [],
+"p": null
+},
+{
+"w": "weightage",
+"pos": "noun",
+"senses": [
+"Synonym of weighting."
+],
+"ety": "From weight (verb) + -age.",
+"examples": [],
+"p": null
+},
+{
+"w": "newbuild",
+"pos": "noun",
+"senses": [
+"A newly constructed building (especially one that is not yet occupied)."
+],
+"ety": "From new + build.",
+"examples": [],
+"p": null
+},
+{
+"w": "sacker",
+"pos": "noun",
+"senses": [
+"A person who sacks or plunders.",
+"A person who fills or makes sacks or bags.",
+"Synonym of bagger (“retail employee who bags customers' purchases”).",
+"A machine or device for filling sacks.",
+"A person who sacks or fires (dismisses someone from a job or position)."
+],
+"ety": "From sack + -er.",
+"examples": [
+"Know a grocery sacker with a pension like that?",
+"In just six days, Labour’s leader has gone from chino-clad hero of the peace and love brigade to intolerant sacker of pro-Europeans in his ranks."
+],
+"p": null
+},
+{
+"w": "bicarb",
+"pos": "noun",
+"senses": [
+"Bicarbonate (HCO₃⁻).",
+"Sodium bicarbonate (NaHCO₃)."
+],
+"ety": "Clipping of bicarbonate.",
+"examples": [],
+"p": "BY-karb"
+},
+{
+"w": "clamper",
+"pos": "noun",
+"senses": [
+"One who, or that which, clamps.",
+"An attachment with sharp metal prongs, attached to a boot or shoe to enable the wearer to walk securely upon ice."
+],
+"ety": "From clamp + -er.",
+"examples": [
+"If you park your car in a no-parking zone, watch out for clampers."
+],
+"p": null
+},
+{
+"w": "gaysian",
+"pos": "noun",
+"senses": [
+"A gay Asian, especially one who is male."
+],
+"ety": "Blend of gay + Asian.",
+"examples": [],
+"p": "GAY-zhun"
+},
+{
+"w": "isthmus",
+"pos": "noun",
+"senses": [
+"A narrow strip of land, bordered on both sides by water, and connecting two larger landmasses."
+],
+"ety": "Borrowing from Latin isthmus (“a strip of land between two seas”), from Ancient Greek ῐ̓σθμός (ĭsthmós, “neck, narrow passage”), possibly from εἶμῐ (eîmĭ, “to go”). Cognate to Old Norse eið (“isthmus”).",
+"examples": [],
+"p": "IS-mus"
+},
+{
+"w": "decad",
+"pos": "noun",
+"senses": [
+"A group of ten notes from which the consonant triads may be constructed"
+],
+"ety": "Doublet of decade and dekad. By surface analysis, dec- + -ad.",
+"examples": [],
+"p": "DEK-ad"
+},
+{
+"w": "crystallizer",
+"pos": "noun",
+"senses": [
+"Any substance that crystallizes."
+],
+"ety": "From crystallize + -er.",
+"examples": [
+"In choosing a PET resin for injection blow molding, you should pick a resin that is a slow crystallizer."
+],
+"p": null
+},
+{
+"w": "thack",
+"pos": "noun",
+"senses": [
+"A stroke; a thwack."
+],
+"ety": "From Middle English thacce, from thakken (“to stroke”): see etymology 1.",
+"examples": [],
+"p": "thak"
+},
+{
+"w": "constrictive",
+"pos": "adjective",
+"senses": [
+"That constricts, or is accompanied by constriction."
+],
+"ety": "From constrict + -ive.",
+"examples": [],
+"p": null
+},
+{
+"w": "loanee",
+"pos": "noun",
+"senses": [
+"borrower; someone who is loaned something"
+],
+"ety": "From loan + -ee.",
+"examples": [],
+"p": null
+},
+{
+"w": "neurotoxicity",
+"pos": "noun",
+"senses": [
+"The state or property of being neurotoxic."
+],
+"ety": "From neuro- + toxicity.",
+"examples": [],
+"p": null
+},
+{
+"w": "musculature",
+"pos": "noun",
+"senses": [
+"The collection of all muscles in a single body or in a single organ.",
+"The structural configuration of muscle in a body or organ."
+],
+"ety": "Borrowed from French musculature.",
+"examples": [],
+"p": null
+},
+{
+"w": "caltrop",
+"pos": "noun",
+"senses": [
+"The starthistle, Centaurea calcitrapa, a plant with sharp thorns."
+],
+"ety": "From Middle English calketrappe, from Old English calcatrippe, from Medieval Latin calcatrippa (“thistle”), from Latin calx or calcare (“to tread”) + trappa (“trap”).",
+"examples": [],
+"p": "KAL-trup"
+},
+{
+"w": "moonman",
+"pos": "noun",
+"senses": [
+"Synonym of man in the moon (“face perceived in the moon, or the character imagined for it”).",
+"Synonym of Lunarian (“inhabitant of the Moon”)."
+],
+"ety": "From moon + man.",
+"examples": [
+"Towser lifts his nose and howls / Toward the moonman, far and dim; / But the moonman only scowls, / For no dog can frighten him.",
+"I sat within a cedar grove alone / And watched the moonman walk across the hill",
+"On the floor the Moonman's body shivered again."
+],
+"p": null
+},
+{
+"w": "nucleon",
+"pos": "noun",
+"senses": [
+"A proton (uud) or a neutron (udd)."
+],
+"ety": "From nucleus + -on.",
+"examples": [],
+"p": "NYOO-klee-on"
+},
+{
+"w": "telesales",
+"pos": "noun",
+"senses": [
+"telemarketing"
+],
+"ety": "From tele- + sales.",
+"examples": [],
+"p": null
+},
+{
+"w": "exemplum",
+"pos": "noun",
+"senses": [
+"A story demonstrating a moral point; a parable."
+],
+"ety": "Learned borrowing from Latin exemplum. Doublet of example and sample.",
+"examples": [
+"In the Middle Ages preachers had enlivened their sermons with exempla – edifying tales of judgements upon sinners and mercies shown to the pious."
+],
+"p": null
+},
+{
+"w": "microlithic",
+"pos": "adjective",
+"senses": [
+"Formed of small stones."
+],
+"ety": "From micro- + -lith + -ic or microlith + -ic, from Ancient Greek μικρός (mikrós, “small”).",
+"examples": [],
+"p": null
+},
+{
+"w": "chicky",
+"pos": "noun",
+"senses": [
+"Chick (young bird)."
+],
+"ety": "From chick + -y.",
+"examples": [],
+"p": "CHIK-ee"
+},
+{
+"w": "propitiation",
+"pos": "noun",
+"senses": [
+"The act of propitiating; placation, atonement, similar to expiation but also involving the appeasement of anger."
+],
+"ety": "From Middle English propiciacion, propiciacioun, from Anglo-Norman propiciatiun, Middle French propiciation, propitiation, and their etymon Latin propitiātiō (stem propitiātiōn-). By surface analysis, propitiate + -ion.",
+"examples": [
+"At the base of the whole process by which divinities and demons were created, and rites for their propitiation and placation established, lay Fear - fear stimulating the imagination to fantastic activity."
+],
+"p": null
+},
+{
+"w": "sensitization",
+"pos": "noun",
+"senses": [
+"The process of making something sensitive."
+],
+"ety": "From sensitize + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "kanun",
+"pos": "noun",
+"senses": [
+"A set of traditional Albanian laws."
+],
+"ety": "From Albanian kanun. Doublet of canon.",
+"examples": [],
+"p": null
+},
+{
+"w": "patrimonialism",
+"pos": "noun",
+"senses": [
+"A political system in which all power flows from the leader."
+],
+"ety": "From patrimonial + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "truthseeker",
+"pos": "noun",
+"senses": [
+"One who goes in quest of the truth."
+],
+"ety": "From truth + seeker.",
+"examples": [],
+"p": "TROOTH-see-ker"
+},
+{
+"w": "sabbatical",
+"pos": "noun",
+"senses": [
+"An extended period of leave from a person's usual pursuits.",
+"A sabbatical year (ancient religious observance)."
+],
+"ety": "From Latin sabbaticus + -al.",
+"examples": [],
+"p": "suh-BAT-ih-kul"
+}
+]

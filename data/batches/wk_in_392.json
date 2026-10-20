@@ -1,0 +1,446 @@
+[
+{
+"w": "gravure",
+"pos": "noun",
+"senses": [
+"A type of intaglio printing process, in which an image is engraved onto a rotating copper cylinder.",
+"A style of Japanese softcore; glamour photography."
+],
+"ety": "Short for rotogravure.",
+"examples": [],
+"p": null
+},
+{
+"w": "bandh",
+"pos": "noun",
+"senses": [
+"A general strike, shutdown, or other form of protest used in South Asia in which a substantial portion of the population stays home and does not report to work."
+],
+"ety": "Borrowed from Hindi बंध (bandh, “closure”), from Sanskrit बन्ध (bandha). Doublet of bund (“a type of enclosure”).",
+"examples": [
+"A week-long bandh was in progress. People had nothing to do.",
+"Opposition parties said that the bandh was a success. The ruling parties said the opposite. Some saw government insensitivity in the bandh and the beginning of the fight against inflationary trends."
+],
+"p": null
+},
+{
+"w": "halter",
+"pos": "noun",
+"senses": [
+"A bitless headpiece of rope or straps, placed on the head of animals such as cattle or horses to lead or tie them.",
+"A rope with a noose, for hanging criminals; the gallows rope.",
+"A halter top."
+],
+"ety": "From Middle English halter, helter, helfter, from Old English hælfter, hælftre (“halter”), from Proto-West Germanic *halftrijā (“harness”), from Proto-Indo-European *(s)kelH- (“to cut”), equivalent to half- + -ter. Cognate with Scots helter (“halter”), Dutch halfter, halster (“halter”), Low German halfter, helchter, halter (“halter”), German Halfter (“halter, holster”).",
+"examples": [],
+"p": "HAWL-ter"
+},
+{
+"w": "petrodollar",
+"pos": "noun",
+"senses": [
+"Money (either notionally or specifically in dollars or other currencies) earned from the sale of oil, often especially as considered among a national economy's principal revenue streams."
+],
+"ety": "From petro- (prefix meaning ‘petroleum; oil export’) + dollar, possibly modelled after Eurodollar.",
+"examples": [],
+"p": "PET-roh-dah-ler"
+},
+{
+"w": "reversionary",
+"pos": "noun",
+"senses": [
+"A reversioner."
+],
+"ety": "From reversion + -ary.",
+"examples": [],
+"p": "ruh-VUR-zhuh-nair-ee"
+},
+{
+"w": "glade",
+"pos": "noun",
+"senses": [
+"An open passage through a wood; a grassy open or cleared space in a forest.",
+"An everglade.",
+"A bright surface of ice or snow."
+],
+"ety": "From Middle English glade, glode, glede (“a gleam of light, bright space, an open space; an open or cleared space in a forest; a bright patch of sky; a bright surface of snow or ice”), of uncertain origin, perhaps from Old English *glǣd, *glād, related to Old English glæd (“shining, bright”), (compare Old Norse glaðr (“bright”)).",
+"examples": [],
+"p": "glayd"
+},
+{
+"w": "enslavement",
+"pos": "noun",
+"senses": [
+"The act of enslaving or the state of being a slave; bondage"
+],
+"ety": "From enslave + -ment.",
+"examples": [
+"I should like to take this opportunity to express my wish for success and victory in our struggle against Communism and enslavement and for freedom and peace."
+],
+"p": null
+},
+{
+"w": "displacer",
+"pos": "noun",
+"senses": [
+"One who, or that which, displaces."
+],
+"ety": "From displace + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "masterman",
+"pos": "noun",
+"senses": [
+"A master craftsman, often employing apprentices or journeymen."
+],
+"ety": "From master + -man.",
+"examples": [],
+"p": "MAS-ter-mun"
+},
+{
+"w": "henny",
+"pos": "noun",
+"senses": [
+"Synonym of hinny (cross between a stallion and a she-ass)"
+],
+"ety": "Blend of horse + jenny, or variant of hinny?",
+"examples": [],
+"p": "HEN-ee"
+},
+{
+"w": "spycraft",
+"pos": "noun",
+"senses": [
+"The skills and techniques employed by spies."
+],
+"ety": "From spy + -craft.",
+"examples": [],
+"p": null
+},
+{
+"w": "olestra",
+"pos": "noun",
+"senses": [
+"A fat substitute (a glyceride of sucrose) that cannot be easily digested and therefore adds no fat, calories, or cholesterol to food products; also used as an industrial lubricant."
+],
+"ety": "1980s, from (p)ol(y)est(e)r + -a.",
+"examples": [
+"What concerns me are celebrity magazines, television with 500 channels, some guy's name on my underwear. Rogaine, Viagra, Olestra."
+],
+"p": null
+},
+{
+"w": "clientelist",
+"pos": "noun",
+"senses": [
+"A proponent of clientelism."
+],
+"ety": "From clientele + -ist.",
+"examples": [],
+"p": "kly-un-TEL-ist"
+},
+{
+"w": "logoed",
+"pos": "adjective",
+"senses": [
+"Imprinted with a logo."
+],
+"ety": "From logo + -ed.",
+"examples": [
+"You can buy our company's logoed shirts at the gift store.",
+"The standard conductor’s uniform is a conservative affair: a single-breasted navy jacket, two logoed brass buttons, and straight-leg, pleatless pants.",
+"He sipped coffee cut with milk from a paper cup logoed: ’bucks!"
+],
+"p": null
+},
+{
+"w": "retardant",
+"pos": "adjective",
+"senses": [
+"Serving to impede (slow down) the action of something"
+],
+"ety": "Borrowed from French retardant, equivalent to retard (“to slow down”) + -ant.",
+"examples": [],
+"p": null
+},
+{
+"w": "neutralist",
+"pos": "noun",
+"senses": [
+"A person who advocates such policies."
+],
+"ety": "From neutral + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "behaviourism",
+"pos": "noun",
+"senses": [
+"behaviorism (the theory that a mental state is identical to the disposition or tendency to behave in accordance with the physical causes; statements about the mind are reducible to statements of physical behavior)"
+],
+"ety": "From behaviour + -ism.",
+"examples": [
+"One criticism sometimes made of behaviourism is that it fails to make a distinction between someone actually being in pain and someone pretending to be in pain.",
+"On both ways of describing behaviourism, it is agreed that (a) mental states are not inner, categorical states of persons, and (b) what makes psychological claims true are subjects’ behavioural dispositions."
+],
+"p": null
+},
+{
+"w": "jawed",
+"pos": "adjective",
+"senses": [
+"Having jaws.",
+"Having a specified type of jaw."
+],
+"ety": "From jaw + -ed.",
+"examples": [],
+"p": "JAWD"
+},
+{
+"w": "trembly",
+"pos": "adjective",
+"senses": [
+"In a trembling or shaking state"
+],
+"ety": "From tremble + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "cordwainer",
+"pos": "noun",
+"senses": [
+"A worker in cordwain leather.",
+"A leather from Córdoba.",
+"A member of the Worshipful Company of Cordwainers, a livery company."
+],
+"ety": "From Middle English cordewainer, cordewaner, from Anglo-Norman cordewaner, from Old French cordoan (“(leather) of Cordova”). See also cordovan, itself borrowed from Spanish Córdoba.",
+"examples": [
+"For quotations using this term, see Citations:cordwainer."
+],
+"p": null
+},
+{
+"w": "obturation",
+"pos": "noun",
+"senses": [
+"The act of stopping up, or closing, an opening."
+],
+"ety": "From Latin obtūrātiō. Compare French obturation.",
+"examples": [
+"Deaf by an outward obturation."
+],
+"p": null
+},
+{
+"w": "detectible",
+"pos": "adjective",
+"senses": [
+"Able to be detected."
+],
+"ety": "From detect + -ible.",
+"examples": [
+"The other crucial finding of the report was that there was a detectible “optimism bias” among Google employees."
+],
+"p": null
+},
+{
+"w": "buisson",
+"pos": "noun",
+"senses": [
+"A fruit tree trained on a low stem, the branches closely pruned."
+],
+"ety": "Borrowed from French buisson.",
+"examples": [],
+"p": null
+},
+{
+"w": "bagpiper",
+"pos": "noun",
+"senses": [
+"One who plays the bagpipes."
+],
+"ety": "From bagpipe + -er.",
+"examples": [],
+"p": "BAG-py-per"
+},
+{
+"w": "coccoid",
+"pos": "adjective",
+"senses": [
+"spherical, shaped like a coccus"
+],
+"ety": "From coccus + -oid.",
+"examples": [],
+"p": null
+},
+{
+"w": "bagworm",
+"pos": "noun",
+"senses": [
+"A bagworm moth, any member of the family Psychidae.",
+"A Fall webworm (Hyphantria cunea, family Erebidae)."
+],
+"ety": "From bag + worm.",
+"examples": [],
+"p": "BAG-wurm"
+},
+{
+"w": "garfish",
+"pos": "noun",
+"senses": [
+"Any North or Central American fish of the family Lepisosteidae."
+],
+"ety": "From Middle English garfysche (“garfish”, literally “spear-fish”), from gor (“spear”) + fisch (“fish”). Cognate with Scots gairfish (“garfish”).",
+"examples": [],
+"p": null
+},
+{
+"w": "transgenic",
+"pos": "noun",
+"senses": [
+"An organism whose genome has been genetically modified."
+],
+"ety": "From trans- + -genic.",
+"examples": [],
+"p": "trahnz-JEN-ik"
+},
+{
+"w": "daleman",
+"pos": "noun",
+"senses": [
+"Synonym of dalesman."
+],
+"ety": "From dale + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "punto",
+"pos": "noun",
+"senses": [
+"A traditional small Spanish unit of length, equivalent to about 0.16 mm."
+],
+"ety": "From Latin punctum (“point”) via Italian and Spanish punto, from pungō (“to prick, to puncture”). Doublet of point, pointe, ponto, puncto, punctum, and punt.",
+"examples": [],
+"p": "PUN-toh"
+},
+{
+"w": "lethality",
+"pos": "noun",
+"senses": [
+"The fact of something being lethal; the ability of something to kill."
+],
+"ety": "From lethal + -ity.",
+"examples": [],
+"p": "lee-THAL-ih-tee"
+},
+{
+"w": "kumbaya",
+"pos": "noun",
+"senses": [
+"Used to evoke spiritual unity and interpersonal harmony, with varying degrees of sincerity or sarcasm, as referring to the folk song."
+],
+"ety": "From Gullah. Apparently a corruption of the English phrase “come by here” in a spiritual song.",
+"examples": [],
+"p": "koom-by-YAH"
+},
+{
+"w": "prokaryotic",
+"pos": "adjective",
+"senses": [
+"Of or having the characteristics of prokaryotes, especially bacteria.",
+"Of cells, lacking a nucleus."
+],
+"ety": "From prokaryote + -ic.",
+"examples": [],
+"p": null
+},
+{
+"w": "whelk",
+"pos": "noun",
+"senses": [
+"A stripe or mark; a ridge; a wale."
+],
+"ety": "From Middle English whelke, from Old English hwelca (“pustule, swelling”).",
+"examples": [],
+"p": "welk"
+},
+{
+"w": "helado",
+"pos": "noun",
+"senses": [
+"Spanish or Latin American ice cream."
+],
+"ety": "Borrowed from Spanish helado.",
+"examples": [
+"Soul food, African crafts, and helado sellers line the service streets on either side of the parkway, and traffic halts on all side streets to let the masses promenade.",
+"A medium cup of helado at Pampas Helado Argentina in Aliso Viejo includes two flavors, which can be the chocolate alfajor and banana split."
+],
+"p": null
+},
+{
+"w": "survivalist",
+"pos": "noun",
+"senses": [
+"A person who believes in being prepared to survive and is actively preparing for possible future emergencies and disruptions in local, regional, national, or international social or political order."
+],
+"ety": "From survival + -ist.",
+"examples": [
+"But why would survivalists flock to Pinterest, a site that was adopted early-on by people who wanted to share design ideas for home goods? In a way, preppers are actually the ideal user for the site.",
+"But there are also French “survivalists” who – at least until about a decade ago – shared the drawbridge mentality of the Americans stocking up on peanut butter and ammo."
+],
+"p": null
+},
+{
+"w": "crammer",
+"pos": "noun",
+"senses": [
+"One who crams or stuffs.",
+"A book used for accelerated study in preparation for an examination.",
+"A student who studies hard for an examination.",
+"A teacher who aids such a student.",
+"A school whose speciality is helping students to pass certain examinations."
+],
+"ety": "From cram + -er.",
+"examples": [
+"The pigeon crammers of Paris took mouthfuls of grain and water and spat it into the mouth of a pigeon."
+],
+"p": null
+},
+{
+"w": "adduction",
+"pos": "noun",
+"senses": [
+"The act of adducing or bringing forward."
+],
+"ety": "Borrowed from Latin adductio, adductionis, from adducō (“to bring to oneself”), from ad + ducō (“to lead”). Compare French adduction. Equivalent to adduct + -ion or adduce + -tion. See adduce.",
+"examples": [],
+"p": "uh-DUK-shun"
+},
+{
+"w": "spiralizer",
+"pos": "noun",
+"senses": [
+"A culinary device that turns food into a spiral shape, like pasta."
+],
+"ety": "From spiralize + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "gomer",
+"pos": "noun",
+"senses": [
+"A conical chamber at the breech of the bore in heavy ordnance, especially in mortars."
+],
+"ety": "After Louis-Gabriel de Gomer, the French artillery officer who invented the design. Attested in English since the early nineteenth century.",
+"examples": [
+"All iron mortars now in use have gomer chambers and brass ones conical."
+],
+"p": null
+}
+]

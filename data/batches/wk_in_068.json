@@ -1,0 +1,529 @@
+[
+{
+"w": "brimstone",
+"pos": "noun",
+"senses": [
+"The butterfly Gonepteryx rhamni of the Pieridae family.",
+"Online content of exceptionally poor quality, lower than coal."
+],
+"ety": "From Middle English brymston, brimston, bremston, forms of brinston, brenston, bernston, from Old English brynstān (“brimstone”, literally “burn-stone”), equivalent to burn + stone. Cognate with Scots brunstane (“brimstone”), Icelandic brennisteinn (“sulfur / sulphur, brimstone”), German Bernstein (“amber”). Compare also brimfire. More at burn, stone. Although once a synonym for sulfur, the word is now largely restricted to poetic and Biblical usage.",
+"examples": [
+"A brimstone butterfly flirted among the purple shadows under the palms."
+],
+"p": "BRIM-stohn"
+},
+{
+"w": "paratrooper",
+"pos": "noun",
+"senses": [
+"A type of soldier who is trained to enter combat zones by parachuting from aircraft."
+],
+"ety": "Blend of parachute + trooper.",
+"examples": [
+"Upon receiving intelligence reports about the massing of enemy paratroopers, General Peng Dehuai posted a defence regiment at Yan'an airfield, and requested that Mao leave Yan'an as soon as possible."
+],
+"p": "PAR-uh-troo-per"
+},
+{
+"w": "nduja",
+"pos": "noun",
+"senses": [
+"A type of spicy, spreadable salami from Calabria."
+],
+"ety": "From ‛nduja in the Southern Calabrian dialect (either the Reggino or the Chjàna subdialect) of Sicilian, borrowed from Old French andoille, ultimately from Latin indūcō (“cover, overlay”). Doublet of andouille.",
+"examples": [
+"Boccalone, a company in Oakland, Calif., that makes artisanal cured meat, has started producing nduja.",
+"Salumi platters, at $8 a selection, built from the best examples she can find, including a spicy, spreadable salami called nduja."
+],
+"p": "un-DOO-yuh"
+},
+{
+"w": "catgut",
+"pos": "noun",
+"senses": [
+"A cord of great toughness made from the intestines of animals, especially of sheep, used for strings of musical instruments, racquets, sutures etc.",
+"The material from which such cords are made.",
+"A sort of linen or canvas, with wide interstices.",
+"Tephrosia virginiana (goat's rue, devil's shoestring)."
+],
+"ety": "Possibly an abbreviation of the word cattlegut. Alternatively, it may derive by folk etymology from kitgut or kitstring — the word kit, meaning fiddle, having at some point been confused with the word kit for a young cat.",
+"examples": [
+"The thing about Proust is his combination of the utmost sensibility with the utmost tenacity. He searches out these butterfly shades to the last grain. He is as tough as catgut & as evanescent as a butterfly's bloom.",
+"Eventually they carved small paddles to strike the ball and refined this implement with a mesh of catgut."
+],
+"p": "KAT-gut"
+},
+{
+"w": "elopement",
+"pos": "noun",
+"senses": [
+"The act of running away from home with a paramour.",
+"The act of running away secretly for the purpose of getting married.",
+"The act of running away from home (for any reason)."
+],
+"ety": "From elope + -ment.",
+"examples": [
+"You may not have heard of the last blow—Julia's elopement; she is gone to Scotland with Yates."
+],
+"p": "ih-LOHP-munt"
+},
+{
+"w": "inure",
+"pos": "verb",
+"senses": [
+"To cause someone to become accustomed to something that requires prolonged or repeated tolerance of one or more unpleasantries."
+],
+"ety": "From Middle English inuren, equivalent to in- + ure (“practise, exercise”).",
+"examples": [
+"Matcht with as valiant men, and of as cleane a might, / As skilfull to commaund, and as inur’d to fight.",
+"Your insults to myself can be endured, / I am a philosopher and am inured. / But there are insults that I will not swallow / That you have levelled at our gods.",
+"As Tom Paine warned, inuring us to lies lays the groundwork for many other evils."
+],
+"p": "ih-NYOOR"
+},
+{
+"w": "trepang",
+"pos": "noun",
+"senses": [
+"Synonym of sea cucumber."
+],
+"ety": "Borrowed from Malay teripang.",
+"examples": [
+"The results of all methods on the RUIE detection dataset are shown in Fig. 8, where our method not only achieves superior enhancement but also outperforms other methods in the detection of distant urchins and trepangs."
+],
+"p": "trih-PANG"
+},
+{
+"w": "sardonyx",
+"pos": "noun",
+"senses": [
+"A gemstone having bands of red sard; a variety of onyx or chalcedony."
+],
+"ety": "Inherited from Middle English sardonix, sardonyx (c. 1382), from Latin sardonyx, from Ancient Greek σᾰρδόνῠξ (sărdónŭx). Doublet of sardoin.",
+"examples": [
+"The fifth, sardonyx; the sixth, sardius; the seventh, chrysolyte; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst."
+],
+"p": "sar-DON-iks"
+},
+{
+"w": "bestir",
+"pos": "verb",
+"senses": [
+"To put into brisk or vigorous action; to move with life and vigor.",
+"To make active; to rouse oneself."
+],
+"ety": "From Middle English bestyrien, bestirien, from Old English bestyrian (“to heap up, pile up”), equivalent to be- + stir.",
+"examples": [
+"Notwithstanding all the various temptations to bad temper, pride, greediness, adultery and so forth, the enemy really has but one temptation, and that is, to bestir the saints.",
+"Why is it so important to bestir oneself? Bestirring oneself means that one feels truly fortunate and excited to stand before one's Creator and that one longs for this moment.",
+"Could these well-paid civil servants bestir themselves not only to rescue the American republic from danger but to strengthen its democratic governance, refresh its ideals, and reclaim its sadly soiled national honor?"
+],
+"p": "bih-STUR"
+},
+{
+"w": "maven",
+"pos": "noun",
+"senses": [
+"An expert in a given field; also, a person who is interested in and knowledgeable about a particular activity or thing; an aficionado."
+],
+"ety": "From Yiddish מבֿין (meyvn, “connoisseur, expert, know-it-all”), from Hebrew מֵבִין (mevín, “one who understands, connoisseur, expert”), from הֵבִין (hevín, “to understand”). The word is said to have been popularized by its use in an advertising campaign for Vita Herring launched in the United States in 1964, which had a character called the “beloved [herring] maven” promoting the product.",
+"examples": [
+"The goal for any media company is to be a maven—and therefore highly adept at using multiple channels of social media communication well."
+],
+"p": "MAY-vun"
+},
+{
+"w": "quadrennial",
+"pos": "adjective",
+"senses": [
+"Happening every four years.",
+"Lasting for four years."
+],
+"ety": "Borrowed from Latin quadriennium (“four-year period”), from quattuor (“four”) + annus (“year”). By surface analysis, quadr- + -ennial.",
+"examples": [
+"The quadrennial election of Chief Magistrate has passed off with less than the usual excitement."
+],
+"p": "kwah-DREN-ee-ul"
+},
+{
+"w": "stickum",
+"pos": "noun",
+"senses": [
+"Any adhesive, adhesive residue; any sticky or gummy substance."
+],
+"ety": "From stick + variant of 'em, him.",
+"examples": [
+"A strip of muslin swaddles his privates, fixed by means of pine stickum to his belly and buttocks.",
+"He had sat next to Cindy returning from the Y and smelled the chlorine on her. A sodden Band-Aid had clung by a few lingering bits of stickum to her knee."
+],
+"p": "STIK-um"
+},
+{
+"w": "nutraceutical",
+"pos": "noun",
+"senses": [
+"A nutrient or food believed to have curative properties; a food used as a drug."
+],
+"ety": "Blend of nutrient + pharmaceutical, a marketing term coined by Stephen DeFelice in 1989.",
+"examples": [
+"The latest nutraceutical nostrum could come from the blueberry."
+],
+"p": "nyoo-truh-SOO-tih-kul"
+},
+{
+"w": "somnambulism",
+"pos": "noun",
+"senses": [
+"sleepwalking"
+],
+"ety": "From French somnambulisme, from New Latin somnambulus, from Latin somnus (“sleep”) + ambulō (“to walk”), + -ism.",
+"examples": [
+"Meanwhile, towards the twelfth century, there come to be two weaknesses attached to this state of half-grown youth: by night somnambulism; in the daytime seeing of visions, trance, and the gift of tears."
+],
+"p": "som-NAM-byoo-lih-zum"
+},
+{
+"w": "rouille",
+"pos": "noun",
+"senses": [
+"A type of sauce from Provence, France, often served with fish dishes, consisting of egg yolk and olive oil with breadcrumbs, chili peppers, garlic, and saffron."
+],
+"ety": "Borrowed from French rouille (“rouille (sauce); rust”); the sauce is so named because its colour resembles that of rust.",
+"examples": [
+"ROUILLE SAUCE / Strongly flavored, served with fish soups or bouillabaisse."
+],
+"p": "ROO-ee"
+},
+{
+"w": "mistletoe",
+"pos": "noun",
+"senses": [
+"A sprig of one such plant used as a Christmas decoration, associated with the custom that a man may kiss any woman standing beneath it."
+],
+"ety": "From Middle English mistelto, mistilto (“European mistletoe”), from Old English misteltān (“mistletoe”), from mistel (“mistletoe; basil; birdlime”) + tān (“sprig, shoot, twig”), possibly as a calque of Old Norse mistilteinn; equivalent to mistle + tan (“twig”). This was mistaken for the plural of tā (“toe”). Cognate with Danish mistelten (“mistletoe”), Norwegian misteltein (“mistletoe”), Icelandic mistilteinn (“mistletoe”). Compare also the simplex form West Frisian mistel (“mistletoe”), Dutch mistel (“mistletoe”), German Mistel (“mistletoe”), Swedish mistel (“mistletoe”).",
+"examples": [
+"Everybody knows a turkey and some mistletoe / Help to make the season bright / Tiny tots with their eyes all aglow / Will find it hard to sleep tonight",
+"Rockin' around the Christmas tree / At the Christmas party hop / Mistletoe hung where you can see / Every couple tries to stop"
+],
+"p": "MIS-ul-toh"
+},
+{
+"w": "smorgasbord",
+"pos": "noun",
+"senses": [
+"A Swedish-style buffet comprising a variety of cold sandwiches and other dishes; (by extension) any buffet with a wide selection of dishes.",
+"An abundant and diverse collection of things."
+],
+"ety": "Borrowed from Swedish smörgåsbord (“buffet with many small dishes; smorgasbord”), from smörgås (“sandwich”) + bord (“table”). Smörgås is from Swedish smör (“butter”) + gås (“goose”), a reference to pieces of butter which float to the surface of milk when churned.",
+"examples": [
+"In carrying out the Swedish luxury theme, tasty Scandinavian food will be served from the Stratocruiser galley. The lower-deck cocktail bar will feature smorgasbord snacks and drinks.",
+"Cafeterias, buffets, chuck wagon service and smorgasbords are becoming increasingly popular food service methods.",
+"If you have an appetite for education statistics, consider the above an appetizer for the smorgasbord you'll find in the Digest of Education Statistics 1990."
+],
+"p": "SMOR-gus-bord"
+},
+{
+"w": "surly",
+"pos": "adjective",
+"senses": [
+"Irritated, bad-tempered, unfriendly.",
+"Threatening, menacing, gloomy."
+],
+"ety": "16th-century alteration of sirly, from sir + -ly.",
+"examples": [
+"The surly weather put us all in a bad mood."
+],
+"p": "SUR-lee"
+},
+{
+"w": "spunk",
+"pos": "noun",
+"senses": [
+"Touchwood; tinder.",
+"Courage; spirit; mettle; determination."
+],
+"ety": "1530, blend of spark + funk (obsolete, “spark”). Funk (“spark, touchwood”) is from Middle English funke, fonke (“spark”), from Old English *funca (“spark”), from Proto-West Germanic *funkō, from Proto-Germanic *funkô (“spark”), from Proto-Indo-European *(s)peng- (“to shine”), and is akin to Middle Low German funke, fanke (“spark”), Middle Dutch vonke (“spark”), Old High German funcho, funko (“spark”), German Funke (“spark”).",
+"examples": [
+"Spunk, or Touch-wood prepared, might perhaps make it Russet: and some, as Beringuccio affirmeth, have promised to make it Red.",
+"Douglas: You've got spunk. And balls. And I like that in a woman."
+],
+"p": "spungk"
+},
+{
+"w": "thievery",
+"pos": "noun",
+"senses": [
+"The act of theft, the act of stealing."
+],
+"ety": "From thieve + -ery. Compare Old Frisian deverie (\"thievery; theft\"; > West Frisian dieverij; Saterland Frisian Däiweräi), Dutch dieverij (“thievery”), German Low German Deveree (“thievery; theft”), German Dieberei (“thievery”), Danish tyveri (“thievery; theft; larceny”), Swedish tjuveri (“thievery”).",
+"examples": [
+"This instance of thievery will not be overlooked."
+],
+"p": "THEEV-er-ee"
+},
+{
+"w": "chausson",
+"pos": "noun",
+"senses": [
+"A piece of armor for the leg and/or foot, chiefly in the form of chainmail covering the thigh above the knee (with the chausse covering the other half of the leg).",
+"A kind of slipper or sock.",
+"A French turnover (food)."
+],
+"ety": "From French chausson (“shoe, sock; turnover”). Doublet of calzone.",
+"examples": [
+"As the period advanced, the legs were covered with mail chaussons above the knee, and below it with chausses, which were made to cover the feet.",
+"Roll out and form the chaussons • Lightly dust a large flat work surface with all-purpose flour. Remove the puff pastry from the refrigerator. Place one sheet of puff pastry on the work surface."
+],
+"p": "shoh-SAWN"
+},
+{
+"w": "lunule",
+"pos": "noun",
+"senses": [
+"Anything crescent-shaped; a crescent-shaped part or mark; a lunula or lune.",
+"An area in front of the beak of many bivalve shells, sometimes shaped like a double crescent, but more often heart-shaped."
+],
+"ety": "Borrowed from French lunule, from Latin lūnula, diminutive of lūna (“moon”). By surface analysis, luna + -ule.",
+"examples": [
+"A healthy lunule is usually most prominent on the thumb and may be invisible on the pinky finger.",
+"The architect incorporated a lunule design into the arched windows of the cathedral."
+],
+"p": "LOO-nyool"
+},
+{
+"w": "prolixity",
+"pos": "noun",
+"senses": [
+"Long-windedness, tiresome length, an excess of words."
+],
+"ety": "From Old French prolixite, from Latin prolixitas. By surface analysis, prolix + -ity.",
+"examples": [
+"Must I then for twenty-three mortal days endure the prolixity of that tedious woman?"
+],
+"p": "pruh-LIK-sih-tee"
+},
+{
+"w": "biodegradable",
+"pos": "adjective",
+"senses": [
+"Capable of being decomposed by biological activity, especially by microorganisms."
+],
+"ety": "From bio- + degradable.",
+"examples": [
+"Similar studies of rats have employed four different intracranial resorbable, slow sustained release systems—surgical foam, a thermal gel depot, a microcapsule or biodegradable polymer beads."
+],
+"p": "by-oh-duh-GRAY-duh-bul"
+},
+{
+"w": "docuseries",
+"pos": "noun",
+"senses": [
+"A documentary, or a collection of documentaries, presented as a series."
+],
+"ety": "Blend of documentary + series.",
+"examples": [
+"The stars also worked on a Disney+ docuseries chronicling the purchase and stewardship of the club, who currently play in the National League, which was being filmed when the King and Queen Consort visited."
+],
+"p": "dah-kyuh-SEER-eez"
+},
+{
+"w": "prise",
+"pos": "verb",
+"senses": [
+"To force (open) with a lever; to pry.",
+"To extract something that is difficult to obtain."
+],
+"ety": "From the Middle English noun prise (“taking of something”), from Old French prise (“seizure; taking; capture”), past participle of prendre (“to take”). Doublet of prize.",
+"examples": [
+"I think he must have been trying to prise open that box yonder when he was attacked.",
+"Come, force the gates with crowbars, prise them apart!",
+"Most people used pliers, scissors, rubber gloves and knives to try to prise open products."
+],
+"p": "prize"
+},
+{
+"w": "walrus",
+"pos": "noun",
+"senses": [
+"A large Arctic pinniped having long tusks, tough, wrinkled skin, and four flippers, Odobenus rosmarus."
+],
+"ety": "Probably borrowed from Dutch walrus, a compound of wal (“whale”) and ros (“horse”). Displaced native Old English horshwæl (literally “horse-whale”). Compare similar constructions in Danish hvalros, Old Norse hrosshvalr, and German Walross.",
+"examples": [
+"Of all the Phocine family none present so terrible and grotesque an appearance as the gigantic Walrus, also known as the morse and sea-horse."
+],
+"p": "WAHL-rus"
+},
+{
+"w": "marae",
+"pos": "noun",
+"senses": [
+"The courtyard of a Maori wharenui or meeting-house, seen as a cultural and spiritual focal point.",
+"The buildings and people around it; a spiritual or cultural centre.",
+"A Polynesian sacred altar or enclosure."
+],
+"ety": "Borrowed from Māori marae and Tahitian marae, from Proto-Oceanic *malaqe.",
+"examples": [
+"The path ended down by the sea at a crumbling ‘ingot’ of black coral, twenty yards in length & in height two men. ‘A marae, this is called,’ Mr Wagstaff informed me. ‘All over the South Seas you see ’em, I’m told.’"
+],
+"p": "muh-RY"
+},
+{
+"w": "earwig",
+"pos": "noun",
+"senses": [
+"One who whispers insinuations; a secret counsellor.",
+"A flatterer."
+],
+"ety": "From Middle English erwigge, from Old English ēarwicga, from ēare (“ear”) + wicga (“insect”), so named from the appearance of the hindwings, which are unique in their resemblance to human ears when unfolded. Compare typologically Dutch oorworm, German Ohrwurm, Danish ørentvist; French perce-oreille, Romanian urechelniță; Russian уховёртка (uxovjórtka), Serbo-Croatian uholaža, Slovak ucholak; Lithuanian auslinda (all are cognates via Proto-Indo-European *h₂ows-). Also compare Mongolian чихүүр хорхой (čixüür xorxoj) (<+ чих (čix)), Turkish kulağakaçan (<+ kulak).",
+"examples": [
+"That gawdy earwig, or my lord your patron, Whose pensioner you are."
+],
+"p": "EER-wig"
+},
+{
+"w": "marzipan",
+"pos": "noun",
+"senses": [
+"A confection made from a paste of almonds, sugar and egg white as a binder.",
+"A similar confection made using another nut, such as peanut or hazelnut.",
+"A piece of such a confection."
+],
+"ety": "Borrowed from German Marzipan, from Italian marzapane, Venetan marzapane. Believed to be, with influence from pane (“bread”), derived from Arabic مَرْطَبَان (marṭabān, “spice box”) which comes from the name of a Burmese port known for its spice exports, Martaban, now called in Burmese မုတ္ထမ (muthta.ma.).",
+"examples": [
+"Hazelnut marzipan. Hazelnuts are used as an alternative to almonds, ground together in a proportion from 11⁄2 to 2 parts nuts to sugar. Almonds may be mixed in according to taste.",
+"In one hand she held a handkerchief, and in the other she held two cherry-shaped marzipans. Rosalia smiled when she saw the marzipans and took them and the handkerchief from Madre Carmela."
+],
+"p": "MAR-zuh-pan"
+},
+{
+"w": "yellowy",
+"pos": "adjective",
+"senses": [
+"Somewhat yellow; yellowish."
+],
+"ety": "From yellow + -y.",
+"examples": [
+"Let the daisy, yellow-hearted, With its white leaves starry-parted, And the cowslips, yellowy pale, Serve her as a flowery veil—",
+"I start the truck, drive west along the highway built on the dry bed of the Teays. There’s wide bottoms, and the hills on either side have yellowy billows the sun can’t burn off."
+],
+"p": "YEL-oh-ee"
+},
+{
+"w": "thill",
+"pos": "noun",
+"senses": [
+"One of the two long pieces of wood, extending before a vehicle, between which a horse is hitched; a shaft.",
+"The shallow stratum of underclay that lies under a seam of coal; the bottom of a coal-seam."
+],
+"ety": "From Middle English thille, thylle, from Old English þille (“board; floorboard; plank; stake; pole”), from Proto-West Germanic *þilljā, from Proto-Germanic *þiljǭ (“board; floorboard; deck”), from Proto-Indo-European *tel- (“plank; board”). Cognate with Dutch deel, German Low German Deel (> English deal (“plank”)), German Diele, Swedish tilja, Icelandic þilja. Akin to English theal (“board; plank”). Doublet of deal (etymology 3) and theal (dialectal).",
+"examples": [
+"One by one, Janki leading, they crept into the old gallery – a six-foot way with a scant four feet from thill to roof."
+],
+"p": "thil"
+},
+{
+"w": "educe",
+"pos": "verb",
+"senses": [
+"To infer or deduce (a result, theory etc.) from existing data or premises.",
+"To draw out or bring forth from some basic or potential state; to elicit, to develop.",
+"To cause or generate; to bring about."
+],
+"ety": "Borrowed from Latin ēdūcere (“lead out, raise up”); from ex- (“out, up”) + dūcō (“lead, pull”).",
+"examples": [
+"The justice of God may be vindicated by a belief in a future state; but, only by believing that evil is educing good for the individual, and not for an imaginary whole."
+],
+"p": "ih-DOOS"
+},
+{
+"w": "euthanize",
+"pos": "verb",
+"senses": [
+"To carry out euthanasia on (a person or animal)."
+],
+"ety": "Back-formation from euthanasia; 1970s.",
+"examples": [
+"John decided to euthanize his dying dog.",
+"A terminally ill minor has become the first child to be euthanized in Belgium since age restrictions were lifted in the country two years ago."
+],
+"p": "YOO-thun-ize"
+},
+{
+"w": "grebo",
+"pos": "noun",
+"senses": [
+"A short-lived subgenre of alternative rock music in the late 1980s and early 1990s, with influences from punk rock, electronic dance music, hip-hop, and psychedelia."
+],
+"ety": "From greaser, originally referring to motorcyclists before being transferred to rockers.",
+"examples": [
+"This debut album is a glorious grebo-fest."
+],
+"p": "GREE-boh"
+},
+{
+"w": "acclimatization",
+"pos": "noun",
+"senses": [
+"The act of acclimatizing; the process of inuring to a new climate, or the state of being so inured."
+],
+"ety": "From acclimatize + -ation.",
+"examples": [
+"The expedition paused to allow for proper acclimatization at base camp.",
+"Acclimatization to extreme climates is essential for survival.",
+"The scientist studied the acclimatization of plants introduced into new environments."
+],
+"p": "uh-kly-muh-tuh-ZAY-shun"
+},
+{
+"w": "placer",
+"pos": "noun",
+"senses": [
+"One who places or arranges something.",
+"A horse, etc. that finishes in a particular place in a race."
+],
+"ety": "From place + -er (agent noun suffix).",
+"examples": [
+"Thou placer of plants both humble and tall"
+],
+"p": "PLAY-ser"
+},
+{
+"w": "grapey",
+"pos": "adjective",
+"senses": [
+"Resembling grapes."
+],
+"ety": "From Middle English grapy, equivalent to grape + -y.",
+"examples": [
+"It was round and purple and had sort of a grapey appearance.",
+"The God we now behold with open'd eyes; A herd of spotted panthers round him lies In glaring forms; the grapy clusters spread On his fair brows, and dangle on his head."
+],
+"p": "gray-pee"
+},
+{
+"w": "contaminant",
+"pos": "noun",
+"senses": [
+"That which contaminates; an impurity; foreign matter."
+],
+"ety": "Borrowed from French contaminant, present participle of contaminer (“to contaminate”), from Latin contāmināre. By surface analysis, contaminate + -ant.",
+"examples": [
+"Put the lid on the jar to keep contaminants out."
+],
+"p": "kun-TAH-mih-nunt"
+},
+{
+"w": "detach",
+"pos": "verb",
+"senses": [
+"To take apart from; to take off.",
+"To come off something."
+],
+"ety": "From Old French destachier, from the same root as attach; compare French détacher and Portuguese and Spanish destacar.",
+"examples": [
+"The accused man, Kabuo Miyamoto, sat proudly upright with a rigid grace, his palms placed softly on the defendant's table—the posture of a man who has detached himself insofar as this is possible at his own trial.",
+"Now that the zipper has detached, my winter coat won't keep me very warm."
+],
+"p": "dih-TACH"
+}
+]

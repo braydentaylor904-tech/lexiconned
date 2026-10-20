@@ -1,0 +1,541 @@
+[
+{
+"w": "phaser",
+"pos": "noun",
+"senses": [
+"An electronic device that produces special effects on the sound produced by an electric guitar etc.",
+"Fictional energy weapon, with multiple settings for degree of intensity, from the television series Star Trek (1966–69).",
+"A phase modulator"
+],
+"ety": "* (science fiction): For the fictional weapon coined for Star Trek: originally a \"ph(oton ma)ser,\" later changed canonically to a \"phas(ed)-e(nergy) r(ectifier)\" (of \"nadions\", not photons). * (phase modulation): phase + -er",
+"examples": [
+"Captain James Kirk: \"Set your phaser on one quarter. I'll leave mine on stun.\"",
+"A Bajoran rushed past with an armful of phaser rifles, another with a box of hand phasers.",
+"I said, \"Set phasers on be-a-bastard.\""
+],
+"p": "FAY-zer"
+},
+{
+"w": "undulate",
+"pos": "verb",
+"senses": [
+"To cause to move in a wavelike motion.",
+"To cause to resemble a wave.",
+"To move in wavelike motions.",
+"To appear wavelike."
+],
+"ety": "First attested in 1664; borrowed from New Latin undulātus, the perfect passive participle of undulō (see -ate (verb-forming suffix)), from an unattested *undula (“small wave”), diminutive of Latin unda (“wave”).",
+"examples": [
+"Breath vocalized, i.e., vibrated and undulated.",
+"Come lovely and soothing death, / Undulate round the world, serenely arriving, arriving, / In the day, in the night, to all, to each, / Sooner or later delicate death."
+],
+"p": "UND-yuh-layt"
+},
+{
+"w": "overawe",
+"pos": "verb",
+"senses": [
+"To restrain, subdue, or control by awe; to cow."
+],
+"ety": "From over- + awe.",
+"examples": [
+"His free and easy carriage evinced, that though acknowledging my assumptions, he was no way overawed by them; treating me as familiarly, indeed, as if I were a mere mortal, one of the abject generation of mushrooms.",
+"He kept the biggest estates, and where he lacked troops to overawe the natives he evicted the natives and made a game reserve."
+],
+"p": "oh-ver-AH"
+},
+{
+"w": "greige",
+"pos": "adjective",
+"senses": [
+"Of clothing, textiles, etc.: neither bleached nor dyed, nor otherwise fully processed; unfinished.",
+"Of a colour like that of unbleached or undyed fabric, between grey and beige."
+],
+"ety": "The adjective is borrowed from French grège and Middle French grège (“of silk: raw, unfinished; of the colour of such silk, greyish-beige”, adjective), from Italian greggio (“raw, unrefined; unbleached”); further etymology uncertain, possibly from Vulgar Latin *gregius (as in lana *gregia (“untreated wool as obtained from the flock”)), from grex (“flock (of sheep, etc.)”), ultimately from Proto-Indo-European *h₂ger- (“flock, herd; to gather”). The noun is borrowed from French grège and Middle French grège (“raw or unfinished silk; the colour of such silk, greyish-beige”, noun), from Italian gr",
+"examples": [
+"The rolls of greige cloth sat on the factory floor waiting to be printed."
+],
+"p": "grayzh"
+},
+{
+"w": "naturalize",
+"pos": "verb",
+"senses": [
+"To grant citizenship to someone not born a citizen.",
+"To acclimatize an animal or plant.",
+"To make natural.",
+"To limit explanations of a phenomenon to naturalistic ones and exclude supernatural ones.",
+"To study nature."
+],
+"ety": "From Middle French naturaliser. By surface analysis, natural + -ize.",
+"examples": [
+"Its wearer suggested that pears and peaches might yet be naturalized in the New England climate.",
+"Custom naturalizes labour or study."
+],
+"p": "NACH-uh-ruh-lize"
+},
+{
+"w": "eponymous",
+"pos": "adjective",
+"senses": [
+"Of a thing: named after a person or entity."
+],
+"ety": "From Ancient Greek ἐπώνῠμος (epṓnŭmos, “concerning giving one’s name to something; named in a significant manner; surnamed”) + English -ous (suffix forming adjectives from nouns, denoting pertinence or relation).",
+"examples": [
+"The American singer-songwriter Madonna released her eponymous album in 1983."
+],
+"p": "uh-PAH-nuh-mus"
+},
+{
+"w": "sleet",
+"pos": "noun",
+"senses": [
+"Pellets of ice made of mostly-frozen raindrops or refrozen melted snowflakes.",
+"Precipitation in the form of a mixture of rain and snow."
+],
+"ety": "From Middle English slete, probably from Old English *slēte, *slȳte, *slīete, from Proto-West Germanic *slautijā, from Proto-Germanic *slautijǭ (“sleet”). Walter W. Skeat, the author of Etymological Dictionary of the English Language, suggests Old Norse slydda (whence Danish slud (“mixture of rain and snow”)). The word appears to be akin to Low German Sloot (“hail”), dialectal German Schloße (“large hailstone”), Old Gutnish sloyta (“slush, sleet”). Doublet of slut.",
+"examples": [
+"Though it never really snows it’s more like horizontal sleet"
+],
+"p": "sleet"
+},
+{
+"w": "olden",
+"pos": "adjective",
+"senses": [
+"From or relating to a previous era."
+],
+"ety": "From Middle English olden, probably originally an inflected plural form of old (compare Old English ealdum, dative plural of eald (“old”)), but later reanalysed as equivalent to old + -en (“made of”). Otherwise derived from Old Norse aldinn (“ancient, old”).",
+"examples": [
+"In olden days, a glimpse of stockings Was looked on as something shocking; Now, heaven knows, Anything goes."
+],
+"p": "OHL-dun"
+},
+{
+"w": "longyi",
+"pos": "noun",
+"senses": [
+"A sarong-like garment worn around the waist."
+],
+"ety": "Borrowed from Burmese လုံချည် (lumhkyany), from Hindi लुंगी (luṅgī).",
+"examples": [
+"During our conversation, he sat erect and cross-legged on a raised platform, wearing a longyi."
+],
+"p": "LAHN-jee"
+},
+{
+"w": "ephedra",
+"pos": "noun",
+"senses": [
+"A stimulant derived from the plant Ephedra sinica used in traditional Chinese herbal medicine and in over-the-counter weight-loss aids."
+],
+"ety": "From Ancient Greek ἐφέδρα (ephédra, “sitting upon”), from ἐπί (epí, “upon”) + ἕδρα (hédra, “seat”).",
+"examples": [
+"Consider ephedra, an herbal stimulant that gained popularity as a weight-loss supplement in the 1990s — until hundreds of people reported ephedra-related problems including heart attacks, seizures and even deaths."
+],
+"p": "EF-ih-druh"
+},
+{
+"w": "parasitism",
+"pos": "noun",
+"senses": [
+"A similar interaction between people or things."
+],
+"ety": "From parasite + -ism. Cognate with French parasitisme and Portuguese and Spanish parasitismo.",
+"examples": [
+"We accused her of parasitism in taking his hard-earned money for new dresses.",
+"These devices' energy consumption is parasitism upon the electrical grid."
+],
+"p": "PAR-uh-sy-tiz-um"
+},
+{
+"w": "jambe",
+"pos": "noun",
+"senses": [
+"A leg, of an animal or person.",
+"Synonym of jambeau (“a greave”)."
+],
+"ety": "From Middle English jambe, jaumbe, French jambe. Doublet of gam, gamb, gamba, and jamb.",
+"examples": [
+"Lion's jambe, erased, grasping a laurel branch.",
+"Bainbergs were the precursors of the steel greaves or jambes of the fourteenth century."
+],
+"p": "JAM"
+},
+{
+"w": "stencil",
+"pos": "noun",
+"senses": [
+"A thin sheet, either perforated or using some other technique, with which a pattern may be produced upon a surface; a utensil that contains a perforated sheet.",
+"A pattern produced using such a utensil.",
+"A two-ply master sheet for use with a mimeograph."
+],
+"ety": "Likely a nominalization of Middle English stencellen (“to garnish with bright hues”), borrowed from Middle French estinceller (“to glisten”), from Old French estenceler (“to spark”), from Old French estencele (“spark”), from Vulgar Latin *stincilla, from metathesis of Latin scintilla (“spark”). The verb is from the noun.",
+"examples": [
+"You do not necessarily need to have a stencil brush to paint over a stencil."
+],
+"p": "STEN-sul"
+},
+{
+"w": "escalope",
+"pos": "noun",
+"senses": [
+"A thin slice of meat, especially veal or poultry."
+],
+"ety": "Borrowed from French escalope. Doublet of scallop.",
+"examples": [
+"Both the escalope de veau Normande and a special of the day, veal Orloff, seemed to be cut from the same veal roast, not thin escalopes at all, but thick chop-like slices. Only the sauces differed."
+],
+"p": "es-kuh-LOHP"
+},
+{
+"w": "chicory",
+"pos": "noun",
+"senses": [
+"Either of two plants of the Asteraceae family.",
+"Common chicory (Cichorium intybus), source of Belgian endive, radicchio, and certain other cultivars with other names.",
+"Endive (Cichorium endivia), the source of escarole and frisée.",
+"A coffee substitute made from the roasted roots of the common chicory, sometimes used as a cheap adulterant in real coffee."
+],
+"ety": "From Late Middle English cicoree, cicory, cicorea, sicory, sycory (“common chicory (Cichorium intybus); heliotrope”), from Old French cicoree (modern French chicorée (“common chicory; endive; coffee substitute made from common chicory”)), or directly from its etymon Medieval Latin cicorea, cichorea, *cichōria, from Latin cichorium, cichoreum (“common chicory; endive”), from Ancient Greek κίχορα (kíkhora), κιχόρεια (kikhóreia), neuter plural of κιχώριον (kikhṓrion, “chicory”). The English word is cognate with Italian cicórea, and is a doublet of succory.",
+"examples": [
+"In its fresh vegetable state, chicory, or succory—the Cichorium Intybus of botanists, is said to be a good tonic, and to have the effect of an aperient.",
+"The leaves of the cultivated chicory, endive, when blanched, form an ingredient in early spring salads."
+],
+"p": "CHIK-uh-ree"
+},
+{
+"w": "expedience",
+"pos": "noun",
+"senses": [
+"The quality of being fit or suitable to cause some desired end or the purpose intended; propriety or advisability under the particular circumstances of a case.",
+"Speed, haste or urgency.",
+"Something that is expedient."
+],
+"ety": "From Middle English expedience, from Old French expedience, from Late Latin expedientia, from Latin expediens.",
+"examples": [
+"April 11 1690, John Sharp, sermon preached at White-Hall to determine concerning the expedience of actions",
+"The sense of expedience that allowed White to cut deals and keep moving had made many, mistakenly, see him as shallow or, worse, unprincipled."
+],
+"p": "ek-SPEE-dih-uns"
+},
+{
+"w": "rifleman",
+"pos": "noun",
+"senses": [
+"A soldier trained to use a rifle as a primary weapon.",
+"A person especially skilled in the use of a rifle.",
+"A small wrenlike insectivorous passerine bird endemic to New Zealand, Acanthisitta chloris, the titipounamu."
+],
+"ety": "From rifle + -man.",
+"examples": [
+"The riflemen had not been issued their weapons yet, and hence they trained with wooden mock-up rifles.",
+"Anil Gurung joined the Army in 2006 as a rifleman with the 2nd Royal Gurkha Regiment.",
+"She was quite the rifleman and could pick off a squirrels with a .22 from across the field with amazing accuracy."
+],
+"p": "RY-ful-mun"
+},
+{
+"w": "limerence",
+"pos": "noun",
+"senses": [
+"An involuntary romantic infatuation with another person, especially combined with an overwhelming, obsessive need to have one's feelings reciprocated."
+],
+"ety": "From limer- (“a coined, arbitrary first element”) + -ence. Coined by American psychologist Dorothy Tennov in 1977 as an arbitrary euphonious replacement or alteration of the word amorance.",
+"examples": [
+"When someone is under the spell of limerence, not even being rejected dampens down the madness.",
+"But limerence, lovely as it feels, is a time-limited event—it lasts about five years for most couples.",
+"Limerence is a state of overwhelming and unexpected longing for emotional reciprocation from another human, known as a limerent object (LO), who is often perceived as perfect but unavailable."
+],
+"p": "LIM-uh-runs"
+},
+{
+"w": "numismatist",
+"pos": "noun",
+"senses": [
+"One who studies and/or collects coins and/or currencies."
+],
+"ety": "From numismatics + -ist.",
+"examples": [
+"With seasoned numismatists eager to fill gaps in their collections, prices are already rising."
+],
+"p": "nyoo-MIZ-muh-tist"
+},
+{
+"w": "panauti",
+"pos": "noun",
+"senses": [
+"A person believed to bring bad luck or misfortune, especially through association or timing."
+],
+"ety": "Borrowed from Hindi पनौती (panautī, “misfortune, bringer of bad luck”).",
+"examples": [
+"Don't let him touch the bat, he's a total panauti — we always lose when he's around."
+],
+"p": "puh-NAW-tee"
+},
+{
+"w": "knead",
+"pos": "verb",
+"senses": [
+"To work and press into a mass, usually with the hands; especially, to work, as by repeated pressure with the knuckles, into a well mixed mass, the materials of bread, cake, etc.",
+"To treat or form as if by kneading; to beat.",
+"Of cats, to make an alternating pressing motion with the two front paws."
+],
+"ety": "From Middle English kneden, from Old English cnedan, from Proto-West Germanic *knedan, from Proto-Germanic *knudaną, from Proto-Indo-European *gnet- (“to press together”).",
+"examples": [
+"Knead the dough by pressing down on it with the heels of both your palms and pushing it forward to stretch it, then pulling it back toward you...",
+"I will knead him: I'll make him supple.",
+"Cats knead with their paws when happy, just as they kneaded when feeding from their mothers as kittens."
+],
+"p": "need"
+},
+{
+"w": "zoomorphic",
+"pos": "adjective",
+"senses": [
+"Having the shape, form, or likeness of an animal."
+],
+"ety": "From zoo- + -morphic.",
+"examples": [
+"The zoomorphic Hindu god Ganesha has the head of an elephant."
+],
+"p": "zoh-uh-MOR-fik"
+},
+{
+"w": "lacunar",
+"pos": "noun",
+"senses": [
+"A sunken panel or coffer in a ceiling or a soffit; a ceiling containing panels of this kind."
+],
+"ety": "Learned borrowing from Latin lacūnar. First attested in 1696.",
+"examples": [
+"Lacunar, (in Architect.) the flooring or Planking above the Porticoes; a cieled Roof arched or fretted.",
+"Lacunariæ, or Lacunars, panels or coffers formed on the ceilings of apartments, and sometimes on the soffits of coronae in the Ionic, Corinthian, and Composite orders.",
+"On the grounds of the coffers forming the lacunaria of the ceilings."
+],
+"p": "luh-KYOO-ner"
+},
+{
+"w": "syllabary",
+"pos": "noun",
+"senses": [
+"A table or list of syllabic letters or syllables.",
+"A writing system where each character represents a complete syllable."
+],
+"ety": "From New Latin syllabārium, from syllaba.",
+"examples": [
+"It shouldn't be hard to come up with a musical syllabary in which pitches code for vowels and timbres code for consonants.",
+"Bamum is a syllabary developed between 1896 and 1910, used for writing the Bamum language in western Cameroon."
+],
+"p": "SIL-uh-bair-ee"
+},
+{
+"w": "cline",
+"pos": "noun",
+"senses": [
+"Any graduated continuum."
+],
+"ety": "From Ancient Greek κλῑ́νω (klī́nō, “to lean, incline”). Introduced by English evolutionary biologist and eugenicist Julian Huxley in 1938 after British mycologist John Ramsbottom suggested the term.",
+"examples": [
+"This account effectively reconstructs the well-known grammaticalisation cline from anaphora to agreement, …"
+],
+"p": "kline"
+},
+{
+"w": "pitman",
+"pos": "noun",
+"senses": [
+"One who works in a pit, as in mining, in sawing timber, etc.",
+"A connecting rod in machinery, especially in a sawmill."
+],
+"ety": "From pit + -man.",
+"examples": [
+"The train proceeded to North Pittington Colliery, 600 yd. away, where the Duke viewed the new winning, examined the pumping and drawing engines, and saw how pitmen descended and ascended the shaft.",
+"I also claim the combination of the separator shaft with the shoe, and with the pitman, for the purpose of imparting to it a recriprocating horizontal movement, and a vibratory movement on its axis at the same time,..."
+],
+"p": "PIT-mun"
+},
+{
+"w": "trental",
+"pos": "noun",
+"senses": [
+"A set of 30 requiem masses, said once a day for a month or all in one day.",
+"The payment for this service."
+],
+"ety": "From Medieval Latin trentāle directly or via Old French trentel, from the neuter substantive of *Vulgar Latin trenta + -ālis (“-al: forming adjectives”), from Latin trīgintā (“thirty”).",
+"examples": [
+"Trentals seyde he, deliueren fro penaunce Hir freendes soules."
+],
+"p": "TREN-tul"
+},
+{
+"w": "pester",
+"pos": "verb",
+"senses": [
+"To bother, harass, or annoy persistently."
+],
+"ety": "In the senses of “overcrowd (a place)” and “impede (a person)”: from Middle French and Old French empestrer (“encumber”), influenced by English pest. The modern sense is an extension of the sense “infest”. Comparable to English construction pest + -er (used to form frequentative verbs).",
+"examples": [
+"He pestered me with questions."
+],
+"p": "PES-ter"
+},
+{
+"w": "caffeinated",
+"pos": "adjective",
+"senses": [
+"Containing caffeine naturally (e.g., coffee, tea, and cacao) or as an additive (e.g., soft drinks, sports drinks, or energy drinks).",
+"Overly peppy or energetic; stimulated by caffeine."
+],
+"ety": "From caffeine + -ated.",
+"examples": [
+"For most of us, to be caffeinated to one degree or another has simply become baseline human consciousness."
+],
+"p": "KAH-fih-nay-tid"
+},
+{
+"w": "croissant",
+"pos": "noun",
+"senses": [
+"A flaky roll or pastry in a form of a crescent."
+],
+"ety": "Unadapted borrowing from French croissant (“crescent”), present participle of croître (“to grow”). Doublet of crescent.",
+"examples": [
+"By my side was the empty bowl in which the concierge had brought me my café au lait and the fragment of croissant which I had not had appetite enough to eat. I heard the concierge in the next room emptying my bath."
+],
+"p": "kruh-SAHNT"
+},
+{
+"w": "ducat",
+"pos": "noun",
+"senses": [
+"A gold coin minted by various European nations.",
+"A coin of the major denomination (dollar, euro, etc.); money in general."
+],
+"ety": "From Middle French ducat, late Old French ducat, from Old Italian ducato, from Medieval Latin ducātus, from oblique stem of dux (“duke; leader”). Doublet of duchy.",
+"examples": [
+"Shylock: \"My daughter! O my ducats! Fled with a Christian! O my Christian ducats! Justice! the law! my ducats, and my daughter!...\"",
+"But when the innkeeper saw what kind of goat the lad had, he thought this was a goat worth having, so when the lad had fallen asleep, he took another goat which couldn't make any golden ducats, and put that in its place."
+],
+"p": "DUK-ut"
+},
+{
+"w": "ellipsoid",
+"pos": "noun",
+"senses": [
+"Such a surface used as a model of the shape of the earth."
+],
+"ety": "From ellipse + -oid.",
+"examples": [
+"Here the geoid is thirty meters below the ellipsoid."
+],
+"p": "ih-LIP-soyd"
+},
+{
+"w": "kovil",
+"pos": "noun",
+"senses": [
+"A Hindu temple built in a distinct style of Dravidian architecture."
+],
+"ety": "Transliteration of Tamil கோவில் (kōvil, “King's residence, temple”). See also Malay kuil.",
+"examples": [
+"Aruna went to the Pittsburgh Perumal kovil yesterday.",
+"Though Sri Lanka is predominantly a Buddhist country there are a number of churches, kovils and mosques dotting the towns and countryside."
+],
+"p": "KOH-vil"
+},
+{
+"w": "larva",
+"pos": "noun",
+"senses": [
+"An early stage of growth for insects and some amphibians, in which after hatching from their egg, insects are wingless and resemble a caterpillar or grub, and amphibians lack limbs and resemble fish.",
+"An animal in the aforementioned stage.",
+"A form of a recently born or hatched animal that is quite different from its adult stage.",
+"A preliminary stage of someone or something, before it has fully matured, especially a time of growth rather than one of performance."
+],
+"ety": "From Latin larva (“disembodied spirit, ghost, goblin”).",
+"examples": [
+"The habits of the second nymphal stage are likewise similar to those of the larva stage.",
+"The young larva bores into the tissue of a tobacco leaf, usually near the place where it has emerged from the egg, in cases where the egg was laid on a leaf, and mines into the leaf.",
+"What does a mountain newt larva eat?"
+],
+"p": "LAR-vuh"
+},
+{
+"w": "niggardly",
+"pos": "adjective",
+"senses": [
+"Withholding for the sake of meanness; stingy, miserly."
+],
+"ety": "From niggard + -ly (adjectival suffix).",
+"examples": [
+"They were not niggardly, these tramps, and he who had money did not hesitate to share it among the rest.",
+"This manifests itself in an implacable tendency to provide an opulent supply of some things and a niggardly yield of others."
+],
+"p": "NIG-erd-lee"
+},
+{
+"w": "carload",
+"pos": "noun",
+"senses": [
+"The contents of an automobile (passengers, supplies, etc.) for one trip.",
+"The quantity of goods that can be carried in a freight car."
+],
+"ety": "From car + load.",
+"examples": [
+"I brought a carload of flowers to her.",
+"We brought a carload of kids and camping gear on our road trip out west.",
+"By 1887 the company had grown so large that it was buying its flour and sugar by the carload."
+],
+"p": "KAR-lohd"
+},
+{
+"w": "boogaloo",
+"pos": "verb",
+"senses": [
+"To dance in this style."
+],
+"ety": "Attested as a style of dance since at least January 1966 (and found in the titles of many songs around that time), perhaps from boogie (for the ending, compare crackaloo, hullabaloo). (Compare Spanish bugalú, the Spanish name for the style of music and dance.) Kent Harris used the stage name \"Boogaloo\" in the 1950s. The sense \"sequel or repetition\" refers to the title of Breakin' 2: Electric Boogaloo (1984), a sequel which was considered to be so bad it became a cult classic. Compare the sense \"black person\" to boogalee, a term for a Cajun, attested since 1960 or earlier.",
+"examples": [
+"She would have screamed in the judge's face, getting her man ninety years and a day. \"You two boogaloo like an old married couple,\" I tell them after they've danced stiffly for a few minutes."
+],
+"p": "BOO-guh-loo"
+},
+{
+"w": "veiny",
+"pos": "adjective",
+"senses": [
+"Having prominent veins."
+],
+"ety": "From vein + -y.",
+"examples": [
+"Jason's throbbing veiny cock proudly telepathing his arousal for all to witness."
+],
+"p": "VAY-nee"
+},
+{
+"w": "lickspittle",
+"pos": "noun",
+"senses": [
+"A fawning toady; a base sycophant.",
+"The practice of giving empty flattery for personal gain."
+],
+"ety": "A compounding: lick (“pass one’s tongue over”) + spittle (“saliva”); the verb may derive by back-formation from the nominal derivation lickspittling (see below).",
+"examples": [
+"His preposterous insults were legendary, and there are accounts of his small-hour attacks on petty moralists and literary lickspittles in obscure Madrid dives where he chain-smoked and drank gallons of gin."
+],
+"p": "LIK-spitl"
+},
+{
+"w": "ormolu",
+"pos": "noun",
+"senses": [
+"Golden or gilded brass or bronze used for decorative purposes."
+],
+"ety": "From French or moulu (literally “ground gold”).",
+"examples": [
+"It is an old-fashioned space of pink-and-green trellis carpet and French ormolu, half-concealed by heavy brocade curtains."
+],
+"p": "OR-muh-loo"
+}
+]

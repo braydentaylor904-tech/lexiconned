@@ -1,0 +1,426 @@
+[
+{
+"w": "surcease",
+"pos": "verb",
+"senses": [
+"To come to an end; to desist.",
+"To bring to an end."
+],
+"ety": "From Anglo-Norman surseser, from Old French sursis, past participle of surseoir, from Latin supersedēre. Spelling later influenced by association with unrelated cease, which likely also influenced the meaning. Related to supersede.",
+"examples": [],
+"p": "SUR-sees"
+},
+{
+"w": "stressy",
+"pos": "adjective",
+"senses": [
+"stressed; irritable"
+],
+"ety": "From stress + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "keymap",
+"pos": "noun",
+"senses": [
+"A collection of keymappings."
+],
+"ety": "From key + map.",
+"examples": [],
+"p": null
+},
+{
+"w": "kaidan",
+"pos": "noun",
+"senses": [
+"A traditional Japanese ghost story or horror story."
+],
+"ety": "Borrowed from Japanese 怪談.",
+"examples": [],
+"p": null
+},
+{
+"w": "haldi",
+"pos": "noun",
+"senses": [
+"Synonym of turmeric."
+],
+"ety": "Borrowed from Hindi हलदी (haldī), from Sanskrit हरिद्रा (haridrā).",
+"examples": [],
+"p": null
+},
+{
+"w": "televote",
+"pos": "noun",
+"senses": [
+"A vote operated by means of televoting."
+],
+"ety": "From tele- + vote.",
+"examples": [
+"Some Greek Cypriots accused the state-run Cyprus Broadcasting Corporation of rigging the televote."
+],
+"p": null
+},
+{
+"w": "apportionment",
+"pos": "noun",
+"senses": [
+"The act of apportioning or the state of being apportioned.",
+"The distribution of members of the House of Representatives according to the population of the various states.",
+"The allocation of direct taxation according to the population of the various states."
+],
+"ety": "From apportion + -ment.",
+"examples": [
+"The names of the prayers are given above the tunes, but there is no indication of apportionment of the text to the phrases and notes of the melody."
+],
+"p": null
+},
+{
+"w": "intraoral",
+"pos": "adjective",
+"senses": [
+"Within the mouth"
+],
+"ety": "From intra- + oral.",
+"examples": [],
+"p": null
+},
+{
+"w": "hikikomori",
+"pos": "noun",
+"senses": [
+"A Japanese phenomenon whereby a person becomes a recluse from society, typically remaining isolated in a single room at home for a very long period.",
+"A reclusive person of this kind."
+],
+"ety": "Borrowed from Japanese 引きこもり (literally “pulling inward, being confined”) and is often translated as “acute social withdrawal” or shut-in.",
+"examples": [],
+"p": "hik-ee-koh-MAW-ree"
+},
+{
+"w": "seston",
+"pos": "noun",
+"senses": [
+"All particulate matter suspended in bodies of water such as lakes and seas, including plankton, organic detritus, and inorganic material."
+],
+"ety": "From German Seston, by surface analysis, Ancient Greek σηστός (sēstós, “sifter”, verbal adjective of σήθω (sḗthō, “I strain, filter”)) + -on. Compare plankton.",
+"examples": [],
+"p": null
+},
+{
+"w": "naved",
+"pos": "adjective",
+"senses": [
+"Having a (specified kind or number of) nave."
+],
+"ety": "From nave + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "tithi",
+"pos": "noun",
+"senses": [
+"The lunar date based on the Hindu calendar. There are 30 tithis in each lunar month. Tithis begin at varying times of a solar day and vary in duration from approximately 19 to 26 hours."
+],
+"ety": "From Sanskrit तिथि (tithi, “lunar day”).",
+"examples": [],
+"p": "TIT-ih"
+},
+{
+"w": "lobotomize",
+"pos": "verb",
+"senses": [
+"To perform a lobotomy upon.",
+"To remove the vitality or intelligence from."
+],
+"ety": "From lobotomy + -ize.",
+"examples": [],
+"p": null
+},
+{
+"w": "uniaxial",
+"pos": "adjective",
+"senses": [
+"Having a single axis; monoaxial"
+],
+"ety": "From uni- + axial.",
+"examples": [],
+"p": null
+},
+{
+"w": "wolfsangel",
+"pos": "noun",
+"senses": [
+"A wolf hook.",
+"A Z-shaped symbol, reminiscent of the Germanic wolf hook hunting device"
+],
+"ety": "From German Wolfsangel (literally “wolf hook”).",
+"examples": [],
+"p": null
+},
+{
+"w": "herradura",
+"pos": "noun",
+"senses": [
+"A curved masonry wall characteristic of the Ancestral Puebloan road network."
+],
+"ety": "Borrowed from Spanish herradura (“horseshoe”).",
+"examples": [],
+"p": null
+},
+{
+"w": "pilchard",
+"pos": "noun",
+"senses": [
+"Sardina pilchardus."
+],
+"ety": "From earlier pilcher, adapted to the suffix -ard. Further etymology unknown. Compare Dutch pelser.",
+"examples": [],
+"p": "PIL-cherd"
+},
+{
+"w": "rockery",
+"pos": "noun",
+"senses": [
+"A section of a garden made from decorative rocks and alpine plants.",
+"A natural area where many seals breed."
+],
+"ety": "From rock + -ery.",
+"examples": [],
+"p": "RAHK-er-ee"
+},
+{
+"w": "kikyo",
+"pos": "noun",
+"senses": [
+"A Japanese bellflower (Platycodon grandiflorus)."
+],
+"ety": "Borrowed from Japanese 桔梗 (kikyō).",
+"examples": [],
+"p": null
+},
+{
+"w": "transdermal",
+"pos": "adjective",
+"senses": [
+"Through the unbroken skin (as for example with measurements of blood glucose level with an optical glucometer using photometry or of oxygen saturation via pulse oximetry)."
+],
+"ety": "From trans- + dermal.",
+"examples": [],
+"p": null
+},
+{
+"w": "blook",
+"pos": "noun",
+"senses": [
+"A book serialized on a blog (weblog) platform.",
+"A book about blogging.",
+"A printed book containing content which first appeared on a blog."
+],
+"ety": "Blend of blog + book.",
+"examples": [],
+"p": "bluuk"
+},
+{
+"w": "scarify",
+"pos": "verb",
+"senses": [
+"To frighten; to scare, to terrify."
+],
+"ety": "From scare + -ify.",
+"examples": [],
+"p": "SKA-rih-fy"
+},
+{
+"w": "wheaty",
+"pos": "adjective",
+"senses": [
+"Resembling, or tasting of, wheat."
+],
+"ety": "From wheat + -y.",
+"examples": [],
+"p": "WEE-tee"
+},
+{
+"w": "otherworldy",
+"pos": "adjective",
+"senses": [
+"Synonym of otherworldly."
+],
+"ety": "From otherworld + -y, or an error for otherworldly.",
+"examples": [],
+"p": null
+},
+{
+"w": "herniated",
+"pos": "adjective",
+"senses": [
+"Having or forming a hernia."
+],
+"ety": "By surface analysis, herni- + -ate + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "brille",
+"pos": "noun",
+"senses": [
+"A transparent scale that covers the eye of a snake and is periodically shed as part of the exuvia."
+],
+"ety": "Borrowed from German Brille.",
+"examples": [],
+"p": "BRIL-uh"
+},
+{
+"w": "provincialism",
+"pos": "noun",
+"senses": [
+"The quality of being provincial; having provincial tastes, mentality, manners.",
+"Synonym of regionalism: belief in the superiority of one's regional government; the belief that most or nearly all political power should be decentralized to provincial governments."
+],
+"ety": "From French provincialisme, equivalent to provincial + -ism.",
+"examples": [
+"The blacksmith's provincialism showed in his speech and manner"
+],
+"p": null
+},
+{
+"w": "intentioned",
+"pos": "adjective",
+"senses": [
+"Having a certain intention"
+],
+"ety": "From intention + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "denaturation",
+"pos": "noun",
+"senses": [
+"The deliberate addition of a noxious substance to alcohol to make it unfit to drink"
+],
+"ety": "From denature + -ation.",
+"examples": [],
+"p": "dee-nach-uh-RAY-shun"
+},
+{
+"w": "tiebreaker",
+"pos": "noun",
+"senses": [
+"Something that is used to pick a winner from a tied situation."
+],
+"ety": "From tie + breaker.",
+"examples": [],
+"p": "TY-bray-ker"
+},
+{
+"w": "avvocato",
+"pos": "noun",
+"senses": [
+"An Italian lawyer."
+],
+"ety": "Borrowed from Italian avvocato.",
+"examples": [],
+"p": null
+},
+{
+"w": "mythbuster",
+"pos": "noun",
+"senses": [
+"A person who debunks misconceptions."
+],
+"ety": "From myth + buster.",
+"examples": [],
+"p": null
+},
+{
+"w": "proletarian",
+"pos": "noun",
+"senses": [
+"A member of the proletariat."
+],
+"ety": "From Latin proletarius (“a man whose only wealth is his offspring, or whose sole service to the state is as father”), from proles (“offspring, posterity”).",
+"examples": [],
+"p": "proh-lih-TAIR-ee-un"
+},
+{
+"w": "capsicum",
+"pos": "noun",
+"senses": [
+"The non-spicy fruit of the above plants, such as the bell pepper."
+],
+"ety": "Borrowed from New Latin capsicum, from Ancient Greek καψικός (kapsikós, “like a box”), from Latin capsa (“box”).",
+"examples": [],
+"p": "KAP-sih-kum"
+},
+{
+"w": "lampshaded",
+"pos": "adjective",
+"senses": [
+"Incorporating a lampshade.",
+"Diffused through a lampshade. (of light)"
+],
+"ety": "From lampshade + -ed.",
+"examples": [
+"There were lots of lampshaded lamps of different sizes all around him, maroon mainly, or red and fringed, and they were all full on, making him look pink.",
+"A middle-aged bellboy carried her luggage through the lampshaded glow of the lobby, up the elevator, and into her rooms."
+],
+"p": null
+},
+{
+"w": "phasor",
+"pos": "noun",
+"senses": [
+"A phase modulator"
+],
+"ety": "From phase + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "filmography",
+"pos": "noun",
+"senses": [
+"A selective list of movie titles that share a similar characteristic such as the same genre, the same director, the same actor etc."
+],
+"ety": "From film + -ography.",
+"examples": [],
+"p": null
+},
+{
+"w": "optronic",
+"pos": "adjective",
+"senses": [
+"optoelectronic"
+],
+"ety": "Blend of opto- + electronic.",
+"examples": [],
+"p": "ahp-TRAH-nik"
+},
+{
+"w": "takaful",
+"pos": "noun",
+"senses": [
+"A cooperative system of reimbursement in case of loss; a sort of Islamic form of insurance."
+],
+"ety": "Borrowed from Arabic تَكَافُل (takāful)",
+"examples": [],
+"p": null
+},
+{
+"w": "parliamentarism",
+"pos": "noun",
+"senses": [
+"The system of government in which the executive branch is legitimised by parliament."
+],
+"ety": "From parliamentary + -ism.",
+"examples": [
+"England was the historical model for the adoption of parliamentarism and party government in Germany.",
+"German depictions of the Third Republic appeared to warn of the dangers of parliamentarism.",
+"This is why some observers argue that German parliamentarism has degenerated."
+],
+"p": null
+}
+]

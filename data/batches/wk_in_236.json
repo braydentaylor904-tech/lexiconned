@@ -1,0 +1,441 @@
+[
+{
+"w": "gigaton",
+"pos": "noun",
+"senses": [
+"A measure of the strength of an explosion or a bomb based on how many billion tons of TNT would be needed to produce the same energy. (A derived unit for TNT equivalent.)",
+"One billion short tons (10⁹ × 2000 lb).",
+"One billion long tons (10⁹ × 2240 lb).",
+"One billion metric tons (10⁹ × 2204.6 lb)."
+],
+"ety": "From giga- + ton.",
+"examples": [],
+"p": null
+},
+{
+"w": "reverser",
+"pos": "noun",
+"senses": [
+"Something which reverses a particular action or condition.",
+"A mortgager of land."
+],
+"ety": "From reverse + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "halfa",
+"pos": "noun",
+"senses": [
+"Synonym of esparto (“North African grass”)."
+],
+"ety": "From Arabic حَلْفَا (ḥalfā).",
+"examples": [],
+"p": null
+},
+{
+"w": "coffret",
+"pos": "noun",
+"senses": [
+"A small box or chest; casket."
+],
+"ety": "From French coffret.",
+"examples": [],
+"p": "KOF-rit"
+},
+{
+"w": "masturbator",
+"pos": "noun",
+"senses": [
+"A sex toy used to complement and help stimulate its user's erogenous zones during masturbation, and often designed to simulate an erotic body part (of an imaginary partner)."
+],
+"ety": "From masturbate + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "gazelle",
+"pos": "noun",
+"senses": [
+"An antelope of either of the genera Gazella (mostly native to Africa), Procapra (native to Asia), Eudorcas, or Nanger, capable of running at high speeds for long periods."
+],
+"ety": "Unadapted borrowing from Middle French gazelle, from Old French gazel, from Arabic غَزَال (ḡazāl).",
+"examples": [],
+"p": "guh-ZEL"
+},
+{
+"w": "orthotist",
+"pos": "noun",
+"senses": [
+"A person who makes or fits orthotic devices."
+],
+"ety": "From orthot(ic) + -ist.",
+"examples": [],
+"p": "OR-thuh-tist"
+},
+{
+"w": "concatenative",
+"pos": "adjective",
+"senses": [
+"Linked in a series or order of things depending on each other, as if linked together; successive.",
+"Operating by concatenation."
+],
+"ety": "From concatenate + -ive.",
+"examples": [],
+"p": "kun-KA-tuh-nuh-tiv"
+},
+{
+"w": "slobby",
+"pos": "adjective",
+"senses": [
+"Slushy, like slob ice."
+],
+"ety": "From slob + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "partite",
+"pos": "adjective",
+"senses": [
+"Divided into parts."
+],
+"ety": "Learned borrowing from Latin partītus.",
+"examples": [],
+"p": "PAR-tite"
+},
+{
+"w": "excretion",
+"pos": "noun",
+"senses": [
+"The process of removing or ejecting material that has no further utility, especially from the body; the act of excreting.",
+"Something excreted in that manner, especially urine or feces."
+],
+"ety": "Borrowed from Middle French excrétion, or Late Latin excretio, excretionis, from Latin excerno.",
+"examples": [],
+"p": "ik-SKREE-shun"
+},
+{
+"w": "candyman",
+"pos": "noun",
+"senses": [
+"A male confectioner."
+],
+"ety": "From candy + -man.",
+"examples": [
+"Near the entrance is a candyman who makes butterflies, birds and fish from melted sugar."
+],
+"p": null
+},
+{
+"w": "ennoblement",
+"pos": "noun",
+"senses": [
+"The act of ennobling or something which ennobles"
+],
+"ety": "From ennoble + -ment.",
+"examples": [],
+"p": null
+},
+{
+"w": "posada",
+"pos": "noun",
+"senses": [
+"A traditional Mexican Christmas procession.",
+"An inn in Spanish-speaking regions."
+],
+"ety": "Borrowed from Spanish posada.",
+"examples": [
+"They make a posada for the kids over there."
+],
+"p": null
+},
+{
+"w": "reishi",
+"pos": "noun",
+"senses": [
+"The bracket fungus (mushroom) (Ganoderma lucidum and sometimes Ganoderma tsugae).",
+"An extract of this fungus."
+],
+"ety": "From Japanese 霊芝. Doublet of lingzhi.",
+"examples": [],
+"p": null
+},
+{
+"w": "woolman",
+"pos": "noun",
+"senses": [
+"A man who deals in wool."
+],
+"ety": "From wool + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "ponzu",
+"pos": "noun",
+"senses": [
+"A sour citrus-based sauce usually made from the juice of the 橙 (daidai), an Asian variety of bitter orange, mixed with soy sauce."
+],
+"ety": "Borrowed from Japanese ポン酢 (ponzu), in turn from Dutch pons (“punch”, obsolete, superseded by punch), from English punch, ultimately from Sanskrit पञ्च (páñca, “five”). Doublet of cinque, fin (“five currency units”), finnuf, five, pimp (“five”), punch (“beverage”), and sengi (“currency”); related to Pompeii.",
+"examples": [],
+"p": "PON-zoo"
+},
+{
+"w": "cassone",
+"pos": "noun",
+"senses": [
+"A highly-decorated traditional Italian dowry chest."
+],
+"ety": "From Italian cassone. Doublet of caisson and cajón.",
+"examples": [
+"There was the huge Italian cassone, with its fantastically painted panels and its tarnished gilt mouldings, in which he had so often hidden himself as a boy.",
+"On the way through he paused to look at a handsome cassone that stood against the wall; then he caught sight of the gramophone."
+],
+"p": null
+},
+{
+"w": "laity",
+"pos": "noun",
+"senses": [
+"People of a church who are not ordained clergy or clerics.",
+"The common man or woman.",
+"The unlearned, untrained or ignorant."
+],
+"ety": "From Anglo-Norman laite, from Latin laitas, from Ancient Greek λαός (laós, “people”).",
+"examples": [],
+"p": "LAY-uh-tee"
+},
+{
+"w": "kumite",
+"pos": "noun",
+"senses": [
+"The aspect of karate in which a person trains against an adversary, using the techniques learned from the kihon and kata."
+],
+"ety": "From Japanese 組手.",
+"examples": [
+"Baghbani won gold in kumite – a karate discipline – at the Pan Am Games and the USA Karate Open in Las Vegas in July."
+],
+"p": null
+},
+{
+"w": "adulteration",
+"pos": "noun",
+"senses": [
+"The process of adulterating."
+],
+"ety": "From Middle French adulteration and its etymon Latin adulterātĭō. By surface analysis, adulterate + -ion.",
+"examples": [],
+"p": null
+},
+{
+"w": "tabun",
+"pos": "noun",
+"senses": [
+"A clay oven, shaped like a truncated cone, with an opening at the bottom for stoking the fire."
+],
+"ety": "Borrowed from Arabic طَابُون (ṭābūn).",
+"examples": [],
+"p": null
+},
+{
+"w": "conversazione",
+"pos": "noun",
+"senses": [
+"A formal gathering where something related to the arts or academia is discussed.",
+"A community social gathering."
+],
+"ety": "From Italian conversazione (“conversation”). Doublet of conversation.",
+"examples": [],
+"p": null
+},
+{
+"w": "oversexed",
+"pos": "adjective",
+"senses": [
+"Having a greater than normal sexual appetite"
+],
+"ety": "From over- + sexed.",
+"examples": [],
+"p": null
+},
+{
+"w": "antiphospholipid",
+"pos": "noun",
+"senses": [
+"Any antiphospholipid antibody"
+],
+"ety": "From anti- + phospholipid.",
+"examples": [],
+"p": null
+},
+{
+"w": "regula",
+"pos": "noun",
+"senses": [
+"A book of rules for a religious establishment.",
+"One of the bands under a Doric triglyph or between the canals of the triglyphs."
+],
+"ety": "Learned borrowing from Latin rēgula (“rule”). Doublet of rail, regal, rigol, and rule.",
+"examples": [],
+"p": null
+},
+{
+"w": "labile",
+"pos": "adjective",
+"senses": [
+"Liable to slip, err, fall, or apostatize.",
+"Apt or likely to change."
+],
+"ety": "Borrowed from Middle French labile, borrowed from Latin lābilis (“slipping, transitent”).",
+"examples": [],
+"p": "LAY-bile"
+},
+{
+"w": "vexillum",
+"pos": "noun",
+"senses": [
+"A flag, banner, or standard.",
+"A company of troops serving under one standard.",
+"The sign of the cross."
+],
+"ety": "Borrowed from Latin vēxillum (“flag, banner”).",
+"examples": [],
+"p": null
+},
+{
+"w": "capillarity",
+"pos": "noun",
+"senses": [
+"The interaction between the surfaces of a solid and liquid in contact that distorts the normal geometry of the liquid surface; especially the rise or fall of a liquid in a fine tube."
+],
+"ety": "From French capillarité.",
+"examples": [
+"Hence the allowance to be made for diminution of the height of a mercurial column, owing to capillarity, is determined by two considerations — the diameter of the tube and versed sine of the corresponding meniscus."
+],
+"p": null
+},
+{
+"w": "sliver",
+"pos": "verb",
+"senses": [
+"To cut or divide into long, thin pieces, or into very small pieces; to cut or rend lengthwise; to slit."
+],
+"ety": "From Middle English slivere, sliver from Middle English sliven (“to cut, cleave, split”), from Old English slīfan (as in tōslīfan (“to split, split up”)).",
+"examples": [],
+"p": "SLIV-er"
+},
+{
+"w": "proliferous",
+"pos": "adjective",
+"senses": [
+"Producing many offspring; prolific or proliferative."
+],
+"ety": "From Latin prōlifer, from prōlēs (“offspring”) + -fer (“bearing”), + -ous.",
+"examples": [],
+"p": null
+},
+{
+"w": "shanti",
+"pos": "noun",
+"senses": [
+"Peace, tranquility."
+],
+"ety": "Transliteration of Sanskrit शान्ति (śānti, “calmness, peace, tranquillity; quietness, rest”), from शम् (śam, “to exert or fatigue oneself, toil at; to become tired, come to an end, finish, stop; to be calm, contented, quiet, or satisfied; to calm, pacify, settle, soothe”) (from Proto-Indo-European *ḱemh₂- (“to exert oneself, toil”)) + -ति (-ti, suffix denoting a state of being).",
+"examples": [],
+"p": "shahn-tee"
+},
+{
+"w": "cancellable",
+"pos": "adjective",
+"senses": [
+"Which can be cancelled."
+],
+"ety": "From cancel + -able.",
+"examples": [
+"This commitment is not cancellable.",
+"Originally a cab signal only, it had been modified to give a gradual brake application, cancellable by the driver."
+],
+"p": null
+},
+{
+"w": "pluralist",
+"pos": "noun",
+"senses": [
+"A person who holds multiple offices, especially a clergyman who holds more than one ecclesiastical benefice.",
+"An advocate of pluralism (in all senses)"
+],
+"ety": "From plural + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "splatfest",
+"pos": "noun",
+"senses": [
+"Synonym of splatterfest."
+],
+"ety": "From splat + -fest.",
+"examples": [],
+"p": null
+},
+{
+"w": "wifey",
+"pos": "adjective",
+"senses": [
+"Of, befitting, pertaining to, or characteristic of a wife."
+],
+"ety": "From wife + -y (adjectival suffix).",
+"examples": [
+"She even admits herself that she lives a dual life — one where she's always acting, trying to impress people; the other when she's around me which is more settled, the more wifey sort of thing.",
+"There was talk of having her wear a wedding ring to look more \"wifey\" and to have her wear an apron and adopt a stage name so she would become something of a company mascot.",
+"But it meant more wifey duties for me: weekly visits, care packages, high-ass phone bills, and making sure he got everything he needed in there."
+],
+"p": null
+},
+{
+"w": "stratiform",
+"pos": "adjective",
+"senses": [
+"Occurring in layers",
+"Descriptive of clouds with extensive horizontal development"
+],
+"ety": "From Latin stratus (“layer”) + -form.",
+"examples": [],
+"p": null
+},
+{
+"w": "twosome",
+"pos": "adjective",
+"senses": [
+"Being or constituting a pair; two.",
+"Twofold; double.",
+"Performed by two individuals."
+],
+"ety": "From Middle English twosome, equivalent to two + -some. Cognate with Scots twasome, twaesome (“twosome”).",
+"examples": [],
+"p": "TOO-sum"
+},
+{
+"w": "tonalist",
+"pos": "noun",
+"senses": [
+"An artist working in the style of tonalism."
+],
+"ety": "From tonal + -ist.",
+"examples": [
+"Bradly blinked a moment, the tonalist in him confused at charming presentation of her femininity, which appeared to have forgotten the prudery that refused to undress before her grandmother in the hut."
+],
+"p": null
+},
+{
+"w": "sluttish",
+"pos": "adjective",
+"senses": [
+"Dirty or untidy; disorderly."
+],
+"ety": "From Middle English scluttish, slottesche, slottysch, sluttissche, sluttissh; equivalent to slut + -ish.",
+"examples": [],
+"p": "SLUT-ish"
+}
+]

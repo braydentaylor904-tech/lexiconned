@@ -1,0 +1,445 @@
+[
+{
+"w": "stabber",
+"pos": "noun",
+"senses": [
+"One who, or that which, stabs."
+],
+"ety": "From stab + -er.",
+"examples": [
+"Consider the cold-eyed thrush, that springy carnivore of lawns, worm stabber, basher to death of snails."
+],
+"p": null
+},
+{
+"w": "argon",
+"pos": "noun",
+"senses": [
+"An atom of this element."
+],
+"ety": "From Ancient Greek ἀργός (argós, “idle, lazy”), because of its inertness, + -on, used for all noble gases.",
+"examples": [],
+"p": "AR-gon"
+},
+{
+"w": "moorage",
+"pos": "noun",
+"senses": [
+"The act of mooring.",
+"A place where a ship or an aircraft may be moored.",
+"The fee for mooring."
+],
+"ety": "From moor + -age.",
+"examples": [],
+"p": null
+},
+{
+"w": "cantina",
+"pos": "noun",
+"senses": [
+"A drinking establishment, often specifically of the type found in Latin America.",
+"A cantina truck, cantina wagon or cantina trailer."
+],
+"ety": "From Spanish cantina, from Italian cantina. Doublet of canteen.",
+"examples": [],
+"p": "kan-TEE-nuh"
+},
+{
+"w": "unpropitious",
+"pos": "adjective",
+"senses": [
+"Not propitious; unfavourable, untimely."
+],
+"ety": "From un- + propitious.",
+"examples": [],
+"p": null
+},
+{
+"w": "nicked",
+"pos": "adjective",
+"senses": [
+"Having one or more nicks; notched."
+],
+"ety": "From nick + -ed.",
+"examples": [],
+"p": "nikt"
+},
+{
+"w": "supercar",
+"pos": "noun",
+"senses": [
+"Any high-performance sports car; especially, any superexpensive one of a socially exclusive marque designed to be among the fastest on Earth with no expense spared."
+],
+"ety": "From super- + car.",
+"examples": [
+"These billionaires' world is one of yachts, McLarens, and Lamborghinis — supercars out of reach of the 99%.",
+"As much of Seattle tries to sleep, the Hellcat supercar goes on the prowl, the howls of its engine and the explosive backfires from its tailpipes echoing off the high-rise towers downtown."
+],
+"p": null
+},
+{
+"w": "stagnancy",
+"pos": "noun",
+"senses": [
+"The property of being stagnant."
+],
+"ety": "From stagnant + -cy.",
+"examples": [],
+"p": null
+},
+{
+"w": "camino",
+"pos": "noun",
+"senses": [
+"The route followed on a pilgrimage through Spain."
+],
+"ety": "Borrowed from Spanish camino.",
+"examples": [],
+"p": null
+},
+{
+"w": "tacet",
+"pos": "verb",
+"senses": [
+"An instruction indicating silence on the part of the performers of a piece."
+],
+"ety": "Borrowed from Latin tacet (“it is silent”), third-person singular present active indicative form of taceō (“to be silent”). Doublet of tacit.",
+"examples": [],
+"p": "TAY-sit"
+},
+{
+"w": "stoloniferous",
+"pos": "adjective",
+"senses": [
+"Producing stolons or suckers."
+],
+"ety": "From stolon + -i- + -ferous.",
+"examples": [],
+"p": null
+},
+{
+"w": "steeper",
+"pos": "noun",
+"senses": [
+"A vessel, vat, or cistern in which things are steeped.",
+"The stem of a shrub or small tree in a hedgerow, often laid by being partially cut through at the base in the process of laying a hedge.",
+"A downpour; a soaking rain."
+],
+"ety": "From steep + -er.",
+"examples": [
+"It's a steeper, nah, is this, an' reight an' all."
+],
+"p": null
+},
+{
+"w": "neuroradiology",
+"pos": "noun",
+"senses": [
+"The radiology of the nervous system; especially the use of radiation to diagnose and treat disorders of the nervous system"
+],
+"ety": "From neuro- + radiology.",
+"examples": [],
+"p": null
+},
+{
+"w": "mixin",
+"pos": "noun",
+"senses": [
+"An uninstantiable class that provides functionality to be inherited by a subclass."
+],
+"ety": "Deverbal from mix in.",
+"examples": [],
+"p": "MIK-sin"
+},
+{
+"w": "bivalved",
+"pos": "adjective",
+"senses": [
+"Having two valves."
+],
+"ety": "From bi- + valved.",
+"examples": [],
+"p": null
+},
+{
+"w": "chicharron",
+"pos": "noun",
+"senses": [
+"A Spanish dish made from fried pork.",
+"A pork rind; pork scratching."
+],
+"ety": "From Spanish chicharrón.",
+"examples": [
+"Now the shelves are also packed with Mexican spices, tostadas, chicharrones, the walls covered in signs in Spanish for Mary Kay cosmetics, baby sitters and Senator Barack Obama."
+],
+"p": null
+},
+{
+"w": "tuner",
+"pos": "noun",
+"senses": [
+"A person who tunes a piano or organ.",
+"A device, electronic or mechanical, that helps a person tune a musical instrument by showing the deviation of the played pitch from the desired pitch.",
+"On a musical instrument, a peg or mechanical device that changes the tension, and hence pitch, of a string.",
+"The component of an audio system that receives radio broadcasts."
+],
+"ety": "From tune (verb) + -er.",
+"examples": [],
+"p": "TOO-ner"
+},
+{
+"w": "vocoder",
+"pos": "noun",
+"senses": [
+"Any of several electronic or digital devices or systems for the analysis or synthesis of speech."
+],
+"ety": "Blend of voice + coder.",
+"examples": [],
+"p": null
+},
+{
+"w": "prancer",
+"pos": "noun",
+"senses": [
+"A person or animal (especially a horse) that prances."
+],
+"ety": "From prance + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "teacup",
+"pos": "noun",
+"senses": [
+"A small cup, usually with a handle, commonly used for drinking tea; normally sits in a saucer as part of a tea set.",
+"A unit of measure; a teacupful."
+],
+"ety": "From tea + cup.",
+"examples": [],
+"p": "TEE-kup"
+},
+{
+"w": "sealab",
+"pos": "noun",
+"senses": [
+"An underwater laboratory."
+],
+"ety": "From sea + lab.",
+"examples": [],
+"p": null
+},
+{
+"w": "parachutist",
+"pos": "noun",
+"senses": [
+"Someone who jumps from an aircraft using a parachute, especially as a sport."
+],
+"ety": "From parachute + -ist.",
+"examples": [
+"I waited and he came to the point: he wanted me simply to talk to a patient he had inherited, a sports parachutist who had Roman Candled into a tree and broken and disarticulated his back.",
+"Some hit the rocky outcrops Some fell into the sea Some even 'Roman Candled' (A parachutist I would never be)"
+],
+"p": null
+},
+{
+"w": "soror",
+"pos": "noun",
+"senses": [
+"A sorority sister; a fellow member of one's sorority."
+],
+"ety": "Shortening; also from Latin soror (“sister”), akin to frater from Latin frāter (“brother”). Doublet of sister.",
+"examples": [
+"Gathering your fraters and sorors / If you were a member of a fraternity or sorority in college, gather your old fraters (brothers) and sorors (sisters) for a reunion."
+],
+"p": null
+},
+{
+"w": "crosscut",
+"pos": "noun",
+"senses": [
+"A crosswise cut.",
+"An instance of filmic crosscutting.",
+"A crosscut saw."
+],
+"ety": "From cross- + cut.",
+"examples": [],
+"p": "KRAW-skut"
+},
+{
+"w": "acclimatisation",
+"pos": "noun",
+"senses": [
+"Non-Oxford British English and New Zealand standard spelling of acclimatization."
+],
+"ety": "From acclimatise + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "bailer",
+"pos": "noun",
+"senses": [
+"One who bails or lades.",
+"A utensil, as a bucket or cup, used in bailing; a machine for bailing water out of a pit."
+],
+"ety": "From bail + -er.",
+"examples": [
+"Two bits was the top price that old Jenny knew. She asked two bits for everything she had to sell, were it canoe-bailer, eagle's wing, cedar-bark basket or woven mat."
+],
+"p": null
+},
+{
+"w": "hummable",
+"pos": "adjective",
+"senses": [
+"Suitable for humming or humming along to."
+],
+"ety": "From hum + -able.",
+"examples": [
+"It wasn't as though the Dead Kennedys played hummable tunes, but lead singer Jello Biafra is a superstar in his own right."
+],
+"p": null
+},
+{
+"w": "pointillism",
+"pos": "noun",
+"senses": [
+"The use of many small areas of color to construct an image."
+],
+"ety": "From French pointillisme, from pointiller (“to dot, to mark with points”), from point (“dot, point”).",
+"examples": [],
+"p": null
+},
+{
+"w": "probs",
+"pos": "adverb",
+"senses": [
+"Synonym of probably."
+],
+"ety": "From probably + -s.",
+"examples": [],
+"p": null
+},
+{
+"w": "marron",
+"pos": "noun",
+"senses": [
+"A sweet chestnut."
+],
+"ety": "Variant form of maroon (“chestnut”), later reinforced by French marron.",
+"examples": [],
+"p": null
+},
+{
+"w": "escapology",
+"pos": "noun",
+"senses": [
+"The study or art of escaping from a physical restraint, enclosure, or constriction, such as a rope, a sealed box, handcuffs, etc.; escape artistry.",
+"Escape from a difficult situation."
+],
+"ety": "From escape + -ology.",
+"examples": [],
+"p": "ES-kuh-pahl-uh-jee"
+},
+{
+"w": "baptistry",
+"pos": "noun",
+"senses": [
+"An indoor pool used for baptism by immersion."
+],
+"ety": "From Middle English baptistery, baptisterie, from Ecclesiastical Latin baptistērium, from Ancient Greek βαπτιστήριον (baptistḗrion); equivalent to baptism + -ry.",
+"examples": [],
+"p": null
+},
+{
+"w": "newsboy",
+"pos": "noun",
+"senses": [
+"A boy, or by extension a man, who sells and/or delivers newspapers."
+],
+"ety": "From news + boy.",
+"examples": [
+"A newsboy passed by, yelling, \"Extra! Extra! Read all about it!\"",
+"Carrados's reply was to hold out a coin to a passing newsboy and to hand the purchase to his friend who was already in the car."
+],
+"p": null
+},
+{
+"w": "gaffe",
+"pos": "noun",
+"senses": [
+"A foolish and embarrassing error, especially one made in public; a social blunder; a breach of etiquette."
+],
+"ety": "From French gaffe (“blunder”). Doublet of gaff.",
+"examples": [],
+"p": "gaf"
+},
+{
+"w": "deckle",
+"pos": "noun",
+"senses": [
+"A frame or edge which limits the pulp and, consequently, the size of the resulting paper.",
+"A membrane covering the outermost side of a brisket of beef, where it was attached to the rib cage",
+"The fattier, smaller point-cut portion of a brisket of beef, being the superficial pectoral muscle."
+],
+"ety": "From German Deckel, diminutive of Decke (“covering”).",
+"examples": [],
+"p": "DEK-ul"
+},
+{
+"w": "cheongju",
+"pos": "noun",
+"senses": [
+"A rice wine of Korean origin."
+],
+"ety": "Borrowed from Korean 청주 (cheongju).",
+"examples": [],
+"p": null
+},
+{
+"w": "dinoflagellate",
+"pos": "noun",
+"senses": [
+"Any of many marine protozoa of the phylum Dinoflagellata, which have two flagella."
+],
+"ety": "Borrowed from translingual Dinoflagellata (phylum name), equivalent to dino- + flagellate.",
+"examples": [
+"Noctiluna scintillans, a tiny marine dinoflagellate, glows in the dark thanks to thousands of bioluminescent spherical organelles in its cytoplasm; gathered in millions, it can illuminate the whole sea at night."
+],
+"p": null
+},
+{
+"w": "evolutionist",
+"pos": "noun",
+"senses": [
+"A proponent or supporter of evolutionism.",
+"Someone who believes in the capacity of people to change."
+],
+"ety": "From evolution + -ist.",
+"examples": [
+"Ironically, the argument used today by Roadruck and other designists—that their teachings should receive equal time in schools—mirrors the one employed by evolutionists some 75 years ago.",
+"Aeschylus is in fact an evolutionist as regards both gods and man."
+],
+"p": null
+},
+{
+"w": "pentalobe",
+"pos": "noun",
+"senses": [
+"A tamperproof screw whose drive has five rounded edges."
+],
+"ety": "From penta- + lobe.",
+"examples": [],
+"p": null
+},
+{
+"w": "polygamist",
+"pos": "noun",
+"senses": [
+"One who practices polygamy, or maintains that it is lawful."
+],
+"ety": "From polygamy + -ist.",
+"examples": [],
+"p": "puh-LIG-uh-mist"
+}
+]

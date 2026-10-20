@@ -1,0 +1,463 @@
+[
+{
+"w": "denticle",
+"pos": "noun",
+"senses": [
+"A small tooth.",
+"Material serving as the dermis of sharks."
+],
+"ety": "From Latin denticulus, from dens (“tooth”). Doublet of denticule.",
+"examples": [
+"Under low-power magnification, it can be seen that the denticles of different species are varied in size and shape, but they are usually comprised of one or more pointed elements, with various ridges, cusps, and furrows."
+],
+"p": null
+},
+{
+"w": "taloned",
+"pos": "adjective",
+"senses": [
+"Having talons."
+],
+"ety": "From talon + -ed.",
+"examples": [
+"Weakness was her enemy, the taloned beast that lived in her chest and couldn't wait to sharpen its fangs on her heart."
+],
+"p": null
+},
+{
+"w": "tapao",
+"pos": "verb",
+"senses": [
+"To order (food) as takeaway; to pack food so it can be consumed elsewhere."
+],
+"ety": "Borrowed from Cantonese 打包 (daa³ baau¹, “to pack”).",
+"examples": [
+"Recently, my friend ‘tapao’ (packed) 20 packets of kolo mee before she flew back to Kuala Lumpur."
+],
+"p": null
+},
+{
+"w": "pianism",
+"pos": "noun",
+"senses": [
+"One's way of playing the piano.",
+"A way of composing or an instance of passagework that is idiomatic, ergonomic, and intrinsically well-suited to the unique capabilities and expressive characteristics of the piano as an instrument."
+],
+"ety": "From piano + -ism.",
+"examples": [
+"There is nothing showy in her pianism, nothing cloying about her expressivity."
+],
+"p": null
+},
+{
+"w": "carnap",
+"pos": "verb",
+"senses": [
+"To steal a motor vehicle."
+],
+"ety": "From car + -nap, formed in allusion to kidnap based on an erroneous belief that the latter specifically refers to the kidnapping of children.",
+"examples": [],
+"p": null
+},
+{
+"w": "unburnable",
+"pos": "adjective",
+"senses": [
+"That is difficult or impossible to burn"
+],
+"ety": "From un- + burnable.",
+"examples": [],
+"p": null
+},
+{
+"w": "swappable",
+"pos": "adjective",
+"senses": [
+"That can be swapped."
+],
+"ety": "From swap + -able.",
+"examples": [
+"The resident data structures of the kernels serve as caches on the swappable databases maintained by the managers."
+],
+"p": null
+},
+{
+"w": "antinomianism",
+"pos": "noun",
+"senses": [
+"Opposition to the Torah."
+],
+"ety": "From antinomian + -ism, coined by Martin Luther, notably used in his Against the Antinomians (1539).",
+"examples": [],
+"p": "an-tee-NOH-mee-uh-nih-zum"
+},
+{
+"w": "frappuccino",
+"pos": "noun",
+"senses": [
+"An iced coffee drink made with cappuccino blended with other ingredients, such as flavored syrups and whipped cream."
+],
+"ety": "Blend of frappe + cappuccino. Genericized trademark of Frappuccino. From a Starbucks tradename (Frappuccino), from frappe (“a sort of milkshake”) and cappuccino.",
+"examples": [],
+"p": "frap-uh-CHEE-noh"
+},
+{
+"w": "anise",
+"pos": "noun",
+"senses": [
+"An umbelliferous plant (Pimpinella anisum) growing naturally in Egypt, and cultivated in Spain, Malta, etc., for its carminative and aromatic seeds, which are used as a spice. It has a licorice scent.",
+"Fennel, Foeniculum vulgare."
+],
+"ety": "From Middle English anys, borrowed from Old French anis, from Latin anīsum, from Ancient Greek ἄνισον (ánison), from Egyptian jnst.",
+"examples": [],
+"p": "AN-is"
+},
+{
+"w": "doubleton",
+"pos": "noun",
+"senses": [
+"A pair of cards of the same suit, which are the only cards of that suit in a player's hand"
+],
+"ety": "From double + -ton.",
+"examples": [
+"If she had had the doubleton ace of diamonds and a low club, she would have made a four-club splinter bid, showing four-card spade support, the values for game and a singleton or void in clubs."
+],
+"p": null
+},
+{
+"w": "jibber",
+"pos": "noun",
+"senses": [
+"A horse that jibs, i.e. refuses, stops short."
+],
+"ety": "From jib + -er.",
+"examples": [],
+"p": "JIB-er"
+},
+{
+"w": "initializer",
+"pos": "noun",
+"senses": [
+"One who, or that which, initializes."
+],
+"ety": "From initialize + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "abutting",
+"pos": "adjective",
+"senses": [
+"Facing each other, front to front."
+],
+"ety": "From abut + -ing.",
+"examples": [],
+"p": "uh-BUT-ing"
+},
+{
+"w": "masted",
+"pos": "adjective",
+"senses": [
+"Having (the specified kind or number of) masts."
+],
+"ety": "From mast + -ed.",
+"examples": [
+"It was a three-masted sailing ship."
+],
+"p": null
+},
+{
+"w": "pericentral",
+"pos": "adjective",
+"senses": [
+"Surrounding the centre"
+],
+"ety": "From peri- + central.",
+"examples": [],
+"p": null
+},
+{
+"w": "factorize",
+"pos": "verb",
+"senses": [
+"To warn not to pay or give up goods.",
+"To attach the effects of a debtor in the hands of a third party."
+],
+"ety": "From factor + -ize.",
+"examples": [],
+"p": "FAK-tuh-rah-eez"
+},
+{
+"w": "demat",
+"pos": "verb",
+"senses": [
+"To restore (hair, fur, etc.) from a matted state."
+],
+"ety": "From de- + mat.",
+"examples": [],
+"p": null
+},
+{
+"w": "sheeter",
+"pos": "noun",
+"senses": [
+"An industrial machine (similar in principle to a roller-type pasta machine) that produces a sheet of dough, fondant etc. of a regular thickness.",
+"A person who put sheets (tarpaulins) on open railway wagons to keep the loads secure and dry in transit.",
+"Something with a certain number or type of sheets."
+],
+"ety": "From sheet + -er.",
+"examples": [
+"The Army provided a yard foreman, sheeters, loaders, and checkers to augment the railway staff of two men porters, one lad porter, and a female clerk."
+],
+"p": null
+},
+{
+"w": "arcaded",
+"pos": "adjective",
+"senses": [
+"Provided or furnished with arcades."
+],
+"ety": "From arcade + -ed.",
+"examples": [
+"It has been little altered over the years save for the addition of a platform awning which rather obscures the arcaded entrance to the booking hall.",
+"There they were, already, in the central hall, the great feature of the house, two storeys high, with an arcaded gallery on the upper level, and a giant chimneypiece made from bits of a baroque tomb.",
+"The station also boasts a large semi-domed French pavilion roof with fish-scale tiles and iron cresting, plus a rectangular hall with arcaded upper storey and wooden lantern."
+],
+"p": null
+},
+{
+"w": "shiok",
+"pos": "adjective",
+"senses": [
+"Delightful, pleasurable."
+],
+"ety": "Borrowed from Malay syok (“pleasing; attractive”). Doublet of shoke. Cognate with Punjabi ਸ਼ੌਕ (śauk, “eagerness; hobby”).",
+"examples": [
+"Shiok Mike. Let's burn his house with this Mike.",
+"Ecstasy? Delicious? Pleasurable? How about just Shiok.",
+"Use condom? Then not shiok lah."
+],
+"p": null
+},
+{
+"w": "mosser",
+"pos": "noun",
+"senses": [
+"A person who gathers Irish moss, a type of seaweed."
+],
+"ety": "From moss + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "camote",
+"pos": "noun",
+"senses": [
+"sweet potato (Ipomoea batatas)"
+],
+"ety": "From Spanish camote, from Classical Nahuatl camohtli. Compare Tagalog kamote.",
+"examples": [],
+"p": "kuh-MOH-tee"
+},
+{
+"w": "horizontality",
+"pos": "noun",
+"senses": [
+"Horizontalness."
+],
+"ety": "From horizontal + -ity.",
+"examples": [
+"Craving horizontality, we move into the bedroom."
+],
+"p": null
+},
+{
+"w": "grrrl",
+"pos": "noun",
+"senses": [
+"A riot grrrl.",
+"Feminist spelling of girl."
+],
+"ety": "Blend of grrr + girl. From the 1990s riot grrrl movement.",
+"examples": [
+"Forms of male supremacy and violence against grrrls / womyn entrenched in sexist black nationalist ideologies and projected-primarily against grrrls / womyn of color",
+"How do they try to prevent a Black Grrrl Revolution? By perpetuating Black Grrrl exhaustion and broken heartedness.",
+"Young women, the grrrlz, call a man over 50 a 'fossil' because he lacks quickness of response."
+],
+"p": null
+},
+{
+"w": "iconicity",
+"pos": "noun",
+"senses": [
+"the state of being iconic (in all meanings)"
+],
+"ety": "From Latin iconicitas.",
+"examples": [],
+"p": null
+},
+{
+"w": "identitarian",
+"pos": "adjective",
+"senses": [
+"Based on a notion of group identity; relating to the ideology of identitarianism."
+],
+"ety": "From identity + -arian, coined 1943 by Erik von Kuehnelt-Leddihn, from the 1970s onward reinforced by French identitaire, especially after the use of the term ensembliste-identitaire by Cornelius Castoriadis.",
+"examples": [],
+"p": "eye-den-tih-TAIR-ree-un"
+},
+{
+"w": "tazza",
+"pos": "noun",
+"senses": [
+"A shallow saucer-like dish, mounted either on a stem and foot or on a foot alone."
+],
+"ety": "From Italian tazza. Doublet of tass.",
+"examples": [],
+"p": null
+},
+{
+"w": "enoki",
+"pos": "noun",
+"senses": [
+"An enoki mushroom (Flammulina velutipes)."
+],
+"ety": "A shortening of enokitake, from Japanese 榎茸 (enokitake). Compare enoki mushroom, which is an partial calque of the Japanese.",
+"examples": [
+"Enokis have a delicate flavor and crunchy texture."
+],
+"p": null
+},
+{
+"w": "parkrun",
+"pos": "noun",
+"senses": [
+"An informal weekly 5 km (2 km for junior parkrun) running event that takes place in a park or similar location."
+],
+"ety": "Compound of park + run. The first parkrun event, originally known as the \"Bushy Park Time Trial\", was founded by Paul Sinton-Hewitt in 2004 but only adopted the name \"parkrun\" in 2008.",
+"examples": [],
+"p": null
+},
+{
+"w": "marshman",
+"pos": "noun",
+"senses": [
+"An inhabitant of a marshy area or piece of marshland."
+],
+"ety": "From marsh + man.",
+"examples": [
+"She heard her name called, or rather she saw it, since the words were blown away instantly. The marshman was summoning her."
+],
+"p": null
+},
+{
+"w": "entendre",
+"pos": "noun",
+"senses": [
+"A meaning, especially one that is implied rather than explicitly stated."
+],
+"ety": "Extracted from double entendre, corresponding to French entendre (“to understand, to mean”); doublet of intend.",
+"examples": [
+"Like Lon Chaney, this mind’s mummy lives—but beneath how many wrappings of multiple entendres?",
+"Still, in pursuit of said Phantom Nympho, much fun had been had – and more entendres doubled than you could shake a stick at.",
+"Ono Komachi was a prominent and gifted poet in her day. She was able to weave emotional intensity, multiple entendres, and metaphors together to form elegant poetry."
+],
+"p": null
+},
+{
+"w": "passeggiata",
+"pos": "noun",
+"senses": [
+"A long, leisurely walk or stroll."
+],
+"ety": "Borrowed from Italian passeggiata.",
+"examples": [
+"This was the food in the old dining room—the homely mensa—before some disgruntled worker blew the whistle, informing the health department that cockroaches had been seen strolling around the kitchen on a passeggiata."
+],
+"p": null
+},
+{
+"w": "reproducibility",
+"pos": "noun",
+"senses": [
+"The closeness of agreement among repeated measurements of a variable made under the same operating conditions over a period of time, or by different people.",
+"The closeness of agreement among scientific results more generally, at the level of whole experiments, either nearly identical or similar."
+],
+"ety": "From reproducible + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "pseudomembranous",
+"pos": "adjective",
+"senses": [
+"Characterized by the presence of a pseudomembrane."
+],
+"ety": "From pseudomembrane + -ous or pseudo- + membranous.",
+"examples": [],
+"p": null
+},
+{
+"w": "frigidity",
+"pos": "noun",
+"senses": [
+"The state of being frigid; coldness; lack of heat.",
+"Coldness of feeling, manner or quality; lack of ardor, animation or vivacity.",
+"Lack of natural heat and vigor of body; impotency.",
+"Lack of or low sex drive; a persistent inability to become aroused or achieve sexual satisfaction."
+],
+"ety": "From Middle English frigiditee, frigidite, a borrowing from Middle French frigidité, itself a borrowing from Latin frīgiditātem, accusative of Latin frīgiditās.",
+"examples": [
+"In France, Mme. de Pompadour was induced by Louis XV to eat such testicles in order to break down her frigidity."
+],
+"p": null
+},
+{
+"w": "chafer",
+"pos": "noun",
+"senses": [
+"A vessel for heating water; hence, a dish or pan.",
+"A vessel for holding burning coals or hot water used as a warmer."
+],
+"ety": "From Middle English chaufour, chafour, from Anglo-Norman chaufour, from Latin calefactōrium; equivalent to chafe + -er.",
+"examples": [
+"A chafer of water to cool the ends of the irons."
+],
+"p": null
+},
+{
+"w": "latinidad",
+"pos": "noun",
+"senses": [
+"The constellation of attributes common to many Latin American cultures and peoples."
+],
+"ety": "Borrowed from Spanish latinidad, from Latin Latīnitās. Doublet of Latinity.",
+"examples": [
+"It has also been described as a circulation of discourses that displace centers of power that tend to essentialize or fetishize latinidad.",
+"In my attempt to better understand Latino masculinities I have developed a framework that combines latinidad and gender."
+],
+"p": null
+},
+{
+"w": "notate",
+"pos": "verb",
+"senses": [
+"To mark with spots or lines, which are often colored.",
+"To add notes to; to annotate",
+"To create notation (e.g. music or mathematics); to record/put down in the form of notation"
+],
+"ety": "First attested in 1871; back-formation from notation or from Latin notātus, perfect passive participle of notō; either way, see -ate (verb-forming suffix). By surface analysis, note + -ate.",
+"examples": [],
+"p": "noh-TAYT"
+},
+{
+"w": "chordal",
+"pos": "adjective",
+"senses": [
+"Having an accompaniment of chords rather than a countermelody."
+],
+"ety": "From chord + -al.",
+"examples": [],
+"p": "KOR-dul"
+}
+]

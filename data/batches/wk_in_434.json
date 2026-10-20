@@ -1,0 +1,431 @@
+[
+{
+"w": "podunk",
+"pos": "adjective",
+"senses": [
+"Small, rural, and unimportant."
+],
+"ety": "From Podunk, a mythical small town of no importance, from Eastern Algonquian.",
+"examples": [
+"You might live in a podunk town if...your Wal-Mart has a hitching post."
+],
+"p": null
+},
+{
+"w": "baller",
+"pos": "noun",
+"senses": [
+"A kitchenware utensil for cutting ball-shaped pieces of foods.",
+"A person employed to divide molten metal into separate balls before it is hammered out."
+],
+"ety": "From ball + -er. The sense referring to extravagance comes from NBA b-ballers being wealthy.",
+"examples": [],
+"p": "BAW-ler"
+},
+{
+"w": "equipotential",
+"pos": "adjective",
+"senses": [
+"Having equal potential."
+],
+"ety": "From equi- + potential.",
+"examples": [],
+"p": null
+},
+{
+"w": "bomoh",
+"pos": "noun",
+"senses": [
+"A Malay shaman or witch doctor."
+],
+"ety": "From Malay bomoh.",
+"examples": [],
+"p": null
+},
+{
+"w": "broomball",
+"pos": "noun",
+"senses": [
+"A Canadian team sport resembling ice hockey and played with sticks and a ball.",
+"The ball used in this sport."
+],
+"ety": "From broom + ball.",
+"examples": [],
+"p": null
+},
+{
+"w": "kopek",
+"pos": "noun",
+"senses": [
+"A Russian monetary unit equal to one hundredth of a ruble.",
+"A kopiyka: a Ukrainian monetary unit equal to one hundredth of a hryvnia.",
+"A kapeyka: a Belarusian monetary unit equal to one hundredth of a ruble (rubel)."
+],
+"ety": "Borrowed from Russian копе́йка (kopéjka), from копьё (kopʹjó, “spear”) (from the image of a rider with a spear on the coins minted by Moscow after the capture of Novgorod in 1478). Doublet of kapeyka and kopiyka.",
+"examples": [],
+"p": null
+},
+{
+"w": "gratin",
+"pos": "noun",
+"senses": [
+"The top crust of a dish, consisting of breadcrumbs or grated cheese heated under a grill; the dish itself."
+],
+"ety": "Borrowed from French gratin.",
+"examples": [],
+"p": "gruh-TAN"
+},
+{
+"w": "refillable",
+"pos": "adjective",
+"senses": [
+"Capable of being filled again."
+],
+"ety": "From refill + -able.",
+"examples": [],
+"p": "ree-FIL-uh-bul"
+},
+{
+"w": "brazer",
+"pos": "noun",
+"senses": [
+"An instrument used in brazing."
+],
+"ety": "From braze + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "drayage",
+"pos": "noun",
+"senses": [
+"Transportation by dray.",
+"The transport of goods over a short distance, particularly from a terminal such as an ocean port to another destination, usually as part of a longer transportation of the goods.",
+"A fee paid for the provision of such transportation."
+],
+"ety": "From dray (“a low horse-drawn cart”) + -age.",
+"examples": [],
+"p": "DRAY-ij"
+},
+{
+"w": "riffage",
+"pos": "noun",
+"senses": [
+"guitar riffs"
+],
+"ety": "From riff + -age.",
+"examples": [],
+"p": null
+},
+{
+"w": "fractionate",
+"pos": "verb",
+"senses": [
+"To divide a total dose of radiation into fractions.",
+"To use the technique of fractionation in hypnosis."
+],
+"ety": "From fraction + -ate (verb-forming suffix).",
+"examples": [],
+"p": "FRAK-shuh-nayt"
+},
+{
+"w": "quiller",
+"pos": "noun",
+"senses": [
+"One who works with a quill.",
+"One who writes with a quill; a professional writer; a journalist.",
+"One who creates decorative designs from thin strips of curled paper."
+],
+"ety": "From quill + -er.",
+"examples": [
+"Make a start in Sydney — Hugh Macdonald, Holman, Hughes would surely need little pressure to assist — and you needn't fear the cordial co-operation of the country quillers!",
+"Some quillers make small wooden stands resembling trees, with horizontal \"branches\" over which they hang the strips."
+],
+"p": null
+},
+{
+"w": "kilig",
+"pos": "adjective",
+"senses": [
+"excited; thrilled; the feeling of butterflies in one's stomach due to romantic tension."
+],
+"ety": "Borrowed from Tagalog kilig.",
+"examples": [],
+"p": null
+},
+{
+"w": "exotoxin",
+"pos": "noun",
+"senses": [
+"Any toxin secreted by a microorganism into the surrounding environment."
+],
+"ety": "From exo- + toxin.",
+"examples": [],
+"p": null
+},
+{
+"w": "reacquaint",
+"pos": "verb",
+"senses": [
+"To acquaint again; to reintroduce or refamiliarise."
+],
+"ety": "From re- + acquaint.",
+"examples": [],
+"p": null
+},
+{
+"w": "cavum",
+"pos": "noun",
+"senses": [
+"A fallstreak hole."
+],
+"ety": "Unadapted borrowing from Latin cavum (“a hollow, hole”). Doublet of cave and cavus.",
+"examples": [],
+"p": "KAHV-um"
+},
+{
+"w": "vicariance",
+"pos": "noun",
+"senses": [
+"The act of experiencing an event by proxy through an empathic link with the person who is experiencing the event firsthand."
+],
+"ety": "From vicariant + -ance.",
+"examples": [],
+"p": null
+},
+{
+"w": "monophysitism",
+"pos": "noun",
+"senses": [
+"A Christological doctrine, generally considered heterodox or heretical, holding that Jesus Christ has a single nature, which is either wholly divine or partially human and partially divine."
+],
+"ety": "From Byzantine Greek μονοφυσιτισμός (monophusitismós), from μόνος (mónos, “only one”) + φύσις (phúsis, “nature”) + -ισμός (-ismós, “-ism”), hence “belief in a single nature”.",
+"examples": [
+"To claim that Jesus did not have human feelings amounts to monophysitism.",
+"But of monophysitism, Eutychianism, mixture or fusion of the natures, transformation of the one nature into the other, or the absorption of humanity into divinity Schwenckfeld was accused, as previously observed."
+],
+"p": null
+},
+{
+"w": "euthanization",
+"pos": "noun",
+"senses": [
+"The act or process of euthanizing"
+],
+"ety": "From euthanize + -ation.",
+"examples": [
+"A judge has ordered the euthanization of two dogs that nearly ripped off a man’s ear in a June 10 attack in Dix Hills."
+],
+"p": null
+},
+{
+"w": "ghulam",
+"pos": "noun",
+"senses": [
+"A personal guard to the shah of Persia.",
+"A royal servant in some Muslim countries."
+],
+"ety": "Ultimately from Arabic غلام (ḡulām).",
+"examples": [],
+"p": null
+},
+{
+"w": "seamy",
+"pos": "adjective",
+"senses": [
+"Sordid, squalid or corrupt.",
+"Having or showing a seam."
+],
+"ety": "From seam + -y.",
+"examples": [],
+"p": "SEE-mee"
+},
+{
+"w": "churner",
+"pos": "noun",
+"senses": [
+"The vessel in which cream is churned to make butter.",
+"A person who churns another inside their body."
+],
+"ety": "From churn + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "prole",
+"pos": "noun",
+"senses": [
+"A member of the proletariat; a proletarian.",
+"A pleb (ordinary person)."
+],
+"ety": "From proletarian by shortening.",
+"examples": [],
+"p": "prohl"
+},
+{
+"w": "thrombolysis",
+"pos": "noun",
+"senses": [
+"The breaking down of blood clots by pharmacological or other means."
+],
+"ety": "From thrombo- + -lysis.",
+"examples": [],
+"p": null
+},
+{
+"w": "prokaryote",
+"pos": "noun",
+"senses": [
+"In the two-empire system of biological taxonomy, an organism of the kingdom Prokaryotae (now superseded)."
+],
+"ety": "From pro- + karyon + -ote.",
+"examples": [],
+"p": "proh-KAR-ee-oht"
+},
+{
+"w": "anonymization",
+"pos": "noun",
+"senses": [
+"The act or process of making anonymous, of hiding or disguising identity."
+],
+"ety": "From anonymize + -ation.",
+"examples": [
+"This anonymization site is supposed to keep emails from being tracked back to you."
+],
+"p": null
+},
+{
+"w": "appassionato",
+"pos": "adverb",
+"senses": [
+"(to be played) passionately"
+],
+"ety": "Borrowed from Italian appassionato.",
+"examples": [],
+"p": null
+},
+{
+"w": "mousie",
+"pos": "noun",
+"senses": [
+"A rat-tailed maggot used as bait."
+],
+"ety": "From mouse + -ie.",
+"examples": [],
+"p": null
+},
+{
+"w": "sashay",
+"pos": "noun",
+"senses": [
+"A sequence of sideways steps in a circle in square dancing."
+],
+"ety": "Verlan (or metathesis) form of French chassé, past participle of chasser (“chase”), from Latin captō, frequentative of capiō (“to take”).",
+"examples": [],
+"p": "SASH-ay"
+},
+{
+"w": "photomicrography",
+"pos": "noun",
+"senses": [
+"Photography using a microscope."
+],
+"ety": "From photo- + micrography.",
+"examples": [],
+"p": null
+},
+{
+"w": "naras",
+"pos": "noun",
+"senses": [
+"A spiny shrub, Acanthosicyos horridus, growing in Namibia and the Kalahari Desert, or the melon-like fruit that it produces."
+],
+"ety": "From Khoekhoe !naras (“naras fruit”), !narab (“naras plant”).",
+"examples": [],
+"p": null
+},
+{
+"w": "lammer",
+"pos": "noun",
+"senses": [
+"A small plastic disk used by a croupier or dealer to track the state of a game of chance or a debt owed; also button or marker.",
+"A voucher, issued to a tournament winner, that waives the entry fee or buy-in for a larger tournament."
+],
+"ety": "From lamination + -er.",
+"examples": [],
+"p": "LAM-er"
+},
+{
+"w": "rendang",
+"pos": "noun",
+"senses": [
+"An Indonesian dish of beef (or sometimes other meat) slowly cooked in coconut milk."
+],
+"ety": "Borrowed from Malay and Indonesian rendang, from Minangkabau randang.",
+"examples": [],
+"p": "ren-DANG"
+},
+{
+"w": "amelioration",
+"pos": "noun",
+"senses": [
+"The act of making better.",
+"An improvement.",
+"An ameliorative change of a concept or a repertoire of concepts."
+],
+"ety": "From Middle English amelioracioun, from Middle French amelioracion and probably partly ameliorate + -ion.",
+"examples": [],
+"p": "uh-mee-lee-uh-RAY-shun"
+},
+{
+"w": "tickly",
+"pos": "adjective",
+"senses": [
+"Having an itchy sensation like that of being tickled.",
+"Producing an itchy sensation like that of being tickled."
+],
+"ety": "From tickle + -y.",
+"examples": [],
+"p": "TIK-lee"
+},
+{
+"w": "relativize",
+"pos": "verb",
+"senses": [
+"To make one thing relative to another."
+],
+"ety": "From relative + -ize.",
+"examples": [],
+"p": null
+},
+{
+"w": "glamorization",
+"pos": "noun",
+"senses": [
+"The act of glamorizing, or something glamorized."
+],
+"ety": "From glamor + -ization.",
+"examples": [],
+"p": null
+},
+{
+"w": "sploosh",
+"pos": "noun",
+"senses": [
+"A heavy splashing sound."
+],
+"ety": "Onomatopoeic; compare splish, splash, and splosh for typically small, medium, and large objects respectively.",
+"examples": [],
+"p": "sploosh"
+},
+{
+"w": "crimini",
+"pos": "noun",
+"senses": [
+"A dark brown edible mushroom, Agaricus bisporus, that has a rounded cap; called a portobello when mature"
+],
+"ety": "Marketing name.",
+"examples": [],
+"p": null
+}
+]

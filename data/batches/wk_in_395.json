@@ -1,0 +1,435 @@
+[
+{
+"w": "terrigenous",
+"pos": "adjective",
+"senses": [
+"Produced by the earth."
+],
+"ety": "Latin terrigena (“land-born”) + -ous",
+"examples": [],
+"p": null
+},
+{
+"w": "toenail",
+"pos": "noun",
+"senses": [
+"The thin, horny, transparent plate covering the upper surface of the end of a toe."
+],
+"ety": "From toe + nail.",
+"examples": [],
+"p": "TOH-nayl"
+},
+{
+"w": "dunlin",
+"pos": "noun",
+"senses": [
+"A small wading bird, Calidris alpina, found along the coast and having a distinctive black belly patch in its breeding plumage. A type of stint."
+],
+"ety": "A diminutive of dun.",
+"examples": [],
+"p": null
+},
+{
+"w": "immunoassay",
+"pos": "noun",
+"senses": [
+"A test for the presence of a substance using the reaction of an antibody to its antigen, making use of the high selectivity of components of biological immune systems."
+],
+"ety": "From immuno- + assay.",
+"examples": [
+"An over-the-counter, pee-on-a-stick pregnancy test is an immunoassay."
+],
+"p": null
+},
+{
+"w": "apparate",
+"pos": "verb",
+"senses": [
+"To appear magically; to teleport to or from a place."
+],
+"ety": "From Late Latin apparēre (“to appear”), as of a servant who appears on being summoned. A back-formation from apparition.",
+"examples": [
+"What had silenced her, however, was the enormous demonic object that had apparated in the air beyond the tunnel's exit."
+],
+"p": null
+},
+{
+"w": "rowen",
+"pos": "noun",
+"senses": [
+"A stubble field left unploughed until late in the autumn, so that it can be cropped by cattle."
+],
+"ety": "From Middle English rewayn, from Anglo-Norman rewain, from an Old Northern French variant of Old French regain (“an increase”), from re- + gaigner (“to till, win”). The alternative forms represent replacement of unanalysable final /ən/ with the more tractable suffixes -et, -ing; roughing presumably relies on a lost pronunciation of rough as /ˈɹaʊ/.",
+"examples": [],
+"p": "ROW-un"
+},
+{
+"w": "colubrid",
+"pos": "noun",
+"senses": [
+"Any snake in the family Colubridae, completely covered in scales and mostly nonvenomous."
+],
+"ety": "From translingual Colubridae, from the genus translingual Coluber, from Latin coluber (“snake”).",
+"examples": [],
+"p": null
+},
+{
+"w": "webcast",
+"pos": "noun",
+"senses": [
+"A video and/or audio broadcast transmitted via the Internet"
+],
+"ety": "From web + -cast, from broadcast.",
+"examples": [],
+"p": null
+},
+{
+"w": "bikeway",
+"pos": "noun",
+"senses": [
+"A bicycle lane or path."
+],
+"ety": "From bike + way.",
+"examples": [],
+"p": null
+},
+{
+"w": "caput",
+"pos": "noun",
+"senses": [
+"The top or superior part of a thing.",
+"The council or ruling body of the University of Cambridge prior to the constitution of 1856."
+],
+"ety": "Learned borrowing from Latin caput (“the head”). Doublet of cape, capo, chef, and chief, and distantly of head and Howth.",
+"examples": [],
+"p": "kuh-PUUT"
+},
+{
+"w": "podzolic",
+"pos": "adjective",
+"senses": [
+"Resembling or relating to podzol."
+],
+"ety": "From podzol + -ic.",
+"examples": [],
+"p": null
+},
+{
+"w": "winnower",
+"pos": "noun",
+"senses": [
+"A person who winnows.",
+"A form of fan or basket used for winnowing."
+],
+"ety": "From winnow + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "evacuator",
+"pos": "noun",
+"senses": [
+"One who evacuates; a nullifier.",
+"An agent for emptying, especially an instrument for removing fragments of stone from the bladder after litholapaxy."
+],
+"ety": "From evacuate + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "forger",
+"pos": "noun",
+"senses": [
+"A person who creates forgeries, falsifies documents with intent to defraud, e.g. to create a false will or illicit copies of currency; counterfeiter.",
+"A person who forges metals."
+],
+"ety": "From Middle English forger, forgere, from Old French forgiere; equivalent to forge + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "bluesman",
+"pos": "noun",
+"senses": [
+"a male blues musician"
+],
+"ety": "From blues + man.",
+"examples": [],
+"p": null
+},
+{
+"w": "sparrowhawk",
+"pos": "noun",
+"senses": [
+"A Eurasian sparrowhawk, Accipiter nisus, a small, short-winged European hawk that preys on smaller birds.",
+"A female such bird, a male being a musket."
+],
+"ety": "From Middle English sparhauk, sperhauk, from Old English spearhafoc, spearhabuc (“sparrow-hawk”), from Proto-West Germanic *sparwahabuk, from Proto-Germanic *sparwahabukaz, equivalent to sparrow + hawk. Cognate with Danish spurvehøg (“sparrowhawk”), Swedish sparvhök (“sparrowhawk”), Icelandic sparrhaukur (“sparrowhawk”).",
+"examples": [],
+"p": null
+},
+{
+"w": "irresolvable",
+"pos": "adjective",
+"senses": [
+"Impossible to resolve; insoluble.",
+"Impossible to separate into its component parts."
+],
+"ety": "From ir- + resolvable.",
+"examples": [],
+"p": "ih-rih-ZOL-vuh-bul"
+},
+{
+"w": "rimshot",
+"pos": "noun",
+"senses": [
+"A percussive note in which the drumstick hits both the head and the rim of the drum.",
+"A percussive sting or flourish used to punctuate a joke in a cabaret or vaudeville act."
+],
+"ety": "From rim + shot.",
+"examples": [],
+"p": null
+},
+{
+"w": "barbel",
+"pos": "noun",
+"senses": [
+"A barb or pap under the tongue of a cow or horse."
+],
+"ety": "From Middle English barbel, from Old French barbel, from Vulgar Latin *barbellus, from Late Latin barbulus, diminutive of Latin barbus (“barbel”); barbus itself is from barba (“beard”). By surface analysis, Latin barb(us) (“beard, barbel”) + -el (diminutive suffix), and also, by surface analysis, barb (“sharp, extruding structure”) + -el (diminutive suffix).",
+"examples": [],
+"p": "BAR-bul"
+},
+{
+"w": "mechanoid",
+"pos": "noun",
+"senses": [
+"A robot that is designed to look and act like a human."
+],
+"ety": "From mechano- + -oid.",
+"examples": [
+"Originally he'd entered the Game to rescue the others. He was a sanitation Mechanoid, programmed to clean, and, in theory, should have been immune to the Game's lure. But he wasn't."
+],
+"p": null
+},
+{
+"w": "lobate",
+"pos": "adjective",
+"senses": [
+"Resembling a lobe."
+],
+"ety": "From Latin lobātus, equivalent to lobe + -ate.",
+"examples": [],
+"p": null
+},
+{
+"w": "diphthongization",
+"pos": "noun",
+"senses": [
+"The process by which a single vowel sound (monophthong) shifts to a two-vowel vocalization (diphthong)."
+],
+"ety": "From diphthong + -ization.",
+"examples": [],
+"p": null
+},
+{
+"w": "harish",
+"pos": "adjective",
+"senses": [
+"Like a hare."
+],
+"ety": "From hare + -ish.",
+"examples": [],
+"p": null
+},
+{
+"w": "brava",
+"pos": "noun",
+"senses": [
+"A shout of \"brava!\"."
+],
+"ety": "From Italian brava, feminine of bravo.",
+"examples": [],
+"p": "BRAH-vuh"
+},
+{
+"w": "palinka",
+"pos": "noun",
+"senses": [
+"A traditional Hungarian fruit brandy."
+],
+"ety": "From Hungarian pálinka.",
+"examples": [
+"An apricot palinka made with honey, apricot juice and lime — every bit as captivating as the new food in town."
+],
+"p": null
+},
+{
+"w": "shovelful",
+"pos": "noun",
+"senses": [
+"The amount that can be moved at once with a shovel."
+],
+"ety": "From shovel + -ful.",
+"examples": [
+"One shovelful of dirt makes a molehill; a million shovelfuls make a mountain.",
+"Two workers each had a shovelful of snow. There were two shovelsful of snow.",
+"The doors are at the right level for firing, which normally is down one side of the firebox at a time, unlike our own practice, which is to fire each side of the firebox with alternate shovelfuls."
+],
+"p": null
+},
+{
+"w": "hushpuppy",
+"pos": "noun",
+"senses": [
+"A small deep-fried cornmeal cake."
+],
+"ety": "Perhaps because they were once thrown to hungry dogs to quieten them.",
+"examples": [],
+"p": null
+},
+{
+"w": "idealize",
+"pos": "verb",
+"senses": [
+"To regard something as ideal.",
+"To conceive or form an ideal.",
+"To portray using idealization."
+],
+"ety": "From ideal + -ize. Compare French idéaliser.",
+"examples": [],
+"p": "eye-DEE-uh-lize"
+},
+{
+"w": "freezie",
+"pos": "noun",
+"senses": [
+"Synonym of freeze pop, flavoured ice or frozen fruit juice in a tube."
+],
+"ety": "From freeze + -ie.",
+"examples": [],
+"p": null
+},
+{
+"w": "gristle",
+"pos": "noun",
+"senses": [
+"Cartilage; now especially: cartilage present, as a tough substance, in meat.",
+"Bone not yet hardened by age and hard work."
+],
+"ety": "From Middle English gristel, grystyl, from Old English gristel (“gristle, cartilage”), Proto-West Germanic *gristl, of obscure origin; possibly from a pre-Germanic substrate language. Seemingly equivalent to a diminutive of Old English grist (“a grinding”), equivalent to modern English grist + -le; possibly related to Proto-Germanic *gredaną (“to crunch”). Cognate with Old Frisian gristel, gerstel (“gristle, cartilage”), Middle Low German gristel (“gristle”).",
+"examples": [],
+"p": "GRIS-ul"
+},
+{
+"w": "teabagger",
+"pos": "noun",
+"senses": [
+"A machine that packages tea into teabags."
+],
+"ety": "From tea + bagger or teabag + -er.",
+"examples": [
+"The equipment used, adapted from a Pneumatic Scale Co. teabagger, is a high-speed, horizontal form-fill-seal machine. The web is filled with ground coffee, over-packaged and at the same time flushed with an inert gas."
+],
+"p": null
+},
+{
+"w": "ganta",
+"pos": "noun",
+"senses": [
+"A unit of volume equivalent to eight chupas."
+],
+"ety": "From Spanish ganta, from Cebuano gantang, from Malay gantang. Doublet of gantang.",
+"examples": [],
+"p": null
+},
+{
+"w": "draughtsmanship",
+"pos": "noun",
+"senses": [
+"UK standard spelling of draftsmanship."
+],
+"ety": "From draughtsman + -ship.",
+"examples": [],
+"p": null
+},
+{
+"w": "boxty",
+"pos": "noun",
+"senses": [
+"A traditional Irish potato pancake."
+],
+"ety": "Borrowed from Irish bacstaí.",
+"examples": [],
+"p": "BAHK-stee"
+},
+{
+"w": "lurve",
+"pos": "noun",
+"senses": [
+"Love, fondness."
+],
+"ety": "From an expressively lengthened pronunciation of love ([lʌːv]~[lɜːv]~[lɐːv]). The spelling is based on non-rhotic English.",
+"examples": [],
+"p": "lurv"
+},
+{
+"w": "karass",
+"pos": "noun",
+"senses": [
+"A network or group of people who are somehow affiliated or linked spiritually."
+],
+"ety": "Coined by American writer Kurt Vonnegut in 1963, in the novel Cat's Cradle.",
+"examples": [
+"I do want to go to Arlinghurst, even though it's moronic and awful and there's no privacy at all, because I have started to build my karass there. I have the book club,I have the library—both libraries."
+],
+"p": null
+},
+{
+"w": "bagsy",
+"pos": "verb",
+"senses": [
+"To make a verbal claim to."
+],
+"ety": "Respelling and grammatical repurposing of bags I, as used to claim something for oneself, for example, Bags I have the top bunk!.",
+"examples": [
+"I bagsy the top bunk of the bed."
+],
+"p": null
+},
+{
+"w": "weaselly",
+"pos": "adjective",
+"senses": [
+"Resembling a weasel (in appearance).",
+"Devious; cunning; misleading; sneaky."
+],
+"ety": "From weasel + -y.",
+"examples": [
+"At three minutes past six the door opened to admit the naked, scrawny figure of Tingaling Bell. He had a sharp weasely face and a miserable body on which each bone showed.",
+"On still weasellier, greasier members of the clique.",
+"I lifted the extension, slowly released the button, easing in mid-ring like the weaselliest weasel."
+],
+"p": null
+},
+{
+"w": "trepan",
+"pos": "noun",
+"senses": [
+"A tool used to bore through rock when sinking shafts."
+],
+"ety": "Borrowed into Middle English from Old French trepan, from Latin trepanum, from Ancient Greek τρύπανον (trúpanon, “auger, borer”). Doublet of trephine.",
+"examples": [],
+"p": "truh-PAN"
+},
+{
+"w": "saxman",
+"pos": "noun",
+"senses": [
+"A male saxophonist."
+],
+"ety": "From sax + -man.",
+"examples": [],
+"p": null
+}
+]

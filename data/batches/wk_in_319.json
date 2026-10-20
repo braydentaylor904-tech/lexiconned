@@ -1,0 +1,419 @@
+[
+{
+"w": "barcode",
+"pos": "noun",
+"senses": [
+"Any set of machine-readable parallel bars or concentric circles, varying in width, spacing, or height, encoding information according to a symbology."
+],
+"ety": "Compound of bar + code. First attested in 1963 for noun sense 1.",
+"examples": [],
+"p": "BAR-kohd"
+},
+{
+"w": "ravelin",
+"pos": "noun",
+"senses": [
+"A kind of outwork; a freestanding, wedge-shaped fortification used to split an attacking force as they approach a larger fortress."
+],
+"ety": "From French ravelin, from Italian rivellino, of unclear origin: perhaps from Latin re- + vallum.",
+"examples": [],
+"p": "RAV-uh-lin"
+},
+{
+"w": "violator",
+"pos": "noun",
+"senses": [
+"One who violates (a rule, a boundary, another person's body, etc.); offender"
+],
+"ety": "From Middle English violator, from Latin violātor. By surface analysis, violate + -or.",
+"examples": [
+"The ordinance subjected any violator to a fine, to imprisonment for not more than six months, to community service, or to some combination of the three."
+],
+"p": null
+},
+{
+"w": "toril",
+"pos": "noun",
+"senses": [
+"A bullpen, especially one attached to a bullfighting arena where the bull is held prior to the fight."
+],
+"ety": "From Spanish toril.",
+"examples": [],
+"p": null
+},
+{
+"w": "biopsychology",
+"pos": "noun",
+"senses": [
+"biological psychology"
+],
+"ety": "From bio- + psychology.",
+"examples": [],
+"p": null
+},
+{
+"w": "longbow",
+"pos": "noun",
+"senses": [
+"A large bow that has a strong tension, and is usually more than 3 feet tall. The most famous longbows in history were the English longbows, which were crafted of yew."
+],
+"ety": "From long + bow.",
+"examples": [],
+"p": "LONG-boh"
+},
+{
+"w": "fullish",
+"pos": "adjective",
+"senses": [
+"Somewhat full; reasonably full, quite full."
+],
+"ety": "From full + -ish.",
+"examples": [],
+"p": null
+},
+{
+"w": "oxytocic",
+"pos": "noun",
+"senses": [
+"An oxytocic drug."
+],
+"ety": "Corruption of Ancient Greek ὠκυτόκος (ōkutókos), based on ὀξύς (oxús, “pointed”) instead of ὠκύς (ōkús, “swift”) + τόκος (tókos, “childbirth”).",
+"examples": [],
+"p": "ahk-see-TAH-sik"
+},
+{
+"w": "incinerator",
+"pos": "noun",
+"senses": [
+"A furnace that burns refuse."
+],
+"ety": "From incinerate + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "notifier",
+"pos": "noun",
+"senses": [
+"A person or thing which notifies or provides notification."
+],
+"ety": "From notify + -er.",
+"examples": [
+"The e-mail notifier displays a small icon in the notification area when mail is received."
+],
+"p": null
+},
+{
+"w": "metasequoia",
+"pos": "noun",
+"senses": [
+"Metasequoia, the dawn redwood, a fast-growing deciduous conifer native to China."
+],
+"ety": "From meta- + sequoia.",
+"examples": [],
+"p": "met-uh-suh-KWOY-uh"
+},
+{
+"w": "stubbly",
+"pos": "adjective",
+"senses": [
+"Having stubble.",
+"Resembling or characteristic of stubble."
+],
+"ety": "From stubble + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "biochemist",
+"pos": "noun",
+"senses": [
+"A chemist whose speciality is biochemistry"
+],
+"ety": "Back-formation from biochemistry.",
+"examples": [],
+"p": "buh-eer-oo-KEM-ist"
+},
+{
+"w": "numerics",
+"pos": "noun",
+"senses": [
+"The field of numerically-controlled engineering."
+],
+"ety": "From numeric + -ics.",
+"examples": [],
+"p": null
+},
+{
+"w": "shearman",
+"pos": "noun",
+"senses": [
+"One whose occupation is to shear cloth.",
+"One whose occupation is to shear sheep."
+],
+"ety": "From Middle English schereman, scherman; equivalent to shear + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "demotivate",
+"pos": "verb",
+"senses": [
+"To decrease the motivation of a person or a group."
+],
+"ety": "From de- + motivate.",
+"examples": [],
+"p": "dee-MOH-tih-vayt"
+},
+{
+"w": "curdy",
+"pos": "adjective",
+"senses": [
+"Like, or full of, curd; coagulated."
+],
+"ety": "From curd + -y.",
+"examples": [
+"The oil by degrees gets covered with a curdy mass, which after some time settles to the bottom, while itself becomes limpid and colorless."
+],
+"p": null
+},
+{
+"w": "hitmaker",
+"pos": "noun",
+"senses": [
+"A musician who frequently produces hits; a star."
+],
+"ety": "From hit + maker.",
+"examples": [
+"But those who stayed saw a strong set from the hitmaker Akon, who did “I Tried” with Bone Thugs-n-Harmony."
+],
+"p": null
+},
+{
+"w": "airband",
+"pos": "noun",
+"senses": [
+"The band of radio frequencies used by civil aviation"
+],
+"ety": "From air + band.",
+"examples": [],
+"p": null
+},
+{
+"w": "machan",
+"pos": "noun",
+"senses": [
+"A kind of safety platform in a tree, used when hunting large animals or to escape a flood; found most commonly in Indian jungles."
+],
+"ety": "Borrowed from Hindi मचान (macān, “platform”).",
+"examples": [],
+"p": null
+},
+{
+"w": "estragon",
+"pos": "noun",
+"senses": [
+"Synonym of tarragon"
+],
+"ety": "Borrowed from French estragon. Doublet of tarragon.",
+"examples": [],
+"p": null
+},
+{
+"w": "filtrate",
+"pos": "noun",
+"senses": [
+"The liquid or solution that has passed through a filter, and which has been separated from other fractions of the original material."
+],
+"ety": "From the substantivation of New Latin filtrātus (“filtered”) past perfect participle of filtrō (“to filter”). Equivalent to filter (the verb) + -ate (noun-forming suffix).",
+"examples": [],
+"p": "FIL-trayt"
+},
+{
+"w": "grunty",
+"pos": "adjective",
+"senses": [
+"Making grunting sounds.",
+"Resembling grunt work; repetitive, mindless, unrewarding."
+],
+"ety": "From grunt + -y.",
+"examples": [
+"They let the hog loose, and the squeal subsided into a grunty moaning as it wandered erratically, the red draining pink into the snow around the yard."
+],
+"p": null
+},
+{
+"w": "donax",
+"pos": "noun",
+"senses": [
+"A canelike grass of southern Europe (Arundo donax), used for fishing rods, etc."
+],
+"ety": "Borrowed from Latin donax (“reed; also a marine fish”), from Ancient Greek δόναξ (dónax).",
+"examples": [],
+"p": null
+},
+{
+"w": "polis",
+"pos": "noun",
+"senses": [
+"A police officer."
+],
+"ety": "Borrowed from Scots polis. Doublet of police, policy, and polity.",
+"examples": [],
+"p": "PAH-lis"
+},
+{
+"w": "stainer",
+"pos": "noun",
+"senses": [
+"Something that stains.",
+"One who stains or tarnishes.",
+"A workman who applies a stain to wood, etc."
+],
+"ety": "From stain + -er.",
+"examples": [],
+"p": "STAY-ner"
+},
+{
+"w": "petcare",
+"pos": "noun",
+"senses": [
+"The care and medical treatment of pets (domestic animals)."
+],
+"ety": "From pet + care.",
+"examples": [],
+"p": null
+},
+{
+"w": "fulmen",
+"pos": "noun",
+"senses": [
+"An artistic or graphic representation of a thunderbolt."
+],
+"ety": "Borrowed from Latin fulmen.",
+"examples": [],
+"p": "FUL-mun"
+},
+{
+"w": "lamaism",
+"pos": "noun",
+"senses": [
+"Synonym of Tibetan Buddhism."
+],
+"ety": "From lama + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "osetra",
+"pos": "noun",
+"senses": [
+"Caviar made from the Russian sturgeon."
+],
+"ety": "From Russian осетра́ (osetrá, “of sturgeon”, genitive of осётр (osjótr, “surgeon”)), from the phrase икра́ осетра́ (ikrá osetrá, “caviar of sturgeon”)",
+"examples": [],
+"p": null
+},
+{
+"w": "infundibular",
+"pos": "adjective",
+"senses": [
+"Having the shape of a funnel."
+],
+"ety": "From infundibul(um) + -ar. By surface analysis, infundibul- + -ar.",
+"examples": [],
+"p": null
+},
+{
+"w": "swingle",
+"pos": "noun",
+"senses": [
+"An implement used to separate the fibres of flax by beating them; a scutch.",
+"The swinging part of a flail, especially that which is used on the grain in threshing; the swipple."
+],
+"ety": "The noun is from Middle English swingel, from Old English swingel, swingelle (“whip, scourge”), equivalent to swing + -le. Related to Middle Dutch swingel, swengel, Dutch zwingel, zwengel. Doublet of swingel. The verb is from Middle English swingelen, from the noun. Related to Middle Dutch swingelen, swengelen.",
+"examples": [],
+"p": "SWING-gul"
+},
+{
+"w": "talukdar",
+"pos": "noun",
+"senses": [
+"An Indian landholder in the Mughal Empire and British Raj, responsible for collecting taxes from a taluk."
+],
+"ety": "From Hindustani: Hindi तालुक़दार (tāluqdār), Urdu تالقدار (tāluqdār). Compare Sylheti ꠔꠣꠟꠥꠇꠖꠣꠞ (talukodar).",
+"examples": [],
+"p": null
+},
+{
+"w": "couplet",
+"pos": "noun",
+"senses": [
+"A pair of lines, typically with rhyming end words.",
+"A pair of one-way streets which carry opposing directions of traffic through gridded urban areas."
+],
+"ety": "From French couplet, from couple + -et. Doublet of cabaletta.",
+"examples": [],
+"p": "KUP-lut"
+},
+{
+"w": "chaus",
+"pos": "noun",
+"senses": [
+"Synonym of jungle cat (Felis chaus)"
+],
+"ety": "From New Latin chaus, from a native, probably Turkic, name; compare Nogai кавыс (kavıs).",
+"examples": [],
+"p": "KAY-us"
+},
+{
+"w": "dramatist",
+"pos": "noun",
+"senses": [
+"Synonym of playwright."
+],
+"ety": "From the stem of Ancient Greek δρᾶμα (drâma) + -ist.",
+"examples": [],
+"p": "DRAM-uh-tist"
+},
+{
+"w": "ensuite",
+"pos": "noun",
+"senses": [
+"A private bathroom connected to a bedroom, as in an apartment or hotel room."
+],
+"ety": "Borrowed from French en suite (literally “in continuation”).",
+"examples": [],
+"p": "awn-SWEET"
+},
+{
+"w": "keezer",
+"pos": "noun",
+"senses": [
+"A kegerator made from a converted chest freezer."
+],
+"ety": "Blend of keg + freezer.",
+"examples": [],
+"p": null
+},
+{
+"w": "chiropractics",
+"pos": "noun",
+"senses": [
+"The practice of a chiropractor; chiropractic."
+],
+"ety": "From Ancient Greek χείρ (kheír, “hand”) + πρᾶξις (prâxis, “action, activity, practice”).",
+"examples": [],
+"p": null
+},
+{
+"w": "kurus",
+"pos": "noun",
+"senses": [
+"A subdivision of currency, equal to one hundredth of a Turkish lira."
+],
+"ety": "Borrowed from Turkish kuruş, from German Groschen. Doublet of grosz.",
+"examples": [],
+"p": null
+}
+]

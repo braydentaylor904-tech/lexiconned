@@ -1,0 +1,429 @@
+[
+{
+"w": "upholder",
+"pos": "noun",
+"senses": [
+"Someone who upholds something."
+],
+"ety": "From uphold + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "stubble",
+"pos": "noun",
+"senses": [
+"Short, coarse hair, especially on a man’s face.",
+"The short stalks left in a field after crops have been harvested."
+],
+"ety": "From Middle English stuble, from Anglo-Norman stuble, estuble, from Old French estoble, esteule (whence Modern French éteule), from Latin stipula (“stalk, straw”). Cognate with Dutch stoppel, Central German Stoppel, Upper German Stupfel. Doublet of stipule.",
+"examples": [],
+"p": "STUB-ul"
+},
+{
+"w": "tourn",
+"pos": "noun",
+"senses": [
+"A circuit made by a medieval English sheriff to the courts of his shire."
+],
+"ety": "From Anglo-Norman. Doublet of turn.",
+"examples": [],
+"p": null
+},
+{
+"w": "ejectment",
+"pos": "noun",
+"senses": [
+"A casting out, an ejection."
+],
+"ety": "From eject + -ment.",
+"examples": [],
+"p": null
+},
+{
+"w": "etalon",
+"pos": "noun",
+"senses": [
+"An optical device containing parallel mirrors, used as a narrow band filter, often in laser design."
+],
+"ety": "Borrowed from French étalon (“measuring gauge, standard”).",
+"examples": [
+"It will be shown that the simple theory outlined in the preceding paragraph, which is applicable to single-plate etalons, can be used to predict the main features of the spectral curve of a multi element etalon.",
+"The laser output will be composed of longitudinal modes that fall inside the transmission band of the etalon, hence a narrowing of the laser line width is observed.",
+"The next step of this experiment is to compare the etalon m₁m₂ (shortest length) with the etalon m₃m₄ (the next one). For this two etalons are arranged side by side as shown in Fig. 7.13a."
+],
+"p": null
+},
+{
+"w": "careerist",
+"pos": "noun",
+"senses": [
+"A person who takes a job, especially in the military, for a long time rather than temporarily."
+],
+"ety": "From career + -ist.",
+"examples": [],
+"p": "kuh-REER-ist"
+},
+{
+"w": "hypothermic",
+"pos": "adjective",
+"senses": [
+"Affected by hypothermia; having an abnormally low body temperature."
+],
+"ety": "From hypo- + -thermic.",
+"examples": [
+"The survivors of the shipwreck quickly became hypothermic."
+],
+"p": null
+},
+{
+"w": "bartend",
+"pos": "verb",
+"senses": [
+"To tend a bar; to act as a barman."
+],
+"ety": "Back-formation from bartender.",
+"examples": [
+"Jimmy used to scallop from October to March and bartend a few shifts here and there over the summers when scalloping is prohibited."
+],
+"p": null
+},
+{
+"w": "peyote",
+"pos": "noun",
+"senses": [
+"A mescal button produced by the plant."
+],
+"ety": "From Spanish peyote, from Classical Nahuatl peyotl.",
+"examples": [],
+"p": "pay-YOH-tee"
+},
+{
+"w": "jagat",
+"pos": "noun",
+"senses": [
+"The material or physical world as subjectively experienced."
+],
+"ety": "From Sanskrit जगत् (jagat).",
+"examples": [],
+"p": null
+},
+{
+"w": "sectionalism",
+"pos": "noun",
+"senses": [
+"Promoting the good of one division, department or subgroup over that of the whole.",
+"Promoting the good of one region over that of the nation."
+],
+"ety": "From sectional + -ism.",
+"examples": [
+"Sectionalism is tearing the country apart. Everyone wants the other regions to do the work and pay the taxes while they reap the benefits."
+],
+"p": null
+},
+{
+"w": "nympha",
+"pos": "noun",
+"senses": [
+"Each of a pair of processes in certain bivalves, to which the ends of the external ligament are attached."
+],
+"ety": "From Latin nympha, from Ancient Greek νύμφη (númphē, “bride, nymph”). Doublet of nymph.",
+"examples": [],
+"p": "NIM-fuh"
+},
+{
+"w": "panelist",
+"pos": "noun",
+"senses": [
+"A person who is a member of a panel."
+],
+"ety": "From panel + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "tuberculin",
+"pos": "noun",
+"senses": [
+"An antigen used in the diagnosis of tuberculosis."
+],
+"ety": "From tuberculosis + -in.",
+"examples": [],
+"p": null
+},
+{
+"w": "pastureland",
+"pos": "noun",
+"senses": [
+"Land used for pasture, on which livestock can graze."
+],
+"ety": "From pasture + land.",
+"examples": [],
+"p": null
+},
+{
+"w": "serry",
+"pos": "verb",
+"senses": [
+"To crowd, press together, or close (rank)"
+],
+"ety": "Borrowed from French serré, past participle of serrer, from Middle French serrer, from Old French serrer, from Vulgar Latin *serrare (“close, shut”), from Late Latin serare (“fasten, bolt”), from Latin sera (“a bar, bolt”), akin to Latin serere (“to join or bind together”). Compare French serrer (“to tighten”) and Spanish cerrar (“to shut, close”).",
+"examples": [
+"High shoulders, low shoulders, broad shoulders, narrow ones, Round, square, and angular, serry and shove"
+],
+"p": null
+},
+{
+"w": "exosuit",
+"pos": "noun",
+"senses": [
+"An exoskeletal suit"
+],
+"ety": "From exo- + suit.",
+"examples": [],
+"p": null
+},
+{
+"w": "serotype",
+"pos": "verb",
+"senses": [
+"To assign or classify according to serotypes"
+],
+"ety": "From sero- + -type.",
+"examples": [],
+"p": null
+},
+{
+"w": "distich",
+"pos": "noun",
+"senses": [
+"Any couplet."
+],
+"ety": "From Latin distichon (“a poem of two verses, a distich consisting of a hexameter and a pentameter”), from Ancient Greek δίστιχον (dístikhon).",
+"examples": [],
+"p": "DIS-tik"
+},
+{
+"w": "resurfacer",
+"pos": "noun",
+"senses": [
+"A tool or machine used to resurface.",
+"A person who resurfaces something."
+],
+"ety": "From resurface + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "staniel",
+"pos": "noun",
+"senses": [
+"The kestrel or windhover."
+],
+"ety": "From Middle English staniel (“bird of prey”), from Old English stānġilla, stānġella (“staniel, pelican”, literally “rock-crier”), from stān (“stone, rock”) + ġella (“yeller, crier”). More at stone, yell.",
+"examples": [],
+"p": "STAN-yul"
+},
+{
+"w": "earles",
+"pos": "noun",
+"senses": [
+"deposit (on a purchase, etc.)"
+],
+"ety": "From Scots arles, from Middle English erles, from Old French erres (modern French arrhes), from Latin arrha.",
+"examples": [],
+"p": null
+},
+{
+"w": "steinbock",
+"pos": "noun",
+"senses": [
+"A type of ibex (Capra ibex)."
+],
+"ety": "From German Steinbock.",
+"examples": [],
+"p": null
+},
+{
+"w": "concuss",
+"pos": "verb",
+"senses": [
+"To injure the brain of, usually temporarily, by violent impact."
+],
+"ety": "From Latin concussus, the perfect passive participle of concutiō (“shake violently”), from con- + quatiō (“shake, hit”).",
+"examples": [],
+"p": "kun-KUS"
+},
+{
+"w": "pleather",
+"pos": "noun",
+"senses": [
+"Faux leather, usually made of polyurethane."
+],
+"ety": "Blend of plastic + leather.",
+"examples": [
+"From the black, belted fur vest and turban-style headgear on the left, to the perforated pleather jacket with gold studs in the middle, to the white shift and black caplet punctuated with ..."
+],
+"p": null
+},
+{
+"w": "bancassurance",
+"pos": "noun",
+"senses": [
+"A banking and insurance structure in which insurance is sold through the bank or the bank's distribution channels."
+],
+"ety": "Borrowed from French bancassurance.",
+"examples": [],
+"p": null
+},
+{
+"w": "untampered",
+"pos": "adjective",
+"senses": [
+"Not tampered with."
+],
+"ety": "From un- + tampered.",
+"examples": [
+"On their grim features, now The plain unvisored index of the soul, The true untampered witness of the heart, No smile of hope, no look of vanity Beseeching for applause, was seen ;"
+],
+"p": null
+},
+{
+"w": "sparer",
+"pos": "noun",
+"senses": [
+"One who or that which spares."
+],
+"ety": "From spare + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "testy",
+"pos": "adjective",
+"senses": [
+"Easily annoyed, irritable.",
+"Marked by impatience or ill humor."
+],
+"ety": "Middle English testif (“headstrong”), from Old French testu, from teste (“head”) + -u. Compare modern French tête (“head”), têtu (“stubborn”).",
+"examples": [],
+"p": "TES-tee"
+},
+{
+"w": "revers",
+"pos": "noun",
+"senses": [
+"A lapel of a garment, turned back to show the reverse side."
+],
+"ety": "Borrowed from French revers (“lapel, reverse side”). Doublet of reverse.",
+"examples": [],
+"p": null
+},
+{
+"w": "halachic",
+"pos": "adjective",
+"senses": [
+"In accordance with Halacha."
+],
+"ety": "From Halacha + -ic.",
+"examples": [],
+"p": "huh-LUKH-ik"
+},
+{
+"w": "carjacker",
+"pos": "noun",
+"senses": [
+"One who engages in carjacking; one who steals an occupied automobile."
+],
+"ety": "From carjack + -er.",
+"examples": [
+"The typical carjacker is most interested in an easy heist.",
+"Note the direction in which the carjacker drove. Give officers a detailed description of the carjacker, including the type of weapon, if one was used."
+],
+"p": null
+},
+{
+"w": "campo",
+"pos": "noun",
+"senses": [
+"A field or plain in a Spanish- or Portuguese-speaking area."
+],
+"ety": "From Spanish campo and/or Portuguese campo. Doublet of camp and campus.",
+"examples": [
+"The vegetation of this part of Brazil is characteristic of the campos (plains)."
+],
+"p": null
+},
+{
+"w": "cuddy",
+"pos": "noun",
+"senses": [
+"A coalfish (Pollachius virens)."
+],
+"ety": "From Scots cuddie; compare Gaelic cudaig, cudainn, or English cuttlefish, or cod.",
+"examples": [],
+"p": "KUD-ee"
+},
+{
+"w": "tortellini",
+"pos": "noun",
+"senses": [
+"A kind of small, ring-shaped pasta, stuffed with meat, cheese, etc; and eaten with a sauce or in a soup."
+],
+"ety": "From Italian tortellini, plural of tortellino.",
+"examples": [],
+"p": "tor-tuh-LEE-nee"
+},
+{
+"w": "shipman",
+"pos": "noun",
+"senses": [
+"Synonym of sailor.",
+"A labourer on a ship."
+],
+"ety": "From Middle English schipman, from Old English scipmann (“shipman, mariner, sailor, rower; one who goes on trading voyages; pirate”). Cognate with Icelandic skipmaður, skipamaður (“shipman”). Equivalent to ship + -man. Compare English boatman.",
+"examples": [],
+"p": null
+},
+{
+"w": "magnesian",
+"pos": "adjective",
+"senses": [
+"Containing magnesia (magnesium oxide)"
+],
+"ety": "From magnesium + -ian.",
+"examples": [],
+"p": null
+},
+{
+"w": "beaty",
+"pos": "adjective",
+"senses": [
+"Having a pronounced beat."
+],
+"ety": "From beat + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "crippler",
+"pos": "noun",
+"senses": [
+"A person who, or thing which cripples.",
+"A corrugated board used to grain leather."
+],
+"ety": "From cripple + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "pombe",
+"pos": "noun",
+"senses": [
+"An African beer made from millet."
+],
+"ety": "From Swahili pombe (“beer”).",
+"examples": [],
+"p": null
+}
+]

@@ -1,0 +1,432 @@
+[
+{
+"w": "temari",
+"pos": "noun",
+"senses": [
+"A type of Japanese woven ball.",
+"A traditional Japanese game, usually by girls, involving this woven ball."
+],
+"ety": "Borrowed from Japanese 手毬",
+"examples": [],
+"p": null
+},
+{
+"w": "railgun",
+"pos": "noun",
+"senses": [
+"An electromagnetic gun that uses a large electrical current to propel a projectile down a track of two parallel conductive rails.",
+"A railway gun.",
+"A benchrest rifle."
+],
+"ety": "From rail + gun. * (railway gun): From being a gun mounted on a rail car, and being railroad-mobile. * (EM gun): From being a projectile ejecting device with a pair of electric conducting rails that a launch sled runs along, which shoots the projectile.",
+"examples": [],
+"p": "RAYL-gun"
+},
+{
+"w": "mortier",
+"pos": "noun",
+"senses": [
+"A cap of state worn by legal functionaries in France."
+],
+"ety": "From French mortier.",
+"examples": [],
+"p": null
+},
+{
+"w": "tankful",
+"pos": "noun",
+"senses": [
+"The amount (usually of a fluid) that will fill a tank."
+],
+"ety": "From tank + -ful.",
+"examples": [
+"Each tankful of leaded gasoline causes an increasingly thick coating of lead to build up on the catalyst.",
+"One driver has kept track of several tankfuls of gasoline by recording the miles driven and gallons used for each tankful.",
+"In 2015, two men drove a car through all 48 contiguous U.S. states on less than $300 of diesel fuel, or just eight tankfuls."
+],
+"p": null
+},
+{
+"w": "capriccioso",
+"pos": "adverb",
+"senses": [
+"capriciously"
+],
+"ety": "From Italian capriccioso. Cognate with capricious.",
+"examples": [],
+"p": null
+},
+{
+"w": "varietal",
+"pos": "adjective",
+"senses": [
+"Made from a single specific variety (especially of grapes in wine)."
+],
+"ety": "From variety + -al.",
+"examples": [],
+"p": "vuh-RY-uh-tul"
+},
+{
+"w": "wombat",
+"pos": "noun",
+"senses": [
+"A herbivorous, burrowing marsupial of the family Vombatidae, mainly found in southern and eastern Australia."
+],
+"ety": "Borrowed from Dharug wumbat.",
+"examples": [],
+"p": "WAHM-bat"
+},
+{
+"w": "palmetto",
+"pos": "noun",
+"senses": [
+"A hat made of palmetto leaves.",
+"A native or resident of the US state of South Carolina."
+],
+"ety": "From Spanish palmito, diminutive of palma (“palm tree”), from Latin palma. Doublet of palmite and palmito.",
+"examples": [],
+"p": null
+},
+{
+"w": "looser",
+"pos": "noun",
+"senses": [
+"One who looses, who sets loose or frees."
+],
+"ety": "From loose + -er.",
+"examples": [],
+"p": "LOO-ser"
+},
+{
+"w": "biliteracy",
+"pos": "noun",
+"senses": [
+"The capability of reading and writing in two languages or writing systems."
+],
+"ety": "From bi- + literacy.",
+"examples": [],
+"p": null
+},
+{
+"w": "fitna",
+"pos": "noun",
+"senses": [
+"Strife; social unrest or civil war among Muslims, especially from the 7th to the 9th century."
+],
+"ety": "Borrowed from Arabic فِتْنَة (fitna, “sedition, strife”).",
+"examples": [],
+"p": null
+},
+{
+"w": "fluttery",
+"pos": "adjective",
+"senses": [
+"That flutters; fluttering."
+],
+"ety": "From flutter + -y.",
+"examples": [],
+"p": "FLUT-uh-ree"
+},
+{
+"w": "agnosticism",
+"pos": "noun",
+"senses": [
+"The view that absolute truth or ultimate certainty is unattainable, especially regarding knowledge not based on experience or perceivable phenomena.",
+"The view that the existence of God or of all deities is unknown, unknowable, unproven, or unprovable.",
+"Doubt, uncertainty, or scepticism regarding the existence of a god or gods.",
+"Doubt, uncertainty, or scepticism regarding any subject of dispute."
+],
+"ety": "Coined by Thomas Henry Huxley. From a- + gnostic + -ism (see also agnostic).",
+"examples": [],
+"p": "ag-NAH-stih-sih-zum"
+},
+{
+"w": "phylogeography",
+"pos": "noun",
+"senses": [
+"The study of the processes controlling the geographic distributions of lineages by constructing the genealogies of populations and genes"
+],
+"ety": "From phylo- + geography.",
+"examples": [],
+"p": null
+},
+{
+"w": "electrolyze",
+"pos": "verb",
+"senses": [
+"To decompose by means of, or as a result of electrolysis."
+],
+"ety": "Coined by British scientist Michael Faraday in 1834. From electrolysis + -ize.",
+"examples": [],
+"p": null
+},
+{
+"w": "culturalist",
+"pos": "noun",
+"senses": [
+"One who subscribes to culturalism."
+],
+"ety": "From cultural + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "sauerbraten",
+"pos": "noun",
+"senses": [
+"A German dish of roasted marinated horsemeat or (now more frequently) beef or pork."
+],
+"ety": "From German: sauer (“sour”) + Braten (“roast meat”).",
+"examples": [
+"My sauerbraten ($10.95) was a disaster, thin slices of beef drowned in a lake of gravy, and way too sauer, although the accompanying spaetzle were firm and buttery.",
+"The worst thing that would have happened if Germany had won is that I'd be speaking German now and eating sauerbraten instead of hamburger,\" he says. \"",
+"But some meat dishes, like the sauerbraten, are drenched in sauces that tend to be a little too heavy and sweet."
+],
+"p": null
+},
+{
+"w": "ostrog",
+"pos": "noun",
+"senses": [
+"A small Russian fort, typically wooden, encircled by a palisade wall."
+],
+"ety": "Borrowed from Russian остро́г (ostróg).",
+"examples": [],
+"p": null
+},
+{
+"w": "boxercise",
+"pos": "noun",
+"senses": [
+"A form of physical workout, combining boxing with aerobic exercise."
+],
+"ety": "* Blend of boxing + exercise",
+"examples": [],
+"p": null
+},
+{
+"w": "porty",
+"pos": "adjective",
+"senses": [
+"Resembling or characteristic of port wine."
+],
+"ety": "From port + -y.",
+"examples": [
+"Sweet, superconcentrated and high-toned, with a porty flavor of kirsch. This boasts huge material but rather extreme ripeness; tastes as much like dry port as wine."
+],
+"p": null
+},
+{
+"w": "napoletana",
+"pos": "noun",
+"senses": [
+"A Neapolitan flip coffee pot."
+],
+"ety": "Borrowed from Italian napoletana.",
+"examples": [],
+"p": null
+},
+{
+"w": "armload",
+"pos": "noun",
+"senses": [
+"As much as can be carried with one, or a pair, of arms"
+],
+"ety": "From arm + load.",
+"examples": [],
+"p": null
+},
+{
+"w": "totalization",
+"pos": "noun",
+"senses": [
+"The act of totalizing, or state of being totalized"
+],
+"ety": "From total + -ization.",
+"examples": [],
+"p": null
+},
+{
+"w": "ultramafic",
+"pos": "noun",
+"senses": [
+"A rock with such properties."
+],
+"ety": "From ultra- + mafic.",
+"examples": [],
+"p": null
+},
+{
+"w": "beetroot",
+"pos": "noun",
+"senses": [
+"A normally deep-red-colored root vegetable usually cooked or pickled before eating.",
+"The edible part of the root of a beet plant, raw or prepared."
+],
+"ety": "From beet + root.",
+"examples": [],
+"p": "BEET-root"
+},
+{
+"w": "suave",
+"pos": "adjective",
+"senses": [
+"Of a person, charming, though often in a manner that is insincere or sophisticated.",
+"Displaying smoothness and sophistication.",
+"Gracious, kind."
+],
+"ety": "From Middle English suave, borrowed from Latin suāvis (“sweet, pleasant”); doublet of sweet. First attested in the early 15th century.",
+"examples": [],
+"p": "swahv"
+},
+{
+"w": "jemadar",
+"pos": "noun",
+"senses": [
+"A former rank in the British Indian Army, the lowest rank for a viceroy's commissioned officer."
+],
+"ety": "Borrowed from Urdu جمعدار (jamadār), from Persian جمعدار (jam'-dār), from Arabic جَمْع (jamʕ, “gathering”) + Persian ـدار (-dār, “bearer”).",
+"examples": [],
+"p": null
+},
+{
+"w": "snowscape",
+"pos": "noun",
+"senses": [
+"A landscape dominated by snow."
+],
+"ety": "From snow + -scape.",
+"examples": [],
+"p": null
+},
+{
+"w": "haikai",
+"pos": "noun",
+"senses": [
+"A form of Japanese comic verse, featuring satire and puns.",
+"A poem written in such a style."
+],
+"ety": "Borrowed from Japanese 俳(はい)諧(かい) (haikai).",
+"examples": [],
+"p": null
+},
+{
+"w": "sepoy",
+"pos": "noun",
+"senses": [
+"The holder of an infantry enlisted rank equivalent to private in other countries."
+],
+"ety": "From Portuguese sipai, from Urdu سِپاہی (sipāhī) / Hindi सिपाही (sipāhī), from Classical Persian سِپَاهِی (sipāhī, “soldier, horseman”), from سِپَاه (sipāh, “army”). Doublet of spahi and sipahi.",
+"examples": [],
+"p": "SEE-poy"
+},
+{
+"w": "avahi",
+"pos": "noun",
+"senses": [
+"woolly lemur"
+],
+"ety": "From Malagasy avahy.",
+"examples": [],
+"p": "uh-VAH-hee"
+},
+{
+"w": "netherland",
+"pos": "noun",
+"senses": [
+"A supposed place to which one's spirit descends upon death; the netherworld."
+],
+"ety": "From nether- + land.",
+"examples": [],
+"p": null
+},
+{
+"w": "tunability",
+"pos": "noun",
+"senses": [
+"The extent to which something is tunable."
+],
+"ety": "From tune + -ability.",
+"examples": [],
+"p": null
+},
+{
+"w": "evictee",
+"pos": "noun",
+"senses": [
+"One who is evicted."
+],
+"ety": "From evict + -ee.",
+"examples": [
+"Things can get especially tense, he said, when the evictees are former soldiers of the Kosovo Liberation Army, the separatist guerrilla group that fought the Serbs."
+],
+"p": null
+},
+{
+"w": "grandfatherly",
+"pos": "adjective",
+"senses": [
+"Of or characteristic of grandfathers.",
+"Resembling a grandfather."
+],
+"ety": "From grandfather + -ly (adjectival suffix).",
+"examples": [
+"No one among the 25 wealthiest avoided as much tax as Buffett, the grandfatherly centibillionaire."
+],
+"p": null
+},
+{
+"w": "homeopathic",
+"pos": "adjective",
+"senses": [
+"Extremely dilute, insipid."
+],
+"ety": "From homeo- (“similar”) + -pathic (“suffering, disease”).",
+"examples": [],
+"p": null
+},
+{
+"w": "distributee",
+"pos": "noun",
+"senses": [
+"One who receives a share of something that is distributed."
+],
+"ety": "From distribute + -ee.",
+"examples": [],
+"p": null
+},
+{
+"w": "warty",
+"pos": "adjective",
+"senses": [
+"Having warts.",
+"Similar to a wart."
+],
+"ety": "From Middle English varty, equivalent to wart + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "roundish",
+"pos": "adjective",
+"senses": [
+"Somewhat round."
+],
+"ety": "From round + -ish.",
+"examples": [
+"Leaflets 9-11, roundish, of a firm texture, the lowest pair smaller than the rest, glaucous.",
+"A doorknob of whatever roundish shape is effectively a continuum of levers, with the axis of the latching mechanism—known as the spindle—being the fulcrum about which the turning takes place."
+],
+"p": null
+},
+{
+"w": "witney",
+"pos": "noun",
+"senses": [
+"A kind of woollen cloth."
+],
+"ety": "After Witney in Oxfordshire, where it was made.",
+"examples": [],
+"p": null
+}
+]

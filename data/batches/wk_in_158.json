@@ -1,0 +1,435 @@
+[
+{
+"w": "handcar",
+"pos": "noun",
+"senses": [
+"A light railroad car propelled by a hand-operated pumping mechanism"
+],
+"ety": "From hand + car.",
+"examples": [
+"A small handcar rested on the tracks, its iron pump waiting for a human touch to animate it."
+],
+"p": null
+},
+{
+"w": "lardo",
+"pos": "noun",
+"senses": [
+"A type of salumi made by curing strips of fatback with rosemary and other herbs and spices."
+],
+"ety": "Borrowed from Italian lardo. Doublet of lard.",
+"examples": [],
+"p": "LAR-doh"
+},
+{
+"w": "fibrillating",
+"pos": "adjective",
+"senses": [
+"Splitting into fibrils or fibres.",
+"Of a muscle, especially in the heart: undergoing fibrillation; quivering."
+],
+"ety": "From fibrillate + -ing.",
+"examples": [
+"A publicity plane flew along the Croisette, its pennant fluttering like the trace of a fibrillating heart, unnoticed by the sunbathers stretched in their loungers in the hotel concessions."
+],
+"p": null
+},
+{
+"w": "raptorial",
+"pos": "adjective",
+"senses": [
+"Like or resembling a raptor; seizing or plundering, like a bird of prey."
+],
+"ety": "From raptor + -ial.",
+"examples": [
+"When its legs are extended, it measures one and a half inches wide, and the raptorial claws hint that it is a fierce predator."
+],
+"p": null
+},
+{
+"w": "tentacle",
+"pos": "noun",
+"senses": [
+"An insidious reach or influence.",
+"Something like a zoological limb."
+],
+"ety": "From New Latin tentāculum, from tentō. Doublet of tentaculum.",
+"examples": [],
+"p": "TEN-tuh-kul"
+},
+{
+"w": "parasitology",
+"pos": "noun",
+"senses": [
+"The study of parasites."
+],
+"ety": "From parasite + -ology.",
+"examples": [],
+"p": null
+},
+{
+"w": "crewman",
+"pos": "noun",
+"senses": [
+"A member of a crew, especially the crew of a ship."
+],
+"ety": "From crew + -man.",
+"examples": [
+"Next year this service is to be operated entirely by automatic control, though the trains will carry at least one crewman."
+],
+"p": null
+},
+{
+"w": "surrealism",
+"pos": "noun",
+"senses": [
+"An artistic movement and an aesthetic philosophy that aims for the liberation of the mind by emphasizing the critical and imaginative powers of the subconscious.",
+"Art with a surreal aesthetic or narrative, regardless of whether or not it is linked to the surrealist movement."
+],
+"ety": "Borrowed from French surréalisme. By surface analysis, sur- + realism or surreal + -ism.",
+"examples": [],
+"p": "suh-REE-ul-iz-um"
+},
+{
+"w": "limeade",
+"pos": "noun",
+"senses": [
+"A (variety of) citrus drink made from water, sugar, and the juice of limes.",
+"A serving of this drink."
+],
+"ety": "From lime + -ade.",
+"examples": [],
+"p": "LY-mayd"
+},
+{
+"w": "kidderminster",
+"pos": "noun",
+"senses": [
+"A type of two-ply carpet."
+],
+"ety": "From Kidderminster, the English town where they were once manufactured.",
+"examples": [],
+"p": null
+},
+{
+"w": "charmeuse",
+"pos": "noun",
+"senses": [
+"A fine semi-lustrous crepe in satin weave."
+],
+"ety": "Borrowed from French charmeuse.",
+"examples": [
+"Her exquisite figure was enhanced by a wonderful gown of indigo charmeuse."
+],
+"p": null
+},
+{
+"w": "interdict",
+"pos": "noun",
+"senses": [
+"An injunction."
+],
+"ety": "From Middle English entrediten, from Old French entredire (“forbid”), from Latin interdīcō (“prohibit, forbid”), from inter- (“between”) + dīcō (“say”), from Proto-Indo-European *deyḱ-.",
+"examples": [],
+"p": "IN-ter-dikt"
+},
+{
+"w": "doughty",
+"pos": "adjective",
+"senses": [
+"Catachresis for dowdy."
+],
+"ety": "The adjective is derived from Middle English doughty (“brave, bold, valiant”), from Old English dohtiġ, dyhtiġ (“competent, good, strong, valiant”), from Proto-West Germanic *duhtīg. The English word may be analysed as dought + -y, and is cognate with Scots douchty, douchtie (“bold, valiant”), Dutch duchtig (“severe, strict”), German tüchtig (“capable, competent, efficient; big; hard”), Danish dygtig (“virtuous, proficient”), Swedish duktig (“efficient; good; capable, clever, smart”), Icelandic dygðugur (“virtuous, stable”). The noun is derived from the adjective.",
+"examples": [],
+"p": "DOW-tee"
+},
+{
+"w": "pollie",
+"pos": "noun",
+"senses": [
+"A politician."
+],
+"ety": "From politician + -ie (“diminutive suffix”).",
+"examples": [
+"I think politics attracts a particular type of person – and I don′t think I′m one of those. The pollies certainly need to be very dedicated and to be prepared to invest huge amounts of their time.",
+"On another surveillance flight I accompanied a prominent pollie of the day, a big, bluff, ruddy-faced Minister."
+],
+"p": null
+},
+{
+"w": "habitant",
+"pos": "noun",
+"senses": [
+"A member of a habitation colony at Stadacona founded by Samuel de Champlain, where Quebec City now lies."
+],
+"ety": "From French habitant.",
+"examples": [],
+"p": "ah-bee-tah"
+},
+{
+"w": "monodrama",
+"pos": "noun",
+"senses": [
+"A play in the form of a monologue"
+],
+"ety": "From mono- + drama.",
+"examples": [],
+"p": null
+},
+{
+"w": "mesto",
+"pos": "adjective",
+"senses": [
+"sad, mournful"
+],
+"ety": "Borrowed from Italian mesto and used as a tempo mark.",
+"examples": [],
+"p": null
+},
+{
+"w": "lebensraum",
+"pos": "noun",
+"senses": [
+"Hitherto unoccupied “living space” claimed as one’s rightful domain."
+],
+"ety": "A generalised use of Lebensraum.",
+"examples": [],
+"p": null
+},
+{
+"w": "ronin",
+"pos": "noun",
+"senses": [
+"A masterless samurai (who often becomes a mercenary to make ends meet)."
+],
+"ety": "From Japanese 浪人 (rōnin), in turn from Middle Chinese 浪人 (MC langH nyin, “dissolute, wasteful, unrestrained + person”).",
+"examples": [
+"Back at Asano’s home in Ako, his chancellor, Oishi (Tatsuo Ichikawa), rallies the samurai, now known as ronin because they are without a master, in a campaign to avenge Asano and restore his clan’s honor."
+],
+"p": null
+},
+{
+"w": "muffuletta",
+"pos": "noun",
+"senses": [
+"A type of Sicilian sesame bread.",
+"A type of sandwich, typically made in New Orleans and containing layers of olive salad, mozzarella and meats, made using that bread.",
+"A kind of olive salad made with giardiniera."
+],
+"ety": "From Sicilian, diminutive of muffe (“mold, mushroom”), perhaps due to the appearance of the round sandwich bread being reminiscent of a mushroom cap.",
+"examples": [],
+"p": null
+},
+{
+"w": "jamun",
+"pos": "noun",
+"senses": [
+"Synonym of jambul."
+],
+"ety": "From Hindi जामुन (jāmun).",
+"examples": [],
+"p": null
+},
+{
+"w": "chimeric",
+"pos": "adjective",
+"senses": [
+"Like a chimera.",
+"Imaginary, fanciful."
+],
+"ety": "From chimera + -ic.",
+"examples": [],
+"p": "kih-MAIR-ik"
+},
+{
+"w": "animacy",
+"pos": "noun",
+"senses": [
+"The state of being animate (alive or supernaturally seeming alive)."
+],
+"ety": "From animate + -cy.",
+"examples": [
+"These may differ radically in their linguistic animacy, as briefly discussed above, without this having any consequences for their biological animacy."
+],
+"p": null
+},
+{
+"w": "intratracheal",
+"pos": "adjective",
+"senses": [
+"Within the trachea"
+],
+"ety": "From intra- + tracheal.",
+"examples": [],
+"p": null
+},
+{
+"w": "despoliation",
+"pos": "noun",
+"senses": [
+"A stripping or plundering; spoliation."
+],
+"ety": "From Latin dēspoliātiō, from dēspoliō.",
+"examples": [],
+"p": null
+},
+{
+"w": "fauvism",
+"pos": "noun",
+"senses": [
+"An artistic movement of the first decade of the 20th century which emphasized spontaneity and the use of extremely bright colors."
+],
+"ety": "From French fauvisme, attributed to French art critic Louis Vauxcelles.",
+"examples": [],
+"p": null
+},
+{
+"w": "monophasic",
+"pos": "adjective",
+"senses": [
+"of, related to or affected with monophasia",
+"having a single phase"
+],
+"ety": "From mono- + phasic.",
+"examples": [],
+"p": null
+},
+{
+"w": "mussy",
+"pos": "adjective",
+"senses": [
+"Having been mussed: messy, rumpled."
+],
+"ety": "From muss + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "paratyphoid",
+"pos": "adjective",
+"senses": [
+"Resembling typhoid."
+],
+"ety": "From para- + typhoid.",
+"examples": [],
+"p": null
+},
+{
+"w": "purply",
+"pos": "adjective",
+"senses": [
+"Of or having somewhat of a purple color or hue."
+],
+"ety": "From purple + -y.",
+"examples": [],
+"p": "PUR-puh-lee"
+},
+{
+"w": "allophone",
+"pos": "noun",
+"senses": [
+"A person whose mother tongue is one other than that spoken by the majority."
+],
+"ety": "From allo- (“different”) + -phone.",
+"examples": [],
+"p": "AL-uh-fohn"
+},
+{
+"w": "aonach",
+"pos": "noun",
+"senses": [
+"An ancient Irish public national assembly called upon the death of a king, queen, notable sage or warrior as part of ancestor-worship practices."
+],
+"ety": "From Irish aonach, from Old Irish óenach, from óen (“one”).",
+"examples": [],
+"p": null
+},
+{
+"w": "evacuee",
+"pos": "noun",
+"senses": [
+"A person who has been evacuated, especially a civilian evacuated from a dangerous place in time of war"
+],
+"ety": "From French évacué, évacuée, from évacuer, equivalent to evacu(ate) + -ee.",
+"examples": [],
+"p": "ih-vak-yoo-EE"
+},
+{
+"w": "maned",
+"pos": "adjective",
+"senses": [
+"Having a (specified form of) mane."
+],
+"ety": "From mane + -ed.",
+"examples": [],
+"p": "maynd"
+},
+{
+"w": "brainbox",
+"pos": "noun",
+"senses": [
+"The cavity of the skull in which the brain is contained."
+],
+"ety": "From brain + box.",
+"examples": [],
+"p": "BRAYN-boks"
+},
+{
+"w": "danwei",
+"pos": "noun",
+"senses": [
+"A Chinese state-run socialist work cooperative, institution, organisation or government department"
+],
+"ety": "From the Hanyu Pinyin romanization of the Mandarin Chinese pronunciation for 單位／单位 (dānwèi).",
+"examples": [],
+"p": "dahn-WAY"
+},
+{
+"w": "deleter",
+"pos": "noun",
+"senses": [
+"One who, or that which, deletes."
+],
+"ety": "From delete + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "shellacked",
+"pos": "adjective",
+"senses": [
+"Coated in shellac."
+],
+"ety": "From shellac + -ed.",
+"examples": [
+"At Boy Bar, the bouncers, two tall, emaciated young men with shellacked hair under their bowler hats, were standing just inside the door to escape the cold."
+],
+"p": null
+},
+{
+"w": "abrade",
+"pos": "verb",
+"senses": [
+"To rub or wear off; erode.",
+"To wear down or exhaust, as a person; irritate.",
+"To irritate by rubbing; chafe.",
+"To cause the surface to become more rough.",
+"To undergo abrasion."
+],
+"ety": "From Latin abrādō (“scrape off”), from ab (“from, away from”) + rādō (“scrape”). First attested in 1677.",
+"examples": [],
+"p": "uh-BRAYD"
+},
+{
+"w": "cryosphere",
+"pos": "noun",
+"senses": [
+"All those areas of the Earth where the surface is frozen."
+],
+"ety": "From cryo- + -sphere.",
+"examples": [
+"Climate change has a strong effect on the cryosphere."
+],
+"p": null
+}
+]

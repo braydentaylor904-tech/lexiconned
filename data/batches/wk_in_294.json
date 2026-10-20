@@ -1,0 +1,442 @@
+[
+{
+"w": "igloo",
+"pos": "noun",
+"senses": [
+"A dome-shaped Inuit shelter, constructed of blocks cut from snow.",
+"A kind of airfreight cargo container."
+],
+"ety": "From Inuktitut ᐃᒡᓗ (iclo, “house, building (of any kind)”), from Proto-Inuit *ǝɣlu, from Proto-Eskimo *ǝŋlu.",
+"examples": [],
+"p": "IG-loo"
+},
+{
+"w": "mamaji",
+"pos": "noun",
+"senses": [
+"mother's brother; maternal uncle"
+],
+"ety": "From mama + -ji.",
+"examples": [],
+"p": null
+},
+{
+"w": "copter",
+"pos": "noun",
+"senses": [
+"A helicopter."
+],
+"ety": "Clipping of helicopter; see also -copter § Etymology.",
+"examples": [],
+"p": "KAHP-ter"
+},
+{
+"w": "sociotechnical",
+"pos": "adjective",
+"senses": [
+"Having both social/sociological and technical/technological aspects"
+],
+"ety": "From socio- + technical.",
+"examples": [],
+"p": null
+},
+{
+"w": "lazzo",
+"pos": "noun",
+"senses": [
+"A stock comedic routine or physical action, traditionally associated with commedia dell'arte."
+],
+"ety": "Borrowed from Italian lazzo.",
+"examples": [],
+"p": null
+},
+{
+"w": "speel",
+"pos": "verb",
+"senses": [
+"To talk at length, to spiel."
+],
+"ety": "From English dialectal speel (“talk; lingo; patter”), short for bonspiel. Related to spiel.",
+"examples": [
+"Old Saxon, who was so sweet and gentle despite his long years on the halls, smiled at me and suggested I should do some speeling. Yedo gave me a megaphone. I held it to my mouth but there was silence."
+],
+"p": null
+},
+{
+"w": "sasaeng",
+"pos": "noun",
+"senses": [
+"An extremely obsessive K-pop fan whose fixation on an idol is unhealthy and intrusive."
+],
+"ety": "Borrowed from Korean 사생팬 (sasaengpaen), from 사생(私生) (sasaeng, “private life”) + 팬 (paen, “fan”).",
+"examples": [
+"BTS sasaeng have obtained their schedules, passports and other personal information and offered to sell it online.",
+"The interviewed sasaengs explained how they operated and what they are willing to do to get as close to their idols as possible.",
+"She knew the guys were chased by tabloids and sasaengs regularly, but there were certain situations where they no doubt upped their game in pursuit of a juicy scoop."
+],
+"p": null
+},
+{
+"w": "parthenogenesis",
+"pos": "noun",
+"senses": [
+"figurative uses of the biological senses"
+],
+"ety": "From partheno- + -genesis, from Ancient Greek παρθένος (parthénos, “virgin”) and γένεσις (génesis, “origin, creation, generation”).",
+"examples": [],
+"p": "par-thih-noh-JEN-ih-sis"
+},
+{
+"w": "adrenoceptor",
+"pos": "noun",
+"senses": [
+"adrenergic receptor"
+],
+"ety": "From adreno- + -ceptor.",
+"examples": [],
+"p": null
+},
+{
+"w": "tatou",
+"pos": "noun",
+"senses": [
+"The giant armadillo (Priodontes maximus)"
+],
+"ety": "From Old Tupi tatu (“armadillo”), possibly via French. Compare tatouay.",
+"examples": [],
+"p": null
+},
+{
+"w": "vocaloid",
+"pos": "noun",
+"senses": [
+"An artificial singer (a voicebank, usually with an avatar) based on the Vocaloid engine.",
+"Music that uses singing voice synthesizers (particularly those based on Vocaloid)."
+],
+"ety": "From Vocaloid, from Japanese VOCALOID(ボーカロイド) (bōkaroido), from English vocal + -oid.",
+"examples": [
+"Vocaloid producers often own multiple vocaloids and use them together in a single song."
+],
+"p": null
+},
+{
+"w": "prepreg",
+"pos": "noun",
+"senses": [
+"Fiber material impregnated with its matrix material, usually a plastic, well before its use to form a manufactured part."
+],
+"ety": "Clipping of pre-impregnated.",
+"examples": [],
+"p": null
+},
+{
+"w": "corvus",
+"pos": "noun",
+"senses": [
+"A hooked ram for destroying walls.",
+"A grappling hook in Ancient Roman naval warfare."
+],
+"ety": "From Latin corvus (“crow”), named for the resemblance to a crow's beak.",
+"examples": [],
+"p": null
+},
+{
+"w": "borderer",
+"pos": "noun",
+"senses": [
+"A soldier of a border regiment in the British Army (Border Regiment, South Wales Borderers, King's Own Scottish Borderers)."
+],
+"ety": "From border + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "protuberant",
+"pos": "adjective",
+"senses": [
+"Swelling or bulging outward."
+],
+"ety": "Latin protuberans, protuberantis, present participle of protuberare. See protuberate.",
+"examples": [],
+"p": null
+},
+{
+"w": "askew",
+"pos": "adjective",
+"senses": [
+"Turned or twisted to one side.",
+"Untoward, unfavourable."
+],
+"ety": "From a- + skew.",
+"examples": [],
+"p": "uh-SKYOO"
+},
+{
+"w": "impalement",
+"pos": "noun",
+"senses": [
+"The act of torturing or executing someone by impaling them on a sharp stake.",
+"The joining of two coats of arms on one shield.",
+"A space fenced in, such as by palings, possibly in the form of an enclosure or cup."
+],
+"ety": "From Middle French empalement; equivalent to impale + -ment.",
+"examples": [],
+"p": null
+},
+{
+"w": "bittercress",
+"pos": "noun",
+"senses": [
+"Barbarea vulgaris (garden yellowrocket), a biennial herb native to Europe."
+],
+"ety": "From bitter + cress.",
+"examples": [],
+"p": null
+},
+{
+"w": "heathy",
+"pos": "adjective",
+"senses": [
+"Resembling heath.",
+"Abounding in heath."
+],
+"ety": "From heath + -y.",
+"examples": [
+"The country consists of elevated sandy downs covered with heathy bushes and a few small banksia trees, it being only on the alluvial flats of the river that there is any grass or good soil.",
+"The hills here, and indeed all the heathy grounds in general, abound with the sweet-smelling plant which the Highlanders call gaul, and (I think) with dwarf juniper in many places."
+],
+"p": null
+},
+{
+"w": "blacker",
+"pos": "noun",
+"senses": [
+"One who blacks (in various senses).",
+"Someone who creates black MIDI music."
+],
+"ety": "From black + -er.",
+"examples": [],
+"p": "BLAK-er"
+},
+{
+"w": "chitty",
+"pos": "adjective",
+"senses": [
+"Full of chits or sprouts.",
+"Afflicted with warts or pimples."
+],
+"ety": "From chit (“sprout”) + -y.",
+"examples": [],
+"p": "CHIT-ee"
+},
+{
+"w": "deemer",
+"pos": "noun",
+"senses": [
+"One who deems or judges; a decider, decision maker."
+],
+"ety": "From Middle English demere, from Old English dēmere (“a judge”), equivalent to deem + -er.",
+"examples": [
+"The discomfort propelled many of us to shift from being the deemers and certifiers of Truth, to being the facilitators of inquiry processes for others to come to their own truths-for-the-purposes."
+],
+"p": null
+},
+{
+"w": "trochaic",
+"pos": "adjective",
+"senses": [
+"Composed of or relating to trochees, feet of one stressed syllable followed by an unstressed syllable."
+],
+"ety": "Either via the French trochaïque or directly from its etymon, the Latin trochaicus, from the Ancient Greek τροχαικός (trokhaikós), from τροχαῖος (trokhaîos), whence trochee.",
+"examples": [],
+"p": "truh-KAY-ik"
+},
+{
+"w": "microdissection",
+"pos": "noun",
+"senses": [
+"A dissection using a microscope and very fine instruments."
+],
+"ety": "From micro- + dissection.",
+"examples": [
+"Dr. O’Connell set out to investigate the full anatomy of the clitoris using microdissection and magnetic resonance imaging."
+],
+"p": null
+},
+{
+"w": "animality",
+"pos": "noun",
+"senses": [
+"The nature of an animal.",
+"The animal kingdom.",
+"Any characteristic of animality."
+],
+"ety": "From French animalité or its etymon Late Latin animālitās. By surface analysis, animal + -ity.",
+"examples": [
+"For good reason military leaders attempt to instill in their troops beliefs about the nonhumanity—the bestiality or animality or verminlike character—of the enemy."
+],
+"p": null
+},
+{
+"w": "terminable",
+"pos": "adjective",
+"senses": [
+"Able to be terminated.",
+"Having an ending; finite."
+],
+"ety": "From Middle English terminable (“resolvable”), from Anglo-Norman and Middle French terminable and their etymon Latin terminābilis. By surface analysis, termine + -able.",
+"examples": [
+"Is the contract rescindable? — Yes, it's terminable at any time."
+],
+"p": null
+},
+{
+"w": "fonds",
+"pos": "noun",
+"senses": [
+"The entire collection of the records originating from the same creator; an archive term used to describe a collection of papers that originate from the same source."
+],
+"ety": "From French fonds. Doublet of fund.",
+"examples": [],
+"p": null
+},
+{
+"w": "cognitivism",
+"pos": "noun",
+"senses": [
+"The view that ethical sentences express propositions and are therefore capable of being true or false.",
+"The view that a work of art is valuable if it contributes to knowledge.",
+"The view that mental function can be understood as the internal manipulation of symbols according to a set of rules."
+],
+"ety": "From cognitive + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "gamelan",
+"pos": "noun",
+"senses": [
+"A genre of music of Indonesian origin typically featuring metallophones, xylophones, drums, gongs and a bamboo flute (called a suling).",
+"An ensemble performing this style of music."
+],
+"ety": "Borrowed from Javanese gamelan, from Old Javanese gamĕlan.",
+"examples": [],
+"p": "GAM-uh-lan"
+},
+{
+"w": "antlerless",
+"pos": "adjective",
+"senses": [
+"Without antlers."
+],
+"ety": "From antler + -less.",
+"examples": [
+"Hunting season for antlerless deer runs from October 23 to November 6."
+],
+"p": null
+},
+{
+"w": "muzzleloader",
+"pos": "noun",
+"senses": [
+"A variety of firearm in which the weapon is loaded from the end that discharges the projectile (the muzzle)."
+],
+"ety": "From muzzle + loader.",
+"examples": [],
+"p": null
+},
+{
+"w": "classman",
+"pos": "noun",
+"senses": [
+"A member of a class",
+"A classmate.",
+"A candidate for graduation in arts who is placed in an honour class, as opposed to a passman, who is not classified."
+],
+"ety": "From class + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "hillman",
+"pos": "noun",
+"senses": [
+"A supernatural being, such as a dwarf, that lives beneath a hill.",
+"A person employed to sift through a heap of dust and rubbish in search of any saleable items."
+],
+"ety": "From hill + man.",
+"examples": [],
+"p": "HIL-mun"
+},
+{
+"w": "megamix",
+"pos": "noun",
+"senses": [
+"A remix taking the form of a medley, with radical alterations and many constituent pieces of music."
+],
+"ety": "From mega- + mix.",
+"examples": [],
+"p": null
+},
+{
+"w": "quassia",
+"pos": "noun",
+"senses": [
+"The bitter substance quassin extracted from its bark."
+],
+"ety": "From the genus name translingual Quassia, named after Surinamese physician and botanist Graman Quassi.",
+"examples": [],
+"p": "KWAH-shuh"
+},
+{
+"w": "helminth",
+"pos": "noun",
+"senses": [
+"A parasitic worm; a fluke, tapeworm, or nematode."
+],
+"ety": "From Ancient Greek ἕλμινς (hélmins, “intestinal worm”).",
+"examples": [],
+"p": "HEL-minth"
+},
+{
+"w": "bankes",
+"pos": "noun",
+"senses": [
+"cupping glasses"
+],
+"ety": "Borrowed from Yiddish באַנקעס (bankes).",
+"examples": [],
+"p": null
+},
+{
+"w": "destructor",
+"pos": "noun",
+"senses": [
+"A furnace or oven for the burning or carbonizing of refuse.",
+"A function that runs when an object is no longer required, used to release any resources that it was using."
+],
+"ety": "From destruct + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "cleary",
+"pos": "noun",
+"senses": [
+"A clear marble (sphere used in games), usually colored, but without decoration or design."
+],
+"ety": "From clear + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "urnfield",
+"pos": "noun",
+"senses": [
+"Ground used as a cemetery in Bronze Age Europe, in which the ashs of cremations were buried in cinerary urns."
+],
+"ety": "From urn + field.",
+"examples": [],
+"p": null
+}
+]

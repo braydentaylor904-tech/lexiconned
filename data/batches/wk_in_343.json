@@ -1,0 +1,423 @@
+[
+{
+"w": "rainout",
+"pos": "noun",
+"senses": [
+"Something which has been cancelled due to interfering rain.",
+"Such a cancellation.",
+"Nuclear fallout deposited by means of rain."
+],
+"ety": "From rain + out.",
+"examples": [
+"A rainout on the season's second game would be, to say the least, unconvenient."
+],
+"p": null
+},
+{
+"w": "colcannon",
+"pos": "noun",
+"senses": [
+"A traditional Irish dish made from mashed potatoes and cabbage or kale, with scallions, butter, salt and pepper added."
+],
+"ety": "From Irish cál ceannann (literally “white-faced cabbage”).",
+"examples": [],
+"p": null
+},
+{
+"w": "weiqi",
+"pos": "noun",
+"senses": [
+"An ancient Chinese board game, today also popular in Japan and Korea, played with 181 black stones and 180 white ones, typically on a board of 19 × 19 squares."
+],
+"ety": "Transliteration from Mandarin 圍棋／围棋 (wéiqí, literally “encirclement board game”) via Hanyu Pinyin.",
+"examples": [],
+"p": "way-CHEE"
+},
+{
+"w": "jawbone",
+"pos": "noun",
+"senses": [
+"The bone of the lower jaw; the mandible."
+],
+"ety": "From Middle English jawe bone, a partial calque of earlier Middle English chawlbone, chawylbon, chavylbone, chawle boon, chavyl bon (“jaw bone”, literally “chavel bone”), see chavel-bone; equivalent to jaw + bone.",
+"examples": [],
+"p": null
+},
+{
+"w": "chedi",
+"pos": "noun",
+"senses": [
+"A Thai Buddhist monument similar to a stupa."
+],
+"ety": "From Thai เจดีย์ (jee-dii), from Pali cetiya (Devanagari spelling: चेतिय (cetiya)), from Sanskrit चैत्य (caitya, “hall, temple, or place of worship”).",
+"examples": [],
+"p": null
+},
+{
+"w": "definitional",
+"pos": "adjective",
+"senses": [
+"Used to define something."
+],
+"ety": "From definition + -al.",
+"examples": [],
+"p": null
+},
+{
+"w": "barbarianism",
+"pos": "noun",
+"senses": [
+"A primitive or simplistic ethos or societal condition; barbarism.",
+"Behaviour appropriate to a barbarian, that is uncivilized, brutal, or crude."
+],
+"ety": "From barbarian + -ism.",
+"examples": [
+"Some postulate that after a nuclear war, humanity would fall into a state of barbarianism.",
+"The teacher accused the bullies of barbarianism when she caught them taunting the girl in a wheelchair."
+],
+"p": null
+},
+{
+"w": "kettlebell",
+"pos": "noun",
+"senses": [
+"A weight consisting of a cast iron ball with a single handle for gripping the weight during exercise."
+],
+"ety": "From kettle + bell.",
+"examples": [],
+"p": "KET-ul-bel"
+},
+{
+"w": "belittlement",
+"pos": "noun",
+"senses": [
+"An act of belittling."
+],
+"ety": "From belittle + -ment.",
+"examples": [],
+"p": null
+},
+{
+"w": "airbox",
+"pos": "noun",
+"senses": [
+"The chamber in a car or motorcycle engine that draws in air and distributes it to the carburettors."
+],
+"ety": "From air + box.",
+"examples": [],
+"p": null
+},
+{
+"w": "shikumen",
+"pos": "noun",
+"senses": [
+"An architectural style found in Shanghai, China, consisting of two or three floors and a front yard protected by high walls."
+],
+"ety": "From Mandarin 石库门 (shíkùmén).",
+"examples": [],
+"p": null
+},
+{
+"w": "spiracle",
+"pos": "noun",
+"senses": [
+"A pore or opening used (especially by arthropods and some fish) for respiration.",
+"Any small aperture or vent for air or other fluid."
+],
+"ety": "From Latin spiraculum, from spirare (“to breathe”).",
+"examples": [],
+"p": "SPEE-ruh-kul"
+},
+{
+"w": "conscript",
+"pos": "noun",
+"senses": [
+"One who is compulsorily enrolled, often into a military service; a draftee."
+],
+"ety": "From Latin cōnscriptus, perfect passive participle of cōnscrībō (“write together; enroll”).",
+"examples": [],
+"p": "KAHN-skript"
+},
+{
+"w": "kanuka",
+"pos": "noun",
+"senses": [
+"Kunzea ericoides, the white tea tree of Australia and New Zealand, which can grow at high altitudes and in close proximity to geothermal features such as fumaroles."
+],
+"ety": "Borrowed from Māori kānuka.",
+"examples": [],
+"p": null
+},
+{
+"w": "lapin",
+"pos": "noun",
+"senses": [
+"A castrated male rabbit."
+],
+"ety": "Borrowed from French lapin (“rabbit”).",
+"examples": [],
+"p": null
+},
+{
+"w": "fontanelle",
+"pos": "noun",
+"senses": [
+"A structural component of some woodwind instruments, such as recorders and shawms, resembling a barrel with holes bored into it, designed to protect the keywork and to allow the sound to project."
+],
+"ety": "Borrowed from French fontanelle, from Old French fontenelle, a diminutive of fontaine (“fountain, spring”) + -elle, from Late Latin fontāna, from Latin fontānus, from font- + -ānus. By surface analysis, font + -an + -elle.",
+"examples": [],
+"p": null
+},
+{
+"w": "doodly",
+"pos": "adjective",
+"senses": [
+"Like a doodle; scribbly."
+],
+"ety": "From doodle + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "zoophilia",
+"pos": "noun",
+"senses": [
+"A paraphilia involving the sexual attraction of people to non-human animals."
+],
+"ety": "From zoo- + -philia.",
+"examples": [],
+"p": "ZOH-uh-fee-lee-uh"
+},
+{
+"w": "corsetry",
+"pos": "noun",
+"senses": [
+"The collective noticeable portion of a corset."
+],
+"ety": "From corset + -ry.",
+"examples": [
+"Henry puts his hands on my waist and expresses surprise at all the boning and corsetry under the silk."
+],
+"p": null
+},
+{
+"w": "heartwrenching",
+"pos": "adjective",
+"senses": [
+"Having a painful emotional impact; causing grief or distress."
+],
+"ety": "From heart + wrenching.",
+"examples": [
+"The interview with Sarah Mohess was both heartwrenching and inspiring."
+],
+"p": null
+},
+{
+"w": "westernize",
+"pos": "verb",
+"senses": [
+"To render something western in character."
+],
+"ety": "From western + -ize.",
+"examples": [
+"This was Joseph Needham's famous paradox. Why did China, with its ideals of spreading Confucian virtues across the world, fail to “Sinicise” the surrounding world and instead allow itself to be westernised?",
+"Users on Chinese social media expressed anger that the Netflix adaptation Westernized aspects of the story, and said the show sought to demonize some of the Chinese characters."
+],
+"p": null
+},
+{
+"w": "chameli",
+"pos": "noun",
+"senses": [
+"jasmine (Jasminum)"
+],
+"ety": "Borrowed from Hindi चमेली (camelī).",
+"examples": [],
+"p": null
+},
+{
+"w": "acanthus",
+"pos": "noun",
+"senses": [
+"An ornament resembling the foliage or leaves of Acanthus spinosus, used in the capitals of the Corinthian and composite orders."
+],
+"ety": "From Latin acanthus, from Ancient Greek ἄκανθος (ákanthos, “thorn”), from ἀκή (akḗ, “point”) + ἄνθος (ánthos, “flower”).",
+"examples": [],
+"p": "uh-KAN-thus"
+},
+{
+"w": "tabor",
+"pos": "noun",
+"senses": [
+"A small drum.",
+"In traditional music, a small drum played with a single stick, leaving the player's other hand free to play a melody on a three-holed pipe."
+],
+"ety": "From Middle English, from Old French tabour, from Arabic طُنْبُور (ṭunbūr), ultimately from the Middle Persian ancestor of Classical Persian تنبور (tanbūr). Doublet of tambour and tanbur.",
+"examples": [],
+"p": "TAY-ber"
+},
+{
+"w": "opiate",
+"pos": "adjective",
+"senses": [
+"Soporific; inducing sleep or sedation.",
+"Deadening; causing apathy or dullness."
+],
+"ety": "From Middle English opiate, from Medieval Latin opiātus.",
+"examples": [],
+"p": "OH-pee-ut"
+},
+{
+"w": "cutwater",
+"pos": "noun",
+"senses": [
+"The wedge of a bridge pier, that resists the flow of water and ice."
+],
+"ety": "From cut + water.",
+"examples": [],
+"p": null
+},
+{
+"w": "contraflow",
+"pos": "noun",
+"senses": [
+"Flow in the opposite direction to normal.",
+"An abnormal state of a road or motorway where the traffic temporarily travels in the opposite direction to normal, usually as a result of repair work or an accident."
+],
+"ety": "From contra- + flow.",
+"examples": [],
+"p": null
+},
+{
+"w": "upholsterer",
+"pos": "noun",
+"senses": [
+"One who upholsters furniture, especially a trained craftsman who does so as an occupation."
+],
+"ety": "From upholster + -er, from Middle English upholdester, upholster, from Middle English upholder (“dealer in small goods”), from upholden (“to repair, uphold”). By surface analysis, uphold + -ster + -er.",
+"examples": [],
+"p": "up-HOHL-ster-er"
+},
+{
+"w": "honeydew",
+"pos": "adjective",
+"senses": [
+"Of a light green colour, like the flesh of some honeydew melons."
+],
+"ety": "The noun is derived from honey + dew, originally believed to be a form of dew that fell from the sky like rain onto plants (see sense 1). The adjective is derived from the noun.",
+"examples": [],
+"p": "HUN-ee-dyoo"
+},
+{
+"w": "smolt",
+"pos": "noun",
+"senses": [
+"A young salmon two or three years old, when it has acquired its silvery color."
+],
+"ety": "Probably an alteration of smelt, due to smolt (“smooth”).",
+"examples": [],
+"p": "smohlt"
+},
+{
+"w": "rightist",
+"pos": "noun",
+"senses": [
+"One who believes in the politics or policies of the political right.",
+"One who supports the rights of a specified group."
+],
+"ety": "From right + -ist.",
+"examples": [],
+"p": "RY-tist"
+},
+{
+"w": "octocopter",
+"pos": "noun",
+"senses": [
+"An unmanned rotorcraft having eight rotors."
+],
+"ety": "From octo- (“eight”) + -copter (“helicopter-like”).",
+"examples": [],
+"p": null
+},
+{
+"w": "schottische",
+"pos": "noun",
+"senses": [
+"Music for the schottische."
+],
+"ety": "From German schottische (“Scottish”), as in der schottische Tanz (“the Scottish dance”). First attested in 1849. Doublet of Scottish, Scotch, and Scots. The Oxford English Dictionary comments that the “quasi-French pronunciation […] has no justification”.",
+"examples": [],
+"p": "SHAH-dish"
+},
+{
+"w": "sweller",
+"pos": "noun",
+"senses": [
+"One who, or that which, swells."
+],
+"ety": "From swell + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "mitra",
+"pos": "noun",
+"senses": [
+"A person who is interested in becoming a Buddhist and elects to join a Buddhist community to learn more."
+],
+"ety": "Transliteration of Sanskrit मित्र (mitrá, “friend”).",
+"examples": [],
+"p": null
+},
+{
+"w": "cleanout",
+"pos": "noun",
+"senses": [
+"An opening or drain leading into a plumbing system to provide a location to insert a snake or other implement for cleaning.",
+"A thorough cleaning that removes everything removable."
+],
+"ety": "Deverbal from clean out.",
+"examples": [],
+"p": null
+},
+{
+"w": "jawar",
+"pos": "noun",
+"senses": [
+"Sorghum, Indian millet (Sorghum bicolor)."
+],
+"ety": "From Hindi जवार (javār).",
+"examples": [],
+"p": null
+},
+{
+"w": "puberulent",
+"pos": "adjective",
+"senses": [
+"Covered in soft, downy hairs."
+],
+"ety": "From the Latin puberulentus, see puber (“downy, adult”), -ulentus (“abounding in”).",
+"examples": [],
+"p": null
+},
+{
+"w": "commissionerate",
+"pos": "noun",
+"senses": [
+"Part of a district placed under the control of a police commissioner."
+],
+"ety": "From commissioner + -ate (forms nouns denoting a rank or office, here the concrete charge of it).",
+"examples": [],
+"p": null
+},
+{
+"w": "pompom",
+"pos": "noun",
+"senses": [
+"A ball made of pieces of soft fabric, tinsel, plastic, or paper streamers, tied together in the middle and left loose at the ends, used as decoration or as a showy prop for cheerleading."
+],
+"ety": "Alteration of pompon, from French pompon (“ornamental tuft”); of unknown origin, perhaps related to Old French pomp.",
+"examples": [],
+"p": "PAHM-pahm"
+}
+]

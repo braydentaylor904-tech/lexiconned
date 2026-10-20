@@ -1,0 +1,441 @@
+[
+{
+"w": "splined",
+"pos": "adjective",
+"senses": [
+"Having a spline or splines."
+],
+"ety": "From spline + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "polypore",
+"pos": "noun",
+"senses": [
+"Any of a group of tough, leathery poroid mushrooms similar to boletes but typically lacking a distinct stalk."
+],
+"ety": "From poly- + pore.",
+"examples": [],
+"p": null
+},
+{
+"w": "pomace",
+"pos": "noun",
+"senses": [
+"Such residue from apples used in the process of cidermaking; also, a mass of crushed apples before the juice is pressed out.",
+"Such residue from grapes used in winemaking.",
+"Such residue (especially castor bean cake or fish scrap) used as fertilizer."
+],
+"ety": "[Alt: Red grape flesh and seeds] From Late Middle English pomis, pomys (“cider; pulp of plants pressed to extract their juice or oil”), probably from Medieval Latin pōmācium, pōmātium (“cider”), possibly a variant of pomaceum (although first attested later), from Latin pōmum (“fruit; fruit tree”) (ultimately from Proto-Indo-European *h₂epó (“away; off”) + *h₁em- (“to take”), in the sense of something taken off a tree) + -āceum (neuter form of -āceus (suffix meaning ‘belonging to; having the nature of’, forming adjectives)). Doublet of pomade, pomate, and pomatum. Sense 1.1 (“crushed apples”) a",
+"examples": [],
+"p": "PUM-us"
+},
+{
+"w": "biochem",
+"pos": "noun",
+"senses": [
+"Biochemistry (science or industry)."
+],
+"ety": "Clipping of biochemistry. Analyzable as bio- (“biological”) + chem (“chemistry”) or as a clipped compound, bio(logical) chem(istry).",
+"examples": [],
+"p": null
+},
+{
+"w": "rocketry",
+"pos": "noun",
+"senses": [
+"The making and launching of rockets, its science and practice."
+],
+"ety": "From rocket + -ry.",
+"examples": [
+"Sustained research in rocketry had at last succeeded in attaining one of its objectives. It had sent up a missile which stayed up. It was, in fact, possible to fire a rocket far enough up for it to fall into an orbit."
+],
+"p": null
+},
+{
+"w": "crawler",
+"pos": "noun",
+"senses": [
+"A child who is able to creep using its hands and knees but is not able to walk.",
+"A tractor crawler, a motorized vehicle that uses caterpillar tracks instead of wheels.",
+"A software bot that autonomously follows connected paths such as links between web pages.",
+"A mobile stage in the development of stationary hemipteran insects such as scale insects—generally the first instar.",
+"Synonym of crawler crane."
+],
+"ety": "From crawl (“to move slowly, by dragging the body along the ground”) + -er.",
+"examples": [
+"Crawler-based search engines have three major elements. The first is the spider, also called the crawler, which visits a web page, reads it, and then follows links to other pages within the site.",
+"These serve as an algorithmic way to judge the “mobileness” of a site, and similar algorithms are likely to be used by the search crawlers."
+],
+"p": null
+},
+{
+"w": "horologist",
+"pos": "noun",
+"senses": [
+"A person skilled in horology, particularly a person who makes or repairs timekeeping devices."
+],
+"ety": "From horology + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "heterotic",
+"pos": "noun",
+"senses": [
+"A hybrid organism of this kind."
+],
+"ety": "From hetero- + -otic.",
+"examples": [],
+"p": null
+},
+{
+"w": "lowland",
+"pos": "noun",
+"senses": [
+"An area which is considered particularly low or lower than surrounding areas."
+],
+"ety": "From low + land.",
+"examples": [
+"The lowland region was prone to flooding during the rainy season."
+],
+"p": null
+},
+{
+"w": "postbellum",
+"pos": "adjective",
+"senses": [
+"Of the period following a war.",
+"Of the period following the American Civil War, especially used in reference to the South."
+],
+"ety": "From Latin post bellum (literally “after the war”).",
+"examples": [
+"For most Europeans, a postbellum world had seemed the self-evident future, says Finland’s president, Sauli Niinistö."
+],
+"p": null
+},
+{
+"w": "stringybark",
+"pos": "noun",
+"senses": [
+"Any of a number of Australian eucalyptus trees with fibrous bark, or the wood or bark of such trees."
+],
+"ety": "From stringy + bark.",
+"examples": [
+"Two of the younger men carried him there on a stretcher of stringybark."
+],
+"p": null
+},
+{
+"w": "unidimensional",
+"pos": "adjective",
+"senses": [
+"one-dimensional"
+],
+"ety": "From uni- + dimensional.",
+"examples": [],
+"p": null
+},
+{
+"w": "arsonist",
+"pos": "noun",
+"senses": [
+"One who has committed the act of arson, or illegally setting fire to property."
+],
+"ety": "From arson + -ist.",
+"examples": [],
+"p": "AR-suh-nust"
+},
+{
+"w": "gasketed",
+"pos": "adjective",
+"senses": [
+"Fitted with a gasket."
+],
+"ety": "From gasket + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "trillionth",
+"pos": "adjective",
+"senses": [
+"The ordinal form of the number one trillion."
+],
+"ety": "From trillion + -th (ordinal suffix).",
+"examples": [],
+"p": "TRIL-ee-unth"
+},
+{
+"w": "podge",
+"pos": "noun",
+"senses": [
+"A fat person.",
+"Fatness, fat; podginess."
+],
+"ety": "Perhaps from pudsy (“plump”), which could be a diminutive of pud (“child's hand, forepaw”).",
+"examples": [],
+"p": "pahj"
+},
+{
+"w": "metrication",
+"pos": "noun",
+"senses": [
+"A conversion to the use of the metric system; a metrification."
+],
+"ety": "From metric + -ation.",
+"examples": [
+"In these days of decimalization and metrication it is a pity that SI units were not used as this will date a very useful little book prematurely."
+],
+"p": null
+},
+{
+"w": "subscribership",
+"pos": "noun",
+"senses": [
+"The state or condition of being a subscriber."
+],
+"ety": "From subscriber + -ship.",
+"examples": [],
+"p": null
+},
+{
+"w": "haycock",
+"pos": "noun",
+"senses": [
+"A small conical pile of hay, or a heap of hay thrown up in a hayfield while the hay is being cured or awaiting relocation to a haystack or barn."
+],
+"ety": "From Middle English haycok, hacoke, haycoke; equivalent to hay + cock (“conical heap”).",
+"examples": [
+"And then in haste her bow'r she leaves, With Thestylis to bind the sheaves; Or if the earlier season lead To the tann'd haycock in the mead.",
+"And willows, willow-herb, and grass, / And meadowsweet, and haycocks dry, / No whit less still and lonely fair / Than the high cloudlets in the sky."
+],
+"p": null
+},
+{
+"w": "percussionist",
+"pos": "noun",
+"senses": [
+"A trained musician who plays percussion instruments, as opposed to a drummer who lacks formal training."
+],
+"ety": "From percussion + -ist.",
+"examples": [
+"Since the 1960s, the keyboardist, vibraphonist and percussionist Mulatu Astatke has been a prime mover in Ethio-jazz: unmistakably Ethiopian music that also draws on American jazz, Afro-Caribbean music and more."
+],
+"p": null
+},
+{
+"w": "playset",
+"pos": "noun",
+"senses": [
+"A themed collection of similar toys designed to work together to enact some action or event.",
+"A unitary structure for children to play on, typically including a slide, and often swings, ropes to climb on, and other things found as separate structures at public playgrounds."
+],
+"ety": "From play + set.",
+"examples": [
+"Your children can play on the small playset, climb through a hollow log, and draw a picture for all to see."
+],
+"p": null
+},
+{
+"w": "locatable",
+"pos": "adjective",
+"senses": [
+"Capable of being located."
+],
+"ety": "From locate + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "ethnology",
+"pos": "noun",
+"senses": [
+"The branch of anthropology that compares and analyzes different human cultures and the relationships between them."
+],
+"ety": "From ethno- + -logy.",
+"examples": [],
+"p": null
+},
+{
+"w": "hardsub",
+"pos": "noun",
+"senses": [
+"A subtitle that has been burned into a video file's frames."
+],
+"ety": "From \"hardcoded subtitles\".",
+"examples": [],
+"p": null
+},
+{
+"w": "satirist",
+"pos": "noun",
+"senses": [
+"A person who writes satire."
+],
+"ety": "From satire + -ist.",
+"examples": [
+"In one of the Greek satirist Lucian's Dialogues of Courtesans, a conversation takes place between the hetaira Tryphaena and a young client named Charmides."
+],
+"p": null
+},
+{
+"w": "countout",
+"pos": "noun",
+"senses": [
+"The awarding of a match to a wrestler after their opponent has been counted out (usually after ten seconds of being outside the ring) by the referee."
+],
+"ety": "Deverbal from count out.",
+"examples": [],
+"p": null
+},
+{
+"w": "skateboarder",
+"pos": "noun",
+"senses": [
+"A person who rides a skateboard."
+],
+"ety": "From skateboard + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "karoo",
+"pos": "noun",
+"senses": [
+"Any vast prairie bordering a desert."
+],
+"ety": "Originates from the Khoikhoi word karo (meaning dry, and hard)",
+"examples": [],
+"p": "kuh-ROO"
+},
+{
+"w": "potage",
+"pos": "noun",
+"senses": [
+"A thick soup, especially a creamy one."
+],
+"ety": "Borrowed from French potage, and from earlier borrowing pottage.",
+"examples": [],
+"p": null
+},
+{
+"w": "rescission",
+"pos": "noun",
+"senses": [
+"An act of rescinding: removing, taking away, or taking back."
+],
+"ety": "1651, Late Latin rescissio, from Latin rescindō (“to cut back”), from re- (“back”) + scindō (“to cut”).",
+"examples": [],
+"p": "rih-SISH-un"
+},
+{
+"w": "rheumatic",
+"pos": "adjective",
+"senses": [
+"Resembling or relating to rheumatism.",
+"Derived from, or having the character of, rheum; rheumic."
+],
+"ety": "From Middle French rheumatique, from Latin rheumaticus, from Ancient Greek ῥευματικός (rheumatikós), from ῥεῦμα (rheûma, “stream, flow”) from ῥέω (rhéō, “to flow”).",
+"examples": [],
+"p": "roo-MAT-ik"
+},
+{
+"w": "regas",
+"pos": "verb",
+"senses": [
+"To refill (an appliance such as an air-conditioning unit) with the gases needed for operation."
+],
+"ety": "From re- + gas.",
+"examples": [
+"If your air conditioner has stopped working, you may need to regas it."
+],
+"p": null
+},
+{
+"w": "majlis",
+"pos": "noun",
+"senses": [
+"A council, assembly, or public meeting, in some Muslim countries or territories.",
+"The parliament of Iran."
+],
+"ety": "Borrowed from Arabic مَجْلِس (majlis).",
+"examples": [],
+"p": "MAHJ-lis"
+},
+{
+"w": "gematria",
+"pos": "noun",
+"senses": [
+"A cabalistic method of interpreting Hebrew words, based on numerical values of letters."
+],
+"ety": "From Aramaic גִּימַטְרְיָא (gīmāṭrəyā), from Ancient Greek γεωμετρία (geōmetría, “geometry”). Doublet of geometry.",
+"examples": [],
+"p": "gih-MAY-tree-uh"
+},
+{
+"w": "mizuna",
+"pos": "noun",
+"senses": [
+"One of several tangy green vegetables used in Japanese cuisine, usually Brassica rapa var. nipposinica"
+],
+"ety": "Borrowed from Japanese 水菜.",
+"examples": [
+"His cold sesame chicken seasoned with chili is finely shredded and served in carefully wrought clusters around a salad of mizuna."
+],
+"p": null
+},
+{
+"w": "dukhan",
+"pos": "noun",
+"senses": [
+"A small restaurant, tavern or shop in the Caucasus and Crimea."
+],
+"ety": "Ultimately from Arabic دُكَّان (dukkān, “shop”).",
+"examples": [],
+"p": null
+},
+{
+"w": "swordman",
+"pos": "noun",
+"senses": [
+"A swordsman."
+],
+"ety": "From Middle English swerdman; equivalent to sword + -man.",
+"examples": [
+"Worthy fellows, and like to prove most sinewy swordmen"
+],
+"p": null
+},
+{
+"w": "witted",
+"pos": "adjective",
+"senses": [
+"having a specified form of wit (intellectual ability)"
+],
+"ety": "From Middle English witted, ywitted, equivalent to wit + -ed. Compare Old English witod (“appointed, ordained, assured, certain”).",
+"examples": [],
+"p": "WIT-id"
+},
+{
+"w": "equalist",
+"pos": "noun",
+"senses": [
+"equalitarian"
+],
+"ety": "From equal + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "suppli",
+"pos": "noun",
+"senses": [
+"A rice croquette filled with mozzarella or meat, originally from Rome."
+],
+"ety": "Borrowed from Italian supplì, from French surprise, because of the supposedly unexpected filling. Doublet of surprise.",
+"examples": [],
+"p": "soo-PLEE"
+}
+]

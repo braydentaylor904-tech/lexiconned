@@ -1,0 +1,420 @@
+[
+{
+"w": "casualisation",
+"pos": "noun",
+"senses": [
+"The process of making anything casual."
+],
+"ety": "From casual + -isation.",
+"examples": [],
+"p": null
+},
+{
+"w": "bongo",
+"pos": "noun",
+"senses": [
+"A striped bovine mammal found in Africa, Tragelaphus eurycerus."
+],
+"ety": "From Spanish bongo.",
+"examples": [],
+"p": "BAHNG-goh"
+},
+{
+"w": "wilding",
+"pos": "adjective",
+"senses": [
+"Not cultivated or tame; wild."
+],
+"ety": "From wild + -ing.",
+"examples": [
+"The wilding bee hums merrily by."
+],
+"p": null
+},
+{
+"w": "vocalism",
+"pos": "noun",
+"senses": [
+"Speaking or singing."
+],
+"ety": "From vocal + -ism.",
+"examples": [
+"The exciting vocalism of Leontyne Price"
+],
+"p": null
+},
+{
+"w": "clerisy",
+"pos": "noun",
+"senses": [
+"An elite group of intellectuals; learned people, the literati."
+],
+"ety": "From Ancient Greek κλῆρος (klêros) + -isy. Introduced by Coleridge, based on German Clerisei (modern Klerisei), from Late Latin clēricus.",
+"examples": [],
+"p": "KLAIR-ih-see"
+},
+{
+"w": "blurb",
+"pos": "noun",
+"senses": [
+"A short description of a book, film, or other work, written and used for promotional purposes."
+],
+"ety": "Coined by American artist, art critic, poet, author and humorist Gelett Burgess in 1907 on a dust jacket at a trade association dinner. The dust jacket said “YES, this is a “BLURB”!” and featured a (fictitious) “Miss Belinda Blurb” shown calling out, described as “in the act of blurbing”.",
+"examples": [],
+"p": "blurb"
+},
+{
+"w": "egusi",
+"pos": "noun",
+"senses": [
+"Melon seeds that are ground to make soup in West Africa."
+],
+"ety": "From Yoruba ẹ̀gúsí.",
+"examples": [],
+"p": null
+},
+{
+"w": "japchae",
+"pos": "noun",
+"senses": [
+"A Korean dish made of sweet-potato dangmyeon cellophane noodles, vegetables and other ingredients."
+],
+"ety": "Borrowed from Korean 잡채(雜菜) (japchae). Doublet of chap chye.",
+"examples": [
+"There are no precise rules governing the precise assortment of vegetables in japchae, but most recipes won’t stray far from the standard collection of mushrooms, carrots, spinach, onions, and leeks."
+],
+"p": null
+},
+{
+"w": "appetitive",
+"pos": "adjective",
+"senses": [
+"Having the quality of desiring gratification."
+],
+"ety": "From appetite + -ive.",
+"examples": [],
+"p": "AP-ih-ty-tiv"
+},
+{
+"w": "ombuds",
+"pos": "noun",
+"senses": [
+"ombudsman (as an abbreviated or gender-neutral title, or in apposition, as in \"ombuds office\")."
+],
+"ety": "Clipping of ombudsman.",
+"examples": [],
+"p": "OM-budz"
+},
+{
+"w": "tumah",
+"pos": "noun",
+"senses": [
+"A state of ritual impurity arising from contact with corpses, the corpses of certain non-kosher animals, certain bodily fluids, diseases, etc."
+],
+"ety": "Borrowed from Hebrew טומאה / טֻמְאָה (tum'á).",
+"examples": [],
+"p": null
+},
+{
+"w": "proclaimer",
+"pos": "noun",
+"senses": [
+"A public avowal of independent opinion."
+],
+"ety": "From proclaim + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "focuser",
+"pos": "noun",
+"senses": [
+"A device which allows one to adjust the focus of an instrument such as a telescope."
+],
+"ety": "From focus + -er.",
+"examples": [
+"I decided to upgrade my telescope with a feather-touch focuser."
+],
+"p": null
+},
+{
+"w": "katara",
+"pos": "noun",
+"senses": [
+"An Indian push dagger with an H-shaped handle, used predominantly ceremonially, and rarely as a weapon."
+],
+"ety": "Borrowed from Hindustani کَٹَار (kaṭār) / कटार (kaṭār, “dagger, saber”).",
+"examples": [],
+"p": "kuh-tar-uh"
+},
+{
+"w": "toxoid",
+"pos": "noun",
+"senses": [
+"A toxin that has had its toxic properties removed, but retains its ability to generate an immune response."
+],
+"ety": "From toxin + -oid.",
+"examples": [],
+"p": null
+},
+{
+"w": "delly",
+"pos": "adjective",
+"senses": [
+"Having many dells."
+],
+"ety": "From dell + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "pastilla",
+"pos": "noun",
+"senses": [
+"A Moroccan meat pie, usually of pigeon."
+],
+"ety": "From Spanish pastilla. Doublet of pastegh, pastel, pastiglia, pastila, and pastille.",
+"examples": [],
+"p": null
+},
+{
+"w": "taran",
+"pos": "noun",
+"senses": [
+"A tactic of aerial ramming."
+],
+"ety": "Sense 1: from Russian тара́нь (taránʹ). Sense 2: from Russian таран (taran).",
+"examples": [],
+"p": null
+},
+{
+"w": "nomophobia",
+"pos": "noun",
+"senses": [
+"A fear of or disdain for laws."
+],
+"ety": "From nomo- + -phobia.",
+"examples": [
+"Seen in this light, his antisemitism appears in its ultimate essence as a nomophobia, a revolt against the divinely sanctioned moral law or, religiously speaking, a revolt against God."
+],
+"p": null
+},
+{
+"w": "cryptozoic",
+"pos": "adjective",
+"senses": [
+"Hidden (especially in the soil); not easily visible."
+],
+"ety": "From crypto- + -zoic.",
+"examples": [
+"The arthropods of the forest biome can be divided into two ecological groups: the cryptozoic inhabitants of the soil and leaf litter, and the terrestrial and arboreal forms that live in more exposed localities."
+],
+"p": null
+},
+{
+"w": "tercentenary",
+"pos": "noun",
+"senses": [
+"Synonym of tricentennial (“a 300th anniversary”)."
+],
+"ety": "From ter- + centenary, after Latin ter centēnī (“three hundred each”).",
+"examples": [],
+"p": null
+},
+{
+"w": "dramatize",
+"pos": "verb",
+"senses": [
+"To adapt a literary work so that it can be performed in the theatre, or on radio or television.",
+"To present something in a dramatic or melodramatic manner."
+],
+"ety": "From Ancient Greek δρᾶμα (drâma) + English -ize.",
+"examples": [],
+"p": "DRAH-muh-tize"
+},
+{
+"w": "boules",
+"pos": "noun",
+"senses": [
+"bowls; a game played with metal balls."
+],
+"ety": "In the sense of the game, a shortening of French jeu de boules.",
+"examples": [],
+"p": null
+},
+{
+"w": "passata",
+"pos": "noun",
+"senses": [
+"Sieved raw tomatoes."
+],
+"ety": "Borrowed from Italian passata.",
+"examples": [],
+"p": "puh-SAH-tuh"
+},
+{
+"w": "splicer",
+"pos": "noun",
+"senses": [
+"A person or device that makes a splice."
+],
+"ety": "From splice + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "herniation",
+"pos": "noun",
+"senses": [
+"The formation of a hernia."
+],
+"ety": "From hernia + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "halligan",
+"pos": "noun",
+"senses": [
+"A tool, used mostly by firemen, to pry open buildings, manholes, wrecked cars, etc."
+],
+"ety": "Ellipsis of Halligan bar.",
+"examples": [],
+"p": null
+},
+{
+"w": "miser",
+"pos": "noun",
+"senses": [
+"A kind of earth auger, typically large-bored and often hand-operated."
+],
+"ety": "From Middle English misser, from Late Latin miser (“wretched, unfortunate, unhappy, miserable, sick, ill, bad, worthless, etc.”).",
+"examples": [],
+"p": "MY-zer"
+},
+{
+"w": "grundle",
+"pos": "noun",
+"senses": [
+"A small grumble."
+],
+"ety": "Alteration of grumble.",
+"examples": [],
+"p": "GRUN-dul"
+},
+{
+"w": "schoolbag",
+"pos": "noun",
+"senses": [
+"A satchel used to carry supplies for school; a bookbag."
+],
+"ety": "From school + bag.",
+"examples": [],
+"p": "SKOOL-bag"
+},
+{
+"w": "lithopone",
+"pos": "noun",
+"senses": [
+"A white pigment, a mixture of barium sulfate and zinc sulfide, used in paints and enamels."
+],
+"ety": "From lith- + -o- + Ancient Greek πόνος (pónos, “work”).",
+"examples": [],
+"p": null
+},
+{
+"w": "lovage",
+"pos": "noun",
+"senses": [
+"A liquor made from this herb."
+],
+"ety": "From Middle English loveache, a folk-etymological alteration, after love and ache (“parsley”), of Anglo-Norman luvasche and Old French luvache, loveche et al., and Middle French levesche, from Latin levisticum, probably alteration of Latin ligusticum, substantivization of the neuter of Ligusticus (“Ligurian”), ultimately from Ancient Greek Λιγυστικός (Ligustikós, “Ligurian”), from Λίγυς (Lígus, “Ligurian”). This replaced the Old English name lufestiċe (literally “love-stitch”), which was also derived from levisticum and altered by folk-etymology.",
+"examples": [],
+"p": "LUV-uj"
+},
+{
+"w": "tomcat",
+"pos": "noun",
+"senses": [
+"A tom (male cat).",
+"A promiscuous man."
+],
+"ety": "From Tom + cat, popularised by The Life and Adventures of a Cat (1760), by an anonymous author, in which the male cat was called Tom.",
+"examples": [],
+"p": null
+},
+{
+"w": "regionalization",
+"pos": "noun",
+"senses": [
+"An act or process of regionalizing."
+],
+"ety": "From regionalize + -ation.",
+"examples": [
+"Fox and CBS, with some input from the league, create each Sunday’s regionalization maps."
+],
+"p": null
+},
+{
+"w": "sidescrolling",
+"pos": "adjective",
+"senses": [
+"That scrolls horizontally."
+],
+"ety": "From side + scrolling.",
+"examples": [
+"Another sequel, Pac-Land, transported the adventurous wedge into a sidescrolling world where he had to navigate a series of platforms and obstacles."
+],
+"p": null
+},
+{
+"w": "tapis",
+"pos": "noun",
+"senses": [
+"The cover of a council table."
+],
+"ety": "From French, from Old French tapiz, from Vulgar Latin *tapēs, from Ancient Greek τάπης (tápēs), from an Iranian source.",
+"examples": [],
+"p": "TAH-pis"
+},
+{
+"w": "shakha",
+"pos": "noun",
+"senses": [
+"Either a school of the Vedas, or the traditional texts followed by a school."
+],
+"ety": "From Sanskrit शाखा (śā́khā, “a branch; arm etc.”).",
+"examples": [],
+"p": null
+},
+{
+"w": "hemiplegic",
+"pos": "noun",
+"senses": [
+"One who has hemiplegia."
+],
+"ety": "From hemi- + -plegic.",
+"examples": [],
+"p": null
+},
+{
+"w": "manton",
+"pos": "noun",
+"senses": [
+"A shawl or wrap."
+],
+"ety": "From Spanish mantón.",
+"examples": [],
+"p": null
+},
+{
+"w": "stolonifera",
+"pos": "noun",
+"senses": [
+"Any coral of suborder Stolonifera."
+],
+"ety": "From the taxonomic name.",
+"examples": [],
+"p": null
+}
+]

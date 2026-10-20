@@ -1,0 +1,424 @@
+[
+{
+"w": "solon",
+"pos": "noun",
+"senses": [
+"A wise legislator or lawgiver.",
+"Any legislator."
+],
+"ety": "From Ancient Greek Σόλων (Sólōn), the name of an influential Athenian statesman.",
+"examples": [],
+"p": null
+},
+{
+"w": "podesta",
+"pos": "noun",
+"senses": [
+"A municipal administrator during the Italian Fascist regime (1927–43)."
+],
+"ety": "From Italian podesta, from Latin potestas (“power; powerful one”). Doublet of poustie. See potent.",
+"examples": [],
+"p": null
+},
+{
+"w": "arche",
+"pos": "noun",
+"senses": [
+"The first principle of existing things in pre-Socratic philosophy, initially assumed to be of water."
+],
+"ety": "From Ancient Greek ἀρχή (arkhḗ, literally “beginning, origin”).",
+"examples": [],
+"p": "AR-kee"
+},
+{
+"w": "wigman",
+"pos": "noun",
+"senses": [
+"Among the Huli people of Papua New Guinea, a male warrior who grows his hair long in order to weave it into a ceremonial wig."
+],
+"ety": "From wig + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "upgrader",
+"pos": "noun",
+"senses": [
+"One who, or that which, upgrades.",
+"A facility that upgrades bitumen into synthetic crude oil."
+],
+"ety": "From upgrade + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "excitotoxic",
+"pos": "adjective",
+"senses": [
+"Characteristic of an excitotoxin"
+],
+"ety": "From excito- + toxic.",
+"examples": [],
+"p": null
+},
+{
+"w": "bunkhouse",
+"pos": "noun",
+"senses": [
+"A building providing sleeping quarters for workers or guests, especially in a rural setting."
+],
+"ety": "From bunk + house.",
+"examples": [],
+"p": "BUNGK-hows"
+},
+{
+"w": "studiolo",
+"pos": "noun",
+"senses": [
+"A study (room)."
+],
+"ety": "Borrowed from Italian studiolo.",
+"examples": [],
+"p": null
+},
+{
+"w": "ousia",
+"pos": "noun",
+"senses": [
+"Essence, being."
+],
+"ety": "Borrowed from Ancient Greek οὐσία (ousía), from οὖσα (oûsa), the feminine present participle of εἰμί (eimí, “I am”).",
+"examples": [],
+"p": "OO-seer"
+},
+{
+"w": "effectuate",
+"pos": "verb",
+"senses": [
+"To cause, bring about (an event); to accomplish, to carry out (a wish, plan etc.)."
+],
+"ety": "From the participle stem of Renaissance Latin effectuare, or its source, Latin effectus (“effect”); probably after Middle French effectuer.",
+"examples": [
+"A military draft derives from Congress’s power to raise armies; federal jury duty effectuates the Sixth Amendment right to a jury trial."
+],
+"p": null
+},
+{
+"w": "akasa",
+"pos": "noun",
+"senses": [
+"Ether or atmosphere, as one of the elements in Hindu philosophy."
+],
+"ety": "Borrowed from Sanskrit आकाश (ākāśa).",
+"examples": [],
+"p": "ah-KAH-shuh"
+},
+{
+"w": "pneumonic",
+"pos": "noun",
+"senses": [
+"One who has pneumonia."
+],
+"ety": "From the post-Classical Latin pneumonicus and its etymon, the Ancient Greek πνευμονικός (pneumonikós).",
+"examples": [],
+"p": "nyoo-MAH-nik"
+},
+{
+"w": "liqueur",
+"pos": "noun",
+"senses": [
+"A flavored alcoholic beverage that is usually very sweet and contains a high percentage of alcohol."
+],
+"ety": "Unadapted borrowing from French liqueur. Doublet of liquor.",
+"examples": [],
+"p": "lih-KUR"
+},
+{
+"w": "pappy",
+"pos": "noun",
+"senses": [
+"A grandfather."
+],
+"ety": "From papa + -y.",
+"examples": [],
+"p": "PAP-ee"
+},
+{
+"w": "methylcobalamin",
+"pos": "noun",
+"senses": [
+"A cobalamin (form of vitamin B₁₂) used to treat neuropathies."
+],
+"ety": "From methyl + cobalamin.",
+"examples": [],
+"p": null
+},
+{
+"w": "kulfi",
+"pos": "noun",
+"senses": [
+"A flavoured frozen dessert of South Asia, made from milk and resembling ice cream."
+],
+"ety": "From Hindi क़ुल्फ़ी (qulfī)/Urdu قلفی (qulfī), from Classical Persian قفلی (quflī) from قفل (qufl), from Arabic قُفْل (qufl, “lock, bolt”).",
+"examples": [
+"Vada pav sandwiches and mango kulfi were sold at the concession stand."
+],
+"p": null
+},
+{
+"w": "bristlecone",
+"pos": "noun",
+"senses": [
+"A bristlecone pine, of subsection Pinus subsect. Balfourianae."
+],
+"ety": "From bristle + cone.",
+"examples": [],
+"p": null
+},
+{
+"w": "electrics",
+"pos": "noun",
+"senses": [
+"All the electrical components and wiring of a machine or system."
+],
+"ety": "From electric + -s.",
+"examples": [],
+"p": null
+},
+{
+"w": "tempter",
+"pos": "noun",
+"senses": [
+"Someone or something that tempts, especially a man that tempts."
+],
+"ety": "From Middle English tempter, temptere, temptour, temptoure, from Old French tempter, temptere, tenteor, Anglo-Norman tempteour, temptur and Middle English tempten (“to tempt”); equivalent to tempt + -er.",
+"examples": [
+"He is a tempter of married women."
+],
+"p": null
+},
+{
+"w": "thermosiphon",
+"pos": "noun",
+"senses": [
+"An arrangement of siphon tubes for assisting circulation in a liquid."
+],
+"ety": "From thermo- + siphon.",
+"examples": [],
+"p": null
+},
+{
+"w": "cosmologist",
+"pos": "noun",
+"senses": [
+"A person who studies cosmology."
+],
+"ety": "From cosmology + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "intravaginal",
+"pos": "adjective",
+"senses": [
+"Within the vagina."
+],
+"ety": "From intra- + vaginal.",
+"examples": [],
+"p": null
+},
+{
+"w": "synthesizer",
+"pos": "noun",
+"senses": [
+"An electronic musical instrument that creates its sounds with electronics and generally is played via a keyboard.",
+"An electronic instrument consisting of a module, or a set of modules, that creates its sounds with electronics and does not have any keyboard."
+],
+"ety": "From synthesize + -er.",
+"examples": [],
+"p": "SIN-thuh-sy-zer"
+},
+{
+"w": "santan",
+"pos": "noun",
+"senses": [
+"Coconut milk."
+],
+"ety": "Unadapted borrowing from Malay santan.",
+"examples": [],
+"p": null
+},
+{
+"w": "ostracization",
+"pos": "noun",
+"senses": [
+"The process or practice of ostracizing."
+],
+"ety": "From ostracize + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "deform",
+"pos": "adjective",
+"senses": [
+"Having an unusual and unattractive shape; deformed, misshapen; hence, hideous, ugly."
+],
+"ety": "From Middle English deforme (“out of shape, deformed”) [and other forms], from Middle French deforme (modern French difforme (“misshapen, deformed”)), or directly from its etymon Latin dēfōrmis (“departing physically from the correct shape, deformed, malformed, misshapen, ugly; (figuratively) departing morally from the correct quality, base, disgraceful, shameful, unbecoming”), from dē- (prefix meaning ‘away from; from’) + fōrma (“form, appearance, figure, shape; fine form, beauty; design, outline, plan; model, pattern; mould, stamp; (figuratively) kind, manner, sort”) (further etymology unkno",
+"examples": [],
+"p": "duh-FORM"
+},
+{
+"w": "prune",
+"pos": "noun",
+"senses": [
+"Something wrinkly like a prune."
+],
+"ety": "From Middle English prune, from Old French prune, from Vulgar Latin *prūna, feminine singular formed from the neutral plural of Latin prūnum, from Ancient Greek προῦνον (proûnon), variant of προῦμνον (proûmnon, “plum”), a loanword from a language of Asia Minor. Doublet of plum.",
+"examples": [],
+"p": "proon"
+},
+{
+"w": "referent",
+"pos": "noun",
+"senses": [
+"That which is referenced."
+],
+"ety": "From refer + -ent.",
+"examples": [],
+"p": "REF-uh-runt"
+},
+{
+"w": "unfed",
+"pos": "adjective",
+"senses": [
+"Unsupported."
+],
+"ety": "From Middle English un-fedd, unfedd, equivalent to un- + fed.",
+"examples": [],
+"p": null
+},
+{
+"w": "clivus",
+"pos": "noun",
+"senses": [
+"A road ascending a slope in Ancient Rome."
+],
+"ety": "Derived from Latin clīvus (“slope, hill”).",
+"examples": [],
+"p": "KLY-vus"
+},
+{
+"w": "miniaturist",
+"pos": "noun",
+"senses": [
+"An artist who paints miniature figures or scenes.",
+"A person who creates or collects miniature figurines (such as dolls)."
+],
+"ety": "From miniature + -ist.",
+"examples": [
+"Power scissors Every miniaturist should have a pair.",
+"The miniaturist's hobby is as varied as the people who pursue it.",
+"There are many smaller devices to be found, particularly in Scotland, which are more suited to the miniaturist."
+],
+"p": null
+},
+{
+"w": "drachma",
+"pos": "noun",
+"senses": [
+"The currency of Greece in ancient times and again from 1832 until 2001, with the symbol ₯, since replaced by the euro.",
+"A coin worth one drachma.",
+"An Ancient Greek weight of about 66.5 grains, or 4.3 grams.",
+"A later Greek weight equal to a gram."
+],
+"ety": "Learned borrowing from Latin drachma and its etymon Doric Greek δρᾰχμᾱ́ (drăkhmā́). Doublet of dram, diram, dirham, dirhem, adarme, and dam.",
+"examples": [],
+"p": "DRAK-muh"
+},
+{
+"w": "fermentable",
+"pos": "adjective",
+"senses": [
+"Able to ferment or be fermented."
+],
+"ety": "From ferment + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "experimentalism",
+"pos": "noun",
+"senses": [
+"An experimental practice or tendency, especially in the arts",
+"An empirical or pragmatic approach which emphasizes the importance of experimentation"
+],
+"ety": "From experimental + -ism.",
+"examples": [
+"By playing up the lushness of Webern’s “Langsamer Satz” and the experimentalism of Beethoven’s “Serioso” Quartet, for example, they created the impression that Beethoven was the more adventurous composer.",
+"Finally, I argued that moderate experimentalism and IAE can help resolve these different kinds of conflicts."
+],
+"p": null
+},
+{
+"w": "bushido",
+"pos": "noun",
+"senses": [
+"An ethical code of the samurai that was prevalent in feudal Japan that advocated unquestioning loyalty to the master at all costs and obedience in all deeds, valuing honor above life."
+],
+"ety": "Borrowed from Japanese 武(ぶ)士(し)道(どう) (bushidō), from Middle Chinese 武士 (mju^X dzri^X, “warrior”) + 道 (daw^X, “way”). Cognate with Mandarin 武士 (wǔshì) and Cantonese 武士 (mou⁵ si⁶).",
+"examples": [],
+"p": "boo-SHEE-doh"
+},
+{
+"w": "virilization",
+"pos": "noun",
+"senses": [
+"The development of sex characteristics that are typically found in men."
+],
+"ety": "From virile + -ization.",
+"examples": [],
+"p": null
+},
+{
+"w": "neuroimage",
+"pos": "verb",
+"senses": [
+"To produce an image of the structure or function of part of the brain."
+],
+"ety": "From neuro- + image.",
+"examples": [],
+"p": null
+},
+{
+"w": "frybread",
+"pos": "noun",
+"senses": [
+"Fried bread."
+],
+"ety": "From fry + bread.",
+"examples": [],
+"p": "FRY-bred"
+},
+{
+"w": "myrrh",
+"pos": "noun",
+"senses": [
+"Synonym of chrism.",
+"The herb chervil."
+],
+"ety": "From Middle English mirre, from Old English myrre, from Latin myrrha, from Ancient Greek μύρρα (múrrha), from Semitic. Compare Arabic مُرّ (murr, “myrrh”, literally “bitterness”), Hebrew מור / מֹר (mōr, “myrrh”, literally “bitterness”). Compare מרור : maror.",
+"examples": [],
+"p": "mur"
+},
+{
+"w": "presidio",
+"pos": "noun",
+"senses": [
+"A garrisoned place, especially one that is or was once under Spanish control."
+],
+"ety": "From Spanish presidio (“garrison”), from Latin praesidium, 1763. Doublet of praesidium and presidium.",
+"examples": [],
+"p": null
+}
+]

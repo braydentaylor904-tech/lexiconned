@@ -1,0 +1,437 @@
+[
+{
+"w": "classer",
+"pos": "noun",
+"senses": [
+"One who classes or classifies"
+],
+"ety": "From class (verb) + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "megavolt",
+"pos": "noun",
+"senses": [
+"One million (10⁶) volts. Symbol: MV."
+],
+"ety": "From mega- + volt.",
+"examples": [],
+"p": null
+},
+{
+"w": "laster",
+"pos": "noun",
+"senses": [
+"A workman whose business it is to shape boots or shoes, or place leather smoothly, on lasts.",
+"A tool for stretching leather on a last.",
+"That which lasts or endures."
+],
+"ety": "From last + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "velum",
+"pos": "noun",
+"senses": [
+"A delicate membrane found on certain protists.",
+"An accessory cloud resembling a veil extending over a large distance; normally associated with cumulus and cumulonimbus."
+],
+"ety": "Borrowed from Latin vēlum (“a cloth, covering, awning, curtain, veil”). Doublet of veil.",
+"examples": [],
+"p": "VEE-lum"
+},
+{
+"w": "camia",
+"pos": "noun",
+"senses": [
+"Hedychium coronarium; a perennial flowering plant from the ginger family Zingiberaceae."
+],
+"ety": "Borrowed from Cebuano camia.",
+"examples": [],
+"p": null
+},
+{
+"w": "syndicator",
+"pos": "noun",
+"senses": [
+"One who, or that which, syndicates."
+],
+"ety": "From syndicate + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "plausibility",
+"pos": "noun",
+"senses": [
+"A plausible statement, argument etc.",
+"The fact of being believable; believability, credibility."
+],
+"ety": "Borrowed from New Latin plausibilitās.",
+"examples": [],
+"p": null
+},
+{
+"w": "mailout",
+"pos": "noun",
+"senses": [
+"An informational or promotional document sent by post, typically to multiple recipients."
+],
+"ety": "From mail + out.",
+"examples": [],
+"p": "MAYL-owt"
+},
+{
+"w": "frogg",
+"pos": "verb",
+"senses": [
+"To impersonate (someone) by froggery."
+],
+"ety": "Back-formation from froggery.",
+"examples": [
+"But just using someone's name is never forgery. It's a common thing to frogg someone's name to get him to squeal on endlessly about it, but only the most clueless ever fall for that gambit."
+],
+"p": null
+},
+{
+"w": "erector",
+"pos": "noun",
+"senses": [
+"A person who, or a device which erects.",
+"An attachment to a microscope, telescope, etc. for making the image erect instead of inverted."
+],
+"ety": "From Latin ērigō (“to raise up, elevate, lift”), equivalent to erect + -or.",
+"examples": [
+"At this stage of the construction process the only people on the site would normally be groundworkers and the steel erectors, followed by the roof cladders."
+],
+"p": null
+},
+{
+"w": "belvedere",
+"pos": "noun",
+"senses": [
+"A turret or other raised structure offering a pleasant view of the surrounding area.",
+"Summer cypress (Bassia scoparia)"
+],
+"ety": "Borrowed from Italian belvedere (literally “fair view”).",
+"examples": [],
+"p": "BEL-vuh-deer"
+},
+{
+"w": "cutdown",
+"pos": "noun",
+"senses": [
+"A customized scooter with parts of the bodywork removed or cut away."
+],
+"ety": "Deverbal from cut down.",
+"examples": [],
+"p": null
+},
+{
+"w": "manilla",
+"pos": "noun",
+"senses": [
+"A penannular armlet, sometimes worn on the leg or neck or used as an ornament, mostly in bronze, copper or gold, which served as a form of money or barter coinage amongst certain West African peoples."
+],
+"ety": "From Spanish manilla (“bracelet”), from Catalan manilla (“bracelet, armring”); partly from Latin monīle (“a necklace, collar”), from Proto-Indo-European *mony- (“withers, crest, mane”); and partly from Frankish *mānili (“moon-shaped ornament”), from *māno (“moon”), from Proto-Germanic *mēnô (“moon”), from Proto-Indo-European *mḗh₁n̥s (“moon, month”), related to Old High German mânili (“moon-shaped ornament”). More at mane, moon.",
+"examples": [],
+"p": null
+},
+{
+"w": "silty",
+"pos": "adjective",
+"senses": [
+"Having a noticeable amount of silt.",
+"Resembling or characteristic of silt."
+],
+"ety": "From silt + -y.",
+"examples": [
+"The silty river needed its channel dredged periodically to remain navigable."
+],
+"p": null
+},
+{
+"w": "consulter",
+"pos": "noun",
+"senses": [
+"One who consults, or asks counsel or information."
+],
+"ety": "From consult + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "dongsaeng",
+"pos": "noun",
+"senses": [
+"A younger sibling (in the context of Korea)."
+],
+"ety": "Borrowed from Korean 동생 (dongsaeng, “younger sibling”).",
+"examples": [],
+"p": "DAWNG-seng"
+},
+{
+"w": "soundbar",
+"pos": "noun",
+"senses": [
+"A bar containing multiple speakers that can be mounted under or alongside a television, etc. instead of having separate speakers positioned around the room."
+],
+"ety": "From sound + bar.",
+"examples": [],
+"p": "SOWND-bar"
+},
+{
+"w": "maddah",
+"pos": "noun",
+"senses": [
+"In the Qur'an, it indicates an extra long vowel and can appear over any long vowel.",
+"In Persian the letter is used only in the beginning of a word with a long /aː/: آمدن (âmadan)."
+],
+"ety": "From Arabic مَدَّة (madda).",
+"examples": [],
+"p": null
+},
+{
+"w": "autodrome",
+"pos": "noun",
+"senses": [
+"A circuit used for motor sports events, but not for high-speed racing"
+],
+"ety": "From auto- + -drome.",
+"examples": [],
+"p": null
+},
+{
+"w": "saury",
+"pos": "noun",
+"senses": [
+"A marine epipelagic fish of the family Scomberesocidae, with beaklike jaws and a row of small finlets behind the dorsal and anal fins."
+],
+"ety": "Eggcorn of Japanese 佐伊羅 (saira). By surface analysis, -saur (“dinosaur or other extinct reptile”) + -y (diminutive suffix).",
+"examples": [],
+"p": "SAW-ree"
+},
+{
+"w": "ghettoization",
+"pos": "noun",
+"senses": [
+"The process of becoming a ghetto, an isolated and underprivileged urban area.",
+"The process of ghettoizing (a group): the segregation/isolation of a group and placement of that group into a figurative or literal position of little power."
+],
+"ety": "From ghettoize + -ation.",
+"examples": [
+"It's all part of a move toward ghettoization, they charge, an attempt to make the poor feel so shamefully unwanted that they will leave the area."
+],
+"p": null
+},
+{
+"w": "parmigiana",
+"pos": "adjective",
+"senses": [
+"Cooked or served with Parmesan cheese and tomato sauce."
+],
+"ety": "Borrowed from Italian parmigiana, shortening of alla parmigiana (“in the Parmesan way”), or, as a noun, of parmigiana di melanzane/melanzane alla parmigiana, the southern Italian dish which is made with eggplant.",
+"examples": [],
+"p": "par-muh-ZHAH-nuh"
+},
+{
+"w": "quivery",
+"pos": "adjective",
+"senses": [
+"quivering; aquiver"
+],
+"ety": "From quiver + -y.",
+"examples": [],
+"p": "KWIV-uh-ree"
+},
+{
+"w": "sheldrake",
+"pos": "noun",
+"senses": [
+"A male shelduck.",
+"A merganser.",
+"The call sign for an artillery officer."
+],
+"ety": "From Middle English sheld- (“parti-colored”) (akin to Middle Dutch shillede) + drake (“male duck”).",
+"examples": [],
+"p": null
+},
+{
+"w": "photoset",
+"pos": "verb",
+"senses": [
+"to photocompose"
+],
+"ety": "From photo- + set.",
+"examples": [],
+"p": null
+},
+{
+"w": "paedophile",
+"pos": "noun",
+"senses": [
+"Commonwealth standard spelling of pedophile."
+],
+"ety": "From paedo- + -phile.",
+"examples": [],
+"p": "PEH-duh-oo-fah-il"
+},
+{
+"w": "ridgetop",
+"pos": "noun",
+"senses": [
+"The crest that extends along the highest contours of a ridge."
+],
+"ety": "From ridge + top.",
+"examples": [],
+"p": null
+},
+{
+"w": "chinch",
+"pos": "noun",
+"senses": [
+"The bedbug (Cimex lectularius)."
+],
+"ety": "From Spanish chinche (“bedbug”) or Portuguese chinche, from Latin cimex (“bedbug”). Doublet of cimex.",
+"examples": [],
+"p": "chinch"
+},
+{
+"w": "partage",
+"pos": "noun",
+"senses": [
+"The formerly standard practice of dividing up artifacts between archaeologists, their patrons, and the host territory."
+],
+"ety": "From Middle French partage, from partir (“to share”).",
+"examples": [],
+"p": "PAR-tij"
+},
+{
+"w": "stompbox",
+"pos": "noun",
+"senses": [
+"A simple percussion instrument consisting of a small wooden box placed under the foot, which is tapped or stamped on rhythmically to produce a sound similar to that of a bass drum.",
+"A guitar effect unit which can be controlled with the foot"
+],
+"ety": "From stomp + box.",
+"examples": [],
+"p": null
+},
+{
+"w": "fitout",
+"pos": "noun",
+"senses": [
+"The furnishing of a ship or similar space."
+],
+"ety": "Deverbal from fit out.",
+"examples": [],
+"p": null
+},
+{
+"w": "desalination",
+"pos": "noun",
+"senses": [
+"The process of removing salt from sea water in order to make drinking water."
+],
+"ety": "From de- + salination.",
+"examples": [],
+"p": "dee-sal-ih-NAY-shun"
+},
+{
+"w": "collectin",
+"pos": "noun",
+"senses": [
+"A form of lectin derived from collagen."
+],
+"ety": "Blend of collagen + lectin?",
+"examples": [],
+"p": null
+},
+{
+"w": "culturist",
+"pos": "noun",
+"senses": [
+"One who raises or cultures something; a cultivator.",
+"An advocate of culture.",
+"One who holds prejudices against a culture."
+],
+"ety": "From culture + -ist.",
+"examples": [
+"Steve Dolan is an assistant manager and fish culturist at the Salmon River Hatchery in Altmar, outside Syracuse, where Lake Ontario’s king salmon are raised."
+],
+"p": null
+},
+{
+"w": "shrouded",
+"pos": "adjective",
+"senses": [
+"Wearing, or provided with a shroud.",
+"Concealed or hidden from sight, as if by a shroud."
+],
+"ety": "From Middle English schrouded, equivalent to shroud + -ed.",
+"examples": [
+"I suspect that this large and complex military railway system, shrouded in official secrecy for most of its operational life, remains unknown to many people."
+],
+"p": null
+},
+{
+"w": "mudflat",
+"pos": "noun",
+"senses": [
+"A muddy expanse of flat land, especially such land as a riverbed exposed at low tide."
+],
+"ety": "From mud + flat.",
+"examples": [],
+"p": null
+},
+{
+"w": "craver",
+"pos": "noun",
+"senses": [
+"Someone who craves something."
+],
+"ety": "From crave + -er.",
+"examples": [
+"Years ago the cravers for sensation were delighted with the real gig and horse with the aid of which Mr. Thurtell murdered Mr. Weare."
+],
+"p": null
+},
+{
+"w": "bandito",
+"pos": "noun",
+"senses": [
+"A bandit, particularly of the type associated with Mexico."
+],
+"ety": "Borrowed from Italian bandito. Doublet of bandit.",
+"examples": [
+"But I was at an age when a stinking twist of additive-soaked tobacco wrapped in brown paper could transform me into a kind of pale, stubble-free Irish bandito."
+],
+"p": null
+},
+{
+"w": "spicule",
+"pos": "noun",
+"senses": [
+"A sharp, needle-like piece.",
+"A tiny glass flake formed during the manufacture of glass vials.",
+"A needle-like mating structure found only in male nematodes.",
+"A small spike of flowers.",
+"A unit of mass equal to 125 pounds."
+],
+"ety": "From Latin spīculum.",
+"examples": [],
+"p": null
+},
+{
+"w": "homelander",
+"pos": "noun",
+"senses": [
+"A person from one's homeland."
+],
+"ety": "From homeland + -er.",
+"examples": [],
+"p": "HOHM-lan-der"
+}
+]

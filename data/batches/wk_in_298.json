@@ -1,0 +1,445 @@
+[
+{
+"w": "restorable",
+"pos": "adjective",
+"senses": [
+"Capable of being restored or reclaimed"
+],
+"ety": "From restore + -able.",
+"examples": [
+"The carriage was surveyed and re-sheeted just over a decade ago, when it was deemed restorable. However, exposure has since led to a rapid deterioration. including the detachment of side panels."
+],
+"p": null
+},
+{
+"w": "barometric",
+"pos": "adjective",
+"senses": [
+"Made or done with a barometer."
+],
+"ety": "From baro- + -metric.",
+"examples": [],
+"p": "bar-uh-MET-rik"
+},
+{
+"w": "armbar",
+"pos": "noun",
+"senses": [
+"A joint lock where the elbow is hyperextended in order to cause pain or injury."
+],
+"ety": "From arm + bar.",
+"examples": [],
+"p": null
+},
+{
+"w": "maltman",
+"pos": "noun",
+"senses": [
+"Someone who works in a malthouse."
+],
+"ety": "From malt + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "monochord",
+"pos": "noun",
+"senses": [
+"A stringed instrument with only one string.",
+"A bass note on a piano that has a single string."
+],
+"ety": "Learned borrowing from Latin monochordon, itself borrowed from Ancient Greek μονόχορδον (monókhordon). By surface analysis, mono- + chord.",
+"examples": [],
+"p": null
+},
+{
+"w": "squantum",
+"pos": "noun",
+"senses": [
+"A picnic on the beach, a clambake."
+],
+"ety": "Apparently from a placename, from Massachusett.",
+"examples": [],
+"p": null
+},
+{
+"w": "obscurantism",
+"pos": "noun",
+"senses": [
+"A state of opposition to human progress or enlightenment.",
+"Deliberate obscurity or vagueness."
+],
+"ety": "From Latin obscūrans, from obscūrō (“to cover, darken, obscure”) + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "patriciate",
+"pos": "noun",
+"senses": [
+"The rank of a patrician",
+"The aristocracy or nobility",
+"the non-noble upper class, or the upper bourgeoisie"
+],
+"ety": "From Medieval Latin patriciātus. By surface analysis, patrician + -ate.",
+"examples": [],
+"p": null
+},
+{
+"w": "sakazuki",
+"pos": "noun",
+"senses": [
+"A Japanese cup for drinking saké."
+],
+"ety": "From Japanese さかずき.",
+"examples": [],
+"p": null
+},
+{
+"w": "sexbot",
+"pos": "noun",
+"senses": [
+"A robot designed to have sexual intercourse with humans.",
+"A lifelike love doll integrated with robotics to simulate human body movements and intelligence.",
+"A chatbot used for erotic roleplay."
+],
+"ety": "From sex + -bot.",
+"examples": [
+"Jealous wives may destroy sexbot rivals and sue the manufacturer.",
+"Having a sexbot had turned out to be more than Nosir had anticipated.",
+"I assumed, naïvely, that the tech giants would see the same poison we did and eschew sexbots — if not for the sake of prioritizing public good over profits, then at least to protect their brands."
+],
+"p": null
+},
+{
+"w": "pollan",
+"pos": "noun",
+"senses": [
+"A freshwater fish, Coregonus pollan, resembling a herring"
+],
+"ety": "From Irish pollán.",
+"examples": [],
+"p": null
+},
+{
+"w": "otherkin",
+"pos": "noun",
+"senses": [
+"One who believes their soul, essence, or identity is non-human."
+],
+"ety": "From other + -kin.",
+"examples": [
+"It appears that many otherkin are unaware of what makes them different. They just know they are not normal humans.",
+"A close friend of mine turned out to be otherkin as well, and I added her to the group so she could discover who she is.",
+"You’ve already told Tumblr that you are definitely, really a wolf with wings; you’ve argued in favor of Otherkin rights and awareness; you’ve become a leader of the Otherkin community."
+],
+"p": null
+},
+{
+"w": "ergon",
+"pos": "noun",
+"senses": [
+"A task or function of a creature."
+],
+"ety": "Borrowed from Ancient Greek ἔργον (érgon). Doublet of erg and work. In philosophy, the word is loaned in its capacity as a technical term in Aristotelianism, in English usage following Alexander Grant, The Ethics of Aristotle (1857). In classical thermodynamics, the term is coined as translating German Werk. Rudolf Clausius (1864) made a technical distinction between Werk and Arbeit, both translating to English \"work\", and suggested Ergon for the purposes of the translation of his terminology into other modern languages. The author has used the German word Werk, which is almost synonymous with",
+"examples": [],
+"p": null
+},
+{
+"w": "postnuptial",
+"pos": "adjective",
+"senses": [
+"Subsequent to marriage."
+],
+"ety": "From post- + nuptial.",
+"examples": [
+"They made a postnuptial agreement regarding their bank account."
+],
+"p": null
+},
+{
+"w": "nacre",
+"pos": "noun",
+"senses": [
+"A pearly substance made mainly of stacked layers of aragonite and organic matter which lines the interior of many shells; mother-of-pearl."
+],
+"ety": "Borrowed from Middle French nacre, from Medieval Latin nacchara, ultimately derived from Arabic نَقَّارَة (naqqāra). Doublet of nagara, nagada, naqareh, and naker. Also present in nacarat.",
+"examples": [],
+"p": "NAY-ker"
+},
+{
+"w": "scull",
+"pos": "noun",
+"senses": [
+"A single oar mounted at the stern of a boat and moved from side to side to propel the boat forward.",
+"One of a pair of oars handled by a single rower.",
+"A small rowing boat, for one person.",
+"A light rowing boat used for racing by one, two, or four rowers, each operating two oars (sculls), one in each hand."
+],
+"ety": "From Middle English sculle (“a type of oar”), of uncertain origin, possibly from North Germanic, from Old Norse skola (“to rinse, wash”).",
+"examples": [],
+"p": "skul"
+},
+{
+"w": "tollway",
+"pos": "noun",
+"senses": [
+"A toll road or toll highway, where a fee is charged in order to travel on it; a turnpike."
+],
+"ety": "From toll + way.",
+"examples": [],
+"p": null
+},
+{
+"w": "kohai",
+"pos": "noun",
+"senses": [
+"A junior member of a group in Japanese arts; mentee."
+],
+"ety": "Borrowed from Japanese 後(こう)輩(はい) (kōhai, literally “later cohort”). Doublet of hoobae.",
+"examples": [
+"The students always sit in order of seniority, both in and out of the training hall, and the kohai are always at the beck and call of the senpai.",
+"Whereas kohai are often expected to obey their sempai at some cost to their personal welfare, sempai assume a corresponding obligation."
+],
+"p": null
+},
+{
+"w": "regality",
+"pos": "noun",
+"senses": [
+"Royalty; sovereignty; sovereign jurisdiction."
+],
+"ety": "From Middle English regalite, from Old French, from Late Latin rēgālitās, from Latin rēgālis (“regal, royal”), equivalent to regal + -ity. Doublet of royalty.",
+"examples": [],
+"p": null
+},
+{
+"w": "landlordism",
+"pos": "noun",
+"senses": [
+"An economic system under which a few private individuals (landlords) own property, and rent it to tenants.",
+"A specific variation or implementation of such a system.",
+"The actions and behavior of a landlord."
+],
+"ety": "From landlord + -ism.",
+"examples": [
+"What if all the poor people should refuse to pay rent and shelter themselves under the American flag? Landlordism would go crumbling.",
+"Yet his account also implies the carelessness of his landlordism before now and the invisibility to him of those beneath his social horizon (even if they are paying him rent)."
+],
+"p": null
+},
+{
+"w": "barranco",
+"pos": "noun",
+"senses": [
+"A gully, gulch, or ravine."
+],
+"ety": "Borrowed from Spanish barranco.",
+"examples": [
+"A little fire burned in the hollow of the dusty barranco, a clear red fire of the kind that gives little light and makes no smoke, and its pale glow showed but feebly against the rock behind."
+],
+"p": null
+},
+{
+"w": "digicam",
+"pos": "noun",
+"senses": [
+"A digital camera."
+],
+"ety": "Originally a trade name, shortening of digital camera, equivalent to digi- + cam.",
+"examples": [],
+"p": "DIJ-ee-kam"
+},
+{
+"w": "omened",
+"pos": "adjective",
+"senses": [
+"Acting as, or containing, an omen or omens."
+],
+"ety": "From omen + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "occlusion",
+"pos": "noun",
+"senses": [
+"The process of occluding, or something that occludes.",
+"An occluded front."
+],
+"ety": "Borrowed from Late Latin occlūsiō, occlūsiōnis (“occluding, obstruction”), from the Classical Latin occlūdō (“to shut up or close up; to restrain”), from ob + claudō (“to shut or close”).",
+"examples": [],
+"p": "uh-KLOO-zhun"
+},
+{
+"w": "porrect",
+"pos": "verb",
+"senses": [
+"To stretch out or forward."
+],
+"ety": "From Latin porrectus, past participle of porrigō (“stretch out”).",
+"examples": [],
+"p": "puh-REKT"
+},
+{
+"w": "sisal",
+"pos": "noun",
+"senses": [
+"A Central American plant, Agave sisalana, cultivated for its sword-shaped leaves that yield fibers used for rope.",
+"The fibre of the plant."
+],
+"ety": "Named after Sisal, Yucatán.",
+"examples": [],
+"p": "SY-sul"
+},
+{
+"w": "regarder",
+"pos": "noun",
+"senses": [
+"A person who regards something or someone."
+],
+"ety": "From regard + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "backout",
+"pos": "noun",
+"senses": [
+"A reversal or undoing of tasks previously done (often in reverse order)."
+],
+"ety": "Deverbal from back out.",
+"examples": [],
+"p": null
+},
+{
+"w": "multidecadal",
+"pos": "adjective",
+"senses": [
+"Involving multiple decades",
+"Lasting or spanning multiple decades"
+],
+"ety": "From multi- + decadal.",
+"examples": [
+"But distributed big science in this case consists of missions (also called projects) that make up an extended, multidecadal program of exploration"
+],
+"p": null
+},
+{
+"w": "hyperboloid",
+"pos": "noun",
+"senses": [
+"A particular surface in three-dimensional Euclidean space, the graph of a quadratic with all three variables squared and their coefficients not all of the same sign."
+],
+"ety": "From hyperbola + -oid.",
+"examples": [],
+"p": null
+},
+{
+"w": "causer",
+"pos": "noun",
+"senses": [
+"someone or something that causes or produces an effect."
+],
+"ety": "From cause + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "dentin",
+"pos": "noun",
+"senses": [
+"The hard, dense calcareous material that makes up the bulk of a tooth."
+],
+"ety": "From French dentine, from Latin dens (“tooth”) + English chemical suffix -in / -ine.",
+"examples": [],
+"p": null
+},
+{
+"w": "alate",
+"pos": "noun",
+"senses": [
+"A winged, reproductive form of several social insects."
+],
+"ety": "From Latin ālātus, from āla (“wing”).",
+"examples": [],
+"p": "AY-layt"
+},
+{
+"w": "tsarism",
+"pos": "noun",
+"senses": [
+"A system of government ruled by a tsar.",
+"A supporter of monarchy ruled by a tsar."
+],
+"ety": "From tsar + -ism. Piecewise doublet of Caesarism.",
+"examples": [],
+"p": null
+},
+{
+"w": "saros",
+"pos": "noun",
+"senses": [
+"A quantity of 3600, such as a period of 3600 years."
+],
+"ety": "From Ancient Greek σάρος (sáros), from Akkadian 𒊹 (šar₂ /⁠šār⁠/, “3600, total, many, a great quantity or measure”). The modern astronomical usage is attributed to Edmond Halley, who based it on the word σάρος (sáros), defined in the Suda as \"a measure and a number among Chaldeans. For 120 saroi make 2222 years according to the Chaldeans' reckoning, if indeed the saros makes 222 lunar months, which are 18 years and 6 months.\"",
+"examples": [],
+"p": null
+},
+{
+"w": "antidiuretic",
+"pos": "adjective",
+"senses": [
+"preventing or counteracting diuresis, especially by the reduction of urination"
+],
+"ety": "From anti- + diuretic.",
+"examples": [],
+"p": null
+},
+{
+"w": "demoniac",
+"pos": "adjective",
+"senses": [
+"Possessed or controlled by a demon."
+],
+"ety": "From Middle English demoniak et al., from Old French demoniaque, from Late Latin daemoniacus.",
+"examples": [],
+"p": "dih-MOH-nih-ak"
+},
+{
+"w": "foudroyant",
+"pos": "adjective",
+"senses": [
+"Having an awesome and overwhelming effect."
+],
+"ety": "Borrowed from French foudroyant.",
+"examples": [],
+"p": "foo-DROY-unt"
+},
+{
+"w": "emaciation",
+"pos": "noun",
+"senses": [
+"The act of making very lean.",
+"The state of being emaciated or reduced to excessive leanness; an excessively lean condition."
+],
+"ety": "From emaciate + -ion.",
+"examples": [
+"In youth he must have been singularly handsome, but years and care had left their vestiges on his noble features, which were thin even to emaciation."
+],
+"p": null
+},
+{
+"w": "shampooer",
+"pos": "noun",
+"senses": [
+"A machine for shampooing carpets.",
+"A person (such as a hairdresser) who washes hair."
+],
+"ety": "From shampoo + -er.",
+"examples": [
+"I felt like a home appliance one seldom buys but rents when needed, something like a rug shampooer."
+],
+"p": null
+}
+]

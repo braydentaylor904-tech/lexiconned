@@ -1,0 +1,428 @@
+[
+{
+"w": "kikar",
+"pos": "noun",
+"senses": [
+"A tree native to South Asia, Vachellia nilotica, formerly Acacia arabica var nilotica."
+],
+"ety": "From Hindi कीकर (kīkar).",
+"examples": [],
+"p": null
+},
+{
+"w": "tamper",
+"pos": "noun",
+"senses": [
+"A tool used to tamp something down, such as tobacco in a pipe.",
+"A railway vehicle used to tamp down ballast.",
+"An envelope of neutron-reflecting material in a nuclear weapon, used to delay the expansion of the reacting material and thus produce a longer-lasting and more energetic explosion."
+],
+"ety": "From tamp + -er.",
+"examples": [],
+"p": "TAM-per"
+},
+{
+"w": "afebrile",
+"pos": "adjective",
+"senses": [
+"Having no fever, without a fever."
+],
+"ety": "From a- + febrile.",
+"examples": [],
+"p": null
+},
+{
+"w": "lungi",
+"pos": "noun",
+"senses": [
+"A garment worn around the waist, especially by men, in Southern India, Bangladesh, Burma, and Pakistan."
+],
+"ety": "From Hindi लुंगी (luṅgī)/Urdu لنگی (lungī).",
+"examples": [],
+"p": null
+},
+{
+"w": "encomienda",
+"pos": "noun",
+"senses": [
+"A permission to exploit labour within the encomienda system; an enterprise established to exploit such a permission."
+],
+"ety": "Borrowed from Spanish encomienda (“grant”).",
+"examples": [],
+"p": null
+},
+{
+"w": "phoria",
+"pos": "noun",
+"senses": [
+"Synonym of heterophoria."
+],
+"ety": "from Ancient Greek -φορία (-phoría), from φέρειν (phérein, “to bear”).",
+"examples": [],
+"p": null
+},
+{
+"w": "agrimony",
+"pos": "noun",
+"senses": [
+"Any of several not closely related plants of a similar appearance."
+],
+"ety": "From Middle English egremoyne, from a conflation of Old English agrimonia and Middle French agremoine (from Old French agremoine, variant of aegremone), both from Late Latin agrimōnia, metathesized from Latin argemōnia (“a kind of poppy”) (probably by association with ager, agri- (“field”)), from Ancient Greek ἀργεμώνη (argemṓnē, “Papaver argemone, prickly poppy”), probably from ἄργεμον (árgemon, “leucoma”), from ἀργός (argós, “white”).",
+"examples": [],
+"p": "AG-rih-moh-nee"
+},
+{
+"w": "kyodai",
+"pos": "noun",
+"senses": [
+"A high-ranking member of the yakuza, accountable to the shatei gashira."
+],
+"ety": "From the Japanese 兄弟 (kyōdai きょうだい), from Middle Chinese 兄弟 (xüæng-dèj \"brothers\"), from Old Chinese 兄弟 (*m̥rang-lˁəjʔ), from 兄 (\"elder brother\") + 弟 (\"younger brother\").",
+"examples": [],
+"p": null
+},
+{
+"w": "entomologist",
+"pos": "noun",
+"senses": [
+"A scientist who studies insects."
+],
+"ety": "From entomology + -ist.",
+"examples": [
+"The noted entomologist Charles W. Woodworth suggested the use of Drosophila melanogaster for genetic studies.",
+"He kindly offered me a room during my stay in Amboyna, and introduced me to his junior, Dr. Doleschall, a Hungarian and also an entomologist.",
+"DENR entomologists recall that beetle infestation of the agohos is similar to another which killed thousands of pine trees in Benguet in 1981."
+],
+"p": null
+},
+{
+"w": "collegial",
+"pos": "adjective",
+"senses": [
+"Ruled by bishops having equal power.",
+"Possessing adherence to the ethos, standards and conduct that govern behavior among colleagues within a given organization or profession."
+],
+"ety": "From Middle English collegial, from Middle French collégial.",
+"examples": [],
+"p": "kuh-LEE-jul"
+},
+{
+"w": "clairvoyant",
+"pos": "adjective",
+"senses": [
+"Able to see things that cannot be perceived by the normal senses.",
+"Able to foresee the future.",
+"Having great insight; sagacious."
+],
+"ety": "From French clairvoyant, from clair (“clear”) + voyant (“seeing”), present participle of voir (“see”).",
+"examples": [],
+"p": "klair-VOY-unt"
+},
+{
+"w": "salinization",
+"pos": "noun",
+"senses": [
+"The act of salinizing, or the state of being salinized.",
+"The addition of salt or brine."
+],
+"ety": "From saline + -ization.",
+"examples": [],
+"p": null
+},
+{
+"w": "frumious",
+"pos": "adjective",
+"senses": [
+"Extremely angry."
+],
+"ety": "Blend of fuming + furious, coined by British author and scholar Lewis Carroll in the poem Jabberwocky (1871).",
+"examples": [],
+"p": null
+},
+{
+"w": "participial",
+"pos": "noun",
+"senses": [
+"A participial word."
+],
+"ety": "From Latin participiālis, from participium (“participle”).",
+"examples": [],
+"p": "par-tih-SIP-ee-ul"
+},
+{
+"w": "downloader",
+"pos": "noun",
+"senses": [
+"Someone who downloads files from the Internet."
+],
+"ety": "From download + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "lovee",
+"pos": "noun",
+"senses": [
+"One who is loved; a recipient of love."
+],
+"ety": "From love + -ee.",
+"examples": [
+"What is a lovee without a confidant?",
+"One might even describe a monitored feedback loop that permits one to sense when insufficient loving is returning from the lovee, causing a lessening of the lover's efforts.",
+"It's just that one is the lover, while the other is the lovee. Together, they make love. One has an obligation to nurture, and the other has a duty of care."
+],
+"p": null
+},
+{
+"w": "naturality",
+"pos": "noun",
+"senses": [
+"The condition of being natural; nature, naturalness",
+"Something that occurs naturally."
+],
+"ety": "From Middle English naturalitee, from Old French naturalité, from Latin nātūrālitās.",
+"examples": [
+"Such a view that focuses on creational processes instead of fixed forms is meant to disrupt and expose the presumed molar identities and naturalities inherent in biology (and in technology, we might add)."
+],
+"p": null
+},
+{
+"w": "urtext",
+"pos": "noun",
+"senses": [
+"A primitive, seminal, or prototypical example of an artistic genre or the basis of an ideological movement."
+],
+"ety": "From ur- + text.",
+"examples": [],
+"p": null
+},
+{
+"w": "terraform",
+"pos": "verb",
+"senses": [
+"To transform the atmosphere (or biosphere) of another planet into one having the characteristics of Earth."
+],
+"ety": "From Terra (“planet Earth”) + -form (“having the form of”). Coined by American science fiction author Jack Williamson in 1942 as part of his novella Collision Orbit.",
+"examples": [],
+"p": "TAIR-uh-form"
+},
+{
+"w": "centimetre",
+"pos": "noun",
+"senses": [
+"An SI unit of length equal to 10⁻² metres. Symbol: cm"
+],
+"ety": "Borrowed from French centimètre; equivalent to centi- + metre.",
+"examples": [],
+"p": "SEN-tih-mee-tuh"
+},
+{
+"w": "crustacean",
+"pos": "noun",
+"senses": [
+"Any arthropod of the subphylum Crustacea, including lobsters, crabs, shrimp, barnacles and woodlice.",
+"Any arthropod of the clade Pancrustacea, which includes hexapods in addition to traditional crustaceans."
+],
+"ety": "From taxonomic name Crustacea + -an.",
+"examples": [],
+"p": "krus-TAY-shun"
+},
+{
+"w": "intraepithelial",
+"pos": "adjective",
+"senses": [
+"Within the epithelium."
+],
+"ety": "From intra- + epithelial.",
+"examples": [],
+"p": null
+},
+{
+"w": "darsana",
+"pos": "noun",
+"senses": [
+"A philosophy, worldview."
+],
+"ety": "Borrowed from Sanskrit दर्शन (dárśana).",
+"examples": [],
+"p": null
+},
+{
+"w": "mollie",
+"pos": "noun",
+"senses": [
+"A Molotov cocktail."
+],
+"ety": "Diminutive abbreviation; compare Mollie (“Molotov”).",
+"examples": [],
+"p": "MAH-lee"
+},
+{
+"w": "hematologist",
+"pos": "noun",
+"senses": [
+"A scientist, usually a medical doctor, who specializes in hematology."
+],
+"ety": "From hematology + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "bistre",
+"pos": "noun",
+"senses": [
+"A brown pigment made from soot, especially from beech wood.",
+"A mid-to-dark brown color resembling the pigment."
+],
+"ety": "Borrowed from French bistre.",
+"examples": [],
+"p": "BIS-ter"
+},
+{
+"w": "boral",
+"pos": "noun",
+"senses": [
+"aluminium borotartrate, an astringent and antiseptic."
+],
+"ety": "Proprietary name, shortened from the chemical name.",
+"examples": [],
+"p": null
+},
+{
+"w": "candlebox",
+"pos": "noun",
+"senses": [
+"A box for holding candles, especially one from a candle supplier."
+],
+"ety": "From candle + box.",
+"examples": [],
+"p": null
+},
+{
+"w": "teosinte",
+"pos": "noun",
+"senses": [
+"Zea diploperennis",
+"Zea perennis",
+"Zea luxurians",
+"Zea nicaraguensis"
+],
+"ety": "From French téosinte, from Spanish teocinte, from Classical Nahuatl teocintli, apparently from teōtl (“god”) + cintli (“dried maize”).",
+"examples": [],
+"p": "tee-oh-SIN-tay"
+},
+{
+"w": "marquisate",
+"pos": "noun",
+"senses": [
+"The territory held by a marquis, margrave or marchioness.",
+"The state or rank of a marquis."
+],
+"ety": "From marquis + -ate (forms nouns denoting rank or office, the concrete charge of it), on the pattern of Middle French marquisat, Italian marchesato.",
+"examples": [],
+"p": "MAH-kwih-sut"
+},
+{
+"w": "toolbag",
+"pos": "noun",
+"senses": [
+"A bag used to carry tools."
+],
+"ety": "From tool + bag.",
+"examples": [
+"The mundane reality is that many art thieves are simply not the sharpest grappling hooks in the toolbag; the smart ones choose to steal things that can be much more easily converted into money — or just money itself."
+],
+"p": null
+},
+{
+"w": "myosin",
+"pos": "noun",
+"senses": [
+"An albuminous body present in dead muscle formed in the process of coagulation which takes place in rigor mortis."
+],
+"ety": "From myo- (“relating to muscle”), and Ancient Greek μυός (muós), genitive of μῦς (mûs, “muscle”) + -in.",
+"examples": [],
+"p": "MY-oh-sin"
+},
+{
+"w": "soonish",
+"pos": "adverb",
+"senses": [
+"Some time in the not so distant but not yet definable future."
+],
+"ety": "From soon + -ish.",
+"examples": [],
+"p": "SOON-ish"
+},
+{
+"w": "sycamore",
+"pos": "noun",
+"senses": [
+"A large tree bearing edible fruit, Ficus sycomorus, allied to the common fig, found in Egypt and Syria."
+],
+"ety": "Circa 1350 as Middle English sicamour, from Old French sicamor, from Latin sȳcomorus, from Ancient Greek σῡκόμορος (sūkómoros, literally “fig-mulberry”), from σῦκον (sûkon, “fig”) + μόρον (móron, “mulberry”). Possibly influenced by Hebrew שִׁקְמָה (shikmá, “fig-mulberry”). In the 16th c. applied to the European maple (Acer pseudoplatanus), in the early 19th c. to various plane tree species introduced to North America, perhaps in analogy to their shadiness.",
+"examples": [],
+"p": "SIK-uh-mor"
+},
+{
+"w": "microbiologic",
+"pos": "adjective",
+"senses": [
+"Synonym of microbiological."
+],
+"ety": "From micro- + biologic.",
+"examples": [],
+"p": null
+},
+{
+"w": "hoopy",
+"pos": "adjective",
+"senses": [
+"Shaped like a hoop."
+],
+"ety": "From hoop + -y.",
+"examples": [],
+"p": "HOO-pee"
+},
+{
+"w": "disso",
+"pos": "noun",
+"senses": [
+"a dissociative drug"
+],
+"ety": "Clipping of dissociative + -o.",
+"examples": [],
+"p": null
+},
+{
+"w": "oncogenic",
+"pos": "adjective",
+"senses": [
+"Causing the formation of tumors.",
+"Arising from or caused by a tumor: tumor-induced."
+],
+"ety": "From onco- (“tumor”) + -genic (“producing”).",
+"examples": [],
+"p": "ong-koh-JEN-ik"
+},
+{
+"w": "perspectivism",
+"pos": "noun",
+"senses": [
+"The philosophical view that all perception always takes place from a specific perspective."
+],
+"ety": "From perspective + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "continuer",
+"pos": "noun",
+"senses": [
+"One who or that which continues."
+],
+"ety": "From continue + -er.",
+"examples": [],
+"p": null
+}
+]

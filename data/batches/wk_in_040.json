@@ -1,0 +1,536 @@
+[
+{
+"w": "tarpaulin",
+"pos": "noun",
+"senses": [
+"A heavy, waterproof sheet of material, often cloth or plastic sheet, used as a cover or blanket (often as weatherproofing, or to keep loose cargo from blowing off a lorry)."
+],
+"ety": "From tar + pall (“heavy canvas”) + -ing. The sailor sense reflects that sailors of centuries past often wore garments made of tarred cloth (for weatherproofing).",
+"examples": [
+"Throw a tarpaulin over that woodpile before it gets wet.",
+"There were sailors asleep in the fantastic fashion of the British tarpaulin — snoring heavily as they lay on the bare deck, despite the din about them."
+],
+"p": "TAR-puh-lin"
+},
+{
+"w": "delimiter",
+"pos": "noun",
+"senses": [
+"That which delimits, that separates."
+],
+"ety": "From delimit + -er.",
+"examples": [
+"A comma-delimited file has commas as the delimiter, separating each field of the file."
+],
+"p": "dih-LIM-ih-ter"
+},
+{
+"w": "cornel",
+"pos": "noun",
+"senses": [
+"Any tree or shrub of the dogwood subgenera, Cornus subg. Arctocrania (syn. Cornus subg. Chamaepericlymenum) or Cornus subg. Cornus, especially Cornus mas, the European cornel.",
+"The cherry-like fruit of such plants, certain of which are edible."
+],
+"ety": "From Middle English corneille, borrowed from Middle French corneille, from Vulgar Latin *cornicula, from Latin cornus (“the European cornel”).",
+"examples": [
+"Meanwhile the goddess in disdain bestows / The mast and acorn, brutal food! and strows / The fruits and cornel, as their feast, around"
+],
+"p": "KAW-nul"
+},
+{
+"w": "cognize",
+"pos": "verb",
+"senses": [
+"To know, perceive, or become aware of.",
+"To make into an object of cognition (the process of acquiring knowledge through thought); to cogitate."
+],
+"ety": "Back-formation from cognizance.",
+"examples": [
+"The act of consciously knowing about consciousness is the act of the brain mirroring its own organizations, cognizing about its own cognizing."
+],
+"p": "KAHG-nize"
+},
+{
+"w": "deductibility",
+"pos": "noun",
+"senses": [
+"The ability to be deducted, such as from one's taxes"
+],
+"ety": "From deductible + -ity.",
+"examples": [
+"There is no doubt about the deductibility of these expenses.",
+"In several months you’re likely to have a clearer picture on how your state intends to treat your forgiven PPP loan and the deductibility of your business expenses not just for tax year 2020 but also tax year 2021."
+],
+"p": "dih-duk-tuh-BIL-ih-tee"
+},
+{
+"w": "blinder",
+"pos": "noun",
+"senses": [
+"A bag or cloth put over the head of a difficult horse while it is being handled or mounted.",
+"Something that impairs visual or mental perception in a way figuratively compared to horses' blinders.",
+"A bright light used to blind the audience temporarily during a scene change."
+],
+"ety": "From blind + -er.",
+"examples": [
+"Orientalism itself, furthermore, was an exclusively male province; like so many professional guilds during the modern period, it viewed itself and its subject matter with sexist blinders.",
+"As it was, innocence was his blinder.",
+"I, I, got a new girlfriend / She feels like he's on top / And I don't feel no remorse / And you can't see past my blinders"
+],
+"p": "BLINE-der"
+},
+{
+"w": "surveil",
+"pos": "verb",
+"senses": [
+"To keep someone or something under surveillance."
+],
+"ety": "Back-formation from surveillance (but cf. French surveiller and its variant surveille). First attested in 1903.",
+"examples": [
+"The plaintiff also stresses that the store as a whole, and the customer exits especially, were closely surveilled."
+],
+"p": "ser-VAYL"
+},
+{
+"w": "oligarchy",
+"pos": "noun",
+"senses": [
+"A government run by and for only a few, often the aristocracy, the wealthy, or their friends and associates.",
+"A state ruled by such a government.",
+"Those who make up an oligarchic government."
+],
+"ety": "Borrowed from French oligarchie, from Late Latin oligarchia, from Ancient Greek ὀλιγαρχία (oligarkhía), from ὀλίγος (olígos, “few”) + ἀρχή (arkhḗ, “rule”). By surface analysis, oligo- (“few”) + -archy (“rule, command”).",
+"examples": [
+"The Itasca Project is just one example of existing oligarchy, and a surprisingly open one at that.",
+"The 1832 Reform Act aimed to transform the British oligarchy and allow Parliament to represent the interests of a broader range of the population.",
+"The modern British oligarchy—particularly during periods of Tory rule—has been called a chumocracy."
+],
+"p": "AH-lih-gar-kee"
+},
+{
+"w": "vagabond",
+"pos": "noun",
+"senses": [
+"A person on a trip of indeterminate destination and/or length of time.",
+"One who usually wanders from place to place, having no fixed dwelling, or not abiding in it, and usually without the means of honest livelihood."
+],
+"ety": "From Old French vagabond, from Late Latin vagābundus, from Latin vagari (“wander”). Compare moribund.",
+"examples": [
+"Anoleis: You will excuse me if I don't stand up. Anoleis: I have no time to entertain spaceborn vagabonds."
+],
+"p": "VA-guh-bahnd"
+},
+{
+"w": "drivable",
+"pos": "adjective",
+"senses": [
+"Capable of being driven (as a vehicle).",
+"Capable of being driven on safely or successfully (as a road or other surface)."
+],
+"ety": "c. 1820 drive + -able",
+"examples": [
+"In those days, high school boys would get their hands on old 1936 to 1938 cars, A-Models with a rumble seat and fix them up until they were in a drivable condition."
+],
+"p": "DRY-vuh-bul"
+},
+{
+"w": "chive",
+"pos": "noun",
+"senses": [
+"A perennial plant, Allium schoenoprasum, related to the onion.",
+"The leaves of this plant used as a herb."
+],
+"ety": "From Middle English chive~cyve, from Old French chive~cive, from Latin cēpa (“onion”).",
+"examples": [
+"What a splendid pie, pizza-pizza pie / Every minute, every second, buy, buy, buy, buy, buy / Pepperoni and green peppers, mushrooms, olive, chives"
+],
+"p": "chive"
+},
+{
+"w": "ovoid",
+"pos": "adjective",
+"senses": [
+"Shaped like an oval.",
+"Egg-shaped; shaped like an oval, but more tapered at one end; ovate."
+],
+"ety": "From Latin ōvum (“egg”) + -oid (“resembling”).",
+"examples": [
+"That was the way my mind lurched and stumbled, among the sharp rs and ts, sliding over the ovoid vowels as if on pebbles."
+],
+"p": "OH-voyd"
+},
+{
+"w": "blackcurrant",
+"pos": "noun",
+"senses": [
+"A shrub, Ribes nigrum, that produces small, very dark purple, edible berries.",
+"The berry borne by this shrub."
+],
+"ety": "From black + currant.",
+"examples": [
+"Their wines are intense and elegant, tasting of blackcurrants and made to be aged.",
+"Blackcurrant jam is easy, but this year I have left the blackcurrants so long that they are sweet and ripe enough to eat raw: delicious rolled in a crunch of granulated sugar."
+],
+"p": "BLAK-kur-runt"
+},
+{
+"w": "sefer",
+"pos": "noun",
+"senses": [
+"A book, especially a religious book."
+],
+"ety": "Borrowed from Hebrew סֵפֶר.",
+"examples": [
+"Umm, can you tell me the name of the sefer of Rav Nachman's where he wrote this, and where I can get it ? And how the quote originally goes in Hebrew or Yiddish or Russian or whatever language he wrote in ?"
+],
+"p": "SEF-air"
+},
+{
+"w": "slake",
+"pos": "verb",
+"senses": [
+"To satisfy (thirst, or other desires).",
+"To cool (something) with water or another liquid."
+],
+"ety": "From Middle English slaken (“to render slack, to slake”), from Old English sleacian, from Old English slæc (“slack”). Unrelated to, but possibly influenced by, the Old Norse sløkkva (“to extinguish”), compare Swedish släcka in the phrase släcka sin törst (“quench one's thirst”), släcka elden (“put out the fire”), and släckt kalk (“slaked lime”).",
+"examples": [
+"It could not slake mine ire nor ease my heart.",
+"Tarzan went to the brook first, and slaked his thirst. Then he approached his cabin.",
+"In that study, some of the subjects had dreams in which they were slaking their thirst, very much like the dreams of convenience Freud described."
+],
+"p": "slayk"
+},
+{
+"w": "lexis",
+"pos": "noun",
+"senses": [
+"The vocabulary used by a writer."
+],
+"ety": "Learned borrowing from Ancient Greek λέξις (léxis, “speech, word”).",
+"examples": [
+"In this broadsheet newspaper, the reporter uses a complicated and formal lexis which I find hard to understand."
+],
+"p": "LEK-sis"
+},
+{
+"w": "brimmer",
+"pos": "noun",
+"senses": [
+"A cup brimming over with liquid."
+],
+"ety": "From brim + -er.",
+"examples": [
+"No wonder, then, that they made a straight wake for the whale's mouth--the bar--when the wrinkled little old Jonah, there officiating, soon poured them out brimmers all round."
+],
+"p": "BRIM-uh"
+},
+{
+"w": "floruit",
+"pos": "verb",
+"senses": [
+"Lived, flourished; used in biographies to indicate a time period during which a person is known to have been alive or known to have been notably active, when dates of birth and/or death are not known."
+],
+"ety": "Unadapted borrowing from Latin flōruit (“he/she/it flourished”), from flōreō (“bloom, flourish”), from flōs (“flower”).",
+"examples": [
+"Marius Mercator must have shared the vigour of Alcimus, for he floruit in 218 according to Mr. Miller , while he at any rate existed in 418.",
+"Mīrā (Bai). Floruit 16th century. Rajasthan's most famous female saint and poetess of Kṛṣṇa bhakti."
+],
+"p": "FLOR-yoo-it"
+},
+{
+"w": "oolong",
+"pos": "noun",
+"senses": [
+"A partially fermented tea, often roasted, which combines the characteristics of green tea and black tea."
+],
+"ety": "1850s. From either Mandarin 烏龍 /乌龙 (wūlóng) due to hypercorrection, or directly from Hokkien 烏龍 /乌龙 (o͘-liông), from 烏 /乌 (o͘, “black”) + 龍 /龙 (liông, “dragon”). See also pouchong from Hokkien 包種茶 /包种茶 (pau-chióng-tê, literally “tea of the wrapped kind”).",
+"examples": [
+"Flavour and aroma of semi-fermented teas is dictated by the extent of fermentation and, for this reason, oolong has a considerably stronger flavour than pouchong, which undergoes a significantly shorter fermentation."
+],
+"p": "OO-luung"
+},
+{
+"w": "puree",
+"pos": "noun",
+"senses": [
+"A food that has been ground or crushed into a thick liquid or paste."
+],
+"ety": "Borrowed from French purée.",
+"examples": [
+"Tomato sauce is generally a puree."
+],
+"p": "PYOOR-ray"
+},
+{
+"w": "qubit",
+"pos": "noun",
+"senses": [
+"A quantum bit; the basic unit of quantum information described by a superposition of two states; a quantum bit in a quantum computer capable of being in a state of superposition; A binary qudit."
+],
+"ety": "Blend of quantum + bit, a play on cubit (“historical unit of length”). Coined by American physicist Benjamin Schumacher in 1995.",
+"examples": [
+"Quantum computing, on the other hand, is based on quantum bits, or qubits.",
+"Each extra qubit in a quantum machine doubles the number of simultaneous operations it can perform."
+],
+"p": "KYOO-bit"
+},
+{
+"w": "carnitas",
+"pos": "noun",
+"senses": [
+"A Mexican dish of strips or chunks of pork (or sometimes other meat) which are braised or roasted, especially in their own fat."
+],
+"ety": "Borrowed from Spanish carnitas, diminutive of carne (“meat”).",
+"examples": [
+"Carnitas is easy to make, even if you don't have a whole pig to cook.",
+"I was trying to bring supplies across the border to cook a trio of ceviche — marinated raw fish in lime — and duck carnitas with mole coloradito, for the festival’s gala dinner."
+],
+"p": "kar-NEE-tahs"
+},
+{
+"w": "differentiable",
+"pos": "adjective",
+"senses": [
+"able to be differentiated; distinguishable, as for example by differing appearance or measurable characteristics."
+],
+"ety": "From differentiate + -able.",
+"examples": [
+"It would, in that case, have been as real as it now is, and would have been differentiable from its Maker as an effect is differentiable from its cause."
+],
+"p": "dif-er-EN-shuh-bul"
+},
+{
+"w": "beignet",
+"pos": "noun",
+"senses": [
+"A fritter (with a fruit or vegetable filling).",
+"A Louisiana-style fried doughnut or fritter covered in powdered sugar."
+],
+"ety": "Borrowed from French beignet, ultimately of Frankish origin.",
+"examples": [
+"We sat in a New Orleans cafe eating beignets and sipping cappuccinos."
+],
+"p": "ben-YAY"
+},
+{
+"w": "winterbourne",
+"pos": "noun",
+"senses": [
+"A stream that only flows in winter or after wet weather, particularly in an area rich in limestone."
+],
+"ety": "From winter + bourne (“seasonal brook or stream”), partly also from the placenames Winterborne, Winterbourne, which are derived from Old English winterburna (“stream that is full in winter”), from winter (from Proto-Germanic *wintruz, further etymology uncertain) + burna (“stream”) (ultimately from Proto-Indo-European *bʰrewh₁- (“to boil; to brew”)). The Old English word appears to have survived only in placenames.",
+"examples": [
+"The stream is a winterbourne - it flows only in winter or other periods of high rainfall and is usually dry in summer."
+],
+"p": "WIN-ter-born"
+},
+{
+"w": "quintet",
+"pos": "noun",
+"senses": [
+"A composition (a type of chamber music) in five parts (typically each a singer or instrumentalist, sometimes several musicians)",
+"A group of five musicians, fit to play such a piece of music together",
+"Any group of five members"
+],
+"ety": "From French quintette, from Italian quintetto, diminutive of quinto (“fifth”), itself from Latin quintus, related to quīnque (“five”).",
+"examples": [
+"The composer wrote a string quintet in his early twenties.",
+"A jazz quintet performed at the festival."
+],
+"p": "kwin-TET"
+},
+{
+"w": "phallic",
+"pos": "adjective",
+"senses": [
+"Shaped like an erect human penis."
+],
+"ety": "From phallus (“penis”) + -ic.",
+"examples": [
+"My mother has a very phallic salt shaker.",
+"For many first-time visitors, a common initial impression of the Washington Monument is that it is incredibly phallic.",
+"The incinerator and a big smoke stack / It's a phallic symbol and it makes me laugh"
+],
+"p": "FAL-ik"
+},
+{
+"w": "coolibah",
+"pos": "noun",
+"senses": [
+"Any of a number of eucalyptus trees of central and northern Australia, in particular Eucalyptus microtheca."
+],
+"ety": "Possibly from Gamilaraay gulabaa or Yuwaalaraay gulabaa.",
+"examples": [
+"Oh there once was a swagman camped in the billabong, Under the shade of a coolibah tree, And he sang as he looked at the old billy boiling, 'Who'll come a'waltzing Matilda, with me.'"
+],
+"p": "KOO-lih-bah"
+},
+{
+"w": "sackful",
+"pos": "noun",
+"senses": [
+"The amount a sack will contain.",
+"A large number or amount (of something)."
+],
+"ety": "From sack (“bag”) + -ful.",
+"examples": [
+"A sackful of sand won't help the soil here much, but a dump truck full would.",
+"If I be not so rich, as to sowe almes by sackfulls, euen my Mite, is beyond the superfluity of wealth: and my pen, my tongue, and my life, shal (I hope) helpe some to better treasure, then the earth affoords them.",
+"Potatoes were getting very scarce. If you got a sackful you could take them down to the cook-house and swap them for a water-bottleful of coffee."
+],
+"p": "SAK-fuul"
+},
+{
+"w": "craggy",
+"pos": "adjective",
+"senses": [
+"Characterized by rugged, sharp, or coarse features."
+],
+"ety": "From crag + -y.",
+"examples": [
+"The goat climbed up the craggy rocks.",
+"The old man had craggy, uncultured features, but had bright, intelligent eyes."
+],
+"p": "KRAG-ee"
+},
+{
+"w": "connexion",
+"pos": "noun",
+"senses": [
+"Dated spelling of connection."
+],
+"ety": "From Middle English connexioun, from Latin connexiō (“a conclusion, binding together”), from connectō.",
+"examples": [
+"In this connexion, it is worth remembering that we are never told how the tribute was collected within the tributary state."
+],
+"p": "kuh-NEK-shun"
+},
+{
+"w": "reptilian",
+"pos": "adjective",
+"senses": [
+"Reptilelike.",
+"Unthinking, low, base, contemptible.",
+"Cold-blooded, treacherous, unavoidably selfish and hostile."
+],
+"ety": "From reptile + -ian, replacing earlier reptilious and adjectival reptile.",
+"examples": [
+"It is filled with blazing fires and half-human, half-animal beasts, with spiked reptilian tails."
+],
+"p": "rep-TIL-yun"
+},
+{
+"w": "hackle",
+"pos": "verb",
+"senses": [
+"To dress (flax or hemp) with a hackle; to prepare fibres of flax or hemp for spinning.",
+"To separate, as the coarse part of flax or hemp from the fine, by drawing it through the teeth of a hackle or hatchel."
+],
+"ety": "From Middle English hakle (compare the compound meshakele), from Old English hæcla, hacele, from Proto-Germanic *hakulǭ, equivalent to hack + -le. Cognate with Dutch hekel, German Hechel.",
+"examples": [
+"Then, with a smile that seemed to have all the freshness of the matutinal hour in it, she bent again to her work of hackling flax."
+],
+"p": "HAK-ul"
+},
+{
+"w": "dwarfism",
+"pos": "noun",
+"senses": [
+"The condition of being a dwarf (person of short stature).",
+"The quality of being puny or inferior."
+],
+"ety": "From dwarf + -ism.",
+"examples": [
+"Studies of disproportionate dwarfisms in animals have revealed the importance of core proteins an sulfation in the development of cartilage.",
+"They didn’t find out I had achondroplastic dwarfism until a few months later. “Achondroplasia” is a word that haunted me in my childhood. I never wanted to hear it. It wasn’t who I was. I was not different.",
+"Childish, childish to the core: that's why they're so good at nursing, they're arrested in a state of permanent intellectual dwarfism themselves!"
+],
+"p": "DWOR-fih-zum"
+},
+{
+"w": "lexicography",
+"pos": "noun",
+"senses": [
+"The art or craft of compiling, writing, and editing dictionaries.",
+"A dictionary, a lexicon, a wordbook."
+],
+"ety": "From lexico- (prefix meaning ‘speech; words’) + -graphy (suffix meaning ‘something written about a specified subject’).",
+"examples": [
+"A dictionary, as an art and craft of lexicography, has always been closely associated with the notion of pedagogy."
+],
+"p": "lek-sih-KAH-gruh-fee"
+},
+{
+"w": "tantalus",
+"pos": "noun",
+"senses": [
+"A stand in which to lock up drink decanters while keeping them visible.",
+"Something of an evasive or retreating nature, something consistently out of reach; a tantalising thing."
+],
+"ety": "From Latin Tantalus, from Ancient Greek Τάνταλος (Tántalos, “Tantalus”), a Phrygian king in Greek mythology who was condemned to stand in a pool of water which receded every time he tried to drink, and with overhanging branches of fruit which pulled back whenever he tried to eat. Doublet of Tantalus.",
+"examples": [
+"Yes, there was a tantalus containing brandy and whisky on the sea-chest.",
+"And stockrooms heavy with the Tantalus on which the family fortune has been made",
+"Over all, there brooded the shadow of his injuries and the tantalus of their slow healing."
+],
+"p": "TAN-tuh-lus"
+},
+{
+"w": "oxygenate",
+"pos": "verb",
+"senses": [
+"To treat or infuse with oxygen."
+],
+"ety": "From oxygen or French oxygéner + -ate (verb-forming suffix).",
+"examples": [
+"After we oxygenated the river, the fish returned.",
+"The function of the respiratory system is to oxygenate the blood and remove carbon dioxide."
+],
+"p": "OK-sih-juh-nayt"
+},
+{
+"w": "grist",
+"pos": "noun",
+"senses": [
+"Grain that is to be ground in a mill.",
+"A group of bees."
+],
+"ety": "From Middle English grist, gryst, from Old English grist, gyrst (“the action of grinding, corn for grinding, gnashing”), of obscure origin: possibly from a pre-Germanic substrate language, or from a derivative of Proto-Germanic *gredaną (“to crunch”), possibly from Proto-Indo-European *gʰer- (“to rub, grind”). Cognate with Old Saxon gristgrimmo (“gnashing of the teeth”), German Griesgram (“a grumbler, a grouch, peevishness, misery”), Old English gristel (“gristle”).",
+"examples": [
+"Swarming like a grist of bees...",
+"A grist of bees is somehow leaking through the insufficient squares of the bug screen"
+],
+"p": "grist"
+},
+{
+"w": "blazon",
+"pos": "noun",
+"senses": [
+"A verbal or written description of a coat of arms.",
+"A coat of arms or a banner depicting a coat of arms.",
+"Ostentatious display, verbal or otherwise; publication; description; record."
+],
+"ety": "From Middle English blason, blasoun (“shield”), from Old French blason (“shield”).",
+"examples": [
+"Obtrude the blazon of their exploits upon the company."
+],
+"p": "BLAY-zun"
+},
+{
+"w": "pollute",
+"pos": "verb",
+"senses": [
+"To make something harmful, especially by the addition of some unwanted product.",
+"To make something or somewhere less suitable for some activity, especially by the introduction of some unnatural factor.",
+"To corrupt or profane",
+"To violate sexually; to debauch; to dishonour."
+],
+"ety": "From Middle English polluten, borrowed from Latin pollūtum, from pollūtus (“no longer virgin\", \"unchaste”), perfect passive participle of polluō (“soil\", \"defile\", \"dishonor”).",
+"examples": [
+"The factory polluted the river when it cleaned its tanks.",
+"The lights from the stadium polluted the night sky, and we couldn't see the stars.",
+"But as for the cowardly, the faithless, the polluted, as for murderers, fornicators, sorcerers, idolaters, and all liars, their lot shall be in the lake that burns with fire and sulphur, which is the second death."
+],
+"p": "puh-LOOT"
+}
+]

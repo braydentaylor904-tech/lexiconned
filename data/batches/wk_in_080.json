@@ -1,0 +1,541 @@
+[
+{
+"w": "paczki",
+"pos": "noun",
+"senses": [
+"A traditional Polish doughnut."
+],
+"ety": "Borrowed from Polish pączki, plural form of pączek.",
+"examples": [
+"Fat Tuesday is our Mardi Gras, a sort of Polish St. Patrick’s Day, with Hamtramck in place of the French Quarter and paczki (pronounced POONCH-kee) in place of green beer."
+],
+"p": "PAWNCH-kee"
+},
+{
+"w": "wristlet",
+"pos": "noun",
+"senses": [
+"An elastic band worn to keep a glove from slipping off the wrist.",
+"A decorative band or bracelet that encircles the wearer's wrist; especially, a closely knitted one to keep it warm; a muffetee.",
+"A small handbag with a short strap for attaching it to the wearer's wrist."
+],
+"ety": "From wrist + -let (suffix indicating a piece of an object).",
+"examples": [
+"Wristlets are made of wool, and are of use in keeping the wrists comfortable in cold weather, and thereby preventing the rheumatism, and other complaints, arising from cold, particularly from the arms.",
+"Grey Gauntlet, you of the wristlets wrought / Of home-spun soft and grey, / Do you hear the flashing needles click / Three thousand miles away?",
+"Counsel for the plaintiffs, in their brief, have cited cases wherein the merchandise consisted of wristlets or straps fitted with metal buckles and used for holding wrist watches."
+],
+"p": "RIST-lut"
+},
+{
+"w": "wharfinger",
+"pos": "noun",
+"senses": [
+"The manager of a wharf along a railway line, that is, a place used for loading and unloading goods on to trains."
+],
+"ety": "From Late Middle English wharfager (“keeper of a wharf”) (modified in the same way as messenger from Middle English messager, passenger from Middle English passager, etc.), from wharfage (“use of a wharf; payment for such use”) + -er (suffix forming agent nouns, especially names of persons engaged in professions or trades). Wharfage is probably derived from Medieval Latin wharfāgium, or from Middle English wharf (“structure projecting into a body of water for ships to moor and load or unload, pier, quay, wharf”) + -age (suffix forming nouns denoting actions, states, etc.). By surface analysis,",
+"examples": [
+"A female wharfinger—a grade of staff peculiar to the Wenford Mineral Line—lives in an adjacent house."
+],
+"p": "WOR-fin-jer"
+},
+{
+"w": "scissor",
+"pos": "verb",
+"senses": [
+"To cut using, or as if using, scissors.",
+"To excise or expunge something from a text.",
+"To move something like a pair of scissors, especially the legs."
+],
+"ety": "From Middle English cysour, cysoure, cysowre, altered from sisours (“scissors”), from Old French cisoires, cisours, cisur, from Latin caedere (“to cut”); current spelling influenced by Latin scindere, scissus (“to split”).",
+"examples": [
+"Tucked between the pages were Sunday features, together with scissored snippings from gossip columns.",
+"They clipped the beads from her arms and scissored inches from her hair.",
+"Network Rail, which had been able to secure funding from a multitude of 'patient capital' players across the world, was brought to heel, its credit card scissored."
+],
+"p": "SIZ-er"
+},
+{
+"w": "radge",
+"pos": "adjective",
+"senses": [
+"Violent or crazy.",
+"amazing or stupendous."
+],
+"ety": "Dialectal variant of rage.",
+"examples": [
+"We met for the first time at the airport and ended up in Turkey – I’ve done a lot of radged things in my time but nothing like this.",
+"That fight last night was radge",
+"Them burgers in the Brandling Villa are pure radge"
+],
+"p": "raj"
+},
+{
+"w": "aggie",
+"pos": "noun",
+"senses": [
+"Marble or a marble made of agate, or one that looks as if it were made of agate."
+],
+"ety": "From agate + -ie.",
+"examples": [
+"Most of the time it went fine; some of his classmates had so many marbles they could have opened up their own shop in smurfs, pirates, purple aggies and pink panthers."
+],
+"p": "A-gee"
+},
+{
+"w": "hider",
+"pos": "noun",
+"senses": [
+"One who hides oneself or a thing."
+],
+"ety": "From hide + -er.",
+"examples": [
+"Bobgoblin is actually hiding in the pillows. Told you Bobgoblin is an outstanding hider."
+],
+"p": "HAH-ih-der"
+},
+{
+"w": "stoat",
+"pos": "noun",
+"senses": [
+"Mustela erminea, the ermine or short-tailed weasel, a mustelid native to Eurasia and North America, distinguished from the least weasel by its larger size and longer tail with a prominent black tip."
+],
+"ety": "From Middle English stote (“the ermine, especially in its brown summer coat”), of uncertain origin. The word bears some resemblance to Old Norse stutr (“bull”), Swedish stut (“bull, steer”) and Danish stud (“steer”) (see also English stot), but the semantic link is difficult unless a common origin is from “(brown?) male mammal”. First attested in the mid 1400s.",
+"examples": [
+"I have never seen Stoats hunt in packs, but it is certain both Weasels and Stoats do so.",
+"In 1953 it was reported that the stoat had increased to a high population level, but that the weasel introduced at the same time had disappeared (de Vos et al. 1956).",
+"European stoats were long ago introduced to New Zealand (along with ferrets and weasels!) in the mistaken belief that they would control the burgeoning populations of introduced rabbits."
+],
+"p": "STOHT"
+},
+{
+"w": "demotic",
+"pos": "adjective",
+"senses": [
+"Of or for the common people."
+],
+"ety": "First attested in 1822, from Ancient Greek δημοτικός (dēmotikós, “common”), from δημότης (dēmótēs, “commoner”), from δῆμος (dêmos, “the common people”).",
+"examples": [
+"The conservative writer Marc Thiessen tried to depict Trump’s lurid festival as a sign of his demotic spirit, opening the White House to the sort of people who go to motocross rallies and monster truck shows."
+],
+"p": "dih-MAH-tik"
+},
+{
+"w": "galangal",
+"pos": "noun",
+"senses": [
+"Any of several east Asian plants of genera Alpinia and Kaempferia in the ginger family, used as a spice, but principally Alpinia galanga."
+],
+"ety": "From Middle English galyngale, from Old French galingal, from Arabic خَلَنْجَان (ḵalanjān), from Persian قولنجان (qulenjân, qulanjân), from Sanskrit कुलञ्जन (kulañjana), perhaps from Chinese 高良薑／高良姜 (gāoliángjiāng), from 高涼 /高凉 (Gāoliáng) (a prefecture or county in China) + 薑 /姜 (jiāng, “ginger”).",
+"examples": [
+"The refreshing aroma of galangal acts in combination with and as a contrast to lemongrass in many recipes in this book."
+],
+"p": "guh-LANG-gul"
+},
+{
+"w": "snivel",
+"pos": "verb",
+"senses": [
+"To breathe heavily through the nose while it is congested with nasal mucus."
+],
+"ety": "From Middle English snivelen, snevelen, snyvelen, snuvelen, from Old English *snyflan (attested in the verbal noun snyflung (“mucus”)), from Proto-West Germanic *snuflijan, related to Old English snofl (“mucus”), ultimately from the root of snout. Akin to sniff, snuff. Compare sniffle. Cognate with Middle Low German snuffelen, snüffelen (“to sniff, smell”), Danish snøvle (“to sniffle, snivel”), Norwegian Nynorsk snuvla (“to sniffle, snivel”), Swedish snövla (“to sniffle, snivel”). Compare typologically Russian сопе́ть (sopétʹ), сопля́ (sopljá) akinness.",
+"examples": [
+"With stinking breath, swart-cheeks, and hanging chaps; With wrinkled neck; and stooping as she goes, With driveling mouth, and with a sniveling nose."
+],
+"p": "SNIV-ul"
+},
+{
+"w": "lymphatic",
+"pos": "adjective",
+"senses": [
+"Lacking energy or enthusiasm; having characteristics once associated with an excess of lymph: lack of muscle tone, paleness, sluggishness, etc."
+],
+"ety": "From lymph + -atic.",
+"examples": [
+"Eleonore Lemindre, aged 34, tailoress, of a sanguine lymphatic temperament, having suffered great depression of spirits, experienced, in the course of 1820, symptoms of what is called disease of the heart.",
+"Who has not marked, where the full cheek should be, Incipient lines of lank flaccidity, Lymphatic pallor where the pink should glow, And where the throb of transport, pulses low?—"
+],
+"p": "lim-FA-tik"
+},
+{
+"w": "dreidel",
+"pos": "noun",
+"senses": [
+"A four-sided spinning top, inscribed with the four Hebrew letters נ (nun), ג (gimel), ה (hey), and ש (shin) (or פ (pey)) on each side, often used to play a traditional game during the Jewish festival of Hanukkah.",
+"A gambling game played using this top."
+],
+"ety": "Borrowed from Yiddish דריידל (dreydl, “dreidel; spinning top”), probably a blend of דרייען (dreyen, “to spin; to turn; to twist”) + טרענדל (trendl, “(dated) dreidel; spinning top”). דרייען (dreyen) is derived from Middle High German dræn, from Old High German drāen (“to turn; to twist”), from Proto-West Germanic *þrāan, from Proto-Germanic *þrēaną (“to turn; to twist”), from Proto-Indo-European *terh₁- (“to turn; to rub; to drill, pierce”); and טרענדל (trendl) is derived from Middle High German trendel (“spinning top”), from Proto-Germanic *trandijaną (“to revolve, spin”).",
+"examples": [
+"I have a little dreidel. I made it out of clay. / And when it's dry and ready, then dreidel I shall play. / Oh dreidel, dreidel, dreidel, I made it out of clay. / Oh dreidel, dreidel, dreidel, then dreidel I shall play.",
+"Students from the Yeshiva Beth Yehudah School danced in dreidel costumes at a menorah lighting in Detroit on Thursday.",
+"We do not spend our days huddled in smoke-filled rooms plotting world domination while Jared Kushner plays dreidel in the back with Noam Chomsky and George Soros sneaks the last latke."
+],
+"p": "DRAY-dul"
+},
+{
+"w": "fatalism",
+"pos": "noun",
+"senses": [
+"The doctrine that all events are subject to fate or inevitable necessity, or determined in advance in such a way that human beings cannot alter them."
+],
+"ety": "From fatal + -ism.",
+"examples": [
+"Sure, maybe. We know — have long known — that romanticism and fatalism are dialectical lovers."
+],
+"p": "FAY-tul-iz-um"
+},
+{
+"w": "indri",
+"pos": "noun",
+"senses": [
+"One of the largest living lemurs (Indri indri), native to Madagascar."
+],
+"ety": "Possibly from Malagasy endrina (“the lemur Indri indri”). A common explanation asserts that the word comes from the Malagasy indry (pronounced /ˈiɳɖʐʲ/) meaning “lo!” or “behold!”, or from indry izy (“There he is!”), which guides shouted to the French naturalist Pierre Sonnerat (1748–1814) upon seeing the animal, and which Sonnerat mistook for its name, but it has been suggested that Sonnerat studied indris too closely for this story to be plausible.",
+"examples": [
+"The Indri (Indri indri; top left), the largest prosimian at up to three feet long (excluding tail) and 22 pounds, eats plant matter.",
+"The indri inhabits coastal and montane rainforest from sea level to about 1,800 meters.",
+"Indris are known for their calls, some of which are truly eerie and can be heard for miles in the dense undergrowth."
+],
+"p": "IN-dree"
+},
+{
+"w": "tazia",
+"pos": "noun",
+"senses": [
+"A representation of the tombs of Hasan and Husayn (the grandsons of Muhammad), carried in the South Asian and Indo-Caribbean Shiite processions of Muharram."
+],
+"ety": "From Arabic تَعْزِيَة (taʕziya, “consolation, mourning”). Sense 1 was borrowed through Urdu تَعْزِیَہ (ta'ziya).",
+"examples": [
+"Gilt and paper presentations of their tombs are borne with shouting and wailing, music, torches, and yells, through the principal thoroughfares of the City; which fakements are called tazias."
+],
+"p": "tah-ZEE-uh"
+},
+{
+"w": "croaker",
+"pos": "noun",
+"senses": [
+"Someone who or something that makes a croaking sound.",
+"Any of certain fish in the family Sciaenidae, known for the throbbing sounds they make.",
+"A vocal pessimist, grumbler, or doomsayer."
+],
+"ety": "From croak + -er.",
+"examples": [
+"There are croakers in every country, always boding its ruin.",
+"Nor did the croakers have long to wait. The second night after the drowning of the mate the little yacht was suddenly wracked from stem to stern."
+],
+"p": "KROH-ker"
+},
+{
+"w": "opalite",
+"pos": "noun",
+"senses": [
+"Opal glass, formed into tiles or bricks."
+],
+"ety": "From opal + -ite. First attested in 1896.",
+"examples": [
+"Sleepless in the onyx night ¶ But now, the sky is opalite"
+],
+"p": "OH-pul-ite"
+},
+{
+"w": "gleek",
+"pos": "noun",
+"senses": [
+"A once-popular game of cards played by three people.",
+"Three of the same cards held in one hand; three of a kind."
+],
+"ety": "From Middle French glic, from Old French glic (“a game of cards”), of Germanic origin from or related to Middle High German glücke, gelücke (“luck”) and Middle Dutch gelīc (“like, alike”). More at luck, like.",
+"examples": [
+"Lady Loadstone: Laugh, and keep company, at gleek or crimp. / Mistress Polish: Your ladyship says right, crimp sure will cure her."
+],
+"p": "gleek"
+},
+{
+"w": "goldenrod",
+"pos": "noun",
+"senses": [
+"A golden-yellow colour, like that of the goldenrod plant."
+],
+"ety": "From golden + rod.",
+"examples": [
+"She wore a goldenrod dress with a scooping neckline."
+],
+"p": "GOHL-dun-rahd"
+},
+{
+"w": "celluloid",
+"pos": "noun",
+"senses": [
+"Any of a variety of thermoplastics created from nitrocellulose and camphor, once used as photographic film.",
+"The genre of cinema; film."
+],
+"ety": "Former trademark of Celluloid Manufacturing Company; from cellulose + -oid.",
+"examples": [
+"Celluloid railway comedy was hardly to appear again until the mid-thirties and, later, in Britain.",
+"In particular, they set Kerouac and Ginsberg to the specifications of an emergent superficial form—celluloid antiheroes—attractive to those in want of adventure and who would soon be reading On the Road (1957)."
+],
+"p": "SEL-yuh-loyd"
+},
+{
+"w": "episcopalian",
+"pos": "adjective",
+"senses": [
+"episcopal: pertaining to a bishop of any church",
+"Episcopalian"
+],
+"ety": "From episcopal + -ian.",
+"examples": [
+"A bishop is entitled to certain episcopalian privileges."
+],
+"p": "uh-pis-kuh-PAY-lee-un"
+},
+{
+"w": "brough",
+"pos": "noun",
+"senses": [
+"A halo or luminous disk or ring seen around the sun or moon, and in folklore considered to portend a rainstorm."
+],
+"ety": "A metathetic form of burgh (“mound, settlement”) employed in a special sense; thus a doublet of it, borough, Brough, burr (“halo, brough”), burrow, and Bury. For the semantic development, compare German Hof (“brough, halo, nimb”).",
+"examples": [
+"The corona or brough occurs when the sun or moon is seen through a thin cirro-stratus cloud, the portion of the cloud more immediately around the sun or moon appearing much lighter than the rest.",
+"Swainson, in his Weather Folklore, quotes: About the moon there is a brough, The weather will be cauld and rough."
+],
+"p": "bruf"
+},
+{
+"w": "bluer",
+"pos": "noun",
+"senses": [
+"A blue blazer, part of the school uniform at Harrow School."
+],
+"ety": "From blue + -er (“Oxford -er”). Used at Harrow School in London, United Kingdom.",
+"examples": [
+"He was alone in his room, in his bluer and his tie, seated on a chair, leaning over his bed like a desk—his preferred way to study—holding the stapled pages of the script, muttering the words."
+],
+"p": "BLOO-er"
+},
+{
+"w": "rattan",
+"pos": "noun",
+"senses": [
+"The plant used as a material for making furniture, baskets etc.",
+"A cane made from this material."
+],
+"ety": "Borrowed from Malay rotan.",
+"examples": [
+"It took Elwood an hour to find Mr. Gladwell, who sat in a big rattan chair at the edge of the sweet potato fields.",
+"He who first acts as striker asks the other how many blows of the rattan he will bear on his forearm without crying out."
+],
+"p": "ruh-TAN"
+},
+{
+"w": "abhor",
+"pos": "verb",
+"senses": [
+"To regard (someone or something) as horrifying or detestable; to feel great repugnance toward.",
+"To turn aside or avoid; to keep away from; to reject."
+],
+"ety": "First attested in 1449, from Middle English abhorren, borrowed from Middle French abhorrer, from Latin abhorreō (“shrink away from in horror”), from ab- (“from”) + horreō (“stand aghast, bristle with fear”).",
+"examples": [
+"I absolutely abhor being stuck in traffic jams.",
+"Let loue bee without dissimulation: abhorre that which is euill, cleaue to that which is good.",
+"Many vegetarians abhor the thought of killing animals to feed themselves and also the methods by which animals are slaughtered."
+],
+"p": "ab-HOR"
+},
+{
+"w": "melange",
+"pos": "noun",
+"senses": [
+"A mixture of different things; a disordered mixture.",
+"A Viennese coffee speciality, half steamed milk and half coffee."
+],
+"ety": "From French mélange, from Middle French mélange, meslange, from Old French meslance, meslinges (“set of diverse elements”), derived from mescler (“to mingle, mix up”) (modern French mêler), from Vulgar Latin *misculāre, from Latin misceō (“mix”) + -inges, a suffix from Frankish *-ingo (“-ing”). More at mix, -ing.",
+"examples": [
+"The room was a melange of comic books and posters."
+],
+"p": "muh-LAHNZH"
+},
+{
+"w": "elope",
+"pos": "verb",
+"senses": [
+"Of a married or engaged person, to run away from home with a paramour.",
+"Of an unmarried person, to run away secretly for the purpose of getting married with one's intended spouse; to marry in a quick or private fashion, especially without a public period of engagement.",
+"Of an unmarried person, to run away secretly from home in order to get married without parental or guardian consent.",
+"To escape from one's caretaker.",
+"To run away from home (for any reason)."
+],
+"ety": "From Anglo-Norman aloper (“to abduct, run away”), itself borrowed from Proto-West Germanic *andihlaupan (“to run away”). Equivalent to and- + lope as well as and- + leap (these being doublets). More at lope.",
+"examples": [
+"My younger sister has left all her friends-- has eloped; has thrown herself into the power of-- of Mr. Wickham.",
+"Although Cecilia was the youngest of the surviving Thrale daughters, she had been the first to marry, eloping to Gretna Green in 1795 with John Meredith Mostyn of neighboring Llewesog Lodge. Both were underage.",
+"Although they had eloped in Vegas, she'd insisted he wear a tuxedo and she buy a wedding dress at one of the local stores."
+],
+"p": "ih-LOHP"
+},
+{
+"w": "khanjar",
+"pos": "noun",
+"senses": [
+"A kind of dagger used in certain Arabian countries."
+],
+"ety": "Borrowed from Arabic خَنْجَر (ḵanjar). Doublet of kindjal.",
+"examples": [
+"The small khanjar is a curved dagger, and it was with this very one Nuri had killed in single combat a minor chieftain of the Muntefiq."
+],
+"p": "KAN-juh"
+},
+{
+"w": "massy",
+"pos": "adjective",
+"senses": [
+"Heavy; massive."
+],
+"ety": "From Middle English massy; equivalent to mass + -y.",
+"examples": [
+"Brown accompanied his jolly landlord and the rest of his friends into the large and smoky kitchen, where this savoury mess reeked on an oaken table, massy enough to have dined Johnnie Armstrong and his merry-men.",
+"We develop a set of six coupled equations governing the modal amplitudes and phase angles (mode-center offsets) for the flat, piezoelectric plate resonator with massy electrodes of unequal thickness."
+],
+"p": "MAS-ee"
+},
+{
+"w": "wildfowl",
+"pos": "noun",
+"senses": [
+"Any wild bird such as ducks, geese or swans."
+],
+"ety": "From wild + fowl.",
+"examples": [
+"In these early days of the journey we eat well. We have brought salted meat, flour, beans, dried fruit, and there are wildfowl to shoot."
+],
+"p": "WEYELD-fowl"
+},
+{
+"w": "antic",
+"pos": "adjective",
+"senses": [
+"Playful, funny, absurd.",
+"Grotesque, incongruous."
+],
+"ety": "Probably from Italian antico (“ancient”), used to describe ancient wall paintings from classical times, from Latin antiquus (“venerable”). See also Italian grottesco (“grotesque”). Doublet of antique.",
+"examples": [
+"My men like Satyres grazing on the lawnes, Shall with their Goate feete daunce an antick hay,",
+"The amusement park environment of seaside resorts such as Venice and the antic eclecticism of Greene & Greene's pre-Craftsman work all preceded the establishment of the movie colony in Hollywood."
+],
+"p": "AN-tik"
+},
+{
+"w": "gestation",
+"pos": "noun",
+"senses": [
+"The period of time during which an animal or human offspring physically develops inside the mother's body until it is born.",
+"The process of development of a plan or idea."
+],
+"ety": "Learned borrowing from Latin gestātiō.",
+"examples": [
+"It was to a conversation with another friend who had for many years been familiar with all my writings during the period of their gestation, just as I had been with his."
+],
+"p": "jes-TAY-shun"
+},
+{
+"w": "dentition",
+"pos": "noun",
+"senses": [
+"The set of natural teeth of an individual.",
+"The type, number and arrangement of the normal teeth of an organism or of the actual teeth of an individual.",
+"An arrangement in an organism or object of projections that resemble teeth.",
+"The process of growing teeth; teething."
+],
+"ety": "From Latin dentītiō (“teething, dentition”).",
+"examples": [
+"Can a medical man say just exactly from the necessarily hurried examination he must give of the mouth, and without a special dental knowledge, what constitutes a good dentition?",
+"As mentioned dentition of bivalves, i.e. teeth and sockets, occur on the vertical portion of the hinge plates of the two valves, which are in contact with each other when the shell is closed."
+],
+"p": "den-TISH-un"
+},
+{
+"w": "canny",
+"pos": "adjective",
+"senses": [
+"Careful, prudent, cautious.",
+"Knowing, shrewd, astute.",
+"Frugal, thrifty.",
+"Friendly, pleasant, fair, agreeable; (sometimes) funny.",
+"Gentle, quiet, steady."
+],
+"ety": "Northern English dialect, from can (“to know”) ( + -y), from Middle English can, first and third person singular of cunnen, connen (“to be able, know how to”), from Old English cunnan (“to know how to, be able to”). Compare Scots canny, English cunny, Old English cann (“knowledge, assertion”). More at can, cunning.",
+"examples": [
+"The politician gave a canny response to the reporter’s questions.",
+"The canny lawyer knew just how to get what he wanted.",
+"Then again, in war, politics and life, it’s always wiser to treat your adversary as a canny fox, not a crazy fool."
+],
+"p": "KAN-ee"
+},
+{
+"w": "mulligatawny",
+"pos": "noun",
+"senses": [
+"An Indian soup having a meat base and curry seasoning."
+],
+"ety": "Borrowed from Tamil மிளகுத்தண்ணீர் (miḷakuttaṇṇīr, literally “pepper water”).",
+"examples": [
+"Eldridge closed the despatch-case with a snap and, rising briskly, walked down the corridor to his solitary table in the dining-car. Mulligatawny soup, poached turbot, roast leg of lamb—the usual railway dinner."
+],
+"p": "mul-ih-guh-TAW-nee"
+},
+{
+"w": "fashionista",
+"pos": "noun",
+"senses": [
+"A person who creates or promotes high fashion, i.e. a fashion designer or fashion editor.",
+"A person who dresses according to the trends of fashion, or one who closely follows those trends."
+],
+"ety": "From fashion + -ista. Compare earlier Sandinista, Peronista, Guardianista. Piecewise doublet of earlier fashionist.",
+"examples": [
+"Toronto fashionista Suzanne Boyd, editor-in-chief of the soon-to-be-launched Zoomer magazine, recently moved back to Canada after living in Manhattan for the past four years."
+],
+"p": "fa-shuh-NEE-stuh"
+},
+{
+"w": "superannuated",
+"pos": "adjective",
+"senses": [
+"Obsolete, antiquated.",
+"Retired or discarded due to age."
+],
+"ety": "From the Latin superannuatus (“more than one year old”), from super (“over”) (English super-) + annus (“year”) (English annual).",
+"examples": [
+"In Europe it’s too dreary—the sapience, the solemnity, the false respectability, the verbosity, the long disquisitions on superannuated subjects.",
+"The above, appearing in a publication now long ago superannuated and forgotten, is all that hitherto has stood in human record to attest what manner of men respectively were John Claggart and Billy Budd.",
+"Files written fifteen or twenty years ago on superannuated computers and obsolete operating systems are for practical purposes irretrievable."
+],
+"p": "soo-per-AN-yoo-ay-tid"
+},
+{
+"w": "schlocky",
+"pos": "adjective",
+"senses": [
+"Of inferior quality, cheap.",
+"Tacky, of tasteless appearance."
+],
+"ety": "From schlock + -y.",
+"examples": [
+"Moreover, Drive Angry offers evidence that Cage hasn't recently been one-note in his performances so much as in his choice of schlocky material.",
+"The psychological twists are much more effective than the schlocky and obvious jump scares, with Rodgers’ dexterous, multifaceted performance a particular highlight."
+],
+"p": "shlah-kee"
+},
+{
+"w": "shish",
+"pos": "verb",
+"senses": [
+"To be quiet; to keep quiet."
+],
+"ety": "Phonetic alteration of shush.",
+"examples": [
+"He wouldn’t shish, so I kicked him."
+],
+"p": "shish"
+}
+]

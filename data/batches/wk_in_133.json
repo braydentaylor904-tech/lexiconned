@@ -1,0 +1,438 @@
+[
+{
+"w": "ember",
+"pos": "noun",
+"senses": [
+"A piece of coal or wood glowing by heat; a hot coal.",
+"Smoldering ash."
+],
+"ety": "From Middle English embre, eymbre, aymer, eymere, emeri, from Old English ǣmyrġe, from Proto-West Germanic *aimuʀjā, from Proto-Germanic *aimuzjǭ, a compound of *aimaz + *uzjǭ. The latter is from Proto-Indo-European *h₁ews- (“to burn”). The b is intrusive and was added in English for ease of pronunciation when the vowel of the second syllable (y) disappeared. See also Old High German eimuria (“pyre”), Danish emmer, Swedish mörja (“embers”).",
+"examples": [],
+"p": "EM-ber"
+},
+{
+"w": "baraza",
+"pos": "noun",
+"senses": [
+"A council or assembly in parts of East Africa."
+],
+"ety": "From Swahili baraza.",
+"examples": [],
+"p": null
+},
+{
+"w": "volti",
+"pos": "verb",
+"senses": [
+"turn the page"
+],
+"ety": "From Italian voltare (“to turn a page”).",
+"examples": [],
+"p": null
+},
+{
+"w": "weedeater",
+"pos": "noun",
+"senses": [
+"A string trimmer."
+],
+"ety": "From weed + eater, from \"Weed Eater\", the name of a company founded by the inventor of the string trimmer.",
+"examples": [],
+"p": null
+},
+{
+"w": "skoal",
+"pos": "verb",
+"senses": [
+"To make such a toast."
+],
+"ety": "From Danish/Norwegian/Swedish skål, which is used when making a toast and also means \"bowl\".",
+"examples": [
+"With their aquavit the Scandinavians observe a lovely ritual called skoaling, or \"toasting.\" Skoaling is more formal, however, than toasting is in our country. At a dinner party the host always skoals first."
+],
+"p": null
+},
+{
+"w": "prosecutable",
+"pos": "adjective",
+"senses": [
+"Able to be prosecuted."
+],
+"ety": "From prosecute + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "fazenda",
+"pos": "noun",
+"senses": [
+"A Brazilian plantation, often associated with slavery during the colonial period."
+],
+"ety": "Borrowed from Portuguese fazenda (“farm”). Doublet of hacienda and faena.",
+"examples": [
+"In his hospitable fazenda we spent our time until the day when we were empowered to open the letter of instructions given to us by Professor Challenger."
+],
+"p": null
+},
+{
+"w": "kural",
+"pos": "noun",
+"senses": [
+"A Tamil poetic couplet"
+],
+"ety": "Borrowed from Tamil குறள் (kuṟaḷ).",
+"examples": [],
+"p": null
+},
+{
+"w": "revealer",
+"pos": "noun",
+"senses": [
+"A person or thing that reveals.",
+"An entry in a crossword that guides the solver towards the theme or endgame."
+],
+"ety": "From Middle English revelare, equivalent to reveal + -er.",
+"examples": [
+"Whether \"The Doctor\" be written by Southey or not, let revealers of mysteries determine; it is certainly written by one who strongly resembles him, perhaps too strongly to be other than himself.",
+"Next (and my favorite) is Blank Space , four corner rebus squares reading \"blank\" for the down answers and \"space\" for the acrosses, mirroring the central revealers",
+"Though experienced solvers will likely see where this is going , others might need the help of the revealer"
+],
+"p": null
+},
+{
+"w": "unsellable",
+"pos": "adjective",
+"senses": [
+"Not sellable; very hard to sell."
+],
+"ety": "From un- + sellable.",
+"examples": [
+"Basic questions about how the various parts of the program would work, especially those involving the unsellable mortgages that banks are holding and preventing home foreclosures, were left for another day."
+],
+"p": null
+},
+{
+"w": "oregano",
+"pos": "noun",
+"senses": [
+"A herb of the mint family, Origanum vulgare, having aromatic leaves.",
+"The leaves of these plants used in flavouring food."
+],
+"ety": "18th century, from Spanish orégano (“wild marjoram”), from Latin orīganum, from Ancient Greek ὀρίγανον (oríganon). Doublet of origanum.",
+"examples": [],
+"p": "uh-REG-uh-noh"
+},
+{
+"w": "koinonia",
+"pos": "noun",
+"senses": [
+"Communion by intimate participation, associated with the Christian church."
+],
+"ety": "Borrowed from Ancient Greek κοινωνία (koinōnía, “community, communion”).",
+"examples": [],
+"p": "koy-NOH-neer"
+},
+{
+"w": "crape",
+"pos": "noun",
+"senses": [
+"Mourning garments, especially an armband or hatband."
+],
+"ety": "Alteration of French crepe, from Middle French crespe (“curly”), from Latin crispus. Doublet of crisp and crepe.",
+"examples": [],
+"p": "krayp"
+},
+{
+"w": "recept",
+"pos": "noun",
+"senses": [
+"An idea that is formed by the repetition of percepts."
+],
+"ety": "From Latin receptum (“thing received”), neuter singular of receptus, perfect passive participle of recipiō (“take back; receive”). Doublet of receipt. Coined by G.J. Romanes in 1888.",
+"examples": [],
+"p": "REE-sept"
+},
+{
+"w": "updater",
+"pos": "noun",
+"senses": [
+"One who, or that which, updates."
+],
+"ety": "From update + -er.",
+"examples": [
+"My friend Lizzie, who is an actual poet, is a terrific, prolific updater."
+],
+"p": null
+},
+{
+"w": "miscibility",
+"pos": "noun",
+"senses": [
+"The property of being able to be mixed.",
+"The degree to which two things mix."
+],
+"ety": "From miscible + -ity.",
+"examples": [
+"Oil and water have low miscibility."
+],
+"p": null
+},
+{
+"w": "fourche",
+"pos": "adjective",
+"senses": [
+"Having the ends forked or branched, and the ends of the branches terminating abruptly as if cut off; said of an ordinary, especially of a cross."
+],
+"ety": "Borrowed from French fourché. Doublet of furcate and fork.",
+"examples": [],
+"p": null
+},
+{
+"w": "gunky",
+"pos": "adjective",
+"senses": [
+"greasy, messy or dirty."
+],
+"ety": "From gunk + -y.",
+"examples": [],
+"p": "gung-kee"
+},
+{
+"w": "monomyth",
+"pos": "noun",
+"senses": [
+"A cyclical journey or quest undertaken by a mythical hero."
+],
+"ety": "From mono- + myth. Borrowed by Joseph Campbell from Finnegans Wake.",
+"examples": [],
+"p": null
+},
+{
+"w": "unmoored",
+"pos": "adjective",
+"senses": [
+"Mentally immature, unstable, or lacking in emotional connections."
+],
+"ety": "From un- + moored.",
+"examples": [
+"The sequel checks in with the unmoored but largely lovable characters from the first movie as they face middle age."
+],
+"p": null
+},
+{
+"w": "telepath",
+"pos": "noun",
+"senses": [
+"A person with telepathic ability, capable of reading the thoughts of others around them. Telepaths also have the ability to project thought."
+],
+"ety": "From telepathy.",
+"examples": [],
+"p": null
+},
+{
+"w": "procuratorate",
+"pos": "noun",
+"senses": [
+"The office of a procurator."
+],
+"ety": "From Medieval Latin prōcūrātorātus. By surface analysis, procurator + -ate (forms nouns denoting rank or office).",
+"examples": [],
+"p": "prok-yoo-RAY-tuh-rit"
+},
+{
+"w": "hymnology",
+"pos": "noun",
+"senses": [
+"The study of hymns; hymnody."
+],
+"ety": "From hymn + -ology.",
+"examples": [],
+"p": "HIM-nah-luh-jee"
+},
+{
+"w": "beryl",
+"pos": "noun",
+"senses": [
+"A dull blueish green color."
+],
+"ety": "Inherited from Middle English beryl, from Old French beril, from Latin bērillus, bēryllus, from Ancient Greek βήρυλλος (bḗrullos, “beryl”), in turn borrowed from Middle Indic forms like Pali veḷuriya or Prakrit 𑀯𑁂𑀭𑀼𑀮𑀺𑀅 (verulia), from Dravidian, probably named after Velur (modern day Belur) in southern India.",
+"examples": [],
+"p": "BAIR-ul"
+},
+{
+"w": "weldability",
+"pos": "noun",
+"senses": [
+"The ability of a metal or other material to be welded under specified conditions"
+],
+"ety": "From weld + -ability.",
+"examples": [],
+"p": null
+},
+{
+"w": "spartina",
+"pos": "noun",
+"senses": [
+"cordgrass (Spartina)."
+],
+"ety": "From the genus name.",
+"examples": [
+"The spartina, which grows along a sheltered cove and makes up about 15 acres of the whole parcel, is what makes Arlington Marsh so dear, said William K. Tai, director of the park's departments natural resources group."
+],
+"p": null
+},
+{
+"w": "claustral",
+"pos": "adjective",
+"senses": [
+"Having cloisters; cloistered."
+],
+"ety": "Based on Latin claustrum (“cloister”). Doublet of cloistral.",
+"examples": [],
+"p": "KLAW-strul"
+},
+{
+"w": "agritourism",
+"pos": "noun",
+"senses": [
+"A form of tourism in which tourists stay in farms or agricultural villages, either to experience farm life, or as a base for exploring the countryside"
+],
+"ety": "By surface analysis, agri- + tourism. Possibly borrowed from or influenced by Romance cognates, such as Italian agriturismo, which may be attested earlier.",
+"examples": [],
+"p": null
+},
+{
+"w": "sultanate",
+"pos": "noun",
+"senses": [
+"A sovereign or vassal princely state—usually Muslim—where the ruler is styled sultan.",
+"The office or position of a sultan."
+],
+"ety": "From sultan + -ate (suffix forming nouns denoting offices or ranks, or the charges or contexts of these). Sultan is borrowed from Middle French sultan or from its etymon Medieval Latin sultanus, from Arabic سُلْطَان (sulṭān, “authority; dominion, rule; power, strength”) (from the Arabic root س ل ط (“related to power”); possibly through from Ottoman Turkish سلطان (sultan)). cognates * Classical Persian سَلْطَنَت (saltanat)",
+"examples": [],
+"p": "SUL-tuh-nut"
+},
+{
+"w": "woodway",
+"pos": "noun",
+"senses": [
+"A road or path through the forest.",
+"A path for pedestrians paved in wood; boardwalk."
+],
+"ety": "From wood + way.",
+"examples": [
+"So they went through the summer night-tide by many a woodway dim, Till they came to a certain wood-lawn, and Sigmund lingered there,",
+"The line had not moved a bowshot when De Aquila's great horn blew for a halt, and soon young Fulke—our false Fulke's son—yes, the imp that lit the straw in Pevensey Castle—came thundering up a woodway.",
+"Tiphaine was silent when he had ended, watching the winding woodways of the forest."
+],
+"p": null
+},
+{
+"w": "latrobe",
+"pos": "noun",
+"senses": [
+"A form of stove set into a fireplace, heating the room by radiation and the rooms above by hot air."
+],
+"ety": "After the inventor, I. Latrobe of Baltimore.",
+"examples": [],
+"p": null
+},
+{
+"w": "scooper",
+"pos": "noun",
+"senses": [
+"A person who scoops.",
+"Something that scoops.",
+"Synonym of scauper (“engraver's tool”).",
+"The avocet, a bird that scoops up the mud to obtain food.",
+"A journalist who obtains a scoop, or exclusive."
+],
+"ety": "From scoop + -er.",
+"examples": [],
+"p": "SKOO-per"
+},
+{
+"w": "recrystallize",
+"pos": "verb",
+"senses": [
+"To crystallize again; especially as a means of purification."
+],
+"ety": "From re- + crystallize.",
+"examples": [],
+"p": null
+},
+{
+"w": "vulpine",
+"pos": "adjective",
+"senses": [
+"Having the characteristics of a fox; foxlike; cunning."
+],
+"ety": "Borrowed from Latin vulpīnus (“foxy, fox-like”), from vulpēs, earlier volpēs (“fox”), from Proto-Indo-European *wl(o)p- (“fox”). Cognate with Welsh llywarn (“fox”), Ancient Greek ἀλώπηξ (alṓpēx), Armenian աղուէս (aġuēs), Albanian dhelpër, Lithuanian vilpišỹs (“wildcat”), Sanskrit लोपाश (lopāśa, “jackal, fox”).",
+"examples": [],
+"p": "VUL-pine"
+},
+{
+"w": "murshid",
+"pos": "noun",
+"senses": [
+"An Islamic teacher, especially in Sufism."
+],
+"ety": "From Arabic مُرْشِد (muršid, “guide, teacher”).",
+"examples": [],
+"p": null
+},
+{
+"w": "consonantal",
+"pos": "adjective",
+"senses": [
+"Containing one or more consonants."
+],
+"ety": "From consonant + -al.",
+"examples": [],
+"p": "kahn-suh-NEN-tul"
+},
+{
+"w": "scoopy",
+"pos": "adjective",
+"senses": [
+"Resembling a scoop; shaped like a scoop."
+],
+"ety": "From scoop + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "scient",
+"pos": "adjective",
+"senses": [
+"Knowing; aware; knowledgeable."
+],
+"ety": "From Latin sciēns (“knowing”), from sciō (“know”).",
+"examples": [],
+"p": "SY-unt"
+},
+{
+"w": "muchacha",
+"pos": "noun",
+"senses": [
+"A Latino woman or girl."
+],
+"ety": "Borrowed from Spanish muchacha.",
+"examples": [],
+"p": null
+},
+{
+"w": "eggstravaganza",
+"pos": "noun",
+"senses": [
+"An extravaganza involving eggs."
+],
+"ety": "Blend of egg + extravaganza.",
+"examples": [
+"The cake and egg show, advertised as an \"eggstravaganza,\" last May in Tulsa, Oklahoma, may suggest to home economists elsewhere ways of helping to improve the egg marketing situation.",
+"It's an eggstravaganza! Garden staff dye eggs donated by local markets and tuck them into nooks and crannies throughout the expansive grounds.",
+"Throw yourself an eggstravaganza each and every day by including heart-healthy egg whites in a multitude of ways."
+],
+"p": null
+}
+]

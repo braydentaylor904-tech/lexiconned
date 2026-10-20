@@ -1,0 +1,443 @@
+[
+{
+"w": "reupholster",
+"pos": "verb",
+"senses": [
+"To upholster again; to replace the attached fabric covering on furniture."
+],
+"ety": "From re- + upholster.",
+"examples": [],
+"p": null
+},
+{
+"w": "quince",
+"pos": "noun",
+"senses": [
+"The pear-shaped fruit of a small tree of the rose family, Cydonia oblonga.",
+"The deciduous tree bearing such fruit, native to Asia.",
+"A soft yellow colour, like that of a quince."
+],
+"ety": "From Middle English quynce, coince, a variant of coins, coin (“quince”), from Old French cooing (modern coing), from Late Latin cotōneum, from Latin mālum cotōneum, a variant of mālum Cydonium (“Cydonian apple”), translating Ancient Greek μηλοκυδώνιον (mēlokudṓnion).",
+"examples": [],
+"p": "kwins"
+},
+{
+"w": "tagboard",
+"pos": "noun",
+"senses": [
+"Synonym of oaktag."
+],
+"ety": "From tag + board.",
+"examples": [
+"Cut two equal pieces of tagboard the size of a greeting card."
+],
+"p": null
+},
+{
+"w": "domed",
+"pos": "adjective",
+"senses": [
+"In the form of a dome.",
+"Having a dome."
+],
+"ety": "From dome + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "vulgo",
+"pos": "adverb",
+"senses": [
+"In the vernacular; commonly known as."
+],
+"ety": "Borrowed from Latin vulgo.",
+"examples": [],
+"p": null
+},
+{
+"w": "dogcatcher",
+"pos": "noun",
+"senses": [
+"A person whose job is to catch and remove stray dogs."
+],
+"ety": "From dog + catcher.",
+"examples": [],
+"p": null
+},
+{
+"w": "blubber",
+"pos": "verb",
+"senses": [
+"Often followed by out: to cry out (words) while sobbing."
+],
+"ety": "The verb is derived from Late Middle English bloberen, bluberen (“to bubble, seethe”); and the noun from Late Middle English blober, bluber (“bubble; bubbling water; foaming waves; fish or whale oil; entrails, intestines; (medicine) pustule”), both probably onomatopoeic, representing the movement or sound of a bubbling liquid, or the movement of lips forming bubbles (compare bleb and blob, thought to be similarly imitative). As both the verb and noun are attested in the 14th century, it is difficult to tell which one developed first; the Oxford English Dictionary suggests that the noun may be ",
+"examples": [],
+"p": "BLUB-er"
+},
+{
+"w": "araba",
+"pos": "noun",
+"senses": [
+"A horse-drawn carriage once used for transportation in pre-modern Turkey."
+],
+"ety": "From Ottoman Turkish عربه (modern Turkish araba).",
+"examples": [
+"Whenever I mounted the araba, he would whip his horses to a sharp trot or canter for half a mile, and then at a word stop for me to get out."
+],
+"p": null
+},
+{
+"w": "fixity",
+"pos": "noun",
+"senses": [
+"The state or condition of being fixed; Fixation.",
+"Something fixed."
+],
+"ety": "From fix + -ity.",
+"examples": [],
+"p": "FIK-sih-tee"
+},
+{
+"w": "pellicle",
+"pos": "noun",
+"senses": [
+"A thin skin or film.",
+"A cuticle, the hard protective outer layer of certain life forms.",
+"A skin or coating of proteins on the surface of meat to be smoked, improving the surface adhesion.",
+"The photosensitive emulsion of photographic film."
+],
+"ety": "From Latin pellicula, from pellis (“skin”). Doublet of pellicule.",
+"examples": [],
+"p": null
+},
+{
+"w": "pannekoek",
+"pos": "noun",
+"senses": [
+"A form of Dutch pancake, being thin and wide and optionally made with apples or a variety of other ingredients"
+],
+"ety": "From Dutch pannekoek (superseded spelling of pannenkoek). Doublet of pancake.",
+"examples": [],
+"p": null
+},
+{
+"w": "advisement",
+"pos": "noun",
+"senses": [
+"Consideration or deliberation."
+],
+"ety": "From Middle English advisement, avisement, from Old French advisement, avisement, from adviser, aviser + -ment.",
+"examples": [
+"He took the situation under advisement, but was able to draw no conclusion."
+],
+"p": null
+},
+{
+"w": "romesco",
+"pos": "noun",
+"senses": [
+"A thick red sauce based on nuts and tomatoes and used with seafood, originating in Catalonian cuisine"
+],
+"ety": "Borrowed from Catalan romesco.",
+"examples": [],
+"p": null
+},
+{
+"w": "pernambuco",
+"pos": "noun",
+"senses": [
+"The wood of Paubrasilia echinata."
+],
+"ety": "From the Brazilian state of Pernambuco.",
+"examples": [
+"Pernambuco is a coastal wood which grows in maintained stands in Brazil."
+],
+"p": null
+},
+{
+"w": "undereye",
+"pos": "adjective",
+"senses": [
+"Under the eye."
+],
+"ety": "From under + eye.",
+"examples": [
+"Lips that have thinned over time may cause a person to appear irritable or tense, a naturally elevated brow may suggest judgment or skepticism, and undereye shadows can make a person appear weary and burdened."
+],
+"p": null
+},
+{
+"w": "fritillary",
+"pos": "noun",
+"senses": [
+"Any of several butterflies, of the family Nymphalidae, having wings with black or silvery spots."
+],
+"ety": "From Latin fritillus (“dice-box, or possibly, checkerboard”).",
+"examples": [],
+"p": "fruh-TIL-uh-ree"
+},
+{
+"w": "intravital",
+"pos": "adjective",
+"senses": [
+"Within or among living cells; for example, subcutaneous.",
+"Occurring during life."
+],
+"ety": "From intra- + vital.",
+"examples": [],
+"p": "in-truh-VY-tul"
+},
+{
+"w": "hortensia",
+"pos": "noun",
+"senses": [
+"hydrangea (Hydrangea spp.)"
+],
+"ety": "From the genus name, New Latin Hortensia, from hortēnsius (“of the garden”), from hortēnsis.",
+"examples": [],
+"p": "hor-ten-zee-uh"
+},
+{
+"w": "anomeric",
+"pos": "noun",
+"senses": [
+"Synonym of anomer."
+],
+"ety": "From anomer + -ic.",
+"examples": [],
+"p": null
+},
+{
+"w": "costal",
+"pos": "noun",
+"senses": [
+"Synonym of saco, a historical Spanish unit of dry measure, equivalent to about 111 L"
+],
+"ety": "From French costal and its etymon Medieval Latin costālis, from Latin costa (“rib”). As a Spanish unit, via Spanish costal. By surface analysis, costa + -al. Piecewise doublet of coastal.",
+"examples": [],
+"p": "KAH-stul"
+},
+{
+"w": "thermostatic",
+"pos": "adjective",
+"senses": [
+"having or maintaining a consistent temperature",
+"Reacting to change by attempting to move in the opposite direction."
+],
+"ety": "From thermo- + -static.",
+"examples": [
+"The shower has a thermostatic water-mixing valve.",
+"Most importantly, Wlezien's results revealed thermostatic responsiveness. That is, when spending increases (decreases), the public's support for more spending decreases (increases), other things being equal."
+],
+"p": null
+},
+{
+"w": "widdershins",
+"pos": "adverb",
+"senses": [
+"The wrong way."
+],
+"ety": "First use appears c. 1513, from Middle Low German weddersins (also wēder-, -sinnes), from wed(d)der- (“wither-, against, opposite”) + genitive of sin (“direction, way”).",
+"examples": [],
+"p": "WIH-der-shinz"
+},
+{
+"w": "dairyman",
+"pos": "noun",
+"senses": [
+"Synonym of dairy farmer.",
+"A food processing technician working on pasteurization, bottling, cheesemaking, or other tasks.",
+"A man who delivers dairy products."
+],
+"ety": "From dairy + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "sundowner",
+"pos": "noun",
+"senses": [
+"A cocktail consumed at sunset, or to signify the end of the day.",
+"A cocktail party held in the early evening.",
+"A physician employed by the government who practises for private fees after his official hours.",
+"Any worker who practises for private fees after official hours."
+],
+"ety": "From sundown + -er.",
+"examples": [
+"The cocktail, the universal “sherry and bitters” and sundowner will have to be retained.",
+"Per custom, we capped our drives with a sundowner cocktail party at a scenic vantage point.",
+"The Sundowner is basically a cocktail party with a buffet on a riverbank in the bush."
+],
+"p": null
+},
+{
+"w": "uncloaked",
+"pos": "adjective",
+"senses": [
+"Not cloaked.",
+"rendered visible again by turning off or disabling cloaking technology."
+],
+"ety": "From un- + cloaked.",
+"examples": [],
+"p": null
+},
+{
+"w": "procreate",
+"pos": "verb",
+"senses": [
+"To beget or conceive (offsprings).",
+"To originate, create or produce.",
+"To reproduce."
+],
+"ety": "The adjective is first attested in the first part of the 15ᵗʰ century, in Middle English, the verb in 1525; inherited from Middle English procreat(e) (“(construed as past participle) begotten, procreated”), borrowed from Latin prōcreātus, perfect passive participle of prōcreō (“to beget”), see -ate (etymology 1, 2 and 3); by surface analysis, pro- + create. Participial usage of the adjective up until Early Modern English.",
+"examples": [],
+"p": "proh-kree-AYT"
+},
+{
+"w": "crystallizable",
+"pos": "adjective",
+"senses": [
+"That can be crystallized."
+],
+"ety": "From crystallize + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "pubis",
+"pos": "noun",
+"senses": [
+"The pubic bone; the part of the hipbone forming the front arch of the pelvis."
+],
+"ety": "Genitive of Latin pubes (“the pubic hair”, collective). The noun was generalized from medical Latin os pubis, the pubic bone.",
+"examples": [],
+"p": "PYOO-bis"
+},
+{
+"w": "bioaccumulate",
+"pos": "verb",
+"senses": [
+"To accumulate in a biological system over time."
+],
+"ety": "From bio- + accumulate.",
+"examples": [],
+"p": null
+},
+{
+"w": "defogger",
+"pos": "noun",
+"senses": [
+"Something or someone that defogs."
+],
+"ety": "From defog + -er.",
+"examples": [],
+"p": "dee-FOG-er"
+},
+{
+"w": "mancia",
+"pos": "noun",
+"senses": [
+"tip, gratuity"
+],
+"ety": "Borrowed from Italian mancia.",
+"examples": [],
+"p": "MAN-chuh"
+},
+{
+"w": "dogfight",
+"pos": "noun",
+"senses": [
+"A fight between dogs, especially as part of the blood sport of dogfighting."
+],
+"ety": "From dog + fight.",
+"examples": [],
+"p": "DOG-fite"
+},
+{
+"w": "stepney",
+"pos": "noun",
+"senses": [
+"A spare wheel."
+],
+"ety": "Originally a brand name, from the Stepney Spare Motor Wheel company.",
+"examples": [],
+"p": null
+},
+{
+"w": "snoozer",
+"pos": "noun",
+"senses": [
+"One who snoozes; a sleeper.",
+"Something that is boring, uninteresting or unremarkable; something that would tend to induce sleep."
+],
+"ety": "From snooze + -er.",
+"examples": [
+"The program is usually pretty good, but last Wednesday's episode was a real snoozer."
+],
+"p": null
+},
+{
+"w": "poreless",
+"pos": "adjective",
+"senses": [
+"Without pores."
+],
+"ety": "From pore + -less.",
+"examples": [],
+"p": null
+},
+{
+"w": "wigeon",
+"pos": "noun",
+"senses": [
+"Any of three freshwater dabbling ducks."
+],
+"ety": "Early 16th century. Probably from Middle French vigeon, from Old French vigeon, vingeon (“wigeon”), from Old French vignier (“to whine or shout”) + -on (“noun suffix”).",
+"examples": [],
+"p": "WIJ-un"
+},
+{
+"w": "parfumerie",
+"pos": "noun",
+"senses": [
+"Synonym of perfumery (“shop selling perfumes”)."
+],
+"ety": "From French parfumerie.",
+"examples": [
+"The region supplied the parfumeries at Grasse with cultivated blossoms.",
+"His sheep had gone further up the mountain for the summer, and he was growing crops of flowers for the parfumeries at Grasse.",
+"We literally “took time to smell the roses” as the scents of the mountainside foliage far exceeded anything we had sampled in the parfumeries of Paris."
+],
+"p": null
+},
+{
+"w": "restorer",
+"pos": "noun",
+"senses": [
+"Something or someone that restores."
+],
+"ety": "From restore + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "praetorian",
+"pos": "adjective",
+"senses": [
+"Corruptly mercenary and venal."
+],
+"ety": "From Middle English pretorian, from Latin praetōriānus.",
+"examples": [],
+"p": "prih-TAW-ree-un"
+},
+{
+"w": "heptagonal",
+"pos": "adjective",
+"senses": [
+"Having seven angles and sides."
+],
+"ety": "Since 16th century, from heptagon + -al.",
+"examples": [],
+"p": "hep-TAG-uh-nul"
+}
+]

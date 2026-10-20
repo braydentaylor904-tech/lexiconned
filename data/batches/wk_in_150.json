@@ -1,0 +1,447 @@
+[
+{
+"w": "greenway",
+"pos": "noun",
+"senses": [
+"A corridor of undeveloped land or parkland, set aside for environmental protection or recreational and primarily nonmotorized use, such as bicycle paths."
+],
+"ety": "From green + way.",
+"examples": [
+"By their nature, railways tend to avoid steep gradients, with the result that these greenways are mostly on level, traffic-free paths, ideal for cycling.",
+"More than 1,300 trees have been planted along the greenway.",
+"In general, the smaller, more heavily used and less biologically intact greenways, will likely have less biodiversity value compared to larger, more intact greenways with less human activity."
+],
+"p": null
+},
+{
+"w": "lowlight",
+"pos": "noun",
+"senses": [
+"A particularly unfavorable or mediocre moment or aspect.",
+"In hairstyling, a highlight in a darker color rather than a lighter one."
+],
+"ety": "From low + light. Formed by analogy with highlight.",
+"examples": [
+"He is not commenting on Dick Cheney’s marksmanship lowlights here.",
+"Here are some of the highlights lowlights of the state opening of parliament. And I truly do mean state."
+],
+"p": null
+},
+{
+"w": "monologist",
+"pos": "noun",
+"senses": [
+"A person who performs a monologue or monologues."
+],
+"ety": "From monolog + -ist.",
+"examples": [
+"In the lust of a confirmed monologist he conferred on Robert the charm of patronage from an august elder."
+],
+"p": null
+},
+{
+"w": "tomosynthesis",
+"pos": "noun",
+"senses": [
+"The creation of a 3D image of part of the body by digital processing of multiple X-rays."
+],
+"ety": "From tomo- + synthesis.",
+"examples": [
+"The U.S. Food and Drug Administration (FDA) approved digital breast tomosynthesis (DBT) in 2011. Given how effectively DBT detects cancer, it may eventually become the new gold standard in breast imaging."
+],
+"p": null
+},
+{
+"w": "cardioverter",
+"pos": "noun",
+"senses": [
+"A machine that performs cardioversion (specifically, electrocardioversion), in either hospital equipment form or implantable form."
+],
+"ety": "From cardiovert + -er.",
+"examples": [],
+"p": "kar-dee-oh-VUR-ter"
+},
+{
+"w": "dynamis",
+"pos": "noun",
+"senses": [
+"Potentiality."
+],
+"ety": "Borrowed from Ancient Greek δύναμις (dúnamis).",
+"examples": [
+"I have tried to explain the sense of dynamis fundamental to Aristotle's philosophy.",
+"Heidegger deals in this text with Aristotle's attempt to explicate dynamis and energeia as one of manifold ways in which being is expressed.",
+"Like Heidegger's Aristotle, Marcuse argues that being “reveals” itself in the relation of dynamis to energeia."
+],
+"p": null
+},
+{
+"w": "quadricycle",
+"pos": "noun",
+"senses": [
+"A four-wheeled pedal cycle.",
+"A four-wheeled motorcycle, often resembling a small car (microcar)."
+],
+"ety": "From quadri- + cycle; compare bicycle, tricycle.",
+"examples": [],
+"p": null
+},
+{
+"w": "sennet",
+"pos": "noun",
+"senses": [
+"a signal call given on a cornet or trumpet for entrance or exit on a theatrical stage",
+"The barracuda."
+],
+"ety": "Probably an alteration of the obsolete signet (“signal”)",
+"examples": [],
+"p": "SEN-it"
+},
+{
+"w": "tanto",
+"pos": "adverb",
+"senses": [
+"So much; too much."
+],
+"ety": "Borrowed from Italian tanto.",
+"examples": [],
+"p": "TAHN-toh"
+},
+{
+"w": "khair",
+"pos": "noun",
+"senses": [
+"The tree Senegalia catechu from which cutch is obtained"
+],
+"ety": "Borrowed from Hindi खैर (khair).",
+"examples": [],
+"p": null
+},
+{
+"w": "imago",
+"pos": "noun",
+"senses": [
+"An idealised concept of a loved one, formed in childhood and retained unconsciously into adult life, the basis for the psychological formation of personality archetypes."
+],
+"ety": "From Latin imāgō. Doublet of image. Compare typologically a Russian term for coordinate larva: личи́нка (ličínka) (akin to лик (lik)).",
+"examples": [],
+"p": "ih-MAY-goh"
+},
+{
+"w": "wakame",
+"pos": "noun",
+"senses": [
+"Undaria pinnatifida, an edible seaweed.",
+"Loosely, any seaweed in the family Alariaceae."
+],
+"ety": "Borrowed from Japanese 若布(ワカメ) (wakame).",
+"examples": [
+"Atlantic wakame is actually badderlocks."
+],
+"p": null
+},
+{
+"w": "descriptivist",
+"pos": "adjective",
+"senses": [
+"Subscribing to, or related to, descriptivism."
+],
+"ety": "From descriptive + -ist.",
+"examples": [],
+"p": "dih-SKRIP-tih-vist"
+},
+{
+"w": "zarzuela",
+"pos": "noun",
+"senses": [
+"A form of Spanish opera having spoken dialogue and usually a comic subject.",
+"A Catalan fish soup or stew."
+],
+"ety": "Borrowed from Spanish zarzuela, probably from the Palace of Zarzuela, royal residence near Madrid where it was first performed.",
+"examples": [],
+"p": "zar-ZWAY-luh"
+},
+{
+"w": "rowed",
+"pos": "adjective",
+"senses": [
+"Formed into a row, or rows; having a specified number of rows."
+],
+"ety": "From row (“line of objects or entries”) + -ed.",
+"examples": [],
+"p": "rohd"
+},
+{
+"w": "pyretic",
+"pos": "adjective",
+"senses": [
+"Caused by, pertaining to or resulting in fever."
+],
+"ety": "Borrowed from New Latin pyreticus, from Ancient Greek πυρετικός (puretikós, “febrile”), from πυρετός (puretós, “fever”), from πῦρ (pûr, “fire”).",
+"examples": [],
+"p": "py-RET-ik"
+},
+{
+"w": "pillared",
+"pos": "adjective",
+"senses": [
+"Having pillars."
+],
+"ety": "From pillar + -ed (“having”) (forming adjective from noun).",
+"examples": [
+"We entered a majestic pillared hall."
+],
+"p": null
+},
+{
+"w": "apport",
+"pos": "noun",
+"senses": [
+"The supposed paranormal transference of an object from one place to another, or the appearance of an object from an unknown source, often associated with poltergeist activity and séances.",
+"An object that appears from an unknown source."
+],
+"ety": "From Latin apportō (“to bring, to carry”).",
+"examples": [],
+"p": "uh-PORT"
+},
+{
+"w": "tweakable",
+"pos": "adjective",
+"senses": [
+"That can be tweaked; moddable, customizable."
+],
+"ety": "From tweak + -able.",
+"examples": [
+"And it's every bit as tweakable as previous versions of Windows. You can turn off the new Aero look, or just selected parts of it."
+],
+"p": null
+},
+{
+"w": "lithology",
+"pos": "noun",
+"senses": [
+"The study of rocks, with particular emphasis on their description and classification.",
+"The general composition of a rock or rock sequence."
+],
+"ety": "From litho- + -ology.",
+"examples": [
+"The ‘monomict’ meteorites are samples of a single lithology while the polymict meteorites are those containing two or more lithologies."
+],
+"p": null
+},
+{
+"w": "globalisation",
+"pos": "noun",
+"senses": [
+"The process of becoming a more interconnected world.",
+"The process of the world economy becoming dominated by capitalist models, according to the World System Theory."
+],
+"ety": "From global + -isation or globalise + -ation. Popularized by German-American economist and professor at Harvard Business School Theodore Levitt.",
+"examples": [],
+"p": "gloh-buh-lih-ZAY-shun"
+},
+{
+"w": "leaver",
+"pos": "noun",
+"senses": [
+"Synonym of schoolie (“a senior student”)."
+],
+"ety": "From leave + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "nimmer",
+"pos": "noun",
+"senses": [
+"A petty thief."
+],
+"ety": "From Middle English nimere, equivalent to nim (“to filch, steal”) + -er. Cognate with Dutch nemer (“taker”), German Nehmer (“taker”).",
+"examples": [],
+"p": null
+},
+{
+"w": "bracken",
+"pos": "noun",
+"senses": [
+"An area of countryside heavily populated by this fern."
+],
+"ety": "From Middle English braken, probably of Scandinavian/North Germanic origin, from Old Norse *brakni (“undergrowth”), related to Proto-Germanic *brekaną and ultimately from Proto-Indo-European *bʰreg- (“to break”). Cognates include Danish bregne and Swedish bräken (“fern”).",
+"examples": [],
+"p": "BRAK-un"
+},
+{
+"w": "biohazardous",
+"pos": "adjective",
+"senses": [
+"Constituting a biohazard."
+],
+"ety": "From bio- + hazardous.",
+"examples": [],
+"p": null
+},
+{
+"w": "cookout",
+"pos": "noun",
+"senses": [
+"A gathering for a meal that is cooked and eaten outside; either a domestic barbecue or a larger social event."
+],
+"ety": "From cook + out.",
+"examples": [],
+"p": "KUUK-owt"
+},
+{
+"w": "earplug",
+"pos": "noun",
+"senses": [
+"A piece of protective gear meant to be inserted in the ear canal to protect the wearer's hearing from loud noises or the intrusion of water."
+],
+"ety": "From ear + plug.",
+"examples": [],
+"p": "eer-plug"
+},
+{
+"w": "crepey",
+"pos": "adjective",
+"senses": [
+"Saggy and crinkly, like crepe paper."
+],
+"ety": "From crepe + -y.",
+"examples": [
+"A shock of wispy newwashed hair stood up from his forehead; his nose was thin, pointed, and shiny; he had no chin to speak of—it seemed to be part of his crepey neck.",
+"Mix a little moisturiser with foundation under the eyes and over the neck if the skin is crepey: this will thin out the foundation a little...",
+"The patient had a crepey appearance of skin prior to blepharoplasty."
+],
+"p": null
+},
+{
+"w": "tartare",
+"pos": "adjective",
+"senses": [
+"Chopped fine and served raw."
+],
+"ety": "French tartare (literally “Tartar”).",
+"examples": [],
+"p": "tar-TAR"
+},
+{
+"w": "groundnut",
+"pos": "noun",
+"senses": [
+"A climbing vine, Apios americana, of eastern North America, having fragrant brownish flowers and small edible tubers.",
+"Any similar plant having underground tubers.",
+"The nutlike tuber of such a plant, especially peanuts.",
+"A plant which bears its nutlike seeds underground, such as a peanut (Arachis hypogaea) or a Bambara groundnut (Vigna subterranea)."
+],
+"ety": "From ground + nut. Compare Icelandic jarðhneta, German Erdnuss (both cognate with earthnut) and Hungarian földimogyoró.",
+"examples": [],
+"p": null
+},
+{
+"w": "smock",
+"pos": "noun",
+"senses": [
+"A type of undergarment worn by women; a shift or slip.",
+"A blouse; a smock frock.",
+"A loose garment worn as protection by a painter, etc."
+],
+"ety": "From Middle English smok, from Old English smocc, smoc, from Proto-Germanic *smukkaz (“something slipped into”). Akin to Old High German smocho, Icelandic smokkur, and from the root of Old English smugan (“to creep”), akin to German schmiegen (“to cling to, press close”). Middle High German smiegen, Icelandic smjúga (“to creep through, to put on a garment which has a hole to put the head through”); compare with Lithuanian smukti (“to glide”). See also smug, smuggle.",
+"examples": [],
+"p": "smahk"
+},
+{
+"w": "setlist",
+"pos": "noun",
+"senses": [
+"A list of the songs to be played by a particular band or musical act for a particular show or tour."
+],
+"ety": "From set + list.",
+"examples": [],
+"p": "SET-list"
+},
+{
+"w": "airbreathing",
+"pos": "adjective",
+"senses": [
+"Which can breathe air for a short period of time; especially the airbreathing catfishes."
+],
+"ety": "From air + breathing.",
+"examples": [],
+"p": null
+},
+{
+"w": "hamon",
+"pos": "noun",
+"senses": [
+"A wavy line found on steel products that have been hardened differentially, with soft and hard steel sections, where the tempered steel is separated from the softer parts by the hamon."
+],
+"ety": "From Japanese 刃文.",
+"examples": [],
+"p": null
+},
+{
+"w": "professoriate",
+"pos": "noun",
+"senses": [
+"Professors considered as a group or body.",
+"The office of a professor."
+],
+"ety": "Alteration of professorate, after either patriciate, etc., or professorial.",
+"examples": [
+"Technological Change and Professional Control in the Professoriate."
+],
+"p": null
+},
+{
+"w": "pfennig",
+"pos": "noun",
+"senses": [
+"One hundredth of the former German mark (Deutsche Mark)."
+],
+"ety": "From German Pfennig. Doublet of penny and fening.",
+"examples": [],
+"p": "PFEN-ig"
+},
+{
+"w": "sunga",
+"pos": "noun",
+"senses": [
+"A narrow, rectangular men's swimsuit to cover the genitals and posterior, popular in Brazil."
+],
+"ety": "Borrowed from Portuguese sunga.",
+"examples": [
+"I suspiciously open one eye and there's Edson, kneeling next to me and flashing a smile as white as his sunga."
+],
+"p": null
+},
+{
+"w": "dolichos",
+"pos": "noun",
+"senses": [
+"A long-distance race in the ancient Olympic Games."
+],
+"ety": "From Ancient Greek δόλιχος (dólikhos).",
+"examples": [],
+"p": null
+},
+{
+"w": "mesosphere",
+"pos": "noun",
+"senses": [
+"The layer of the Earth's atmosphere that is directly above the stratosphere and directly below the thermosphere."
+],
+"ety": "From meso- + -sphere.",
+"examples": [],
+"p": "MEZ-ohs-feer"
+},
+{
+"w": "kumari",
+"pos": "noun",
+"senses": [
+"A living goddess; a prepubescent girl worshipped as a manifestation of divine female energy."
+],
+"ety": "Borrowed from Sanskrit कुमारी (kumārī, “princess; young girl”).",
+"examples": [],
+"p": null
+}
+]

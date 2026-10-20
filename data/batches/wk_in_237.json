@@ -1,0 +1,437 @@
+[
+{
+"w": "jansky",
+"pos": "noun",
+"senses": [
+"A non-SI unit (symbol Jy) measuring electromagnetic flux density equal to 10⁻²⁶ watts per square meter per hertz."
+],
+"ety": "Named after radio astronomer Karl Guthe Jansky.",
+"examples": [],
+"p": null
+},
+{
+"w": "capturer",
+"pos": "noun",
+"senses": [
+"One who, or that which, captures."
+],
+"ety": "From capture + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "dandelion",
+"pos": "noun",
+"senses": [
+"The flower head or fruiting head of the dandelion plant.",
+"A yellow colour, like that of the flower."
+],
+"ety": "From Middle English dentdelyon, from Old French dent de lion (“lion's tooth”), also in Latin dēns leōnis, referring to the jagged shape of the plant's leaves. The term is now rare in French (together with liondent, calque from Germanic), but compare Spanish diente de león, Portuguese dente-de-leão, Italian dente di leone, German Löwenzahn, Norwegian Bokmål løvetann, Welsh dant y llew, all descendants, calques, or loan translations of the Latin term. First attested in the late 14th c. Displaced various words, including native Old English ǣġwyrt, native Middle English houndes-tooth, and English ",
+"examples": [],
+"p": "DAN-duh-ly-un"
+},
+{
+"w": "tunneler",
+"pos": "noun",
+"senses": [
+"Someone or something that tunnels.",
+"A device or machine for making tunnels."
+],
+"ety": "From tunnel + -er.",
+"examples": [
+"Near-synonyms: TBM, tunnel boring machine"
+],
+"p": null
+},
+{
+"w": "capful",
+"pos": "noun",
+"senses": [
+"The amount that will fit into a cap."
+],
+"ety": "From cap + -ful.",
+"examples": [],
+"p": "KAP-fuul"
+},
+{
+"w": "shishya",
+"pos": "noun",
+"senses": [
+"In Indian traditions: a disciple who receives spiritual knowledge from a guru."
+],
+"ety": "Borrowed from Hindi शिष्य (śiṣya, “disciple, student”), from Sanskrit शिष्य (śiṣya), from Sanskrit शास् (śās, “to teach, instruct”), from Proto-Indo-European *ḱeh₁s- (“to teach, to indicate”).",
+"examples": [],
+"p": null
+},
+{
+"w": "moany",
+"pos": "adjective",
+"senses": [
+"Tending to complain.",
+"Resembling or characteristic of a moan."
+],
+"ety": "From moan + -y.",
+"examples": [],
+"p": "MOH-nee"
+},
+{
+"w": "desulfurization",
+"pos": "noun",
+"senses": [
+"The process of removing sulfur from a substance, such as flue gas or crude."
+],
+"ety": "From desulfurize + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "germy",
+"pos": "adjective",
+"senses": [
+"That carries germs."
+],
+"ety": "From germ + -y.",
+"examples": [
+"Toy stores can actually be germier than play areas, carousels, and other kid-friendly zones, Tierno says, simply because of the way little ones behave there."
+],
+"p": null
+},
+{
+"w": "hexamer",
+"pos": "noun",
+"senses": [
+"An oligomer having six subunits.",
+"A subunit of a viral capsid."
+],
+"ety": "From hexa- + -mer.",
+"examples": [],
+"p": null
+},
+{
+"w": "macaronic",
+"pos": "adjective",
+"senses": [
+"Like a macaroni or dandy; foppish, trifling, affected."
+],
+"ety": "From New Latin, 1517 coinage, macaronicus, from Italian (Neapolitan dialect) maccarone (“coarse dumpling”).",
+"examples": [],
+"p": "mak-uh-RAH-nik"
+},
+{
+"w": "japonica",
+"pos": "noun",
+"senses": [
+"A subspecies of the rice Oryza sativa."
+],
+"ety": "From New Latin japō̆nica, the species name.",
+"examples": [
+"The isograms were typical of differences between two subspecies but also of those between different lines of japonicas or indicas."
+],
+"p": null
+},
+{
+"w": "horsy",
+"pos": "adjective",
+"senses": [
+"Involved in breeding or riding horses.",
+"Clumsy, clunky, bulky, inelegant, or unrefined."
+],
+"ety": "From horse + -y. Cognate with Middle Low German rössich (“horselike, equipped with a horse”).",
+"examples": [],
+"p": "HOR-see"
+},
+{
+"w": "recuperator",
+"pos": "noun",
+"senses": [
+"A person who recuperates, or regains their health.",
+"A regenerator (heating device)."
+],
+"ety": "Either borrowed from Latin recuperator (“a recoverer”) or coined directly in English as recuperate + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "toxicant",
+"pos": "adjective",
+"senses": [
+"Capable of causing damage or dysfunction by toxicity."
+],
+"ety": "From Medieval Latin toxicāns, toxicant-, present participle of toxicāre (“to poison”).",
+"examples": [],
+"p": "TOK-sih-kunt"
+},
+{
+"w": "elytron",
+"pos": "noun",
+"senses": [
+"A sheath or outer covering, especially around the spinal cord or over the hindwings of certain insects."
+],
+"ety": "Learned borrowing from Ancient Greek ἔλυτρον (élutron, “sheath”).",
+"examples": [],
+"p": "EL-ih-tron"
+},
+{
+"w": "aerogel",
+"pos": "noun",
+"senses": [
+"A porous, ultralight solid-state substance, similar to gel, in which the liquid component is replaced with gas."
+],
+"ety": "From aero- + gel. First attested in the early 1920s as a coinage credited to British-Irish chemist Frederick G. Donnan, originally in reference to coagulated aerosols.",
+"examples": [],
+"p": "AIR-oh-jel"
+},
+{
+"w": "duchy",
+"pos": "noun",
+"senses": [
+"A dominion or region ruled by a duke or duchess."
+],
+"ety": "From Middle English duche, from Anglo-Norman duché, from Old French duc, or from Medieval Latin ducātus, from Latin dux. Doublet of ducat and dogate.",
+"examples": [],
+"p": "DUCH-ee"
+},
+{
+"w": "splint",
+"pos": "noun",
+"senses": [
+"A narrow strip of wood split or peeled from a larger piece.",
+"A splinter caught in the skin.",
+"Synonym of splent coal."
+],
+"ety": "From Middle English splint, splent, splente, from Middle Low German splinte, splente or Middle Dutch splint, splinte. Cognate with Old High German splinza (“bar, bolt, latch”). All ultimately from Proto-Germanic *splintǭ, *splintō (“piece of wood, splinter”), from Proto-Germanic *splint-, *splind- (“to split”), from a nasalized form of *splītaną (“to split”), from Proto-Indo-European *(s)pley- (“to split, splice”).",
+"examples": [],
+"p": "splint"
+},
+{
+"w": "fondue",
+"pos": "noun",
+"senses": [
+"A dish made of melted cheese, or chocolate etc., or of a boiling liquid into which food can be dipped."
+],
+"ety": "Unadapted borrowing from French fondue (“melted”), from fondre (“to melt”).",
+"examples": [],
+"p": "fahn-DOO"
+},
+{
+"w": "rewritable",
+"pos": "adjective",
+"senses": [
+"Able to be rewritten, or written again."
+],
+"ety": "From rewrite + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "murukku",
+"pos": "noun",
+"senses": [
+"A snack originating in India, usually made of rice or urad dal flour, formed into a twisty shape."
+],
+"ety": "From Tamil முறுக்கு (muṟukku).",
+"examples": [
+"The offerings have names like Kerala murukku — savory pinwheels made from rice flour and gram (chickpea) flour, spiced with onion, cumin and chili."
+],
+"p": null
+},
+{
+"w": "sansei",
+"pos": "noun",
+"senses": [
+"A grandchild of a Japanese immigrant to the Americas."
+],
+"ety": "Borrowed from Japanese 三世 (“third generation”), from 三 (san, “third”) + 世 (sei, “generation”).",
+"examples": [
+"Under these circumstances it may not be unexpected to have the \"assimilationist Sansei\" protest that he is not a Japanese-Canadian; he is a Canadian, period. None of this hyphenated stuff."
+],
+"p": null
+},
+{
+"w": "clerkly",
+"pos": "adjective",
+"senses": [
+"Of clerks; befitting a clerk."
+],
+"ety": "From clerk + -ly.",
+"examples": [
+"Therefore, desiring to keep my place in the young Tsar’s regard, I did not speak too highly of Mazeppa, though I allowed him to be a shrewd and capable person, of clerkly rather than military attainments.",
+"Ida Arnold swivelled her eyes round the elegant furnishing of the Pompadour Boudoir. They picked out like a searchlight a cushion, a couch, the thin clerkly mouth of the man opposite her."
+],
+"p": null
+},
+{
+"w": "barkada",
+"pos": "noun",
+"senses": [
+"gang; clique; informal group of friends"
+],
+"ety": "Borrowed from Tagalog barkada, from Philippine Spanish barcada (“gang of friends”), from Spanish barcada (“shipload”).",
+"examples": [],
+"p": null
+},
+{
+"w": "shinigami",
+"pos": "noun",
+"senses": [
+"A deity and/or personification of death."
+],
+"ety": "Borrowing from Japanese 死に神 (shinigami).",
+"examples": [],
+"p": "shin-ih-GAH-mee"
+},
+{
+"w": "pisiform",
+"pos": "adjective",
+"senses": [
+"Resembling a pea or peas in size and shape"
+],
+"ety": "Latin pisum (“pea”) + -iform",
+"examples": [],
+"p": null
+},
+{
+"w": "sienna",
+"pos": "noun",
+"senses": [
+"A form of clay containing iron and manganese.",
+"A pigment with a reddish-brown colour.",
+"A light reddish-brown colour."
+],
+"ety": "From Italian terra di Siena (“earth of Siena”), Siena being the most notable Renaissance location of the clay.",
+"examples": [],
+"p": "see-EN-uh"
+},
+{
+"w": "expediter",
+"pos": "noun",
+"senses": [
+"A person who expedites.",
+"Employee charged with tasks related to the purchase of materials (place orders, receive shipments, examine deliveries, check correctness of invoices) and other clerical duties."
+],
+"ety": "From expedite + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "keener",
+"pos": "noun",
+"senses": [
+"One who keens at a funeral."
+],
+"ety": "From keen (“lament”, verb) + -er (“one who does”).",
+"examples": [],
+"p": null
+},
+{
+"w": "stockman",
+"pos": "noun",
+"senses": [
+"A man who raises or looks after livestock.",
+"A man who works in a stockroom."
+],
+"ety": "From stock + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "serialism",
+"pos": "noun",
+"senses": [
+"Music, especially from the 20th century, in which themes are based on a definite order of notes of an equal-tempered scale."
+],
+"ety": "From serial + -ism. Calque of the German Reihenmusik.",
+"examples": [],
+"p": null
+},
+{
+"w": "whelp",
+"pos": "noun",
+"senses": [
+"A young offspring of a various carnivores (canid, ursid, felid, pinniped), especially of a dog or a wolf, the young of a bear or similar mammal (lion, tiger, seal); a pup, wolf cub.",
+"One of several wooden strips to prevent wear on a windlass on a clipper-era ship.",
+"A tooth on a sprocket wheel (compare sprocket and cog)."
+],
+"ety": "From Middle English whelp, from Old English hwelp, from Proto-West Germanic *hwelp, from Proto-Germanic *hwelpaz (compare Dutch welp, German Welpe, Welfe, Old Norse hvelpr, Norwegian Nynorsk kvelp, Danish hvalp), from pre-Germanic *kʷelbos, of uncertain origin.",
+"examples": [],
+"p": "welp"
+},
+{
+"w": "castellar",
+"pos": "adjective",
+"senses": [
+"Somewhat like a castle."
+],
+"ety": "From Latin castellum + -ar. By surface analysis, castle + -ar.",
+"examples": [],
+"p": null
+},
+{
+"w": "chikara",
+"pos": "noun",
+"senses": [
+"An Indian antelope (Gazella bennettii).",
+"The Indian four-horned antelope (Tetracerus quadricornis).",
+"A Hindu musical instrument of the violin class."
+],
+"ety": "From Hindi चिकारा (cikārā).",
+"examples": [],
+"p": null
+},
+{
+"w": "monadnock",
+"pos": "noun",
+"senses": [
+"A hill or mountain standing isolated above a predominantly flat plain."
+],
+"ety": "From the name of Mount Monadnock in New England, which derives from an Abenaki word, perhaps menonadenak, menonadenek (“smooth mountain”) or menadenak, menadenek (“isolated mountain”), from aden (“mountain”).",
+"examples": [],
+"p": "muh-NAD-nok"
+},
+{
+"w": "explicable",
+"pos": "adjective",
+"senses": [
+"Able to be explained."
+],
+"ety": "From Middle French explicable, from Latin explicabilis, from explicō (“unfold, explain”).",
+"examples": [],
+"p": "ik-SPLIK-uh-bul"
+},
+{
+"w": "kokoda",
+"pos": "noun",
+"senses": [
+"A Fijian dish of raw fish marinated in citrus juice (especially lime or lemon), typically mixed with coconut cream, onions, chillies, and tomatoes; the Fijian version of ceviche."
+],
+"ety": "Borrowed from Fijian kokoda.",
+"examples": [],
+"p": null
+},
+{
+"w": "recitalist",
+"pos": "noun",
+"senses": [
+"A person who performs in recitals."
+],
+"ety": "From recital + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "airtime",
+"pos": "noun",
+"senses": [
+"The duration during which a radio or television program (or part of one) is transmitted.",
+"The duration spent talking during a conversation.",
+"The chargeable use of a mobile phone, either in minutes or in units dependent on the use or traffic.",
+"The period of freefall after jumping.",
+"The period during which a person riding a rollercoaster or similar ride experiences a feeling of weightlessness."
+],
+"ety": "From air + time.",
+"examples": [
+"Can you get me some airtime for my latest single?"
+],
+"p": null
+}
+]

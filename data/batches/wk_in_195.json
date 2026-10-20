@@ -1,0 +1,454 @@
+[
+{
+"w": "stormer",
+"pos": "noun",
+"senses": [
+"Someone who storms.",
+"Something very loud and powerful, such as a song or a car."
+],
+"ety": "From storm + -er.",
+"examples": [
+"Did you ever hear of Coronado, the conqueror of New Mexico, the stormer of the seven cities of Cibola?",
+"Hochberg has a reputation as a stormer, and he'd already been hounding the Chicago papers to print happier news about his company."
+],
+"p": null
+},
+{
+"w": "moptop",
+"pos": "noun",
+"senses": [
+"Synonym of Beatle cut."
+],
+"ety": "From mop + top.",
+"examples": [
+"While young women loved the Beatles' hair, British adults found it “unsightly, unsafe, unruly, and unclean.” Factories suspended young apprentices who dared to show up in a moptop."
+],
+"p": null
+},
+{
+"w": "ananas",
+"pos": "noun",
+"senses": [
+"Bromelia pinguin, a plant with edible fruit."
+],
+"ety": "From Italian ananas, from French ananas, from Spanish ananás, from Portuguese ananás, adapted from Old Tupi naná (“pineapple”).",
+"examples": [],
+"p": "uh-NAY-nus"
+},
+{
+"w": "kermes",
+"pos": "noun",
+"senses": [
+"A crimson dye made from the crushed bodies of these insects."
+],
+"ety": "",
+"examples": [],
+"p": "KUR-meez"
+},
+{
+"w": "headsman",
+"pos": "noun",
+"senses": [
+"An executioner whose method of dispatching the condemned is decapitation.",
+"A labourer in a colliery who transports the coal from the workings to the horseway, and who is oftentimes assisted by a younger worker called a foal."
+],
+"ety": "From Middle English heddysman, equivalent to head + -s- + -man. Cognate with Scots hedisman, heidisman (“head man; chief; commander”). Compare also Danish høvedsmand (“captain”), Swedish hövitsman (“captain”), Icelandic höfuðsmaður (“captain”), German Hauptmann (“captain”).",
+"examples": [],
+"p": null
+},
+{
+"w": "micropipette",
+"pos": "noun",
+"senses": [
+"A very small pipette."
+],
+"ety": "From micro- + pipette.",
+"examples": [],
+"p": null
+},
+{
+"w": "vestryman",
+"pos": "noun",
+"senses": [
+"A member of a parochial vestry, especially one who is a man."
+],
+"ety": "From vestry + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "enfold",
+"pos": "verb",
+"senses": [
+"To envelop and wrap up something.",
+"To clasp with the arms; embrace."
+],
+"ety": "Alteration of earlier infold, from Middle English infolden, equivalent to en- + fold.",
+"examples": [
+"In words, like weeds, I’ll wrap me o’er, ⁠Like coarsest clothes against the cold: ⁠But that large grief which these enfold Is given in outline and no more.",
+"Prais’d be the fathomless universe, / For life and joy, and for objects and knowledge curious, / And for love, sweet love—but praise! praise! praise! / For the sure-enwinding arms of cool-enfolding death."
+],
+"p": null
+},
+{
+"w": "runback",
+"pos": "noun",
+"senses": [
+"A managed reduction of output in a power plant.",
+"The path taken to the location of a boss to fight it again after respawning."
+],
+"ety": "From run + back.",
+"examples": [
+"Maybe I’m just a bit of a masochist, but as Team Cherry continued to torment me with ill-placed benches and hostile runbacks, I started to respect that viciousness as a part of Silksong’s character."
+],
+"p": null
+},
+{
+"w": "yaupon",
+"pos": "noun",
+"senses": [
+"The yaupon holly, Ilex vomitoria, an evergreen holly shrub with white flowers and red or yellow berries, found in the south-eastern United States.",
+"A tea-like drink, \"black drink\", brewed from the leaves of this holly (or, sometimes, Ilex cassine)."
+],
+"ety": "From a Catawba word, most likely yap, yop, yą (“tree”), with the second element being either a diminutive suffix or pą (“leaf”) (resulting in the compound yąpą); alternatively, perhaps directly from a longer form of the word for leaf, 'yap'hâ.",
+"examples": [],
+"p": "YOH-pahn"
+},
+{
+"w": "prakrti",
+"pos": "noun",
+"senses": [
+"The original or natural form or condition of anything."
+],
+"ety": "From Sanskrit प्रकृ॑ति (prákṛti).",
+"examples": [],
+"p": null
+},
+{
+"w": "tanztheater",
+"pos": "noun",
+"senses": [
+"A form of German expressionist dance."
+],
+"ety": "From German Tanztheater (literally “dance theatre”).",
+"examples": [
+"This tension between freedom/flow/innovation and control/containment/regulation of patterns lies at the heart of tanztheater in general, and Laban's approach to performance in particular."
+],
+"p": null
+},
+{
+"w": "upsell",
+"pos": "verb",
+"senses": [
+"To persuade a customer to buy more items, or more expensive items, than they had intended."
+],
+"ety": "From up- + sell.",
+"examples": [
+"I gave up on subscribing to their SaaS because they wouldn't quit the constant attempts to upsell.",
+"They were obsessed with trying to upsell me over and over again.",
+"Communicate an amazing deal to get people into your store and then when that product is no longer available, switch them and upsell them to a more expensive product."
+],
+"p": null
+},
+{
+"w": "moval",
+"pos": "noun",
+"senses": [
+"Removal (the transfer of one's home or business)"
+],
+"ety": "Back-formation from removal.",
+"examples": [],
+"p": null
+},
+{
+"w": "solidification",
+"pos": "noun",
+"senses": [
+"The action of solidifying.",
+"Concentration or consolidation."
+],
+"ety": "From French solidification, or from solid + -ification.",
+"examples": [],
+"p": null
+},
+{
+"w": "civvy",
+"pos": "noun",
+"senses": [
+"A civilian; someone who is not in the military."
+],
+"ety": "Shortening of civilian + -y.",
+"examples": [],
+"p": "SIV-ee"
+},
+{
+"w": "chartbuster",
+"pos": "noun",
+"senses": [
+"A best-selling record; the artist featured on such a record"
+],
+"ety": "From chart (“ranked listing”) + buster.",
+"examples": [],
+"p": null
+},
+{
+"w": "fiche",
+"pos": "noun",
+"senses": [
+"a microfiche"
+],
+"ety": "Borrowed from French fiche.",
+"examples": [],
+"p": "feesh"
+},
+{
+"w": "multiday",
+"pos": "adjective",
+"senses": [
+"Extending over multiple days."
+],
+"ety": "From multi- + day.",
+"examples": [
+"A multiday severe weather outbreak is possible Monday through Wednesday, increasing the already-above average tornado count even higher."
+],
+"p": null
+},
+{
+"w": "fatalist",
+"pos": "noun",
+"senses": [
+"One who maintains that all things happen by inevitable necessity; a person who believes in fatalism."
+],
+"ety": "From fatal + -ist.",
+"examples": [],
+"p": "FAY-tuh-list"
+},
+{
+"w": "raver",
+"pos": "noun",
+"senses": [
+"A person who attends rave parties, or who belongs to that subculture.",
+"A person who raves or rants."
+],
+"ety": "From Middle English ravere, ravare, rafar, equivalent to rave + -er.",
+"examples": [
+"The life of a superstar DJ sounds like one endless party. You get to travel the world, perform for thousands of scantily clad ravers, and earn a stack of money.",
+"Ravers listen to technomusic at home, and some have commented that certain tracks of music can elicit ASC similar to the ones experienced at raves.",
+"In large part, happycore was the result of an exodus of white ravers from the jungle scene, in reaction to the influx of black youth and the attendant mood change from bonhomie to surliness."
+],
+"p": null
+},
+{
+"w": "assless",
+"pos": "adjective",
+"senses": [
+"without an ass",
+"uncovered at the rear"
+],
+"ety": "From ass + -less.",
+"examples": [],
+"p": null
+},
+{
+"w": "tonus",
+"pos": "noun",
+"senses": [
+"A tonal system or mode used in Gregorian chant."
+],
+"ety": "Borrowed from Latin tonus (“strain, tension”). Doublet of tone, tune, and ton (fashion/style).",
+"examples": [],
+"p": null
+},
+{
+"w": "renter",
+"pos": "noun",
+"senses": [
+"One who rents property or other goods from another.",
+"A film worth renting, but not possibly worth visiting a cinema to see."
+],
+"ety": "From rent + -er.",
+"examples": [
+"Nearly half of all renter households in the US were cost-burdened in 2023, meaning they paid more than 30% of their income towards housing costs, according to new government data.",
+"A recent report from the Aspen Institute highlights the gaping wealth chasm that has formed between homeowners and renters in America."
+],
+"p": null
+},
+{
+"w": "fertilize",
+"pos": "verb",
+"senses": [
+"To make (the soil) more fertile by adding nutrients to it.",
+"To make more creative or intellectually productive.",
+"To cause to produce offspring through insemination; to inseminate."
+],
+"ety": "From French fertiliser; equivalent to fertile + -ize.",
+"examples": [],
+"p": "FUR-tih-lize"
+},
+{
+"w": "flippable",
+"pos": "adjective",
+"senses": [
+"Able to be flipped."
+],
+"ety": "From flip + -able.",
+"examples": [],
+"p": null
+},
+{
+"w": "batfish",
+"pos": "noun",
+"senses": [
+"Any of several anglerfish of the family Ogcocephalidae"
+],
+"ety": "From bat + fish.",
+"examples": [],
+"p": null
+},
+{
+"w": "motorcar",
+"pos": "noun",
+"senses": [
+"An enclosed passenger motor vehicle: a car (automobile).",
+"A self-propelled railway vehicle."
+],
+"ety": "From motor + car.",
+"examples": [],
+"p": null
+},
+{
+"w": "kirkman",
+"pos": "noun",
+"senses": [
+"A clergyman or officer in a kirk.",
+"A member of the Church of Scotland."
+],
+"ety": "From kirk + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "hafod",
+"pos": "noun",
+"senses": [
+"A Welsh summer dwelling."
+],
+"ety": "From Welsh hafod.",
+"examples": [],
+"p": null
+},
+{
+"w": "ictus",
+"pos": "noun",
+"senses": [
+"In conducting, the indication of a musical event, most often the beat of the tempo or the entry of a section of the orchestra."
+],
+"ety": "Unadapted borrowing from Latin ictus (“a blow”), from īco (“to hit, strike”).",
+"examples": [],
+"p": "IK-tus"
+},
+{
+"w": "potager",
+"pos": "noun",
+"senses": [
+"A kitchen garden; sometimes used attributively."
+],
+"ety": "From Middle English potager, from Middle French potager, from potage. The pronunciation is sometimes altered to imitate the pronunciation of French potager.",
+"examples": [],
+"p": "POT-ah-zhay"
+},
+{
+"w": "nametag",
+"pos": "noun",
+"senses": [
+"A tag with one's name inscribed on it."
+],
+"ety": "From name + tag.",
+"examples": [
+"Here's your nametag for the business conference.",
+"We'd better put nametags in the children's school uniforms, in case they get mixed up."
+],
+"p": null
+},
+{
+"w": "burny",
+"pos": "adjective",
+"senses": [
+"Tending to burn."
+],
+"ety": "From burn + -y.",
+"examples": [
+"My eyes seem very burny, especially the right eye."
+],
+"p": null
+},
+{
+"w": "frivolity",
+"pos": "noun",
+"senses": [
+"frivolous act",
+"state of being frivolous"
+],
+"ety": "Borrowed from French frivolité.",
+"examples": [],
+"p": "frih-VAH-lih-tee"
+},
+{
+"w": "corroborative",
+"pos": "adjective",
+"senses": [
+"Serving to corroborate"
+],
+"ety": "From corroborate + -ive.",
+"examples": [],
+"p": null
+},
+{
+"w": "burry",
+"pos": "adjective",
+"senses": [
+"Abounding in burs.",
+"Resembling or characteristic of a bur.",
+"Characterized by a burr."
+],
+"ety": "From Middle English burry, bury, equivalent to bur + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "sectored",
+"pos": "adjective",
+"senses": [
+"Divided into sectors."
+],
+"ety": "From sector + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "neuroplasticity",
+"pos": "noun",
+"senses": [
+"The state or quality of being neuroplastic, of having a brain that adapts to experience."
+],
+"ety": "From neuro- + plastic + -ity.",
+"examples": [
+"Further, it is one that is illustrative of the flexibility that derives from neuroplasticity, producing an efficient and opportunistic parous animal."
+],
+"p": null
+},
+{
+"w": "collegiality",
+"pos": "noun",
+"senses": [
+"collegial atmosphere; working with colleagues in an effective and cooperative manner",
+"power and authority that is shared among peers, especially the sharing of collegiate power among Roman Catholic bishops."
+],
+"ety": "From collegial + -ity.",
+"examples": [
+"To what extent does collegiality still exist in the management here?",
+"Second, most of the justices suggested that informal norms of collegiality and respect for the opinions of colleagues often resulted in deliberate efforts to find acceptable compromise."
+],
+"p": null
+}
+]

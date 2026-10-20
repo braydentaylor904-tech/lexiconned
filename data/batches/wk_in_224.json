@@ -1,0 +1,420 @@
+[
+{
+"w": "hoisin",
+"pos": "noun",
+"senses": [
+"A sauce made from soy, garlic, chili etc, used in Chinese cooking"
+],
+"ety": "Borrowed from Cantonese 海鮮 /海鲜 (hoi² sin¹), literally \"seafood\", though the sauce contains no seafood ingredients.",
+"examples": [],
+"p": "HOY-sin"
+},
+{
+"w": "barbet",
+"pos": "noun",
+"senses": [
+"Any of numerous arboreal birds of the families Capitonidae, Lybiidae, and Megalaimidae, within the order Piciformes.",
+"A dog of a small-bodied breed with long curly hair."
+],
+"ety": "From French barbe (“beard; long hair of certain animals”).",
+"examples": [],
+"p": null
+},
+{
+"w": "marchese",
+"pos": "noun",
+"senses": [
+"An Italian marquis."
+],
+"ety": "Italian, from Late Latin marchensis.",
+"examples": [],
+"p": null
+},
+{
+"w": "ichthyologist",
+"pos": "noun",
+"senses": [
+"An expert in ichthyology: one who studies fishes."
+],
+"ety": "From ichthyology + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "regionalism",
+"pos": "noun",
+"senses": [
+"Affection, often excessive, for one's own region and to everything related to it.",
+"The belief that most or nearly all political power should be decentralized to regional governments.",
+"Regional character, local color."
+],
+"ety": "From regional + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "roquette",
+"pos": "noun",
+"senses": [
+"A herb of the mustard family (Eruca sativa), with pungently flavored leaves often eaten in salads."
+],
+"ety": "Borrowed from French roquette. Cognate with rocket, see that entry for other cognates.",
+"examples": [],
+"p": null
+},
+{
+"w": "motivator",
+"pos": "noun",
+"senses": [
+"One who inspires or motivates someone; one who drives someone to act."
+],
+"ety": "From motivate + -or.",
+"examples": [],
+"p": "MOH-tuh-vay-ter"
+},
+{
+"w": "shaku",
+"pos": "noun",
+"senses": [
+"The Japanese foot, a traditional Japanese unit of length equal to 10 sun or ¹/₁₀ of a jō, now standardized as equal to ¹⁰/₃₃ of a meter."
+],
+"ety": "Borrowed from Japanese 尺 (shaku). Doublet of chi and chek.",
+"examples": [],
+"p": null
+},
+{
+"w": "muguet",
+"pos": "noun",
+"senses": [
+"Lily of the valley."
+],
+"ety": "Borrowed from French muguet.",
+"examples": [],
+"p": null
+},
+{
+"w": "coniferous",
+"pos": "adjective",
+"senses": [
+"Bearing cones, as the pine and cypress."
+],
+"ety": "From Latin. By surface analysis, cone + -i- + -ferous (“bearing”), or conifer + -ous (“pertaining to”), as reflected in the meanings.",
+"examples": [],
+"p": "kuh-NIF-uh-rus"
+},
+{
+"w": "breadbox",
+"pos": "noun",
+"senses": [
+"A container for storing bread and other baked goods to keep them fresh."
+],
+"ety": "From bread + box.",
+"examples": [],
+"p": "BRED-bahks"
+},
+{
+"w": "terroir",
+"pos": "noun",
+"senses": [
+"The complete set of local conditions in which a particular wine or family of wines is produced, including soil type, weather conditions, topography, and wine-making savoir-faire."
+],
+"ety": "Borrowed from French terroir.",
+"examples": [],
+"p": "tair-WAR"
+},
+{
+"w": "vlogger",
+"pos": "noun",
+"senses": [
+"A contributor to a vlog.",
+"A content creator, regardless of whether or not they make vlogs."
+],
+"ety": "From vlog + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "oread",
+"pos": "noun",
+"senses": [
+"A mountain nymph; an anthropomorphic appearance of the spirit of a mountain."
+],
+"ety": "From Latin Orēas, Orēadis, from Ancient Greek Ὀρειάς (Oreiás), from ὄρος (óros, “mountain”).",
+"examples": [],
+"p": "AW-ree-ad"
+},
+{
+"w": "brainbuster",
+"pos": "noun",
+"senses": [
+"Something that requires much thought or is difficult to figure out."
+],
+"ety": "From brain + buster.",
+"examples": [],
+"p": null
+},
+{
+"w": "traditionalist",
+"pos": "noun",
+"senses": [
+"A person who adheres to tradition, especially in cultural or religious practices."
+],
+"ety": "From traditional + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "sucky",
+"pos": "adjective",
+"senses": [
+"Suitable for sucking"
+],
+"ety": "From suck + -y.",
+"examples": [],
+"p": "SUK-ee"
+},
+{
+"w": "classist",
+"pos": "noun",
+"senses": [
+"An advocate of classism."
+],
+"ety": "From class + -ist.",
+"examples": [],
+"p": "KLAS-ist"
+},
+{
+"w": "planty",
+"pos": "adjective",
+"senses": [
+"Vegetal, plant-related, or associated with plants."
+],
+"ety": "From plant + -y. Piecewise doublet of clanny.",
+"examples": [
+"For quotations using this term, see Citations:planty."
+],
+"p": null
+},
+{
+"w": "backlot",
+"pos": "noun",
+"senses": [
+"The farthest section of a parking lot."
+],
+"ety": "From back + lot.",
+"examples": [],
+"p": null
+},
+{
+"w": "mycotic",
+"pos": "adjective",
+"senses": [
+"Infectious; especially, infectious and resembling a mushroom."
+],
+"ety": "From myco- + -tic.",
+"examples": [],
+"p": null
+},
+{
+"w": "myoelectric",
+"pos": "adjective",
+"senses": [
+"Using, or pertaining to, myoelectricity"
+],
+"ety": "From myo- + electric.",
+"examples": [
+"A myoelectric prosthesis uses EMG signals or potentials from voluntarily contracted muscles within a person's residual limb on the surface of the skin to control the movements of the prosthesis."
+],
+"p": null
+},
+{
+"w": "salience",
+"pos": "noun",
+"senses": [
+"A highlight; perceptual prominence, or likelihood of being noticed."
+],
+"ety": "From Latin saliēns, salientis (whence -ence), from saliō.",
+"examples": [],
+"p": "SAY-lee-uns"
+},
+{
+"w": "dihedral",
+"pos": "adjective",
+"senses": [
+"Having wings that form a dihedral angle, especially when the angle between the upper sides is less than 180°."
+],
+"ety": "From di- + -hedral.",
+"examples": [],
+"p": "dy-HEE-drul"
+},
+{
+"w": "mycology",
+"pos": "noun",
+"senses": [
+"The study of fungi."
+],
+"ety": "By surface analysis, myco- + -logy; diachronically, the term may be naturalized from French or German, from a New Latin form.",
+"examples": [],
+"p": "my-KAH-luh-jee"
+},
+{
+"w": "collotype",
+"pos": "noun",
+"senses": [
+"A dichromate-based photographic process formerly used for large-volume mechanical printing.",
+"An image produced by this process."
+],
+"ety": "From Ancient Greek κόλλα (kólla, “glue”) + -type.",
+"examples": [],
+"p": null
+},
+{
+"w": "federalization",
+"pos": "noun",
+"senses": [
+"The unification of states to form a federal union.",
+"The assumption of control or authority by a federal government."
+],
+"ety": "From federal + -ization.",
+"examples": [
+"These were the days before Elon Musk’s tiff with a Delaware judge raised the prospect of the federalization of corporate law."
+],
+"p": null
+},
+{
+"w": "herbalism",
+"pos": "noun",
+"senses": [
+"The use or study of medicinal herbs."
+],
+"ety": "From herbal + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "outremer",
+"pos": "noun",
+"senses": [
+"An area beyond the sea."
+],
+"ety": "Borrowed from French outremer.",
+"examples": [],
+"p": null
+},
+{
+"w": "wetware",
+"pos": "noun",
+"senses": [
+"The underlying generative code for an organism, as found in the genetic material, in the biochemistry of the cells, or in the architecture of the body’s tissues."
+],
+"ety": "From wet + -ware (suffix denoting a type of software).",
+"examples": [],
+"p": null
+},
+{
+"w": "alluvial",
+"pos": "noun",
+"senses": [
+"Alluvial soil; specifically, in Australia, gold-bearing alluvial soil."
+],
+"ety": "From Latin alluvius (“alluvial”), from alluviō (“an overflowing, inundation”), from alluō (“wash against”). By surface analysis, alluvium + -ial.",
+"examples": [],
+"p": "uh-LOO-vee-ul"
+},
+{
+"w": "gestion",
+"pos": "noun",
+"senses": [
+"The act of managing, conducting or administrating something."
+],
+"ety": "Likely from French gestion.",
+"examples": [],
+"p": null
+},
+{
+"w": "sloper",
+"pos": "noun",
+"senses": [
+"Something which angles or slopes, as distinguished from one that is vertical or horizontal.",
+"A climbing hold that has a smooth surface and sloping shape, making it difficult to hold.",
+"A custom-fitted basic pattern from which patterns for many different styles can be created."
+],
+"ety": "From slope + -er.",
+"examples": [
+"If one saw only the Rheims benches, one would scarcely prefer the slopers to horizontal retorts with good stoking machinery ; as for instance the Ross stoker at the Cincinnati gas works.",
+"Yeah, that new pair of half-slopers really works — a lot better than the old inverted-V they're made from, ha ha!"
+],
+"p": null
+},
+{
+"w": "comodo",
+"pos": "adverb",
+"senses": [
+"Comfortably, that is, at moderate speed."
+],
+"ety": "Borrowed from Italian comodo. Doublet of commode.",
+"examples": [],
+"p": null
+},
+{
+"w": "negativism",
+"pos": "noun",
+"senses": [
+"A persistent pessimistic or skeptical attitude.",
+"A stubborn tendency to do the opposite of what one is asked."
+],
+"ety": "From negative + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "culturalism",
+"pos": "noun",
+"senses": [
+"A belief system that emphasizes the role of culture."
+],
+"ety": "From cultural + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "geomatics",
+"pos": "noun",
+"senses": [
+"The discipline of gathering, storing, processing, and delivering geospatial information."
+],
+"ety": "Borrowed from French géomatique, a blend of géodésie (“geodesy”) and geoinformatique (“geoinformatics”); see informatics § Etymology for more.",
+"examples": [],
+"p": "jee-oh-MAT-iks"
+},
+{
+"w": "pianistic",
+"pos": "adjective",
+"senses": [
+"Suitable for playing on a piano, well-suited to piano playing."
+],
+"ety": "From piano + -istic.",
+"examples": [],
+"p": null
+},
+{
+"w": "topshop",
+"pos": "noun",
+"senses": [
+"A building found in parts of the English Midlands, having three storeys, the lower two serving as living accommodation and the upper floor as a workshop containing a weaver's loom."
+],
+"ety": "From top + shop.",
+"examples": [],
+"p": null
+},
+{
+"w": "forepaw",
+"pos": "noun",
+"senses": [
+"Either of the paws of an animal's foreleg, homologous to the hand in humans."
+],
+"ety": "From fore- + paw.",
+"examples": [],
+"p": "FOR-paw"
+}
+]

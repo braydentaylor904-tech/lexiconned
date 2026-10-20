@@ -1,0 +1,438 @@
+[
+{
+"w": "webspace",
+"pos": "noun",
+"senses": [
+"Disk space used to store web pages and other content that can be accessed through the World Wide Web."
+],
+"ety": "From web + space.",
+"examples": [
+"Some Internet providers offer free webspace to subscribers."
+],
+"p": null
+},
+{
+"w": "kaboom",
+"pos": "noun",
+"senses": [
+"The sound of an explosion, typically seen in comic strips or heard in a light-hearted conversation.",
+"An explosion itself."
+],
+"ety": "From ka- + boom. Compare kerboom. Consider Italian tapum.",
+"examples": [],
+"p": "kuh-BOOM"
+},
+{
+"w": "pocketed",
+"pos": "adjective",
+"senses": [
+"Having a pocket; with pockets.",
+"Having a certain type or number of pockets."
+],
+"ety": "From pocket + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "joiner",
+"pos": "noun",
+"senses": [
+"A maker of wooden furniture or fittings.",
+"A woodworking machine used to prepare edges of wooden elements to join to other wood pieces."
+],
+"ety": "From Middle English joynour (“maker of furniture, small boxes, etc.”), from Old French joigneor (“joiner, carpenter”), agent noun from joindre (“to join”), equivalent to join + -er.",
+"examples": [],
+"p": "JOY-ner"
+},
+{
+"w": "desecrator",
+"pos": "noun",
+"senses": [
+"A person who profanes or violates the sacredness or sanctity of something."
+],
+"ety": "From desecrate + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "escapist",
+"pos": "adjective",
+"senses": [
+"Intended for or tending toward escape; especially, used to avoid, deny, or forget about reality, as through fantasy."
+],
+"ety": "From escape + -ist.",
+"examples": [
+"He enjoys reading escapist fiction in his free time.",
+"The opposite of an escapist blockbuster, the eighth and apparently final outing for Tom Cruise's Ethan Hunt is the doomiest and gloomiest yet in the action-adventure franchise."
+],
+"p": null
+},
+{
+"w": "plumer",
+"pos": "noun",
+"senses": [
+"A person who sells feathers."
+],
+"ety": "From plume + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "tarek",
+"pos": "noun",
+"senses": [
+"Synonym of pearl mullet."
+],
+"ety": "From Armenian տառեխ (taṙex). Doublet of bottarga.",
+"examples": [],
+"p": null
+},
+{
+"w": "spirituelle",
+"pos": "adjective",
+"senses": [
+"Showing great grace and delicacy."
+],
+"ety": "Borrowed from French spirituelle.",
+"examples": [
+"Laughter may be generally classed under three heads,—forced, silly, or vulgar; but hers is the most sweet, real, spirituelle sound possible..."
+],
+"p": null
+},
+{
+"w": "bigtime",
+"pos": "adjective",
+"senses": [
+"Of major significance or importance."
+],
+"ety": "From big + time.",
+"examples": [
+"With a previous conviction in 1954 for receiving tins of corned beef, Betchley was hardly bigtime."
+],
+"p": null
+},
+{
+"w": "nebby",
+"pos": "adjective",
+"senses": [
+"Overly inquiring; nosey."
+],
+"ety": "From neb (“face, nose, beak”) + -y.",
+"examples": [],
+"p": null
+},
+{
+"w": "carcinogenicity",
+"pos": "noun",
+"senses": [
+"The state or degree of being carcinogenic."
+],
+"ety": "From carcinogenic + -ity.",
+"examples": [],
+"p": null
+},
+{
+"w": "sower",
+"pos": "noun",
+"senses": [
+"One who or that which sows."
+],
+"ety": "From Middle English sowere, from Old English sāwere; equivalent to sow + -er.",
+"examples": [],
+"p": "SOH-er"
+},
+{
+"w": "deictic",
+"pos": "adjective",
+"senses": [
+"Directly pointing out; specifying."
+],
+"ety": "Borrowed from Ancient Greek δεικτικός (deiktikós, “capable of proof”).",
+"examples": [],
+"p": "DAYK-tik"
+},
+{
+"w": "damar",
+"pos": "noun",
+"senses": [
+"A clear to yellow resin, obtained in Malaya from trees of the genera Shorea (family Dipterocarpaceae) and Symplocos (family Symplocaceae), used in varnishes and inks"
+],
+"ety": "From Malay damar. Compare Middle English dambre (“a kind of resin”).",
+"examples": [],
+"p": null
+},
+{
+"w": "illumined",
+"pos": "adjective",
+"senses": [
+"Illuminated."
+],
+"ety": "From illumine + -ed.",
+"examples": [
+"And when the long-illumined cities flame, / Their ever-loyal iron leader's fame, / With honour, honour, honour, honour to him, / Eternal honour to his name."
+],
+"p": null
+},
+{
+"w": "reimbursable",
+"pos": "adjective",
+"senses": [
+"Eligible for repayment, particularly for money spent or expenses incurred; qualifying for reimbursement."
+],
+"ety": "From reimburse + -able.",
+"examples": [
+"Buying a souvenir during a business trip is not a reimbursable expense."
+],
+"p": null
+},
+{
+"w": "reflate",
+"pos": "verb",
+"senses": [
+"To reinflate, to inflate again."
+],
+"ety": "From re- + (in)flate, on the basis of deflate. Equivalent to Latin re- + Latin flō (“blow”) + -ate (verb-forming suffix).",
+"examples": [],
+"p": "ree-FLAYT"
+},
+{
+"w": "fossilization",
+"pos": "noun",
+"senses": [
+"The process of converting, or of being converted, into a fossil.",
+"The process of becoming fixed, unchanging, and out of date."
+],
+"ety": "From fossil + -ization or fossilize + -ation.",
+"examples": [],
+"p": null
+},
+{
+"w": "forester",
+"pos": "noun",
+"senses": [
+"A person who practices forestry.",
+"A moth in the family Zygaenidae."
+],
+"ety": "Inherited from Middle English forester, a borrowing from Old French forestier, from forest + -ier; equivalent to forest + -er. Displaced native Old English wuduweard.",
+"examples": [],
+"p": null
+},
+{
+"w": "mullet",
+"pos": "noun",
+"senses": [
+"A fish of the family Mullidae (order Syngnathiformes).",
+"A fish of the family Mugilidae (order Mugiliformes)."
+],
+"ety": "From Middle English molet, mulett, from Old French mulet (now ‘grey mullet’), from Latin mullus (“red mullet”), from Ancient Greek μύλλος (múllos).",
+"examples": [],
+"p": "MUL-it"
+},
+{
+"w": "tamping",
+"pos": "adjective",
+"senses": [
+"Very angry; fuming."
+],
+"ety": "From tamp + -ing.",
+"examples": [],
+"p": null
+},
+{
+"w": "secularist",
+"pos": "noun",
+"senses": [
+"A person who believes in or supports secularism."
+],
+"ety": "From secular + -ist.",
+"examples": [],
+"p": null
+},
+{
+"w": "khagan",
+"pos": "noun",
+"senses": [
+"A khan of khans, a ruler of a khaganate; (the holder of) an imperial rank used among certain Turkic and Mongolian peoples, equal in status to an emperor."
+],
+"ety": "Ultimately from Old Turkic 𐰴𐰍𐰣 (qaɣan). Doublet of khan.",
+"examples": [],
+"p": "kah-GAHN"
+},
+{
+"w": "suffragette",
+"pos": "noun",
+"senses": [
+"A female supporter, often militant, of women's right to vote in the early 20th century, especially in Great Britain."
+],
+"ety": "From suffrage + -ette, first used as a derisive label by the Daily Mail in 1906, but eventually adopted by the WSPU itself.",
+"examples": [],
+"p": "suf-ruh-JET"
+},
+{
+"w": "compassing",
+"pos": "adjective",
+"senses": [
+"curved; bent"
+],
+"ety": "From Middle English compassynge; equivalent to compass + -ing.",
+"examples": [],
+"p": null
+},
+{
+"w": "taille",
+"pos": "noun",
+"senses": [
+"A form of taxation levied on the land of peasants in pre-Revolutionary France.",
+"The tenor voice or part, especially the part for the tenor viol or viola"
+],
+"ety": "Borrowed from Middle French taille (“cut”, noun). Doublet of tally.",
+"examples": [],
+"p": "ty"
+},
+{
+"w": "sandesh",
+"pos": "noun",
+"senses": [
+"a dessert originating from Bengal."
+],
+"ety": "Borrowed from Bengali সন্দেশ (śondeś).",
+"examples": [],
+"p": null
+},
+{
+"w": "malthouse",
+"pos": "noun",
+"senses": [
+"A plant where malt is produced."
+],
+"ety": "From Old English mealthūs, equivalent to malt + house.",
+"examples": [],
+"p": null
+},
+{
+"w": "skycam",
+"pos": "noun",
+"senses": [
+"A camera mounted or flying in the sky, taking aerial pictures or video footage."
+],
+"ety": "From sky + cam.",
+"examples": [],
+"p": null
+},
+{
+"w": "electroless",
+"pos": "adjective",
+"senses": [
+"Without the use of an external electric current."
+],
+"ety": "From electro- + -less.",
+"examples": [],
+"p": null
+},
+{
+"w": "tocino",
+"pos": "noun",
+"senses": [
+"sweetened and cured pork belly"
+],
+"ety": "Borrowed from Spanish tocino (literally “bacon”).",
+"examples": [],
+"p": null
+},
+{
+"w": "uncatalogued",
+"pos": "adjective",
+"senses": [
+"Not catalogued."
+],
+"ety": "From un- + catalogued.",
+"examples": [
+"Those lights of human intelligence losing human expression, gelidly protruding like the alien eyes of certain uncatalogued creatures of the deep."
+],
+"p": null
+},
+{
+"w": "hypogonadism",
+"pos": "noun",
+"senses": [
+"A sexual reproductive system impairment characteristic of gonadal dysfunction; defective sex hormone production by the gonads (ovaries or testes)."
+],
+"ety": "From hypo- + gonad + -ism.",
+"examples": [
+"Men may also have fertility challenges, especially if their hypogonadism was caused by anabolic steroid use."
+],
+"p": null
+},
+{
+"w": "solidum",
+"pos": "noun",
+"senses": [
+"The die of a pedestal.",
+"A complete sum."
+],
+"ety": "From Latin solidum. Doublet of solid.",
+"examples": [],
+"p": null
+},
+{
+"w": "archnemesis",
+"pos": "noun",
+"senses": [
+"A chief nemesis."
+],
+"ety": "From arch- + nemesis.",
+"examples": [],
+"p": null
+},
+{
+"w": "setar",
+"pos": "noun",
+"senses": [
+"A Persian musical instrument."
+],
+"ety": "From Iranian Persian سهتار (se-târ). Doublet of sitar.",
+"examples": [],
+"p": null
+},
+{
+"w": "intestate",
+"pos": "adjective",
+"senses": [
+"Without a valid will indicating whom to leave one's estate to after death.",
+"Not devised or bequeathed; not disposed of by will."
+],
+"ety": "From Latin intestātus, from in- (“not”) + testātus (“testate”), see -ate (adjective-forming suffix) and -ate (noun-forming suffix).",
+"examples": [],
+"p": "in-TES-tayt"
+},
+{
+"w": "stowage",
+"pos": "noun",
+"senses": [
+"The act or practice of stowing.",
+"A place where things are stowed.",
+"Things that are stowed.",
+"Amount of room for storing things.",
+"A charge for stowing and storage."
+],
+"ety": "From stow + -age.",
+"examples": [
+"Accommodations were so poor I think we were in stowage, with the rest of the cargo.",
+"Our stowage disappeared down the chute, into the employee only cargo area, never to be seen again by man.",
+"The reduction in the ship's size naturally reduced her stowage."
+],
+"p": null
+},
+{
+"w": "lanner",
+"pos": "noun",
+"senses": [
+"The lanner falcon, Falco biarmicus."
+],
+"ety": "From Middle French lanier (“cowardly”), possibly from Latin lānārius.",
+"examples": [
+"The mountains of this country also supply Saker falcons of excellent flight, and plenty of lanners likewise."
+],
+"p": null
+}
+]

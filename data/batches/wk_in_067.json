@@ -1,0 +1,540 @@
+[
+{
+"w": "hodgepodge",
+"pos": "noun",
+"senses": [
+"A collection containing a variety of miscellaneous things.",
+"A confused mass of ingredients shaken or mixed together in the same pot."
+],
+"ety": "From Middle English hochepoche, a variation of hochepot, from Old French hochepot, from Middle Dutch hutspot (“beef or mutton cut into small pieces and mixed and boiled together in a pot”), from hotsen, hutsen (“to shake; jog; jolt”) + pot (“pot”), equivalent to hotch + pot. Compare German Low German Hüttspott (“hodgepodge”).",
+"examples": [
+"His latest sculpture is a hodgepodge of kitchen clutter and scrap glued together.",
+"For many years the furniture in my house was a hodgepodge of hand-me-downs, thrift store finds, IKEA, and a handful of things I had built."
+],
+"p": "HAHJ-pahj"
+},
+{
+"w": "bequest",
+"pos": "noun",
+"senses": [
+"The act of bequeathing or leaving by will.",
+"The transfer of property upon the owner's death according to the will of the deceased.",
+"That which is left by will; a legacy.",
+"That which has been handed down or transmitted.",
+"A person's inheritance; an amount of property given by will."
+],
+"ety": "From Middle English biqueste, bequeste (“will, testament, bequest”), from be- + quiste, queste (“saying, utterance, testament, will, legacy”), from Old English *cwist, *cwiss (“saying”) (compare Old English andcwiss, ġecwis, uncwisse, etc.), from Proto-Germanic *kwissiz (“saying”), from Proto-Indo-European *gʷet- (“to say”). Related to Old English andcwiss (“answer, reply”), Old English uncwisse (“dumb, mute”), Middle English bequethen (“to bequeath”). Not related to quest, which is from Latin. More at quoth, bequeath.",
+"examples": [
+"Yet some odor of religion is still lingering here, the bequest of pious souls, who had grace to enjoy a foretaste of immortal life."
+],
+"p": "bih-KWEST"
+},
+{
+"w": "pelorus",
+"pos": "noun",
+"senses": [
+"A device used to take a bearing on a distant object."
+],
+"ety": "Reportedly the name of Hannibal's pilot.",
+"examples": [
+"Light clusters, clear, deep, on the face of the radio gear…fans up softly off the dial of the pelorus…spills out portholes onto the white river."
+],
+"p": "pih-LAW-rus"
+},
+{
+"w": "dialectics",
+"pos": "noun",
+"senses": [
+"A systematic method of argument that attempts to resolve the contradictions in opposing views or ideas."
+],
+"ety": "From Ancient Greek διαλεκτική (dialektikḗ, “the art of argument through interactive questioning and answering”), from διαλεκτικός (dialektikós, “competent debater”), from διαλέγομαι (dialégomai, “to participate in a dialogue”), from διά (diá, “inter, through”) + λέγειν (légein, “to speak”).",
+"examples": [
+"The dialectics of absolute and relative, concrete and abstract, subject and object, and theory and practice is focused on some of the most important questions in philosophy."
+],
+"p": "dy-uh-LEK-tiks"
+},
+{
+"w": "decel",
+"pos": "noun",
+"senses": [
+"Synonym of decelerationist."
+],
+"ety": "Sense 2 is influenced by or derived via blend with incel.",
+"examples": [
+"Beginning in summer 2022, such posters shared manifestos of an “e/acc” ideology squarely opposed to A.I. fearmongerers like the effective altruists and their fellow “decels” (aka “decelerationists”)."
+],
+"p": "DEE-sel"
+},
+{
+"w": "scintillating",
+"pos": "adjective",
+"senses": [
+"That scintillates with brief flashes of light; sparkling.",
+"Brilliantly or impressively clever, exciting, amusing or witty."
+],
+"ety": "From scintillate + -ing.",
+"examples": [
+"On the scintillating water yellow and blue boats bobbed up and down.",
+"They sank me into the ocean / Wishing me to remain in the depths. / I became a deep sea diver / And came up covered with scintillating pearls.",
+"Her sketches and tales may be said to be cleverly written. They are lively, easy, conventional, scintillating with a species of sarcastic wit, which might be termed good were it in any respect original."
+],
+"p": "sin-tuh-LAY-ting"
+},
+{
+"w": "acequia",
+"pos": "noun",
+"senses": [
+"An irrigation ditch, chiefly with reference to Mexico or the southwestern US."
+],
+"ety": "From Spanish acequia, from Arabic الساقیة (“water conduit”), ultimately from Classical Arabic سَقَى (saqā, “to irrigate”). Doublet of sakia.",
+"examples": [
+"Las Vegas—“The Meadows” in Spanish—was a hodgepodge of adobe houses, set among rustling cornfields irrigated by a muddy acequia that seeped from the Gallinas River."
+],
+"p": "uh-SAY-keer"
+},
+{
+"w": "stocker",
+"pos": "noun",
+"senses": [
+"Livestock that is wintered and then sold in the spring; often contrasted with a feeder when the focus is on intended disposition.",
+"A racecar in certain classes of auto racing whose origins are nominally or notionally related to factory-stock autos, such as stock car racing or super-stock drag racing.",
+"One who crafts gun stocks.",
+"One who stocks shelves with inventory.",
+"One who supplies raw material to a machine."
+],
+"ety": "From stock + -er.",
+"examples": [
+"When sheep are shipped as stockers from the ranges, the numbers are such usually as to admit of grading the animals before they are shipped.",
+"The production of stockers and feeders should be confined to those parts of the country where the larger part of the land cannot be plowed profitably, and grass is the principal crop.",
+"All feeder calves wintered and sold in the spring are stockers, whether they go to grass or to the feedlot."
+],
+"p": "STAH-ker"
+},
+{
+"w": "habilitation",
+"pos": "noun",
+"senses": [
+"Equipment; qualification.",
+"An act of habilitating.",
+"An academic qualification, prerequiring a PhD, required in order to gain tenure as a professor in some European universities; a thesis or dissertation presented to achieve the qualification.",
+"The act of supplying money to work a mine."
+],
+"ety": "From Latin habilitatio, from Latin habilitāre.",
+"examples": [
+"For the things which we formerly have spoken of, are but habilitation arms: and what is habilitation without intention and act?",
+"In the period from 1803 to 1932 as a whole, professors of law were on average the youngest to complete their Habilitation (28.5 years), trailed by theologians (29.8 years) and natural scientists (29.8 years)."
+],
+"p": "huh-bil-ih-TAY-shun"
+},
+{
+"w": "toughen",
+"pos": "verb",
+"senses": [
+"To make tough.",
+"To become tough."
+],
+"ety": "From tough + -en.",
+"examples": [
+"The new training program is designed to toughen the athletes.",
+"A cold shower every morning will toughen your skin.",
+"Although the Office of Rail and Road (ORR) had toughened its stance on new third rail electrification, gaining approval for short sections of third rail to charge the batteries could be more straightforward."
+],
+"p": "TUF-un"
+},
+{
+"w": "courtier",
+"pos": "noun",
+"senses": [
+"A person in attendance at a royal court.",
+"A person who flatters in order to seek favour."
+],
+"ety": "From Middle English courteour, from Anglo-Norman corteour, Old French cortoiier, from cort (“court”). By surface analysis, court + -ier.",
+"examples": [
+"By the Lord, Horatio, this three years I have taken note of it, the age is grown so picked that the toe of the peasant comes so near the heel of the courtier he galls his kibe.",
+"The world’s richest person, not known for his humility, is still learning the cutthroat courtier politics of Donald Trump’s inner circle — and his ultimate influence remains an open question."
+],
+"p": "KOR-tee-er"
+},
+{
+"w": "hommage",
+"pos": "noun",
+"senses": [
+"A homage, especially something in an artwork which has been done in respectful imitation of another artist."
+],
+"ety": "From French hommage.",
+"examples": [
+"There's a clip from his Pickup on South Street in Scorsese's The King of Comedy, and extended hommages to other Fuller films in Godard's Breathless and Spielberg's Indiana Jones and the Temple of Doom.)",
+"It is certainly true that Pound wanted to pay hommage to Guido.",
+"The piece is like an hommage to Ives: atmospheric and thickly textured music with multiple elements happening at once."
+],
+"p": "oh-MAHZH"
+},
+{
+"w": "pancit",
+"pos": "noun",
+"senses": [
+"Filipino noodles"
+],
+"ety": "Borrowed from Philippine Spanish pancit, from Hokkien. See more info at Spanish pancit. Compare Tagalog pansit, Indonesian pangsit.",
+"examples": [
+"In the open market of competition, that diploma is no good. It cannot buy a cup of coffee or a bowl of pancit mami.",
+"Behind the U.P. infirmary was a little kiosko called Bobbie's, where we could sign for sandwiches, soft drinks, pancit mami, if we didn't have money."
+],
+"p": "PAN-sit"
+},
+{
+"w": "triangulation",
+"pos": "noun",
+"senses": [
+"A technique in which distances and directions are estimated from an accurately measured baseline and the principles of trigonometry; (countable) an instance of the use of this technique.",
+"The network of triangles so obtained, that are the basis of a chart or map.",
+"A delaying move in which the king moves in a triangular path to force the advance of a pawn.",
+"The practice of repositioning one's group or oneself on the political spectrum in an attempt to capture the centre.",
+"The use of three (or more) researchers to interview the same people or to evaluate the same evidence to reduce the impact of individual bias."
+],
+"ety": "From Medieval Latin triangulātiō (“triangulation”), from triangulō (“to triangulate”) + -tiō (noun-forming suffix). Triangulō is derived from triangulus (“triangular; triangle”), from trēs (“three”) + angulus (“angle; corner”). By surface analysis, triangulate + ion; cognate with French triangulation.",
+"examples": [
+"Triangulation was a presidential leadership strategy that presented the president as having borrowed elements of both the right and the left to develop some form of center policy amalgam."
+],
+"p": "try-angg-yoo-LAY-shun"
+},
+{
+"w": "verdure",
+"pos": "noun",
+"senses": [
+"The greenness of lush or growing vegetation (greenery); also: the vegetation itself.",
+"A condition of health and vigour."
+],
+"ety": "Inherited from Middle English verdure, from Middle French verdure, from Old French verdure, from Late Latin *viridūra, from viridis (“green”) + -ūra (abstract noun-forming suffix).",
+"examples": [
+"The five weeks which she had now passed in Kent had made a great difference in the country, and every day was adding to the verdure of the early trees.",
+"To her belonged Amber Spring, the water which gave verdure and beauty to the village and made living possible on that wild purple upland waste.",
+"Through the brazen hours that followed high noon, we crept onwards through a tunnel of glittering verdure."
+],
+"p": "VUR-jer"
+},
+{
+"w": "determinant",
+"pos": "noun",
+"senses": [
+"A determining factor; an element that determines the nature of something."
+],
+"ety": "Borrowed from French déterminant, equivalent to determine + -ant.",
+"examples": [
+"The field of the social determinants of health is perhaps the most complex and challenging of all.",
+"The aim of this book has been to assess the determinants of capital punishment without taking a stand for or against the death penalty."
+],
+"p": "dih-TUR-mih-nunt"
+},
+{
+"w": "impinge",
+"pos": "verb",
+"senses": [
+"To have an effect upon, especially a negative one."
+],
+"ety": "Borrowed from Latin impingō (“dash against, impinge”). Compare impact, derived from the perfect passive participle of impingō.",
+"examples": [
+"Nothing in the next-door world of Dachau impinged on the great winter cycle of Beethoven chamber music played in Munich.",
+"Scarcity impinges on your mind. People behave differently when they perceive a thing to be scarce."
+],
+"p": "im-PINJ"
+},
+{
+"w": "dunkel",
+"pos": "noun",
+"senses": [
+"A type of dark German lager, typically ranging in color from amber to dark reddish brown, and characterized by its smooth malty flavor."
+],
+"ety": "From German dunkel (“dark”).",
+"examples": [
+"I drank dunkel export beer in the Bier Halle where all the girls were called Therese;",
+"Recently, for instance, he brewed all dunkels for a period, only with different yeast strains.",
+"Bavarian dunkels are deep reddish-brown in colour."
+],
+"p": "DUNG-kul"
+},
+{
+"w": "verjuice",
+"pos": "noun",
+"senses": [
+"A very acidic juice made by pressing unripe grapes, crab-apples, or other sour fruit."
+],
+"ety": "From Middle English verjous, vergeous, from Old French vertjus, verjus (French verjus), from vert + jus. First attested in c. 1302.",
+"examples": [
+"Alfred pulled a face as of one that drinketh verjuice unawares; but let it pass: hypercriticism was not his cue just then.",
+"She looked sour as verjuice when my mother and Emily entered, and gave them to understand that ‘she wasn’t used to no strangers in her school, and didn’t want ’em.’"
+],
+"p": "VUR-joos"
+},
+{
+"w": "banate",
+"pos": "noun",
+"senses": [
+"Synonym of banat."
+],
+"ety": "From ban + -ate.",
+"examples": [
+"The establishment of the Kingdom of Yugoslavia in 1929, however, brought the redrawing of administrative regions into banates that purposely avoided all historical and ethnic lines."
+],
+"p": "BAH-nut"
+},
+{
+"w": "tintype",
+"pos": "noun",
+"senses": [
+"An early, remarkably durable form of photograph (technically a photographic negative), printed on a tin plate, then varnished."
+],
+"ety": "From tin + type.",
+"examples": [
+"She was so mad she wouldn't speak to me for quite a spell, but at last I coaxed her into going up to Miss Emmeline's room and fetching down a tintype of the missing Deacon man.",
+"They'll show you tintypes of the kids more often than not, hell, they love em chavalitos."
+],
+"p": "TIN-tipe"
+},
+{
+"w": "kouros",
+"pos": "noun",
+"senses": [
+"A sculpture of a naked youth in Ancient Greece, the male equivalent of a kore."
+],
+"ety": "From Ionic Ancient Greek κοῦρος (koûros), variant of Attic κόρος (kóros, “boy”).",
+"examples": [
+"A redstone kouros from Sounion, this strapping young Amsterdammer, translated into the slenderer grace of the modern graminivore.",
+"The smiling kouros is the first fully free-standing sculpture in art."
+],
+"p": "KOO-ros"
+},
+{
+"w": "coriander",
+"pos": "noun",
+"senses": [
+"The annual herb Coriandrum sativum, used in many cuisines.",
+"The dried fruits thereof, used as a spice."
+],
+"ety": "From Middle English coriandre, from Anglo-Norman coriandre, from Old French corïandre, from Latin coriandrum, from Ancient Greek κορίανδρον (koríandron), of uncertain origin. Doublet of cilantro. cognates, etc. Compare Ancient Greek κορίαννον (koríannon), κορίαμβλον (koríamblon), Mycenaean Greek 𐀒𐀪𐁀𐀅𐀙 (ko-ri-a2-da-na), 𐀒𐀪𐀊𐀅𐀙 (ko-ri-ja-da-na), 𐀒𐀪𐀊𐀈𐀜 (ko-ri-ja-do-no), 𐀒𐀪𐀍𐀅𐀙 (ko-ri-jo-da-na), Akkadian 𒌑𒄷𒌷𒌝 (^úḫurium) Aramaic כסברה (kusbara, “coriander”), Classical Syriac ܟܽܘܣܒܰܪܬܳܐ (kūsbartā, “coriander”) and Arabic كُزْبَرَة (kuzbara). Beekes supposes that cluster -dn- implies a Pre-Greek word, ",
+"examples": [
+"Tobacco and the plant valerian are also considered to be anaphrodisiac in their effects, diminishing sexual inclination. Also vinegar, dried coriander, potassium bromide, cocaine, vervain, acid drinks, lemonade."
+],
+"p": "KAW-ree-an-der"
+},
+{
+"w": "peahen",
+"pos": "noun",
+"senses": [
+"A female peafowl."
+],
+"ety": "From Middle English pehenne, equivalent to pea (“peafowl”) + hen. Compare Icelandic páhæna (“peahen”). See also peacock, peafowl, peachick, etc.",
+"examples": [
+"It shows the peahens that the peacock is strong."
+],
+"p": "PEE-hen"
+},
+{
+"w": "mountaineer",
+"pos": "noun",
+"senses": [
+"A person who climbs mountains for sport or pleasure."
+],
+"ety": "From mountain + -eer.",
+"examples": [
+"These green and sweetly smelling crops They led in waggons home; And they piled them here in mountain tops For mountaineers to roam."
+],
+"p": "mown-tin-EER"
+},
+{
+"w": "ophthalmic",
+"pos": "adjective",
+"senses": [
+"Visionary, looking to the future."
+],
+"ety": "Borrowed from Latin ophthalmicus, from Ancient Greek ὀφθᾰλμῐκός (ophthălmĭkós, “of or for the eyes”), from ὀφθᾰλμός (ophthălmós, “eye”) + -ῐκός (-ĭkós, “-ic”, adjectival suffix).",
+"examples": [
+"Yet I do not call to mind that I was ever in my earlier youth the subject of remark in our social family circle, but some large-handed person took some such ophthalmic steps to patronise me.",
+"To Dechen Wangmo, and all the fiercely dedicated ophthalmic staff of Bhutan, my gratitude for your hospitality and patience with a foreigner's curiosity about your customs."
+],
+"p": "ahf-THAL-mik"
+},
+{
+"w": "humanism",
+"pos": "noun",
+"senses": [
+"The study of the humanities or the liberal arts; literary (especially classical) scholarship.",
+"Specifically, a cultural and intellectual movement in 14th-16th century Europe characterised by attention to classical culture and a promotion of vernacular texts, notably during the Renaissance.",
+"An ethical system that centers on humans and their values, needs, interests, abilities, dignity and freedom; especially used for a secular one which rejects theistic religion and superstition.",
+"Humanitarianism."
+],
+"ety": "From human + -ism, borrowed from German Humanismus, coined by Friedrich Immanuel Niethammer in 1808.",
+"examples": [
+"There were good reasons for humanism and the Renaissance to take their origins from fourteenth-century Italy."
+],
+"p": "HYOO-muh-nih-zum"
+},
+{
+"w": "separative",
+"pos": "adjective",
+"senses": [
+"Serving to separate."
+],
+"ety": "Latin separativus.",
+"examples": [
+"Jews christianizing—Christians judaizing—puzzle me. I like fish or flesh. A moderate Jew is a more confounding piece of anomaly than a wet Quaker. The spirit of the synagogue is essentially separative."
+],
+"p": "SEP-uh-ruh-tiv"
+},
+{
+"w": "smurfy",
+"pos": "adjective",
+"senses": [
+"Short and blue.",
+"Unusually cheery, like the smurfs."
+],
+"ety": "From smurf + -y.",
+"examples": [
+"And so he opens the bottle and takes two out (little blue caplets—cute actually, plump, smurfy) and swallows them."
+],
+"p": "SMUR-fee"
+},
+{
+"w": "caustic",
+"pos": "adjective",
+"senses": [
+"Sharp, bitter, cutting, biting, and sarcastic in a scathing way."
+],
+"ety": "From the Latin causticus (“burning”), from Ancient Greek καυστικός (kaustikós, “burning”), from καυστός (kaustós, “burnt”) + -ικός (-ikós).",
+"examples": [
+"The bargain was not concluded as easily as might have been expected though, for Scadder was caustic and ill-humoured, and cast much unnecessary opposition in the way",
+"Madame Beck esteemed me learned and blue; Miss Fanshawe, caustic, ironic, and cynical",
+"The Secretary and the Assistant-Secretaries would say little caustic things about him to the senior clerks, and seemed somewhat to begrudge him his new honours."
+],
+"p": "KAW-stik"
+},
+{
+"w": "wildish",
+"pos": "adjective",
+"senses": [
+"Somewhat wild."
+],
+"ety": "From wild + -ish.",
+"examples": [
+"Bella Barnes was going to marry a surveyor, a wildish young fellow, but a good one to work as ever was."
+],
+"p": "WILE-dish"
+},
+{
+"w": "tinman",
+"pos": "noun",
+"senses": [
+"A maker of tinware; a tinsmith.",
+"A dealer in tinware."
+],
+"ety": "From tin + -man.",
+"examples": [
+"But if there are gipsies or tinmen about we shall have to keep our eyes open after anything they can lay their hands on."
+],
+"p": "TIN-man"
+},
+{
+"w": "shavasana",
+"pos": "noun",
+"senses": [
+"A resting pose in which one lies flat on one's back with the arms and legs slightly spread and eyes closed."
+],
+"ety": "From Modern Sanskrit शवासन (śavāsana), from शव (śava, “corpse”) + आसन (āsana, “asana”).",
+"examples": [
+"There was no way I was going to get sleep unless I did yoga-nidra or shavasan."
+],
+"p": "shuh-VAH-suh-nuh"
+},
+{
+"w": "specie",
+"pos": "noun",
+"senses": [
+"Type or kind, in various uses of the phrase in specie.",
+"Money in the form of coins made from precious metal that has an intrinsic value; coinage."
+],
+"ety": "Originally in the phrase in specie; from Latin speciē, ablative singular of species. Compare in kind.",
+"examples": [
+"I received one month's pay in specie while on the march to Virginia, in the year 1781, and except that, I never received any pay worth the name while I belonged to the army."
+],
+"p": "SPEE-shee"
+},
+{
+"w": "encysted",
+"pos": "adjective",
+"senses": [
+"Embedded, enclosed."
+],
+"ety": "From encyst + -ed.",
+"examples": [
+"This group included many who had been deeply encysted within the corporative fabric of the Bourbon polity – plus many for whom the chips did not fall well."
+],
+"p": "en-SIS-tid"
+},
+{
+"w": "lamber",
+"pos": "noun",
+"senses": [
+"A ewe that gives birth to a lamb.",
+"A farm worker who supervises the birth of lambs."
+],
+"ety": "From lamb + -er.",
+"examples": [
+"He'd gone out before dawn searching for a ewe, an early lamber that liked to hide out near the base of the Oldstone, where the rocks gave a bit of shelter.",
+"The ewes should now be moved as near home as convenience will permit, in order that they may be under the immediate observation of the lamber.",
+"The lambers sometimes brought their friends and acquaintances to see the view and relax in what must have seemed a bohemian atmosphere."
+],
+"p": "LAM-er"
+},
+{
+"w": "ganoid",
+"pos": "adjective",
+"senses": [
+"Having ganoid scales or plates, as a fish; specifically, of or pertaining to the Ganoidei."
+],
+"ety": "Ancient Greek γάνος (gános, “brightness, sheen”) + -oid",
+"examples": [
+"In a few minutes the huge beast had been cut up and slabs of him were hanging over a dozen camp fires, together with great scaly ganoid fish which had been speared in the lake."
+],
+"p": "GAN-oh-id"
+},
+{
+"w": "brookie",
+"pos": "noun",
+"senses": [
+"A brook trout."
+],
+"ety": "From brook + -ie (diminutive suffix).",
+"examples": [
+"The brookie Bill dismissed as “another small one” was 16 inches long, thick and weighed about two pounds."
+],
+"p": "BRUUK-ee"
+},
+{
+"w": "rejuvenate",
+"pos": "verb",
+"senses": [
+"To render young again.",
+"To give new energy or vigour to; to revitalise."
+],
+"ety": "From re- (“again”) + Latin iuvenis (“young”) + -ate (verb-forming suffix). Compare Old French rejuvener. Displaced native Middle English gingen, from Old English *ġinġan (literally “to make young”), equivalent to Old English ġeong + Old English -an.",
+"examples": [
+"The exercise involved in recrafting the past, past encounters and memories actually rejuvenates short-term and present memory — remarkably!"
+],
+"p": "rih-JOO-vuh-nayt"
+},
+{
+"w": "blinky",
+"pos": "adjective",
+"senses": [
+"Of eyes or people/animals: blinking repeatedly, prone to blink.",
+"flickery, prone to flicker or flash (of lights, shining objects)"
+],
+"ety": "From blink + -y.",
+"examples": [
+"She sat stuffed into a small chair and listened with an intense and very blinky sort of concentration.",
+"The door of the cabin creaked. Smith's blinky eye peeped out to see if he had dreamed us.",
+"She struck a match and relighted the candle and everyone looked at each other by its winky, blinky light."
+],
+"p": "BLING-kee"
+}
+]

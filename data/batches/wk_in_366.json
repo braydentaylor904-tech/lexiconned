@@ -1,0 +1,442 @@
+[
+{
+"w": "withy",
+"pos": "noun",
+"senses": [
+"An osier (Salix viminalis), a type of willow.",
+"A long flexible twig of the osier; a withe."
+],
+"ety": "Inherited from Old English wīþiġ.",
+"examples": [
+"In the midst of the meadow was a space marked out with withies sixty paces either way for the wrastling ground."
+],
+"p": null
+},
+{
+"w": "gurner",
+"pos": "noun",
+"senses": [
+"A person who performs at gurning"
+],
+"ety": "From gurn + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "doudou",
+"pos": "noun",
+"senses": [
+"Synonym of dudou."
+],
+"ety": "From the pinyin romanization of Mandarin 兜兜 (dōudōu, “diminutive form of dudou”).",
+"examples": [],
+"p": null
+},
+{
+"w": "machinima",
+"pos": "noun",
+"senses": [
+"The rendering of computer-generated imagery using low-end (real time) 3D engines such as those found in video games, as opposed to the high-end, complex 3D engines used by professionals.",
+"The genre of films created by such techniques."
+],
+"ety": "Blend of machine + cinema.",
+"examples": [],
+"p": "muh-SHIN-ih-muh"
+},
+{
+"w": "bundu",
+"pos": "noun",
+"senses": [
+"A wilderness region, away from cities."
+],
+"ety": "From Shona bundo (“grassland”).",
+"examples": [],
+"p": null
+},
+{
+"w": "pupfish",
+"pos": "noun",
+"senses": [
+"Any of a group of small killifish belonging to ten genera of the family Cyprinodontidae."
+],
+"ety": "From pup + fish, said to derive from the mating habits of the males, whose activities vaguely resemble puppies at play.",
+"examples": [],
+"p": null
+},
+{
+"w": "chylothorax",
+"pos": "noun",
+"senses": [
+"An accumulation of chyle in the pleural cavity."
+],
+"ety": "From chylo- + thorax.",
+"examples": [],
+"p": null
+},
+{
+"w": "reverbed",
+"pos": "adjective",
+"senses": [
+"Having had a reverb effect added."
+],
+"ety": "From reverb + -ed.",
+"examples": [],
+"p": null
+},
+{
+"w": "hanja",
+"pos": "noun",
+"senses": [
+"The Han character script used to write Korean, particularly in classical literature."
+],
+"ety": "Borrowed from Korean 한자(漢字) (hanja), from Middle Chinese 漢字 (MC xanH dziH, “Chinese character”, literally “Han Chinese + character”). Compare Cantonese 漢字 /汉字 (hon³ zi⁶), Japanese 漢字 (kanji), Mandarin 漢字 /汉字 (hànzì), Vietnamese Hán tự. Doublet of kanji and Hanzi.",
+"examples": [],
+"p": "HAHN-juh"
+},
+{
+"w": "utilitarianism",
+"pos": "noun",
+"senses": [
+"A system of ethics based on the premise that something's value may be measured by its usefulness.",
+"The theory that action should be directed toward achieving the \"greatest happiness for the greatest number of people\" (hedonistic universalism), or one of various related theories.",
+"Practicality, functionality, as opposed to e.g. aesthetics."
+],
+"ety": "From utilitarian + -ism.",
+"examples": [],
+"p": null
+},
+{
+"w": "mongo",
+"pos": "noun",
+"senses": [
+"A mung bean."
+],
+"ety": "Borrowed from Spanish mongo . Compare Tagalog munggo. Doublet of mung.",
+"examples": [],
+"p": "MOHNG-goh"
+},
+{
+"w": "shola",
+"pos": "noun",
+"senses": [
+"A wooded ravine; a thicket."
+],
+"ety": "From Tamil [Term?].",
+"examples": [
+"Here and there in the hollows were little jungles; sholas, as they are called."
+],
+"p": null
+},
+{
+"w": "ringbearer",
+"pos": "noun",
+"senses": [
+"A person who carries a ring, especially a wedding ring as part of a wedding ceremony."
+],
+"ety": "From ring + bearer.",
+"examples": [],
+"p": null
+},
+{
+"w": "leftish",
+"pos": "adjective",
+"senses": [
+"Leaning towards the political left."
+],
+"ety": "From left + -ish.",
+"examples": [],
+"p": "LEF-tish"
+},
+{
+"w": "transphobic",
+"pos": "adjective",
+"senses": [
+"Exhibiting transphobia."
+],
+"ety": "From trans- + -phobic.",
+"examples": [
+"And it too closely parallels transphobic attacks that charge: \"Once a man, always a man; once a woman, always a woman.\""
+],
+"p": null
+},
+{
+"w": "granulation",
+"pos": "noun",
+"senses": [
+"The formation of granules, or of cereal grains.",
+"The forming of metals into granules by pouring them through a sieve into water while hot.",
+"The attachment of granules of precious metal to underlying metal of jewellery."
+],
+"ety": "From Late Latin grānulum (“granule”) + -ation. Attested earlier than granule and granulate. By surface analysis, granulate + -ion.",
+"examples": [],
+"p": null
+},
+{
+"w": "omake",
+"pos": "noun",
+"senses": [
+"A special video feature that accompanies an anime, such as a collection of deleted scenes or outtakes.",
+"Additional material to the main series added to the tankobon edition of a manga."
+],
+"ety": "Borrowed from Japanese お負け (omake, “extra, bonus”).",
+"examples": [
+"In this omake, the characters are breaking the fourth wall to talk to the audience."
+],
+"p": null
+},
+{
+"w": "superlab",
+"pos": "noun",
+"senses": [
+"A professionally operated and equipped laboratory for the illegal production of drugs."
+],
+"ety": "From super- + lab.",
+"examples": [],
+"p": null
+},
+{
+"w": "cyberlaw",
+"pos": "noun",
+"senses": [
+"Law as it relates to the Internet and computing offences, covering such issues as intellectual property and the blurring of international boundaries."
+],
+"ety": "From cyber- + law.",
+"examples": [],
+"p": null
+},
+{
+"w": "signoff",
+"pos": "noun",
+"senses": [
+"The act or process of signing off (approving with a signature).",
+"The process of exiting a computer system; logoff.",
+"A bid indicating that one's partner should pass.",
+"A valediction, such as at the end of a letter or broadcast."
+],
+"ety": "Deverbal from sign off.",
+"examples": [
+"Jack North then tried for game with two no-trump before respecting his partner’s signoff in three diamonds.",
+"Just think of Walter Cronkite's famous signoff for the CBS Evening News—“And that's the way it is”—or the motto of the New York Times—“All the news that's fit to print.”"
+],
+"p": null
+},
+{
+"w": "medicalization",
+"pos": "noun",
+"senses": [
+"The act or process of medicalizing."
+],
+"ety": "From medical + -ization.",
+"examples": [],
+"p": null
+},
+{
+"w": "parataxis",
+"pos": "noun",
+"senses": [
+"The juxtaposition of two images or fragments, usually starkly dissimilar, without a clear connection.",
+"A coalition or \"partisan camp\" in the Ancient Greek political system."
+],
+"ety": "Learned borrowing from Ancient Greek παράταξις (parátaxis, “placement side by side”), from παρα- (para-) + τάξις (táxis, “arrangement”); equivalent to para- + taxis.",
+"examples": [],
+"p": "pair-uh-TAK-sis"
+},
+{
+"w": "mabinogi",
+"pos": "noun",
+"senses": [
+"A Welsh mythological tale; sometimes extended to include similar tales of medieval European traditions."
+],
+"ety": "Originally arising through erroneous interpretations of Middle Welsh terms; the scribal error mabynnogyon being construed as the plural for Welsh mabinogi, which is already plural. See citation 1887 below. More information at Mabinogion.",
+"examples": [
+"I recollect a Mabinogi, or mythological tale, respecting this piece of water, which runs thus: - In ancient times a door in a rock near tins lake was found open upon a certain day every year.",
+"Indeed at one time it may have been an independent mabinogi rather than part of a 'branch' of a mabinogi."
+],
+"p": null
+},
+{
+"w": "particularism",
+"pos": "noun",
+"senses": [
+"An exclusive focus on a particular area, group, sect, etc.",
+"The principle that individual states, races of a federation, etc., may act independently of a central authority."
+],
+"ety": "From particular + -ism, after French particularisme.",
+"examples": [
+"Despite the dominance of Castile and the stream of centralizing measures flowing from the new capital in Madrid, Aragonese particularism continued to make itself felt right up to the early eighteenth century."
+],
+"p": null
+},
+{
+"w": "minimalistic",
+"pos": "adjective",
+"senses": [
+"Exhibiting or relating to minimalism."
+],
+"ety": "From minimal + -istic.",
+"examples": [],
+"p": null
+},
+{
+"w": "oldish",
+"pos": "adjective",
+"senses": [
+"somewhat old"
+],
+"ety": "From old + -ish.",
+"examples": [],
+"p": "AWL-dish"
+},
+{
+"w": "alphorn",
+"pos": "noun",
+"senses": [
+"A long, curved, wooden horn used by mountain-dwelling herders in the Alps, originally to call cattle but now only as musical instrument in classical and folk tunes."
+],
+"ety": "From Alemannic German Alphorn, German Alphorn.",
+"examples": [],
+"p": "ALP-hawn"
+},
+{
+"w": "philter",
+"pos": "noun",
+"senses": [
+"A kind of potion, charm, or drug; especially a love potion intended to make the drinker fall in love with the giver."
+],
+"ety": "From Middle French philtre, from Ancient Greek φίλτρον (phíltron), from φιλέω (philéō, “to love”). Doublet of philtrum.",
+"examples": [],
+"p": "FIL-ter"
+},
+{
+"w": "tehsildar",
+"pos": "noun",
+"senses": [
+"An administrative officer in Pakistan and India who gathers taxes from a tehsil."
+],
+"ety": "From Urdu تحصیل دار (taḥṣīl dār), from Persian تحصیلدار, from Arabic تَحْصِيل (taḥṣīl), and Persian دار (dâr).",
+"examples": [
+"The next day Victor took an architect with him and got the tehsildar to join them."
+],
+"p": null
+},
+{
+"w": "confessionalism",
+"pos": "noun",
+"senses": [
+"A system of government that proportionally distributes political and institutional power among religious and ethnic communities.",
+"A style of American poetry that draws on the personal history of the poet."
+],
+"ety": "From confessional + -ism.",
+"examples": [
+"Her rendition of \"Dry Land\" from her first album, Back to the Night, was a poetic fusion of music and lyrics that achieved an intimate tone too often sacrificed to confessionalism by other singers."
+],
+"p": null
+},
+{
+"w": "fasciculus",
+"pos": "noun",
+"senses": [
+"One of the divisions of a book published in separate parts; a fascicle."
+],
+"ety": "Unadapted borrowing from Latin fasciculus. Doublet of fascicle.",
+"examples": [],
+"p": "fuh-SIK-yoo-lus"
+},
+{
+"w": "paster",
+"pos": "noun",
+"senses": [
+"One who, or that which, pastes.",
+"A slip of paper, usually bearing a name, intended to be pasted by the voter, as a substitute, over another name on a printed ballot."
+],
+"ety": "From paste + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "darkish",
+"pos": "adjective",
+"senses": [
+"Somewhat dark."
+],
+"ety": "From Middle English derkish, derkissh, derkyss; equivalent to dark + -ish.",
+"examples": [
+"We staid till, it being darkish, we saw the fire as only one entire arch of fire from this to the other side the bridge, and in a bow up the hill for an arch of above a mile long: it made me weep to see it.",
+"The village was darkish under the shade of broad leaves."
+],
+"p": null
+},
+{
+"w": "liquorice",
+"pos": "noun",
+"senses": [
+"UK, Ireland, India, and South Africa standard spelling of licorice."
+],
+"ety": "From licorice by association with liquor.",
+"examples": [],
+"p": "LIH-kuh-rish"
+},
+{
+"w": "haymarket",
+"pos": "noun",
+"senses": [
+"A market that sells hay as animal fodder."
+],
+"ety": "From hay + market.",
+"examples": [],
+"p": null
+},
+{
+"w": "okama",
+"pos": "noun",
+"senses": [
+"A gay man, in the context of Japanese culture, especially one who is effeminate or cross-dresses."
+],
+"ety": "Borrowed from Japanese オカマ (okama).",
+"examples": [],
+"p": null
+},
+{
+"w": "microbiota",
+"pos": "noun",
+"senses": [
+"The microbial community that inhabits a multi-cellular organism, whether the entire organism or a specific body surface."
+],
+"ety": "From micro- + biota.",
+"examples": [
+"Your body’s microbiome is all the genes your microbiota contains, however colloquially the two terms are often used interchangeably.",
+"Caesarean babies eventually acquire the same mix of microbes as those born vaginally — by a year, their microbiota are usually indistinguishable."
+],
+"p": null
+},
+{
+"w": "tzitzit",
+"pos": "noun",
+"senses": [
+"The knotted fringes of the tallit."
+],
+"ety": "Learned borrowing from Hebrew צִיצִית (tsitsít).",
+"examples": [],
+"p": null
+},
+{
+"w": "khatam",
+"pos": "noun",
+"senses": [
+"A Persian style of marquetry."
+],
+"ety": "Borrowed from Persian خاتم.",
+"examples": [],
+"p": null
+},
+{
+"w": "phytopathology",
+"pos": "noun",
+"senses": [
+"The study of plant diseases; plant pathology"
+],
+"ety": "From phyto- + pathology.",
+"examples": [],
+"p": null
+}
+]

@@ -1,0 +1,538 @@
+[
+{
+"w": "habanero",
+"pos": "noun",
+"senses": [
+"An intensely spicy chili pepper, Capsicum chinense."
+],
+"ety": "Borrowed from Spanish habanero.",
+"examples": [
+"For example, salsa and pico de gallo from Mexican cuisine sometimes include fruits like peach, mango or pineapple, balancing hot peppers like habanero or jalapeño with their sweetness."
+],
+"p": "hah-buh-NAIR-oh"
+},
+{
+"w": "bruschetta",
+"pos": "noun",
+"senses": [
+"A light Italian dish of toasted bread with a topping of olive oil, garlic and chopped tomatoes."
+],
+"ety": "From Italian bruschetta, from bruscare (“to toast”).",
+"examples": [
+"She fished a napkin out of the basket and put the slice of bruschetta on it."
+],
+"p": "broo-SKET-uh"
+},
+{
+"w": "upskirt",
+"pos": "adjective",
+"senses": [
+"Designating a voyeuristic image of the view up a woman's skirt."
+],
+"ety": "From up + skirt. First attested in 1997. As a verb, in 2008.",
+"examples": [
+"Under this general principle, victims of upskirt voyeurism that takes place in a public location such as a park or shopping mall would be left remediless under the privacy theory called intrusion into seclusion.",
+"Yet while orthodox voyeurism exists online, most commercial ‘upskirt’ cam sites primarily draw on footage from paid sex workers."
+],
+"p": "UP-skut"
+},
+{
+"w": "dendritic",
+"pos": "adjective",
+"senses": [
+"Having a branching structure similar to a tree."
+],
+"ety": "From dendrite + -ic, from Ancient Greek δενδρίτης (dendrítēs, “of or pertaining to a tree”).",
+"examples": [
+"The system of rivers in a drainage basin has a dendritic configuration."
+],
+"p": "dend-RIT-ik"
+},
+{
+"w": "macchiato",
+"pos": "noun",
+"senses": [
+"Espresso topped with steamed milk."
+],
+"ety": "From Italian caffè macchiato (“stained coffee”), from macchiato (“stained, marked”), as the coffee is “marked” with a spot of milk. From Latin maculātus (“stained”), form of macula (“stain”). Cognate to English macula (“[dark] spot”), French maculé.",
+"examples": [
+"Formerly used only in Italy and Seattle, it includes such tongue activators as latte, lungo, cappuccino, ristretto, macchiato, mochaccino and Americano.",
+"Kadar Al-Jahani glanced around at the rich Romans and the American tourists sipping their macchiati and cappuccini, and smiled.",
+"This is a city obsessed by coffee. Sydneysiders can tell their arabica from their robusta, their macchiati from their ristretti, and have been known to follow their favourite barista from café to café."
+],
+"p": "mah-kee-AH-toh"
+},
+{
+"w": "authoritarianism",
+"pos": "noun",
+"senses": [
+"A form of government in which the governing body has absolute, or almost absolute, control. Typically this control is maintained by force, and little heed is paid to public opinion or the judicial system."
+],
+"ety": "From authoritarian + -ism.",
+"examples": [
+"This is the struggle of our time. The forces of freedom, openness and global community against the forces of authoritarianism, isolationism and nationalism.",
+"Working from a psycho-dynamic perspective, Fromm explained authoritarianism as a response to the breakdown of traditional social structures brought about by industrialization and modernization.",
+"If Trump defies the Court here, then America will have taken an important step toward authoritarianism and anti-constitutional government."
+],
+"p": "aw-thaw-rih-TAIR-ee-un-ih-zum"
+},
+{
+"w": "skite",
+"pos": "noun",
+"senses": [
+"A contemptible person."
+],
+"ety": "From Middle English skit, from Old Norse *skitr, older form of skítr (“dung, faeces”), from Proto-Germanic *skitiz. Cognate with Old English sċite (“dung”). Doublet of shit and shite.",
+"examples": [
+"When Carey told on Skin-the-Goat / O'Donnell caught him on the boat / He wished he'd never been afloat / The dirty skite."
+],
+"p": "skite"
+},
+{
+"w": "wahine",
+"pos": "noun",
+"senses": [
+"A Polynesian or Maori woman."
+],
+"ety": "Borrowed from Māori wahine (“woman”), from Proto-Polynesian *fafine.",
+"examples": [
+"I wanna be with all the kanes and wahines that I knew long ago",
+"The photographs showed a very plain-looking, very young wahine.",
+"Cowboy applauded his pupils and turned to the audience. “Give these two wahines a round, folks. They've been good sports.”"
+],
+"p": "wah-HEE-nay"
+},
+{
+"w": "mirza",
+"pos": "noun",
+"senses": [
+"An educated man in India or Iran (Persia); an official, a clerk."
+],
+"ety": "From Persian میرزا (mirzâ).",
+"examples": [
+"The same success attended the other mirzas and emirs in their excursions.",
+"This he presented to the Khan of Puhra, who called upon his mirza, or clerk, to read it aloud."
+],
+"p": "MEER-zuh"
+},
+{
+"w": "okrug",
+"pos": "noun",
+"senses": [
+"An administrative division of some Slavic states."
+],
+"ety": "From a Slavic language; compare Russian о́круг (ókrug) or Serbo-Croatian округ/okrug.",
+"examples": [
+"Eighteen additional nationalities had territorial enclaves (autonomous oblasts and okruga) but possessed very little power of self-government.",
+"In 1929 the eight uezdy were replaced by five okruga."
+],
+"p": "AH-krug"
+},
+{
+"w": "spaetzle",
+"pos": "noun",
+"senses": [
+"A heavy egg noodle or dumpling used in the cuisine of southern Germany and Austria"
+],
+"ety": "From German Spätzle, from Swabian Spätzle (compare Alemannic German Spätzli).",
+"examples": [
+"The results resemble spaetzle with a lovely nutty flavor."
+],
+"p": "SHPET-sul"
+},
+{
+"w": "clayey",
+"pos": "adjective",
+"senses": [
+"Composed of clay or containing (much) clay; clayish.",
+"Covered or dirtied with clay.",
+"Resembling clay; claylike, clayish.",
+"Of the human body, as contrasted with the soul; bodily, human, mortal."
+],
+"ety": "From Middle English cleyy, cleyye (“clayish; messy; unclean”) [and other forms], either: * from Middle English clei, cley (“clay; clayey soil; clay-containing material used as mortar or plaster”) [and other forms] + -i (suffix forming adjectives); clei, cley is derived from Old English clǣġ (“clay”), ultimately from Proto-Indo-European *gleh₁y-, *gley- (“to smear; to stick; glue; putty”); or * from Old English clǣig (“clayey”), from clǣġ (“clay”) (see above) + -iġ (suffix forming adjectives). The English word is equivalent to clay + -ey (suffix forming adjectives with the sense ‘having the qua",
+"examples": [
+"Limestone, of course, is calcium carbonate, and thus chemically utterly different in composition from the clayey rocks below and the hard, pebbly ones above.",
+"Wheat-fields, one would think, cannot come to grow untilled; no man made clayey, or made weary thereby;—unless machinery will do it?",
+"To low estate of clayey creature, / See, I bring the beggar's meed, / Nutriment beyond the need!"
+],
+"p": "KLAY-ee"
+},
+{
+"w": "bottler",
+"pos": "noun",
+"senses": [
+"A person, company, or thing who bottles, especially in bulk.",
+"A truck used for transporting bottled goods in crates.",
+"A Punchman's assistant who collects money (\"bottle\") from the audience."
+],
+"ety": "From Middle English boteller, botullere, equivalent to bottle + -er. Piecewise doublet of butler.",
+"examples": [
+"Note 8, “Noncontrolled Bottling Affiliates” (Appendix A), indicates that PepsiCo owns approximately 40 percent of the common stock of some of its bottlers."
+],
+"p": "BAH-tuh-ler"
+},
+{
+"w": "flitch",
+"pos": "noun",
+"senses": [
+"The flank or side of an animal, now almost exclusively a pig when cured and salted; a side of bacon.",
+"A piece or strip cut off of something else, generally a piece of wood (timber)."
+],
+"ety": "From Middle English flicche, from Old English fliċċe (“side of an animal, flitch”), from Proto-Germanic *flikkiją (“side, flitch”), from Proto-Indo-European *pleh₁ḱ- (“to tear, peel off”). Cognate with Low German flikke, French flèche, Icelandic flikki (“flitch”), Middle Low German vlicke.",
+"examples": [
+"The following morning before Nicholas awoke, Mulvey walked all the way to the village of Letterfrack, returning with a basket of cabbages and a flitch of bacon, two loaves of fresh bread and a plump broiling chicken.",
+"The programme was loosely derived from a folk tradition, the Great Dunmow Flitch, in which the most happily married couple in the village were rewarded with a gift of a flitch of beef.",
+"The Measure of a shell or Flitch of Timber. If a piece be taken out of the middle of a round piece of Timber from end to end; there will be left two pieces, which they call Shells or Flitches."
+],
+"p": "flich"
+},
+{
+"w": "distro",
+"pos": "noun",
+"senses": [
+"The propagation of warez by distributing it to various sites.",
+"The act of distributing printed material such as magazines or newspapers."
+],
+"ety": "Shortened form of distribution, + -o.",
+"examples": [
+"I started writing my own zine, Thought Bombs, and organized a distro of other good, anarchist, anti-racist/abolitionist and feminist zines."
+],
+"p": "DIS-troh"
+},
+{
+"w": "delineate",
+"pos": "verb",
+"senses": [
+"To sketch out, draw or trace an outline.",
+"To depict, represent with pictures.",
+"To describe or depict with words or gestures.",
+"To outline or mark out."
+],
+"ety": "First attested in 1559; borrowed from Latin dēlīneātus, perfect passive participle of dēlīneo (“to sketch out, to delineate”) (see -ate (verb-forming suffix) and -ate (adjective-forming suffix)), from dē- + līnea (“line”) + -ō (verb-forming suffix). Regular participial usage of the adjective up until Early Modern English.",
+"examples": [
+"Bellmark delineated the space and began to dig. After clearing to about a foot deep he paused."
+],
+"p": "dih-LIN-ee-ayt"
+},
+{
+"w": "bayfront",
+"pos": "adjective",
+"senses": [
+"Adjoining or fronting on a bay."
+],
+"ety": "From bay + front.",
+"examples": [
+"She ushered us into her spacious bayfront office."
+],
+"p": "BAY-frunt"
+},
+{
+"w": "yabby",
+"pos": "verb",
+"senses": [
+"To search, forage, or fish for yabbies."
+],
+"ety": "Borrowed from Wemba-Wemba yabij.",
+"examples": [
+"He would have known the Merri well, given the affinity between boys and creeks, and he probably fished and yabbied there.",
+"The kids in town now that have the most fun are the so-called 'feral kids'. They spend the whole days doing what we used to do, yabbying and on the river."
+],
+"p": "YAB-ee"
+},
+{
+"w": "ditty",
+"pos": "noun",
+"senses": [
+"A short, simple verse or song.",
+"A saying or utterance, especially one that is short and frequently repeated."
+],
+"ety": "From Middle English dite, ditee, from Old French ditie or dité, from ditier, from Latin dictāre (participle dictatus).",
+"examples": [
+"And to the warbling lute soft ditties sing.",
+"O, too high ditty for my simple rime."
+],
+"p": "DIT-ee"
+},
+{
+"w": "carronade",
+"pos": "noun",
+"senses": [
+"An exchange of artillery fire; a cannonade; a fusillade."
+],
+"ety": "First made at Carron in Scotland.",
+"examples": [
+"The fight is not all one-sided. Lion is taking a savage beating as the two flagships trade body blows almost independent of the furious carronade going on behind them."
+],
+"p": "KAIR-un-ayd"
+},
+{
+"w": "bemoan",
+"pos": "verb",
+"senses": [
+"To moan or complain about (something).",
+"To be dismayed or worried about (someone), particularly because of their situation or what has happened to them."
+],
+"ety": "From Middle English bemenen, bimenen, from Old English bemǣnan (“to bemoan, bewail, lament”); equivalent to be- (“about, concerning”) + moan. Alteration of vowel from Middle to Modern English due to analogy with moan.",
+"examples": [
+"He bemoaned the drought but went on watering his lawn.",
+"Son. Was ever son so rued a father’s death? Father. Was ever father so bemoan’d his son?",
+"Sure you take mee not to be made of flesh, or if so, yet not to be sensible that thinke me able to beare these burthens without bemoning my selfe."
+],
+"p": "bih-MOHN"
+},
+{
+"w": "belch",
+"pos": "verb",
+"senses": [
+"To eject or emit (something) with spasmodic force or noise."
+],
+"ety": "From Middle English belchen, from Old English bielċan, from Proto-Germanic *balkijaną, *belkaną, probably ultimately of imitative origin. Related to Dutch balken (“to bray”), Middle Low German belken (“to shout”), Low German bölken (“to shout, bark”), Old English bealċettan (“to utter, send forth”). See also English bolk, boak.",
+"examples": [
+"Thick smoke belched through the funnels of the steamship.",
+"Vulcan this plague begot; and, like his sire, Black clouds he belch'd, and flakes of livid fire.",
+"I sing the song of the great clean guns that belch forth death at will. Ah, but the wailing mothers, the lifeless forms and still!"
+],
+"p": "BELCH"
+},
+{
+"w": "clowder",
+"pos": "noun",
+"senses": [
+"A group of cats or other small felines."
+],
+"ety": "A variation, recorded since 1801, of clutter, itself from clot, from Old English clott (“round mass, lump”), from Proto-Germanic *klūtaz (hence cognate with Dutch kloot (“ball, testicle”), Danish klods (“a block, lump”) and German Klotz (“lump, block”)).",
+"examples": [
+"Real cat fights are rare in established clowders. So instead of risking serious injury, cats resort to menace and threats."
+],
+"p": "KLOW-der"
+},
+{
+"w": "loiter",
+"pos": "verb",
+"senses": [
+"To stand about without any aim or purpose; to stand about idly.",
+"To remain at a certain place instead of moving on."
+],
+"ety": "From Middle English loitren, from Middle Dutch loteren (\"to shake, wag, wobble\"; > modern Dutch leuteren (“to dawdle, ramble”)), ultimately connected with a frequentative form of Proto-Germanic *lūtaną (“to bend, stoop, cower, shrink from, decline”), see lout. Cognate with Dutch leuteren (“to dawdle”), Alemannic German lottern (“to wobble”), German lottern (“live a slovenly life”). More at lout, little.",
+"examples": [
+"For some reason, they discourage loitering outside the store, but encourage it inside.",
+"The dancing, which had been suspended, now recommenced with additional animation, and De Candale claimed Francesca's hand; but the rooms were crowded, and they stood for some time loitering on one of the terraces.",
+"Using the transect method, the counter had to maintain a general progress along the transect and was not able to loiter at one spot for too long."
+],
+"p": "LOY-ter"
+},
+{
+"w": "halma",
+"pos": "noun",
+"senses": [
+"A board game invented by George Howard Monks in which the players' men jump over those in adjacent squares.",
+"In the Greek pentathlon, the long jump with weights in the hands."
+],
+"ety": "From Ancient Greek ἅλμα (hálma, “leap”).",
+"examples": [
+"As a crowning dissipation, they all sat down to play progressive halma, with milk chocolate for prizes."
+],
+"p": "HAL-muh"
+},
+{
+"w": "encyclopedist",
+"pos": "noun",
+"senses": [
+"A member of a group of French authors who collaborated in the 18th century in the production of the Encyclopédie, under the direction of Denis Diderot.",
+"An author of, or contributor to, an encyclopedia."
+],
+"ety": "From encyclopedia + -ist.",
+"examples": [
+"The root of the mallow in goat's milk excites the sexual urge, according to Pliny the Elder, the Roman encyclopedist of the first century A.D."
+],
+"p": "in-sy-kluh-PEE-dist"
+},
+{
+"w": "yakitori",
+"pos": "noun",
+"senses": [
+"A Japanese shish kebab-type dish made with small pieces of chicken or other ingredients cooked on skewers, often marinated in soy sauce or seasoned with salt."
+],
+"ety": "Borrowed from Japanese 焼(や)き鳥(とり) (yakitori), from 焼(や)き (yaki, “grilled, toasted”) + 鳥(とり) (tori, “bird”).",
+"examples": [
+"Friday night on Ninsei. He passed yakitori stands and massage parlors, a franchised coffee shop called Beautiful Girl, the electronic thunder of an arcade.",
+"We should have the bazaars full of yakitori pitches and geishas in bamboo cages."
+],
+"p": "yak-ih-TAW-uh-ree"
+},
+{
+"w": "polemicist",
+"pos": "noun",
+"senses": [
+"A person who writes polemics.",
+"A person who puts forward controversial views."
+],
+"ety": "From polemic + -ist. By surface analysis, polem- + -ic + -ist.",
+"examples": [
+"You know Ann describes herself as a polemicist...",
+"A similar impulse sometimes accompanies my reading of the work of Christopher F. Rufo, a fellow at the Manhattan Institute and one of the most gifted conservative polemicists of his generation."
+],
+"p": "puh-LEM-ih-sist"
+},
+{
+"w": "remonstrance",
+"pos": "noun",
+"senses": [
+"A remonstration; disapproval; a formal, usually written, objection or protest."
+],
+"ety": "From Middle French remonstrance (French remontrance).",
+"examples": [
+"Moreover, you must remember, even as children, Marie was ever more resolute than myself; and now, how little would she heed remonstrance of mine!",
+"But Sophia's mother was not the woman to brook defiance. After a few moments' vain remonstrance her husband complied. His manner and appearance were suggestive of a satiated sea-lion.",
+"In the past, emperors based their right to rule mostly on heredity and so could listen to remonstrance from below without necessarily feeling that legitimacy was at stake."
+],
+"p": "rih-MON-struns"
+},
+{
+"w": "sexualize",
+"pos": "verb",
+"senses": [
+"To render sexual, or apply sex appeal to (a person, thing, or concept)."
+],
+"ety": "From sexual + -ize.",
+"examples": [
+"Children’s beauty pageants sexualize childhood.",
+"Your advertising doesn't need to sexualize goods and services to sell them to me, and in fact I might make a point of not buying your product if you pester me with sexualization.",
+"I have charted a change from a Victorian culture that spiritualized love to modern efforts to sexualize love. The latter contributed, more-over, to the development of a culture of eroticism."
+],
+"p": "SEK-shoo-ul-ize"
+},
+{
+"w": "gilden",
+"pos": "verb",
+"senses": [
+"To make or become golden or gilded"
+],
+"ety": "From gild + -en.",
+"examples": [
+"Cover of Gospel book with relic of Holy Cross made of Silver, gildened with enamel rosettas.",
+"You were mine: In your early morning's gildening ray I first became aware of bliss and pain, - Pure like a pearl."
+],
+"p": "GIL-dun"
+},
+{
+"w": "chirrup",
+"pos": "verb",
+"senses": [
+"To make a series of chirps, clicks, or clucks.",
+"To express by chirping.",
+"To quicken or animate by chirping."
+],
+"ety": "Variant of chirp.",
+"examples": [
+"When other folks' squirrels are at home and asleep, yourn keep in motion among the trees and chirrup and sing, in a way that even a Delaware gal can understand their music!",
+"Face Eater Cat is a very happy, healthy animal who's found her forever home, and she chirrups along when serenaded with eighties hits. It's a match made in heaven.",
+"The crickets chirruped their song."
+],
+"p": "CHEER-up"
+},
+{
+"w": "shuffler",
+"pos": "noun",
+"senses": [
+"A person who shuffles.",
+"A machine or algorithm that shuffles.",
+"A trickster."
+],
+"ety": "From shuffle + -er.",
+"examples": [
+"He was abject and a shuffler in the very height of his prosperity."
+],
+"p": "SHUF-ler"
+},
+{
+"w": "fellate",
+"pos": "verb",
+"senses": [
+"To stimulate the penis or scrotum using the mouth.",
+"To suck in a manner suggestive of fellatio.",
+"To suck up to, to flatter or be shamefully subservient to."
+],
+"ety": "Back-formation from fellatio on the basis of -ate (verb-forming suffix), from Latin fellō (“suck”), from Proto-Indo-European *dʰeh₁(y)- (“to suck, to suckle”).",
+"examples": [
+"Leina went on fellating her finger, making faces of exquisite ecstasy.",
+"If you thought the German government was going to be a lapdog for Sarcozy, or worse, was going to fellate Brussels and the ECB, you got a rude shock today."
+],
+"p": "fuh-LAYT"
+},
+{
+"w": "merveilleux",
+"pos": "noun",
+"senses": [
+"Contemporary names for an extravagantly dressed French fop or ‘fine lady’ of the period of the Directory (1795–1799), who affected a revival of the classical costume of Ancient Greece."
+],
+"ety": "From the French merveilleux. Doublet of marvellous.",
+"examples": [
+"The Ecrouelleux, the Inconcevables, the Merveilleux, with their chins sunk in their huge cravats."
+],
+"p": "mair-vay-YUH"
+},
+{
+"w": "slaten",
+"pos": "adjective",
+"senses": [
+"Made of slate."
+],
+"ety": "From slate + -en (“made of”).",
+"examples": [
+"Then she floated away and left me lying on the slaten rock."
+],
+"p": "SLAY-tun"
+},
+{
+"w": "theorbo",
+"pos": "noun",
+"senses": [
+"A baroque, double-necked lute having an extra set of open bass strings."
+],
+"ety": "From Italian tiorba, from Ottoman Turkish طوربه (torba).",
+"examples": [
+"So when they said yea to this, he called to him his player on the theorbo and his player on the hautboy, and commanded them saying, “Play me a solemn music.”"
+],
+"p": "thee-OR-boh"
+},
+{
+"w": "graptolite",
+"pos": "noun",
+"senses": [
+"Any of a group of extinct aquatic colonial invertebrates, of the class Graptolithina, from the Cambrian and Carboniferous periods."
+],
+"ety": "From Ancient Greek γραπτός (graptós, “painted, marked with letters”) + English -lite.",
+"examples": [
+"The samples were black shale, and on the shales were some ancient fossils called graptolites."
+],
+"p": "GRAP-tuh-luh-it"
+},
+{
+"w": "signalman",
+"pos": "noun",
+"senses": [
+"Somebody employed to operate the signals and points of a railway.",
+"A member of the armed forces responsible for signalling.",
+"Somebody employed to direct rigging or crane operations by providing a different point of view."
+],
+"ety": "From signal + -man.",
+"examples": [
+"With extra traffic, numerous boat trains to and from Southampton Docks, and working of empty stock, his job, like that of most signalmen, is no sinecure.",
+"The length ganger saw the train passing with the van derailed and promptly telephoned the Sandbach signalman, who restored his signals to danger, but not in time to stop the train before the final derailment occurred."
+],
+"p": "SIG-nul-mun"
+},
+{
+"w": "topos",
+"pos": "noun",
+"senses": [
+"A literary theme or motif; a rhetorical convention or formula."
+],
+"ety": "From Ancient Greek τόπος (tópos, “place”). Compare topic.",
+"examples": [
+"The ritual of weighing the soul was an iconographic topos familiar to Christianity from the ceremony of the weighing of sins at the Last Judgement."
+],
+"p": "TOH-pos"
+}
+]

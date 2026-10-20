@@ -1,0 +1,544 @@
+[
+{
+"w": "tillage",
+"pos": "noun",
+"senses": [
+"The cultivation of arable land by plowing, sowing and raising crops.",
+"Land cultivated in this way.",
+"The act or process of soil disturbance as a part of farming; especially, types of disturbance requiring draft animals or machinery for power."
+],
+"ety": "From Middle English tillage; by surface analysis, till + -age.",
+"examples": [
+"Much food is in the tillage of the poor: but there is that is destroyed for want of judgment."
+],
+"p": "TIL-ij"
+},
+{
+"w": "lorelei",
+"pos": "noun",
+"senses": [
+"A siren; a temptress."
+],
+"ety": "From the Lorelei rock on the Rhine, which was haunted by one of these creatures according to German legend.",
+"examples": [
+"We grew silly, tongue-tied, said foolish things we did not mean to say, shoved one another about in the boat, and finally overturned it. The loreleis laughed musical little laughs."
+],
+"p": "LAW-ruh-ly"
+},
+{
+"w": "curative",
+"pos": "adjective",
+"senses": [
+"Possessing the ability to cure, to heal or treat illness.",
+"Remediative."
+],
+"ety": "Borrowed from Middle French curatif.",
+"examples": [
+"The curative power of the antibiotics introduced in the 1950s was amazing at the time.",
+"He was just as interested in preventive care as he was in curative measures."
+],
+"p": "KYOOR-uh-tiv"
+},
+{
+"w": "warez",
+"pos": "noun",
+"senses": [
+"Software that is illegally obtained or distributed."
+],
+"ety": "The leetspeak form of wares, as a contraction of software.",
+"examples": [
+"By the end of the day Mad Hatter, a ringleader of the software piracy group called the Inner Circle, will have poured 300 Mbytes of illegal “warez” onto the Internet.",
+"Too many gamers see nothing wrong with downloading “warez” (usually pronounced “wares,” but also “wah-rez”), retail software products that have been “ripped” to make them smaller and remove copy protection.",
+"Warez appeared in the 1980s with the advent of Bulletin Board Systems."
+],
+"p": "wairz"
+},
+{
+"w": "lentil",
+"pos": "noun",
+"senses": [
+"The seed of these plants, used as food.",
+"A small chocolate candy in an edible shell."
+],
+"ety": "From Middle English lentile, from Old French lentille from Latin lenticula, diminutive of lēns, from a pre-Indo-European substrate source shared by German Linse, Ancient Greek λάθυρος (láthuros) and Lithuanian lęšis. Doublet of lenticula.",
+"examples": [
+"In ancient Greece, lentils were believed to stimulate desire.",
+"An enhanced focus on the brand's iconic color palette and the use of different shapes and sizes of M&M'S lentils across all touchpoints to prove that all together, we're more fun"
+],
+"p": "LEN-tul"
+},
+{
+"w": "triennial",
+"pos": "adjective",
+"senses": [
+"Happening every three years.",
+"Lasting for three years."
+],
+"ety": "From Latin triennium (“three-year period”), from tres (“three”) + annus (“year”). By surface analysis, tri- + -ennial.",
+"examples": [
+"They were constantly summoned to a triennial festival : and the most approved songs delivered at this assembly were ordered to be preserved in the custody of the king's historian or antiquary",
+"September 13 1621, James Howell. letter to Sir William Saint John Triennial Subsidies"
+],
+"p": "try-EN-ee-ul"
+},
+{
+"w": "chubster",
+"pos": "noun",
+"senses": [
+"An overweight person.",
+"A person with chubby cheeks."
+],
+"ety": "From chub + -ster.",
+"examples": [
+"Played by TV sitcom stalwart Kevin James (The King of Queens), the title character is an over-officious, under-achieving chubster."
+],
+"p": "CHUB-ster"
+},
+{
+"w": "palazzo",
+"pos": "noun",
+"senses": [
+"A large, palatial urban building in Italy."
+],
+"ety": "Borrowed from Italian palazzo, from Latin palātium (“palace, large residence”), from Palātium (“Palatine”), one of the seven hills of Rome, where aristocrats built large homes. Doublet of palace and Pfalz.",
+"examples": [
+"Cecil Spenser's society—who soon shewed he could understand and enter into his views—became a source of great gratification, and his young countryman was almost domesticated at the palazzo.",
+"At the piazzas, Romans are usually surrounded by tourists attracted by the classical palazzos, churches, monuments and fountains."
+],
+"p": "puh-LAHT-soh"
+},
+{
+"w": "mushy",
+"pos": "adjective",
+"senses": [
+"Resembling or having the consistency of mush; semiliquid, pasty, or granular.",
+"Soft; squishy.",
+"Overly sappy, corny, or cheesy; sentimental, especially in a romantic way; maudlin."
+],
+"ety": "From mush + -y.",
+"examples": [
+"I don't especially like mushy oatmeal.",
+"Today, some seafood experts say, the cheaper (though mushier) roe feeds 60 percent of the market.",
+"The brake pedal is mushy sometimes when I step on it."
+],
+"p": "MUH-shee"
+},
+{
+"w": "attar",
+"pos": "noun",
+"senses": [
+"An essential oil extracted from flowers.",
+"A perfume made from this oil."
+],
+"ety": "Borrowed from Persian عطر (atr, “scent”), from Arabic عِطْر (ʕiṭr, “perfume”).",
+"examples": [
+"I bequeath to you my literary work. Useless though these might be commercially, they are the attar-drops distilled from the long and futile ebullience of my life."
+],
+"p": "AT-er"
+},
+{
+"w": "wordy",
+"pos": "adjective",
+"senses": [
+"Using an excessive number of words."
+],
+"ety": "From Middle English wordy, woordi, from Old English wordiġ (“wordy, verbose”), equivalent to word + -y. Cognate with Icelandic orðigur (“wordy”).",
+"examples": [
+"The story was long and very wordy."
+],
+"p": "WUR-dee"
+},
+{
+"w": "printout",
+"pos": "noun",
+"senses": [
+"Something printed on paper, usually a copy generated by a printer (machine)."
+],
+"ety": "Deverbal from print out.",
+"examples": [
+"During the meeting, Trump brandished printouts of what he said were reports about White South Africans being killed."
+],
+"p": "PRINT-owt"
+},
+{
+"w": "tress",
+"pos": "noun",
+"senses": [
+"A braid, knot, or curl, of hair; a ringlet.",
+"A long lock of hair.",
+"A knot or festoon, as of flowers."
+],
+"ety": "From Middle English tresse, from Old French tresce, of uncertain origin; possibly from Vulgar Latin *trichia, from Ancient Greek τριχία (trikhía, “rope”), from θρίξ (thríx, “hair”). Compare French tresse, Italian treccia.",
+"examples": [
+"Even without theatrical shoes on, Erlys was taller than Luca Zombini, and kept her fair hair in a Psyche knot, out of which the less governable tresses continued, with the day, to escape."
+],
+"p": "tres"
+},
+{
+"w": "permafrost",
+"pos": "noun",
+"senses": [
+"Permanently frozen ground, or a specific layer thereof."
+],
+"ety": "From perma- + frost.",
+"examples": [
+"Nevertheless, the water molecule is present, as ice, in a solid form in frozen soils or permafrosts, which cover large regions characterised by a polar climate.",
+"In agreement with our overall trends within the permafrost samples, lower nirK and nirS and higher nosZ diversity have been identified in cryoturbated peat vs. unturbated peat soils (Palmer and Horn, 2012)."
+],
+"p": "PUR-muh-frawst"
+},
+{
+"w": "necktie",
+"pos": "noun",
+"senses": [
+"A strip of cloth worn around the neck and tied in the front."
+],
+"ety": "From neck + tie.",
+"examples": [
+"Oh I have been to Ludlow fair / And left my necktie God knows where / And carried half way home, or near, / Pints and quarts of Ludlow beer."
+],
+"p": "NEK-ty"
+},
+{
+"w": "exiguous",
+"pos": "adjective",
+"senses": [
+"Scanty; meager."
+],
+"ety": "From Latin exiguus (“strict, exact”), from exigere (“to measure against a standard”).",
+"examples": [
+"The herdboy in the broom, already musical in the days of Father Chaucer, startles (and perhaps pains) the lark with this exiguous pipe.",
+"The path on which I then planted my feet was quite unprecedentedly narrow. I had never had to walk along a thoroughfare so exiguous.",
+"They are entering the market, setting up stalls on snowy streets, moonlighting to supplement exiguous incomes."
+],
+"p": "ig-ZIH-gyoo-us"
+},
+{
+"w": "ombre",
+"pos": "noun",
+"senses": [
+"A Spanish card game, usually played by three people. It involves forty cards, omitting the ranks of 8, 9 and 10."
+],
+"ety": "Borrowed from French hombre, from Spanish hombre, literally, a man, from Latin homō. Doublet of gome, hombre, homo, and omi. See human.",
+"examples": [
+"Belinda now, whom chirst of fame invites, / Burns to encounter two advent'rous Knights, / At Ombre singly to decide their doom / And swells her breast with conquests yet to com",
+"When ombre calls, his hand and heart are free, / And, joined to two, he fails not to make three."
+],
+"p": "OM-buh"
+},
+{
+"w": "cermet",
+"pos": "noun",
+"senses": [
+"A composite material composed of ceramic and metal materials, used in such applications as industrial saws and turbine blades."
+],
+"ety": "Blend of ceramic + metal.",
+"examples": [
+"Among various tribological materials, cermets are known for their excellent wear resistance under unlubricated conditions."
+],
+"p": "SUR-met"
+},
+{
+"w": "ouroboros",
+"pos": "noun",
+"senses": [
+"A serpent, dragon or worm that eats its own tail, a representation of the continuous cycle of life and death.",
+"Anything of a circular or recursive nature."
+],
+"ety": "From Ancient Greek οὐροβόρος (ourobóros, “tail-devouring”, a compound of οὐρά (ourá, “tail”) + -βόρος (-bóros, “-devouring”, which is derived from the verb βιβρώσκω (bibrṓskō, “to eat up”))).",
+"examples": [
+"Like an ouroboros, the story created and informed by the writer’s own experience suddenly flipped back on itself, Childress’s life now reflecting the story rather than the other way around.",
+"The result is a statistical ouroboros: a self-reinforcing discrimination machine that amplifies social inequalities under the guise of technical neutrality."
+],
+"p": "oo-ROB-uh-ros"
+},
+{
+"w": "officiant",
+"pos": "noun",
+"senses": [
+"A person who officiates at a religious ceremony (in Christianity, at any ceremony other than the Eucharist).",
+"A person who officiates at a civil (non-religious) wedding ceremony."
+],
+"ety": "From Medieval Latin officiāns, present participle of officiō, officiāre (“to perform a duty or service”) (not to be confused with Classical officiō, officere (“to obstruct, hinder”)), a denominal verb from officium (“duty, service”).",
+"examples": [
+"There are moments in a witchcraft ceremony when a god is believed to enter the body of the officiant."
+],
+"p": "uh-FISH-ee-unt"
+},
+{
+"w": "rebated",
+"pos": "adjective",
+"senses": [
+"Blunted, dulled (of a blade, weapon etc.)."
+],
+"ety": "From rebate + -ed.",
+"examples": [
+"Even with blunted lances and filed-down or ‘rebated’ blades, grave injury and death were all too frequent, and tended to ‘disturb the cheerfulness of such events’, as a contemporary Spanish herald understatedly put it."
+],
+"p": "REE-bay-tid"
+},
+{
+"w": "swamper",
+"pos": "noun",
+"senses": [
+"A person who lives in a swampy area.",
+"A person who clears a road for lumberers in a forest or swamp.",
+"Someone or something that swamps or overwhelms.",
+"A handyman or general employee in a liquor saloon; a cook's assistant."
+],
+"ety": "From swamp + -er.",
+"examples": [
+"In the latter part of winter, I hired with a lumberer – camped out, and wrought in the forest as a swamper.",
+"The Population Factor is a dissipator or swamper of the gain in per capita income and hence of the redressal of poverty to that degree.",
+"The old swamper shifted his broom and held it between his elbow and his side while he held out his hand for the can."
+],
+"p": "SWAHM-per"
+},
+{
+"w": "enthrall",
+"pos": "verb",
+"senses": [
+"To hold spellbound.",
+"To enslave; to subjugate."
+],
+"ety": "From Middle English enthrallen. By surface analysis, en- + thrall.",
+"examples": [
+"Fancy, Jim, to be in love and play Juliet! To have him sitting there! To play for his delight! I am afraid I may frighten the company, frighten or enthrall them."
+],
+"p": "in-THRAWL"
+},
+{
+"w": "telos",
+"pos": "noun",
+"senses": [
+"The aim, purpose, or end goal."
+],
+"ety": "Borrowed from Ancient Greek τέλος (télos).",
+"examples": [
+"But confusion persists because of the more contentious issue between the technos and the telos of music and art making in general, the instruments versus the purposes to which they are put, the means and the ends.",
+"In Lewis' view, such societies are cut off from an appreciation of the past, committed to the utopian ideal of unlimited progress, self-satisfied, concerned with technos rather than telos, and skeptical about reason."
+],
+"p": "TEE-los"
+},
+{
+"w": "preempt",
+"pos": "verb",
+"senses": [
+"To appropriate first.",
+"To displace or take the place of (by having higher precedence, etc).",
+"To prevent or beat to the punch, to forestall an expected occurrence by acting first.",
+"To secure (land, etc.) by the right of preemption (purchasing before others, e.g. land because one already occupies it).",
+"To make a preemptive bid at bridge."
+],
+"ety": "Back-formation from preemption.",
+"examples": [
+"He preempted that hill to be its king.",
+"Floppy disks were preempted by CDs.",
+"Leah and Jenny's friendship had happened upon them quickly because of a shared harrowing experience that had preempted the usual years of trust building ."
+],
+"p": "pree-EMPT"
+},
+{
+"w": "adamantine",
+"pos": "adjective",
+"senses": [
+"Incapable of being broken, dissolved, or penetrated; impenetrable, unbreakable.",
+"Difficult to defeat or prevail over; unshakable, unyielding.",
+"Of a person: refusing to change one's mind; obstinate, stubborn."
+],
+"ety": "From Middle English adamantine, adamantyne, adamauntyn (“(adjective) of adamant; (noun) adamant”), from Anglo-Norman adamantin and Middle French adamantin (“of or resembling adamant or diamond”) (modern French adamantin), and from its etymon Latin adamantinus (“adamantine”), from Ancient Greek ἀδᾰμάντῐνος (adămántĭnos, “hard as adamant; made of steel”), from ᾰ̓δᾰμᾰντ- (ădămănt-) (a stem of ἀδάμᾱς (adámās, “the hardest metal (probably steel); diamond”), possibly originally Semitic) + -ῐνος (-ĭnos, suffix meaning ‘made of’ forming adjectives). By surface analysis, adamant + -ine (suffix meaning ",
+"examples": [
+"Start from your sculptured tombs, ye sons of fire! / Snatch, snatch those gentle forms from war's alarms, / And throw your adamantine shield around their shrinking charms.",
+"I thought this last information would soften the young man, but he was adamantine. He informed me that it was against all bank rules for a woman to draw from her husband's deposit without his order."
+],
+"p": "ad-uh-MAN-tine"
+},
+{
+"w": "poteen",
+"pos": "noun",
+"senses": [
+"Illegally produced Irish whiskey; moonshine.",
+"An unlicensed drinking establishment selling illegally produced Irish whiskey."
+],
+"ety": "From Irish poitín (“little pot; poteen”), from pota (“pot”) (from Middle English potte, ultimately from Proto-Indo-European *budn- (“type of vessel”)) + -ín (diminutive suffix).",
+"examples": [
+"The Irish peasantry practice the distillation of that illicit spirituous liquor, so well known by the name of poteen whiskey, with a most unaccountable infatuation.",
+"He began to rove the country at night, trudging out to shebeens or crossroads dances, to the ceilidhs and poteen sessions that sometimes followed Fair Days in the small towns of Connemara.",
+"The whisky shops and poteens of Scotland and Ireland, the gin-palaces and beer-shops of England, are an incubus that is dwarfing the good in every section of the community, and forcing out the evil."
+],
+"p": "puh-TEEN"
+},
+{
+"w": "seemly",
+"pos": "adjective",
+"senses": [
+"Of behavior, appropriate; suited to the occasion or purpose; becoming."
+],
+"ety": "From Middle English semly, semely, semelich, from Old Norse sœmiligr (“seemly”); equivalent to seem + -ly. Cognate with Icelandic sæmilegur (“seemly, passable”), Danish sømmelig (“seemly”).",
+"examples": [
+"His behavior was seemly, as befits a gentleman.",
+"Suspense of judgment and exercise of charity were safer and seemlier for Christian men than the hot pursuit of these controversies.",
+"I am a woman, lacking wit / To make a seemly answer to such persons."
+],
+"p": "SEEM-lee"
+},
+{
+"w": "wispy",
+"pos": "adjective",
+"senses": [
+"Consisting of or resembling a wisp; like a slender, flexible strand or bundle."
+],
+"ety": "From wisp + -y.",
+"examples": [
+"The wispy smoke rose from chimneys all around town."
+],
+"p": "WIS-pee"
+},
+{
+"w": "skimp",
+"pos": "verb",
+"senses": [
+"To mock, deride, scorn, scold, make fun of."
+],
+"ety": "Perhaps of North Germanic origin, ultimately from Proto-Germanic *skimpijaną (“to skip, dance, gesture, mock”). Cognate with Icelandic skimpa (“to scoff at, scorn”), dialectal Swedish skimpa (“to skip, dance”), Faroese skumpa (“to shove, bump”), German schimpfen (“to grumble, scold”), Dutch schimpen (“to mock, make fun of, scold”). Possibly distantly related to change.",
+"examples": [
+"I thought Adie was only skimpin' me."
+],
+"p": "SKIMP"
+},
+{
+"w": "agger",
+"pos": "noun",
+"senses": [
+"Synonym of earthwork in ancient Roman contexts, particularly a defensive wall or mound."
+],
+"ety": "From Middle English agger (“heap, pile”), from Latin agger (“earthwork, rubble, rampart”), from ad- (“toward, towards”) + gerere (“to carry”).",
+"examples": [
+"By the Augustan period, however, the old ashlar circuit with its earthen agger was beginning to be dismantled in some places."
+],
+"p": "aj-er"
+},
+{
+"w": "jazzy",
+"pos": "adjective",
+"senses": [
+"In the style of jazz.",
+"Flashy or showy.",
+"Lacking focus; jittery or jangly."
+],
+"ety": "From jazz + -y.",
+"examples": [
+"John was waiting in the health club's juice bar, wearing a gray pinstriped Oxford suit and a blue Hermes tie. \"You look all jazzy,\" Tyler said as he approached his partner. \"I got you a cup of coffee.\"",
+"The letters seemed to go all jazzy on her and then they kept shifting, changing direction and making new patterns that she couldn't recognize."
+],
+"p": "JAZ-ee"
+},
+{
+"w": "exuberant",
+"pos": "adjective",
+"senses": [
+"Very cheery and peppy; extremely cheerful, energetic and enthusiastic.",
+"Abundant, luxuriant."
+],
+"ety": "From Middle French exubérant, from Latin exūberāns, the present active participle of exūberō (“be abundant”). Put together from ex (“out”), and uber (“udder”), and originally would have referred to a cow or she-goat which was making so much milk that it naturally dripped or sprayed from the udder.",
+"examples": [
+"He was a man of exuberant fancy, and, withal of an authority so irresistible that, at his will, he turned his varied fancies into facts.",
+"She was a tall, earthy, exuberant girl with long hair and a pretty face.",
+"It pencilled each flower with rich and variegated hues, and threw over its exuberant foliage a vesture of emerald green."
+],
+"p": "ig-ZOO-buh-runt"
+},
+{
+"w": "badinage",
+"pos": "noun",
+"senses": [
+"Playful raillery; banter."
+],
+"ety": "Borrowed from French badinage, from the verb badiner (“jest, joke”) from badin (“playful”), from Occitan badar (“gape”). Distantly related to abash.",
+"examples": [
+"I am persuaded, if all gay badinage were prefaced by an explanation, it would be infinitely better received.",
+"Your badinage so airy, / Your manner arbitrary, / Are out of place / When face to face / With an influential Fairy."
+],
+"p": "bahd-ih-NAHZH"
+},
+{
+"w": "sencha",
+"pos": "noun",
+"senses": [
+"A form of Japanese green tea made by infusing the processed whole tea leaves in hot water."
+],
+"ety": "Borrowed from Japanese 煎茶 (sencha, literally “infused tea”).",
+"examples": [
+"And as a 20-something tea-ist opined over a pot of sencha: “When you want to meet friends, coffee is so clichéd and bar booze is so expensive."
+],
+"p": "SEN-chuh"
+},
+{
+"w": "locational",
+"pos": "adjective",
+"senses": [
+"Having to do with location."
+],
+"ety": "From location + -al.",
+"examples": [
+"Locational periphery is used to describe places physically distant from the heart of the city. -- Wikipedia article on social distance",
+"Geography is the study of the locational and spatial variation in both physical and human phenomena on Earth. -- Wikipedia article on geography"
+],
+"p": "loh-KAY-shuh-nul"
+},
+{
+"w": "scaly",
+"pos": "adjective",
+"senses": [
+"Covered or abounding with scales.",
+"Composed of scales lying over each other.",
+"Resembling scales, laminae, or layers."
+],
+"ety": "From Middle English scali, skaly. By surface analysis, scale + -y.",
+"examples": [
+"If the lids of the eyes become inflamed and scaly, do not seek to remove the scales roughly, for they will bring the lashes with them.",
+"Like scaly carp and feathered swan To nature's world we do belong."
+],
+"p": "SKAY-lee"
+},
+{
+"w": "whyever",
+"pos": "adverb",
+"senses": [
+"Why ever: an emphatic form of why.",
+"For whatever reason.",
+"Regardless of the reason (why)."
+],
+"ety": "From why + -ever.",
+"examples": [
+"Whyever would someone do that?",
+"You can use it whenever you want and whyever you want.",
+"Whatever we do, and whyever we do it, does not every motive originate in self, and does not every act proceed out of the individual's instinct for self-fulfilment ?"
+],
+"p": "wy-EV-er"
+},
+{
+"w": "ritzy",
+"pos": "adjective",
+"senses": [
+"Elegant and luxurious."
+],
+"ety": "From the Ritz Hotels of New York, London, etc (now Ritz-Carlton Hotels) + -y, from Ritz hotel founder César Ritz, from southern Switzerland. For the surname see Ritz. Compare English glitzy.",
+"examples": [
+"His list of sexual contacts was quite long, and included ladies from some of the ritzier establishments of ill repute across the border."
+],
+"p": "RIT-see"
+},
+{
+"w": "fjord",
+"pos": "noun",
+"senses": [
+"A long, narrow, deep inlet between cliffs."
+],
+"ety": "Unadapted borrowing from Norwegian fjord, from Old Norse fjǫrðr, from Proto-Germanic *ferþu, *ferþuz (“inlet, fjord”), from Proto-Indo-European *pértus (“crossing”), from *per- (“to carry forth”) + *-tus (suffix forming action nouns from verb roots). Doublet of firth, ford, port, and fjard.",
+"examples": [
+"In the center of Mount Desert Island is deep Somes Sound, almost bisecting the island and forming the only natural fjord on the entire Atlantic Coast of North America."
+],
+"p": "fee-ORD"
+}
+]

@@ -1,0 +1,531 @@
+[
+{
+"w": "equivocate",
+"pos": "verb",
+"senses": [
+"To speak using double meaning; to speak ambiguously, unclearly or doubtfully, with intent to deceive; to vacillate in one's answers, responding with equivoques.",
+"To render equivocal or ambiguous."
+],
+"ety": "From Late Middle English equivocaten, from Medieval Latin aequivocātus, perfect passive participle of aequivocō (“to be called by the same name”), from Late Latin aequivocus (“ambiguous, equivocal”). Compare French équivoque.",
+"examples": [
+"All that Garnet had to say for him was that he supposed he meant to equivocate.",
+"He equivocated his vow by a mental reservation"
+],
+"p": "ih-KWIV-uh-kayt"
+},
+{
+"w": "extravasation",
+"pos": "noun",
+"senses": [
+"The exudation of blood, lymph or urine from a vessel into the tissues.",
+"The eruption of molten lava from a volcanic vent."
+],
+"ety": "From extravasate (“let out or force out (blood or fluid)”) + -ion; further etymology at extravasate. Attested from the 17th century.",
+"examples": [
+"The right forearm and elbow show heavy bruises, with considerable extravasation from the surface vessels, showing they were inflicted some time before death."
+],
+"p": "ik-strav-uh-SAY-shun"
+},
+{
+"w": "pounder",
+"pos": "noun",
+"senses": [
+"A vessel in which something is pounded, or an implement used in pounding."
+],
+"ety": "From pound (“verb”) + -er (“agent suffix”).",
+"examples": [
+"Since we often prefer to pound our own cutlets rather than buy uneven precut cutlets from the store, a meat pounder is an important piece of equipment."
+],
+"p": "POWN-der"
+},
+{
+"w": "flaky",
+"pos": "adjective",
+"senses": [
+"Consisting of flakes or of small, loose masses; lying, or cleaving off, in flakes or layers; flakelike.",
+"Unreliable; likely to make plans with others but then abandon those plans.",
+"Unreliable; working only on an intermittent basis; likely due to malfunction."
+],
+"ety": "From flake + -y.",
+"examples": [
+"I cannot enjoy the online game because of my flaky Internet connection."
+],
+"p": "FLAY-kee"
+},
+{
+"w": "psalmist",
+"pos": "noun",
+"senses": [
+"A composer of psalms."
+],
+"ety": "From psalm + -ist.",
+"examples": [
+"An environment which would have made a contented woman a poet, a suffering woman a devotee, a pious woman a psalmist, even a giddy woman thoughtful, made a rebellious woman saturnine."
+],
+"p": "SAH-mist"
+},
+{
+"w": "lolicon",
+"pos": "noun",
+"senses": [
+"Attraction (often erotic) to fictional depictions of young, typically prepubescent girls.",
+"An individual who is attracted to such depictions.",
+"Erotic or suggestive artwork depicting young, typically prepubescent, girls.",
+"Sexual attraction to or fascination with young girls in general."
+],
+"ety": "Borrowed from Japanese ロリコン (rorikon), a clipping of ロリータ・コンプレックス (“Lolita complex”), which is itself borrowed from English Lolita complex. The spelling lolicon, a hybrid of the English etymon and the Japanese romanization, is now the dominant form in English‐speaking otaku media fandom. By surface analysis, loli + -con.",
+"examples": [
+"A Japanese term derived from the English phrase “Lolita complex,” lolicon describes a fascination with cartoons of very young-looking girls engaged in varying degrees of erotic behavior.",
+"I don't need to hear you are becoming a lolicon.",
+"Hey, don't take me for a lolicon: I'm not! It is just that I find that kind of anime... fun, refreshing."
+],
+"p": "LAH-lih-kahn"
+},
+{
+"w": "frizz",
+"pos": "verb",
+"senses": [
+"Of hair, to form into a mass of tight curls.",
+"To curl; to make frizzy.",
+"To form into little burs, knobs, or tufts, as the nap of cloth.",
+"To make (leather) soft and of even thickness by rubbing, as with pumice stone or a blunt instrument.",
+"To fry, cook, or sear with a sizzling noise; to sizzle."
+],
+"ety": "From Middle English frysen, from Old French friser, frizer (“to frizzle, crisp, curl, ruffle, braid, touch lightly, graze, scratch”), of Proto-Germanic origin, perhaps via Old Frankish *fris (“curl”), from Proto-Germanic *frisaz (“frizzy, curly”). Cognate with Old Frisian frisle, frēsle (\"the hair of the head, lock of hair, curl, ringlet\"; > North Frisian friessle, fressle (“hair, horse's tail”), West Frisian frisseljen (“braid of hair, braid”)), Old English frīs (“crisped, curled”).",
+"examples": [
+"In labour-saving homes, with care, / Their wives frizz out peroxide hair."
+],
+"p": "friz"
+},
+{
+"w": "shippy",
+"pos": "adjective",
+"senses": [
+"Related to or characteristic of a ship (vessel)."
+],
+"ety": "From ship + -y.",
+"examples": [
+"Well, we have been here since Mid-June, beside a reefy and shippy shore, with sails by day and lamps by night, all over the water, and a sunrise and sunset gun from an obsolete fort across the harbor.",
+"About the interior decorations, however, there was nothing shippy."
+],
+"p": "SHIP-ee"
+},
+{
+"w": "twitchy",
+"pos": "adjective",
+"senses": [
+"susceptible to twitching a lot.",
+"irritable, cranky, nervous, anxious, worried"
+],
+"ety": "From twitch + -y.",
+"examples": [
+"For the most part, however, his hunched, twitchy, wide-eyed take doesn’t seem like a believable portrait of social awkwardness so much as just a forced, awkward performance.",
+"Johnson's contract expires in November, and four weeks as memorable for scandals off the pitch as any achievements on it will do little to appease the notoriously twitchy committee-men at the Rugby Football Union.",
+"Railways don't normally feature, but Conservative MPs are getting twitchy about this nationwide local issue."
+],
+"p": "TWICH-ee"
+},
+{
+"w": "cella",
+"pos": "noun",
+"senses": [
+"The central, enclosed part of an ancient temple, as distinguished from the open porticos."
+],
+"ety": "Learned borrowing from Latin cella. Doublet of cell and hall.",
+"examples": [
+"Room by room, Sarrasine advances to the cella of the hermaphrodite god, veiled like Spenser's Venus."
+],
+"p": "SEL-uh"
+},
+{
+"w": "abele",
+"pos": "noun",
+"senses": [
+"The white poplar (Populus alba)."
+],
+"ety": "From Middle English abelle, albell, aubel, from Old French aubel, aubiel, from Medieval Latin albellus (“white poplar”), diminutive of Latin albus (“white”). Some forms after Middle Dutch abeel, from Old French.",
+"examples": [
+"Six abeles i' the churchyard grow"
+],
+"p": "uh-BEEL"
+},
+{
+"w": "stripy",
+"pos": "adjective",
+"senses": [
+"Having stripes; striped."
+],
+"ety": "From stripe + -y.",
+"examples": [
+"He looked like a baby zebra, curled up in his stripy T-shirt."
+],
+"p": "STRIPE-ee"
+},
+{
+"w": "sniffle",
+"pos": "verb",
+"senses": [
+"To make a whimpering or sniffing sound when breathing, because of a runny nose.",
+"To utter with a whimpering or sniffing sound."
+],
+"ety": "From sniff + -le (frequentative suffix). Compare snivel.",
+"examples": [
+"Her dad heard her sniffling and passed her a handkerchief.",
+"He sniffled a pathetic apology."
+],
+"p": "SNIF-ul"
+},
+{
+"w": "polder",
+"pos": "noun",
+"senses": [
+"An area of ground reclaimed from a sea or lake by means of dikes."
+],
+"ety": "Borrowed from Dutch polder, from Middle Dutch polre, from Old Dutch polra, of uncertain origin.",
+"examples": [
+"The patron saint of the Oude Kerk, Saint Nicolaas, the ‘water saint’, was also very popular, as he protected the sailors and those living on the polders from the dangers of the sea."
+],
+"p": "POHL-duh"
+},
+{
+"w": "cosmology",
+"pos": "noun",
+"senses": [
+"The study of the physical universe, its structure, dynamics, origin and evolution, and fate.",
+"A metaphysical study into the origin and nature of the universe.",
+"A particular view (cultural or religious) of the structure and origin of the universe."
+],
+"ety": "From Medieval Latin cosmologia, from Ancient Greek κόσμος (kósmos, “world”) + -λογία (-logía, “treating of”), combination form of -λόγος (-lógos, “one who speaks (in a certain manner)”). By surface analysis, cosmo- + -logy.",
+"examples": [
+"But the work of Marshack and Leroi-Gourhan enable us to see that these later religions of the civilized period are elaborations of the cosmologies from the universal religion of the Upper Paleolithic."
+],
+"p": "kahz-MAH-luh-jee"
+},
+{
+"w": "munge",
+"pos": "verb",
+"senses": [
+"To corrupt a record about a person by erroneously merging in information about another person."
+],
+"ety": "Variant of mung; likely a misconstructed back-formation from munging, munged or munger.",
+"examples": [
+"It looks like this record is munged—it has this person’s birth date, but his father’s death date."
+],
+"p": "munj"
+},
+{
+"w": "woodie",
+"pos": "noun",
+"senses": [
+"An early station wagon or estate car whose rear bodywork is made of wood, often associated with Southern California surfing culture.",
+"A wooden rollercoaster; an amusement ride whose rails are overlaid upon a wooden track.",
+"An Australian wood cockroach, especially one that is a feeder insect for pets like reptiles, amphibians, arachnids, etc.",
+"A wood pigeon.",
+"A wood duck."
+],
+"ety": "From wood + -ie.",
+"examples": [
+"There'll be no surfin' there and no one even cares. My woodie's outside. Covered with snow."
+],
+"p": "WOO-dee"
+},
+{
+"w": "ejaculatory",
+"pos": "adjective",
+"senses": [
+"Of speech, exclamatory."
+],
+"ety": "From ejaculate + -ory.",
+"examples": [
+"There his story became ejaculatory.",
+"By one token in particular you may tell every member of the tribe. It is the token of the ejaculatory comment."
+],
+"p": "ih-JA-kyuh-luh-tor-ee"
+},
+{
+"w": "commentate",
+"pos": "verb",
+"senses": [
+"To provide a commentary; to act as a commentator; to maintain a stream of comments about some event."
+],
+"ety": "Back-formation from commentator. Equivalent to comment + -ate (verb-forming suffix).",
+"examples": [
+"For the radio audience he will commentate on the match."
+],
+"p": "KAH-mun-tayt"
+},
+{
+"w": "snacker",
+"pos": "noun",
+"senses": [
+"Someone who eats snacks."
+],
+"ety": "From snack + -er.",
+"examples": [
+"Most snackers don't have time to eat a proper meal."
+],
+"p": "SNAK-er"
+},
+{
+"w": "bestowal",
+"pos": "noun",
+"senses": [
+"The act of bestowing."
+],
+"ety": "From bestow + -al.",
+"examples": [
+"Elation mingled with something faintly apologetic in the abrupt bestowal of the baronet's unexpected confidence."
+],
+"p": "bih-STOH-ul"
+},
+{
+"w": "ergot",
+"pos": "noun",
+"senses": [
+"The wart-like growth of skin that covers the metacarpal pad on a horse or similar animal."
+],
+"ety": "Borrowed from French ergot.",
+"examples": [
+"It is crossed medially and laterally by the ligament of the ergot (not shown), that, subcutaneously, connects the ergot with the hoof cartilage.",
+"Place the end of a length of string at the fetlock joint (near the ergot, the tubular growth on the back of the fetlock joint, hidden within the hair tuft)."
+],
+"p": "ER-gut"
+},
+{
+"w": "staticky",
+"pos": "adjective",
+"senses": [
+"Resembling or containing static."
+],
+"ety": "From static + -y.",
+"examples": [
+"The radio signal was staticky and we could barely hear the announcer."
+],
+"p": "STAT-ih-kee"
+},
+{
+"w": "worlder",
+"pos": "noun",
+"senses": [
+"One who supports a certain idea of the world.",
+"One from a certain (figurative or literal) world."
+],
+"ety": "From world + -er (“supporter”) or -er (demonym suffix).",
+"examples": [
+"Third worlders tend to act like a nest of vampires, bleeding the US and giving indirect sustenance to their failing home economies."
+],
+"p": "WURL-der"
+},
+{
+"w": "strid",
+"pos": "noun",
+"senses": [
+"A place where a chasm or gorge is narrow enough to be crossed."
+],
+"ety": "From Middle English stryd, a byform of stryde, stride. See stride (noun). The noun term comes from the appearance that the river may be crossable with a stride.",
+"examples": [
+"On through narrow strids and roaring cataracts, where Tom was deafened and blinded for a moment by the rushing waters"
+],
+"p": "strid"
+},
+{
+"w": "organza",
+"pos": "noun",
+"senses": [
+"A thin, stiff, sheer fabric that is made from silk or a synthetic yarn, which resembles organdy, and is used in dressmaking."
+],
+"ety": "Attested since about 1820, of uncertain origin. Suggestions include: alteration of Lorganza (supposedly a trade name at the time for such a fabric) and/or ultimate derivation from Urgench or Old Urgench (supposedly associated with fabric production).",
+"examples": [
+"But Pinky, at night, toward the morning, to become a woman, was that it? How the white legs would glow against the fire-colored chiffon and bright pink organza, Pinky's white white legs."
+],
+"p": "or-GAN-zuh"
+},
+{
+"w": "intellectualize",
+"pos": "verb",
+"senses": [
+"To treat in an intellectual manner; to discuss or express intellectually.",
+"To endow with intellect; to bestow intellectual qualities upon; to cause to become intellectual.",
+"To find a seemingly rational explanation for.",
+"To use (excessive) reasoning and rationalization to block out emotional stress and anxiety associated with painful or traumatic experiences."
+],
+"ety": "From intellectual + -ize.",
+"examples": [
+"Sentiment is intellectualized emotion."
+],
+"p": "in-tuh-LEK-choo-uh-lize"
+},
+{
+"w": "tympany",
+"pos": "noun",
+"senses": [
+"The sound made by beating a drum.",
+"Inflation; conceit; bombast; turgidness."
+],
+"ety": "Coined based on Ancient Greek τύμπανον (túmpanon).",
+"examples": [
+"Dr. Johnson, for his triads and his antithetic balances, he taxes more than once with a plethoric and tautologic tympany of sentence"
+],
+"p": "TIM-puh-nee"
+},
+{
+"w": "ducky",
+"pos": "adjective",
+"senses": [
+"Resembling or characteristic of a duck."
+],
+"ety": "From duck (“aquatic bird”) + -y.",
+"examples": [
+"A barrage of very ducky kazoo blats filled the air."
+],
+"p": "DUK-ee"
+},
+{
+"w": "dinky",
+"pos": "adjective",
+"senses": [
+"Tiny and cute; small and attractive.",
+"Tiny and insignificant; small and undesirable."
+],
+"ety": "1780-90; compare Scots dink (“neatly dressed, trim”) (of obscure origin); sense shift perhaps: trim > dainty > small > insignificant; + -y.",
+"examples": [
+"How do you like my hat? That one you had on in church yesterday was real dinky.",
+"I played in the dirt with a small dinky car as the garage held no fascination for a little girl of five.",
+"They stayed in a dinky hotel room, but they had a great trip."
+],
+"p": "DING-kee"
+},
+{
+"w": "totemic",
+"pos": "adjective",
+"senses": [
+"Serving as, or relating to, a totem."
+],
+"ety": "From totem + -ic.",
+"examples": [
+"Hunt also refused to rule out cuts to totemic Conservative pledges, including defence spending and the pensions triple lock.",
+"The fate of Nissan’s factory in north-east England was a totemic issue in the run-up to the 23 June 2016 referendum."
+],
+"p": "toh-TEM-ik"
+},
+{
+"w": "gribble",
+"pos": "adjective",
+"senses": [
+"Tending to grumble; grumpy, irascible."
+],
+"ety": "Possibly related to grumble.",
+"examples": [
+"You're always gribble first thing in the morning."
+],
+"p": "GRIH-bul"
+},
+{
+"w": "telegenic",
+"pos": "adjective",
+"senses": [
+"Having an appearance and exhibiting qualities thought to be attractive to television viewers."
+],
+"ety": "From tele- + -genic, by analogy with photogenic.",
+"examples": [
+"The young politician was very telegenic."
+],
+"p": "tel-uh-JEN-ik"
+},
+{
+"w": "loong",
+"pos": "noun",
+"senses": [
+"A Chinese dragon."
+],
+"ety": "Borrowed from Mandarin 龍 /龙 (lóng). This spelling is used to differentiate the word from long.",
+"examples": [
+"Rivers and lakes are where fish and loong (dragons) live."
+],
+"p": "luung"
+},
+{
+"w": "slush",
+"pos": "verb",
+"senses": [
+"To smear with slushy liquid or grease.",
+"To slosh or splash; to move as, or through, a slushy or liquid substance.",
+"To paint with a mixture of white lead and lime."
+],
+"ety": "May be a variant of sludge or imitative like slosh. Perhaps a confluence of both influences.",
+"examples": [
+"The ungrateful “they” are Brooklynites who’ve come to see Harding-Mamary creations as a chain, where you can get it venti in a ramekin with crème fraîche or slushed with guava and salt on the rim.",
+"The water was soon slushing merrily over the deck, while the smoke pouring from the cabin stove carried a promise of good things to come.",
+"Sitting inside the Starbucks on Broadway near Roscoe, two art students had tired of sketching people slushing through the two-day-old snow."
+],
+"p": "slush"
+},
+{
+"w": "carapace",
+"pos": "noun",
+"senses": [
+"A hard protective covering of bone or chitin, especially one which covers the dorsal portion of an animal.",
+"That which protects."
+],
+"ety": "Borrowed from French carapace (“tortoise shell”), from Spanish carapacho, of unknown origin, but likely from an extinct Ibero-Mediterranean substrate language. Compare Catalan carabassa, Ancient Greek κάραβος (kárabos, “beetle”), Latin scarabaeus (the source of scarab); also Spanish galápago (“kind of turtle”). Doublet of calipash.",
+"examples": [
+"So, little by little, youth loosens the hard carapace of confining custom their elders have built over the human heart.",
+"This is all a massive failure of science to pierce the carapace of public ignorance."
+],
+"p": "KAIR-uh-pays"
+},
+{
+"w": "valorize",
+"pos": "verb",
+"senses": [
+"To assess (something) as being valuable or admirable.",
+"To fix the price of (something) at an artificially high level, usually by government action."
+],
+"ety": "Back-formation from valorization.",
+"examples": [
+"Creating a historical dictionary for a variety of English valorises that variety by linking it to national history and national identity.",
+"You can see it in the way we valorize the C.E.O.s of “unicorn” companies who have expanded their wealth far beyond what could possibly be justified by their individual contributions."
+],
+"p": "VAL-uh-rize"
+},
+{
+"w": "listicle",
+"pos": "noun",
+"senses": [
+"An article based around a list."
+],
+"ety": "Blend of list + article.",
+"examples": [
+"Dishy books! Bruno Mars! Human excrement! Relieve the year that was in handy listicle form, on page 52.",
+"It seems little more than an exercise in googling, an attempt to sell the listicle as literature.",
+"And when they do, readers may find themselves on an unfamiliar website with an odd name, faced with a photo gallery of regrettable tattoos or a listicle on 22 celebrities with ugly spouses."
+],
+"p": "LIS-tih-kul"
+},
+{
+"w": "lacquer",
+"pos": "noun",
+"senses": [
+"A glossy, resinous material used as a surface coating; either a natural exudation of certain trees, or a solution of nitrocellulose in alcohol, etc."
+],
+"ety": "Borrowed from French lacque (“a sort of sealing wax”), from Portuguese laca, lacca (“gum lac”), from Persian لاک (lâk), from Hindi लाख (lākh), from Sanskrit लाक्षा (lākṣā). Doublet of lac.",
+"examples": [
+"It is a solvent for nitrocellulose and vinyl chloride-acetate resins and may function as an antiblush agent in lacquers.",
+"Cellosolves are used as solvents for lacquers, for sealing cellophane wrapping, and in hydraulic-brake fluid."
+],
+"p": "LAK-er"
+},
+{
+"w": "defecation",
+"pos": "noun",
+"senses": [
+"The act or process of voiding feces from the bowels.",
+"Any of several processes for the removal of impurities, or for clarifying various materials."
+],
+"ety": "17th century, borrowed from Late Latin dēfaecātiō.",
+"examples": [
+"The juice after it leaves the mill has a more or less green color, due to the presence of large quantities of chlorophyl and other vegetable substances, which must be removed. This process is known as defecation."
+],
+"p": "def-ih-KAY-shun"
+}
+]

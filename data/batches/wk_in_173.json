@@ -1,0 +1,445 @@
+[
+{
+"w": "increaser",
+"pos": "noun",
+"senses": [
+"One who, or that which, increases.",
+"An adapter for connecting hoses of differing diameters."
+],
+"ety": "From increase + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "sixer",
+"pos": "noun",
+"senses": [
+"A Cub Scout or Brownie who leads a group of six.",
+"A conker that has won six matches."
+],
+"ety": "From six + -er.",
+"examples": [
+"Many packs have a sixer's council where the sixers, and sometimes the seconds, meet with Akela and some of the other leaders."
+],
+"p": null
+},
+{
+"w": "mesencephalon",
+"pos": "noun",
+"senses": [
+"A part of the brain located rostral to the pons and caudal to the thalamus and the basal ganglia, composed of the tectum (dorsal portion) and the tegmentum (ventral portion)."
+],
+"ety": "From mes- + encephalon.",
+"examples": [],
+"p": "mez-un-SEF-uh-lun"
+},
+{
+"w": "guesser",
+"pos": "noun",
+"senses": [
+"A person who guesses; especially someone who can make a reasonable prediction from little evidence."
+],
+"ety": "From Middle English gessere, gessare, equivalent to guess + -er.",
+"examples": [],
+"p": null
+},
+{
+"w": "bigender",
+"pos": "adjective",
+"senses": [
+"Having two genders simultaneously, most commonly male and female.",
+"Having a tendency to move between feminine and masculine gender-typed behaviour depending on context."
+],
+"ety": "From bi- + gender.",
+"examples": [],
+"p": "by-JEN-der"
+},
+{
+"w": "nasalization",
+"pos": "noun",
+"senses": [
+"a particular instance of such change"
+],
+"ety": "From nasalize + -ation.",
+"examples": [],
+"p": "nay-zuh-luh-ZAY-shun"
+},
+{
+"w": "thonk",
+"pos": "verb",
+"senses": [
+"To think deeply; to ponder."
+],
+"ety": "Intentional alteration of think.",
+"examples": [
+"I had to thonk long and hard before coming to a decision."
+],
+"p": null
+},
+{
+"w": "lampman",
+"pos": "noun",
+"senses": [
+"A person employed to clean and maintain lamps."
+],
+"ety": "From lamp + -man.",
+"examples": [],
+"p": null
+},
+{
+"w": "derain",
+"pos": "verb",
+"senses": [
+"To remove rain from an image."
+],
+"ety": "From de- + rain. Compare deraining (noun).",
+"examples": [
+"Hence, in our proposed pipeline, we derain first, then followed by dehazing and at last finished with deraining.",
+"It is demonstrated that the proposed method yields in relatively higher performance in comparison to other state-of-the-art deraining models in terms of derained image quality and computing efficiency."
+],
+"p": null
+},
+{
+"w": "uncased",
+"pos": "adjective",
+"senses": [
+"Not cased; without a casing."
+],
+"ety": "From un- + cased.",
+"examples": [],
+"p": null
+},
+{
+"w": "defog",
+"pos": "verb",
+"senses": [
+"To remove the moisture or fog from.",
+"To make intelligible; to free from confusion."
+],
+"ety": "From de- + fog.",
+"examples": [],
+"p": "dee-FAHG"
+},
+{
+"w": "nabal",
+"pos": "noun",
+"senses": [
+"a long, straight, valveless brass trumpet used in the traditional music of Korea"
+],
+"ety": "Borrowed from Korean 나발(喇叭) (nabal).",
+"examples": [],
+"p": null
+},
+{
+"w": "chaffy",
+"pos": "adjective",
+"senses": [
+"Like or containing chaff.",
+"(of an ear of corn/maize) Having imperfectly developed kernels that are not tightly compressed against each other."
+],
+"ety": "From chaff + -y.",
+"examples": [
+"The burning, pungent scent of newly threshed wheat and a chaffy dust enveloped the village.",
+"He chewed the chaffy end of a wheat stalk."
+],
+"p": null
+},
+{
+"w": "inviter",
+"pos": "noun",
+"senses": [
+"Someone who invites."
+],
+"ety": "From invite + -er.",
+"examples": [
+"While the buyer of such an item wants a sui generis gift to impress a weekend-in-the-Hamptons inviter, how about sending that sum to the Fresh Air Fund in the hosts’ name so a child can enjoy country life, too?"
+],
+"p": null
+},
+{
+"w": "bibimbap",
+"pos": "noun",
+"senses": [
+"A Korean dish of white rice topped with vegetables, beef, a whole egg, and gochujang (chili pepper paste)."
+],
+"ety": "Borrowed from Korean 비빔밥 (bibimbap).",
+"examples": [
+"She'd made bibimbap with beansprouts, minced beef, and pre-soaked rice stir-fried in sesame oil."
+],
+"p": null
+},
+{
+"w": "geomagnetism",
+"pos": "noun",
+"senses": [
+"The magnetism of the Earth.",
+"The science that studies the magnetism of the Earth."
+],
+"ety": "From geo- + magnetism.",
+"examples": [],
+"p": null
+},
+{
+"w": "fatalistic",
+"pos": "adjective",
+"senses": [
+"Submissive to fate."
+],
+"ety": "From fatalist + -ic.",
+"examples": [],
+"p": null
+},
+{
+"w": "infobox",
+"pos": "noun",
+"senses": [
+"A consistently-formatted table which is present in articles with a common subject, typically at the top right corner of the page."
+],
+"ety": "From info + box.",
+"examples": [
+"Roughly every third Wikipedia article contains an infobox – a table that displays important facts about the subject"
+],
+"p": null
+},
+{
+"w": "appaloosa",
+"pos": "noun",
+"senses": [
+"A horse of a breed best known for its colorful spotted coat pattern."
+],
+"ety": "From a + Palouse + -a. From the phrase \"a Palouse horse\", referring to the Palouse River near which they were first encountered by non-Native Americans. The river is named for the Palouse region.",
+"examples": [],
+"p": "a-puh-LOO-suh"
+},
+{
+"w": "unshackle",
+"pos": "verb",
+"senses": [
+"To remove shackles from someone or something.",
+"To remove restrictions or inhibitions; to allow full freedom and power."
+],
+"ety": "From un- + shackle.",
+"examples": [
+"The captain ordered that the guards unshackle and release the prisoner, as he had served his sentence.",
+"The sooner the railway can unshackle itself from DfT the better."
+],
+"p": null
+},
+{
+"w": "balian",
+"pos": "noun",
+"senses": [
+"A Balinese shaman or traditional healer."
+],
+"ety": "Borrowed from Balinese balian.",
+"examples": [
+"A balian may be consulted in order to determine the location of a lost object or the identity of a thief.",
+"I had immediate misgivings when Komang, Thomas, and I visited the balian that evening.",
+"A balian has to be careful about what he or she eats and about sexual relations."
+],
+"p": null
+},
+{
+"w": "fulgurite",
+"pos": "noun",
+"senses": [
+"Glass formed by a lightning strike melting sand or other material."
+],
+"ety": "From Latin fulgur + -ite.",
+"examples": [],
+"p": null
+},
+{
+"w": "evocation",
+"pos": "noun",
+"senses": [
+"The act of calling out or forth, or evoking."
+],
+"ety": "From Middle French évocation.",
+"examples": [],
+"p": null
+},
+{
+"w": "slitted",
+"pos": "adjective",
+"senses": [
+"Having a slit or slits."
+],
+"ety": "From slit + -ed.",
+"examples": [
+"The walls are slitted with embrasures through which bowmen could fire, indicating that the belfry also served as a stronghold during border skirmishes."
+],
+"p": null
+},
+{
+"w": "antiemetic",
+"pos": "adjective",
+"senses": [
+"That combats nausea and vomiting"
+],
+"ety": "From anti- + emetic.",
+"examples": [],
+"p": "an-tee-uh-MET-ik"
+},
+{
+"w": "daymark",
+"pos": "noun",
+"senses": [
+"A mark (such as a tower) designed to help navigators to find their way during daylight hours."
+],
+"ety": "From day + mark.",
+"examples": [],
+"p": null
+},
+{
+"w": "zonda",
+"pos": "noun",
+"senses": [
+"A hot, dry wind of the Andes."
+],
+"ety": "From Spanish zonda.",
+"examples": [],
+"p": null
+},
+{
+"w": "bioacoustics",
+"pos": "noun",
+"senses": [
+"A cross-disciplinary science that combines biology and acoustics, investigating for instance the mechanisms of sound production and detection."
+],
+"ety": "From bio- + acoustics.",
+"examples": [
+"Scientists have used bioacoustics—a subfield of ecology that relies on sound to make environmental analyses—for studying bats from afar, dolphin communication patters and more."
+],
+"p": null
+},
+{
+"w": "furioso",
+"pos": "adverb",
+"senses": [
+"Rapidly and with passion."
+],
+"ety": "Borrowed from Italian. Doublet of furious.",
+"examples": [],
+"p": null
+},
+{
+"w": "disintegrator",
+"pos": "noun",
+"senses": [
+"A laser or similar weapon or device that can disintegrate matter."
+],
+"ety": "From disintegrate + -or.",
+"examples": [],
+"p": null
+},
+{
+"w": "tuart",
+"pos": "noun",
+"senses": [
+"Eucalyptus gomphocephala, an Australian tree with heavy, durable wood."
+],
+"ety": "From Nyunga duward.",
+"examples": [
+"Tuart is usually a tall tree attaining 25–40 m in height and 1–2 m dbh, but in the northern part of its distribution it may be reduced to about 10–15 m in height.",
+"As an artist keenly attracted to Western Australian gums, specifically karris and tuarts, van Raalte prioritized imaginative figurations of trees, rather than humans, in his etchings.",
+"However, due to overlogging, the tuart is a protected tree with conditions placed on logging."
+],
+"p": null
+},
+{
+"w": "prioritise",
+"pos": "verb",
+"senses": [
+"UK standard spelling of prioritize."
+],
+"ety": "From priority + -ise.",
+"examples": [
+"The principle of prioritising longer-distance trains by cutting services to wayside stations (often leading directly to their closure) is not new."
+],
+"p": null
+},
+{
+"w": "bloomery",
+"pos": "noun",
+"senses": [
+"A forge in which wrought iron is made straight from ore."
+],
+"ety": "From bloom (“metal, see etym.3”) + -ery.",
+"examples": [],
+"p": null
+},
+{
+"w": "hydrodynamical",
+"pos": "adjective",
+"senses": [
+"hydrodynamic"
+],
+"ety": "From hydro- + dynamical.",
+"examples": [],
+"p": null
+},
+{
+"w": "facecam",
+"pos": "noun",
+"senses": [
+"A live recording of the face or faces or a person or multiple people in an online video, especially let's play videos."
+],
+"ety": "From face + cam.",
+"examples": [],
+"p": null
+},
+{
+"w": "amphoe",
+"pos": "noun",
+"senses": [
+"An administrative subdivision of Thailand, smaller than a changwat."
+],
+"ety": "Borrowed from Thai อำเภอ (am-pəə, “district”).",
+"examples": [],
+"p": "AHM-pur"
+},
+{
+"w": "sarvodaya",
+"pos": "noun",
+"senses": [
+"A philosophy that emphasises socioeconomic equality, non-violence and community development."
+],
+"ety": "Borrowed from Gujarati સર્વોદય (sarvodya, “progress of all”), from Sanskrit सर्व (sarva) + उदय (udaya). Coined by Mahatma Gandhi in his Gujarati translation of John Ruskin's Unto This Last.",
+"examples": [],
+"p": null
+},
+{
+"w": "centralism",
+"pos": "noun",
+"senses": [
+"A system that centralizes, especially an administration of some kind."
+],
+"ety": "From central + -ism.",
+"examples": [],
+"p": "SEN-truh-lih-zum"
+},
+{
+"w": "niddah",
+"pos": "noun",
+"senses": [
+"Someone whom Halacha considers menstruant.",
+"The menstrual period."
+],
+"ety": "Borrowed from Hebrew נִדָּה (nidá).",
+"examples": [],
+"p": null
+},
+{
+"w": "genset",
+"pos": "noun",
+"senses": [
+"An internal combustion engine equipped with an electric generator, such as an industrial unit, a farmstead unit, or a range-extender trailer extending the range of battery-powered electric vehicles."
+],
+"ety": "Short for generator set.",
+"examples": [
+"Battery prototype unit 230002 has been made into a three-car hybrid unit with the insertion of a centre vehicle housing four diesel gensets."
+],
+"p": null
+}
+]
