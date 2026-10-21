@@ -105,6 +105,8 @@ canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: bloc
 .recap li + li { margin-top: 24px; }
 .facts { margin-top: 24px; font-size: 16px; line-height: 24px; color: var(--pencil); }
 .facts b { color: var(--ink); font-weight: 500; }
+/* Smaller inline text would otherwise stretch its line past 24px and push everything below off the rules. */
+.score small, .recap b, .recap .def, .facts b, .facts span, .reveal .lab { line-height: 1; }
 
 /* Page flip */
 .flipper { position: absolute; z-index: 5; pointer-events: none; transform-style: preserve-3d; }
