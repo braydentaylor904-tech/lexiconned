@@ -9,7 +9,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;700&family=Silkscreen&display=swap">
 <style>
-/* Layout: a pixel-art spiral notebook on a wooden desk. Only the right page is written on; sticky-note hints sit beside it. */
+/* Layout: a pixel-art spiral notebook on a wooden desk. The logo and sticky-note hints sit to its left; only the right page is written on. */
 :root {
   --wood: #4f2d1d;
   --paper: #f2e8cd;
@@ -31,18 +31,21 @@ body {
   margin: 0; position: relative; overflow-x: hidden;
   background: var(--wood); color: var(--ink);
   font-family: var(--hand); font-size: 18px;
-  padding-inline: 16px; padding-block: 36px 60px;
+  padding-inline: 16px; padding-block: 24px 60px;
   -webkit-font-smoothing: none; font-smooth: never;
 }
 canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: block; }
 #desk { position: absolute; left: 0; top: 0; z-index: 0; pointer-events: none; }
-.scene { position: relative; z-index: 1; display: flex; justify-content: center; align-items: flex-start; gap: 36px; flex-wrap: wrap; max-width: 1280px; margin: 0 auto; }
+.scene { position: relative; z-index: 1; display: grid; grid-template-columns: 360px minmax(0, 513px); grid-template-rows: auto 1fr;
+  grid-template-areas: "brand book" "side book"; gap: 0 48px; justify-content: center; align-items: start; max-width: 1100px; margin: 0 auto; }
+.brand { grid-area: brand; display: flex; flex-direction: column; align-items: center; gap: 18px; padding-top: 12px; }
 
 /* Notebook */
-.nb-col { display: flex; flex-direction: column; align-items: center; gap: 18px; flex: 0 1 auto; min-width: 0; max-width: 100%; }
 .title { margin: 0; font-family: var(--hand); font-weight: 700; font-size: clamp(38px, 9vw, 60px); line-height: 1; letter-spacing: .03em; color: var(--cream); text-shadow: 3px 3px 0 #1c0d07, 6px 6px 0 rgba(28,13,7,.45); }
 .title span { color: var(--note-y); }
-.book { position: relative; display: grid; grid-template-columns: 36px minmax(0, 450px); padding: 12px 15px 21px 12px; perspective: 2400px; max-width: 100%; }
+.book { grid-area: book; justify-self: center; width: 513px; position: relative; display: grid; grid-template-columns: 36px minmax(0, 450px); padding: 12px 15px 21px 12px; perspective: 2400px; max-width: 100%; }
+/* On wide screens the whole notebook is drawn 4/3 larger: 3px art pixels become exactly 4px, text grows to match. */
+@media (min-width: 1141px) { .scene { grid-template-columns: 360px minmax(0, 684px); } .book { zoom: 1.3333333; } }
 #bookCanvas { position: absolute; left: 0; top: 0; width: 100%; height: 100%; filter: drop-shadow(6px 6px 0 rgba(14,6,2,.5)); }
 .leftpage { display: none; }
 .page { position: relative; grid-column: 2; min-height: 624px; padding: 24px 18px 24px 54px; container-type: inline-size; }
@@ -116,7 +119,7 @@ canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: bloc
 .back { transform: rotateY(180deg); }
 
 /* Desk side: sticky notes, pencil */
-.side { flex: 0 0 168px; display: flex; flex-direction: column; align-items: center; gap: 22px; padding-top: 123px; }
+.side { grid-area: side; display: flex; flex-direction: column; align-items: center; gap: 22px; padding-top: 48px; }
 .desk-label { font-family: var(--label); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--cream); text-shadow: 3px 3px 0 #1c0d07; }
 #notes { display: flex; flex-direction: column; gap: 18px; align-items: center; width: 100%; }
 .note-wrap { filter: drop-shadow(4px 4px 0 rgba(14,6,2,.5)); width: 156px; max-width: 100%; }
@@ -139,9 +142,10 @@ canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: bloc
 .note.locked { opacity: .78; }
 #pencil { pointer-events: none; }
 
-@media (max-width: 760px) {
-  .scene { gap: 28px; }
-  .side { flex: 1 1 100%; padding-top: 0; gap: 14px; }
+@media (max-width: 959px) {
+  .scene { grid-template-columns: minmax(0, 513px); grid-template-rows: none; grid-template-areas: "brand" "book" "side"; gap: 24px; }
+  .brand { padding-top: 0; }
+  .side { padding-top: 0; gap: 14px; }
   #notes { flex-direction: row; justify-content: center; gap: 12px; }
   .note-wrap { flex: 1 1 0; width: auto; max-width: 156px; }
   .note { min-height: 84px; padding-top: 18px; }
@@ -171,14 +175,14 @@ dialog::backdrop { background: rgba(20,9,3,.6); }
 <body>
 <canvas id="desk" aria-hidden="true"></canvas>
 <div class="scene" id="scene">
-  <div class="nb-col">
-  <h1 class="title">Lexi<span>con</span>ned</h1>
-  <canvas id="pencil" aria-hidden="true"></canvas>
+  <div class="brand">
+    <h1 class="title">Lexi<span>con</span>ned</h1>
+    <canvas id="pencil" aria-hidden="true"></canvas>
+  </div>
   <div class="book" id="book">
     <canvas id="bookCanvas" aria-hidden="true"></canvas>
     <div class="leftpage" id="leftpage"></div>
     <main class="page" id="page"></main>
-  </div>
   </div>
   <aside class="side" aria-label="Hints">
     <div class="desk-label" id="hint-count"></div>
@@ -320,7 +324,10 @@ const METAL = {o: "#2c3036", lo: "#6c737d", mid: "#9aa2ad", hi: "#e1e6ec"};
 function drawBook() {
   const book = $("book"), page = $("page"), left = $("leftpage"), c = $("bookCanvas");
   page.style.minHeight = "";
-  page.style.minHeight = Math.max(624, Math.ceil(page.offsetHeight / 24) * 24) + "px";
+  // Tall enough for the content, and on wide screens tall enough to reach the bottom of the window.
+  const z = book.currentCSSZoom || 1, top = book.getBoundingClientRect().top + scrollY;
+  const fill = innerWidth > 959 ? Math.floor(((innerHeight - top - 24) / z - 33) / 24) * 24 : 0;
+  page.style.minHeight = Math.max(624, fill, Math.ceil(page.offsetHeight / 24) * 24) + "px";
   const W = Math.round(book.offsetWidth / PX), H = Math.round(book.offsetHeight / PX);
   if (!W || !H) return;
   sizeCanvas(c, W, H);
