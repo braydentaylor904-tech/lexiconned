@@ -9,6 +9,8 @@
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<!-- GoatCounter: cookie-free analytics. Page views and events are sent by track() below, never with personal data. -->
+<script id="gc" data-goatcounter="https://lexiconned.goatcounter.com/count" data-goatcounter-settings='{"no_onload": true}' async src="//gc.zgo.at/count.js"></script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;700&family=Silkscreen&display=swap">
@@ -217,7 +219,8 @@ dialog::backdrop { background: rgba(20,9,3,.6); }
 <footer class="credits">
   Definitions from <a href="https://wordnet.princeton.edu/" target="_blank" rel="noopener">WordNet 3.0</a> (Princeton University).
   Origins, pronunciations and example sentences adapted from <a href="https://en.wiktionary.org/" target="_blank" rel="noopener">Wiktionary</a>,
-  <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.<br>
+  This site uses privacy-friendly, cookie-free analytics (<a href="https://www.goatcounter.com/" target="_blank" rel="noopener">GoatCounter</a>).
 </footer>
 
 <dialog id="rules">
@@ -535,9 +538,25 @@ function flipTo(update) {
   a.onfinish = () => fl.remove();
 }
 
+/* Analytics: anonymous counts only (page views, puzzle started/finished with score, hints used).
+   Nothing is sent in ?day= preview mode, and the page path never includes the query string. */
+const GC_QUEUE = [];
+function track(path, title, event = true) {
+  if (PREVIEW !== null) return;
+  GC_QUEUE.push({path, title, event});
+  flushTrack();
+}
+function flushTrack() {
+  const gc = window.goatcounter;
+  if (!gc || !gc.count) return;
+  while (GC_QUEUE.length) gc.count(GC_QUEUE.shift());
+}
+const untouched = () => S.picks.every(p => p === null) && Object.values(S.hints).every(h => h === null);
+
 function finish() {
   const score = scoreOf();
   const st = store(KEY_STATS) || {played: 0, streak: 0, correct: 0, last: null};
+  if (st.last !== S.day) track(`finish-${score}/3`, `Finished today’s puzzle: ${score}/3`);
   if (PREVIEW === null && st.last !== S.day) {
     st.streak = score === 3 ? (st.last === S.day - 1 ? st.streak + 1 : 1) : 0;
     st.played += 1; st.correct += score; st.last = S.day;
@@ -555,9 +574,10 @@ function updateCountdown() {
 
 document.addEventListener("click", e => {
   const opt = e.target.closest("[data-opt]");
-  if (opt && !opt.disabled) { S.picks[S.cur] = +opt.dataset.opt; save(); render(); return; }
   const hint = e.target.closest("[data-hint]");
-  if (hint && !hint.disabled) { S.hints[hint.dataset.hint] = S.cur; save(); render(); return; }
+  if ((opt && !opt.disabled) || (hint && !hint.disabled)) { if (untouched()) track("start", "Started today’s puzzle"); }
+  if (opt && !opt.disabled) { S.picks[S.cur] = +opt.dataset.opt; save(); render(); return; }
+  if (hint && !hint.disabled) { track(`hint-${hint.dataset.hint}`, `Used hint: ${HINTS.find(h => h.id === hint.dataset.hint).name}`); S.hints[hint.dataset.hint] = S.cur; save(); render(); return; }
   if (e.target.closest("#next")) {
     if (S.cur === 2) finish(); else flipTo(() => { S.cur++; save(); render(); });
     return;
@@ -610,6 +630,8 @@ function start() {
   CHECK = spriteURL(["......X", ".....XX", "X...XX.", "XX.XX..", ".XXX...", "..X...."], "#2f7d45");
   CROSS = spriteURL(["X.....X", "XX...XX", ".XX.XX.", "..XXX..", ".XX.XX.", "XX...XX"], "#c23b2e");
   drawPencil();
+  track(location.pathname, document.title, false);
+  $("gc").addEventListener("load", flushTrack);
   message("Opening today’s page…");
   load();
   clearInterval(tick);
