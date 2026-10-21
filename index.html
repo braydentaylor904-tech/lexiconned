@@ -46,11 +46,6 @@ canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: bloc
 #bookCanvas { position: absolute; left: 0; top: 0; width: 100%; height: 100%; filter: drop-shadow(6px 6px 0 rgba(14,6,2,.5)); }
 .leftpage { display: none; }
 .page { position: relative; grid-column: 2; min-height: 624px; padding: 24px 18px 24px 54px; container-type: inline-size; }
-@media (min-width: 1250px) {
-  .book { grid-template-columns: 450px 48px 450px; }
-  .leftpage { display: block; grid-column: 1; }
-  .page { grid-column: 3; }
-}
 @media (max-width: 480px) {
   .book { grid-template-columns: 24px minmax(0, 1fr); }
   .page { padding-left: 42px; padding-right: 12px; }
