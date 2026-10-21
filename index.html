@@ -36,16 +36,20 @@ body {
 }
 canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: block; }
 #desk { position: absolute; left: 0; top: 0; z-index: 0; pointer-events: none; }
-.scene { position: relative; z-index: 1; display: grid; grid-template-columns: 360px minmax(0, 513px); grid-template-rows: auto 1fr;
-  grid-template-areas: "brand book" "side book"; gap: 0 48px; justify-content: center; align-items: start; max-width: 1100px; margin: 0 auto; }
-.brand { grid-area: brand; display: flex; flex-direction: column; align-items: center; gap: 18px; padding-top: 12px; }
+.scene { position: relative; z-index: 1; display: grid; grid-template-columns: 36px 384px 48px minmax(0, 513px); grid-template-rows: auto 1fr;
+  grid-template-areas: "brand brand . book" "pencil side . book"; justify-content: center; align-items: start; max-width: 1200px; margin: 0 auto; }
+.brand { grid-area: brand; display: flex; flex-direction: column; align-items: center; padding-top: 12px; }
+/* The pencil lies vertically beside the sticky notes on desktop, horizontally under the logo on narrow screens. */
+.pencil-wrap { grid-area: pencil; position: relative; align-self: center; width: 27px; height: 354px; margin-top: 60px; }
+.pencil-wrap #pencil { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%) rotate(-90deg); }
 
 /* Notebook */
 .title { margin: 0; font-family: var(--hand); font-weight: 700; font-size: clamp(38px, 9vw, 60px); line-height: 1; letter-spacing: .03em; color: var(--cream); text-shadow: 3px 3px 0 #1c0d07, 6px 6px 0 rgba(28,13,7,.45); }
 .title span { color: var(--note-y); }
+@media (min-width: 1020px) { .title { font-size: 76px; } }
 .book { grid-area: book; justify-self: center; width: 513px; position: relative; display: grid; grid-template-columns: 36px minmax(0, 450px); padding: 12px 15px 21px 12px; perspective: 2400px; max-width: 100%; }
 /* On wide screens the whole notebook is drawn 4/3 larger: 3px art pixels become exactly 4px, text grows to match. */
-@media (min-width: 1141px) { .scene { grid-template-columns: 360px minmax(0, 684px); } .book { zoom: 1.3333333; } }
+@media (min-width: 1190px) { .scene { grid-template-columns: 36px 384px 48px minmax(0, 684px); } .book { zoom: 1.3333333; } }
 #bookCanvas { position: absolute; left: 0; top: 0; width: 100%; height: 100%; filter: drop-shadow(6px 6px 0 rgba(14,6,2,.5)); }
 .leftpage { display: none; }
 .page { position: relative; grid-column: 2; min-height: 624px; padding: 24px 18px 24px 54px; container-type: inline-size; }
@@ -141,16 +145,27 @@ canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: bloc
 .note.used b { text-decoration: line-through 2px; }
 .note.locked { opacity: .78; }
 #pencil { pointer-events: none; }
+@media (min-width: 1020px) {
+  .side { padding-top: 36px; gap: 24px; }
+  .desk-label { font-size: 13px; }
+  #notes { gap: 24px; }
+  .note-wrap { width: 264px; }
+  .note { min-height: 150px; padding: 30px 18px 18px; gap: 6px; background: linear-gradient(rgba(0,0,0,.07) 0 15px, transparent 15px), var(--c); }
+  .note b { font-size: 19px; }
+  .note small { font-size: 21px; line-height: 27px; }
+}
 
-@media (max-width: 959px) {
-  .scene { grid-template-columns: minmax(0, 513px); grid-template-rows: none; grid-template-areas: "brand" "book" "side"; gap: 24px; }
+@media (max-width: 1019px) {
+  .scene { grid-template-columns: minmax(0, 513px); grid-template-rows: none; grid-template-areas: "brand" "pencil" "book" "side"; gap: 24px; }
   .brand { padding-top: 0; }
+  .pencil-wrap { align-self: auto; justify-self: center; width: auto; height: auto; margin: -6px 0 0; }
+  .pencil-wrap #pencil { position: static; transform: none; }
   .side { padding-top: 0; gap: 14px; }
   #notes { flex-direction: row; justify-content: center; gap: 12px; }
   .note-wrap { flex: 1 1 0; width: auto; max-width: 156px; }
   .note { min-height: 84px; padding-top: 18px; }
 }
-@media (max-width: 480px) { .note small { display: none; } .note { min-height: 60px; } #pencil { display: none; } }
+@media (max-width: 480px) { .note small { display: none; } .note { min-height: 60px; } .pencil-wrap { display: none; } }
 
 /* Rules card */
 dialog { border: 0; padding: 0; background: transparent; max-width: min(420px, calc(100vw - 32px)); filter: drop-shadow(6px 6px 0 rgba(14,6,2,.55)); }
@@ -177,8 +192,8 @@ dialog::backdrop { background: rgba(20,9,3,.6); }
 <div class="scene" id="scene">
   <div class="brand">
     <h1 class="title">Lexi<span>con</span>ned</h1>
-    <canvas id="pencil" aria-hidden="true"></canvas>
   </div>
+  <div class="pencil-wrap"><canvas id="pencil" aria-hidden="true"></canvas></div>
   <div class="book" id="book">
     <canvas id="bookCanvas" aria-hidden="true"></canvas>
     <div class="leftpage" id="leftpage"></div>
@@ -326,7 +341,7 @@ function drawBook() {
   page.style.minHeight = "";
   // Tall enough for the content, and on wide screens tall enough to reach the bottom of the window.
   const z = book.currentCSSZoom || 1, top = book.getBoundingClientRect().top + scrollY;
-  const fill = innerWidth > 959 ? Math.floor(((innerHeight - top - 24) / z - 33) / 24) * 24 : 0;
+  const fill = innerWidth > 1019 ? Math.floor(((innerHeight - top - 24) / z - 33) / 24) * 24 : 0;
   page.style.minHeight = Math.max(624, fill, Math.ceil(page.offsetHeight / 24) * 24) + "px";
   const W = Math.round(book.offsetWidth / PX), H = Math.round(book.offsetHeight / PX);
   if (!W || !H) return;
