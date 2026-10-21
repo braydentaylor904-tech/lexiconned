@@ -12,7 +12,7 @@ A daily vocabulary game: three hard words a day, four definitions each, one real
 
 Preview any day locally with `?day=N`.
 
-Deployment: `pipeline/publish.sh` rebuilds, pushes `main`, and force-updates the `gh-pages` branch with only `index.html`, `.nojekyll` and `words/`. GitHub Pages serves `gh-pages`, so nothing in `pipeline/` or `data/` is published.
+Deployment: `pipeline/publish.sh` rebuilds, pushes `main`, and force-updates the `gh-pages` branch with only `index.html`, `.nojekyll`, `CNAME` (playlexiconned.com) and `words/`. GitHub Pages serves `gh-pages`, so nothing in `pipeline/` or `data/` is published.
 
 ```bash
 python3 -m http.server 8417
