@@ -1,5 +1,5 @@
 #!/bin/sh
-# Rebuild, then publish only the game (index.html, words/, plus CNAME for the custom domain) to the gh-pages branch that GitHub Pages serves.
+# Rebuild, then publish only the game (index.html, words/, icons, plus CNAME for the custom domain) to the gh-pages branch that GitHub Pages serves.
 # pipeline/ (including review.html, which shows every answer) and data/ are never published.
 set -e
 cd "$(dirname "$0")/.."
@@ -12,8 +12,8 @@ git worktree add -q --detach "$tmp"
   cd "$tmp"
   git checkout -q --orphan gh-pages-new
   git rm -q -r --cached . >/dev/null
-  find . -mindepth 1 -maxdepth 1 ! -name .git ! -name index.html ! -name words ! -name .nojekyll ! -name CNAME -exec rm -rf {} +
-  git add index.html .nojekyll CNAME words
+  find . -mindepth 1 -maxdepth 1 ! -name .git ! -name index.html ! -name words ! -name .nojekyll ! -name CNAME ! -name 'favicon*' ! -name apple-touch-icon.png -exec rm -rf {} +
+  git add index.html .nojekyll CNAME favicon.ico favicon-16.png favicon-32.png apple-touch-icon.png words
   git commit -q -m "Publish $(date -u +%Y-%m-%d)"
   git push -q -f origin HEAD:gh-pages
 )
