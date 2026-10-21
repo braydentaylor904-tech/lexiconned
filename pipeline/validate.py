@@ -48,10 +48,14 @@ def check_fakes(w, pos, real, r, f, hooks=None):
             errs.append(f"{w}: fake opens differently from the real definition: {x!r}")
         if norm(x) == norm(real):
             errs.append(f"{w}: fake equals the real definition")
+        if re.search(r"(?i)\be\.?g\.", x) and not re.search(r"(?i)\be\.?g\.", real):
+            errs.append(f"{w}: fake has an 'e.g.' clause but the real definition doesn't: {x!r}")
     if hooks is not None:
         if len(hooks) != 3:
             return errs + [f"{w}: need one hook per fake"]
         for h, x in zip(hooks, f):
+            if h == "(field)":   # thin roots: rests on subject area and sentence only (FAKES.md rule 6)
+                continue
             if not h or norm(h) not in norm(r):
                 errs.append(f"{w}: hook {h!r} is not in the roots line {r!r}")
                 continue
