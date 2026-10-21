@@ -1,0 +1,522 @@
+[
+{
+"w": "exaction",
+"pos": "noun",
+"d": "Act of demanding or levying by force or authority",
+"r": "Latin exāctiō",
+"s": "Exaction of various dues and fees.",
+"old_f": [
+"Act of measuring or weighing with great precision",
+"Act of removing a tooth or a splinter by pulling",
+"Act of praising or raising up to the highest rank"
+],
+"ety": "From Middle English exaccioun, exaccion, from Middle French exaction, from Old French, from Latin exāctiō."
+},
+{
+"w": "hecatomb",
+"pos": "noun",
+"d": "A great sacrifice; an ancient Greek or Roman sacrifice of 100 oxen",
+"r": "Greek hekatómbē “great sacrifice of a hundred oxen”, from hekatón “hundred”",
+"s": "For the god they speedily stationed the sacred hecatomb all in good order surrounding the well-built altar.",
+"old_f": [
+"A great tomb; an ancient Greek or Roman burial chamber cut into rock",
+"A great feast; an ancient Greek or Roman banquet held for a hundred guests",
+"A great hall; an ancient Greek or Roman council chamber of 100 seats"
+],
+"ety": "The noun is a learned borrowing from Latin hecatombē (“great sacrifice of a hundred oxen, hecatomb”), from Ancient Greek ἑκατόμβη (hekatómbē, “great sacrifice of a hundred oxen, hecatomb; any animal sacrifice or large sacrifice”, from ἑκᾰτόν (hekătón, “hundred”) + βοῦς (boûs, “cattle, cow, ox”)). The verb is derived from the noun."
+},
+{
+"w": "zeroth",
+"pos": "adjective",
+"d": "Preceding even the first",
+"r": "Zero + -th",
+"s": "A and C are in equilibrium following the Zeroth Law of Thermodynamics.",
+"old_f": [
+"Following the very last",
+"Lying at the center",
+"Twice the first"
+],
+"ety": "From zero + -th (ordinal suffix)."
+},
+{
+"w": "asperity",
+"pos": "noun",
+"d": "Something hard to endure",
+"r": "Latin asperitās “roughness, severity, harshness”, from asper “coarse, rough”",
+"s": "Corresponding in their nature to the aridity and asperity of the land.",
+"old_f": [
+"Deep hope or ambition",
+"A pale yellow color",
+"A slow, deep breath"
+],
+"ety": "From Middle English asprete, asperite, from Old French aspreté (modern French âpreté), from Latin asperitātem, the accusative singular of asperitās (“roughness, unevenness; fierceness, severity; harshness, sharpness; acidity, tartness”), from asper (“coarse, rough, uneven; bitter, fierce harsh; rude, unrefined; etc.”) (probably from Proto-Indo-European *h₂esp- (“to cut”)) + -itās (a variant of -tās (suffix forming feminine abstract nouns indicating a state of being)). The spelling of the English word is influenced directly by Latin asperitātem. Doublet of asperitas."
+},
+{
+"w": "witting",
+"pos": "adjective",
+"d": "Aware or knowing",
+"r": "Present participle of wit, used as an adjective",
+"s": "Sometimes the committing authority, who is usually located in the United States, is the only person who is witting of the CIA officer's true affiliation.",
+"old_f": [
+"Clever and amusing",
+"Drooping and faded",
+"Woven of willow"
+],
+"ety": "Participle adjective of wit."
+},
+{
+"w": "militate",
+"pos": "verb",
+"d": "Have force or influence; bring about an effect or change",
+"r": "Latin mīlitātus, from mīlitō; compare French militer",
+"s": "Trade sanctions militate against international cooperation.",
+"old_f": [
+"Call up for service; gather a body of soldiers for war",
+"Lessen in force; soften the effect of a punishment",
+"Copy closely; follow the example of another"
+],
+"ety": "First attested in 1598; borrowed from Latin mīlitātus, perfect passive participle from mīlitō, see -ate (verb-forming suffix). Semantically from its cognate, French militer."
+},
+{
+"w": "caitiff",
+"pos": "noun",
+"d": "A cowardly and despicable person",
+"r": "Anglo-Norman caitif “captive”, from Latin captīvus",
+"s": "Bring hither a pair of cow's hooves to out face this contumelious caitiff.",
+"old_f": [
+"A small wild cat of forests",
+"A slight quarrel or spat",
+"A rich silk cloth from Persia"
+],
+"ety": "From Middle English caitif, from Anglo-Norman caitif (“captive”), akin to Old French chaitif (French chétif) and Middle Dutch keytyf, from a Vulgar Latin *cactīvus alteration via Gaulish influence from Latin captīvus (“captive”); compare Italian cattivo (“bad, wicked”). Doublet of captive."
+},
+{
+"w": "chattel",
+"pos": "noun",
+"d": "Personal as opposed to real property; any tangible movable property (furniture or domestic animals or a car etc)",
+"r": "Old French chatel, from Medieval Latin capitāle, from Latin caput “head”; a doublet of cattle",
+"s": "Not all his servants and chattels are wraiths!",
+"old_f": [
+"Idle as opposed to useful talk; any light and pleasant conversation (gossip or small talk or friendly banter etc)",
+"Stone as opposed to wooden buildings; any large and fortified residence (castle or manor or palace etc)",
+"Fresh as opposed to salted meat; any food that is eaten on the day it is cooked (stews or roasts or pies etc)"
+],
+"ety": "From Middle English chatel, from Old French chatel, from Medieval Latin capitāle (English capital), from Latin capitālis (“of the head”), from caput (“head”) + -alis (“-al”). Compare the doublet cattle (“cows”), which is from an Anglo-Norman variant. Compare also capital and kith and kine (“all one’s possessions”), which also use “cow” to mean “property”."
+},
+{
+"w": "laggard",
+"pos": "noun",
+"d": "Someone who takes more time than necessary; someone who lags behind",
+"r": "Lag + -ard",
+"s": "Residential property prices in the United States climbed at their fastest pace in five months in October, suggesting that the housing market, a laggard of the economy, is gaining steam.",
+"old_f": [
+"Someone who keeps watch at night; someone who guards a gate",
+"Someone who drinks too much beer; someone who visits taverns often",
+"Someone who lives in a hut by a lake; someone who fishes for eels"
+],
+"ety": "From lag + -ard."
+},
+{
+"w": "mountebank",
+"pos": "noun",
+"d": "A flamboyant deceiver; one who attracts customers with tricks or jokes",
+"r": "Archaic Italian montambanco “quack who mounts a bench to hawk his wares”",
+"s": "Donne was a mountebank who wrapped up his lack of meaning in hard words.",
+"old_f": [
+"A steep slope of earth; one that is built up to defend a fort from attack",
+"A mounted soldier; one who rides ahead of the army to scout the land",
+"A money lender; one who sets up his table in the open market square"
+],
+"ety": "From archaic Italian montambanco (“quack who mounts a bench to hawk his wares”), contracted from monta-in-banco (“mount on bench”)."
+},
+{
+"w": "lineament",
+"pos": "noun",
+"d": "A characteristic property that defines the apparent individual nature of something",
+"r": "Latin lineamentum, from linea “line”",
+"s": "Fortune reigns in gifts of the world, not in the lineaments of Nature.",
+"old_f": [
+"A fine linen cloth that is used to wrap the bodies of the dead before burial",
+"A soothing oil that is rubbed into the skin to relieve aches and stiffness",
+"A straight row of soldiers that is formed across a field before a battle"
+],
+"ety": "From Middle French linéament, from Latin lineamentum, from linea (“line”)."
+},
+{
+"w": "evanescent",
+"pos": "adjective",
+"d": "Tending to vanish like vapor",
+"r": "Latin ēvānēscēns “disappearing, vanishing”, from ē- + vānēscō “to vanish”",
+"s": "And I was pale, and clear, and evanescent, like the light.",
+"old_f": [
+"Tending to spread good news",
+"Tending to avoid the question",
+"Tending to level out evenly"
+],
+"ety": "Borrowed from French évanescent (“evanescent”), from Latin ēvānēscēns (“disappearing, vanishing”), present participle of ēvānēscō (“to disappear, vanish; to die out, fade away; to lapse”), from ē- (variant of ex- (prefix meaning ‘away, out’)) + vānēscō (“to vanish”) (from vānus (“empty, vacant, void”), from Proto-Indo-European *h₁weh₂- (“to abandon, leave”)) + -ēscō (suffix forming verbs with the sense ‘to become’))."
+},
+{
+"w": "evitable",
+"pos": "adjective",
+"d": "Capable of being avoided or warded off",
+"r": "Latin ēvītābilis “avoidable”, from ēvītō “to avoid”",
+"s": "The tragic consequences were evitable.",
+"old_f": [
+"Capable of being proved by evidence",
+"Capable of being turned out of a home",
+"Capable of being brought back to life"
+],
+"ety": "From Middle French evitable (modern French évitable), from Latin ēvītābilis (“avoidable”), from ēvītō (“to avoid”) + -bilis (“-able”, able or worthy to be). The former is derived from ē- (“out”) + vītō (“to avoid, evade; to shun”) (possibly from Proto-Indo-European *dwidʰeh₁- (“separate, set apart”), a compound of *dwi- (“two”) + *dʰeh₁- (“to put”))."
+},
+{
+"w": "phantasmal",
+"pos": "adjective",
+"d": "Resembling or characteristic of a phantom",
+"r": "Phantasm + -al",
+"s": "Not more endowed with actual life, Than this phantasmal portraiture, Of wandering human thought.",
+"old_f": [
+"Resembling or characteristic of a pheasant",
+"Resembling or characteristic of a pharmacist",
+"Resembling or characteristic of a panther"
+],
+"ety": "From phantasm or phantasma (“phantasm”) + -al (suffix meaning ‘of or pertaining to’ forming adjectives)."
+},
+{
+"w": "declaim",
+"pos": "verb",
+"d": "Recite in elocution",
+"r": "Latin dēclāmō, via Middle French declamer",
+"s": "The students declaim twice a week.",
+"old_f": [
+"Refuse a request",
+"Give up a claim",
+"Remove the shell"
+],
+"ety": "From Middle French declamer, from Latin dēclāmō."
+},
+{
+"w": "chiasmus",
+"pos": "noun",
+"d": "Inversion in the second of two parallel phrases",
+"r": "Greek khiasmós, from khīázō “to mark with an X”",
+"s": "The realization that Mawlānā was using parallelism and chiasmus to organize the higher levels of his work has been a major surprise.",
+"old_f": [
+"Repetition of the first word in each of several lines",
+"Omission of a conjunction between a series of clauses",
+"Exaggeration of a statement for comic or dramatic effect"
+],
+"ety": "Learned borrowing from Latin chiasmus, borrowed from Ancient Greek χιασμός (khiasmós), from χῑᾰ́ζω (khīắzō, “to mark with an X”) + -μός (-mós)."
+},
+{
+"w": "propound",
+"pos": "verb",
+"d": "Put forward, as of an idea",
+"r": "Latin prōpōnere “to put forward”, from prō- + pōnere “to put”; a doublet of propose",
+"s": "Today I'll expound at length the theory that I propounded last year.",
+"old_f": [
+"Strike hard, as with a hammer",
+"Prop up, as with a beam",
+"Shut in, as with a fence"
+],
+"ety": "From the Middle English proponen (“to put forward”), from Latin prōpōnere (“to put forward”), from prō- (“before”) + pōnere (“to put”). Doublet of propose. Compare expound."
+},
+{
+"w": "baluster",
+"pos": "noun",
+"d": "One of a number of closely spaced supports for a railing",
+"r": "Italian balaustro “pillar”, from balausta “wild pomegranate flower”",
+"s": "Nick looked at the floor, and at the rhythm of the black-and-gilt S-shaped balusters.",
+"old_f": [
+"One of a number of long poles used to push a barge along",
+"One of a number of large stones hurled by a siege engine",
+"One of a number of thin strips of lead in a window"
+],
+"ety": "Borrowed from Middle French balustre, from Italian balaustro (“pillar”), from balausta, balaustio (“wild pomegranate flower”), from Latin balaustium, from Ancient Greek βαλαύστιον (balaústion), from Semitic (compare Classical Syriac ܒܠܳܨܳܐ (blāṣā, “pomegranate shoot”)). Doublet of banister."
+},
+{
+"w": "beguile",
+"pos": "verb",
+"d": "Influence by slyness",
+"r": "Middle English begilen: be- + guile",
+"s": "I will never touch The Orb, even though its mysterious glow seduces and beguiles.",
+"old_f": [
+"Begin again",
+"Plead for alms",
+"Chase with dogs"
+],
+"ety": "From Middle English begilen, begylen; equivalent to be- + guile. Compare Middle Dutch begilen (“to beguile”). Doublet of bewile."
+},
+{
+"w": "perquisite",
+"pos": "noun",
+"d": "An incidental benefit awarded for certain types of employment (especially if it is regarded as a right)",
+"r": "Medieval Latin perquīsītum “something acquired for profit”",
+"s": "The perquisites of this job include health insurance and a performance bonus.",
+"old_f": [
+"A formal condition that must be met before a person may enter a profession (especially by law)",
+"A careful search that is made of a person or premises (especially by the police)",
+"A small jug that is used for pouring cream at the table (especially at tea)"
+],
+"ety": "Borrowed from Medieval Latin perquīsītum (“something acquired for profit”)."
+},
+{
+"w": "cittern",
+"pos": "noun",
+"d": "A 16th century musical instrument resembling a guitar with a pear-shaped soundbox and wire strings",
+"r": "A blend of cither + gittern",
+"s": "Antwerp was world-famous for its harpsichords, but it was also a centre, in the 16th century, where citterns, lutes, viols and later violins were constructed with skill.",
+"old_f": [
+"A 16th century drinking vessel resembling a tankard with a hinged lid and pewter handle",
+"A 16th century sea bird resembling a gull with a forked tail and black cap",
+"A 16th century fortress resembling a tower with a square keep and round turrets"
+],
+"ety": "Blend of cither + gittern."
+},
+{
+"w": "belabour",
+"pos": "verb",
+"d": "To work at or to absurd length",
+"r": "Be- “on, upon, about, over” + labour",
+"s": "And so, to belabour the school metaphor, diehard fans of both those fallen leaders resent this pair for snitching in class.",
+"old_f": [
+"Assist a woman in childbirth",
+"Mark with a paper label",
+"Mock with a cruel nickname"
+],
+"ety": "From be- (“on, upon, about, over”) + labour. Compare bework, betoil, beswink."
+},
+{
+"w": "aureate",
+"pos": "adjective",
+"d": "Elaborately or excessively ornamented",
+"r": "Latin aureatus “adorned with gold”, from aureus “golden”",
+"s": "Alike to no such aureate Earth are turn'd, As, buried once, Men want dug up again.",
+"old_f": [
+"Crowned with bay leaves",
+"Shaped like an ear",
+"Glowing at dawn"
+],
+"ety": "Borrowed from Latin aureatus (“adorned or decorated with gold”). Equivalent to Latin aureus (“golden, gilded”) + -ate (adjective-forming suffix)."
+},
+{
+"w": "falciform",
+"pos": "adjective",
+"d": "Curved like a sickle",
+"r": "Latin falx “sickle” + -iform",
+"s": "Leaving little red falciform marks.",
+"old_f": [
+"Hooked like a falcon",
+"Shaped like a funnel",
+"Folded like a fan"
+],
+"ety": "From Latin falx (“sickle”, stem falc-) + English -iform (“-shaped”)."
+},
+{
+"w": "scarper",
+"pos": "verb",
+"d": "Flee; take to one’s heels; cut and run",
+"r": "Probably Italian scappare “to run away, escape”",
+"s": "A horse takes fright and \"scarpers,\" or runs away.",
+"old_f": [
+"Scrape; clean a surface with a sharp blade",
+"Wound; mark the skin with a deep gash",
+"Scatter; throw seed across a wide field"
+],
+"ety": "The verb is probably borrowed from Italian scappare (“to run away, escape, flee”), from Vulgar Latin *excappāre (“to escape”), from Latin ex- (prefix meaning ‘away; out’) + cappa (“(Late Latin) cape, cloak (usually with a hood); (Medieval Latin) cap; headwear”) (further etymology uncertain, probably ultimately from caput (“head”), from dialectal Proto-Indo-European *káput (“head”)) + -āre (the present active infinitive of -ō (suffix forming regular first-conjugation verbs)). Around World War I (1914–1918), the English word was influenced by the Cockney rhyming slang term Scapa Flow (“to go”). "
+},
+{
+"w": "revenant",
+"pos": "noun",
+"d": "A person who returns after a lengthy absence",
+"r": "French revenant, present participle of revenir “to return”",
+"s": "The undergraduates, our fogey revenant observes, look much as they did.",
+"old_f": [
+"A person who avenges a wrong",
+"A person who collects taxes for a king",
+"A person who honors a saint with gifts"
+],
+"ety": "19th century. From French revenant, the present participle of revenir (“to return”). Compare revenue."
+},
+{
+"w": "assignation",
+"pos": "noun",
+"d": "A secret rendezvous (especially between lovers)",
+"r": "Latin assīgnātiō",
+"s": "While nymphs take treats, or assignations give.",
+"old_f": [
+"A small signet ring (especially of gold)",
+"A sudden murder (especially of rulers)",
+"A slow dance (especially at weddings)"
+],
+"ety": "From Middle English assignacioun, from Old French assignacion, from Latin assīgnātiō."
+},
+{
+"w": "concordat",
+"pos": "noun",
+"d": "A signed written agreement between two or more parties (nations) to perform some action",
+"r": "French concordat, from Latin concordatum",
+"s": "French ambassadors are expected, to set the seal on his concordat.",
+"old_f": [
+"A joint performance given by two or more choirs (singers) to celebrate some occasion",
+"A shared kitchen used by two or more families (households) to prepare some meals",
+"A large public hall used by two or more guilds (craftsmen) to hold some meeting"
+],
+"ety": "From French concordat, from Latin concordatum."
+},
+{
+"w": "curtilage",
+"pos": "noun",
+"d": "The enclosed land around a house or other building",
+"r": "Anglo-Norman curtilage, from Old French cortillage “vegetable garden”",
+"s": "But fallen trees certainly are, given the control the railway has over its own curtilage.",
+"old_f": [
+"The heavy curtain hung behind an altar or stage",
+"The short fee paid to cross a bridge or ferry",
+"The stable yard where carriages are kept and repaired"
+],
+"ety": "Inherited from Middle English courtelage, curtilage, curtylage (“vegetable garden; croft; gardening, farming”), from Anglo-Norman curtilage, from Old French cortillage, courtillage (modern French courtillage (obsolete); compare Medieval Latin cortilagium, curtilagium), from cortil, cortill (“small court, garth”) + -age (suffix denoting a relationship with a place). Cortil, cortill are derived from cort, curt (“court of a monarch”) + -il (suffix forming place names); and cort, curt from Latin cōrtem, the accusative singular form of cōrs, a variant of cohors (“court; enclosure; farmyard; etc.”),"
+},
+{
+"w": "locution",
+"pos": "noun",
+"d": "A word or phrase that particular people use in particular situations",
+"r": "Latin locūtiō “speech”, from loquor “speak”",
+"s": "The television show host is widely recognized for his all-too-common locutions.",
+"old_f": [
+"A place or position that particular people choose for particular meetings",
+"A medicine or tonic that particular doctors give for particular illnesses",
+"A lock or bolt that particular guards use for particular doors"
+],
+"ety": "Borrowed from Latin locūtiō, locūtiōnem (“speech”), from loquor (“speak”). Compare the French cognate locution."
+},
+{
+"w": "doleful",
+"pos": "adjective",
+"d": "Filled with or evoking sadness",
+"r": "Middle English doleful: dole + -ful",
+"s": "A doleful expression that tugged at my heartstrings.",
+"old_f": [
+"Filled with charity and gifts",
+"Fond of dolls and toys",
+"Shaped like a dome"
+],
+"ety": "From Middle English doleful, doolful, deolful, equivalent to dole + -ful."
+},
+{
+"w": "ascetic",
+"pos": "noun",
+"d": "Someone who practices self denial as a spiritual discipline",
+"r": "Greek askētikós, from askētḗs “monk, hermit”, from askéō “to exercise”",
+"s": "Female ascetics find shelter in a wide variety of establishments and vary greatly in the degree to which they travel.",
+"old_f": [
+"Someone who studies beauty and good taste in the arts",
+"Someone who climbs mountains for sport and adventure",
+"Someone who examines accounts for errors and fraud"
+],
+"ety": "From Medieval Latin asceticus, from Ancient Greek ἀσκητικός (askētikós), from ἀσκητής (askētḗs, “monk, hermit”), from ἀσκέω (askéō, “to exercise”)."
+},
+{
+"w": "intransigent",
+"pos": "adjective",
+"d": "Impervious to pleas, persuasion, requests, reason",
+"r": "French intransigeant, from Spanish intransigente, from Latin in- + trānsigō “to come to an understanding”",
+"s": "Don't waste your time trying to change his mind: he's completely intransigent.",
+"old_f": [
+"Passing through without stopping",
+"Lacking any clear meaning or sense",
+"Unable to be translated into another language"
+],
+"ety": "Borrowed from French intransigeant, from Spanish intransigente, from Latin in- (“un-, not”) + trānsigēns, present participle of trānsigō (“to come to an understanding”), from trāns (“across”) + agō (“to do”)."
+},
+{
+"w": "excursus",
+"pos": "noun",
+"d": "A message that departs from the main subject",
+"r": "Latin excursus “excursion”; a doublet of excurse",
+"s": "Part III (Chapters 12 to 16) includes an excursus which leads us to the use of Esperanto outside the community of its speakers.",
+"old_f": [
+"A curse that is spoken against an enemy",
+"A short trip that is taken for pleasure",
+"A long poem that is sung at a funeral"
+],
+"ety": "Learned borrowing from Latin excursus (“excursion”). Doublet of excurse."
+},
+{
+"w": "pallid",
+"pos": "adjective",
+"d": "Abnormally deficient in color as suggesting physical or emotional distress",
+"r": "Latin pallidus; a doublet of pale",
+"s": "The patient left the hospital but was very pallid.",
+"old_f": [
+"Abnormally thick in texture as suggesting long cooking or poor preparation",
+"Abnormally loud in tone as suggesting great anger or emotional strain",
+"Abnormally swollen in shape as suggesting injury or a painful sting"
+],
+"ety": "From Latin pallidus. Doublet of pale."
+},
+{
+"w": "mercurial",
+"pos": "adjective",
+"d": "Liable to sudden unpredictable change",
+"r": "Middle English mercurial, via Anglo-Norman and Old French",
+"s": "Lebanon has shown once again that it is a land of dazzling deals and mercurial personalities.",
+"old_f": [
+"Inclined to show kindness and pity",
+"Relating to trade and buying",
+"Paid for by the hour"
+],
+"ety": "Noun sense 1 (“(obsolete) plant known as mercury”) is from Middle English mercurial (“a plant, probably the goosefoot (Chenopodium); (possibly) dog’s mercury (Mercurialis perennis)”), from Anglo-Norman mercurial, Old French mercurial, or directly from their etymon Latin mercuriālis (“a plant, probably annual mercury (Mercurialis annua)”), short for herba mercuriālis (“(probably) annual mercury”, literally “herb or plant of the god Mercury”). Mercuriālis (“pertaining to the Roman god Mercury”, adjective) is derived from Mercurius (“the Roman god Mercury”) + -ālis (suffix forming adjectives of r"
+},
+{
+"w": "effervesce",
+"pos": "verb",
+"d": "Become bubbly or frothy or foaming",
+"r": "Latin effervescere “to boil up”",
+"s": "There the untasted liquor effervesces.",
+"old_f": [
+"Become shy or timid and withdrawn",
+"Become weak or tired and listless",
+"Become fertile or ripe and fruitful"
+],
+"ety": "From Latin effervescere (“to boil up”). By surface analysis, ef- + Latin ferv- + -esce."
+},
+{
+"w": "castellated",
+"pos": "adjective",
+"d": "Having or resembling repeated square indentations like those in a battlement",
+"r": "Medieval Latin castellātus “fortified”",
+"s": "Finally he walked slowly into a vast Italian space, with towers and castellated roofs.",
+"old_f": [
+"Having or resembling small round pebbles like those on a beach",
+"Having or containing many small rooms like those in a monastery",
+"Having or resembling tall narrow chimneys like those in a factory"
+],
+"ety": "From Medieval Latin castellātus (“fortified, castellate”) + -ed (forming past participles). Equivalent to the past participle of castellate but attested earlier than other uses of the verb."
+},
+{
+"w": "assiduous",
+"pos": "adjective",
+"d": "Marked by care and persistent effort",
+"r": "Latin assiduus, from assidere “to sit down to”, from ad- + sedere “to sit”",
+"s": "A good deal of assiduous attention had enabled Henry to win this place in her affections.",
+"old_f": [
+"Marked by a sharp, sour taste",
+"Marked by careful division of goods",
+"Marked by a fondness for fine jewels"
+],
+"ety": "A learned borrowing from Latin assiduus, from assidere (“to sit down to”), from ad- (“to”) + sedere (“to sit”). Compare sedulous. Cognate (via assidere) to assess."
+},
+{
+"w": "dowager",
+"pos": "noun",
+"d": "A widow holding property received from her deceased husband",
+"r": "Middle French douagere, from douage “dower”, from Latin dōs “dowry”",
+"s": "A reclusive dowager owned the pastures across the river, and her farmhands ran beef cattle on them.",
+"old_f": [
+"A matchmaker paid to arrange marriages between noble families",
+"A servant who keeps the linen and silver of a great house",
+"A sorcerer who searches for water with a forked stick"
+],
+"ety": "From Middle French douagere, douagiere, from douage (“dower”), from the verb douer (“to endow”), from Latin dōtō (“to endow”), from dōs (“dowry”)."
+}
+]

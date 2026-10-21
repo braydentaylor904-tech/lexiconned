@@ -1,0 +1,509 @@
+[
+{
+"w": "doppelganger",
+"pos": "noun",
+"d": "A ghostly double of a living person that haunts its living counterpart",
+"r": "German Doppelgänger “ghostly spirit”, literally “double-walker”",
+"s": "The uncanniness provoked by doppelgangers is particularly acute because the thing that becomes unfamiliar is you.",
+"old_f": [
+"A heavy stone weight used to double the force of a hammer or press",
+"A wandering minstrel who sings two-part songs at country weddings",
+"A loose woollen cloak worn doubled over the shoulders in winter"
+],
+"ety": "Borrowed from German Doppelgänger (“ghostly spirit”, literally “double-walker”)."
+},
+{
+"w": "portico",
+"pos": "noun",
+"d": "A porch or entrance to a building consisting of a covered and often columned area",
+"r": "Italian portico, from Latin porticus “porch”, from porta “gate”; a doublet of porch",
+"s": "These lines are possibly meant to represent two portici flanking the building on its long sides.",
+"old_f": [
+"A small round window in the side of a ship consisting of a thick glass pane and a brass frame",
+"A strong sweet wine from the Douro valley consisting of grape juice fortified with brandy",
+"A narrow passage between two buildings consisting of a paved and often shaded path"
+],
+"ety": "From Italian portico, from Latin porticus (“porch”), from porta (“gate”). Doublet of porch, portego, and porticus."
+},
+{
+"w": "lacuna",
+"pos": "noun",
+"d": "A blank gap or missing part",
+"r": "Latin lacūna “a ditch, pit; a hollow; a gap, defect”; a doublet of lagoon",
+"s": "Long lacunae in this inscription make interpretation difficult.",
+"old_f": [
+"A loud cry of grief",
+"A coat of shiny varnish",
+"A thin silk ribbon"
+],
+"ety": "Learned borrowing from Latin lacūna (“a ditch, pit; a hollow, cavity; a gap, defect”). Doublet of lacune and lagoon."
+},
+{
+"w": "purdah",
+"pos": "noun",
+"d": "A state of social isolation",
+"r": "Hindustani pardā, from Persian pardah “curtain; screen; veil”",
+"s": "The diagnosis of Kit's malady was soon verified, and Fleur went into purdah.",
+"old_f": [
+"A state of complete purity",
+"A long silk robe",
+"A loud hunting cry"
+],
+"ety": "Borrowed from Hindustani پردہ / पर्दा (pardā), and its etymon Classical Persian پرده (pardah, “curtain; screen; (archaic) veil”), ultimately from Proto-Indo-European *pleh₂- (“flat”). Doublet of patka."
+},
+{
+"w": "backslider",
+"pos": "noun",
+"d": "Someone who lapses into previous undesirable patterns of behavior",
+"r": "Backslide + -er",
+"s": "She married him thinking to change his ways, and for a while he got religion, but he was ever a backslider.",
+"old_f": [
+"Someone who slides down snowy hills on a wooden sled",
+"Someone who carries heavy loads on their back for a fee",
+"Someone who supports another in secret behind their back"
+],
+"ety": "From backslide + -er."
+},
+{
+"w": "allusive",
+"pos": "adjective",
+"d": "Characterized by indirect references",
+"r": "Latin allūdere “to joke, jest” + -ive; see allude",
+"s": "The footnotes ensure that the lines become more allusive and more polysemantic.",
+"old_f": [
+"Hard to catch or find",
+"Deceptive to the eye",
+"Covered in fine silt"
+],
+"ety": "From Latin allūs-, past participle stem of allūdere (“to joke, jest”; see allude) + -ive. See also al-."
+},
+{
+"w": "gorget",
+"pos": "noun",
+"d": "Armor plate that protects the neck",
+"r": "Old French gorgete, from gorge “throat”",
+"s": "Unfix the gorget's iron clasp.",
+"old_f": [
+"Narrow canyon cut by a river",
+"Rich cake soaked in sweet wine",
+"Gold coin minted in the Middle Ages"
+],
+"ety": "From Middle English gorget, from Old French gorgete, from gorge (“throat”)."
+},
+{
+"w": "admonitory",
+"pos": "adjective",
+"d": "Serving to warn",
+"r": "Latin admonitōrium “admonition, reminder”",
+"s": "He wagged an admonitory finger at the culprit.",
+"old_f": [
+"Serving to steer",
+"Serving to worship",
+"Serving to cleanse"
+],
+"ety": "From Latin admonitōrium (“admonition, reminder”)."
+},
+{
+"w": "vernal",
+"pos": "adjective",
+"d": "Suggestive of youth; vigorous and fresh",
+"r": "Latin vernālis “of spring”, from vērnus, from vēr “season of spring”",
+"s": "Look round: the vernal fields smile with new flowers.",
+"old_f": [
+"Covered with a coat of lacquer; glossy",
+"Relating to the soil; earthy and rough",
+"Spoken aloud; not written down"
+],
+"ety": "From Latin vernālis (“(rare) of or pertaining to spring; vernal”), from vērnus (“of or pertaining to spring; vernal”) + -ālis (suffix forming adjectives of relationship). Vērnus is derived from vēr (“season of spring”) (ultimately from Proto-Indo-European *wósr̥ (“spring”)) + -nus (suffix forming adjectives). The English word is cognate with Old French vernal (modern French vernal), Italian vernale (“pertaining to spring; vernal”), Occitan vernal, Portuguese vernal (“pertaining to spring; vernal”), Spanish vernal (“pertaining to spring; vernal”)."
+},
+{
+"w": "rapscallion",
+"pos": "noun",
+"d": "A deceitful and unreliable scoundrel",
+"r": "An alteration of rascallion, a fanciful elaboration of rascal",
+"s": "But I’m the kind of rapscallion who often prefers the very good to the GREAT.",
+"old_f": [
+"A spicy green onion",
+"A young male turkey",
+"A noisy street musician"
+],
+"ety": "From an alteration of rascallion, a fanciful elaboration of rascal (“someone who is naughty”)."
+},
+{
+"w": "covetous",
+"pos": "adjective",
+"d": "Showing extreme cupidity; painfully desirous of another’s advantages",
+"r": "Anglo-Norman *cuveitus, from Latin cupiditas “desire”; see covet",
+"s": "He was never covetous before he met her.",
+"old_f": [
+"Showing extreme caution; carefully hidden from the eyes of others",
+"Showing extreme loyalty; bound by a solemn agreement with others",
+"Showing extreme fondness; tenderly caring for one’s close family"
+],
+"ety": "From Middle English coveitous, from Anglo-Norman *cuveitus, from Medieval Latin as if *cupiditosus, from Latin cupiditas (“desire”); see covet."
+},
+{
+"w": "lambaste",
+"pos": "verb",
+"d": "Beat with a cane",
+"r": "Probably lam “beat” + baste “beat”; first attested in 1637",
+"s": "The sergeant lambasted the new recruits daily.",
+"old_f": [
+"Coat meat with fat",
+"Light with a lamp",
+"Limp on one leg"
+],
+"ety": "First attested in 1637. Probably lam (“beat”) + baste (“beat”)"
+},
+{
+"w": "primeval",
+"pos": "adjective",
+"d": "Having existed from the beginning; in an earliest or original stage or state",
+"r": "Latin primaevus “in the first period of life”, from primus “first” + aevum “age”",
+"s": "If life has a happiness over which the primeval curse has passed and harmed not, it is the early and long enduring affection of blood and habit.",
+"old_f": [
+"Having been tidied with great care; in a neat and proper order or arrangement",
+"Having to do with the chief minister; in a high or ruling position or office",
+"Having been arranged by rank; in a first or highest place or position"
+],
+"ety": "From Latin primaevus (“in the first or earliest period of life”) + -al, from primus (“first”) + aevum (“time, age”); see prime and age."
+},
+{
+"w": "cultus",
+"pos": "noun",
+"d": "A system of religious beliefs and rituals",
+"r": "Latin cultus “cultivation, culture”; see cult",
+"s": "Among the rituals which members of their family had inaugurated in other states of Greece, was a peculiar cultus of Hermes (Mercury) at Stymphalus in Arcadia.",
+"old_f": [
+"A short knife used for pruning vines",
+"A small boat used for river crossings",
+"A coarse cloth used for sacks and bags"
+],
+"ety": "From Latin cultus (“cultivation, culture”). See cult."
+},
+{
+"w": "bibulous",
+"pos": "adjective",
+"d": "Given to or marked by the consumption of alcohol",
+"r": "Latin bibulus, from bibō “drink”; related to imbibe and beverage",
+"s": "His pet, Mr. Dahl announced in a flash of bibulous inspiration, caused him no such trouble.",
+"old_f": [
+"Given to or marked by the reading of scripture",
+"Covered with or marked by many small blisters",
+"Given to or marked by careless speech and chatter"
+],
+"ety": "From Latin bibulus from bibō (“drink”) + -ulus from Proto-Italic *pibō, from Proto-Indo-European *píph₃eti, from root *peh₃- (“drink”); whence also imbibe and beverage via Old French beivre."
+},
+{
+"w": "samsara",
+"pos": "noun",
+"d": "The endless cycle of birth and suffering and death and rebirth",
+"r": "Sanskrit saṃsāra",
+"s": "Until we are released from the law of karma and reach moksha or deliverance, we will be in samsara or the time process.",
+"old_f": [
+"The sacred thread worn by a young man after his first initiation",
+"The spiced flatbread served at the end of a festival meal",
+"The highest state of peace in which all desire is extinguished"
+],
+"ety": "Borrowed from Sanskrit संसार (saṃsāra)."
+},
+{
+"w": "postprandial",
+"pos": "adjective",
+"d": "Following a meal (especially dinner)",
+"r": "Post- + prandial",
+"s": "There is a comfortable, postprandial silence.",
+"old_f": [
+"Following a birth (especially twins)",
+"Following a death (especially sudden)",
+"Following the mail (especially letters)"
+],
+"ety": "From post- + prandial."
+},
+{
+"w": "hustings",
+"pos": "noun",
+"d": "The activities involved in political campaigning (especially speech making)",
+"r": "Originally the plural of husting, later construed as a singular",
+"s": "The candidate was having a strong campaign but fell apart at the hustings.",
+"old_f": [
+"The tasks involved in husking corn (especially at harvest gatherings)",
+"The noises made by a crowd of spectators (especially in hushed tones)",
+"The duties involved in running a household (especially for a wife)"
+],
+"ety": "Originally the plural of husting, later construed as a singular."
+},
+{
+"w": "purser",
+"pos": "noun",
+"d": "An officer aboard a ship who keeps accounts and attends to the passengers’ welfare",
+"r": "Purse + -er",
+"s": "So the Comptroller and I thence to a tavern hard by, and there did agree upon drawing up some letters to be sent to all the pursers and Clerks of the Cheques to make up their accounts.",
+"old_f": [
+"An official in a monastery who keeps the gardens and attends to the sick brothers’ diet",
+"A tailor in a market town who makes leather pouches and attends to customers’ repairs",
+"A guard at a city gate who checks the papers of travelers and attends to tolls"
+],
+"ety": "From purse + -er."
+},
+{
+"w": "cosset",
+"pos": "verb",
+"d": "Treat with excessive indulgence",
+"r": "Perhaps Old English cotsǣta “cottager”; compare German Hauslamm “house lamb”",
+"s": "The car cossets its occupants in comfort.",
+"old_f": [
+"Lace into a corset",
+"Toss into the air",
+"Charge a high price"
+],
+"ety": "Perhaps from Middle English cotsete, from Old English cotsǣta (“cottager”), from cot (“cottage”) (Modern English cot (“cottage”) (archaic)) + -sǣta (“-sitter”); compare coscet. Compare German Hauslamm (literally “house lamb”), Italian casiccio."
+},
+{
+"w": "cerise",
+"pos": "noun",
+"d": "A red the color of ripe cherries",
+"r": "French cerise, from Latin cerasium; a doublet of cherry",
+"s": "Before us lay the autumn tinted woods glimmering in gold, purple, green, and cerise.",
+"old_f": [
+"A white the color of fresh snow",
+"A wax used to seal letters",
+"A pale silk used for veils"
+],
+"ety": "Borrowed from French cerise (mid 19th century), itself from Vulgar Latin ceresia, from Latin cerasium. Doublet of cherry and kirsch."
+},
+{
+"w": "hymeneal",
+"pos": "noun",
+"d": "A wedding hymn",
+"r": "Latin hymenaeus, from Greek humenaîos “matrimonial”",
+"s": "For her white virgins hymeneals sing.",
+"old_f": [
+"A funeral march",
+"A harvest prayer",
+"A drinking song"
+],
+"ety": "From Latin hymenaeus (from Ancient Greek ὑμεναῖος (humenaîos, “matrimonial”)) + -al. Compare hymen."
+},
+{
+"w": "triune",
+"pos": "adjective",
+"d": "Being three in one; used especially of the Christian Trinity",
+"r": "New Latin triūnus",
+"s": "Christians believe in a triune God, meaning that he is three hypostases in perfect unity.",
+"old_f": [
+"Being won by a clear margin; used especially of military victories",
+"Being divided into three parts; used especially of political territories",
+"Being true and loyal; used especially of oaths and pledges"
+],
+"ety": "Borrowed from New Latin triūnus."
+},
+{
+"w": "spikenard",
+"pos": "noun",
+"d": "An aromatic ointment used in antiquity",
+"r": "Medieval Latin spīca nardī, from Latin spica “spike” + nardi “nard”",
+"s": "While the king sitteth at his table, my spikenard sendeth forth the smell thereof.",
+"old_f": [
+"A spiked iron helmet used in antiquity",
+"A sharp spearhead used in antiquity",
+"A tall pointed tower used in antiquity"
+],
+"ety": "From Middle English spikenard, spikenarde, from Anglo-Norman spicanarde, from Medieval Latin spīca nardī, from Latin spica (“spike”) + nardi (“nard”). Equivalent to spike + nard."
+},
+{
+"w": "bourdon",
+"pos": "noun",
+"d": "A pipe of the bagpipe that is tuned to produce a single continuous tone",
+"r": "Middle English burdoun “accompaniment”, from Medieval Latin burdō “drone”",
+"s": "The dim roar of London was like the bourdon note of a distant organ.",
+"old_f": [
+"A heavy oak beam of the roof that is carved with a coat of arms and a family motto",
+"A small bell of brass that is rung by the town crier to call the people to the square",
+"A thick slice of bread that is spread with honey and served to guests at a christening"
+],
+"ety": "Inherited from Middle English burdoun (“accompaniment”), from Old French bordon, from Medieval Latin burdō, burdōnem (“drone”), probably from Frankish *buʀdō (“grub, beetle, cricket, bumblebee”), related to Old English budda (“beetle”), Saterland Frisian Budde (“worm or grub used as fishbait”), Icelandic budda (“purse”). The modern pronunciation and form (for *burdon) is influenced by modern French bourdon."
+},
+{
+"w": "coeval",
+"pos": "noun",
+"d": "A person of nearly the same age as another",
+"r": "Late Latin coaevus, from con- “equal” + aevum “age”",
+"s": "The telephone and television are coevals in that film.",
+"old_f": [
+"A person of nearly the same height as another",
+"A person who serves an equal term in office",
+"A person who shares a home with another"
+],
+"ety": "From Late Latin coaevus, from Latin con- (“equal”) + aevum (“age”)."
+},
+{
+"w": "monomania",
+"pos": "noun",
+"d": "A mania restricted to one thing or idea",
+"r": "Mono- + mania, or French monomanie",
+"s": "It was apparent to all but himself that what was once idle curiosity had become a monomania.",
+"old_f": [
+"A building made of a single great stone",
+"A form of rule by a single king or queen",
+"A long speech given by a single actor"
+],
+"ety": "Either: * Formed in English as mono- + mania; * From the French monomanie; or, * From the Modern Latin monomania."
+},
+{
+"w": "preceptor",
+"pos": "noun",
+"d": "Teacher at a university or college (especially at Cambridge or Oxford)",
+"r": "Latin praeceptor “commander; instructor”, from praecipiō, from prae- + capiō “to take”",
+"s": "A man who had thought so much on the subjects of language and education was surely no ordinary preceptor.",
+"old_f": [
+"Guard at a gate or wall (especially of a castle or prison)",
+"Writer of a will or deed (especially for a lord or bishop)",
+"Keeper of an inn or tavern (especially on a coaching road)"
+],
+"ety": "From Middle English preceptor, preceptur, from Latin praeceptor (“commander; instructor”), from the verb praecipiō + -or (“-er: forming agent nouns”), from prae- (“pre-, fore-: before”) + capiō (“to take; to get, to take in, to understand”)."
+},
+{
+"w": "coruscant",
+"pos": "adjective",
+"d": "Having brief brilliant points or flashes of light",
+"r": "Latin coruscāns “glittering”, present participle of coruscō",
+"s": "The black of night was nearly lost in a coruscant explosion of light.",
+"old_f": [
+"Having thick folds of fabric gathered at the waist",
+"Having a rough bark like that of an old oak",
+"Having many layers of hard and spiny coral"
+],
+"ety": "From Latin coruscāns (“glittering”), present participle of coruscō."
+},
+{
+"w": "chortle",
+"pos": "noun",
+"d": "A soft partly suppressed laugh",
+"r": "Perhaps a blend of chuckle + snort; coined by Lewis Carroll in Jabberwocky",
+"s": "He frequently interrupted himself with chortles while he told us his favorite joke.",
+"old_f": [
+"A short sharp cough",
+"A loud angry snort",
+"A low mournful hum"
+],
+"ety": "Perhaps a blend of chuckle + snort. Coined by Lewis Carroll in his poem Jabberwocky, completed in 1855 but only introduced to the public in his 1871 novel Through the Looking-Glass."
+},
+{
+"w": "enfranchise",
+"pos": "verb",
+"d": "Grant freedom to; as from slavery or servitude",
+"r": "Old French enfranchir “to set free”, from en- + franchir “to set free”",
+"s": "Slaves were enfranchised in the mid-19th century.",
+"old_f": [
+"Grant land to; as for loyal service in war",
+"Grant pardon to; as for a crime committed in anger",
+"Grant shelter to; as for travelers caught in a storm"
+],
+"ety": "From Old French enfranchir (“to set free, enfranchise”), from en- (“in”) + franchir (“to set free”), equivalent to en- + franchise."
+},
+{
+"w": "pintle",
+"pos": "noun",
+"d": "A pin or bolt forming the pivot of a hinge",
+"r": "Old English pintel: pin + -le",
+"s": "The train had a searchlight mounted on a pintle on a flat car.",
+"old_f": [
+"A small cup or measure holding a gill of ale",
+"A thin strip of lead holding glass in a window",
+"A narrow ribbon holding a lady’s hair in place"
+],
+"ety": "From Middle English pyntel, from Old English pintel (“penis”), from Proto-West Germanic *pint(i), from Proto-Germanic *pint- (“protrusion”), from Proto-Indo-European *bend- (“peg, tip, protruding point, edge”), equivalent to pin + -le. Cognate with North Frisian pint (“male member, penis”), West Frisian pyt (“male member, penis”), Dutch piet (“penis”), German Low German and German Pint (“penis”), West Flemish pint, piet (“tip, spike, penis”), Danish pint, pintel (“penis”), Norwegian dialectal pintol (“penis”), dialectal Swedish pitt (“penis”). More at pin, pen."
+},
+{
+"w": "rapacious",
+"pos": "adjective",
+"d": "Living by preying on other animals especially by catching living prey",
+"r": "Latin rapāx “grasping, greedy” + -acious",
+"s": "The rapacious maw of our despair.",
+"old_f": [
+"Moving at great speed especially when running from danger or pursuit",
+"Speaking in quick rhymes especially when set to a steady beat",
+"Living by gathering seeds especially from tall grasses or reeds"
+],
+"ety": "Perhaps from rapacity + -ous, in any case ultimately from Latin rapāx (“grasping, greedy”) + -acious."
+},
+{
+"w": "internecine",
+"pos": "adjective",
+"d": "(of conflict) within a group or organization",
+"r": "Latin internecīnus “deadly”, from internecium “a massacre”",
+"s": "The Mongol people were plagued by internecine conflict until Genghis Khan unified them by focusing their aggression outwards on other peoples.",
+"old_f": [
+"(of a fabric) woven from mixed threads",
+"(of a road) linking two distant cities",
+"(of a letter) sent in a sealed envelope"
+],
+"ety": "Borrowed from Latin internecīnus (“deadly”), from internecium (“a massacre, bloodbath; an eradication”) + -īnus. In Latin, the sememe 'between' was here not expressed by the prefix, it instead either had a somewhat emphatic meaning or meant \"down, under\", comparable to its use in other Latin terms related to death: see interficiō and intereō. The English current sense is thus a reanalysis of the Latin through English inter-."
+},
+{
+"w": "ostensible",
+"pos": "adjective",
+"d": "Appearing as such but not necessarily so",
+"r": "French ostensible, from Latin ostensus, past participle of ostendō “show”",
+"s": "The ostensible reason for his visit to New York was to see his mother, but the real reason was to get to the Yankees game the next day.",
+"old_f": [
+"Showing off in a loud and gaudy way",
+"Banished from a community by vote",
+"Fit to be seen without shame"
+],
+"ety": "Borrowed from French ostensible, formed with the suffix -ible, from Latin ostensus, the past participle of ostendō (“show”), itself from obs- (“in front of”) (akin to ob- (“in the way”)) + tendō (“stretch”) (akin to Ancient Greek τείνω (teínō)). Cf. ostentatious."
+},
+{
+"w": "switcheroo",
+"pos": "noun",
+"d": "A sudden unexpected switch",
+"r": "Switch + -eroo",
+"s": "The Manhattan Theater Club has pulled a switcheroo, delaying a planned production of Gone Home, by John Corwin, and replacing it with Four, by the 26-year-old playwright Christopher Shinn.",
+"old_f": [
+"A small flexible cane",
+"A railway signal lamp",
+"A whistling kettle"
+],
+"ety": "From switch + -eroo."
+},
+{
+"w": "paunchy",
+"pos": "adjective",
+"d": "Having a large belly",
+"r": "Paunch + -y",
+"s": "He exercised every day to avoid becoming paunchy in his old age.",
+"old_f": [
+"Having a sharp tongue",
+"Having a pale face",
+"Having a short temper"
+],
+"ety": "From paunch + -y."
+},
+{
+"w": "enjoin",
+"pos": "verb",
+"d": "Issue an injunction",
+"r": "Old French enjoindre “to join with”, from Latin iniungo “to attach”",
+"s": "I am enjoin'd by oath to observe three things.",
+"old_f": [
+"Fasten together tightly",
+"Delight greatly",
+"Approach in secret"
+],
+"ety": "From Middle English enjoinen, from Old French enjoindre (“to join with”), from Latin iniungo (“to attach”), a compound of in- (“into” “upon”) and iungo."
+},
+{
+"w": "providential",
+"pos": "adjective",
+"d": "Peculiarly fortunate or appropriate; as if by divine intervention",
+"r": "Latin prōvidentia “providence” + -al",
+"s": "What has our providential rescue to do with altering your feelings toward me?",
+"old_f": [
+"Relating to the government of a region far from the capital; rural",
+"Careful in planning for the future; thrifty and wise",
+"Tending to provoke anger in others; deliberately irritating"
+],
+"ety": "From Latin prōvidentia (“providence”) + English -al."
+}
+]

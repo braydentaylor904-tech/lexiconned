@@ -1,0 +1,522 @@
+[
+{
+"w": "compere",
+"pos": "noun",
+"d": "British term for someone who introduces television acts or cabarets etc",
+"r": "French compère “partner, accomplice”, from Late Latin compater “godfather”",
+"s": "Every year I am the compere for our Church Quiz Night.",
+"old_f": [
+"British term for someone who checks prices of goods for a newspaper column etc",
+"British term for someone who writes the music for films or theatre productions etc",
+"British term for someone who keeps the accounts of a business or charity etc"
+],
+"ety": "A borrowing of French compère (“partner, accomplice”), from Old French comper, from Late Latin compater (“godfather”), from Latin com- (“with”) + pater (“father”). Doublet of compeer, compadre, and goombah."
+},
+{
+"w": "kowtow",
+"pos": "noun",
+"d": "A former Chinese custom of touching the ground with the forehead as a sign of respect or submission",
+"r": "Cantonese kau³ tau⁴ or Mandarin kòutóu, literally “knock head”",
+"s": "Three elders dressed in their long silk ceremonial gowns perform the kowtow before the altar in their clan ancestral hall.",
+"old_f": [
+"A former Chinese custom of pulling a bride in a carriage to her new home as a sign of good fortune",
+"A former Chinese custom of tying a red cord around a newborn’s wrist as a sign of protection",
+"A former Chinese custom of releasing paper lanterns into the night sky as a sign of mourning"
+],
+"ety": "From either Cantonese 叩頭 /叩头 (kau³ tau⁴) or Mandarin 叩頭 /叩头 (kòutóu). Literally, “knock head”."
+},
+{
+"w": "nebbish",
+"pos": "noun",
+"d": "A timid unfortunate simpleton",
+"r": "American Yiddish nebish, from nebekh “poor, unfortunate”",
+"s": "Actor Rick Moranis often plays a nebbish.",
+"old_f": [
+"A small round loaf",
+"A gossiping old neighbor",
+"A clever con artist"
+],
+"ety": "From American Yiddish נעביש (nebish), from נעבעך (nebekh, “poor, unfortunate”)."
+},
+{
+"w": "implacable",
+"pos": "adjective",
+"d": "Incapable of being placated",
+"r": "Latin implācābilis “unappeasable”: im- + plācābilis",
+"s": "The battleships Washington and South Dakota pushed through the sea with an implacable ease.",
+"old_f": [
+"Impossible to find on a map",
+"Lacking any clear meaning",
+"Unable to be removed"
+],
+"ety": "From Middle English implācāble (“immitigable, unappeasable”) from Old French implacable (“harsh, unrelenting; implacable”) (modern French implacable), from Latin implācābilis (“unappeasable, implacable; irreconcilable”), from im- (variant of in- (prefix meaning ‘not’)) + plācābilis (“placable; appeasing, moderating, pacifying, propitiating; acceptable”) (from plācō (“to assuage, pacify, placate; to appease; to reconcile”) + -bilis (suffix forming adjectives indicating a capacity or worth of being acted upon))."
+},
+{
+"w": "conversant",
+"pos": "adjective",
+"d": "(usually followed by ‘with’) well informed about or knowing thoroughly",
+"r": "Old French conversant, present participle of converser",
+"s": "She is equally conversant with Shakespeare and the laws of physics.",
+"old_f": [
+"(usually of a lens) curved outward on both sides like a ball",
+"(usually of a monk) newly admitted to a religious order",
+"(usually of a road) meeting another at a sharp angle"
+],
+"ety": "From Old French conversant, present participle of converser."
+},
+{
+"w": "duenna",
+"pos": "noun",
+"d": "A woman chaperon",
+"r": "Old Spanish dueña, from Latin domina “Lady”; a doublet of dame",
+"s": "Then he placed her in a house and shut her up in a chamber, appointing ten old women as duennas to guard her.",
+"old_f": [
+"A sand dune",
+"A lady duellist",
+"A rent collector"
+],
+"ety": "From Old Spanish duenna or dueña, from Vulgar Latin donna, from Latin domina (“Lady”). Doublet of dame."
+},
+{
+"w": "stickle",
+"pos": "verb",
+"d": "Dispute or argue stubbornly (especially minor points)",
+"r": "A variant of stightle “to order, arrange, direct”",
+"s": "Flying for life, one does not stickle about his vehicle.",
+"old_f": [
+"Prick or sting (especially with nettles)",
+"Glue or paste (especially paper labels)",
+"Cut or reap (especially with a sickle)"
+],
+"ety": "From a variant of stightle (“to order, arrange, direct”), from Middle English stightelen, stiȝtlen, stihilen, stihlen, equivalent to stight (“to order, rule, govern”) + -le (frequentative suffix). For the development of /təl/ to /kəl/, compare huckleberry and dialectal turkle (“turtle”)."
+},
+{
+"w": "friable",
+"pos": "adjective",
+"d": "Easily broken into small fragments or reduced to powder",
+"r": "Latin friābilis, from friō “to crumble”",
+"s": "This light, friable type of material offered excellent insulation against both desert heat and also the cold of darkness during the winter.",
+"old_f": [
+"Easily cooked in hot oil or fat until crisp",
+"Easily persuaded into joining a religious order",
+"Easily frightened into running or hiding away"
+],
+"ety": "Borrowed from French friable, from Latin friābilis (“friable”), from friō (“to crumble”)."
+},
+{
+"w": "puckish",
+"pos": "adjective",
+"d": "Naughtily or annoyingly playful",
+"r": "Puck + -ish, after the mischievous fairy of English folklore",
+"s": "He has a puckish sense of humor.",
+"old_f": [
+"Wrinkled and creased",
+"Small and stout",
+"Quick to fight"
+],
+"ety": "From Puck + -ish, after the mischievous fairy in English folklore who is also a character in Shakespeare's A Midsummer Night's Dream."
+},
+{
+"w": "refectory",
+"pos": "noun",
+"d": "A communal dining-hall (usually in a monastery)",
+"r": "Late Latin refectorium, from Latin reficere “to remake, rebuild”",
+"s": "The quality, for example, is far better and the price cheaper than in my college refectory.",
+"old_f": [
+"A quiet reading-room (usually in a library)",
+"A shady cloister-walk (usually in an abbey)",
+"A hidden escape-tunnel (usually in a castle)"
+],
+"ety": "Via Middle English refectori from Late Latin refectorium, from Latin reficere (“to remake, to rebuild”)."
+},
+{
+"w": "churlish",
+"pos": "adjective",
+"d": "Rude and boorish",
+"r": "Old English ċeorlisċ “of or pertaining to churls”: churl + -ish",
+"s": "And force a churlish soil for scanty bread.",
+"old_f": [
+"Pious and devout",
+"Sweet and creamy",
+"Sad and gloomy"
+],
+"ety": "From Middle English cherlisch, cherlissh, from late Old English ċeorlisċ, ċierlisċ (“of or pertaining to churls”), equivalent to churl + -ish. Piecewise doublet of ceorlish."
+},
+{
+"w": "slavey",
+"pos": "noun",
+"d": "A female domestic servant who does all kinds of menial work",
+"r": "Slave + -y",
+"s": "The short-haired slavey who had opened the door now put in an appearance as waiter.",
+"old_f": [
+"A small sledge drawn by dogs over snow and ice",
+"A thick stew of cabbage and pork from eastern Europe",
+"A cold soup of beetroot served in summer"
+],
+"ety": "From slave + -y. Piecewise doublet of Slavic."
+},
+{
+"w": "clerestory",
+"pos": "noun",
+"d": "Part of an interior wall rising above the adjacent roof with windows admitting light",
+"r": "Middle English clerestory, from clere “clear, lighted” + story “level of a building”",
+"s": "He beheld three or four men with bent bows, leaning from the clerestory gallery.",
+"old_f": [
+"Room set aside in a monastery for the clergy to keep their records and books",
+"Narrow walkway running along the top of a castle wall with gaps for archers",
+"Tall glass case standing in a church for the display of relics to pilgrims"
+],
+"ety": "From Middle English clerestory, from clere (“clear: light, lighted”) + story (“storey/story: level of a building”)."
+},
+{
+"w": "epicurean",
+"pos": "noun",
+"d": "A person devoted to refined sensuous enjoyment (especially good food and drink)",
+"r": "Epicurean “follower of Epicureanism”",
+"s": "Like a stoic, or like A wiser epicurean, and let the world have its way.",
+"old_f": [
+"A person devoted to recording the deeds of heroes (especially in long poems)",
+"A person devoted to the study of skin diseases (especially in the young)",
+"A person devoted to curing the sick (especially with herbs)"
+],
+"ety": "From Epicurean (“follower of Epicureanism”)."
+},
+{
+"w": "interminable",
+"pos": "adjective",
+"d": "Tiresomely long; seemingly without end",
+"r": "Late Latin interminābilis: in- + terminable",
+"s": "Life's interminable succession of stages.",
+"old_f": [
+"Easily mixed together; blended",
+"Placed in the middle; central",
+"Deadly to the touch; fatal"
+],
+"ety": "From Middle English interminable, from Middle French interminable and its etymon Late Latin interminābilis. By surface analysis, in- + terminable."
+},
+{
+"w": "beatitude",
+"pos": "noun",
+"d": "A state of supreme happiness",
+"r": "Latin beātitūdō “happiness, blessedness”, from beātus “happy, blessed”",
+"s": "Here is Gregson coming down the road with beatitude written upon every feature of his face.",
+"old_f": [
+"A state of complete exhaustion",
+"A formal blessing of a marriage",
+"A weary, defeated attitude"
+],
+"ety": "From Middle English beatitude, beatytude, from Middle French béatitude, from Latin beātitūdō (“happiness, blessedness”), from beātus (“happy, blessed”)."
+},
+{
+"w": "judicious",
+"pos": "adjective",
+"d": "Marked by the exercise of good judgment or common sense in practical matters",
+"r": "French judicieux, ultimately from Latin iudico; related to judge and judicial",
+"s": "Judicious use of one's money.",
+"old_f": [
+"Marked by the frequent use of legal terms and phrases in ordinary conversation",
+"Marked by a rich and juicy flavor from long slow cooking in a covered pot",
+"Marked by a fondness for jokes and pranks in serious or formal settings"
+],
+"ety": "From French judicieux, ultimately derived from Latin iudico. Related to judge, judicial."
+},
+{
+"w": "inamorata",
+"pos": "noun",
+"d": "A woman with whom you are in love or have an intimate relationship",
+"r": "Italian innamorata, feminine of innamorato “lover”, from in- + amore “love”",
+"s": "He did not appear the least jealous of my attentions to his inamorata.",
+"old_f": [
+"A woman who serves as a nurse to the children of a noble family",
+"A woman who sings the leading role in an Italian comic opera",
+"A woman who keeps an inn or tavern on a busy road"
+],
+"ety": "Borrowed from Italian innamorata, the feminine form of innamorato (“lover, boyfriend”), from innamorare (“to make somebody fall in love”), from in- (“in”) + amore (“love”)."
+},
+{
+"w": "fillip",
+"pos": "noun",
+"d": "Anything that tends to arouse",
+"r": "Middle English filippen “to flick or snap a finger”, probably imitative",
+"s": "This measure gave a fillip to the housing market.",
+"old_f": [
+"A thin slice of fish",
+"A small cup or measure",
+"A loose woollen headscarf"
+],
+"ety": "From Middle English filippen, philippe (“to flick or snap a finger from against the thumb”); further origin uncertain, but probably imitative. See flip. It is not clear whether the verb is derived from the noun, or vice versa."
+},
+{
+"w": "picayune",
+"pos": "adjective",
+"d": "Small and of little importance",
+"r": "Southern French picaillon “a small foreign coin”, from Occitan picalhon",
+"s": "Giving a police officer a free meal may be against the law, but it seems to be a picayune infraction.",
+"old_f": [
+"Spicy and full of pepper",
+"Fussy about food choices",
+"Bright and colorful like paint"
+],
+"ety": "The noun is borrowed from southern French picaillon, pécaillon, picayon (“type of small foreign coin; (informal, especially in the plural) cash, money”), and from its etymon Occitan picalhon, picaioun (“cheaply made Savoyan-Piedmontese coin that was rapidly demonetized; (by extension) cash, money”), probably from Occitan piquar (“to ring (bells); to knock, strike”) (referring to the clinking of coins in a pocket), originally imitative. The adjective is derived from the noun."
+},
+{
+"w": "vicarious",
+"pos": "adjective",
+"d": "Experienced at secondhand",
+"r": "Latin vicārius “substituted” + -ous; a doublet of vicar",
+"s": "People experience vicarious pleasures through watching television.",
+"old_f": [
+"Fiercely cruel",
+"Lively and spirited",
+"Easily pierced"
+],
+"ety": "From Latin vicārius (“vicarious, substituted”) + English -ous. First attested in the 17th century. Doublet of vicar."
+},
+{
+"w": "aneroid",
+"pos": "noun",
+"d": "A barometer that measures pressure without using fluids",
+"r": "French anéroïde, from Greek a- “not” + nērós “wet, damp”",
+"s": "Our aneroid shows us that in the continual incline which we have ascended since we abandoned our canoes we have risen to no less than three thousand feet above sea-level.",
+"old_f": [
+"A thermometer that measures heat without using mercury",
+"A small planet that circles the sun beyond Mars",
+"A drug that builds muscle when injected into the body"
+],
+"ety": "From French anéroïde, from Ancient Greek ἀ- (a-) + νηρός (nērós, “wet, damp”)."
+},
+{
+"w": "manikin",
+"pos": "noun",
+"d": "A person who is very small but who is not otherwise deformed or abnormal",
+"r": "Dutch manneken: man + -ikin; a doublet of mannequin",
+"s": "This is a dear manikin to you, Sir Toby.",
+"old_f": [
+"A person who is very strict but who is not otherwise unkind or unfair",
+"A person who is very poor but who is not otherwise idle or dishonest",
+"A person who is very old but who is not otherwise frail or forgetful"
+],
+"ety": "From Dutch manneken, Middle Dutch mannekijn. By surface analysis, man + -ikin. Doublet of manakin and mannequin."
+},
+{
+"w": "avocation",
+"pos": "noun",
+"d": "An auxiliary activity",
+"r": "Latin āvocātiō “a distraction”, from āvocō “to call off, distract”",
+"s": "My object in living is to unite My avocation and my vocation As my two eyes make one in sight.",
+"old_f": [
+"A legal profession",
+"A ripe fruit",
+"A formal summons"
+],
+"ety": "From Latin āvocātiō (“a distraction”), from āvocō (“to call off, distract”)."
+},
+{
+"w": "noctilucent",
+"pos": "adjective",
+"d": "Shining or glowing by night",
+"r": "Nocti- + lucent",
+"s": "The noctilucent eyes of a cat.",
+"old_f": [
+"Active or awake by night",
+"Damp with dew at dawn",
+"Harmful to living things"
+],
+"ety": "From nocti- + lucent.; compare obsolete noctilucous."
+},
+{
+"w": "dithyramb",
+"pos": "noun",
+"d": "A wildly enthusiastic speech or piece of writing",
+"r": "Greek dīthúrambos, perhaps of non-Indo-European origin; related to thríambos and íambos",
+"s": "While those who drown a truth’s empiric part In dithyramb or dogma turn frenetic.",
+"old_f": [
+"A short song in two stanzas sung by a chorus",
+"A long verse of three-beat lines in Greek drama",
+"A loud blast on a trumpet announcing a victory"
+],
+"ety": "From Latin dithyrambus, from Ancient Greek δῑθύραμβος (dīthúrambos). According to the American Heritage Dictionary, it is of non-Indo-European origin (Pre-Greek substrate, Illyrian/Phrygian), related to θρίαμβος (thríambos) and ἴαμβος (íambos). Brandenstein also compares Sanskrit अङ्ग (aṅga, “member”)."
+},
+{
+"w": "fanlight",
+"pos": "noun",
+"d": "A window above a door that is usually hinged to a horizontal crosspiece over the door",
+"r": "Fan + light “window”",
+"s": "With a deal of struggling he managed to screw himself through the fanlight, removing in that process the dust of many ages.",
+"old_f": [
+"A small lamp hung from a ceiling that is usually lit by burning a scented oil in a dish",
+"A painted screen in front of a fireplace that is usually folded when the fire is lit",
+"A narrow slit in a wall that is usually used by archers to fire on attackers"
+],
+"ety": "From fan + light (“window; source of illumination”)."
+},
+{
+"w": "maelstrom",
+"pos": "noun",
+"d": "A powerful circular current of water (usually the result of conflicting tides)",
+"r": "Early modern Dutch maelstrom, originally the name of a giant whirlpool off Norway",
+"s": "He escaped at last, dizzy from the maelstrom of conflicting emotions that had caught and whirled him.",
+"old_f": [
+"A great hall for feasting and drinking (usually in a Norse chieftain’s house)",
+"A heavy hammer used for driving piles (usually in a shipyard)",
+"A thick bank of fog at sea (usually the result of warm air over cold water)"
+],
+"ety": "The word was originally the name of a giant whirlpool off Norway in the Arctic Ocean which was said to destroy all ships that came close to it, likely the actual tidal pool system of Moskstraumen in Lofoten. It is borrowed from early modern Dutch maelstrom (“whirlpool”) (obsolete) (modern Dutch maalstroom), from malen (“to whirl around; to grind”) (ultimately from Proto-Indo-European *melh₂- (“to crush, grind”)) + stroom (“stream; river; current or flow of water or other liquid”) (ultimately from Proto-Indo-European *srew- (“to flow, stream”)), and was popularized by Edgar Allen Poe’s short st"
+},
+{
+"w": "dirndl",
+"pos": "noun",
+"d": "A full skirt with a gathered waistband",
+"r": "German Dirndl, diminutive of Dirne “girl”",
+"s": "For a change, Selina was not in slacks, but in a simple dirndl and sandals.",
+"old_f": [
+"A small bread roll with caraway seeds",
+"A tall beer mug with a pewter lid",
+"A short leather jacket with horn buttons"
+],
+"ety": "Borrowed from German Dirndl, a diminutive of Dirne (“girl”) (Austria, Bavaria), from Middle High German dierne (“girl; servant”), from Old High German diorna, thiorna (“girl; servant”), from Proto-West Germanic *þewernā (“maiden, young girl; female servant, handmaid”), ultimately from Proto-Indo-European *tekʷ- (“to flow; to run”)."
+},
+{
+"w": "rigmarole",
+"pos": "noun",
+"d": "A set of confused and meaningless statements",
+"r": "Ragman roll “long list; catalogue”; recorded since c. 1736",
+"s": "I dislike intensely The Karamazov Brothers and the ghastly Crime and Punishment rigmarole.",
+"old_f": [
+"A set of ropes and pulleys on a sailing ship",
+"A tightly rolled pastry filled with spiced meat",
+"A slow and stately dance in triple time"
+],
+"ety": "From ragman roll (“long list; catalogue”). Recorded since c1736."
+},
+{
+"w": "spinet",
+"pos": "noun",
+"d": "A small and compactly built upright piano",
+"r": "Italian spinetta",
+"s": "The invention was to have a Satyr lodged in a little spinet.",
+"old_f": [
+"A small and finely woven wheel of wool",
+"A thin and flexible strip of whalebone",
+"A sharp and slender thorn on a plant"
+],
+"ety": "Borrowed from Italian spinetta."
+},
+{
+"w": "transmogrify",
+"pos": "verb",
+"d": "Change completely the nature or appearance of",
+"r": "17th century; origin uncertain, possibly from transmigrate",
+"s": "\"Just set the dial to \"Calvin\", and I'll transmogrify back to a boy.\"",
+"old_f": [
+"Send a message across great distances",
+"Translate a text into a foreign language",
+"Move goods across a border secretly"
+],
+"ety": "17th century; origin uncertain, but possibly from transmigure, transmigrate. It is also possible that this word is a formation derived from maugre, hence it originally signified the \"evil eye\", but under the influence of the former etymologies shifted its meaning to its sense of \"transformation\". Another possibility is a humorous blending of transfigure and modify."
+},
+{
+"w": "stanch",
+"pos": "verb",
+"d": "Stop the flow of a liquid",
+"r": "Middle English staunchen “to stop the flow of blood or other bodily fluids”",
+"s": "A small amount of cotton can be stuffed into the nose to stanch the flow of blood if necessary.",
+"old_f": [
+"Hold firm in a strong wind",
+"Give off a strong unpleasant smell",
+"Fasten a door with a heavy bar"
+],
+"ety": "From Middle English stanch, stanche [and other forms], a variant of Middle English staunchen, staunche (“to stop the flow of blood, diarrhoea, or other bodily fluids; to alleviate, ease; to appease, assuage, satisfy; to cure; to overcome; to put an end to; to repress, suppress; of a river or stream: to stop flowing; of waters, wind, or weather: to become calm, subside; to extinguish or put out (a fire)”) [and other forms], from Anglo-Norman estauncher, estaunchier, estanger, Old French estancher, estanchier (“to stop the flow of a liquid (blood, water, etc.); to make (something) watertight; to"
+},
+{
+"w": "malaise",
+"pos": "noun",
+"d": "Physical discomfort (as mild sickness or depression)",
+"r": "French malaise “ill ease”, from mal- “badly” + aise “ease”",
+"s": "Volkswagen’s travails are symbolic of the nation’s overall economic malaise and a political crisis that collapsed the government in December.",
+"old_f": [
+"Bitter speech (as spiteful gossip or slander)",
+"Clumsy movement (as tripping or fumbling)",
+"Strong drink (as brandy or whisky)"
+],
+"ety": "From French malaise (“ill ease”), from mal- (“bad, badly”) + aise (“ease”). Compare ill at ease."
+},
+{
+"w": "botheration",
+"pos": "noun",
+"d": "The psychological state of being irritated or annoyed",
+"r": "Bother + -ation",
+"s": "He was better off without his daily dose of world botheration, sham happenings, without newspaper phrases.",
+"old_f": [
+"The friendly state of being brothers or comrades",
+"The physical act of boiling water for tea",
+"The formal act of making a solemn promise"
+],
+"ety": "From bother + -ation (suffix indicating an action or process, or its result)."
+},
+{
+"w": "behove",
+"pos": "verb",
+"d": "Be appropriate or necessary",
+"r": "Old English behōfian “to need; to be necessary”",
+"s": "No fire-faced prophet brought me word, Which way behoved me go.",
+"old_f": [
+"Be a burden on",
+"Be of good cheer",
+"Be in a hurry"
+],
+"ety": "From Middle English behoven, bihoven (“to be necessary, requisite; to be compelled or required (to do something)”), from Old English behōfian (“to need; to be necessary”), from Proto-Germanic *bihōfōną (“to benefit, behove, need”), ultimately from Proto-Indo-European *kap- (“to grab, seize”). The word is cognate with Old Frisian bihōvia (“to need”), Middle Low German behôven (“to need”) and Old Saxon *bihōvōn, Dutch behoeven (“to need”), obsolete German behufen (cf. Behuf), Danish behøve (“to need”), Norwegian behøve (“to need”), Swedish behöva (“to have use for, to need”)."
+},
+{
+"w": "sufferance",
+"pos": "noun",
+"d": "Patient endurance especially of pain or distress",
+"r": "Late Latin sufferentia: suffer + -ance",
+"s": "When his talk trespasses beyond sufferance, I chastise him.",
+"old_f": [
+"Right to vote especially in local elections",
+"Sufficient supply especially of food or fuel",
+"Gradual choking especially from smoke or fumes"
+],
+"ety": "From Middle English sufferaunce, from Anglo-Norman suffraunce, from Late Latin sufferentia. By surface analysis, suffer + -ance."
+},
+{
+"w": "raffish",
+"pos": "adjective",
+"d": "Marked by up-to-dateness in dress and manners",
+"r": "Raff “persons of the lowest class” + -ish; compare riffraff",
+"s": "The smokers' most raffish outsider, Comstock, appeared to do nothing but smoke.",
+"old_f": [
+"Marked by thick tufts of coarse hair",
+"Marked by a fondness for lotteries and games of chance",
+"Marked by a dry, rasping cough"
+],
+"ety": "From late 18th century raff (“persons among the lowest class in society”) + -ish, still retained in contemporary English with riffraff. From Old French raffer (“to wear away”), of Germanic origin. Compare German raffen. Compare rip (“to tear”), rap (“to snatch”)."
+},
+{
+"w": "supererogatory",
+"pos": "adjective",
+"d": "More than is needed, desired, or required",
+"r": "Latin superērogātiō “payment in addition”, from super “above” + ērogō “pay out”",
+"s": "It is, for example, not clear whether “love thy enemy” is a precept or a supererogatory counsel.",
+"old_f": [
+"Above all others in rank or importance",
+"Fond of asking endless questions",
+"Guided by a belief in the supernatural"
+],
+"ety": "From Latin superērogātōrius (“supererogatory”), from superērogātiō (“payment in addition”), from superērogō (“pay out over and above”), from super (“above”) + ērogō (“pay out, expend”); from ex (“out of, from”) + rogō (“ask; request”)."
+},
+{
+"w": "devoir",
+"pos": "noun",
+"d": "Formal expression of respect",
+"r": "Old French deveir, from Latin dēbēre “to owe; ought, must”",
+"s": "I should have long ere this paid my devoirs to the inhabitants of Raymond Castle.",
+"old_f": [
+"Formal ending of a marriage",
+"Formal renunciation of faith",
+"Formal request for payment"
+],
+"ety": "From Middle English devoir, borrowed from Middle French devoir, from Old French deveir, from Latin dēbēre (“to owe; ought, must”)."
+}
+]

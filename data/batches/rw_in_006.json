@@ -1,0 +1,522 @@
+[
+{
+"w": "conventual",
+"pos": "adjective",
+"d": "Of communal life sequestered from the world under religious vows",
+"r": "Medieval Latin conventuālis, from Latin conventus “convent”",
+"s": "The Breton Club resumed its meetings in the refectory of an empty conventual building in the rue Saint-Jacques.",
+"old_f": [
+"Of formal meetings held under the rules of a governing body",
+"Of ordinary habits followed without question by most people",
+"Of goods shipped together under the protection of armed escort"
+],
+"ety": "From Medieval Latin conventuālis, from Latin conventus (“convent”)."
+},
+{
+"w": "corker",
+"pos": "noun",
+"d": "A remarkable or excellent thing or person",
+"r": "Cork + -er",
+"s": "He had just had an absolute corker of an idea!",
+"old_f": [
+"A worker who seals barrels and bottles",
+"A thick-soled shoe for wet ground",
+"A small fish of rocky coasts"
+],
+"ety": "From cork + -er."
+},
+{
+"w": "morose",
+"pos": "adjective",
+"d": "Showing a brooding ill humor",
+"r": "Latin mōrōsus “particular, fastidious, peevish”, from mōs “way, custom, habit”",
+"s": "A morose and unsociable manner.",
+"old_f": [
+"Showing a dark red color",
+"Speaking slowly and with care",
+"Covered in a thin layer of moss"
+],
+"ety": "From French morose, from Latin mōrōsus (“particular, scrupulous, fastidious, self-willed, wayward, capricious, fretful, peevish”), from mōs (“way, custom, habit, self-will”). See moral."
+},
+{
+"w": "premonitory",
+"pos": "adjective",
+"d": "Warning of future misfortune",
+"r": "Latin praemonitōrius",
+"s": "Many conditions formerly thought to be purely functional are now known as premonitory evidences of organic disease.",
+"old_f": [
+"Coming before the main course",
+"Giving advance payment",
+"Relating to the first ministers"
+],
+"ety": "Borrowed from Latin praemonitōrius."
+},
+{
+"w": "vagary",
+"pos": "noun",
+"d": "An unexpected and inexplicable change in something (in a situation or a person’s behavior, etc.)",
+"r": "Italian vagare “wander”, from Latin vagārī “to wander”",
+"s": "Still a vagary of youth, it was held, but romantically respectable.",
+"old_f": [
+"A formal and binding agreement between two parties (in a trade or a marriage, etc.)",
+"A sharp and painful swelling in some part of the body (in a joint or a gland, etc.)",
+"A small and decorative container for something (in a church or a palace, etc.)"
+],
+"ety": "From Italian vagare (“wander”) and/or its source Latin vagārī (“to wander”), from Latin vagus (“wandering”). Later apparently reinterpreted in English as vague + -ery but without changing the spelling. By surface analysis, Latin vag(us) + -ary."
+},
+{
+"w": "numismatics",
+"pos": "noun",
+"d": "The collection and study of money (and coins in particular)",
+"r": "Late Latin numisma “coin”, from Greek nómisma “current coin, custom”",
+"s": "Mr. Joolby, the eminent authority on Greek numismatics?",
+"old_f": [
+"The collection and study of insects (and moths in particular)",
+"The collection and study of names (and surnames in particular)",
+"The collection and study of maps (and sea charts in particular)"
+],
+"ety": "From French numismatique, from Late Latin numisma, numismatis (“coin”), variant of Latin nomisma, from Ancient Greek νόμισμα (nómisma, “current coin, custom”), from νομίζω (nomízō, “to hold or own as a custom, usage, to use customarily, practise, to be used to”), from νόμος (nómos, “usage, custom”), from νέμω (némō, “to keep, hold, watch”)."
+},
+{
+"w": "berceuse",
+"pos": "noun",
+"d": "A quiet song intended to lull a child to sleep",
+"r": "French berceuse",
+"s": "The engines thundered their ineffectual berceuse.",
+"old_f": [
+"A short dance intended to open a royal ball",
+"A wooden cradle intended for use on board ship",
+"A light shawl intended to be worn at evening prayers"
+],
+"ety": "Borrowed from French berceuse."
+},
+{
+"w": "akimbo",
+"pos": "adjective",
+"d": "(used of arms and legs) bent outward with the joint away from the body",
+"r": "Middle English in kenebowe “in a sharp bend”",
+"s": "Men preferred one pose above all others, namely, the elbow akimbo.",
+"old_f": [
+"(used of hair and beards) tangled and matted from long neglect or sleep",
+"(used of eyes and glances) turned sideways with suspicion or distrust",
+"(used of hats and caps) tilted back to show the wearer’s forehead"
+],
+"ety": "From Middle English in kenebowe, in kene bowe (“in a keen bow”, i.e. “in a sharp bend or angle”), from in (“in”) + keen, kene (“brave, keen, sharp”) + bowe (“bow, bend”). Alternately, possibly from Old Norse kengr (“bent”) + bogi (“a bow”), compare Icelandic kengboginn (“bow-bent”)."
+},
+{
+"w": "calumny",
+"pos": "noun",
+"d": "A false accusation of an offense or a malicious misrepresentation of someone’s words or actions",
+"r": "Latin calumnia “false statement, misrepresentation”",
+"s": "Accusations of abuse were pure extortive calumny in a malicious bid to make money.",
+"old_f": [
+"A tall stone column or a carved pillar supporting the roof of a temple or palace",
+"A gentle calming draught or a soothing drink given to the sick before sleep",
+"A narrow mountain pass or a steep valley used by travellers crossing the Alps"
+],
+"ety": "From Late Middle English calumnīe (“false accusation, slander; (law) objection raised in bad faith”), borrowed from Old French calomnie (“slander, calumny”) (modern French calomnie), or directly from its etymon Latin calumnia (“false statement, misrepresentation; false accusation, malicious charge”), perhaps also related to calvor (“to deceive”). The English word is a doublet of challenge. The verb is derived from French calomnier (“to slander”), from Late Latin calumniāre, from Latin calumpniārī, calumniārī (“to blame unjustly, misrepresent, calumniate; (law) to accuse falsely, bring false in"
+},
+{
+"w": "decrepitude",
+"pos": "noun",
+"d": "A state of deterioration due to old age or long use",
+"r": "Latin dēcrepitūdō",
+"s": "He had been struck by Mao's decrepitude and Chou's failing health.",
+"old_f": [
+"A state of complete silence due to grief or shock",
+"A sharp crackling noise made by salt when heated",
+"A formal reduction of rank due to misconduct"
+],
+"ety": "From Middle French décrépitude, from Old French, from Latin dēcrepitūdō (“decrepitude”)."
+},
+{
+"w": "suppliant",
+"pos": "noun",
+"d": "One praying humbly for something",
+"r": "French suppliant, present participle of supplier; a doublet of supplicant",
+"s": "I touch your beard as a suppliant, embrace your knees, imploring you to have pity on my wretchedness.",
+"old_f": [
+"One who provides food to soldiers",
+"One who is flexible and easily bent",
+"One who replaces another in office"
+],
+"ety": "From French suppliant, present participle of supplier. Doublet of supplicant."
+},
+{
+"w": "fatuous",
+"pos": "adjective",
+"d": "Devoid of intelligence",
+"r": "Latin fatuus “foolish, silly, simple”",
+"s": "Don't be fatuous, Jeffrey.",
+"old_f": [
+"Plump and well fed",
+"Fixed by destiny",
+"Tired and weary"
+],
+"ety": "From Latin fatuus (“foolish, silly, simple”)."
+},
+{
+"w": "hawser",
+"pos": "noun",
+"d": "Large heavy rope for nautical use",
+"r": "Anglo-Norman haucer, from Vulgar Latin *altiāre “to raise”",
+"s": "A hatchet to my hawser? all adrift to go?",
+"old_f": [
+"Small hooded falcon for hunting",
+"Wooden peg for hanging nets",
+"Narrow gangway for loading cargo"
+],
+"ety": "From Middle English hauser, haucer, from Anglo-Norman haucer, from Vulgar Latin *altiāre (“to raise”), derived from Latin altus (“high”). Altered in English by mistaken association with hawse and perhaps haul. Compare French aussière, haussière."
+},
+{
+"w": "puissance",
+"pos": "noun",
+"d": "Power to influence or coerce",
+"r": "Old French puissant “powerful”",
+"s": "We easily pronounce puissance, truth and justice.",
+"old_f": [
+"A thick soup of dried peas",
+"A small leather purse",
+"A brief pause between notes"
+],
+"ety": "From Middle English puissaunce, from Anglo-Norman puissance, pusaunce, and other forms, from Old French puissant (“powerful”)."
+},
+{
+"w": "hauteur",
+"pos": "noun",
+"d": "Overbearing pride evidenced by a superior manner toward inferiors",
+"r": "French hauteur",
+"s": "Sometimes the hauteur is nothing more dire than a kind of black-mother wit.",
+"old_f": [
+"A deep red wine produced in the valleys of eastern France",
+"A long, flowing gown worn by women at royal courts",
+"A rich sauce made with butter, cream and wine for game"
+],
+"ety": "Borrowed from French hauteur."
+},
+{
+"w": "sacristan",
+"pos": "noun",
+"d": "An officer of the church who is in charge of sacred objects",
+"r": "Late Latin sacrista, from Latin sacer; a doublet of sexton",
+"s": "The church was looked after by an old sacristan who lived in a cottage on the shore of the lake.",
+"old_f": [
+"A monk of the church who is in charge of the kitchen gardens",
+"A singer in the church who leads the chanting of the psalms",
+"A guard of the church who is in charge of the bell tower"
+],
+"ety": "From French sacristain, Late Latin sacrista, from Latin sacer. Doublet of sexton."
+},
+{
+"w": "necromancy",
+"pos": "noun",
+"d": "The belief in magical spells that harness occult forces or evil spirits to produce unnatural effects in the world",
+"r": "Greek nekromanteía, from nekrós “dead” + manteía “divination”",
+"s": "That necromancy is the touch-stone of occultism.",
+"old_f": [
+"The practice of collecting old swords, helmets and armor from battlefields to sell to wealthy collectors and museums",
+"The study of romantic poetry written about death and grief during the early years of the nineteenth century",
+"The craft of preserving the bodies of the dead with resins and spices for burial in elaborate tombs"
+],
+"ety": "Circa 1300, from Middle English nigromancye, from Old French nigromancie, from Medieval Latin nigromantia, from Latin necromantia, from Ancient Greek νεκρομαντεία (nekromanteía), νεκρός (nekrós, “dead”) + μαντεία (manteía, “divination”). Medieval Latin spelling, incorporating niger (“black”), influenced by the notion of black art. Modern spelling adopted in mid-1500s. By surface analysis, necro- + -mancy."
+},
+{
+"w": "verboten",
+"pos": "adjective",
+"d": "Excluded from use or mention",
+"r": "German verboten “banned, forbidden”; a doublet of forbidden",
+"s": "The next day we were off-limits to one another—verboten, traife, dangerous.",
+"old_f": [
+"Spoken aloud word for word",
+"Covered with green growth",
+"Twisted into a spiral"
+],
+"ety": "Unadapted borrowing from German verboten (“banned, forbidden, prohibited”). Doublet of forbidden."
+},
+{
+"w": "abeyance",
+"pos": "noun",
+"d": "Temporary cessation or suspension",
+"r": "Anglo-Norman abeiance “legal expectation”, from Old French abeër “to gape at, aspire after”",
+"s": "Without a plausible explanation for what might have provoked an ice age, the whole theory fell into abeyance.",
+"old_f": [
+"Strict obedience to rules",
+"A small private chapel",
+"A sudden loud cry"
+],
+"ety": "First attested in 1528. From Anglo-Norman abeiance (“legal expectation”), from Old French abeance (“desire”) from abeër (“to gape at, aspire after”), abaer, abair (“to desire”), from a (“to”) + baër (“to gape”), bair (“yawn”), from Medieval Latin batō (“to yawn”)."
+},
+{
+"w": "mistral",
+"pos": "noun",
+"d": "A strong north wind that blows in France during the winter",
+"r": "Middle French mistral, from Occitan; a doublet of magistral",
+"s": "The mistral had been blowing for three days now and the sea showed more white than blue.",
+"old_f": [
+"A wandering singer who performed at the courts of southern France",
+"A thin sweet wine made from grapes dried in the winter sun",
+"A heavy wooden shutter used to keep out storms in coastal villages"
+],
+"ety": "Borrowed from Middle French mistral, from Occitan. Doublet of magistral."
+},
+{
+"w": "assegai",
+"pos": "noun",
+"d": "The slender spear of the Bantu-speaking people of Africa",
+"r": "Arabic az-zaḡāya, from Proto-Berber *zaġāya “spear”",
+"s": "A collection of spears, assegais, shields, knives was hung up in trophies.",
+"old_f": [
+"The woven grass mat used for sleeping in parts of East Africa",
+"The beaded headband worn at weddings in parts of southern Africa",
+"The carved wooden stool of a village elder in West Africa"
+],
+"ety": "From French azagaie (now zagaie) or Portuguese azagaia, Spanish azagaya, and later in the forms that have become most common borrowed from Afrikaans assegaai, from colloquial Arabic اَلزَّغَايَة (az-zaḡāya), from Proto-Berber *zaġāya (“spear”)."
+},
+{
+"w": "forfend",
+"pos": "verb",
+"d": "Prevent the occurrence of; prevent from happening",
+"r": "Middle English forfenden “to ward off, protect, prohibit”: for- + fend",
+"s": "People have long given thought to the causes of danger and how they might be forfended.",
+"old_f": [
+"Give up a right; lose through neglect",
+"Predict a future event; foretell",
+"Pardon an offense; forgive"
+],
+"ety": "From Middle English forfenden (“to ward off, protect, prohibit”), equivalent to for- + fend."
+},
+{
+"w": "sgraffito",
+"pos": "noun",
+"d": "A ceramic or mural decoration made by scratching off a surface layer to reveal the ground",
+"r": "Italian sgraffito, from s- “out” + graffito, ultimately from Greek gráphein “to write or scratch”",
+"s": "I did murals there as well, designs for windows, bas relief and otherwise, sgraffitoes.",
+"old_f": [
+"A quick sketch made in charcoal or chalk on a wall to plan the layout of a fresco",
+"A glossy glaze made by mixing ground glass with lead to coat earthenware before firing",
+"A carved frame made of gilded wood or plaster to surround a painting in a church"
+],
+"ety": "Borrowed from Italian sgraffito, from s- (“out”) + graffito (past participle of graffire), ultimately from Ancient Greek γράφειν (gráphein, “to write or scratch”)."
+},
+{
+"w": "dolman",
+"pos": "noun",
+"d": "A hussar’s jacket worn over the shoulders",
+"r": "French doliman, ultimately from Ottoman Turkish dolaman “robe”, from dolamak “to wrap around”",
+"s": "He shrugged a shoulder until his dolman fell into place.",
+"old_f": [
+"A Turkish stuffed vine leaf served cold",
+"A wide-brimmed hat worn by shepherds",
+"A small hanging lamp of brass"
+],
+"ety": "Apparently from French doliman, dolman (sense 2), ultimately from Ottoman Turkish طولامان, دولامان (dolaman, “robe”), from طولامق (dolamak, “to wrap around”). Compare German Doliman, Dollman; Hungarian dolmány."
+},
+{
+"w": "ineluctable",
+"pos": "adjective",
+"d": "Impossible to avoid or evade",
+"r": "Latin inēlūctābilis, from in- + ēlūctor “struggle out”",
+"s": "They have come under the yoke of ineluctable slavery.",
+"old_f": [
+"Impossible to read or decipher",
+"Impossible to put into words",
+"Impossible to wash clean"
+],
+"ety": "From Middle French inéluctable (whence in- + e- and -able), from Latin inēlūctābilis, from in- + ēlūctor (“struggle out”) + -bilis."
+},
+{
+"w": "natter",
+"pos": "verb",
+"d": "Talk socially without exchanging too much information",
+"r": "Northern English dialect gnatter “to chatter, grumble”, ultimately imitative",
+"s": "What are you guys nattering about? You're clearly not following the meeting!",
+"old_f": [
+"Tie knots in a fishing net",
+"Groom one’s hair with oil",
+"Sneeze repeatedly from dust"
+],
+"ety": "From a Northern England dialectal variant of gnatter (also knatter) (\"to chatter, grumble; nibble away at\"), ultimately of imitative origin. Cognate with German Low German gnattern (“to mumble, grumble, be grouchy”)."
+},
+{
+"w": "dipsomaniac",
+"pos": "noun",
+"d": "A person who drinks alcohol to excess habitually",
+"r": "Dipso- + -maniac",
+"s": "The dipsomaniac and the abstainer are not only both mistaken, but they both make the same mistake.",
+"old_f": [
+"A person who bathes in cold water every morning",
+"A person who swims or dives at great depths without equipment",
+"A person who collects rare stamps and coins compulsively"
+],
+"ety": "From dipso- + -maniac."
+},
+{
+"w": "arcane",
+"pos": "adjective",
+"d": "Requiring secret or mysterious knowledge",
+"r": "Latin arcānus “hidden, secret”, from arceō “to shut up, enclose”",
+"s": "He had an arcane knowledge of ancient rituals.",
+"old_f": [
+"Curved like a bow",
+"Very old and outdated",
+"Fond of bright colors"
+],
+"ety": "Borrowed from Latin arcānus (“hidden, secret”), from arceō (“to shut up, enclose”); cognate with Latin arca (“a chest”)."
+},
+{
+"w": "salutary",
+"pos": "adjective",
+"d": "Tending to promote physical well-being; beneficial to health",
+"r": "Latin salutaris “healthful”, from salus “health”",
+"s": "Groper argues that “being digital” is constitutive of today’s salutary political life.",
+"old_f": [
+"Tending to welcome guests warmly; offering a friendly greeting",
+"Containing a high level of salt; briny to the taste",
+"Relating to wages and salaries; paid at regular intervals"
+],
+"ety": "Borrowed from Middle French salutaire and its source, Latin salutaris (“healthful”), from salus (“health”)."
+},
+{
+"w": "hassock",
+"pos": "noun",
+"d": "Thick cushion used as a seat",
+"r": "Old English hassoc “coarse grass”, of uncertain origin",
+"s": "At the next service he found a flower on his hassock.",
+"old_f": [
+"Tall boot worn by riders",
+"Coarse sack for grain",
+"Short cloak with a hood"
+],
+"ety": "From Old English hassoc (“coarse grass”), of uncertain origin."
+},
+{
+"w": "platitudinous",
+"pos": "adjective",
+"d": "Dull and tiresome but with pretensions of significance or originality",
+"r": "Platitude + -ous",
+"s": "Situations and emotions that would remain exasperatingly vague to the reader had their expression been etiolated by means of platitudinous evasions.",
+"old_f": [
+"Broad and flat but with a slight upward curve at each end",
+"Plump and rounded but with a firm and healthy appearance",
+"Pale and shiny but with a faint silvery tint"
+],
+"ety": "From platitude + -ous on analogy of other adjectives ending in -tudinous, from Latin -tūdin- + -ous, the oblique stem of -tūdō. Compare platitudinize."
+},
+{
+"w": "machination",
+"pos": "noun",
+"d": "A crafty and involved plot to achieve your (usually sinister) ends",
+"r": "Latin māchinātiōnem, from māchinor “devise, invent”",
+"s": "The inner machinations of my mind are an enigma.",
+"old_f": [
+"A loud and repeated noise made by a machine (usually a loom)",
+"A careful and gradual process of shaping metal (usually by hand)",
+"A large and complicated device for lifting heavy loads (usually in docks)"
+],
+"ety": "From Middle English machynacion, machynacyon, from Middle French machination and directly Latin māchinātiōnem, from māchinor (“devise, invent”). By surface analysis, machinate + -ion or machine + -ation."
+},
+{
+"w": "certitude",
+"pos": "noun",
+"d": "Total certainty or greater certainty than circumstances warrant",
+"r": "Late Latin certitūdō, from Latin certus",
+"s": "Taxes are obviously certitudes.",
+"old_f": [
+"A formal document stating the holder’s qualifications",
+"A narrow mountain pass or gorge",
+"A measure of land equal to one acre"
+],
+"ety": "From Middle French certitude, from Late Latin certitūdō, from Latin certus."
+},
+{
+"w": "immolate",
+"pos": "verb",
+"d": "Offer as a sacrifice by killing or by giving up to destruction",
+"r": "Latin immolō “to sacrifice”",
+"s": "The Aztecs immolated human victims.",
+"old_f": [
+"Protect from harm by sealing inside a coat of wax or resin",
+"Make softer by soaking in water or giving up to warmth",
+"Hold perfectly still by binding tightly or giving up to restraint"
+],
+"ety": "The adjective is first attested in 1534, the verb in 1548; borrowed from Latin immolātus, perfect passive participle of immolō (“to sacrifice”), see -ate (verb-forming suffix) and -ate (adjective-forming suffix)."
+},
+{
+"w": "votive",
+"pos": "adjective",
+"d": "Dedicated in fulfillment of a vow",
+"r": "Latin vōtīvus, from vōtum “vow”",
+"s": "She placed a votive offering at the shrine.",
+"old_f": [
+"Relating to the casting of ballots",
+"Spoken aloud in a loud voice",
+"Moving in a spiral or whirl"
+],
+"ety": "From Middle French votif, from Latin vōtīvus (“votive”), from vōtum (“vow”)."
+},
+{
+"w": "declamatory",
+"pos": "adjective",
+"d": "Ostentatiously lofty in style",
+"r": "Declaim + -atory",
+"s": "Behind him an excitable Frenchman was holding forth in declamatory style to a group of astonished residents.",
+"old_f": [
+"Sloping gently downward",
+"Openly stated or announced",
+"Lacking any clear meaning"
+],
+"ety": "Equivalent to declaim + -atory."
+},
+{
+"w": "enchiridion",
+"pos": "noun",
+"d": "A concise reference book providing specific information about a subject or location",
+"r": "Greek enkheirídion “handbook, manual”, from en “in” + kheír “hand”",
+"s": "Sartor Resartus was for many years his Enchiridion (he says).",
+"old_f": [
+"A long epic poem recounting the adventures of a legendary hero or founder",
+"A small jeweled case used for carrying perfume or relics on a chain",
+"A spell or charm recited to protect a household from evil spirits"
+],
+"ety": "Either via Latin enchīridion or directly, from Ancient Greek ἐγχειρίδιον (enkheirídion, “handbook, manual”), from ἐν (en, “in”) + χείρ (kheír, “hand”) + -ίδιον (-ídion)."
+},
+{
+"w": "betimes",
+"pos": "adverb",
+"d": "In good time",
+"r": "Middle English betymes, from bi “by” + time + adverbial -s",
+"s": "Smart lad to slip betimes away From fields where glory does not stay.",
+"old_f": [
+"From time to time",
+"At bedtime",
+"Between meals"
+],
+"ety": "From Middle English betymes, from bi (“by”) + time + adverbial -s. By surface analysis, betime + -s (adverbial suffix). Compare also betides."
+},
+{
+"w": "simony",
+"pos": "noun",
+"d": "Traffic in ecclesiastical offices or preferments",
+"r": "Late Latin simonia, after Simon Magus (Acts 8:18–20)",
+"s": "He openly practiced simony; in other words, he sold benefices.",
+"old_f": [
+"Imitation of another’s speech or manners",
+"Harmony of many voices singing together",
+"Likeness between two unrelated things"
+],
+"ety": "From Middle English simonie, symonye, from Old French simonie, from Late Latin simonia, named after Simon Magus (Hebrew שִׁמְעוֹן (Šimʻôn, “Simon”)), with reference to Acts 8:18–20."
+},
+{
+"w": "pelisse",
+"pos": "noun",
+"d": "A sleeveless cape that is lined or trimmed with fur",
+"r": "French pelisse, from Latin pellis “skin”; a doublet of pilch",
+"s": "The mother was crimson in countenance and pelisse.",
+"old_f": [
+"A small round tablet of compressed herbs",
+"A shallow wooden spade used for removing bread from an oven",
+"A thin wafer of dough baked with sugar"
+],
+"ety": "Borrowed from French pelisse, from Late Latin pellicia, from Latin pellis (“skin”). Doublet of pilch."
+}
+]

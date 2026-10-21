@@ -1,0 +1,522 @@
+[
+{
+"w": "expatiate",
+"pos": "verb",
+"d": "Add details, as to an account or idea; clarify the meaning of and discourse in a learned way, usually in writing",
+"r": "Latin expatior, from ex- + spatior “walk about”",
+"s": "“It can't fly,” he expatiated. “It can move forward only by hopping.”",
+"old_f": [
+"Leave one’s homeland, as to work abroad; settle permanently in a foreign country, usually for reasons of employment",
+"Make amends for, as for a sin or crime; atone through suffering or penance, usually in a religious setting",
+"Breathe out, as from the lungs; release air slowly and steadily, usually while singing"
+],
+"ety": "From the participle stem of Latin expatior, from ex- + spatior (“walk about”)."
+},
+{
+"w": "epistolary",
+"pos": "adjective",
+"d": "Written in the form of or carried on by letters or correspondence",
+"r": "Latin epistolārius, from epistola “letter”",
+"s": "Bram Stoker's novel Dracula (1897) is written in epistolary style.",
+"old_f": [
+"Delivered in the form of or set down as a formal public sermon",
+"Arranged in the form of or composed as a set of short poems",
+"Relating to the duties of or carried out by a bishop or archbishop"
+],
+"ety": "1627, from Latin epistolārius, from epistola (“letter”) (English epistle) + -ārius, from Ancient Greek ἐπιστολή (epistolḗ) from ἐπιστέλλω (epistéllō, “to send a message”) from ἐπί (epí, “upon”) + στέλλω (stéllō, “to prepare, send”). For the noun, compare Middle English pistelarie and Old English pistelari, both from Medieval Latin epistolārium, possibly via an unattested *epistelari, *epistolarie."
+},
+{
+"w": "invidious",
+"pos": "adjective",
+"d": "Containing or implying a slight or showing prejudice",
+"r": "Latin invidiōsus, from invidia “envy, ill will”; a doublet of envious",
+"s": "But the rich man—not to make any invidious comparison—is always sold to the institution which makes him rich.",
+"old_f": [
+"Containing or giving a feeling of new energy",
+"Hidden or impossible to see with the eye",
+"Relating to the private life of an individual"
+],
+"ety": "Borrowed from Latin invidiōsus, from invidia (“envy, ill will”), from in- (“upon”) + videō (“to see”); the meaning developed from “look back at” to “look askance at” to “envy.” Doublet of envious, from Old French."
+},
+{
+"w": "peroration",
+"pos": "noun",
+"d": "A flowery and highly rhetorical oration",
+"r": "Latin perōrō “to speak at length, conclude a speech”, from per- “very” + ōrō “to speak”",
+"s": "Nephew, what means this passionate discourse, This peroration with such circumstance?",
+"old_f": [
+"A small hole bored through a plank",
+"A long walk around a boundary",
+"A bitter draught given before surgery"
+],
+"ety": "From Latin perōrō (“to speak at length, to conclude a speech”) (from per- (“very”) + ōrō (“to speak, to orate”) (English orate)) + -ation (“action (nominalizer)”) (from Latin -ātiō)."
+},
+{
+"w": "consanguineous",
+"pos": "adjective",
+"d": "Related by blood",
+"r": "Latin cōnsanguineus, from con- “together” + sanguis “blood”",
+"s": "Am not I consanguineous? am I not of her blood?",
+"old_f": [
+"Bright red in color",
+"Sharing one opinion",
+"Living under one roof"
+],
+"ety": "Adapted borrowing of Latin cōnsanguineus + -ous, from con- (“together”) + sanguineus (“of or pertaining to blood”), from sanguis (“blood”). By surface analysis, con- + sanguineous. Doublet of consanguine."
+},
+{
+"w": "theophany",
+"pos": "noun",
+"d": "A visible (but not necessarily material) manifestation of a deity to a human person",
+"r": "Late Latin theophania, from Greek theós “God” + phaínō “to shine, appear”",
+"s": "It was a bewildering theophany, since it was impossible to make out anything clearly in the stormy obscurity of thunder, lightning, smoke and wind.",
+"old_f": [
+"A spoken (but not necessarily public) declaration of faith made before a congregation",
+"A written (but not necessarily signed) record of a meeting held by church elders",
+"A sudden (but not necessarily lasting) loss of religious belief in a devout person"
+],
+"ety": "From Late Latin theophania, corresponding to theo- + -phany, from θεός (theós, “God”) + φαίνω (phaínō, “to shine, appear”)."
+},
+{
+"w": "carrack",
+"pos": "noun",
+"d": "A large galleon sailed in the Mediterranean as a merchantman",
+"r": "French caraque, from Latin carrus “wagon”; or perhaps from Arabic qarāqīr",
+"s": "Thereafter huge sailing carracks brought Indian pepper and cotton, Indonesian perfume and spice, Chinese silk and porcelain, to the royal trading house at Lisbon.",
+"old_f": [
+"A small lean-to built against a castle wall as a stable",
+"A heavy wagon pulled through the Alps to haul supplies",
+"A narrow canal dug through the marshes as a trade route"
+],
+"ety": "From French caraque (compare Spanish and Portuguese carraca, Italian caracca), from Latin carraca, from Latin carrus (“wagon”); or perhaps from Arabic قَرَاقِير (qarāqīr)."
+},
+{
+"w": "mantilla",
+"pos": "noun",
+"d": "A woman’s silk or lace scarf",
+"r": "Spanish mantilla “large veil; small cape”, from manta “blanket, cloth”",
+"s": "The Duchess of Alba wrapped herself in a mantilla coat.",
+"old_f": [
+"A man’s fur or leather cap",
+"A child’s wool or cotton mitten",
+"A priest’s gold or silver chalice"
+],
+"ety": "Borrowed from Spanish mantilla (“large veil; small cape”), from manta (“blanket, cloth, cloth banner”) + -illa (diminutive)."
+},
+{
+"w": "gnomon",
+"pos": "noun",
+"d": "Indicator provided by the stationary arm whose shadow indicates the time on the sundial",
+"r": "Greek gnṓmōn “discerner, interpreter; carpenter’s square”",
+"s": "The little style or gnomon, which being fixed on the pole of the globe, and turning round with it, points out the hours upon the hour circle.",
+"old_f": [
+"Small figure made of carved stone that stands guard in a garden to bring good luck",
+"Brief saying or maxim that is engraved on a coin or medal to honor a ruler",
+"Curved blade attached to the end of a pole that is used to prune high branches"
+],
+"ety": "Borrowed from French gnomon, or directly from its etymon Latin gnōmōn, or directly from its etymon Ancient Greek γνώμων (gnṓmōn, “discerner, interpreter; carpenter’s square; gnomon of a sundial; (geometry) gnomon”), from γιγνώσκω (gignṓskō, “to be aware of; to perceive; to know”), ultimately from Proto-Indo-European *ǵneh₃- (“to know”); the word is thus related to know. The geometry sense (sense 4) is from the resemblance of the plane figure to a carpenter’s square. Similarly, a gnomon in mathematics (sense 5) is also shaped like a carpenter’s square when depicted pictorially if the figurate n"
+},
+{
+"w": "garrulous",
+"pos": "adjective",
+"d": "Full of trivial conversation",
+"r": "Latin garrulus “talkative”, from garriō “to chatter”",
+"s": "She lingered for a few moments, and was garrulous over some detail of the household.",
+"old_f": [
+"Full of garlic",
+"Gripping by the throat",
+"Fond of fine clothing"
+],
+"ety": "Adapted borrowing of Latin garrulus (“talkative”) + -ous, from the verb garriō (“to chatter”)."
+},
+{
+"w": "obdurate",
+"pos": "adjective",
+"d": "Stubbornly persistent in wrongdoing",
+"r": "Latin obdūrātus “hardened”, from ob- “against” + dūrō “to harden”",
+"s": "But custom maketh blind and obdurate The loftiest hearts.",
+"old_f": [
+"Lasting for a long time",
+"Gloomy and overcast",
+"Hard to see through"
+],
+"ety": "First attested in the 1450s, in Middle English; inherited from Middle English obdurat(e), borrowed from Latin obdūrātus (“hardened”), perfect passive participle of obdūrō (“to harden”) (see -ate (adjective-forming suffix)), from ob- (“against”) + dūrō (“to harden, render hard”), from dūrus (“hard”). Compare durable, endure."
+},
+{
+"w": "apotropaic",
+"pos": "adjective",
+"d": "Having the power to prevent evil or bad luck",
+"r": "Greek apotrópaios, from apó “away” + trópos “turn”: “turning away evil”",
+"s": "A boring subtext, about the wisdom or otherwise of actually uttering Voldemort's name, meanwhile robs the apotropaic device of its force.",
+"old_f": [
+"Having the habit of turning toward the sun",
+"Having the shape of a coiled spiral shell",
+"Having the power to cure fever and chills"
+],
+"ety": "From Ancient Greek ἀποτρόπαιος (apotrópaios), from ἀπό (apó, “away”) and τρόπος (trópos, “turn”); thus meaning “causing things to turn away”, as in “turns away evil”."
+},
+{
+"w": "turbid",
+"pos": "adjective",
+"d": "(of liquids) clouded as with sediment",
+"r": "Latin turbidus “disturbed”, from turba “tumult, disturbance”",
+"s": "This makes the estimation of the refractive index of the turbid liquid quite problematic.",
+"old_f": [
+"(of winds) blowing in sudden gusts",
+"(of fabric) wound around the head",
+"(of soil) heavy with peat"
+],
+"ety": "From Middle English turbide, borrowed from Latin turbidus (“disturbed”), from turba (“mass, throng, crowd, tumult, disturbance”)."
+},
+{
+"w": "petroglyph",
+"pos": "noun",
+"d": "A carving or line drawing on rock (especially one made by prehistoric people)",
+"r": "French pétroglyphe, from Greek pétra “rock” + gluphḗ “carved work”",
+"s": "The petroglyphs of Central Asia form a long sequence from the Neolithic onwards.",
+"old_f": [
+"A layer of fossil fuel trapped in rock (especially beneath an ancient seabed)",
+"A sweet resin that hardens into amber (especially along northern coasts)",
+"A large boulder carried by glaciers (especially one left standing alone on a plain)"
+],
+"ety": "From French pétroglyphe, from Ancient Greek πέτρα (pétra, “rock”) + γλυφή (gluphḗ, “carved work”). By surface analysis, petro- + glyph."
+},
+{
+"w": "voluptuary",
+"pos": "noun",
+"d": "A person addicted to luxury and pleasures of the senses",
+"r": "Late Latin voluptuārius, from Latin voluptās “delight, pleasure”",
+"s": "Another Greek, the historian Megacleides, singles out Heracles as the supreme voluptuary.",
+"old_f": [
+"A person who serves in the army without being paid",
+"A person who writes many long books on one subject",
+"A person who studies the eruptions of volcanoes"
+],
+"ety": "From French voluptuaire, or directly from its etymon Late Latin voluptuārius, from Latin voluptārius (“pleasure-seeker; agreeable, delightful, pleasant; sensual”), from voluptās (“delight, pleasure, satisfaction”) + -ārius (suffix forming adjectives from nouns). Voluptās is derived from volup (“with pleasure; agreeably, pleasantly, satisfactorily”) (ultimately from Proto-Indo-European *welh₁- (“to choose; to want”)) + -tās (suffix forming feminine abstract nouns indicating a state of being)."
+},
+{
+"w": "overweening",
+"pos": "adjective",
+"d": "Unrestrained, especially with regard to feelings",
+"r": "Middle English overweninge: overween + -ing",
+"s": "She wins one modeling contest in Montana and suddenly she’s overweening.",
+"old_f": [
+"Overgrown, especially with regard to weeds",
+"Underfed, especially with regard to newborn animals",
+"Overcast, especially with regard to winter skies"
+],
+"ety": "From Middle English overweninge, equivalent to overween + -ing. Cognate with obsolete Dutch overwanig, overwaand (“presumptuous; cocky; conceited”)."
+},
+{
+"w": "harmattan",
+"pos": "noun",
+"d": "A dusty wind from the Sahara that blows toward the western coast of Africa during the winter",
+"r": "Twi (Akan) haramata",
+"s": "Okonkwo's fame had grown like a bush-fire in the harmattan.",
+"old_f": [
+"A woven grass mat from the Sahel that is used to shade the doorways of mud houses during the dry season",
+"A stringed instrument from the Sahara that is played by wandering poets at weddings and festivals",
+"A tall headdress from the Sahara that is worn by camel drivers to protect the face from sand"
+],
+"ety": "From Twi Akan haramata or a related word (whence also Spanish harmatán). The ultimate origin is supposed by some to be an Arabic word, but which one is uncertain; حَرَام (ḥarām, “accursed thing”) has been suggested."
+},
+{
+"w": "rictus",
+"pos": "noun",
+"d": "A gaping grimace",
+"r": "Latin rictus",
+"s": "His face was a rictus of sheer delight.",
+"old_f": [
+"A sudden chill",
+"A Roman tax",
+"A narrow crack"
+],
+"ety": "Learned borrowing from Latin rictus."
+},
+{
+"w": "putative",
+"pos": "adjective",
+"d": "Purported; commonly put forth or accepted as true on inconclusive grounds",
+"r": "Latin putātīvus “supposed, purported”, from putō “to think, consider”",
+"s": "In answer to the objection, that if a thing is only putative, it is fictitious.",
+"old_f": [
+"Penal; commonly imposed or carried out as a punishment for minor offenses",
+"Rotten; commonly found or left to decay in damp and airless places",
+"Graceful; commonly praised or admired for its smooth and polished finish"
+],
+"ety": "First attested c. 1432, from Middle French putatif, from Latin putātīvus (“supposed, purported”), from putātus (“thought”), from putō (“to think, to consider, to reckon”)."
+},
+{
+"w": "freebooter",
+"pos": "noun",
+"d": "Someone who takes spoils or plunder (as in war)",
+"r": "Dutch vrijbuiter “free booty-er”; a doublet of filibuster",
+"s": "The time-honoured connection between forest and freebooter.",
+"old_f": [
+"Someone who travels without paying fares (as on trains)",
+"Someone who repairs boots and shoes (as in villages)",
+"Someone who frees prisoners for ransom (as in feudal times)"
+],
+"ety": "From free + booty + -er. Calque of Dutch vrijbuiter (literally “free booty-er”), from vrij (“free”) + buit (“booty”) + -er (occupational suffix). Doublet of filibuster."
+},
+{
+"w": "tocsin",
+"pos": "noun",
+"d": "The sound of an alarm (usually a bell)",
+"r": "Old Occitan tocasenh, from tocar “strike, touch” + senh “bell”",
+"s": "I'll ring the tocsin, I'll have Saint-Antoine out.",
+"old_f": [
+"A poison made from snake venom",
+"A small brass drum (usually Turkish)",
+"A toast to the bride"
+],
+"ety": "Borrowed from Middle French, from Old French toquesain (modern tocsin), from Old Occitan tocasenh, from tocar (“strike, touch”) + senh (“bell”)."
+},
+{
+"w": "protean",
+"pos": "adjective",
+"d": "Taking on different forms",
+"r": "Proteus + -an, after the Greek sea god who could change his shape",
+"s": "An amoeba is a protean animalcule.",
+"old_f": [
+"Rich in meat and eggs",
+"Lasting through many ages",
+"Leaning slightly forward"
+],
+"ety": "From Proteus + -an, referring to the Greek warden of sea-beasts, renowned for his ability to change shape."
+},
+{
+"w": "tremulous",
+"pos": "adjective",
+"d": "(of the voice) quivering as from weakness or fear",
+"r": "Latin tremulus, from tremō “to tremble, shake”",
+"s": "The trying nature of his position drove the blood from his cheek, and made his lips tremulous.",
+"old_f": [
+"(of the voice) loud and booming as from a great hall",
+"(of the voice) flat and dull as from long repetition",
+"(of the voice) smooth and rich as from careful training"
+],
+"ety": "From Latin tremulus, from tremō (“to tremble, shake”) + -ulus. Doublet of tremor and tremble. By surface analysis, tremulate + -ous."
+},
+{
+"w": "cognomen",
+"pos": "noun",
+"d": "A familiar name for a person (often a shortened version of a person’s given name)",
+"r": "Latin cognōmen, from con- “with” + nōmen “name”",
+"s": "Gaius was his praenomen or forename, Iulius his nomen or surname, and Caesar his cognomen.",
+"old_f": [
+"A secret sign used by members of a society (often a gesture or a handshake)",
+"A small cog or gear in a clockwork mechanism (often made of brass)",
+"A personal motto inscribed on a coat of arms (often written in Latin)"
+],
+"ety": "From Latin cognōmen, from con- (“with”) + nōmen (“name; family name”)."
+},
+{
+"w": "prodigious",
+"pos": "adjective",
+"d": "So great in size or force or extent as to elicit awe",
+"r": "Latin prōdigiōsus “strange, marvellous”, from prōdigium “omen, portent, wonder”",
+"s": "A prodigious quantity of insects of all sorts (but no mosquitoes) assailed us at our evening meal.",
+"old_f": [
+"So wasteful of money or goods as to bring ruin upon oneself",
+"So clever at an early age as to astonish one’s elders",
+"So precise in manners and speech as to seem stiff"
+],
+"ety": "The adjective is derived from Late Middle English prodigious (“warning of disaster, portentous”), from Latin prōdigiōsus (“strange, unnatural; marvellous, wonderful, prodigious”), from prōdigium (“prophetic sign, omen, portent; prodigy, wonder”) + -ōsus (suffix meaning ‘full of’ forming adjectives from nouns). Prōdigium is derived from prō- (prefix denoting a forward direction, something before or prior, or prominence) + aiō (“to say, speak”) (ultimately from Proto-Indo-European *h₁eǵ- (“to say”)) + -ium (suffix forming abstract nouns). The English word is analysable as prodigy + -ous. The adv"
+},
+{
+"w": "acquisitive",
+"pos": "adjective",
+"d": "Eager to acquire and possess things especially material possessions or ideas",
+"r": "Latin acquīsītus “acquired, gained”",
+"s": "She has an acquisitive nature.",
+"old_f": [
+"Eager to question and examine things especially unfamiliar customs or beliefs",
+"Tending to agree and comply readily especially with requests from those in authority",
+"Able to hear and distinguish sounds especially very faint or distant noises"
+],
+"ety": "From an alteration of Latin acquisītus (“acquired, gained”), or possibly from acquisite + -ive."
+},
+{
+"w": "lagniappe",
+"pos": "noun",
+"d": "A small gift (especially one given by a merchant to a customer who makes a purchase)",
+"r": "Louisiana French, from Spanish la ñapa, from Quechua yapa “addition, increase”",
+"s": "Call it a little lagniappe, goodbuddy.",
+"old_f": [
+"A small boat (especially one used by fishermen to set crab traps in shallow bayous)",
+"A spicy stew (especially one made with shellfish and served over rice at festivals)",
+"A rowdy dance (especially one held in a barn to celebrate the end of the harvest)"
+],
+"ety": "Borrowed from Louisiana French lagniappe, from Spanish la ñapa, a variant of yapa (“small gift or additional quantity given to a valued customer”), from Quechua yapa (“addition, increase, supplement; lagniappe”), yapay (“to add, to increase”)."
+},
+{
+"w": "parlance",
+"pos": "noun",
+"d": "A manner of speaking that is natural to native speakers of a language",
+"r": "Anglo-Norman parlance, from parler “to talk” + -ance",
+"s": "We approach the contest, still known in the common parlance of the country, as \"the first Pennimite War.\"",
+"old_f": [
+"A long pole with a sharp blade carried by foot soldiers in medieval armies",
+"A formal assembly of nobles and clergy summoned by a king to approve taxes",
+"A small sitting room set aside for receiving guests in a large house"
+],
+"ety": "From Middle English *parlaunce, from Anglo-Norman parlance, parlaunce, from parler (“to talk”) + -ance."
+},
+{
+"w": "vassal",
+"pos": "noun",
+"d": "A person holding a fief; a person who owes allegiance and service to a feudal lord",
+"r": "Medieval Latin vassallus “manservant, retainer”, from Gaulish *wassos “young man, squire”",
+"s": "The king ordered his vassals to join him on the crusade unless they had a written note signed by the archbishop or pope.",
+"old_f": [
+"A vessel used for washing; a basin of metal or stone set before guests at a feast",
+"A servant who carves meat; an attendant who waits at the high table during a banquet",
+"A soldier who guards a castle; a man who keeps watch on the walls during the night"
+],
+"ety": "From Middle English vassal, from Old French vassal, from Medieval Latin vassallus (“manservant, domestic, retainer”), from Latin vassus (“servant”), from Gaulish *wassos (“young man, squire”), from Proto-Celtic *wastos (“servant”) (compare Old Irish foss and Welsh gwas)."
+},
+{
+"w": "indolence",
+"pos": "noun",
+"d": "Inactivity resulting from a dislike of work",
+"r": "Latin indolentia “freedom from pain; insensibility”",
+"s": "Her whole figure expressed a tense vibrant life in singular contrast to the apparent indolence of the men at whom she was talking.",
+"old_f": [
+"Sadness resulting from the loss of a loved one",
+"Rudeness resulting from a lack of proper upbringing",
+"Wealth resulting from a large inheritance"
+],
+"ety": "Borrowed from Middle French indolence, or from its etymon Latin indolentia (“freedom from pain; insensibility”), from in- (prefix meaning ‘not’) + dolēns (“hurting, suffering; grieving, lamenting”) + -ia (suffix forming feminine abstract nouns). Dolēns is the present participle of doleō (“to hurt, suffer; to be sorry, deplore, grieve for, lament”), ultimately from Proto-Indo-European *delh₁- (“to divide, split”)."
+},
+{
+"w": "desultory",
+"pos": "adjective",
+"d": "Marked by lack of definite plan or regularity or purpose; jumping from one thing to another",
+"r": "Latin dēsultōrius “hasty, superficial”, from dēsultor “a circus rider who jumped from horse to horse”",
+"s": "I teach a class of desultory minds.",
+"old_f": [
+"Marked by an excess of formal politeness or ceremony; bowing and scraping at every turn",
+"Marked by dry, barren, or lifeless landscapes; stretching on without water or shade",
+"Marked by a deep sense of guilt or regret; brooding over one past mistake"
+],
+"ety": "From Latin dēsultōrius (“hasty, casual, superficial”), from dēsultor (“a circus rider who jumped from one galloping horse to another”), from dēsiliō (“jump down”), from dē (“down”) + saliō (“jump, leap”)."
+},
+{
+"w": "necessitous",
+"pos": "adjective",
+"d": "Poor enough to need help from others",
+"r": "Necessity + -ous, after Middle French nécessiteux",
+"s": "But it is to be given to our necessitous kindred, or in charity.",
+"old_f": [
+"Required by law in every case",
+"Fond of strict routines and habits",
+"Cruel enough to cause harm to others"
+],
+"ety": "From necessity + -ous, after Middle French nécessiteux."
+},
+{
+"w": "vitrine",
+"pos": "noun",
+"d": "A glass container used to store and display items in a shop or museum or home",
+"r": "French vitrine, from vitre “pane of glass”, from Latin vitrum “glass”",
+"s": "The dealer was trying to concentrate on showing Bouck some small art-glass pieces in a vitrine in the middle of the booth.",
+"old_f": [
+"A sour liquid made from wine or cider used to pickle vegetables or dress salads at home",
+"A climbing plant grown against a wall or trellis to shade a terrace or courtyard",
+"A narrow strip of stained glass set into a church window to depict a saint"
+],
+"ety": "Borrowed from French vitrine, from vitre (“pane of glass”), from Old French, from Latin vitrum (“glass”)."
+},
+{
+"w": "usurious",
+"pos": "adjective",
+"d": "Greatly exceeding bounds of reason or moderation",
+"r": "Usury + -ous",
+"s": "The originator of a usurious loan in California is subject to severe civil penalties.",
+"old_f": [
+"Relating to the right to use another’s property",
+"Tending to take power by force",
+"Commonly done or accepted as normal"
+],
+"ety": "From usury + -ous."
+},
+{
+"w": "nettlesome",
+"pos": "adjective",
+"d": "Causing irritation or annoyance",
+"r": "Nettle + -some",
+"s": "My old car is very nettlesome.",
+"old_f": [
+"Neat and orderly",
+"Small and sharp",
+"Fond of nesting"
+],
+"ety": "From nettle + -some."
+},
+{
+"w": "trepidation",
+"pos": "noun",
+"d": "A feeling of alarm or dread",
+"r": "Latin trepidātiō, from trepidō “be agitated”",
+"s": "I decided, with considerable trepidation, to let him drive my car without me.",
+"old_f": [
+"A long walk through rough country",
+"A three-legged frame for a camera",
+"A slow rise in the price of grain"
+],
+"ety": "Borrowed from Latin trepidātiō, from trepidō (“be agitated”)."
+},
+{
+"w": "effete",
+"pos": "adjective",
+"d": "Marked by excessive self-indulgence and moral decay",
+"r": "Latin effētus “exhausted”, literally “that has given birth”",
+"s": "Most writers merely produce effete works on paper, you might say, but Kerouac went and wrestled with the tree itself.",
+"old_f": [
+"Marked by sudden bursts of great energy",
+"Marked by a strong and lasting impact",
+"Marked by careless and untidy dress"
+],
+"ety": "From Latin effētus (“exhausted”, literally “that has given birth”), 1620s."
+},
+{
+"w": "sunder",
+"pos": "verb",
+"d": "Break apart or in two, using violence",
+"r": "Old English sundrian “to separate, split, part, divide”",
+"s": "In Taran's hand the sundered bone had turned into gray dust, which he cast aside.",
+"old_f": [
+"Dry out under strong sun, using racks",
+"Sink below water, using weights",
+"Bury deep under ground, using a spade"
+],
+"ety": "From Middle English sundren (“to separate, part, divide”), from Old English sundrian (“to separate, split, part, divide”), from Proto-Germanic *sundrōną (“to separate”), from Proto-Indo-European *sen(e)- (“separate, without”). Cognate with Scots sinder, sunder (“to separate, divide, split up”), Dutch zonderen (“to isolate”), German sondern (“to separate”), Swedish söndra (“to divide”). More at sundry."
+},
+{
+"w": "taciturn",
+"pos": "adjective",
+"d": "Habitually reserved and uncommunicative",
+"r": "Latin taciturnus, from tacitus “secret, tacit”",
+"s": "The two sisters could hardly have been more different, one so boisterous and expressive, the other so taciturn and calm.",
+"old_f": [
+"Sticky to the touch",
+"Quick to change direction",
+"Easily turned aside"
+],
+"ety": "Back-formation from taciturnity, from Middle English taciturnite, from Latin taciturnitās; or alternatively from French taciturne, likely reinforced by Latin taciturnus, from tacitus (“secret, tacit”)."
+},
+{
+"w": "excoriate",
+"pos": "verb",
+"d": "Express strong disapproval of",
+"r": "Late Latin excoriō “to take the skin or hide off”",
+"s": "The teacher continued to excoriate the student after his academic issues.",
+"old_f": [
+"Remove the core from",
+"Drive out evil spirits",
+"Dig out by scooping"
+],
+"ety": "First attested in the first part of the 15ᵗʰ century, in Middle English; inherited from Middle English *excoriaten (only attested in its past participle), borrowed from Late Latin excoriātus perfect passive participle of excoriō (“to take the skin or hide off, flay, skin”), from ex- (“out off, from”) + corium (“hide, skin”) + -ō. Regular participial usage of the adjective up until Early Modern English, later archaic."
+}
+]

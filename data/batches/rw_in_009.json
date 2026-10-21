@@ -1,0 +1,522 @@
+[
+{
+"w": "magnanimous",
+"pos": "adjective",
+"d": "Noble and generous in spirit",
+"r": "Latin magnanimus, from magnus “great” + animus “soul, mind”",
+"s": "Unless it suited me to be magnanimous, I haughtily ignored.",
+"old_f": [
+"Drawn by magnetic force",
+"Grand and showy in size",
+"Speaking with one voice"
+],
+"ety": "From Latin magnanimus, from magnus (“great”) + animus (“soul, mind”). Displaced native Old English miċelmōd (literally “big-minded”)."
+},
+{
+"w": "numinous",
+"pos": "adjective",
+"d": "Evincing the presence of a deity",
+"r": "Latin nūmen “nod of the head; divine will; divinity”",
+"s": "His interest in numinous objects led him on a quest for the Holy Grail.",
+"old_f": [
+"Having many parts or members",
+"Relating to coins and money",
+"Shining faintly in the dark"
+],
+"ety": "From Latin nūmen (“nod of the head; divine sway or will; divinity”) + -ous (suffix forming adjectives from nouns, denoting possession or presence of a quality). Nūmen is believed to derive either from Latin *nuō (“to nod”) or from Ancient Greek νοούμενον (nooúmenon, “influence perceptible by the mind but not the senses”) (ultimately from νόος (nóos, “mind; thought; purpose”))."
+},
+{
+"w": "upbraid",
+"pos": "verb",
+"d": "Express criticism towards",
+"r": "Old English upbreġdan: up- + braid",
+"s": "Yet do not upbraid us our distress.",
+"old_f": [
+"Tie hair in plaits",
+"Lift and carry",
+"Praise loudly"
+],
+"ety": "From Middle English upbreiden, from Old English upbreġdan, equivalent to up- + braid. Compare English umbraid (“to upbraid”), Icelandic bregða (“to draw, brandish, braid, deviate from, change, break off, upbraid”). See up, and braid (transitive)."
+},
+{
+"w": "hullabaloo",
+"pos": "noun",
+"d": "Disturbance usually in protest",
+"r": "Possibly a rhyming reduplication of halloo or hullo",
+"s": "They made such a hullabaloo about the change that the authorities were forced to change it back.",
+"old_f": [
+"Lullaby sung to infants",
+"Greeting shouted across fields",
+"Hollow drum of gourd"
+],
+"ety": "Possibly a rhyming reduplication of halloo (used as a greeting or to catch attention; used in hunting to urge on pursuers), hilloa, hullo (variants of “hello”), and similar words."
+},
+{
+"w": "innuendo",
+"pos": "noun",
+"d": "An indirect (and usually malicious) implication",
+"r": "Latin innuendō “by nodding”, from innuō “to give a nod”",
+"s": "She made a devious innuendo about her opponent, who was embarrassed.",
+"old_f": [
+"A sudden (and usually brief) flood",
+"An inner (and usually hidden) chamber",
+"A gradual (and usually gentle) slope"
+],
+"ety": "From the Latin innuendō (“by nodding”), ablative singular form of innuendum (“a nodding”), gerund of innuō (“to give a nod”)."
+},
+{
+"w": "contretemps",
+"pos": "noun",
+"d": "An awkward clash",
+"r": "French contretemps",
+"s": "The spat was just the latest in a series of contretemps between the RN and the AfD.",
+"old_f": [
+"A fast tempo",
+"A formal contract",
+"An evening dance"
+],
+"ety": "Borrowed from French contretemps."
+},
+{
+"w": "jerkin",
+"pos": "noun",
+"d": "A tight sleeveless and collarless jacket (often made of leather) worn by men in former times",
+"r": "First recorded in the early 1500s; possibly related to Dutch jurk “dress”",
+"s": "A tall and very good-looking kid in a jerkin came out of the store.",
+"old_f": [
+"A small dried strip of meat (often smoked over a fire) eaten by travellers in former times",
+"A short sudden twitch of the muscles (often caused by fright) suffered by sleepers",
+"A tall narrow jug with a spout (often made of pewter) used by servants in former times"
+],
+"ety": "First recorded in early 1500s. Possibly related to Dutch jurk (“dress”), itself of unknown origin and not attested before the 17th century. Derivation from Old French jo(u)rne (“day”) has been suggested."
+},
+{
+"w": "buttery",
+"pos": "noun",
+"d": "A small storeroom for storing foods or wines",
+"r": "Middle English buttry: butter + -y",
+"s": "‘This is the storehouse and buttery of my company of the Guard,’",
+"old_f": [
+"A small stall for selling dairy goods at market",
+"A heavy wooden ram for knocking down gates",
+"A shallow pond for keeping live fish"
+],
+"ety": "From Middle English buttry, equivalent to butter + -y. Piecewise doublet of butyric, butter ultimately being from Latin būtȳrum and -y being a doublet of -ic."
+},
+{
+"w": "dulcet",
+"pos": "adjective",
+"d": "Extremely pleasant in a gentle way",
+"r": "Old French doucet, from Latin dulcis “sweet, pleasant”",
+"s": "“Ah, yes, the dulcet tones of Windows 95.”",
+"old_f": [
+"Extremely dull in a tedious way",
+"Shaped like a small bell",
+"Relating to a stringed instrument"
+],
+"ety": "From Middle English doucet, from Old French doucet, from dulz, dulce (“sweet, pleasant”) + diminutive -et, from Latin dulcis (“sweet, pleasant”). Cognate with Spanish dulce, French doux, Italian dolce, Portuguese doce, and Romanian dulce. Doublet of dolcetto and doucet."
+},
+{
+"w": "recompense",
+"pos": "noun",
+"d": "Payment or reward (as for service rendered)",
+"r": "Old French recompense or Medieval Latin recompensa",
+"s": "He offered money as recompense for the damage, but what the injured party wanted was an apology.",
+"old_f": [
+"Rest or repose (as after a long journey)",
+"Counting or tallying (as of votes cast)",
+"Thought or reflection (as on past mistakes)"
+],
+"ety": "From Middle English recompense, borrowed from Old French recompense or Medieval Latin recompensa."
+},
+{
+"w": "barque",
+"pos": "noun",
+"d": "A sailing ship with 3 (or more) masts",
+"r": "Middle French barque, from Late Latin barca, ultimately from Greek bâris “Egyptian boat”",
+"s": "On being told, however, that the Norwegian barque Daphne was about to leave An-peng for Tamsui, I had my things taken on board.",
+"old_f": [
+"A hunting dog with 2 (or more) colors",
+"A covered cart with 4 (or more) wheels",
+"A stone tower with 2 (or more) bells"
+],
+"ety": "From Middle English barke (“boat”), borrowed from Middle French barque, itself borrowed from Italian barca or a Medieval Latin equivalent, from Late Latin barca, from Vulgar Latin barica, from Ancient Greek βᾶρις (bâris) 'Egyptian boat', from Coptic ⲃⲁⲁⲣⲉ (baare, “small boat”), from Demotic Egyptian br, from Egyptian bꜣjr (“transport ship, type of fish”), b-bA-A-y:r*Z1-P1. Doublet of bark, barge and baris. Possibly cognate with Spanish barco."
+},
+{
+"w": "funereal",
+"pos": "adjective",
+"d": "Suited to or suggestive of a grave or burial",
+"r": "Latin funereus + -al",
+"s": "Seven were chosen to push the funereal boat to the water, in honor of the seven faces of god.",
+"old_f": [
+"Shaped like a cone with a narrow spout or opening",
+"Suited to or suggestive of a fair or carnival",
+"Relating to the basic principles of a subject"
+],
+"ety": "From Middle French funerail, from Latin funereus + -al."
+},
+{
+"w": "penumbra",
+"pos": "noun",
+"d": "A fringe region of partial shadow around an umbra",
+"r": "New Latin pēnumbra, from Latin paene “almost” + umbra “shadow”",
+"s": "The other places see the penumbra of the moon's shadow fall on the earth, so the eclipse is partial.",
+"old_f": [
+"A small writing case with slots for quills and ink",
+"A narrow strip of land almost surrounded by water",
+"A light hooded cloak worn as protection from rain"
+],
+"ety": "From New Latin pēnumbra, from Latin paene (“almost”) + umbra (“shadow”)."
+},
+{
+"w": "finial",
+"pos": "noun",
+"d": "An ornament at the top of a spire or gable; usually a foliated fleur-de-lis",
+"r": "Late Middle English finial, a variant of final",
+"s": "The steep slate roofs were topped with bronze finials so tall and fanciful they looked like drops of liquid sliding down a thread.",
+"old_f": [
+"A narrow window at the end of a nave or aisle; usually a pointed arch of stained glass",
+"A carved bracket at the base of a column or pillar; usually a crouching lion or griffin",
+"A thin metal strip at the edge of a roof or chimney; usually a band of lead or copper"
+],
+"ety": "From Late Middle English finial (“(adjective) final; (noun) ornament at the upper extremity of a pinnacle, spire, etc.”) [and other forms], a variant of final (“pertaining to the close or end of something, last, final”), from Old French final (“last, final; definitive”) (modern French final), from Latin fīnālis (“of or pertaining to the end of something, final; of or pertaining to boundaries”), from fīnis (“a border; an end”) (possibly ultimately from Proto-Indo-European *bʰeyd- (“to split”) or *dʰeygʷ- (“to set up; to stick”)) + -ālis (suffix meaning ‘of or pertaining’ to forming adjectives)."
+},
+{
+"w": "malversation",
+"pos": "noun",
+"d": "Misconduct in public office",
+"r": "French malversation, from Latin male versari “behave badly”",
+"s": "I see nothing quite conclusive in the art of temporal government, But violence, duplicity and frequent malversation.",
+"old_f": [
+"Hostile and spiteful talk",
+"Poor eyesight in old age",
+"Bad wine from spoiled grapes"
+],
+"ety": "From French malversation, from malverser, from Latin male versari (“behave badly”). Compare Spanish malversación (“embezzlement”)."
+},
+{
+"w": "antedate",
+"pos": "verb",
+"d": "Be earlier in time; go back further",
+"r": "Ante- + date",
+"s": "Mathematical models of multi-sector growth models antedate the Harrod-Domar and Solow-Swan aggregate models.",
+"old_f": [
+"Be opposed in principle; argue against",
+"Be first to offer; open the bidding",
+"Be fond of; show great affection"
+],
+"ety": "From ante- + date."
+},
+{
+"w": "tendentious",
+"pos": "adjective",
+"d": "Having or marked by a strong tendency especially a controversial one",
+"r": "Tendency + -ious, after German tendenziös",
+"s": "That he was a supporter of the cause was clear, because his reports from the front were tendentious.",
+"old_f": [
+"Having or marked by a gentle and caring manner especially toward the sick",
+"Showing or marked by careful attention especially to small details",
+"Stretched or marked by strong tension especially in ropes or cables"
+],
+"ety": "From tendency + -ious, after German tendenziös."
+},
+{
+"w": "quixotic",
+"pos": "adjective",
+"d": "Not sensible about practical matters; idealistic and unrealistic",
+"r": "Don Quixote, the title character of Cervantes’s novel, + -ic",
+"s": "Gary Johnson has stumbled again in his quixotic presidential campaign.",
+"old_f": [
+"Quick to anger; easily provoked into a quarrel",
+"Puzzling and odd; inclined to strange habits",
+"Fast and lively; full of sudden movement"
+],
+"ety": "Derived from Spanish Quixote, the surname of Don Quixote, the title character in the novel by Miguel de Cervantes, + -ic."
+},
+{
+"w": "fauteuil",
+"pos": "noun",
+"d": "An upholstered armchair",
+"r": "French fauteuil; cognate with Old English fealdestōl “folding-chair”",
+"s": "Gaston of Orleans was seated in a fauteuil, wrapped in a loose dressing-gown.",
+"old_f": [
+"A minor error",
+"A folding fan",
+"A thin veil"
+],
+"ety": "Unadapted borrowing from French fauteuil, from Germanic. Cognate with Old English fealdestōl (“folding-chair”). Doublet of faldistory, faldstool, and foldstool."
+},
+{
+"w": "inestimable",
+"pos": "adjective",
+"d": "Beyond calculation or measure",
+"r": "Latin inaestimābilis, from in- “not” + aestimābilis “estimable”",
+"s": "The Voyager spacecraft explored the solar system and continued into the inestimable space beyond.",
+"old_f": [
+"Unworthy of any respect",
+"Lacking a fixed address",
+"Unable to be stirred"
+],
+"ety": "From Middle French inestimable, from Latin inaestimābilis, from in (“un-”, “not”) + aestimābilis (“estimable”). Equivalent to in- + estimable."
+},
+{
+"w": "limpid",
+"pos": "adjective",
+"d": "Clear and bright",
+"r": "Latin limpidus",
+"s": "The limpid glass doors reveal the living room clearly from the dining room.",
+"old_f": [
+"Weak and drooping",
+"Slow and lame",
+"Sour like lime"
+],
+"ety": "From French limpide, from Latin limpidus."
+},
+{
+"w": "flambeau",
+"pos": "noun",
+"d": "A flaming torch (such as are used in processions at night)",
+"r": "French flambeau",
+"s": "Thrice applies the lit flambeau; which thrice refuses to catch.",
+"old_f": [
+"A frilled collar (such as was worn by dandies at court)",
+"A sweet custard (such as is baked in a caramel mold)",
+"A bright bird (such as is found in salt lagoons)"
+],
+"ety": "Borrowed from French flambeau."
+},
+{
+"w": "jocularity",
+"pos": "noun",
+"d": "A feeling facetious merriment",
+"r": "Jocular + -ity",
+"s": "Madouc was neither pleased nor impressed by Prince Bittern’s mannerisms, and remained pointedly unresponsive to his lame jocularities.",
+"old_f": [
+"A small circular mark",
+"A riding of horses",
+"A juggling of balls"
+],
+"ety": "From jocular + -ity."
+},
+{
+"w": "patten",
+"pos": "noun",
+"d": "Footwear usually with wooden soles",
+"r": "Old French patin, from patte “paw, hoof”",
+"s": "Nobody had appeared belonging to the house except a person in pattens, who had been poking at the child from below with a broom.",
+"old_f": [
+"Shallow dish for communion bread",
+"Repeating design on fabric",
+"Wooden mallet for flattening dough"
+],
+"ety": "From Middle English patyn, patin, pateyn, from Old French patin, from patte (“paw, hoof”), from Latin patta, of imitative origin."
+},
+{
+"w": "becloud",
+"pos": "verb",
+"d": "Make less visible or unclear",
+"r": "Be- + cloud",
+"s": "It was past four o’clock, and the beclouded afternoon was tending to drear twilight.",
+"old_f": [
+"Make into a hollow shape",
+"Make soft and fluffy",
+"Make a loud boasting claim"
+],
+"ety": "From be- + cloud."
+},
+{
+"w": "dacoit",
+"pos": "noun",
+"d": "A member of an armed gang of robbers",
+"r": "Hindustani ḍakait, from ḍākā “gang-robbery”",
+"s": "On the way back Boyles led him down a lampless lane, and sure enough, a pair of dacoits pounced on them.",
+"old_f": [
+"A servant who carries a palanquin in a procession",
+"A dancer who performs at temple festivals in India",
+"A clerk who keeps accounts for a tea merchant"
+],
+"ety": "Borrowed from Hindustani ڈکیت / डकैत (ḍakait), from ڈاکا (ḍākā) / डाका (ḍākā, “gang-robbery”)."
+},
+{
+"w": "peevish",
+"pos": "adjective",
+"d": "Easily irritated or annoyed",
+"r": "Late Middle English pevish “capricious, wilful; perverse”; further origin uncertain",
+"s": "I would rather figure things out on my own than ask that peevish librarian for help.",
+"old_f": [
+"Pale and sickly green",
+"Small and stooped",
+"Shy and peeping"
+],
+"ety": "The adjective is derived from Late Middle English pievish, peuysche, pevish, pevysh (“capricious, wilful; perverse, wayward”); further etymology uncertain, possibly from one of the following: * From an unattested Old French word, from Latin perversus (“corrupted, perverted, subverted; overthrown”), the perfect passive participle of pervertō (“to corrupt, subvert; to overthrow”), from per- (prefix meaning ‘intensively, thoroughly’) + vertō (“to turn; to turn upside down, overturn, overthrow, subvert”) (ultimately from Proto-Indo-European *wert- (“to rotate; to turn”)). However, the Oxford Engli"
+},
+{
+"w": "casuistry",
+"pos": "noun",
+"d": "Argumentation that is specious or excessively subtle and intended to be misleading",
+"r": "Casuist + -ry",
+"s": "She meant to extract casuistry’s penalty in advance.",
+"old_f": [
+"Clothing that is informal or relaxed and intended to be worn at home",
+"Cooking that is slow or simple and intended to use leftover meat in a stew",
+"Training that is harsh or repetitive and intended to toughen young soldiers"
+],
+"ety": "From casuist + -ry."
+},
+{
+"w": "rankle",
+"pos": "verb",
+"d": "Gnaw into; make resentful or angry",
+"r": "Old French rancler “to ulcerate”, from Latin dracunculus “little serpent”",
+"s": "My colleague's gratuitous criticism still rankles with me.",
+"old_f": [
+"Sort into; arrange by order of status",
+"Wrinkle up; fold into small creases",
+"Sprinkle over; scatter in small drops"
+],
+"ety": "From Middle English ranklen, ranclen, from Old French rancler, räoncler, draoncler (“to ulcerate, to form a boil”), from Old French draoncle (“a boil”), from Latin dracunculus (“little serpent”), diminutive of Latin dracō (“serpent, dragon”)."
+},
+{
+"w": "chaffer",
+"pos": "verb",
+"d": "Wrangle (over a price, terms of an agreement, etc.)",
+"r": "Middle English chaffare “a bargain, a trade”: cheap + fare",
+"s": "To chaffer for preferment with his gold.",
+"old_f": [
+"Rub (until sore, as with a rough collar, etc.)",
+"Separate (husks from grain, by tossing in the wind, etc.)",
+"Sing (in a soft voice, as birds at dusk, etc.)"
+],
+"ety": "From Middle English chaffare (“a bargain, a trade”, noun), equivalent to cheap + fare."
+},
+{
+"w": "zeugma",
+"pos": "noun",
+"d": "Use of a word to govern two or more words though appropriate to only one",
+"r": "Greek zeûgma “yoking; a bond”, from zeúgnumi “to yoke; to join”",
+"s": "‘Mr. Pickwick took his hat and his leave’ is an example of zeugma.",
+"old_f": [
+"Use of a phrase that contradicts itself though meant to be taken seriously",
+"Use of an ordinary word in place of a rude one to soften its effect",
+"Use of a long and complex sentence where a short one would serve"
+],
+"ety": "Borrowed from Ancient Greek ζεῦγμα (zeûgma, “yoking; a bond, a band”), from ζεύγνυμι (zeúgnumi, “to yoke; to join”), from ζεῦγος (zeûgos, “a yoke”)."
+},
+{
+"w": "aweary",
+"pos": "adjective",
+"d": "Physically and mentally fatigued",
+"r": "A- + weary",
+"s": "\"Nay, save that she seems aweary\".",
+"old_f": [
+"Wide awake and alert",
+"Filled with wonder",
+"Watchful and suspicious"
+],
+"ety": "From a- + weary."
+},
+{
+"w": "verbiage",
+"pos": "noun",
+"d": "Overabundance of words",
+"r": "French verbiage; compare verb in its sense “word”",
+"s": "We're done drafting our paper except for the final check to see whether any verbiage can be reduced.",
+"old_f": [
+"A green color",
+"A strong vinegar",
+"A legal verdict"
+],
+"ety": "From French verbiage. Compare verb meaning \"word\" in verbal and verbose."
+},
+{
+"w": "urbanity",
+"pos": "noun",
+"d": "Polished courtesy; elegance of manner",
+"r": "Latin urbānitās, from urbānus “belonging to a city”, from urbs “city”",
+"s": "Wealdon's two little visits explained perfectly the active urbanities of Captain Stanley Lake.",
+"old_f": [
+"City planning; layout of streets",
+"Steady growth; rising numbers",
+"Formal dress; a top hat"
+],
+"ety": "From Middle English urbanitie, from Middle French urbanité, from Latin urbānitās, from urbānus (“belonging to a city”), with a sense of \"having the manners of townspeople\" in Classical Latin, from urbs (“city”); equivalent to urbane + -ity (sense 1) and urban + -ity (sense 2)."
+},
+{
+"w": "triskaidekaphobia",
+"pos": "noun",
+"d": "A morbid fear of the number 13",
+"r": "Triskaideka- “thirteen” + -phobia",
+"s": "Paraskevidekatriaphobia — a specialized form of triskaidekaphobia.",
+"old_f": [
+"A morbid fear of three-legged creatures",
+"A morbid fear of walking under ladders",
+"A morbid fear of mirrors and reflections"
+],
+"ety": "From triskaideka- (“thirteen”) + -phobia."
+},
+{
+"w": "bathetic",
+"pos": "adjective",
+"d": "Effusively or insincerely emotional",
+"r": "Bathos + -etic, modeled on pathos and pathetic",
+"s": "The fall is indeed the archetypal bathetic motion.",
+"old_f": [
+"Relating to public baths",
+"Deep and dark",
+"Easily bruised"
+],
+"ety": "From bathos + -etic, based on the form of pathos and pathetic."
+},
+{
+"w": "saturnine",
+"pos": "adjective",
+"d": "Bitter or scornful",
+"r": "Middle English saturnine “under the influence of the planet Saturn”",
+"s": "The monstrous thought came into my mind as I perused the fixed eyes and the saturnine face, that this was a spirit, not a man.",
+"old_f": [
+"Soaked through",
+"Merry and festive",
+"Lazy on weekends"
+],
+"ety": "From Middle English saturnine, satournine, satournyne, saturnin, saturnyn, saturnyne (“pertaining to or under the influence of the planet Saturn; line on the palm of the hand associated with Saturn”), from Old French saturnine, saturnin (modern French saturnin (“of, pertaining to, resembling or containing lead, plumbic”)), or directly from its etymon Medieval Latin Sāturnīnus, from Sāturnus (“the Roman god Saturn; the planet Saturn”) + -īnus (suffix meaning ‘of or pertaining to’); analysable as Saturn + -ine. The English word is cognate with Italian saturnino (“saturnine”), Portuguese saturnin"
+},
+{
+"w": "abstruse",
+"pos": "adjective",
+"d": "Difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge",
+"r": "Latin abstrūsus “concealed, hidden”, from abstrūdō “to conceal; to thrust away”",
+"s": "Made the most abstruse inquiries clear and facile to my apprehension.",
+"old_f": [
+"Absent from one’s post; failing to appear for duty without any good excuse",
+"Harsh and grating; producing a rough sound that is unpleasant to the ear",
+"Sudden and unexpected; happening without warning or any sign beforehand"
+],
+"ety": "Learned borrowing from Latin abstrūsus (“concealed, hidden; having been concealed”), an adjective use of the perfect passive participle of abstrūdō (“to conceal, hide; to push or thrust away”), from abs- (from ab- (prefix meaning ‘away; from; away from’)) + trūdō (“to push, shove; to thrust”) (ultimately from Proto-Indo-European *trewd- (“to push; to thrust”)). Cognates * Catalan abstrús * German abstrus (“abstruse”) * Italian astruso (“abstruse”) * Middle French abstruse (modern French abstrus, abstruse (“(derogatory, literary) abstruse”) * Portuguese abstruso (“abstruse”) * Spanish abstruso "
+},
+{
+"w": "larboard",
+"pos": "noun",
+"d": "The left side of a ship or aircraft to someone who is aboard and facing the bow or nose",
+"r": "Middle English ladde-bord, changed to larboard in the 1500s by association with starboard",
+"s": "\"It means to turn to larboard.\"",
+"old_f": [
+"The upper deck of a ship or aircraft where the crew sleeps when not on duty during long voyages",
+"The wooden ramp of a ship or barge that is lowered onto the dock for loading horses and carts",
+"The rear part of a ship or aircraft where the stores and spare equipment are kept below deck"
+],
+"ety": "From Middle English ladde-bord, latebord, most likely referring to the side of the ship on which cargo was loaded. Changed to larboard in the 1500s by association with starboard. (Texts from the 1500s have spellings like lerbord, leereboord, larboord, corresponding to how they spell sterbord, steereboord, starboord.)"
+},
+{
+"w": "frenetic",
+"pos": "adjective",
+"d": "Excessively agitated; distraught with fear or other violent emotion",
+"r": "Old French frenetike, from Greek phrenētikós “delirious”",
+"s": "After a week of working at a frenetic pace, she was ready for Saturday.",
+"old_f": [
+"Excessively friendly; eager to make acquaintances with strangers",
+"Extremely thin; pale and weak from lack of food",
+"Strongly perfumed; smelling of flowers and spices"
+],
+"ety": "From Middle English frenetik (also frentik, frentyk, frantike > modern English frantic), from Old French frenetike, from Latin phreneticus, from Ancient Greek φρενητικός (phrenētikós, “delirious”), from φρενῖτις (phrenîtis, “delirium”), from φρήν (phrḗn, “mind”). Doublet of frantic and phrenitic. Etymologically, initial stress would be expected (compare the syncopic form phrentic); the modern pronunciation with stress on the second syllable is due to the influence of other words ending in -etic such as phonetic and sympathetic."
+}
+]

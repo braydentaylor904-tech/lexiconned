@@ -1,0 +1,513 @@
+[
+{
+"w": "inchoate",
+"pos": "adjective",
+"d": "Just begun and not fully formed",
+"r": "Latin inchoare “to begin”",
+"s": "The plan was still inchoate, a few notes on a napkin.",
+"old_f": [
+"Unable to speak clearly",
+"Locked inside",
+"Impossible to remove"
+]
+},
+{
+"w": "sobriquet",
+"pos": "noun",
+"d": "A nickname",
+"r": "French sobriquet, originally a teasing chuck under the chin",
+"s": "Margaret Thatcher earned the sobriquet “the Iron Lady.”",
+"old_f": [
+"A small bouquet",
+"A strict diet",
+"A state of sobriety"
+]
+},
+{
+"w": "louche",
+"pos": "adjective",
+"d": "Disreputable or shady, often in an appealing way",
+"r": "French louche “squinting, shady,” from Latin luscus “one-eyed”",
+"s": "The film is set in a louche Berlin nightclub of the 1920s.",
+"old_f": [
+"Lazy and slow",
+"Thickly padded",
+"Loud and brash"
+]
+},
+{
+"w": "impecunious",
+"pos": "adjective",
+"d": "Having little or no money",
+"r": "Latin in- “not” + pecunia “money,” from pecus “cattle”",
+"s": "As an impecunious student, he lived on instant noodles.",
+"old_f": [
+"Without a single flaw",
+"Easily irritated",
+"Exempt from punishment"
+]
+},
+{
+"w": "bloviate",
+"pos": "verb",
+"d": "To talk at length in a pompous, empty way",
+"r": "19th-century American coinage, probably from “blow” with a mock-Latin ending",
+"s": "The guest speaker continued to bloviate long after his slot had ended.",
+"old_f": [
+"To swell up with water",
+"To blush deeply",
+"To blow on embers"
+]
+},
+{
+"w": "effulgent",
+"pos": "adjective",
+"d": "Shining brightly; radiant",
+"r": "Latin ex- “out” + fulgere “to shine”",
+"s": "The effulgent sunrise turned the lake to gold.",
+"old_f": [
+"Overflowing with talk",
+"Swollen and pale",
+"Strongly scented"
+]
+},
+{
+"w": "adumbrate",
+"pos": "verb",
+"d": "To outline faintly; to foreshadow",
+"r": "Latin ad- “to” + umbra “shadow”",
+"s": "The opening chapter adumbrates the tragedy to come.",
+"old_f": [
+"To praise extravagantly",
+"To add ornament",
+"To grow dark with anger"
+]
+},
+{
+"w": "quotidian",
+"pos": "adjective",
+"d": "Happening every day; ordinary",
+"r": "Latin quotidie “every day”",
+"s": "The novel finds beauty in quotidian chores like folding laundry.",
+"old_f": [
+"Divided into quotas",
+"Relating to quotations",
+"Recurring every five days"
+]
+},
+{
+"w": "apocryphal",
+"pos": "adjective",
+"d": "Of doubtful truth, though widely repeated",
+"r": "Greek apokryphos “hidden away,” from apo- “away” + kryptein “to hide”",
+"s": "The story that Einstein failed math is apocryphal.",
+"old_f": [
+"Relating to the end of the world",
+"Hidden away in a crypt",
+"Brief and to the point"
+]
+},
+{
+"w": "debonair",
+"pos": "adjective",
+"d": "Having a sophisticated charm",
+"r": "Old French de bon aire “of good stock; noble”",
+"s": "Sacco is nervy and sassy and sort of debonair.",
+"old_f": [
+"Cut cleanly away from the bone",
+"Made unwell by stale or damp air",
+"Lacking any sense of good timing"
+],
+"ety": "Via Middle English debonaire from Old French de bon aire (“of good stock; noble”)."
+},
+{
+"w": "gentility",
+"pos": "noun",
+"d": "Elegance by virtue of fineness of manner and expression",
+"r": "Old French gentilité",
+"s": "A powerful visitors’ bureau has pushed the South Carolina city to the top of “best” lists by selling gentility.",
+"old_f": [
+"The legal right to inherit land through the male line",
+"Softness of touch, especially in the handling of animals",
+"A small sum paid to a servant on a feast day"
+],
+"ety": "From Old French gentilité."
+},
+{
+"w": "exculpatory",
+"pos": "adjective",
+"d": "Clearing of guilt or blame",
+"r": "Latin ex- “out, away” + culpa “fault, crime”",
+"s": "These rationalisations are partly necessary to avoid panic or paralysis, but of course they also serve an exculpatory purpose.",
+"old_f": [
+"Involving the carving away of stone",
+"Serving to expose a hidden fault",
+"Marked by sharp, scraping sounds"
+],
+"ety": "From exculpate + -ory (suffix forming adjectives with the sense ‘of or pertaining to, serving for’). Exculpate is derived from Medieval Latin exculpātus, perfect passive participle of exculpō (“to free from blame, exculpate”), from ex- (prefix meaning ‘out, away’) + culpa (“defect, fault; crime”) (ultimately from Proto-Indo-European *kʷelp-). Cognate with Spanish exculpatorio."
+},
+{
+"w": "potentate",
+"pos": "noun",
+"d": "A ruler who is unconstrained by law",
+"r": "Latin potēns “powerful”, from possum “to be able”",
+"s": "She was now one of a group of oriental beauties who, in the second act of the comic opera, were paraded by the vizier before the new potentate.",
+"old_f": [
+"A vessel for brewing strong herbal drinks",
+"A document granting a right to an invention",
+"A person who grows vegetables in pots"
+],
+"ety": "From Middle English potentat, from Old French, from Late Latin potentātus (“rule, political power”), from Latin potēns (“powerful, strong”), the active present participle of possum (“to be able”)."
+},
+{
+"w": "rejoinder",
+"pos": "noun",
+"d": "A quick reply to a question or remark (especially a witty or critical one)",
+"r": "Middle French rejoindre, a verb used as a noun in Law French",
+"s": "I made an appropriate rejoinder, and he smiled wanly.",
+"old_f": [
+"A strip of wood used to reattach a broken joint (especially in old furniture)",
+"A second marriage ceremony held to renew vows (often after a long separation)",
+"A clause letting a former partner return to a firm on agreed terms"
+],
+"ety": "From Middle English rejoinder, rejonder, rejoynder, from Middle French rejoindre, with infinitive used as noun frequent in Law French. Doublet of rejoin."
+},
+{
+"w": "imbroglio",
+"pos": "noun",
+"d": "An intricate and confusing interpersonal or political situation",
+"r": "Italian imbroglio “tangle, muddle”",
+"s": "Papers and books, a huge imbroglio!",
+"old_f": [
+"A slow-cooked Italian stew of mixed grilled meats",
+"A raised border embroidered along the hem of a robe",
+"A small balcony overlooking a central courtyard"
+],
+"ety": "Borrowed from Italian imbroglio (“tangle, entanglement, muddle”) (im-, alternative form of in- (prefix forming verbs denoting derivation) + broglio (“confusion; intrigue, fraud, rigging, stuffing”); see also imbrogliare (“to tangle”)), cognate with and probably from an earlier form of French embrouiller (“to embroil, muddle”) (em- (“em-”), a form of en- (“en-”, prefix meaning ‘caused’) + brouiller (“to confuse, mix up”)). Doublet of embroil."
+},
+{
+"w": "ruffian",
+"pos": "noun",
+"d": "A cruel and brutal fellow",
+"r": "Middle French rufian, from Italian ruffiano",
+"s": "Mrs Bycourt has two boys of her own, a few years older than Cyril and perfect young ruffians.",
+"old_f": [
+"A stiff pleated collar worn in the 1500s",
+"A small reddish bird of northern marshes",
+"A fabric with a rough, uneven surface"
+],
+"ety": "From Middle French rufian, from Italian ruffiano (“pimp”)."
+},
+{
+"w": "ecumenical",
+"pos": "adjective",
+"d": "Concerned with promoting unity among churches or religions",
+"r": "Ecumene + -ical",
+"s": "Within Europe, the church's ecumenical partnerships have demonstrated that ecclesial unity may have political resonances.",
+"old_f": [
+"Relating to the careful management of household money",
+"Concerned with the study of living things and their homes",
+"Relating to the measurement of land for taxation"
+],
+"ety": "From ecumenic + -al. By surface analysis, ecumene + -ical."
+},
+{
+"w": "resile",
+"pos": "verb",
+"d": "Pull out from an agreement, contract, statement, etc.",
+"r": "Latin resiliō “spring back”, from re- “back” + saliō “to jump”",
+"s": "I do not resile from that.",
+"old_f": [
+"Seal again, as a jar or envelope that has been opened",
+"Store grain or feed in a tall tower",
+"Recover quickly from illness, injury, etc."
+],
+"ety": "From Middle French resiler (compare French résilier), from Latin resiliō (“spring back”), from re- (“back”) + saliō (“to jump”)."
+},
+{
+"w": "groyne",
+"pos": "noun",
+"d": "A protective structure of stone or concrete; extends from shore into the water to prevent a beach from washing away",
+"r": "Middle English groyn “snout”, from Latin grunnire “grunt like a pig”",
+"s": "Old rail and timber groynes will be erected along the beach to trap shingle moved by coastwise drift.",
+"old_f": [
+"A low grunting call made by wild boar during the rutting season; used by hunters to locate herds",
+"A coarse woollen cloth once woven in the north of England; used chiefly for sailors’ jackets and caps",
+"A shallow ditch dug along a field’s edge to drain off rainwater; often lined with loose gravel"
+],
+"ety": "From Middle English groyn (“snout”), from Old French groign, from Late Latin grunium, grunia, from Latin grunnire (“grunt like a pig”)."
+},
+{
+"w": "metonymy",
+"pos": "noun",
+"d": "Substituting the name of an attribute or feature for the name of the thing itself (as in ‘they counted heads’)",
+"r": "Greek metōnumíā “change of name”, from metá “other” + ónoma “name”",
+"s": "Metonymy does new names impose, And things for things by near relation shews.",
+"old_f": [
+"A poetic meter in which every line has the same number of stressed beats (as in many ballads)",
+"The use of a single name for two unrelated things that sound alike (as in ‘bark’)",
+"A measurement of time based on the regular swing of a weighted rod (as in early clocks)"
+],
+"ety": "From Late Latin metonymia, from Ancient Greek μετωνυμίᾱ (metōnumíā, “change of name”), from μετά (metá, “other”) + ὄνομα (ónoma, “name”)."
+},
+{
+"w": "dicker",
+"pos": "verb",
+"d": "Negotiate the terms of an exchange",
+"r": "Middle English diker “measure of ten”, from Latin decem “ten”",
+"s": "Three impassioned pinballers dickering with flashing, promising, tilting machines.",
+"old_f": [
+"Fidget nervously with the hands",
+"Decorate cloth with a pattern of small squares",
+"Drink in small, quick sips"
+],
+"ety": "From Middle English diker (“measure of ten”), from Late Latin dacra (“a dicker”), from Latin decuria (“a ten of something”), from decem (“ten”)."
+},
+{
+"w": "boustrophedon",
+"pos": "noun",
+"d": "An ancient writing system: having alternate lines written in opposite directions; literally ‘as the ox ploughs’",
+"r": "Greek boûs “ox” + strophḗ “turning”: “turning like an ox”",
+"s": "Venetic apparently had both kinds of boustrophedon.",
+"old_f": [
+"An ancient wrestling contest: fought between two bulls tied at the horns; literally ‘ox struggle’",
+"A style of Greek column: carved with spiral grooves from base to top; literally ‘twisted pillar’",
+"A medieval board game: played by moving stones around a circular track; literally ‘round road’"
+],
+"ety": "Learned borrowing from Ancient Greek βουστροφηδόν (boustrophēdón, adverb, literally “turning like an ox”), from βοῦς (boûs, “ox”) + στροφή (strophḗ, “turning”) + -ηδόν (-ēdón, adverbial suffix), in reference to the back-and-forth course traced by boustrophedon text resembling the path taken by an ox ploughing a field."
+},
+{
+"w": "consolatory",
+"pos": "adjective",
+"d": "Affording comfort or solace",
+"r": "Middle English, from Latin cōnsōlātōrius",
+"s": "It has with truth been said to be consolatory to the human mind.",
+"old_f": [
+"Relating to the office of a consul",
+"Joining several parts into one",
+"Shaped like a supporting bracket"
+],
+"ety": "From Middle English consolatory, from Latin cōnsōlātōrius."
+},
+{
+"w": "scholiast",
+"pos": "noun",
+"d": "A scholar who writes explanatory notes on an author (especially an ancient commentator on a classical author)",
+"r": "Byzantine Greek skholiastḗs, from Greek skhólion",
+"s": "The scholiast on Il. 1.5 likewise notes that Zeus chose the Trojan War.",
+"old_f": [
+"A teacher who trains young choristers to sing (especially in a cathedral school)",
+"A student who has been expelled from a school (especially for repeated misconduct)",
+"A monk responsible for copying manuscripts by hand (especially in a medieval scriptorium)"
+],
+"ety": "From Late Latin scholiasta, from Byzantine Greek σχολιαστής (skholiastḗs), from σχολιάζειν (skholiázein), from Ancient Greek σχόλιον (skhólion)."
+},
+{
+"w": "beneficent",
+"pos": "adjective",
+"d": "Doing or producing good",
+"r": "Latin bene “well, good” + facere “to make or do”",
+"s": "The monk was remembered as a beneficent figure in the village.",
+"old_f": [
+"Receiving money under a will",
+"Giving off a faint, sweet scent",
+"Kneeling in prayer"
+],
+"ety": "From Latin *beneficens, *beneficent-, from bene (“well, good”) + -ficens, combining form from faciens, present participle of facere (“to make or do”). Compare English beneficence."
+},
+{
+"w": "portend",
+"pos": "verb",
+"d": "Indicate by signs",
+"r": "Latin portendere “to foretell”, from por- “forward” + tendere “to stretch”",
+"s": "Let it be known that the Rapture portends the End of Days.",
+"old_f": [
+"Carry goods over land",
+"Stretch a sail",
+"Guard a harbor entrance"
+],
+"ety": "Borrowed from Latin portendere (“to foretell”), from por- (“forward”) + tendere (“to stretch”)."
+},
+{
+"w": "regnant",
+"pos": "adjective",
+"d": "Exercising power or authority",
+"r": "Latin rēgnāns, present participle of regnāre",
+"s": "Queen Elizabeth II reigned as queen regnant, unlike her mother Queen Elizabeth The Queen Mother.",
+"old_f": [
+"Regretful after a hasty decision",
+"Having recently given birth",
+"Returning to a former shape"
+],
+"ety": "From Middle English regnant, reignant, from Middle French regnant, régnant, and its source, Latin rēgnāns, the present participle of regnāre."
+},
+{
+"w": "blunderbuss",
+"pos": "noun",
+"d": "A short musket of wide bore with a flared muzzle",
+"r": "Dutch donderbus “thunder gun”, altered under the influence of blunder",
+"s": "The blunderbuss never gained great favor in the American colonies or early United States.",
+"old_f": [
+"A clumsy mistake made in a public speech",
+"A horse-drawn coach used for rural mail",
+"A heavy club with an iron-studded head"
+],
+"ety": "From Dutch donderbus (“blunderbuss”, literally “thunder gun”), which was altered under the influence of blunder."
+},
+{
+"w": "seigneur",
+"pos": "noun",
+"d": "A man of rank in the ancient regime",
+"r": "Middle French seigneur; a doublet of senior, señor, sire and sir",
+"s": "Beaumont lives on Sark, a small, autonomous island twenty-five miles off the coast of Normandy, with her husband, Michael, the island's seigneur.",
+"old_f": [
+"A sailor who keeps watch from the masthead",
+"A priest who hears confessions in a convent",
+"A craftsman who makes and repairs saddles"
+],
+"ety": "Borrowed from Middle French seigneur, from Old French seignor. Doublet of seignior, senhor, senior, señor, senyor, signore, sir, and sire."
+},
+{
+"w": "conjuration",
+"pos": "noun",
+"d": "A ritual recitation of words or sounds believed to have a magical effect",
+"r": "Latin coniuratio “a swearing together, a conspiracy”",
+"s": "Pretended conjurations and prophecies of that event.",
+"old_f": [
+"The joining of two separate estates into one through marriage",
+"A grammatical pattern in which verbs change form to show person and tense",
+"A gradual thickening of a liquid as it cools and settles"
+],
+"ety": "From Middle English conjuracioun, from Middle French conjuration, from Old French conjuracion, from Latin coniuratio (“a swearing together, a conspiracy”)."
+},
+{
+"w": "prognosticate",
+"pos": "verb",
+"d": "Make a prediction about; tell in advance",
+"r": "Medieval Latin prognosticare; compare prognostic",
+"s": "The bluebells may prognosticate an early spring this year.",
+"old_f": [
+"Cure meat by smoking it slowly; preserve for winter",
+"Speak too loudly in a quiet place; draw attention",
+"Protect against infection; guard in advance"
+],
+"ety": "From Medieval Latin prognosticare; see prognostic for more."
+},
+{
+"w": "charivari",
+"pos": "noun",
+"d": "A noisy mock serenade (made by banging pans and kettles) to a newly married couple",
+"r": "French charivari",
+"s": "The marriage ceremony was given primordial significance over folkloric pre-marriage engagement rituals and wild charivaris.",
+"old_f": [
+"A wooden cart (pulled by a single pony) used to carry wood to market",
+"A sweet pastry (filled with cherries and cream) served at village fairs",
+"A hooded cloak (lined with fur) worn by coachmen in winter"
+],
+"ety": "Borrowed from French charivari."
+},
+{
+"w": "trochee",
+"pos": "noun",
+"d": "A metrical unit with stressed-unstressed syllables",
+"r": "Greek trokhaîos, from trékhō “run”",
+"s": "He made us read James Fenton on the genius of the trochee.",
+"old_f": [
+"A small round lozenge for sore throats",
+"A wheeled frame for moving heavy stones",
+"A narrow trench dug to drain a field"
+],
+"ety": "Borrowed from French trochée, via Latin trochaeus from the Ancient Greek τροχαῖος (trokhaîos), derived from τρέχω (trékhō, “run”)."
+},
+{
+"w": "asunder",
+"pos": "adjective",
+"d": "Widely separated especially in space",
+"r": "Middle English asunder “apart, to pieces”, from Old English onsundrum",
+"s": "As wide asunder as pole from pole.",
+"old_f": [
+"Lying just beneath the surface of water",
+"Slightly burnt on one side only",
+"Facing toward the setting sun"
+],
+"ety": "From Middle English asunder, asonder (“apart in position, distant; apart in movement; to pieces; alone, separately; distinct in kind, different”), asondri (“distinct, separate”), onsunder, onsondre (“apart, asunder; alone, separately; especially, particularly (?)”), from Old English onsundrum, on sundur (“asunder, apart, privately”), probably from on- (prefix meaning ‘on, upon’) (ultimately from Proto-Indo-European *h₂en- (“on, onto”)) + sundor, sunder (“alone, apart; separately; privately”) (from Proto-West Germanic *sundr, from Proto-Germanic *sundraz (“alone, separate”), possibly from Proto"
+},
+{
+"w": "gendarme",
+"pos": "noun",
+"d": "A French policeman",
+"r": "French gens d’armes “people of arms”",
+"s": "The US is tempted to play the role of global gendarme.",
+"old_f": [
+"A French hunting dog",
+"A lady’s maid",
+"A small sword"
+],
+"ety": "Borrowed from French gendarme, a back-formation from gendarmes, from gens d'armes (“people of arms, armed people”), from gens + d' + armes."
+},
+{
+"w": "clarion",
+"pos": "noun",
+"d": "A medieval brass instrument with a clear shrill tone",
+"r": "Medieval Latin clāriō “trumpet”, from Latin clārus",
+"s": "The clarion’s call to action has been heard.",
+"old_f": [
+"A medieval glass vessel for holding red wine",
+"A pale yellow stone set in bishops’ rings",
+"A clear soup made from bones and vegetables"
+],
+"ety": "The noun is derived from Middle English clarion, clarioun (“trumpet with a narrow tube and a shrill sound, clarion; clarion player”) [and other forms], from Old French claron, clarïon (“clarion”) [and other forms], from Medieval Latin clāriōn, clario, clārōn (“clarion; trumpet”), from Latin clārus (“audible; clear, distinct, loud; (visually) bright, clear”), ultimately from Proto-Indo-European *kelh₁- (“to call, summon; to cry”). The adjective is from an attributive use of the noun."
+},
+{
+"w": "celerity",
+"pos": "noun",
+"d": "A rate that is rapid",
+"r": "Latin celeritas, from celer “fast, swift”",
+"s": "Many endeavours have been made, not only to transmit signals with celerity.",
+"old_f": [
+"A mild taste of green herbs",
+"A state of being famous",
+"An unmarried state"
+],
+"ety": "From Old French celeritee (compare French célérité), from Latin celeritas, from celer (“fast, swift”)."
+},
+{
+"w": "tombola",
+"pos": "noun",
+"d": "A lottery in which tickets are drawn from a revolving drum",
+"r": "Italian tombola",
+"s": "Gary and he were drawn out of the tombola together.",
+"old_f": [
+"A low drum played with the palms at festivals",
+"A stone monument marking a family burial plot",
+"A fast Italian dance in triple time"
+],
+"ety": "Borrowed from Italian tombola."
+},
+{
+"w": "supercilious",
+"pos": "adjective",
+"d": "Having or showing arrogant superiority to and disdain of those one views as unworthy",
+"r": "Latin superciliōsus “haughty”",
+"s": "Now he was a sturdy, straw haired man of thirty with a rather hard mouth and a supercilious manner.",
+"old_f": [
+"Having unusually thick and long eyelashes, especially in children and young animals",
+"Having or showing an excessive concern with minor rules and correct procedure",
+"Having or showing an extremely cautious approach to spending money on oneself"
+],
+"ety": "Learned borrowing from Latin superciliōsus (“haughty”)."
+},
+{
+"w": "smatter",
+"pos": "verb",
+"d": "Work with in an amateurish manner",
+"r": "Middle English smateren “to talk idly, chatter”",
+"s": "He smattered words in not a few foreign languages.",
+"old_f": [
+"Spatter with small drops of mud",
+"Break into many small pieces",
+"Talk loudly while chewing food"
+],
+"ety": "The verb is derived from Middle English smateren, smatteren, smater, smatere (“to make dirty, defile; to talk idly, chatter; to speak foolishly”); further etymology uncertain, compare the following: * Middle English smotten (“to corrupt, debase, defile”) (whence English smot (obsolete)), related to Late Middle High German smotzen, a variant of smutzen (whence modern German schmutzen (“to become dirty or soiled; to make dirty, soil”)), from smuz (“dirt”). * Danish smadre (“to smash”), German schmettern (“to smash; to resound”) (from Middle High German smetern (“to chatter; to rattle; (dialectal"
+}
+]

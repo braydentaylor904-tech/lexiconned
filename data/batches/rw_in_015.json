@@ -1,0 +1,522 @@
+[
+{
+"w": "unsullied",
+"pos": "adjective",
+"d": "Spotlessly clean and fresh",
+"r": "Un- + sullied",
+"s": "Amidst scenery unmoiled and unsullied by human artifice.",
+"old_f": [
+"Not yet sold",
+"Free of all anger",
+"Not fully cooked"
+],
+"ety": "From un- + sullied."
+},
+{
+"w": "sanguinary",
+"pos": "adjective",
+"d": "Accompanied by bloodshed",
+"r": "Latin sanguinārius",
+"s": "We may not propagate religion by wars, or by sanguinary persecutions to force consciences.",
+"old_f": [
+"Hopeful and confident",
+"Relating to saints",
+"Relating to sand"
+],
+"ety": "From Middle English sanguinarie, from Latin sanguinārius."
+},
+{
+"w": "catafalque",
+"pos": "noun",
+"d": "A decorated bier on which a coffin rests in state during a funeral",
+"r": "Italian catafalco, from Greek katá “down” + Latin fala “scaffolding, siege tower”",
+"s": "Crowds continued to file by the plain pine coffin on its plain flower-covered catafalque.",
+"old_f": [
+"A wooden siege tower on which archers stood to fire over the walls of a castle",
+"A painted wagon on which actors traveled and performed plays at country fairs",
+"A narrow underground tunnel in which the bones of the dead were stacked in rows"
+],
+"ety": "Borrowed from French catafalque, from Italian catafalco, from Vulgar Latin *catafalicum, from Ancient Greek κατά (katá, “down”) + Latin fala (“scaffolding, wooden siege tower”), which is from Etruscan. Also influenced scaffold."
+},
+{
+"w": "tippet",
+"pos": "noun",
+"d": "A woman’s fur shoulder cape with hanging ends; often consisting of the whole fur of a fox or marten",
+"r": "Old English tæppet, from Latin tapete “cloth”",
+"s": "Drygoods shops did not have much that was Christmassy to display except red flannel and rabbit fur baby coats and muffs and tippets.",
+"old_f": [
+"A small tilted cart with two wheels; often used to carry and dump stones or sand at a building site",
+"A short brass horn with a curved bell; often used by coachmen to warn of their approach on the road",
+"A tall pointed hat with a narrow brim; often worn by women in the countryside during the Middle Ages"
+],
+"ety": "From Middle English tippet, Old English tæppet, from Latin tapete (“cloth”)."
+},
+{
+"w": "mottle",
+"pos": "noun",
+"d": "An irregular arrangement of patches of color",
+"r": "Probably a back-formation from motley, 1670–80",
+"s": "The most common symptom is a mild mottle on the youngest leaves of infected plants.",
+"old_f": [
+"A short saying engraved on a shield",
+"A small hillock or mound of earth",
+"A slow, steady trot of a horse"
+],
+"ety": "1670-80. Probably back-formation from motley."
+},
+{
+"w": "gaucho",
+"pos": "noun",
+"d": "A cowboy of the South American pampas",
+"r": "Spanish gaucho, of uncertain origin",
+"s": "Theirs was the spirit which upheld Darwin among the gauchos of the Argentine or Wallace among the head-hunters of Malaya.",
+"old_f": [
+"A spicy stew of the Argentine highlands",
+"A woven poncho of the Andean villages",
+"A guitar player of the Brazilian coast"
+],
+"ety": "Borrowed from Spanish gaucho, of uncertain origin."
+},
+{
+"w": "husbandman",
+"pos": "noun",
+"d": "A person who operates a farm",
+"r": "Middle English husbondman: husband + -man",
+"s": "The husbandman must labour before he receives the fruits.",
+"old_f": [
+"A man engaged to be married",
+"A sailor who keeps the ship’s stores",
+"A guard who watches a city gate"
+],
+"ety": "From Middle English husbandman, husbondman, equivalent to husband + -man."
+},
+{
+"w": "carper",
+"pos": "noun",
+"d": "Someone who constantly criticizes in a petty way",
+"r": "Carp + -er",
+"s": "He censures everything, this zealous carper.",
+"old_f": [
+"Someone who lays rugs in large houses",
+"Someone who breeds fish in garden ponds",
+"Someone who builds wooden furniture by hand"
+],
+"ety": "From carp + -er."
+},
+{
+"w": "recitative",
+"pos": "noun",
+"d": "A vocal passage of narrative text that a singer delivers with natural rhythms of speech",
+"r": "Italian recitativo, from recitare, from Latin recitō",
+"s": "In Gilbert and Sullivan's Patience, Bunthorne performs the recitative \"Am I Alone and Unobserved?\" before going on to his solo aria.",
+"old_f": [
+"A short passage of instrumental music that an orchestra plays between the acts of an opera",
+"A slow passage of sacred text that a priest chants in a single unchanging tone",
+"A brief passage of comic dialogue that two actors improvise in front of the curtain"
+],
+"ety": "From Italian recitativo, from recitare, from Latin recitō."
+},
+{
+"w": "cotillion",
+"pos": "noun",
+"d": "A ball at which young ladies are presented to society",
+"r": "French cotillon “petticoat”, extended to the dance; first used c. 1750",
+"s": "Social rituals are social rituals. If there is Kwanzaa, why not cotillions?",
+"old_f": [
+"A small cottage at which travellers can rest and change horses",
+"A long table at which monks copy manuscripts in silence",
+"A tall post at which ships are moored in a harbor"
+],
+"ety": "First use appears c. 1750, in the sense of the dance, from French cotillon (“petticoat”), extended to the dance because of the distinctive lift of dress revealing the petticoat, from cotte (“dress”) + -illon (diminutive). Said to derive from the then-popular song Ma commère, quand je danse, mon cotillion va-t-il bien."
+},
+{
+"w": "scrimp",
+"pos": "verb",
+"d": "Subsist on a meager allowance",
+"r": "Scots scrimp “meager”, from Middle Dutch schrimpen “to shrivel up, wrinkle”",
+"s": "The company scrimped on the design so badly that it ended up defective.",
+"old_f": [
+"Cook small shellfish in brine",
+"Fold into narrow pleats",
+"Scratch hastily on paper"
+],
+"ety": "From Scots scrimp (“meager”), from Middle Dutch or Middle Low German schrimpen (“to shrivel up, wrinkle”), from Old Dutch *scrimpan, from Frankish *skrimpan, ultimately from Proto-Germanic *skrimpaną (“to shrink”), from Proto-Indo-European *(s)ker- (“to cut off”), related to Old English sċrimman (“to shrink”) and sċrincan (“to shrivel up”). Doublet of shrink, shrimp, and shrim."
+},
+{
+"w": "tousle",
+"pos": "verb",
+"d": "Disarrange or rumple; dishevel",
+"r": "Middle English touselen: touse + -le",
+"s": "The strong wind tousled my hair.",
+"old_f": [
+"Toss lightly; throw",
+"Wrestle playfully; tumble",
+"Toast lightly; brown"
+],
+"ety": "From Middle English touselen, equivalent to touse + -le. Cognate with German Low German tuseln, Bavarian zusseln, züsseln."
+},
+{
+"w": "adulation",
+"pos": "noun",
+"d": "Servile flattery; exaggerated and hypocritical praise",
+"r": "Latin adulātio “flattery”",
+"s": "He was uncomfortable with the adulation from his fans.",
+"old_f": [
+"Gradual maturing; growth into full adulthood",
+"Impurity; a mixing in of cheaper materials",
+"Slow weeping; tears shed in long mourning"
+],
+"ety": "From French adulation, from Latin adulātio (“flattery”)."
+},
+{
+"w": "rivalrous",
+"pos": "adjective",
+"d": "Eager to surpass others",
+"r": "Rivalry + -ous",
+"s": "Western universalism was real, if rivalrous.",
+"old_f": [
+"Living by a river",
+"Fond of wild parties",
+"Rich in fresh springs"
+],
+"ety": "From rivalry + -ous."
+},
+{
+"w": "invective",
+"pos": "noun",
+"d": "Abusive or venomous language used to express blame or censure or bitter deep-seated ill will",
+"r": "Medieval Latin invectiva “abusive speech”, from Latin invehō “bring in”; compare inveigh",
+"s": "Politics can raise invective to a low art.",
+"old_f": [
+"Imaginative or original thinking used to devise new tools or methods or clever solutions to practical problems",
+"Formal or ceremonial language used to call upon a god or saint or spirit for protection or aid",
+"Detailed or exhaustive records used to list the goods or property or assets of a household or estate"
+],
+"ety": "From Middle French invective, from Medieval Latin invectiva (“abusive speech”), from Latin invectīvus, from invectus, perfect passive participle of invehō (“bring in”), from in- + vehō (“carry”). See vehicle, and compare with inveigh."
+},
+{
+"w": "imbibe",
+"pos": "verb",
+"d": "Take in, also metaphorically",
+"r": "Latin imbibō, from im- + bibō “to drink”",
+"s": "He imbibed many of their notions.",
+"old_f": [
+"Write in large letters",
+"Wrap in cloth",
+"Tie up with string"
+],
+"ety": "From Middle English imbiben, from Latin imbibō, from im- + bibō (“to drink”) (whence also beverage), from Proto-Italic *pibō, from Proto-Indo-European *peh₃-, whence also potable, potion."
+},
+{
+"w": "indomitable",
+"pos": "adjective",
+"d": "Impossible to subdue",
+"r": "Late Latin indomitābilis, from in- “not” + domitō “to tame”",
+"s": "But he was a youth of indomitable spirit, strong and agile as a wild cat.",
+"old_f": [
+"Impossible to find",
+"Fit for indoor use",
+"Ruled by a master"
+],
+"ety": "From Late Latin indomitābilis, from in- (“not”) + domitō, frequentative of domō (“to tame”). By surface analysis, in- + domitable."
+},
+{
+"w": "rubicund",
+"pos": "adjective",
+"d": "Inclined to a healthy reddish color often associated with outdoor life",
+"r": "Latin rubicundus, from rubere “to be red”",
+"s": "He was of a full, rubicund countenance, with a double chin, aquiline nose, and a pleasant twinkling eye.",
+"old_f": [
+"Inclined to a rough and scratchy texture often associated with old woollen blankets",
+"Shaped into a perfect cube often associated with dice and building blocks",
+"Inclined to a pale and sickly color often associated with long confinement indoors"
+],
+"ety": "From Latin rubicundus, from rubere (“to be red”)."
+},
+{
+"w": "leitmotif",
+"pos": "noun",
+"d": "A melodic phrase that accompanies the reappearance of a person or situation (as in Wagner’s operas)",
+"r": "German Leitmotiv “leading motif”, from leiten “to lead” + Motiv",
+"s": "If one looks for a pattern in the political life of John Connally, one finds a leitmotif of scandals which threatened but never destroyed his career.",
+"old_f": [
+"A painted backdrop that accompanies the change of a scene or season (as in Baroque theater)",
+"A short spoken line that accompanies the entrance of a chorus or crowd (as in Greek tragedy)",
+"A carved pattern that accompanies the border of a window or doorway (as in Gothic churches)"
+],
+"ety": "From German Leitmotiv (“leading motif”), from leiten (“to lead”) + Motiv (“motif”), originally used to describe Wagnerian opera. The spelling was influenced by motif."
+},
+{
+"w": "colloquy",
+"pos": "noun",
+"d": "A conversation especially a formal one",
+"r": "Latin colloquium “conversation”, from com- “together” + loquor “speak”",
+"s": "At the end of the colloquy, Judge Spicer asked Carr whether anyone had \"pressured\" him into accepting the deal.",
+"old_f": [
+"A gathering of bees especially a large one",
+"A sticky glue especially a strong one",
+"A tall pillar especially a stone one"
+],
+"ety": "From Middle English colloquies pl, from Latin colloquium (“conversation”), from com- (“together, with”) (English com-) + form of loquor (“speak”) (from which English locution and other words). Doublet of colloquium."
+},
+{
+"w": "khamsin",
+"pos": "noun",
+"d": "An oppressively hot southerly wind from the Sahara that blows across Egypt in the spring",
+"r": "Egyptian Arabic ḵamsīn “fifty”",
+"s": "That second spring the khamseen was worse than I have ever known it before or since.",
+"old_f": [
+"A sweet paste made from dates and sesame that is eaten across Egypt during feasts",
+"A brightly woven cloth from the Sahara that is worn by nomads across North Africa",
+"A long-necked lute from Persia that is played at weddings across the Middle East"
+],
+"ety": "From Egyptian Arabic خَمْسِين (ḵamsīn, “fifty”); see khamaseen for more."
+},
+{
+"w": "acedia",
+"pos": "noun",
+"d": "Apathy and inactivity in the practice of virtue (personified as one of the deadly sins)",
+"r": "Greek akēdíā, from akēdḗs “careless”; a doublet of accidie",
+"s": "Her acedia kept her trapped in a cycle of depression and torpor.",
+"old_f": [
+"Sharpness and sourness in the taste of wine (regarded as a sign of spoilage in a cellar)",
+"Pride and boasting in the display of riches (counted among the faults of a courtier)",
+"Bitter cold and dampness in the walls of a cloister (blamed for illness among the monks)"
+],
+"ety": "Borrowed from Latin acēdia, borrowed from Ancient Greek ἀκηδίᾱ (akēdíā), from ἀκηδής (akēdḗs, “careless”) + -ίᾱ (-íā). Doublet of accidie."
+},
+{
+"w": "glossolalia",
+"pos": "noun",
+"d": "Repetitive nonmeaningful speech (especially that associated with a trance state or religious fervor)",
+"r": "Glosso- + -lalia, from Greek glôssa “tongue; language” + laliá “talking”",
+"s": "Everything was a labyrinthine amalgam of languages, a towering Babel of puns and glossolalia.",
+"old_f": [
+"Shiny polished finish (especially that applied to fine furniture or carriages)",
+"Detailed scholarly notes (especially those written in the margins of old manuscripts)",
+"Painful swelling of the tongue (especially that caused by a deficiency of vitamins)"
+],
+"ety": "From glosso- + -lalia, from Ancient Greek γλῶσσᾰ (glôssă, “tongue; language”) (ultimately from Proto-Indo-European *glōgʰs) + λᾰλῐᾱ́ (lălĭā́, “talking; form of speech, dialect”) (from λᾰ́λος (lắlos, “talkative”) + -ῐ́ᾱ (-ĭ́ā, suffix forming feminine abstract nouns))."
+},
+{
+"w": "errant",
+"pos": "adjective",
+"d": "Straying from the right course or from accepted standards",
+"r": "Old French errant, present participle of errer “to walk, wander, travel”",
+"s": "We ran down the street in pursuit of the errant dog.",
+"old_f": [
+"Delivering small messages for an employer or master",
+"Firmly upright and stiff in posture or bearing",
+"Breaking out suddenly in a violent manner"
+],
+"ety": "From Middle English erraunt [and other forms], from Anglo-Norman erraunt, from Old French errant, the present participle of errer (“to walk (to); to wander (to); (figuratively) to travel, voyage”), and then: * from Vulgar Latin iterāre (compare Late Latin itinerāre, itinerāri (“to travel, voyage”)), from Latin iter (“a route (including a journey, trip; a course; a path; a road)”), ultimately from Proto-Indo-European *h₁ey- (“to go”); and * from Latin errantem, the accusative feminine or masculine singular of errāns (“straying, errant; wandering”), the present active participle of errō (“to rov"
+},
+{
+"w": "eponym",
+"pos": "noun",
+"d": "The person for whom something is named",
+"r": "Greek epṓnumos, from epí “upon” + ónuma “name”",
+"s": "Rockefeller became the very eponym of wealth.",
+"old_f": [
+"The word that means the same as another",
+"The poem that tells of a hero’s deeds",
+"The speech given at the close of a play"
+],
+"ety": "From Latin eponymus, from Ancient Greek ἐπώνῠμος (epṓnŭmos), from ἐπί (epí, “upon, epi-”) + ὄνυμα (ónuma, “name”) + -ος (-os, suffix forming adjectives and nouns). Equivalent to epi- + -nym."
+},
+{
+"w": "picaresque",
+"pos": "adjective",
+"d": "Involving clever rogues or adventurers especially as in a type of fiction",
+"r": "Picaro “adventurer, rogue” + -esque, modeled on Spanish picaresco",
+"s": "Spain became celebrated about the end of this century for her novels in the picaresque style.",
+"old_f": [
+"Involving pretty landscapes or ruins especially as in a style of painting",
+"Involving sharp or pointed tools especially as in the work of stonemasons",
+"Involving small and fussy details especially as in the eating habits of children"
+],
+"ety": "From picaro (“adventurer, rogue”) + -esque (suffix meaning ‘in the style or manner of’ forming adjectives), modelled after Spanish picaresco (“in the style or manner of a picaro; picaresque”), from pícaro (“rogue”) + -esco (suffix forming adjectives indicating a relation). Compare French picaresque (attested later than the English word), Italian picaresco, Portuguese picaresco."
+},
+{
+"w": "rapprochement",
+"pos": "noun",
+"d": "The reestablishing of cordial relations",
+"r": "French rapprochement “act of getting closer together”",
+"s": "It was the Nixon administration that saw the rapprochement between the United States and China.",
+"old_f": [
+"The formal blame for a fault",
+"A sudden upturn in prices",
+"The careful rewrapping of a parcel"
+],
+"ety": "Unadapted borrowing from French rapprochement (“act or process of getting closer together; link (between two things)”)."
+},
+{
+"w": "drover",
+"pos": "noun",
+"d": "Someone who drives a herd",
+"r": "Drove + -er",
+"s": "In past centuries, they were driven by drovers, and a herd might be met on any street, road, or highway.",
+"old_f": [
+"Someone who digs wells",
+"Someone who wanders aimlessly",
+"Someone who speaks in a monotone"
+],
+"ety": "From drove + -er."
+},
+{
+"w": "servile",
+"pos": "adjective",
+"d": "Submissive or fawning in attitude or behavior",
+"r": "Latin servīlis, from servus “slave”",
+"s": "Even fortune rules no more, O servile land!",
+"old_f": [
+"Useful or ready for active duty",
+"Relating to meals laid at table",
+"Peaceful or calm in manner"
+],
+"ety": "From Middle English servyle, from Old French servil, servile, from Latin servīlis, from servus (“slave”). By surface analysis, serve + -ile."
+},
+{
+"w": "cloche",
+"pos": "noun",
+"d": "A low transparent cover put over young plants to protect them from cold",
+"r": "French cloche “bell”, from Medieval Latin clocca; a doublet of cloak and clock",
+"s": "Pistachio and date-filled cakes glisten under a glass cloche as customers drinking cardamom tea settle into brightly tapestried pouf chairs at the Pouya café and cultural center in Paris.",
+"old_f": [
+"A small brass bell hung over a shop door to announce visitors",
+"A short woollen cape put over the shoulders to keep out the cold",
+"A wooden mallet used to break up lumps of soil before planting"
+],
+"ety": "Borrowed from French cloche (“bell”), from Medieval Latin clocca (“bell”). Doublet of cloak and clock."
+},
+{
+"w": "grotesquerie",
+"pos": "noun",
+"d": "Ludicrous or incongruous unnaturalness or distortion",
+"r": "French grotesquerie: grotesque + -erie, from Italian grotta “cave”",
+"s": "The tone is brittle and morbid, emphasizing the eerie grotesquerie of Albert Giraud's poems.",
+"old_f": [
+"A grocery shop selling cheap goods",
+"A small grotto decorated with shells",
+"A heavy gate barred with iron"
+],
+"ety": "From French grotesquerie, from grotesque (“farcical, grotesque”) + -erie (“-ery”), from Italian grottesco, from grotta (“cave, grotto”) + -esco (“-esque, -ish”). Equivalent to grotesque + -erie."
+},
+{
+"w": "circuitous",
+"pos": "adjective",
+"d": "Marked by obliqueness or indirection in speech or conduct",
+"r": "Latin circuitōsus, from circumeō “to go around”",
+"s": "The explanation was circuitous and puzzling.",
+"old_f": [
+"Marked by careful thought or attention to every detail",
+"Marked by a regular circular pattern in its design",
+"Marked by a sudden burst of electric current"
+],
+"ety": "First attested in 1664. From Latin circuitōsus, from circuitus, from circumeō (“to go around”), from circum (“around”) + eō (“to go”). By surface analysis, circuit + -ous."
+},
+{
+"w": "nicety",
+"pos": "noun",
+"d": "Conformity with some esthetic standard of correctness or propriety",
+"r": "Old French niceté “simpleness, foolishness”, from nice “simple, foolish”",
+"s": "A rocket-propelled grenade doesn't have the nicety of a sniper round, but you must admit its effectiveness.",
+"old_f": [
+"A small recess in a wall for holding a statue or vase",
+"A mild pleasantness of manner toward strangers",
+"A small coin of nickel used for tips"
+],
+"ety": "From Middle English nicetee, from Old French niceté (“simpleness, foolishness”), from nice (“simple, foolish”); equivalent to nice + -e- + -ty."
+},
+{
+"w": "multifarious",
+"pos": "adjective",
+"d": "Having many aspects",
+"r": "Latin multifārius",
+"s": "It is divided into parts that are too small and multifarious.",
+"old_f": [
+"Having many husbands",
+"Speaking many languages",
+"Living many years"
+],
+"ety": "From Latin multifārius."
+},
+{
+"w": "pariah",
+"pos": "noun",
+"d": "A person who is rejected (from society or home)",
+"r": "Tamil paṟaiyaṉ “drummer”, from paṟai “drum”",
+"s": "I’m a pariah, outlawed from Time Lord society.",
+"old_f": [
+"A person who is elected (from a council or borough)",
+"A person who is paired (with another dancer or partner)",
+"A person who is paroled (from a prison or jail)"
+],
+"ety": "From Tamil பறையர் (paṟaiyar), from பறையன் (paṟaiyaṉ, “drummer”), from பறை (paṟai, “drum”) or from Malayalam പറയർ (paṟayaṟ), from പറയൻ (paṟayaṉ, “drummer”), from പറ (paṟa, “drum”). Parai in Tamil or Para in Malayalam refers to a type of large drum designed to announce the king’s notices to the public. The people who made a living using the parai were called paraiyar; in the caste-based society, they were in the lower strata, hence the derisive paraiah and pariah. Alternatively, derived from Sanskrit पर (para, “distant; outsider”)."
+},
+{
+"w": "effigy",
+"pos": "noun",
+"d": "A representation of a person (especially in the form of sculpture)",
+"r": "Latin effigiēs “likeness, effigy”, from effingō “represent, portray”",
+"s": "In England on Bonfire Night, an effigy is often burned.",
+"old_f": [
+"A measure of how well a task is done (especially in the use of fuel)",
+"A short poem of lament (especially one written for the dead)",
+"A formal vote of thanks (especially at a public dinner)"
+],
+"ety": "From French effigie, from Latin effigiēs (“likeness, effigy”), from effingō (“represent, portray”)."
+},
+{
+"w": "subterfuge",
+"pos": "noun",
+"d": "Something intended to misrepresent the true nature of an activity",
+"r": "Latin subterfugiō “to flee secretly”, from subter “under” + fugiō “to flee”",
+"s": "Overt subterfuge in a region nearly caused a minor accident.",
+"old_f": [
+"A tunnel dug beneath a castle wall in order to collapse it",
+"A shelter built underground to escape from storms or bombs",
+"A secondary meaning hidden beneath the surface of a text"
+],
+"ety": "Borrowed from Middle French subterfuge m, from Medieval Latin subterfugium n, from Latin subterfugiō (“to flee secretly”), from subter (“under”) and fugiō (“to flee”)."
+},
+{
+"w": "scuttlebutt",
+"pos": "noun",
+"d": "A report (often malicious) about the behavior of other people",
+"r": "Scuttle “to cut a hole through” + butt “wooden cask”; sailors gossiped around the ship’s water cask",
+"s": "His resolve not to worry about unfounded scuttlebutt lasted about two minutes.",
+"old_f": [
+"A hatch (often hidden) cut through the deck of a ship for escape",
+"A short run (often comic) made by a frightened crab or beetle",
+"A heavy blow (often accidental) from the butt of a rifle"
+],
+"ety": "The noun is derived from scuttle (“to cut a hole through (something)”) + butt (“wooden cask”). Noun sense 2 (“gossip, idle chatter; rumour”) refers to the fact that sailors would gather around the scuttlebutt to drink and exchange gossip; compare furphy and water cooler. The verb is derived from the noun."
+},
+{
+"w": "voluble",
+"pos": "adjective",
+"d": "Marked by a ready flow of speech",
+"r": "Latin volūbilis “rolling”, from volvō “roll”",
+"s": "What fun shone in his eyes as he recalled some of her fine speeches, and repeated them, imitating her voluble delivery!",
+"old_f": [
+"Marked by a large size or great bulk",
+"Marked by a willingness to help others",
+"Marked by a tendency to explode or erupt"
+],
+"ety": "From Middle French volubile, from Latin volūbilis (“rolling”), from volvō (“roll”)."
+},
+{
+"w": "ruminative",
+"pos": "adjective",
+"d": "Deeply or seriously thoughtful",
+"r": "Ruminate + -ive",
+"s": "They waited expectantly while he directed a ruminative yawn toward the white smiling moon.",
+"old_f": [
+"Prone to decay and ruin",
+"Fond of dark rum",
+"Loud and rowdy"
+],
+"ety": "From ruminate + -ive."
+}
+]

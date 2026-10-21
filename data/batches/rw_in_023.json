@@ -1,0 +1,522 @@
+[
+{
+"w": "cogitate",
+"pos": "verb",
+"d": "Consider carefully and deeply; reflect upon; turn over in one’s mind",
+"r": "Latin cōgitō “to think”",
+"s": "Think, ladies! Cogitate! Sharpen up the edges of your wit.",
+"old_f": [
+"Join together; fit parts into one another like the teeth of a wheel",
+"Grow thick; turn from a liquid into a soft jelly or solid",
+"Cut away; remove the outer layer of bark from a tree trunk"
+],
+"ety": "First attested in 1570; borrowed from Latin cōgitātus, perfect passive participle of cōgitō (“to think”), see -ate (verb-forming suffix)."
+},
+{
+"w": "cudgel",
+"pos": "noun",
+"d": "A club that is used as a weapon",
+"r": "Old English cyċġel “a large stick, cudgel”",
+"s": "The guard hefted his cudgel menacingly and looked at the inmates.",
+"old_f": [
+"A hug that is given to a child",
+"A fool that is easily tricked",
+"A cup that is used for ale"
+],
+"ety": "From Middle English kuggel, from Old English cyċġel (“a large stick, cudgel”), from Proto-West Germanic *kuggil, from Proto-Germanic *kuggilaz (“a knobbed instrument”), derivative of Proto-Germanic *kuggǭ (“cog, swelling”), from Proto-Indo-European *gewgʰ- (“swelling, bow”), from Proto-Indo-European *gew- (“to bow, bend, arch, curve”), equivalent to cog + -el (diminutive suffix). Cognate with Middle Dutch coghele (“a stick with a rounded end”)."
+},
+{
+"w": "insalubrious",
+"pos": "adjective",
+"d": "Detrimental to health",
+"r": "In- + salubrious",
+"s": "For the most part London's traditional areas were overcrowded and insalubrious.",
+"old_f": [
+"Lacking in salt",
+"Indecent and lewd",
+"Lacking a greeting"
+],
+"ety": "From in- + salubrious."
+},
+{
+"w": "cataphract",
+"pos": "noun",
+"d": "Armor that protects the wearer’s whole body",
+"r": "Greek katáphraktos “suit of armour”, from kata- + phraktós “protected; fenced in”",
+"s": "Carmine streaks stained their limbs, their tunics and cataphracts; but little of the blood was theirs.",
+"old_f": [
+"A sudden fall of water over a cliff",
+"A deep sleep caused by a fever",
+"A formal list of goods for sale"
+],
+"ety": "From Latin cataphractes (“suit of armour”), from Ancient Greek κατάφρακτος (katáphraktos, “suit of armour”), from κατα- (kata-, prefix indicating a great degree or intensity) + φρακτός (phraktós, “protected; fenced in”) (from φράσσω (phrássō, “to fortify, secure; to fence in”)) + -της (-tēs, suffix forming nouns indicating a state of being)."
+},
+{
+"w": "laudanum",
+"pos": "noun",
+"d": "Narcotic consisting of an alcohol solution of opium or any preparation in which opium is the main ingredient",
+"r": "New Latin, from lādanum “a gum resin”, from Greek lā́danon; used by Paracelsus",
+"s": "Whipping and abuse are like laudanum; you have to double the dose as the sensibilities decline.",
+"old_f": [
+"Hymn consisting of a short verse of praise or any song in which the name of God is repeated",
+"Ointment consisting of a mixture of wax and herbs or any salve in which lanolin is the main ingredient",
+"Perfume consisting of a distillation of lavender or any essence in which the flower oil is the main ingredient"
+],
+"ety": "From New Latin, from lādanum (“a gum resin”), from Ancient Greek λᾱ́δανον (lā́danon). Originally the same word as ladanum, labdanum, compare French laudanum, Italian laudano, ladano. Perhaps influenced by Latin laudō (“to praise”). See ladanum. Used by Paracelsus to refer to ladanum gum, and to a compound recipe containing pearls, but apparently not to any preparation of opium; this modern sense was introduced by his followers (Sigerist 1941:540–1)."
+},
+{
+"w": "noumenon",
+"pos": "noun",
+"d": "The intellectual conception of a thing as it is in itself, not as it is known through perception",
+"r": "German Noumenon, from Greek nooúmenon “thing that is known”, from noéō “I know”",
+"s": "That, we have seen, is what prevents the two truths from collapsing into an appearance/reality or phenomenon/noumenon distinction.",
+"old_f": [
+"The grammatical form of a word as it is used in a sentence, not as it is written in a dictionary",
+"The heavenly light of a saint as it is painted in an icon, not as it is described in scripture",
+"The numerical value of a letter as it is used in counting, not as it is spoken aloud"
+],
+"ety": "From German Noumenon, from Ancient Greek νοούμενον (nooúmenon, “thing that is known”), passive present participle of νοέω (noéō, “I know”)."
+},
+{
+"w": "indite",
+"pos": "verb",
+"d": "Produce a literary work",
+"r": "Old French enditer, from Late Latin indictāre; a doublet of indict",
+"s": "My heart is inditing a good matter.",
+"old_f": [
+"Stir up trouble",
+"Point out clearly",
+"Mark with a dent"
+],
+"ety": "Originally a variant of indict; from Middle English enditen, endyten, from Old French enditer, from Late Latin indictāre, from in- + dictare (“to declare”). Doublet of indict."
+},
+{
+"w": "descant",
+"pos": "noun",
+"d": "A decorative musical accompaniment (often improvised) added above a basic melody",
+"r": "Anglo-Norman descaunt, from Medieval Latin discantus; a doublet of discant",
+"s": "Upon that simplest of themes how magnificent a descant!",
+"old_f": [
+"A gradual slope (often gentle) leading down from the top of a hill to a valley floor",
+"A low murmuring chant (often repeated) sung beneath the main melody by the basses",
+"A small sharp tool (often curved) used by surgeons to cut away diseased tissue"
+],
+"ety": "From Anglo-Norman descaunt, from Medieval Latin discantus. Doublet of discant."
+},
+{
+"w": "gubbins",
+"pos": "noun",
+"d": "Something unspecified whose name is either forgotten or not known",
+"r": "Gobbin “piece, portion, slice”, from Anglo-Norman gobon; before 1553",
+"s": "I always have a plethora of extra gubbins I can't remember.",
+"old_f": [
+"Something small and round that is fried in fat and eaten with fish",
+"Someone foolish and gullible who is easily tricked out of money",
+"Something thick and lumpy that is used to fill cracks in walls"
+],
+"ety": "Ante 1553. From gobbin (“piece, portion, slice”), from Middle English goboun, from Anglo-Norman gobon. Compare with English gobony (“line of alternating squares”)."
+},
+{
+"w": "captious",
+"pos": "adjective",
+"d": "Tending to find and call attention to faults",
+"r": "Latin captiōsus, from captiō",
+"s": "On the contrary, he became all the more captious and irritable, as though he were just hitting his stride.",
+"old_f": [
+"Tending to take prisoners rather than kill the enemy",
+"Tending to lead others by force of personality",
+"Tending to write short titles beneath pictures"
+],
+"ety": "From Middle English capcious, from Middle French captieux, or its source, Latin captiōsus, from captiō."
+},
+{
+"w": "lascar",
+"pos": "noun",
+"d": "An East Indian sailor",
+"r": "Hindustani laśkar, from Persian laškar; a doublet of askari",
+"s": "His account of Mauritius, where the ship stopped, saw the appearance of Muslim lascars.",
+"old_f": [
+"An East Indian dancer",
+"An East Indian spice",
+"A Spanish guitar player"
+],
+"ety": "From Hindustani لشکر / लश्कर (laśkar), from Persian لشکر (laškar). Doublet of askari."
+},
+{
+"w": "troubadour",
+"pos": "noun",
+"d": "A singer of folk songs",
+"r": "Old Occitan trobar “to find”, via Old French troubadour",
+"s": "To paraphrase one of your contemporary musical troubadours.",
+"old_f": [
+"A warrior of fierce courage",
+"A maker of fine leather boots",
+"A seller of cheap trinkets"
+],
+"ety": "From Old Occitan trobar (“to find”) via Old French troubadour. Piecewise doublet of trouveur."
+},
+{
+"w": "hamartia",
+"pos": "noun",
+"d": "The character flaw or error of a tragic hero that leads to his downfall",
+"r": "Greek hamartía “tragic failure, sinful nature”, from hamartánō “to miss the mark”",
+"s": "Creon's main hamartia was his excessive pride.",
+"old_f": [
+"The final speech of a tragic hero in which he accepts his fate",
+"The chorus of a Greek tragedy who comment on the action of the play",
+"The sudden recognition by a tragic hero of the truth about himself"
+],
+"ety": "From Ancient Greek ἁμαρτία (hamartía, “tragic failure, sinful nature”), from the verb ἁμαρτάνω (hamartánō, “to miss the mark”)."
+},
+{
+"w": "lampoon",
+"pos": "noun",
+"d": "A composition that imitates or misrepresents somebody’s style, usually in a humorous way",
+"r": "French lampon “satire, mockery”, from lampons “let us drink”, a refrain of scurrilous songs",
+"s": "As my little Productions are mostly Satires and Lampoons I find they circulate more by giving copies in confidence.",
+"old_f": [
+"A small boat with a single sail that is used for fishing in shallow coastal waters",
+"A lantern hung from a pole that is carried at the head of a night procession",
+"A harpoon-like spear with barbed points that is used to catch eels in rivers"
+],
+"ety": "From French lampon (“satire, mockery, ridicule”), built on French lampons (“let us drink — a popular refrain for scurrilous songs”), from lamper (“to quaff, to swig”). : Littré quotes a satirical song mocking King Jacques II Stuart, fleeing Dublin, in 1691, and returning to France under the escort of Lauzun: :: Prenez soin de ma couronne, J'aurai soin de ma personne ; (\"Take care of my crown, I will take care of my person\") Lampons ! lampons !"
+},
+{
+"w": "kerygma",
+"pos": "noun",
+"d": "Preaching the gospel of Christ in the manner of the early church",
+"r": "Greek kḗrugma “proclamation, preaching”, from kêrux “herald”",
+"s": "Some look to the personal myth of C. G. Jung in MDR as a contemporary gospel that contains the kerygma of a new dispensation.",
+"old_f": [
+"Lighting the lamps of a church in the manner of the early Christians",
+"Baptizing new members in a river in the manner of the first apostles",
+"Fasting for forty days in the desert in the manner of the hermits"
+],
+"ety": "From Ancient Greek κήρυγμα (kḗrugma, “proclamation, preaching”), from κηρύσσω (kērússō, “I proclaim, preach”), from κῆρυξ (kêrux, “herald”)."
+},
+{
+"w": "villein",
+"pos": "noun",
+"d": "A person who is bound to the land and owned by the feudal lord",
+"r": "Anglo-Norman vilein, from Medieval Latin villanus “field hand”; a doublet of villain",
+"s": "Do you really see me in the position of a seigneur, driving my serfs and villeins before me with a whip?",
+"old_f": [
+"A person who lives in a large country house and owns many farms",
+"A person who commits a crime and is hunted by the king’s men",
+"A person who keeps the vineyards and presses the grapes for wine"
+],
+"ety": "From Anglo-Norman vilein, variant of vilain; from Medieval Latin villanus (“field hand”), from Latin villa (“country home”). Doublet of villain."
+},
+{
+"w": "lionize",
+"pos": "verb",
+"d": "Assign great social importance to",
+"r": "Lion + -ize",
+"s": "Those who can dare and afford to do it are amongst the most lionized men in the Galaxy.",
+"old_f": [
+"Roar loudly in anger",
+"Line with soft fur",
+"Hunt big cats for sport"
+],
+"ety": "From lion + -ize."
+},
+{
+"w": "sortition",
+"pos": "noun",
+"d": "Making a chance decision by using lots (straws or pebbles etc.) that are thrown or drawn",
+"r": "Latin sortītiō",
+"s": "Demarchy — also called sortition — is a form of governance that selects the representatives of the people as a random sample from a pool of candidates.",
+"old_f": [
+"Arranging goods into groups by size or color (fruit or cloth etc.) before they are sold at a market",
+"Making a weak drink by steeping herbs or roots (mint or ginger etc.) in boiling water",
+"Casting a spell by reciting a list of names (saints or demons etc.) over a sick person"
+],
+"ety": "From Latin sortītiō."
+},
+{
+"w": "peripeteia",
+"pos": "noun",
+"d": "A sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work)",
+"r": "Greek peripéteia, from peripíptō “to change suddenly”, from perí + píptō “to fall”",
+"s": "Somehow aware that understanding it meant it must continue, however sinister its peripeteia.",
+"old_f": [
+"A long and winding journey on foot around the edge of a country (especially in an epic poem)",
+"A short and comic scene performed between the acts of a tragedy (especially in ancient Greece)",
+"A slow and solemn walk around a sacred site (especially by pilgrims on a holy day)"
+],
+"ety": "From Late Latin peripetia, and its source Ancient Greek περιπέτεια (peripéteia), from περιπίπτω (peripíptō, “to change suddenly”), from περί (perí, “round, around, about”) + the stem of πίπτω (píptō, “to fall”)."
+},
+{
+"w": "cantle",
+"pos": "noun",
+"d": "The back of a saddle seat",
+"r": "Old Northern French cantel, from Medieval Latin cantellus, diminutive of Latin cantus “corner”",
+"s": "He recognised a horse when he saw one, and could do more than fill a cantle.",
+"old_f": [
+"The flame of a small candle",
+"A slow, easy gallop",
+"A pointed church tower"
+],
+"ety": "From Middle English cantle, cantel, from Old Northern French cantel, Old French chantel (Modern French chanteau, Bourguignon chainteâ), from Medieval Latin cantellus, diminutive of Latin cantus (“corner”). Compare cant (Etymology 3). Kroonen instead connects this term with Dutch kant (“side; edge”) and German Kanz (“mane, upper part of the neck”), deriving them from a Proto-Germanic *kantaz (“side (of the head?); cheek”), connecting it to the Baltic words Lithuanian žandas (“cheek, jaw”) and Latvian zuods (“chin, jaw”), all from a hypothetical Proto-Indo-European *ǵond-o-."
+},
+{
+"w": "embroil",
+"pos": "verb",
+"d": "Force into some kind of situation, condition, or course of action",
+"r": "French embrouiller “to entangle”, from em- + brouiller “to confuse, mix up”",
+"s": "Avoid him. He will embroil you in his fights.",
+"old_f": [
+"Decorate with fine needlework, as on a cloth or garment",
+"Cover with a layer of gold leaf, as on a frame or book",
+"Strike with great force, as with a fist or club"
+],
+"ety": "The verb is borrowed from French embrouiller (“to entangle”), from em- (a variant of en- (prefix meaning ‘in; into’)) + brouiller (“to confuse, mix up”) (ultimately from Vulgar Latin *brodiculāre, from *brodicāre, from Late Latin brodium (“broth, stew; mixture”), from Frankish *broþ (“broth”), from Proto-Germanic *bruþą (“stock, broth”), from Proto-Indo-European *bʰrewh₁- (“to boil; to brew”)). The noun is derived from the verb. Cognates * Italian imbrogliare * Spanish embrollar"
+},
+{
+"w": "libertine",
+"pos": "noun",
+"d": "A dissolute person; usually a man who is morally unrestrained",
+"r": "Latin libertinus “of a freedman”, from libertus “a freedman”, from liber “free”",
+"s": "So the truth of the matter is that a libertine in love, if indeed a libertine can be in love, becomes from that moment in less of a hurry to enjoy the pleasures of the flesh.",
+"old_f": [
+"A town official; usually a man who keeps the public records",
+"A wandering preacher; usually a man who travels on foot between villages",
+"A book collector; usually a man who owns a large private library"
+],
+"ety": "From Latin libertinus (“a freedman, prop. adj., of or belonging to the condition of a freedman”), from libertus (“a freedman”), from liber (“free”); see liberal, liberate."
+},
+{
+"w": "poltroon",
+"pos": "noun",
+"d": "An abject coward",
+"r": "Middle French poltron, from Italian poltrone",
+"s": "You damned poltroon, you never tried them!",
+"old_f": [
+"A rich stew",
+"A minor noble",
+"A trained parrot"
+],
+"ety": "From Middle French poltron, from Italian poltrone."
+},
+{
+"w": "despond",
+"pos": "verb",
+"d": "Lose confidence or hope; become dejected",
+"r": "Latin dēspondeō “give up, abandon”, from dē + spondeō “promise”",
+"s": "Yet still despond not, but proceed Along the path where fate may lead.",
+"old_f": [
+"Lose patience or temper; become angry",
+"Refuse an answer; stay silent",
+"Spread out flat; lie down"
+],
+"ety": "From Latin dēspondeō (“give up, abandon”), from dē (“from”) + spondeō (“promise”)."
+},
+{
+"w": "troika",
+"pos": "noun",
+"d": "A Russian carriage pulled by three horses abreast",
+"r": "Russian trójka “a group of three”",
+"s": "Travelling part of the way by rail and the remainder by troika, he reached Orenburg shortly before Christmas.",
+"old_f": [
+"A Russian soup made with beets and sour cream",
+"A Russian hat made of fur with flaps over the ears",
+"A Russian guitar with three strings and a triangular body"
+],
+"ety": "From Russian тро́йка (trójka, “a group of three”)."
+},
+{
+"w": "hebdomadal",
+"pos": "adjective",
+"d": "Of or occurring every seven days",
+"r": "Latin hebdomadālis; coined by John Selden in 1612",
+"s": "Did not disdain to partake of this hebdomadal festivity.",
+"old_f": [
+"Of or relating to the domestic household",
+"Of or occurring every half year",
+"Of or relating to the abdomen"
+],
+"ety": "From Latin hebdomadālis. According to The Poly-Olbion Project, coined by John Selden in 1612."
+},
+{
+"w": "oriflamme",
+"pos": "noun",
+"d": "An inspiring symbol or ideal that serves as a rallying point in a struggle",
+"r": "Old French oriflambe, from Medieval Latin auriflamma “golden flame”",
+"s": "And be your oriflamme to-day the helmet of Navarre.",
+"old_f": [
+"A flaming torch carried at the head of a procession to light the way for pilgrims at night",
+"A golden crown placed on the head of a champion to honor a victory in battle or sport",
+"A sweet orange liqueur set alight and poured over pancakes at the end of a feast"
+],
+"ety": "From Old French oriflambe, oriflamme, from Medieval Latin auriflamma (“golden flame”), from Latin aurum (“gold”) + flamma (“flame”)."
+},
+{
+"w": "cannonade",
+"pos": "noun",
+"d": "Intense and continuous artillery fire",
+"r": "Middle French canonnade, from Italian cannonata: cannon + -ade",
+"s": "A furious cannonade was kept up from the whole circle of batteries on the devoted town.",
+"old_f": [
+"A cool drink of crushed lemons",
+"A tall row of stone pillars",
+"A formal ruling of the church"
+],
+"ety": "Borrowed from Middle French canonnade, a modification of Italian cannonata replacing the suffix -ata with equivalent -ade; by surface analysis, cannon + -ade."
+},
+{
+"w": "sententious",
+"pos": "adjective",
+"d": "Abounding in or given to pompous or aphoristic moralizing",
+"r": "Latin sententiōsus, from sententia “opinion, purpose”",
+"s": "His sententious remarks quickly bored the audience.",
+"old_f": [
+"Abounding in or given to deep feeling and emotion",
+"Capable of or given to sensing and feeling",
+"Abounding in or given to watchful guarding"
+],
+"ety": "From Latin sententiōsus, from sententia (“opinion, purpose”)."
+},
+{
+"w": "effrontery",
+"pos": "noun",
+"d": "Audacious (even arrogant) behavior that you have no right to",
+"r": "French effronterie, from effronté “shameless, insolent”; compare Latin effrōns “barefaced”",
+"s": "Any refusal to salute the president shall be counted as an effrontery.",
+"old_f": [
+"Desperate (even frantic) effort to finish a task in time",
+"Ornate (even gaudy) decoration added to the front of a building",
+"Gentle (even tender) affection shown to young children"
+],
+"ety": "From late 17th century French effronterie, from effronté (“shameless, insolent”), from Old French esfronté, from Vulgar Latin *exfrontātus. Compare Latin effrōns (“barefaced”), from the prefix ex- (“from”) + frōns (“forehead”) (English: front). By surface analysis, ef- + front + -er + -y."
+},
+{
+"w": "kibitz",
+"pos": "verb",
+"d": "Make unwanted and intrusive comments",
+"r": "Yiddish kibetsn, cognate with German kiebitzen “to look on”, from Kiebitz “lapwing”",
+"s": "Quit kibitzing! You're giving away my hand!",
+"old_f": [
+"Cook meat on a small skewer",
+"Sleep on a narrow camp bed",
+"Cut into small cubes"
+],
+"ety": "From Yiddish קיבעצן (kibetsn), cognate to German kiebitzen (“to look on”), from German Kiebitz (“lapwing”), from Middle High German gibiz (“plover”), imitative of its cry. Compare peewit."
+},
+{
+"w": "entelechy",
+"pos": "noun",
+"d": "The state of something that is fully realized; actuality as opposed to potentiality",
+"r": "Greek entelékheia, coined by Aristotle from entelḗs “complete” + ékhō “to have”",
+"s": "There is an additional principle in organic (living) nature: an organizing principle or entelechie.",
+"old_f": [
+"The state of something that is fully hidden; secrecy as opposed to openness",
+"The state of something that is wholly entangled; confusion as opposed to clarity",
+"The state of something that is held in trust; guardianship as opposed to ownership"
+],
+"ety": "From Late Latin entelechia, from Ancient Greek ἐντελέχεια (entelékheia), coined by Aristotle from ἐντελής (entelḗs, “complete, finished, perfect”) (from τέλος (télos, “end, fruition, accomplishment”)) + ἔχω (ékhō, “to have”)."
+},
+{
+"w": "brattle",
+"pos": "verb",
+"d": "Make a rattling sound",
+"r": "Apparently imitative, probably influenced by break + rattle",
+"s": "Him too I hate, the same as I hate these brainless budding trees, these brattling birds.",
+"old_f": [
+"Speak like a spoiled child",
+"Fight noisily in the street",
+"Brag about one’s wealth"
+],
+"ety": "Apparently imitative, probably under influence of break + rattle."
+},
+{
+"w": "coracle",
+"pos": "noun",
+"d": "A small rounded boat made of hides stretched over a wicker frame; still used in some parts of Great Britain",
+"r": "Of Celtic origin; related to Welsh corwg and Irish curach “boat”",
+"s": "The White Hart, overlooking the bridge, has a bar named after the coracles that may still be seen on this part of the Teifi.",
+"old_f": [
+"A small round shield made of leather stretched over a wooden frame; still carried in some Highland dances",
+"A small round loaf made of oats baked on a hot stone; still eaten in some parts of Wales",
+"A small round pen made of stones piled without mortar; still used in some parts of Ireland"
+],
+"ety": "Of Celtic origin; related to Welsh corwg, Irish curach (“boat”) and Cornish gorhel (“ship”), from Proto-Celtic *kurukos (“boat”)."
+},
+{
+"w": "satrap",
+"pos": "noun",
+"d": "A governor of a province in ancient Persia",
+"r": "Greek satrápēs, from Old Median *xšaθrapāvan “kingdom-protector”",
+"s": "Eunuchs were chiefly employed in the harems of the king, and his satraps.",
+"old_f": [
+"A trap for catching small birds in a garden",
+"A thick leather belt worn by Persian soldiers",
+"A spiced wine drunk at Persian feasts"
+],
+"ety": "From Middle English satrape, from Latin satrapēs (“governor”), from Ancient Greek σατράπης (satrápēs), from Old Median *xšaθrapāvan (literally “kingdom-protector”), which is cognate with Old Persian 𐎧𐏁𐏂𐎱𐎠𐎺𐎠 (xšaçapāvā); see there for more."
+},
+{
+"w": "woebegone",
+"pos": "adjective",
+"d": "Worn and broken down by hard use",
+"r": "Middle English wo-bigon “deeply affected by woe, sorrowful, wretched”",
+"s": "It was the most woebegone excavation, full of mud and fishy refuse, you ever saw.",
+"old_f": [
+"Long ago forgotten and lost",
+"Heavily dressed in dark mourning",
+"Recently returned from a long war"
+],
+"ety": "From Middle English wo-bigon, wo-begon (“(adjective) deeply affected by woe, distressed, sorrowful, wretched; affected by physical impairment or pain; tired, weary; abominable, cursed; (noun) unfortunate person, wretch”), from wo (“distress, misery, woe; physical pain or suffering; etc.”) + bigon (the past participle form of bigon (“of a state: to come upon or overtake (someone), beset, overwhelm, bego; of a person: to be overwhelmed by grief, etc.”)): * wo is derived from Old English wā (“woe”), from Proto-West Germanic *wai (“woe!”, interjection), from Proto-Germanic *wai (“woe!”, interjecti"
+},
+{
+"w": "guttersnipe",
+"pos": "noun",
+"d": "A child who spends most of his time in the streets especially in slum areas",
+"r": "Gutter + snipe",
+"s": "I shall make a duchess of this draggletailed guttersnipe.",
+"old_f": [
+"A bird that feeds in the gutters and drains especially of harbor towns",
+"A worker who clears blocked drains and gutters especially after heavy rain",
+"A thief who snatches purses from passers-by especially in crowded markets"
+],
+"ety": "From gutter + snipe."
+},
+{
+"w": "disingenuous",
+"pos": "adjective",
+"d": "Not straightforward or candid; giving a false appearance of frankness",
+"r": "Dis- + ingenuous",
+"s": "I am not so vain as to think these Remarks free from faults, nor so disingenuous as not to confess them.",
+"old_f": [
+"Not clever or inventive; lacking any spark of originality or wit",
+"Not interested or concerned; showing no stake in the outcome",
+"Not cleaned or disinfected; carrying germs from a sick room"
+],
+"ety": "From dis- + ingenuous."
+},
+{
+"w": "foment",
+"pos": "verb",
+"d": "Try to stir up public opinion",
+"r": "Late Latin fōmentāre, from Latin fōmentum “lotion”, from fovēre “heat, cherish”",
+"s": "Foreign governments have tried to foment unrest.",
+"old_f": [
+"Cause to ferment and bubble",
+"Make a mark in memory",
+"Pour out sweet syrup"
+],
+"ety": "From Middle English fomenten, a borrowing from Old French fomenter, from Late Latin fōmentāre, from Latin fōmentum (“lotion”), from fovēre (“heat, cherish”)."
+},
+{
+"w": "morion",
+"pos": "noun",
+"d": "A metal helmet worn by common soldiers in the 16th century",
+"r": "Middle French morion, from Spanish morrión, from morra “upper part of the head”",
+"s": "The morion is a kind of open helmet, without visor or bever, somewhat resembling a hat.",
+"old_f": [
+"A wooden pike carried by common soldiers in the 16th century",
+"A leather boot worn by mounted soldiers in the 17th century",
+"A woollen cloak worn by Moorish shepherds in the 16th century"
+],
+"ety": "From Middle French morion, from, Spanish morrión, from morra (“upper part of the head”), from morro (“muzzle, snout”), from Vulgar Latin *murrum (“muzzle, snout”). Related to moraine (“an amassment of rocks on a glacier”)."
+}
+]

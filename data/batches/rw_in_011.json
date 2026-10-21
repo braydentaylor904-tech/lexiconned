@@ -1,0 +1,522 @@
+[
+{
+"w": "reliquary",
+"pos": "noun",
+"d": "A container where religious relics are stored or displayed (especially relics of saints)",
+"r": "Late Latin reliquiarium, from rēliquia “a relic”",
+"s": "And whether you think of those little cans as intellectual puzzles or reliquaries or scams, there are surprises inside.",
+"old_f": [
+"A tavern where travellers are fed or lodged (especially pilgrims on the road)",
+"A document where land holdings are recorded or listed (especially those of monasteries)",
+"A garden where medicinal herbs are grown or dried (especially beside an abbey)"
+],
+"ety": "Borrowed from Middle French reliquaire (modern French reliquaire), from Late Latin reliquiarium, from rēliquia (“a relic”) (English relic), noun use of reliquus (“abandoned, left behind, relict”), from relinquō (“to relinquish”), from re- (“again”) and linquō (“to leave”), from Proto-Indo-European *leykʷ-."
+},
+{
+"w": "prescient",
+"pos": "adjective",
+"d": "Perceiving the significance of events before they occur",
+"r": "Latin praesciēns “foreknowing”, from prae- “before” + sciō “to know”",
+"s": "Members opposite seem to be prescient; they seem to know what I am going to say before I have said it.",
+"old_f": [
+"Arriving at the scene of events before anyone else",
+"Existing in a pure state before any contact with others",
+"Relating to the study of nature before modern science"
+],
+"ety": "Learned borrowing from Latin praesciēns (“foreknowing; foretelling, predicting”), present participle of) Latin praesciō (“to foreknow”), from prae- (prefix meaning ‘before; in front’) (ultimately from Proto-Indo-European *preh₂- (“before; in front”)) + sciō (“to know, understand; to have knowledge of”) (ultimately from Proto-Indo-European *skey- (“to dissect; to split”)). The word is cognate with Middle French prescient (modern French prescient (“prescient”)), Italian presciente (“prescient”). By surface analysis, pre- (“earlier in time, beforehand”) + scient (“knowing, aware”)."
+},
+{
+"w": "brazier",
+"pos": "noun",
+"d": "Large metal container in which coal or charcoal is burned; warms people who must stay outside for long times",
+"r": "Middle English brasiere, from brasen “to cover with brass”",
+"s": "One of them came forward, and, producing a lamp, lit it from his brazier.",
+"old_f": [
+"Small brass trumpet once played at royal hunts; signals riders to begin the chase across open country",
+"Rough woollen cloak once worn by Spanish shepherds; protects herders who must sleep outside in winter",
+"Heavy iron pan for searing meat over open flames; used by soldiers who must cook in the field"
+],
+"ety": "From Middle English brasiere, from brasen (“to cover with brass”), from Old English brasian, bræsian (“to cover with brass”). By surface analysis, bras(s) + -ier."
+},
+{
+"w": "coadjutor",
+"pos": "noun",
+"d": "An assistant to a bishop",
+"r": "Late Latin coadiūtōrem, from co- + adiūtor “helper”",
+"s": "August then appointed Prince George III of Anhalt (who was both a theologian and a priest as well as a prince) to be his coadjutor in spiritual matters.",
+"old_f": [
+"A partner in a coal mine",
+"A judge of equal rank",
+"An heir to a dukedom"
+],
+"ety": "From Middle English coadjutowre, from Old French coadjuteur, borrowed from Late Latin coadiūtōrem, from co- + adiūtor (“helper”), from adiuvō (“to help”) + -tor (agent suffix). By surface analysis, co- + adjutor. The French derivation gave the accentuation co⁠ˈadjutor (used by Samuel Taylor Coleridge), but the poets generally, since 1600, appear to have coa⁠ˈdjutor, after Latin. No Latin *coadiuvō or *coadiūtō is recorded, but in the modern languages words have been formed on these types, suggested by coadjutor."
+},
+{
+"w": "redound",
+"pos": "verb",
+"d": "Return or recoil",
+"r": "Latin redundō, from red- + undō “surge”, from unda “a wave”",
+"s": "His infamous behaviour only redounded back upon him when he was caught.",
+"old_f": [
+"Round off neatly",
+"Surround with walls",
+"Bark loudly again"
+],
+"ety": "From Anglo-Norman redunder, Middle French redonder, and their source, Latin redundō, from red- + undō (“surge”), from unda (“a wave”)."
+},
+{
+"w": "tutelage",
+"pos": "noun",
+"d": "Teaching pupils individually (usually by a tutor hired privately)",
+"r": "Latin tūtēla “guardianship, protection” + -age, from tuērī “to watch, guard”",
+"s": "Thanks to my tutelage or simply inspiration.",
+"old_f": [
+"Playing music on a wind instrument (usually by a trained bugler)",
+"Collecting payments for using a road (usually by a toll keeper)",
+"Polishing silver with a soft cloth (usually by a household servant)"
+],
+"ety": "From Latin tūtēla (“a watching, guardianship, protection”) + -age, from tuērī (“to watch, guard”). See tuition."
+},
+{
+"w": "bibliomania",
+"pos": "noun",
+"d": "Preoccupation with the acquisition and possession of books",
+"r": "Biblio- + -mania",
+"s": "To collect books indiscriminately tends to develop the dread bibliomania.",
+"old_f": [
+"Preoccupation with the study and interpretation of scripture",
+"Preoccupation with the planning and arranging of libraries",
+"Preoccupation with the reading and writing of letters"
+],
+"ety": "From biblio- + -mania."
+},
+{
+"w": "insouciant",
+"pos": "adjective",
+"d": "Marked by blithe unconcern",
+"r": "French insouciant, from in- “not” + souciant “worrying”",
+"s": "An utterly insouciant financial policy.",
+"old_f": [
+"Marked by deep suspicion",
+"Not yet fully ripe",
+"Prone to sudden insults"
+],
+"ety": "From French insouciant, from in- (“not”, prefix) + souciant (“worrying”), 1828."
+},
+{
+"w": "embonpoint",
+"pos": "noun",
+"d": "The bodily property of being well rounded",
+"r": "French embonpoint",
+"s": "She was slightly inclined to embonpoint.",
+"old_f": [
+"The sharp tip of a fencing sword",
+"A raised dot in a line of lace",
+"A fine thread used in embroidery"
+],
+"ety": "Borrowed from French embonpoint."
+},
+{
+"w": "alarum",
+"pos": "noun",
+"d": "An automatic signal (usually a sound) warning of danger",
+"r": "Old Italian all'arme “to arms”, from Latin arma “weapons”",
+"s": "Just another forum, then, sounding the usual alarums on the looming threat from global warming?",
+"old_f": [
+"A wooden chest (usually iron-bound) for storing weapons",
+"A small bird (usually brown) that sings at dawn",
+"A thin cloak (usually red) worn by heralds"
+],
+"ety": "From Middle English alarom, from Old Italian all'arme (“to arms, to the weapons”), from Latin arma, armorum (“weapons”)."
+},
+{
+"w": "demure",
+"pos": "adjective",
+"d": "Affectedly modest or shy especially in a playful or provocative way",
+"r": "Anglo-Norman de mure port “with a mature demeanor”",
+"s": "Miss Lizzy, I have no doubt, would be as demure and coquettish, as if ten winters more had gone over her head.",
+"old_f": [
+"Affectedly sad or gloomy especially in a dramatic or theatrical way",
+"Openly hostile or rude especially in a crude or vulgar way",
+"Slightly tipsy or merry especially in a cheerful or harmless way"
+],
+"ety": "Inherited from Middle English demure, demwre, an abbreviation of Anglo-Norman de mure port (“with a mature demeanor”) (compare Old French meur from Latin mātūrus): *si il seyt coy e de mure port (Amur curteiz) (“he sits quietly and with a mature appearance”) * Documents illustrating the history of Scotland, CLV, 1306, Orders for the custody of Scottish prisoners, CLV: …et que eles soient de bon et meur port (“…with a good and mature demeanor”) * mss. Arundel, 220: ke cely qe vus amerez soyt de gentil manere, coy, de meure porture (“with a mature demeanor”) * (Monastic rule): de aunciene dame d"
+},
+{
+"w": "commingle",
+"pos": "verb",
+"d": "Mix or blend",
+"r": "Com- + mingle",
+"s": "The cuisine that commingles Chinese and Peruvian elements.",
+"old_f": [
+"Speak to the dead",
+"Lead or command",
+"Begin again"
+],
+"ety": "From com- + mingle."
+},
+{
+"w": "comport",
+"pos": "verb",
+"d": "Behave well or properly",
+"r": "Latin comportare “to bring together”, from com- + portare “to carry”",
+"s": "She comported herself with grace.",
+"old_f": [
+"Carry goods overseas",
+"Feel at ease",
+"Write music"
+],
+"ety": "From late Middle English comporten, from Old French comporter, from Latin comportare (“to bring together”), from com- (“together”) + portare (“to carry”)."
+},
+{
+"w": "mastaba",
+"pos": "noun",
+"d": "An ancient Egyptian mud-brick tomb with a rectangular base and sloping sides and flat roof",
+"r": "Arabic maṣṭaba",
+"s": "The pyramids at Giza are flanked by large cemeteries containing hundreds of mastabas.",
+"old_f": [
+"An ancient Egyptian reed boat with a pointed prow and stern used to carry stone down the Nile",
+"An ancient Egyptian stone jar with a lid shaped like a god’s head used to store organs",
+"An ancient Egyptian linen headdress with striped folds that hang down at the sides"
+],
+"ety": "Borrowed from Arabic مَصْطَبَة (maṣṭaba)."
+},
+{
+"w": "nuncio",
+"pos": "noun",
+"d": "A diplomatic representative of the Pope having ambassadorial status",
+"r": "Spanish nuncio, from Latin nūntius “envoy”",
+"s": "With the approval and participation of the nuncio, Archbishop Carlo Maria Vigano.",
+"old_f": [
+"A senior nun who governs a convent on behalf of an abbess",
+"A clerk who announces the hours of prayer in a cathedral",
+"A banker who manages the treasury of a religious order"
+],
+"ety": "From Spanish nuncio, from Latin nūntius (“envoy”)."
+},
+{
+"w": "darkling",
+"pos": "adjective",
+"d": "Uncannily or threateningly dark or obscure",
+"r": "Coined by the Irish poet Mary Tighe in 1805; popularized by John Keats",
+"s": "And we are here as on a darkling plain Swept with confused alarms of struggle and flight.",
+"old_f": [
+"Small and dear to the heart",
+"Lightly speckled with brown spots",
+"Sharp and quick like an arrow"
+],
+"ety": "Coined by Irish poet Mary Tighe in 1805, likely as an extension of the adverbial sense, and popularized by John Keats."
+},
+{
+"w": "vehement",
+"pos": "adjective",
+"d": "Marked by extreme intensity of emotions or convictions; inclined to react violently; fervid",
+"r": "Latin vehemēns “very eager; ardent, furious, impetuous”",
+"s": "The man made a vehement display of contempt.",
+"old_f": [
+"Marked by extreme fondness for vehicles or machines; inclined to tinker constantly; mechanical",
+"Marked by extreme gentleness of manner or speech; inclined to speak softly; mild",
+"Marked by extreme dryness of air or soil; inclined to crack easily; parched"
+],
+"ety": "Borrowed from Middle French vehement (modern French véhément; compare Italian veemente, Portuguese veemente, Spanish vehemente); or from Latin vehemēns (“vehement; very eager; ardent, furious, impetuous; emphatic”), probably from vē- (“lacking, too little”) + mēns (“mind; intellect; judgment, reasoning”)."
+},
+{
+"w": "supplant",
+"pos": "verb",
+"d": "Take the place or move into the position of",
+"r": "Latin supplantō “trip up”, from sub “from below” + planta “sole”",
+"s": "Will online dictionaries ever supplant paper dictionaries?",
+"old_f": [
+"Plant again in a new or larger pot",
+"Give support or strength to a weak structure",
+"Beg humbly for help or forgiveness from a superior"
+],
+"ety": "From Middle English supplanten, supplaunten, from Old French supplanter, from Latin supplantō (“trip up”), from sub (“from below, under”) + planta (“sole”)."
+},
+{
+"w": "halloo",
+"pos": "noun",
+"d": "A shout to attract attention",
+"r": "Middle English hallow “pursue, urge on”, from Old French haloer, imitative",
+"s": "List, list, I hear Som far off hallow break the silent Air.",
+"old_f": [
+"A ring of light around the moon",
+"A broad entrance corridor",
+"A sacred relic or shrine"
+],
+"ety": "From Middle English hallow (“pursue, urge on”), from Old French haloer, which is imitative."
+},
+{
+"w": "vociferous",
+"pos": "adjective",
+"d": "Conspicuously and offensively loud; given to vehement outcry",
+"r": "Latin vōcifer + -ous",
+"s": "Not even the most vociferous advocates of reform were willing to go to such lengths.",
+"old_f": [
+"Devouring large amounts of food; given to constant hunger",
+"Freely chosen and offered; given without being asked",
+"Rich in vocabulary; given to long and difficult words"
+],
+"ety": "From Latin vōcifer + -ous."
+},
+{
+"w": "doublet",
+"pos": "noun",
+"d": "A man’s close-fitting jacket; worn during the Renaissance",
+"r": "Old French doublet, from double + -et",
+"s": "He was a stout old gentleman, with a weather-beaten countenance; he wore a laced doublet, broad belt and hanger.",
+"old_f": [
+"A small two-pronged fork; used for eating shellfish",
+"A short two-edged sword; carried by foot soldiers",
+"A narrow two-seated carriage; drawn by a single pony"
+],
+"ety": "From Middle English doublet, a borrowing from Old French doublet, from double, duble, doble + -et. Equivalent to double + -et (diminutive suffix)"
+},
+{
+"w": "quibble",
+"pos": "noun",
+"d": "An evasion of the point of an argument by raising irrelevant distinctions or objections",
+"r": "Possibly quib + -le; quib is probably Latin quibus “in what respect?”, common in legal documents",
+"s": "He harped on his quibble about how the dark red paint should be described as carmine rather than burgundy.",
+"old_f": [
+"A brief shiver of fear caused by an unexpected noise or a sudden movement in the dark",
+"A small feather pen used for writing letters or keeping accounts in a ledger",
+"A loose collection of short poems or riddles written to amuse young children"
+],
+"ety": "Origin uncertain. Possibly from quib (“quibble”, noun) + -le (diminutive ending). Quib is probably from Latin quibus (“in what respect? how?”), which appeared frequently in legal documents and came to be suggestive of the verbosity and petty argumentation found therein; or perhaps an alteration of quip. Alternatively, perhaps related to dialectal Dutch kwebbelen (“to speak quickly and continuously, chatter”). Compare also Scots wheebele (“a quibble”)."
+},
+{
+"w": "inalienable",
+"pos": "adjective",
+"d": "Incapable of being repudiated or transferred to another",
+"r": "French inaliénable: in- + alienable",
+"s": "An inalienable right is a right that cannot be given away nor taken away.",
+"old_f": [
+"Incapable of being understood by anyone outside the group",
+"Lacking any connection to people from foreign lands",
+"Incapable of being stretched or extended any further"
+],
+"ety": "Borrowed around 1645 from French inaliénable, from in- + aliénable (“alienable”), equivalent to in- + alienable."
+},
+{
+"w": "disquisition",
+"pos": "noun",
+"d": "An elaborate analytical or explanatory essay or discussion",
+"r": "Latin disquīsītiō “inquiry, investigation”, from disquīrō “to investigate”",
+"s": "Everett’s novels make abundant use of language games, conceits and disquisitions.",
+"old_f": [
+"A formal act of removing someone from office or position",
+"A deep feeling of unease or anxiety about the future",
+"A careful inspection of goods arriving at a port"
+],
+"ety": "Borrowed from French disquisition (“disquisition”), from Latin disquīsītiō (“inquiry, investigation”), from disquīrō (“to investigate”) (from dis- (prefix meaning ‘apart, asunder’) + quaerō (“to look for, seek; to inquire, question”)) + -tiō (suffix forming nouns relating to an action or the result of an action)."
+},
+{
+"w": "odious",
+"pos": "adjective",
+"d": "Unequivocally detestable",
+"r": "Latin odiōsus, from odium “hate”",
+"s": "Scrubbing the toilets in the bar at the end of a Saturday night is an odious task.",
+"old_f": [
+"Strongly scented",
+"Poetically sung",
+"Oddly shaped"
+],
+"ety": "From Middle English odious, from Old French odieus, from Latin odiōsus, from odium (“hate”)."
+},
+{
+"w": "flagon",
+"pos": "noun",
+"d": "A large metal or pottery vessel with a handle and spout; used to hold alcoholic beverages (usually wine)",
+"r": "Old French flacon “flask”, from Late Latin flascō “bottle”",
+"s": "\"He's got a venison pastry and a flagon of sack in that cupboard behind him.\"",
+"old_f": [
+"A large woven or canvas banner with a pole and cord; used to mark the position of a regiment (usually in battle)",
+"A small stone or brick oven with a door and chimney; used to bake flat bread (usually by monks)",
+"A heavy wooden or iron club with a handle and spikes; used to thresh grain (usually by hand)"
+],
+"ety": "From Middle English flagon, flakon [and other forms], from Middle French flacon, Old French flacon, flascon (“flask”) (modern French flacon (“vial”)), from Medieval Latin flascōnem, the accusative singular of Late Latin flascō (“bottle; glass or earthenware vessel for wine; portable barrel”), from Frankish *flaska (“bottle; flask”), from Proto-Germanic *flaskǭ (“bottle; flask; vessel covered with plaiting”), from Proto-Germanic *flehtaną (“to braid, plait”) (from the practice of plaiting or wrapping bottles in straw casing), ultimately from Proto-Indo-European *pleḱ- (“to fold; to plait, weave"
+},
+{
+"w": "illimitable",
+"pos": "adjective",
+"d": "Without limits in extent or size or quantity",
+"r": "Il- + limitable",
+"s": "The endless voyage beyond planet and galaxy into the illimitable dark.",
+"old_f": [
+"Without any light or the means to see clearly",
+"Without a valid license or legal permission to trade",
+"Without the ability to read or write well"
+],
+"ety": "From il- + limitable."
+},
+{
+"w": "bellicosity",
+"pos": "noun",
+"d": "A natural disposition to fight",
+"r": "Bellicose + -osity",
+"s": "Before this news North Korea was all bellicosity and bluster.",
+"old_f": [
+"A natural fondness for church bells",
+"A rounded fullness of the stomach",
+"A graceful beauty in young women"
+],
+"ety": "From bellicose + -osity."
+},
+{
+"w": "beadle",
+"pos": "noun",
+"d": "A minor parish official who serves a ceremonial function",
+"r": "Old English bydel “warrant officer, herald”: bid + -le",
+"s": "He was a Beadle; I was a woman.",
+"old_f": [
+"A small glass bauble used to decorate church robes",
+"A large hound used for tracking deer in forests",
+"A wooden bowl used to collect alms after a service"
+],
+"ety": "From Middle English bedel, bidel, from Old English bydel (“warrant officer, apparitor”), from Proto-West Germanic *budil, from Proto-Germanic *budilaz (“herald”), equivalent to bid + -le. Cognate with Dutch beul, German Büttel. More at bid."
+},
+{
+"w": "triskele",
+"pos": "noun",
+"d": "A figure consisting of three stylized human arms or legs (or three bent lines) radiating from a center",
+"r": "French triskèle (1835); attested in English circa 1885",
+"s": "Both materials have the triskele geometry.",
+"old_f": [
+"A tool consisting of three sharpened iron spikes (or three hooked prongs) joined at the base for fishing",
+"A dance consisting of three couples in a circle (or three lines of dancers) moving around a center",
+"A stand consisting of three wooden legs (or three iron rods) supporting a pot above a fire"
+],
+"ety": "Circa 1885, alongside triskeles (c. 1880), from French triskèle (1835)."
+},
+{
+"w": "faience",
+"pos": "noun",
+"d": "Glazed earthenware decorated with opaque colors",
+"r": "French faïence, after Faenza, Italy, where it was made in the 16th century",
+"s": "The smile, you see, is perfect—wonderful, As mere Faience!",
+"old_f": [
+"Fine silk woven with gold thread",
+"Rich pastry layered with almond paste",
+"Thin parchment made from calfskin"
+],
+"ety": "Borrowed from French faïence, named after the city of Faenza, Italy, where it was made in the 16th century."
+},
+{
+"w": "biggin",
+"pos": "noun",
+"d": "A child’s tight-fitting cap; often ties under the chin",
+"r": "French béguin; compare beguine",
+"s": "An old woman's biggin for a nightcap.",
+"old_f": [
+"A large wooden barrel; often used for storing ale",
+"A small farm cottage; often built of turf or stone",
+"A heavy iron kettle; often hung over an open fire"
+],
+"ety": "From French béguin. Compare beguine."
+},
+{
+"w": "factotum",
+"pos": "noun",
+"d": "A servant employed to do a variety of jobs",
+"r": "Medieval Latin domine fac tōtum “O Lord, do everything”",
+"s": "Biden’s and Bush’s factotums had to walk their statements quickly back, emphasizing that U.S. policy had not changed.",
+"old_f": [
+"A record kept of every fact in a legal case",
+"A workshop where goods are produced by hand",
+"A totem pole carved to honor family ancestors"
+],
+"ety": "Ellipsis of domine fac totum, dominus fac totum /dominus factotum (“absolute ruler; head servant”), from Medieval Latin domine fac tōtum (“O Lord, do everything”), also with substition of nominative dominus for vocative domine."
+},
+{
+"w": "gargantuan",
+"pos": "adjective",
+"d": "Of great mass; huge and bulky",
+"r": "French Gargantua, a giant in Rabelais, from Spanish and Portuguese garganta “throat”",
+"s": "Boxy and unrefined, the Hummer embodied an outlandishly masculine aesthetic that seemed to almost revel in its gargantuan fuel consumption.",
+"old_f": [
+"Of the throat; harsh and rasping",
+"Of stone carvings; grotesque and ugly",
+"Of loud voices; garbled and unclear"
+],
+"ety": "From French Gargantua, a giant with a very large appetite in Rabelais's The Inestimable Life of Gargantua. Rabelais derived Gargantua from the Portuguese and Spanish garganta (“throat”)."
+},
+{
+"w": "gibbet",
+"pos": "noun",
+"d": "Alternative terms for gallows",
+"r": "Old French gibet, from Frankish *gibb “forked stick” or Latin gibbus “hunchbacked”",
+"s": "An exile, whose property is confiscated, and for whose neck the gibbet stands prepared!",
+"old_f": [
+"A meat pie of giblets",
+"A small hunting falcon",
+"A crooked walking stick"
+],
+"ety": "From Middle English gibet, from Old French gibet (French gibet), either from Frankish *gibb (“forked stick”) or from Latin gibbus (“hunchbacked”)."
+},
+{
+"w": "comeuppance",
+"pos": "noun",
+"d": "An outcome (good or bad) that is well deserved",
+"r": "Come up “to appear before a judge” + -ance",
+"s": "More comeuppance comes when the two play on the national team eight years later.",
+"old_f": [
+"A promotion (fair or unfair) that is quickly granted",
+"An entrance (grand or humble) that is made on stage",
+"A recovery (full or partial) that is made after illness"
+],
+"ety": "From come up (“to appear before a judge”) + -ance."
+},
+{
+"w": "termagant",
+"pos": "noun",
+"d": "A scolding nagging bad-tempered woman",
+"r": "Termagant, a fictitious violent deity in medieval plays",
+"s": "The name of Xanthippe, the wife of Socrates, has become proverbial for a termagant.",
+"old_f": [
+"A kind of white-winged sea bird",
+"A tireless and devoted student",
+"A wandering and penniless poet"
+],
+"ety": "The noun is derived from Termagant (“fictitious deity with a violent temperament represented as being worshipped by Muslims or other non-Christians”), from Middle English Termagaunt (“fictitious deity represented as being worshipped by Muslims; any pagan god”), from Anglo-Norman Tervagant, Tervagaunt, Tervagan, and Old French Tervagant, Tervagan (possibly with the addition of Anglo-Norman -aunt, Old French -ant (suffix forming present participles of verbs, some of which were used as nouns); modern French Tervagant (historical)); further etymology uncertain, one common suggestion being that it "
+},
+{
+"w": "raucous",
+"pos": "adjective",
+"d": "Unpleasantly loud and harsh",
+"r": "Latin raucus “hoarse, husky”",
+"s": "At night, raucous ruckus took place in the swamp.",
+"old_f": [
+"Slightly raw and undercooked",
+"Covered in deep ruts",
+"Thickly layered with rust"
+],
+"ety": "Borrowed from Latin raucus (“hoarse, husky, raucous”)."
+},
+{
+"w": "oeuvre",
+"pos": "noun",
+"d": "The total output of a writer or artist (or a substantial part of it)",
+"r": "French œuvre, from Latin opera, plural of opus; a doublet of opera and opus",
+"s": "Let’s “fictionalize” Foucault’s life by turning it into a biographical account of Foucault and his oeuvre or work.",
+"old_f": [
+"A small round window in the dome of a church (or the top of a tower)",
+"A light dish of eggs beaten and cooked in butter (or a little cream)",
+"A formal opening of an exhibition to the public (or the press)"
+],
+"ety": "From French œuvre, from Old French uevre, from Latin opera (plural of Latin opus), from Proto-Indo-European *h₃ep- (“work”). Doublet of opera, opus, and ure."
+},
+{
+"w": "plenipotentiary",
+"pos": "noun",
+"d": "A diplomat who is fully authorized to represent his or her government",
+"r": "Medieval Latin plēnipotentiārius “having full power”, from plēnus “full” + potēns “powerful”",
+"s": "None but the like-minded can come plenipotentiary to our court.",
+"old_f": [
+"A landowner who is fully entitled to vote in a parliamentary election",
+"A merchant who is fully licensed to import goods from foreign ports",
+"A priest who is fully trained to perform the rites of exorcism"
+],
+"ety": "From Medieval Latin plēnipotentiārius (“having full power”), Late Latin plēnipotēns, from plēnus (“full”) + potēns (“mighty, powerful”)."
+}
+]

@@ -1,0 +1,522 @@
+[
+{
+"w": "pathos",
+"pos": "noun",
+"d": "A quality that arouses emotions (especially pity or sorrow)",
+"r": "Greek páthos “suffering”",
+"s": "His voice had a genuine pathos now, and his large brown hands perceptibly trembled.",
+"old_f": [
+"A narrow trail that winds through a forest (especially in hills)",
+"A disease-causing germ (especially in water)",
+"A long epic poem (especially about gods)"
+],
+"ety": "From Ancient Greek πάθος (páthos, “suffering”)."
+},
+{
+"w": "genuflect",
+"pos": "verb",
+"d": "Bend the knees and bow in church or before a religious superior or image",
+"r": "Medieval Latin genūflectō “to bend the knee”, from genū “knee” + flectō “to bend”",
+"s": "At high Mass the deacon and subdeacon stand on either side, genuflect too, and answer.",
+"old_f": [
+"Reflect the light of a candle or lamp onto the face of a statue or image",
+"Bend a wire or rod into a loop to form a hook or link for a chain",
+"Trace the descent of a family through records kept by a church or parish"
+],
+"ety": "From around 1620–1630 from Medieval Latin genūflectō (“to bend the knee”) equivalent to the Latin genū (“knee”) + flectō (“to bend”)."
+},
+{
+"w": "prevarication",
+"pos": "noun",
+"d": "A statement that deviates from or perverts the truth",
+"r": "Latin praevāricātiō “collusion; duplicity, deceit”, literally “stepping out of line”",
+"s": "Prevarication became the order of the day in his government while truth was a stranger in those halls.",
+"old_f": [
+"A rule that is laid down before a game or contest begins",
+"A medicine that is given to prevent an illness from spreading",
+"A trip that is taken to a country house in the summer"
+],
+"ety": "Borrowed from Latin praevāricātiō (“collusion with an opponent; duplicity, deceit; violation of duty, transgression”, literally “stepping out of line”), from praevāricor (“to walk crookedly; go astray; transgress”) + -tās. The virtually obsolete sense of deviation or transgression may have been influenced by an earlier stage of borrowing via Middle English prevaricacioun, prevaricacion (“deviation from the law; transgression”) from Anglo-Norman prevaricaciun (“transgression, violation of correct conduct”)."
+},
+{
+"w": "euphonious",
+"pos": "adjective",
+"d": "Having a pleasant sound",
+"r": "Euphonical + -ous, ultimately from euphony",
+"s": "He decided in favour of Sophronia Sphynx, as being euphonious and genteel, and furthermore indicative of mystery.",
+"old_f": [
+"Having a joyful mood",
+"Having a mild flavor",
+"Having a strong smell"
+],
+"ety": "From euphonical + -ous (suffix forming adjectives denoting possession or presence of a quality, commonly in abundance). Euphonical is derived from euphonic + -al (suffix forming adjectives with the sense ‘of or pertaining to’); with euphonic from euphony + -ic (suffix forming adjectives with the sense ‘of or pertaining to’), and euphony borrowed from French euphonie, from Ancient Greek εὐφωνία (euphōnía), from εὐ- (eu-, prefix meaning ‘good, well’) + φωνή (phōnḗ, “sound; (human) voice; discourse, speech”) (from Proto-Indo-European *bʰeh₂- (“to say, speak”)) + -ῐ́ᾱ (-ĭ́ā, suffix forming feminin"
+},
+{
+"w": "jackanapes",
+"pos": "noun",
+"d": "Someone who is unimportant but cheeky and presumptuous",
+"r": "Middle English iack napys, a derogatory nickname of William de la Pole, Duke of Suffolk; probably Jack + ape",
+"s": "Who were the aristocracy, to give themselves airs? Jackanapes!",
+"old_f": [
+"Someone who is clumsy but strong and hardworking",
+"Someone who is wealthy but miserly and cruel",
+"Someone who is young but wise and learned"
+],
+"ety": "From Middle English iack napys, iac nape, iac napes (“derogatory nickname of the English military commander and statesman William de la Pole, 1st Duke of Suffolk (1396–1450)”), probably from Jacun or Jakin (“pet forms of the male name Jack”) + ape (“ape, monkey”) + -s (possibly modelled after surnames such as Hobbes and Jakkes), referring to Suffolk’s heraldic badge which was an ape’s chain and clog (“weight such as a block of wood or log attached to an animal to hinder motion”) (see the image, right). It is uncertain whether the word was first coined as a nickname for Suffolk (the earliest kn"
+},
+{
+"w": "vitiate",
+"pos": "verb",
+"d": "Corrupt morally or by intemperance or sensuality",
+"r": "Latin vitiō “damage, spoil”, from vitium “vice”",
+"s": "There was excellent blood in his veins—royal stuff; though sadly vitiated, I fear, by the cannibal propensity he nourished in his untutored youth.",
+"old_f": [
+"Restore to life by care or by kindness and warmth",
+"Make into glass by heat or by long cooling",
+"Heal an injury by rest or by gentle exercise"
+],
+"ety": "From Latin vitiātus, the perfect passive participle of vitiō (“damage, spoil”), from vitium (“vice”)."
+},
+{
+"w": "capitulate",
+"pos": "verb",
+"d": "Surrender under agreed conditions",
+"r": "Medieval Latin capitulō “to draw up under headings; to bargain, parley”",
+"s": "He argued and hollered for so long that I finally capitulated just to make him stop.",
+"old_f": [
+"Lead as a chief",
+"Behead a traitor",
+"Write in capitals"
+],
+"ety": "The adjective is first attested in 1528, the verb in 1537; borrowed from Medieval Latin capitulātus perfect passive participle of Medieval Latin capitulō (“(originally; of a book, text) to draw up under distinct headings; (from the 15ᵗʰ c.) to bargain, parley, convene”) (see -ate (verb-forming suffix) and -ate (adjective-forming suffix)), from capitulum (“heading, chapter, title”) + -ō (verb-forming suffix), diminutive of caput (“head”), ultimately from Proto-Indo-European *kap-. Common participial usage of the adjective up until Early Modern English."
+},
+{
+"w": "idiolect",
+"pos": "noun",
+"d": "The language or speech of one individual at a particular period in life",
+"r": "Idio- + -lect",
+"s": "She perfected the fictional idiolect, fashioning habits of speaking for even minor characters that rendered them utterly singular.",
+"old_f": [
+"The habit or quirk of one individual that sets them apart from others in public",
+"The foolish belief of one person that leads them to act against their own interest",
+"The chosen idol of one tribe that is carved and worshipped at a particular season"
+],
+"ety": "From idio- + -lect."
+},
+{
+"w": "blighter",
+"pos": "noun",
+"d": "A persistently annoying person",
+"r": "Blight + -er",
+"s": "I tackled the blighter squarely.",
+"old_f": [
+"A small brown moth",
+"A cheerful young man",
+"A slow-burning lamp"
+],
+"ety": "From blight (something that impedes development or growth, or spoils any other aspect of life) + -er."
+},
+{
+"w": "chatoyant",
+"pos": "adjective",
+"d": "Varying in color when seen in different lights or from different angles",
+"r": "French chatoyant, from chatoyer “to iridesce, like a cat's eye”, from chat “cat”",
+"s": "Cover a tin using two or more colors of chatoyant clay separated by black strips.",
+"old_f": [
+"Talking in a light and cheerful way when seen in different company or with different friends",
+"Smelling of smoke and spice when burnt in different rooms or at different times",
+"Covered in a fine soft fur when seen in different seasons or at different ages"
+],
+"ety": "From French chatoyant, present participle of chatoyer (“to iridesce, like a cat's eye”), from chat (“cat”, because of the reflective qualities of a cat's eye)."
+},
+{
+"w": "contrition",
+"pos": "noun",
+"d": "Sorrow for sin arising from fear of damnation",
+"r": "Old French contriciun, from Latin contrītiō",
+"s": "Kremlin officials have shown no signs of contrition.",
+"old_f": [
+"Payment for goods arising from a written agreement",
+"Friction between parts arising from wear and tear",
+"Delay in work arising from bad weather"
+],
+"ety": "From Old French contriciun (French contrition), from Latin contrītiō."
+},
+{
+"w": "chenille",
+"pos": "noun",
+"d": "A soft tufted cord used in embroidery",
+"r": "French chenille; a doublet of canicule",
+"s": "The green chenille curtain was like a veil of seaweed.",
+"old_f": [
+"A small brown dog used in hunting",
+"A thin pancake folded with cream",
+"A loose woollen cloak worn by shepherds"
+],
+"ety": "Borrowed from French chenille. Doublet of canicule."
+},
+{
+"w": "majolica",
+"pos": "noun",
+"d": "Highly decorated earthenware with a glaze of tin oxide",
+"r": "Italian maiolica, after the island of Mallorca; a doublet of Majorca",
+"s": "It is there that I keep my grandfather’s collection of majolica.",
+"old_f": [
+"Richly embroidered silk with a border of gold thread",
+"Finely carved ivory with a stain of walnut oil",
+"Heavily scented soap with a base of olive oil"
+],
+"ety": "From Italian maiolica, named after the Island of Mallorca (formerly known as Maiòlica), which was once a commerce center for work produced in Valencia, Spain. Doublet of Mallorca and Majorca."
+},
+{
+"w": "shillelagh",
+"pos": "noun",
+"d": "A cudgel made of hardwood (usually oak or blackthorn)",
+"r": "Irish sail éille “cudgel of a thong”, altered to match the village of Shillelagh",
+"s": "For shillelaghs they never miss fire.",
+"old_f": [
+"A ballad sung at wakes (usually unaccompanied or with a fiddle)",
+"A shawl woven from wool (usually green or grey)",
+"A coin worth twelve pence (usually silver or copper)"
+],
+"ety": "From Irish sail éille (“shillelagh”, literally “cudgel of a thong”), altered to match the name of the village of Shillelagh (from Irish Síol Éalaigh (literally “descendants of Éalach”), because the forest near it provided wood from which such clubs could be made."
+},
+{
+"w": "corselet",
+"pos": "noun",
+"d": "A piece of body armor for the trunk; usually consists of a breastplate and back piece",
+"r": "French corselet, from cors, an archaic spelling of corps “body”",
+"s": "Strictly speaking, the word corcelet meant only that part which covered the body, but was generally used to express the whole suit, under the terms of a corselet furnished, or complete.",
+"old_f": [
+"A small bunch of flowers worn on the dress; usually consists of roses and ferns",
+"A light swift sailing ship for raiders; usually consists of two masts and oars",
+"A short prayer said at meals; usually consists of a blessing and amen"
+],
+"ety": "From French corselet, from cors, an archaic spelling of corps (“body”)."
+},
+{
+"w": "roughshod",
+"pos": "adjective",
+"d": "(of a horse) having horseshoes with projecting nails to prevent slipping",
+"r": "Rough + shod",
+"s": "There we waited two hours, to have the fresh horses roughshod.",
+"old_f": [
+"(of a road) having a surface of loose stones to give a grip to cart wheels",
+"(of a boot) having soles of rough leather to prevent wear on long marches",
+"(of a sailor) having callused feet from going barefoot on the decks of ships"
+],
+"ety": "From rough + shod."
+},
+{
+"w": "iniquity",
+"pos": "noun",
+"d": "Absence of moral or spiritual values",
+"r": "Latin inīquitās “iniquity; inequality, unfairness”",
+"s": "The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men.",
+"old_f": [
+"Absence of any sense of humor",
+"Absence of a legal heir",
+"Absence of curiosity about the world"
+],
+"ety": "From Middle English iniquite, jniquite (“evil, wickedness, iniquity; evil act; hostility, malevolence; hostile act; a calamity, misfortune”), from Old French iniquité (modern French iniquité (“iniquity”)), from Latin inīquitās (“iniquity; inequality, unfairness; inequity, injustice”), from inīquus (“unequal, uneven, unfair; disadvantageous, unfavourable; hostile, unkind; unsuitable; wicked, wrong”) + -itās (variant of -tās (suffix forming a noun indicating a state of being)). Inīquus is derived from in- (prefix meaning ‘not’) + aequus (“equal; fair, impartial, just”). Piecewise doublet of ineq"
+},
+{
+"w": "steganography",
+"pos": "noun",
+"d": "Act of writing in code or cipher",
+"r": "Greek steganós “cover, roof” + -graphy",
+"s": "Using the steganography tools available today, suspects can even hide data inside JPEGs and audio files.",
+"old_f": [
+"Act of writing in shorthand at speed",
+"Act of drawing maps of rivers and lakes",
+"Act of carving letters into stone"
+],
+"ety": "From Ancient Greek στεγανός (steganós, “cover, roof”) + -graphy."
+},
+{
+"w": "etymon",
+"pos": "noun",
+"d": "A simple form inferred as the common basis from which related words in several languages can be derived by linguistic processes",
+"r": "Greek étumon “the true sense of a word according to its origin”, from étumos “true”",
+"s": "The resulting citation collection was databased and coded for meaning, etymon, and date range.",
+"old_f": [
+"A small insect found preserved in amber from which scientists in several countries can learn about prehistoric climates",
+"A brief saying repeated in several languages that is used as a motto by a school or a learned society",
+"A false story spread among several peoples that is believed to explain the origin of a custom or holiday"
+],
+"ety": "From Ancient Greek ἔτυμον (étumon, “the true sense of a word according to its origin”), from ἔτυμος (étumos, “true, real, actual”)."
+},
+{
+"w": "cofferdam",
+"pos": "noun",
+"d": "Large watertight chamber used for construction under water",
+"r": "Coffer + dam",
+"s": "The contractor for the cofferdams, &c., was an Englishman.",
+"old_f": [
+"Large iron-bound chest used for storing gold in a bank vault",
+"Small wooden pot used for brewing coffee over an open fire",
+"Heavy stone slab used for covering a grave in a churchyard"
+],
+"ety": "From coffer + dam. The dental dam sense was introduced in English by dentist Sanford Christie Barnum at New York City in 1864 (by metaphor), but after his century it was maintained only in languages other than English (for example, German Kofferdam as a loanword from 19th-century English)."
+},
+{
+"w": "arrant",
+"pos": "adjective",
+"d": "Without qualification; used informally as (often pejorative) intensifiers",
+"r": "A variant of errant, from Old French errant “wandering”",
+"s": "He was a tight brisk little man, with the air of an arrant old Bachelor.",
+"old_f": [
+"Running small errands; used informally of boys employed by shops or offices",
+"Strongly scented; used informally of cheap perfumes or strong cheeses",
+"Sharply pointed; used informally of arrows or spears and other weapons"
+],
+"ety": "A variant of errant, from Middle English erraunt [and other forms], from Anglo-Norman erraunt, from Old French errant, the present participle of errer (“to walk (to); to wander (to); (figuratively) to travel, voyage”), and then: * from Vulgar Latin iterō (compare Late Latin itinerō, itineror (“to travel, voyage”)), from Latin iter (“a route (including a journey, trip; a course; a path; a road)”), ultimately from Proto-Indo-European *h₁ey- (“to go”); and * from Latin errāns (“straying, errant; wandering”), the present active participle of errō (“to rove, wander; to get lost, go astray; to err, "
+},
+{
+"w": "gallivant",
+"pos": "verb",
+"d": "Wander aimlessly in search of pleasure",
+"r": "Gallant “wooing women”, 1809; originally “to flirt”",
+"s": "Rather than sit and gawk at my nonadoring mother and sister, I gallivanted outdoors until it was time to hit the sack.",
+"old_f": [
+"Ride out bravely in search of adventure",
+"Gallop at full speed across open ground",
+"Hang from the gallows as a punishment"
+],
+"ety": "1809, from gallant (“wooing women”), originally in sense “to flirt”, broadened to mean “roaming without plan”."
+},
+{
+"w": "apprise",
+"pos": "verb",
+"d": "Inform (somebody) of something",
+"r": "French appris, apprise, past participle of apprendre “to learn; to teach”",
+"s": "The ears apprise the brain of sound.",
+"old_f": [
+"Value (something) for sale",
+"Capture (somebody) by force",
+"Award (somebody) a prize"
+],
+"ety": "Borrowed from French appris, apprise, the past participle form of apprendre (“to learn; to teach”), from Middle French apprendre, aprendre (“to learn”), from Old French aprendre, aprandre (“to learn; to educate, teach”), from Latin apprēndere, a variant of apprehendere, adprehendere, the present active infinitives of apprehendō, adprehendō (“to lay hold upon, grab, grasp, seize, take; to apprehend, arrest; to grasp with the mind, comprehend, understand; (Medieval Latin) to learn; to inform; to teach”), from ad- (prefix meaning ‘to; towards’) + prehendō (“to lay hold of, grab, grasp, seize, tak"
+},
+{
+"w": "cadastre",
+"pos": "noun",
+"d": "A public register showing the details of ownership and value of land; made for the purpose of taxation",
+"r": "French cadastre",
+"s": "As page 1 of the accompanying text helpfully explains, \"ichnographic plans are particularly well suited for cadastres\"",
+"old_f": [
+"A private list showing the names and rank of officers in a regiment; kept for the purpose of promotion",
+"A public notice showing the hours and fares of coaches between towns; posted for the purpose of travel",
+"A written record showing the births and deaths in a parish; kept for the purpose of inheritance"
+],
+"ety": "Borrowed from French cadastre."
+},
+{
+"w": "gasconade",
+"pos": "noun",
+"d": "An instance of boastful talk",
+"r": "French gasconnade, from Gascon “native of Gascony”: to talk like a Gascon",
+"s": "The message is a gamer's gasconade: We cheat, we steal, we eat your lunch.",
+"old_f": [
+"A burst of poisonous fumes",
+"A cold soup of tomatoes",
+"A short ride on horseback"
+],
+"ety": "From French gasconnade, from Gascon (“native of Gascony”) + -ade, equivalent to Gascon (“native of Gascony”) + -ade, literally \"to talk like a Gascon\". See French gasconnade."
+},
+{
+"w": "chockablock",
+"pos": "adjective",
+"d": "Packed full to capacity",
+"r": "Chock + -a- + block",
+"s": "Fish is chockablock full of protein.",
+"old_f": [
+"Stained with chocolate",
+"Cut into small blocks",
+"Choked with weeds"
+],
+"ety": "From chock + -a- + block."
+},
+{
+"w": "carmine",
+"pos": "noun",
+"d": "A variable color averaging a vivid red",
+"r": "French carmin, from Medieval Latin carminium, from Arabic qirmiz “crimson, kermes”",
+"s": "He wore a great coat in midsummer, being affected with the trembling delirium, and his face was the color of carmine.",
+"old_f": [
+"A sweet syrup made from burnt sugar",
+"A small wagon pulled by goats",
+"A kind of hymn sung at Easter"
+],
+"ety": "From French carmin, from irregular Medieval Latin carminium, itself from Arabic قِرْمِز (qirmiz, “crimson, kermes”) from Persian *کرمست (*kermest), ultimately from Proto-Indo-Iranian *kŕ̥miš (“worm”), plus or with influence from Latin minium. Compare crimson and kermes."
+},
+{
+"w": "affectation",
+"pos": "noun",
+"d": "A deliberate pretense or exaggerated display",
+"r": "Latin affectātiōnem, from affectō “to feign”",
+"s": "This poem is strongly tinctured with those pedantic affectations concerning the passion of love.",
+"old_f": [
+"A warm and tender fondness for someone",
+"A formal statement made under oath",
+"A sudden attack of illness or disease"
+],
+"ety": "From Middle French affectation and its etymon Latin affectātiōnem, from affectō (“to feign”). By surface analysis, affect + -ation."
+},
+{
+"w": "decussate",
+"pos": "verb",
+"d": "Cross or intersect so as to form a cross",
+"r": "Latin decussō “to divide crosswise, mark with a cross”",
+"s": "The two trochlears decussate in the anterior medullary velum.",
+"old_f": [
+"Cut or divide so as to form ten parts",
+"Shake or strike so as to remove the dust",
+"Bow or kneel so as to show respect"
+],
+"ety": "The adjective is first attested in 1825, the verb in 1658. Borrowed from Latin decussātus, perfect passive participle of decussō (“to divide crosswise, arrange crosswise or mark with a cross”) (see -ate (adjective-forming suffix) and -ate (verb-forming suffix)), from decussis (“a coin worth ten asses; a cross sign (from the cross shape of the Roman numeral for ten carved on the coins)”), from decem (“ten”) + as (“a Roman coin”)."
+},
+{
+"w": "syndic",
+"pos": "noun",
+"d": "One appointed to represent a city or university or corporation in business transactions",
+"r": "French syndic, from Late Latin syndicus “representative of a corporation or town”, from Greek súndikos “advocate of a defendant”",
+"s": "In France, syndics are appointed by the creditors of a bankrupt to manage the property.",
+"old_f": [
+"One trained to treat the illnesses of the bones and joints in a hospital or infirmary",
+"One elected to lead the prayers of a congregation in a synagogue or meeting house",
+"One employed to collect the taxes and tolls of a port or market town"
+],
+"ety": "Borrowed from French syndic (“delegated representative; a chief magistrate of Geneva; a censor; critic (obsolete)”), from Late Latin syndicus (“syndic, representative of a corporation or town”), from Ancient Greek σύνδικος (súndikos, “advocate of a defendant”), from σῠν- (sŭn-, “together, with”) + δῐ́κη (dĭ́kē, “law, order”) (ultimately from Proto-Indo-European *deyḱ- (“to point out”)) + -ος (-os)."
+},
+{
+"w": "demulcent",
+"pos": "noun",
+"d": "A medication (in the form of an oil or salve etc.) that soothes inflamed or injured skin",
+"r": "Latin dēmulcēns, from dēmulceō “to stroke caressingly; to soften, soothe”",
+"s": "For constipation, a neem powder of two or three grams with three to four black peppers given three times a day is both a laxative and a demulcent.",
+"old_f": [
+"A tonic (in the form of a syrup or powder etc.) that stimulates the appetite in invalids",
+"A poison (in the form of a gas or vapor etc.) that causes drowsiness and slows the heart",
+"A dye (in the form of a paste or tincture etc.) that darkens grey or white hair"
+],
+"ety": "From Latin dēmulcēns, present active participle of dēmulceō (“to stroke caressingly; to soften, soothe, allure”), from dē- (“from; of”) + mulceō (“to move or touch gently or lightly, to stroke; to make pleasant or sweet; to soften, soothe, alleviate, relieve”)."
+},
+{
+"w": "zealotry",
+"pos": "noun",
+"d": "Excessive intolerance of opposing views",
+"r": "Zealot + -ry",
+"s": "Moderation is a wiser policy than zealotry, I think.",
+"old_f": [
+"Extreme fondness for animals",
+"Strict devotion to fasting",
+"Deep envy of a rival"
+],
+"ety": "From zealot + -ry."
+},
+{
+"w": "curmudgeon",
+"pos": "noun",
+"d": "A crusty irascible cantankerous old person full of stubborn ideas",
+"r": "Of uncertain origin; a 1600 spelling cornmudgin has been suggested as the original form",
+"s": "John Doe's old age and stubborn aversion to new ideas make him a curmudgeon of a candidate.",
+"old_f": [
+"A thick heavy club made of oak and studded with iron nails",
+"A small dark stain left on cloth by mud or grease",
+"A shallow muddy pool left by the tide on a beach"
+],
+"ety": "Numerous folk etymologies exist for this word. An alternative spelling attested in 1600 is cornmudgin, in Holland's translation of Livy, rendering Latin frūmentārius (“corn-merchant”). This has been suggested as the original form of the word, but OED notes that curmudgeon is attested some years before this, concluding that cornmudgin was merely a nonce-word by Holland. The word is attested from the late 1500s in the forms curmudgeon and curmudgen, and during the 17th century in numerous spelling variants, including cormogeon, cormogion, cormoggian, cormudgeon, curmudgion, curmuggion, curmudgin"
+},
+{
+"w": "percipient",
+"pos": "noun",
+"d": "A person who becomes aware (of things or events) through the senses",
+"r": "Latin percipiēns, from percipiō “to perceive”",
+"s": "In the course of investigating the haunting, I interviewed several percipients.",
+"old_f": [
+"A person who receives (money or goods) as a gift or payment",
+"A person who drips (coffee or water) through a filter of grounds",
+"A person who walks (to shrines or temples) as an act of devotion"
+],
+"ety": "From Latin percipiēns, present participle of percipiō (“to perceive”)."
+},
+{
+"w": "pittance",
+"pos": "noun",
+"d": "An inadequate payment",
+"r": "Old French pitance, from Medieval Latin *pietāntia, from Latin pietās “piety”",
+"s": "It was a pittance, barely enough to live on.",
+"old_f": [
+"A deep hollow",
+"A sincere apology",
+"A feeling of sorrow"
+],
+"ety": "From Middle English pitaunce, from Old French pitance, pitence, from Medieval Latin *pietāntia, from Latin pietās (“piety”)."
+},
+{
+"w": "bonzer",
+"pos": "adjective",
+"d": "Remarkable or wonderful",
+"r": "Australian; in use from the 1890s, origin unknown, perhaps from boncer “large marble”",
+"s": "‘By jings, it’s bonzer fun; better’n motor-cars any day.’",
+"old_f": [
+"Tired and worn",
+"Crazy and wild",
+"Stubborn and slow"
+],
+"ety": "Entered use 1890s, origin unknown. In 2020 James Lambert reviewed previous theories, and supports derivation from: * boncer (“large marble”) < bouncer (“something prodigiously large”) Lambert also notes as not supported by evidence: * bonanza * French bon (“good”) * \"more fanciful\" suggestions: ** born star ** Japanese 万歳 (banzai, “long live..., huzzah, hurrah”) ** bonnie"
+},
+{
+"w": "discomfit",
+"pos": "verb",
+"d": "Cause to lose one’s composure",
+"r": "Old French desconfit, past participle of desconfire “to undo, destroy”",
+"s": "Don't worry. Your joke did not really discomfit me.",
+"old_f": [
+"Remove from a club or society",
+"Fail to fit together",
+"Cut into small pieces"
+],
+"ety": "From Middle English discomfiten, from Old French desconfit, past participle of desconfire (“to undo, to destroy”), from des- (“completely”), from Latin dis- + Old French confire (“to make”), from Latin cōnficiō (“to finish up, to destroy”), from com- (“with, together”) + faciō (“to do, to make”). Later sense of “to embarrass, to disconcert” due to confusion with unrelated discomfort."
+},
+{
+"w": "biddable",
+"pos": "adjective",
+"d": "Willing to carry out the orders or wishes of another without protest",
+"r": "Bid + -able",
+"s": "She was a quite biddable creature and good-hearted.",
+"old_f": [
+"Eager to place the highest offer for goods sold at an auction or sale",
+"Able to be folded or bent into shape without breaking or cracking",
+"Fit to be eaten or drunk without causing harm or illness"
+],
+"ety": "From bid + -able."
+},
+{
+"w": "sallet",
+"pos": "noun",
+"d": "A light medieval helmet with a slit for vision",
+"r": "Middle French salade, from Spanish celada, perhaps from Latin caelāta “ornamentally engraved (helmet)”",
+"s": "Ursula wore that day a hauberk under her gown, and was helmed with a sallet.",
+"old_f": [
+"A short medieval sword with a curved blade for cutting",
+"A narrow medieval window with a pointed arch for archers",
+"A small medieval boat with a single mast for fishing"
+],
+"ety": "From Middle French salade, from Spanish celada, thought to be from Latin caelāta (“ornamentally engraved [helmet]”) (although the Latin word is not attested in this sense)."
+},
+{
+"w": "rambunctious",
+"pos": "adjective",
+"d": "Noisy and lacking in restraint or discipline",
+"r": "A variant of rumbustious “boisterous and unruly”",
+"s": "The kids are being especially rambunctious today.",
+"old_f": [
+"Sharp-tongued and quick to give offense",
+"Untidy and covered with loose wrappers",
+"Wandering and given to long walks"
+],
+"ety": "A variant of rumbustious (“boisterous and unruly”)."
+}
+]

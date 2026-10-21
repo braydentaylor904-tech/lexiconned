@@ -1,0 +1,522 @@
+[
+{
+"w": "brouhaha",
+"pos": "noun",
+"d": "Loud confused noise from many sources",
+"r": "French brouhaha, of disputed origin; possibly Hebrew barúkh habá “welcome”",
+"s": "It caused quite a brouhaha when the school suspended one of its top students for refusing to adhere to the dress code.",
+"old_f": [
+"A thick stew of brown beans",
+"A light ale brewed in spring",
+"A small house in the hills"
+],
+"ety": "Borrowed from French brouhaha, though its earlier origin is disputed. Possibly from Hebrew בָּרוּךְ הַבָּא (barúkh habá, “welcome”, literally “blessed is he who comes”)."
+},
+{
+"w": "wherewithal",
+"pos": "noun",
+"d": "The necessary means (especially financial means)",
+"r": "Where- + withal; used as a noun since about 1800",
+"s": "I would like to help your project, but I do not have the wherewithal.",
+"old_f": [
+"The exact location (especially of a hidden thing)",
+"The proper reason (especially for an action)",
+"The usual habit (especially of an animal)"
+],
+"ety": "From where- + withal. Originally only an adverb, nominal use since ca. 1800."
+},
+{
+"w": "batiste",
+"pos": "noun",
+"d": "A thin plain-weave cotton or linen fabric; used for shirts or dresses",
+"r": "French batiste, a form of Baptiste, of disputed origin",
+"s": "He had started to stroke her, shivering, staring ahead, following with a blind man's hand the dip of her spine through the batiste.",
+"old_f": [
+"A short wooden club; used by police officers on night patrol",
+"A small flying mammal; used in folk medicine to cure fevers",
+"A rite of washing with water; used to welcome a child into the church"
+],
+"ety": "From French batiste, a form of Baptiste, of disputed origin (“according to Littré and Scheler from the alleged original maker, Baptiste of Cambray; according to others, from its use in wiping the heads of children after baptism” – OED)."
+},
+{
+"w": "artifice",
+"pos": "noun",
+"d": "A deceptive maneuver (especially to avoid capture)",
+"r": "Latin artificium",
+"s": "The notion that consequence can be as easily managed as PR is the ultimate artifice and the ultimate delusion.",
+"old_f": [
+"A skilled craft (especially of weaving)",
+"A heavy cannon (especially for sieges)",
+"A formal clause (especially of a treaty)"
+],
+"ety": "From Middle French artifice, from Latin artificium."
+},
+{
+"w": "indubitable",
+"pos": "adjective",
+"d": "Too obvious to be doubted",
+"r": "French indubitable or Latin indubitābilis: in- + dubitable",
+"s": "The indubitable effect of the potion convinced many nonbelievers.",
+"old_f": [
+"Too heavy to be lifted",
+"Too faint to be heard",
+"Too dirty to be cleaned"
+],
+"ety": "Either from French indubitable or Latin indubitābilis. By surface analysis, in- + dubitable."
+},
+{
+"w": "verisimilitude",
+"pos": "noun",
+"d": "The appearance of truth; the quality of seeming to be true",
+"r": "Latin vērīsimilitūdō “likeness to truth”, from vērī “of the true” + similitūdō “likeness”",
+"s": "Other adulteries were noted in the interest of verisimilitude.",
+"old_f": [
+"The habit of rhyming; the quality of writing in regular verse",
+"The love of green things; the quality of being fresh and full of growth",
+"The fear of heights; the quality of feeling dizzy when looking down"
+],
+"ety": "From Middle French vérisimilitude, from Latin vērīsimilitūdō (“likeness to truth”), more correctly written separately as vērī similitūdō; from vērī, genitive singular of vērus (“true, real”), + similitūdō (“likeness, resemblance”)."
+},
+{
+"w": "philomath",
+"pos": "noun",
+"d": "A lover of learning",
+"r": "Greek philomathḗs “fond of learning”, from phílos “loving” + máthē “learning”",
+"s": "The success of an almanac depended upon the appeal of the \"philomath\"-the resident astrologer who did the writing and predicting.",
+"old_f": [
+"A lover of horses",
+"A lover of music",
+"A lover of stamps"
+],
+"ety": "First indubitably attested ante 1643 (perhaps antedated to 1611); from the Ancient Greek φιλομαθής (philomathḗs, “fond of learning”), from φίλος (phílos, “loving”) + μάθη (máthē, “learning”), from μανθάνω (manthánō, “learn”); compare opsimath, philomathematic, and polymath."
+},
+{
+"w": "nobble",
+"pos": "verb",
+"d": "Deprive of by deceit",
+"r": "Origin obscure; possibly nob + -le, or an alteration of nubble",
+"s": "Jury trials were reformed to allow majority verdicts, so that criminals could less easily nobble them.",
+"old_f": [
+"Make noble",
+"Gnaw at softly",
+"Walk unsteadily"
+],
+"ety": "Origin obscure. Possibly from nob + -le, or perhaps an alteration of nubble. Compare also dialectal knobble (“to hit or strike”)."
+},
+{
+"w": "hellion",
+"pos": "noun",
+"d": "A rowdy or mischievous person (usually a young man)",
+"r": "An alteration, influenced by hell, of dialectal hallion “scamp, worthless fellow”",
+"s": "He chased the young hellions out of his yard.",
+"old_f": [
+"A golden statue (usually of the sun god)",
+"A small flowering plant (usually yellow and bright)",
+"A loud greeting (usually shouted across a street)"
+],
+"ety": "An alteration, under the influence of hell, of northern English/Scottish dialectal hallion (“scamp, worthless fellow”), of unknown origin."
+},
+{
+"w": "depute",
+"pos": "verb",
+"d": "Transfer power to someone",
+"r": "French députer, from Latin deputo",
+"s": "Some persons, deputed by a meeting.",
+"old_f": [
+"Argue a point",
+"Remove a doubt",
+"Clean a wound"
+],
+"ety": "From French députer, from Latin deputo."
+},
+{
+"w": "gesticulate",
+"pos": "verb",
+"d": "Show, express or direct through movement",
+"r": "Latin gesticulor, from gesticulus “a mimic gesture”, diminutive of gestus “gesture”",
+"s": "Groups of dancers were wheeling, plunging, and gesticulating while the ogre, more aphasic than before, mumbled at full strength.",
+"old_f": [
+"Carry a baby in the womb",
+"Make a joke at another’s expense",
+"Pour wine into a cup"
+],
+"ety": "Borrowed from Latin gesticulātus, perfect active participle of gesticulor (“to gesticulate”) (see -ate (verb-forming suffix)), from gesticulus (“a mimic gesture”), diminutive of gestus (“gesture”), from gerō (“to bear, carry, perform”)."
+},
+{
+"w": "proffer",
+"pos": "noun",
+"d": "A proposal offered for acceptance or rejection",
+"r": "Middle English profre “act of offering”",
+"s": "\"Oh no,\" she refused demurely at their proffer of coffee.",
+"old_f": [
+"A tall stand for reading lectures",
+"A gain made from a sale",
+"A rough draft of a plan"
+],
+"ety": "The noun is derived from Middle English profre (“act of offering or presenting a gift; offer of something; challenge; sacrifice; act of petitioning or requesting; petition, request; proposal, suggestion; idea, thought; attempt, effort; appearance; (law) payment to the Exchequer by a sheriff or other officer of estimated revenue due to the monarch”) [and other forms], and then: * partly from Late Latin profrum, proferum (“payment to the Exchequer of estimated revenue due to the monarch (also puruoffrus), offer to convict a criminal”), and from its likely etymon Anglo-Norman profre, proffre, por"
+},
+{
+"w": "seriatim",
+"pos": "adverb",
+"d": "In a series; one after another",
+"r": "Medieval Latin seriatim, from Latin seriēs “row, chain” + -ātim",
+"s": "The author then took up each step seriatim of the technique and after-treatment.",
+"old_f": [
+"In earnest; with great solemnity",
+"In secret; without being seen",
+"In silence; without a word"
+],
+"ety": "From Medieval Latin seriatim, from Latin seriēs (“row, chain”) + -ātim, adverbial suffix."
+},
+{
+"w": "redoubtable",
+"pos": "adjective",
+"d": "Inspiring fear",
+"r": "Anglo-Norman and Middle French redoutable",
+"s": "The redoubtable New York Times has been called the “newspaper of record” of the United States.",
+"old_f": [
+"Freshly painted",
+"Doubled again",
+"Hard to doubt"
+],
+"ety": "The adjective is derived from Late Middle English redoutable (“worthy of honour, venerable; frightening, terrible”), borrowed from Anglo-Norman redoutable and Middle French redoutable, redoubtable, from Old French redotable (modern French redoutable), from redoter (“to fear”) (whence Middle French redoubter, redouter, French redouter) + -able (suffix meaning ‘deserving of, worthy of’). Redoter is derived from re- (intensifying prefix) + doter (“to doubt; to fear”) (from Latin dubitō (“to doubt, be uncertain, waver in opinion”), probably ultimately from Proto-Indo-European *dwi- (“apart, asunde"
+},
+{
+"w": "lovelorn",
+"pos": "adjective",
+"d": "Unhappy in love; suffering from unrequited love",
+"r": "Love + lorn",
+"s": "Ye artists lovelorn! madmen that ye are.",
+"old_f": [
+"Happy in love; recently engaged to be married",
+"Lost in thought; dreaming of far-off places",
+"Worn by age; faded from long use"
+],
+"ety": "From love + lorn."
+},
+{
+"w": "decorous",
+"pos": "adjective",
+"d": "Characterized by propriety and dignity and good taste in manners and conduct",
+"r": "Latin decōrus “becoming, fitting, proper”, from decor “elegance, grace”",
+"s": "Rome appears to keep awake and stirring, though in a quiet and decorous way.",
+"old_f": [
+"Characterized by elaborate ornament and gilding in furnishings and dress",
+"Characterized by a tendency to give in to temptation and pleasure",
+"Characterized by gradual decay and the loss of strength and vigor"
+],
+"ety": "From the following: * Latin decōrus (“becoming, fitting, proper, suitable”) + English -ous (suffix adjectives denoting presence of a quality in any degree, typically an abundance). Decōrus is derived from decor (“elegrance, grace; charm beauty”) + -us (suffix forming adjectives); and decor is from decēre, the present active infinitive of decet (“to adorn; to be decent; to be proper or suitable”), ultimately from Proto-Indo-European *deḱ- (“to perceive; to take”). * Possibly also influenced by Late Latin decorōsus (“beautiful; elegant”), from decoris + -ōsus (suffix meaning ‘full of’ forming ad"
+},
+{
+"w": "pertinacious",
+"pos": "adjective",
+"d": "Stubbornly unyielding",
+"r": "Old French pertinace, from Latin pertinax, from per- “very” + tenax “tenacious”",
+"s": "The most vocal and pertinacious of all the critics.",
+"old_f": [
+"Highly relevant",
+"Deeply troubled",
+"Greatly angered"
+],
+"ety": "From pertinace + -ious, from Old French pertinace, from Latin pertinax, from per- (“very”) + tenax (“tenacious”)."
+},
+{
+"w": "umbrage",
+"pos": "noun",
+"d": "A feeling of anger caused by being offended",
+"r": "Middle French ombrage, from Latin umbrāticus “in the shade”, from umbra “shadow, shade”",
+"s": "She looked very neurotic, moving in a jerky way, her body giving little twitches of habitual umbrage.",
+"old_f": [
+"A covering of oiled cloth carried to keep off rain",
+"A deep brown pigment made from earth",
+"A feeling of pride caused by being praised"
+],
+"ety": "From Middle French ombrage (“umbrage”), from Old French ombrage, from Latin umbrāticus (“in the shade”), from umbra (“shadow, shade”)."
+},
+{
+"w": "sonorous",
+"pos": "adjective",
+"d": "Full and loud and deep",
+"r": "Latin sonōrus, from sonor “sound”",
+"s": "He was selected to give the opening speech thanks to his imposing, sonorous voice.",
+"old_f": [
+"Sleepy and slow to wake",
+"Bitter and sour to taste",
+"Sweet and soft as silk"
+],
+"ety": "Borrowed from Latin sonōrus, from sonor (“sound”), early 17th century."
+},
+{
+"w": "merlon",
+"pos": "noun",
+"d": "A solid section between two crenels in a crenelated battlement",
+"r": "French merlon, from Italian merlone, from merlo; possibly from Latin merula “blackbird”",
+"s": "The castle spread out before him, its high solid sandstone walls, with their crenel and merlon battlements ending in round towers, was a magnificent sight.",
+"old_f": [
+"A small dark songbird that nests between two rocks in a stone wall",
+"A wild sea creature that is half woman and half fish in folk tales",
+"A narrow slit between two stones through which archers shoot"
+],
+"ety": "Borrowed from French merlon, from Italian merlone (“merlon”), from merlo (“merlon”) + -one (suffix forming augmentatives). Merlo is derived from Late Latin merulus, merlus, possibly from Latin merula (“blackbird”) (as merlons resemble a row of birds perched on a wall), from Proto-Indo-European *h₂ems- (“black; blackbird”). The English word is cognate with Italian mergolo (“battlement; pinnacle”), Portuguese merlão, Spanish merlón (“merlon”)."
+},
+{
+"w": "anchorite",
+"pos": "noun",
+"d": "One retired from society for religious reasons",
+"r": "Greek anakhōrētḗs, from anakhōréō “to withdraw, retire”, via Latin anchōrēta",
+"s": "Oh, hang him? He's a very Anchorite—a young Hermit!",
+"old_f": [
+"One who sails ships for a living",
+"One who keeps the family records",
+"One who tells stories in public"
+],
+"ety": "From Ancient Greek ἀναχωρητής (anakhōrētḗs, “anchorite”), from ἀναχωρέω (anakhōréō, “to withdraw, retire”), via Latin anchōrēta, a variant of anachōrēta (“anchorite”), see -ite."
+},
+{
+"w": "preternatural",
+"pos": "adjective",
+"d": "Surpassing the ordinary or normal",
+"r": "Preter- + natural, after Latin praeter nātūram “beyond nature”",
+"s": "Macbeth is like a record of a preternatural and tragical event.",
+"old_f": [
+"Existing before birth",
+"Feigned for show",
+"Fond of the outdoors"
+],
+"ety": "From preter- + natural, after Latin prēternātūrālis/praeternātūrālis, from praeter nātūram, from praeter (“beyond”) + nātūra (“nature”); compare supernatural."
+},
+{
+"w": "brevet",
+"pos": "noun",
+"d": "A document entitling a commissioned officer to hold a higher rank temporarily (but without higher pay)",
+"r": "Anglo-Norman diminutive of bref “letter”, from Latin brevis “short”",
+"s": "Fine chance for promotion, it seems—aye, a stove boat will make me an immortal by brevet.",
+"old_f": [
+"A short sermon (often written in Latin) that a priest reads at a funeral or memorial",
+"A small loaf (often made of rye) that is given to soldiers at the start of a march",
+"A light jacket (often lined with fur) that cavalry officers wear over one shoulder"
+],
+"ety": "Inherited from the Middle English brevet (“official letter”), from the Anglo-Norman diminutive of bref (“letter”), from the Latin brevis (“short”), whence brief."
+},
+{
+"w": "disapprobation",
+"pos": "noun",
+"d": "An expression of strong disapproval; pronouncing as wrong or morally culpable",
+"r": "Dis- + approbation",
+"s": "Her feelings must be hurt by such disapprobation.",
+"old_f": [
+"A careful testing of a new recruit; examining someone’s fitness for duty",
+"A sudden loss of wealth or rank; falling from a position of high honor",
+"A gentle teasing of a close friend; making light of a shared mistake"
+],
+"ety": "From dis- + approbation."
+},
+{
+"w": "seneschal",
+"pos": "noun",
+"d": "The chief steward or butler of a great household",
+"r": "Old French seneschal, from Frankish *siniskalk, from *siniz “senior” + *skalkaz “servant”",
+"s": "Beside stood seneschals, the appointed witnesses of the ensuing games.",
+"old_f": [
+"The chief judge or magistrate of a small town",
+"The eldest son or heir of a noble family",
+"The head monk or abbot of a large monastery"
+],
+"ety": "From Middle English seneschal (recorded in English since 1393), from Old French seneschal, from Medieval Latin siniscalcus, from Frankish *siniskalk, from Proto-Germanic *siniskalkaz, from Proto-Germanic *siniz (“senior”) + *skalkaz (“servant”); latter term as in marshal. As an officer of the French crown, via French sénéchal."
+},
+{
+"w": "embrasure",
+"pos": "noun",
+"d": "An opening (in a wall or ship or armored vehicle) for firing through",
+"r": "French embrasure, from embraser, from Old French “cut at a slant”",
+"s": "The walls are slitted with embrasures through which bowmen could fire.",
+"old_f": [
+"A warm embrace (between friends or family) on meeting or parting",
+"A coal fire (in a forge or kitchen) kept burning through the night",
+"A raised platform (in a hall or chapel) for speakers to stand on"
+],
+"ety": "From French embrasure, from embras(er) + -ure, from Old French embrasure (“cut at a slant, make a groove or furrow”), from em- + braser (“cut at a slant”)."
+},
+{
+"w": "credulous",
+"pos": "adjective",
+"d": "Disposed to believe on little evidence",
+"r": "Latin crēdulus “that easily believes”, from crēdō “to believe”",
+"s": "The doctor was a small, black, plump man with fuzzy hair and round, credulous eyes.",
+"old_f": [
+"Deserving of praise and honor",
+"Having a strong sense of duty",
+"Disposed to cruelty and harshness"
+],
+"ety": "Originated in 1576, borrowed from Latin crēdulus (“that easily believes a thing, credulous”), from crēdō (“to believe”)."
+},
+{
+"w": "wimple",
+"pos": "noun",
+"d": "Headdress of cloth; worn over the head and around the neck and ears by medieval women",
+"r": "Old English wimpel “veil; a covering for the neck”",
+"s": "To envisage with accuracy the appearance of the wimple or the other items that went to make up the habit.",
+"old_f": [
+"Basket of willow; carried on the back by peasant women at harvest to gather grapes in the vineyards",
+"Ripple on water; made by fish rising at dusk to feed on insects at the surface",
+"Dimple in the cheek; seen when children laugh and often thought a sign of good luck"
+],
+"ety": "From Middle English wympel, wimpel, from Old English wimpel (“veil, an article of women's dress; a covering for the neck, a cloak, a hood”), from Proto-Germanic *wimpilaz (“wimple, scarf, veil”). Cognate with Scots wympill (“wimple”), Dutch wimpel (“streamer, pennant”), German Wimpel (“pennant”), Swedish vimpel (“pennant, banner”), Icelandic vimpill (“hood, cowl”)."
+},
+{
+"w": "incipient",
+"pos": "adjective",
+"d": "Only partly in existence; imperfectly formed",
+"r": "Latin incipiēns, present participle of incipiō “begin”",
+"s": "After 500 years, incipient towns appeared.",
+"old_f": [
+"Lacking any flavor; bland and dull",
+"Capable of cutting; sharp and keen",
+"Not yet received; still owed"
+],
+"ety": "Borrowed from Latin incipiēns, present participle of incipiō (“begin”)."
+},
+{
+"w": "confute",
+"pos": "verb",
+"d": "Prove to be false",
+"r": "Middle French confuter, from Latin confūtō",
+"s": "We can look up something in a book and learn it perfectly well with no other motive than to confute reinforcement theory.",
+"old_f": [
+"Throw into disorder",
+"Combine into one",
+"Play on a flute"
+],
+"ety": "From Middle French confuter, from Latin confūtō."
+},
+{
+"w": "athirst",
+"pos": "adjective",
+"d": "(usually followed by ‘for’) extremely desirous",
+"r": "Old English ofþyrst, past participle of ofþyrstan “to smart from thirst”",
+"s": "O sleepless heart and sombre soul unsleeping, That were athirst for sleep and no more life.",
+"old_f": [
+"(usually of sailors) blown off course",
+"(usually of fruit) overripe and soft",
+"(usually of a road) crossing at angles"
+],
+"ety": "Inherited from Middle English athirst, from Old English ofþyrst, past participle of ofþyrstan (“to smart from thirst”), equivalent to a- (“of”, Etymology 8) + thirst (verb)."
+},
+{
+"w": "aquiline",
+"pos": "adjective",
+"d": "Curved down like an eagle’s beak",
+"r": "Latin aquilīnus, from aquila “eagle”",
+"s": "Frank's aquiline nose jutted out from underneath his glasses.",
+"old_f": [
+"Pale blue like clear water",
+"Flat and broad like a duck’s bill",
+"Long and thin like a heron’s neck"
+],
+"ety": "From Latin aquilīnus, from aquila (“eagle”)."
+},
+{
+"w": "dowser",
+"pos": "noun",
+"d": "Someone who uses a divining rod to find underground water",
+"r": "Dowse + -er",
+"s": "If you look closely you may see it suggested that she is a “sensitive” of some kind, a dowser in the world of global marketing.",
+"old_f": [
+"Someone who puts out fires by throwing buckets of water",
+"Someone who sleeps lightly in a chair after dinner",
+"Someone who arranges marriages for a fee or a dowry"
+],
+"ety": "From dowse + -er."
+},
+{
+"w": "predilection",
+"pos": "noun",
+"d": "A predisposition in favor of something",
+"r": "Medieval Latin praedīlēctiō",
+"s": "Youth’s predilection for revolt.",
+"old_f": [
+"A formal statement made before a vote",
+"A speech of farewell to a departing friend",
+"A blessing spoken over a meal"
+],
+"ety": "Borrowed from Medieval Latin praedīlēctiō."
+},
+{
+"w": "prorogue",
+"pos": "verb",
+"d": "Hold back to a later time",
+"r": "Old French proroguer, from Latin prōrogō “prolong, defer”",
+"s": "The King settled to prorogue Parliament until the Christmas holidays, and to do nothing else for the present.",
+"old_f": [
+"Argue in favor of",
+"Rule by royal decree",
+"Speak before a play"
+],
+"ety": "From Old French proroger, proroguer, from Latin prōrogō (“prolong, defer”)."
+},
+{
+"w": "canoodle",
+"pos": "verb",
+"d": "Fondle or pet affectionately",
+"r": "Uncertain; perhaps a blend of caress + noodle “to fool around”",
+"s": "He’s got a big smile on his face—who’s he been canoodling recently?",
+"old_f": [
+"Paddle a small boat",
+"Doze off briefly",
+"Boil soft pasta"
+],
+"ety": "The origin of the verb is uncertain; the following possibilities have been suggested: * From a blend of ca(ress) + noodle (“to engage in frivolous behavior; to fool around or waste time; to mess around, to play”). * From German knuddeln (“to cuddle; (originally) to embrace tightly”); or related to Low German knuddle (“a clump, a knot”), a diminutive of knude, related to Old High German knodo, knoto (“a knot”) (modern German Knoten (“knot”)); ultimate etymology unknown. Compare also Norwegian Bokmål knulle (“to fuck”), Swedish knulla (“to fuck”), both from Proto-Germanic *knuzlijaną (“to beat; "
+},
+{
+"w": "frippery",
+"pos": "noun",
+"d": "Something of little value or significance",
+"r": "French friperie, from Old French fripier “to rub up and down, wear into rags”",
+"s": "We detest the affectation and effeminate frippery which is but too frequent in the modern novel.",
+"old_f": [
+"A sweet fried cake of dough",
+"A sudden fright or scare",
+"A heavy fall of sleet"
+],
+"ety": "From French friperie, from Old French fripier (“to rub up and down, to wear into rags”). Compare fripper."
+},
+{
+"w": "cutpurse",
+"pos": "noun",
+"d": "A thief who steals from the pockets or purses of others in public places",
+"r": "Middle English cutte-purs: cut + purse, since purses hung from a strap at the girdle",
+"s": "A cutpurse of the empire and the rule.",
+"old_f": [
+"A tailor who makes purses and pouches from the leather offcuts of a saddler’s shop",
+"A barber who cuts hair and pulls teeth in the market squares of country towns",
+"A banker who changes foreign coins for travelers at the gates of walled cities"
+],
+"ety": "From Middle English cutte-purs; equivalent to cut + purse: originally, purses were worn by a strap at the girdle, which the thief would cut."
+},
+{
+"w": "alembic",
+"pos": "noun",
+"d": "An obsolete kind of container used for distillation; two retorts connected by a tube",
+"r": "French alambic, from Arabic al-ʔinbīq, from Greek ámbix “cup, cap of a still”",
+"s": "Thus is Art, a nature passed through the alembic of man.",
+"old_f": [
+"An ancient kind of lamp used for reading; two wicks joined by a brass chain",
+"A medieval kind of crossbow used for hunting; two strings joined by a bar",
+"A sacred kind of bowl used for blessing; two handles joined by a rim"
+],
+"ety": "From French alambic, from Medieval Latin alembīcus, from Arabic الإِنْبِيق (al-ʔinbīq), from Ancient Greek ἄμβιξ (ámbix, “cup, cap of a still”). Doublet of ambix and lambic."
+},
+{
+"w": "bulwark",
+"pos": "noun",
+"d": "An embankment built around a space for defensive purposes",
+"r": "Middle Dutch bolwerk: bole “tree trunk” + work; a doublet of boulevard",
+"s": "The party stalwarts constitute the bulwark that ensures the president's term of office.",
+"old_f": [
+"A wide avenue lined with trees for strolling and parades",
+"A heavy beam used to bar the gates of a town",
+"A large pen used to hold bulls before market"
+],
+"ety": "From Middle English bulwerk, from Middle Dutch bolwerk, bolwerc and Middle Low German bolwerk, equivalent to bole (“tree trunk”) + work. Cognate with German Bollwerk, Danish bolværk, Swedish bålverk, Dutch bolwerk. Doublet of boulevard (from French boulevard, from Dutch); cognate with Portuguese and Spanish baluarte and Italian baluardo."
+}
+]

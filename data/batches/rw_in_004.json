@@ -1,0 +1,522 @@
+[
+{
+"w": "chicanery",
+"pos": "noun",
+"d": "The use of tricks to deceive someone (usually to extract money from them)",
+"r": "French chicanerie “trickery”, from chicaner",
+"s": "They do not always find manors, got by rapine or chicanery, insensibly to melt away.",
+"old_f": [
+"The raising of poultry for eggs (usually on a small family farm)",
+"The art of cutting and fitting glass (usually for church windows)",
+"The practice of dressing in elaborate fashions (usually for public display)"
+],
+"ety": "From French chicanerie (“trickery”), from chicaner, from Middle French chicaner, borrowed from Middle Low German schicken, from Old Saxon *skikkian, from Proto-West Germanic *skikkijan (“to order, arrange”). Related to German schicken (“to send, ship”), Middle English skekken (“to send forth, issue”)."
+},
+{
+"w": "discalced",
+"pos": "adjective",
+"d": "(used of certain religious orders) barefoot or wearing only sandals",
+"r": "Ecclesiastical Latin discalceātus “barefoot”",
+"s": "Brother John is a member of the Discalced Carmelites.",
+"old_f": [
+"(used of certain religious orders) forbidden to speak except at prayer",
+"(used of certain religious orders) living entirely on donated bread",
+"(used of certain religious orders) dressed only in undyed wool"
+],
+"ety": "Borrowed from Ecclesiastical Latin discalceātus (“barefoot”) + -ed, rendering French déchaussé. By surface analysis, dis- + calced."
+},
+{
+"w": "supernumerary",
+"pos": "noun",
+"d": "A person serving no apparent function",
+"r": "Late Latin supernumerarius “extra soldier added to a legion”",
+"s": "The judge was a supernumerary, helping the regular judges whenever there was a surplus amount of work.",
+"old_f": [
+"A person skilled at mental arithmetic",
+"A person who supervises a large estate",
+"A person with unusual physical strength"
+],
+"ety": "From Late Latin supernumerarius (“extra soldier added to a legion; supernumerary”), from super (“above; beyond”) + numerus (“number; collection, quantity”) + -ārius (suffix forming adjectives from nouns or numerals). The word is analysable as super- + numeral + -ary."
+},
+{
+"w": "expeditious",
+"pos": "adjective",
+"d": "Marked by speed and efficiency",
+"r": "Latin expedītus “ready, prompt, unencumbered”",
+"s": "Our coachman and horses are so extremely expeditious!",
+"old_f": [
+"Marked by a love of travel",
+"Marked by careful planning and caution",
+"Marked by a fondness for argument"
+],
+"ety": "From Middle English expedycius (“useful, fitting”), from Latin expedītus (“disengaged, ready, convenient, prompt; unfettered, unencumbered”), past participle of expediō."
+},
+{
+"w": "escalade",
+"pos": "noun",
+"d": "An act of scaling by the use of ladders (especially the walls of a fortification)",
+"r": "French escalade, from Latin scālae “ladder”",
+"s": "An escalade was required for the warriors to attack the troops.",
+"old_f": [
+"An act of increasing tension by the use of threats (especially between rival states)",
+"An act of fleeing by the use of disguise (especially from a prison)",
+"A dish of thin meat slices fried in butter (especially veal)"
+],
+"ety": "Borrowed from French escalade, from Italian scalata, from scalare (“to climb”), from scala (“ladder”), from Latin scālae (“ladder”). Doublet of scalade."
+},
+{
+"w": "portmanteau",
+"pos": "noun",
+"d": "A new word formed by joining two others and combining their meanings",
+"r": "Middle French portemanteau “coat stand”, from porter “to carry” + manteau “coat”",
+"s": "Well then, ‘mimsy’ is ‘flimsy and miserable’ (there’s another portmanteau for you).",
+"old_f": [
+"A heavy cloak worn over armor by mounted knights and their squires",
+"A small harbor where boats can shelter from storms and unload cargo",
+"A formal letter of introduction carried by a traveling diplomat"
+],
+"ety": "From Middle French portemanteau (“coat stand”), from porte (“he carries”, third-person singular present indicative of porter (“to carry”)) + manteau (“coat”), literally “[that which] carries coat”. The lexical sense (sense 2) was first used figuratively by Lewis Carroll in Through the Looking-Glass (1871) to describe the words he coined in the poem “Jabberwocky”, based on the concept of two words packed together, similar to a portmanteau (etymology). Sense 3 (“portmanteau film”) is derived from this."
+},
+{
+"w": "dearth",
+"pos": "noun",
+"d": "An acute insufficiency",
+"r": "Middle English derth, probably from Old English *dīerþ",
+"s": "The dearth of A.I. chips has been exacerbated because Nvidia, a longtime provider of the chips, has a virtual lock on the market.",
+"old_f": [
+"A hearth’s ash pit",
+"A beloved companion",
+"A dark cellar"
+],
+"ety": "First attested at least as early as the late 1300s, and appearing in Tyndale’s Pentateuch (1530) as well as the Coverdale Bible (1535). From Middle English derth, derthe, derþe, probably from Old English *dīerþ, *dīerþu, from Proto-West Germanic *diuriþu, from Proto-Germanic *diuriþō (“costliness, preciousness, honour”); corresponding to dear + -th (abstract nominal suffix). Cognate with Old Saxon diuriða (“glory, honour; preciousness”), West Frisian djoerte (“love, dearness, value, worth”), Dutch duurte (“dearness; scarcity, dearth”), Icelandic dýrð (“honour, glory”)."
+},
+{
+"w": "defray",
+"pos": "verb",
+"d": "Bear the expenses of",
+"r": "Middle French desfrayer, from Old French fraier “to spend”",
+"s": "In order to help defray the substantial costs involved, they then raised revenue through taking advertisements.",
+"old_f": [
+"Remove loose threads",
+"Postpone a meeting",
+"Scare off birds"
+],
+"ety": "From Middle French desfrayer, French défrayer, from dé- + Old French fraier (“to spend”)."
+},
+{
+"w": "parlous",
+"pos": "adjective",
+"d": "Fraught with danger",
+"r": "Middle English, a contraction of perilous",
+"s": "The situation became parlous when the weather made resupply impossible.",
+"old_f": [
+"Fond of talk",
+"Richly furnished",
+"Lacking in color"
+],
+"ety": "From Middle English parles, parlous, perlous, [and other forms], a contraction of perilous (“dangerous; dreadful, terrible; morally corrupt, sinful, wicked; inauspicious, unlucky”) (and thus a doublet of perilous), from Old French perilleus, perillos, perillous, perilluse, perilleuse, perilleux (“very dangerous, perilous”) (modern French périlleux), from Latin perīculōsus (“dangerous, hazardous, perilous”), from perīculum (“danger, hazard, peril, risk”) (ultimately from Proto-Indo-European *per- (“to go through, carry forth, try”)) + -ōsus (suffix meaning ‘full of, prone to’ forming adjectives"
+},
+{
+"w": "trumpery",
+"pos": "noun",
+"d": "Nonsensical talk or writing",
+"r": "Middle French tromperie “deceit”",
+"s": "There is no need for me to write about the trumpery scandal by which I was the sufferer.",
+"old_f": [
+"A winning card game",
+"A loud brass fanfare",
+"A heavy wooden chest"
+],
+"ety": "From Middle English trompery, from Middle French tromperie (“deceit”)."
+},
+{
+"w": "finical",
+"pos": "adjective",
+"d": "Exacting especially about details",
+"r": "University slang, probably from fine",
+"s": "Charming, he said in a finical sweet voice, showing his white teeth and blinking his eyes pleasantly.",
+"old_f": [
+"Relating to money",
+"Nearing the end",
+"Having small fins"
+],
+"ety": "University slang, probably from fine."
+},
+{
+"w": "rectitude",
+"pos": "noun",
+"d": "Righteousness as a consequence of being honorable and honest",
+"r": "Late Latin rectitūdō “straightness, uprightness”, from Latin rectus “straight”",
+"s": "“Sit with her all night if we have to,” Syd affirms with strenuous rectitude.",
+"old_f": [
+"Stiffness as a consequence of standing upright for too long",
+"Exhaustion as a consequence of long hours of physical labor",
+"Regret as a consequence of having broken a solemn promise"
+],
+"ety": "From Middle English rectitude, from Middle French rectitude, from Late Latin rectitūdō (“straightness, uprightness”), from Latin rectus (“straight”), perfect passive participle of regō (“regulate, guide”)."
+},
+{
+"w": "exigency",
+"pos": "noun",
+"d": "A pressing or urgent situation",
+"r": "Late Latin exigentia “urgency”, from exigere “to demand”",
+"s": "You should not have undertaken your office, unless prepared for its various exigencies.",
+"old_f": [
+"A formal order of banishment",
+"A narrow way out",
+"A careful weighing of evidence"
+],
+"ety": "From Middle French exigence, from Late Latin exigentia (“urgency”) (from exigēns + -ia), from exigere (“to demand”)."
+},
+{
+"w": "quondam",
+"pos": "adjective",
+"d": "Belonging to some prior time",
+"r": "Latin quondam; compare whilom",
+"s": "For the sleeper on the couch was not Akeley at all, but my quondam guide Noyes.",
+"old_f": [
+"Puzzled beyond words",
+"Fit to drink",
+"Gently curved inward"
+],
+"ety": "Borrowed from Latin quondam. Compare whilom."
+},
+{
+"w": "flaxen",
+"pos": "adjective",
+"d": "Of hair color; pale yellowish to yellowish brown",
+"r": "Old English fleaxen “of flax”, from flax + -en “made of”",
+"s": "The couple and their children have flaxen hair.",
+"old_f": [
+"Of fabric; loosely woven and slightly transparent",
+"Of wax; soft enough to be shaped by hand",
+"Of bread; baked with seeds and coarse grain"
+],
+"ety": "From Middle English flaxen, flexon, flexin, from Old English fleaxen (“of flax; flaxen”), equivalent to flax + -en (“made of”). Compare Dutch vlassen."
+},
+{
+"w": "equivocal",
+"pos": "adjective",
+"d": "Open to two or more interpretations; or of uncertain nature or significance; or (often) intended to mislead",
+"r": "Late Latin aequivocus, from aequus + vocō; equi- + vocal",
+"s": "For the beauties of Shakespeare are not of so dim or equivocal a nature as to be visible only to learned eyes.",
+"old_f": [
+"Equal in weight or value; or perfectly balanced in form; or (often) divided fairly between two parties",
+"Having a loud and clear voice; or able to be heard at a distance; or (often) used of public speakers",
+"Relating to horses; or used in the breeding of horses; or (often) describing riders at a show"
+],
+"ety": "From Late Latin aequivocus + -al, from aequus + vocō. By surface analysis, equi- + vocal."
+},
+{
+"w": "clangour",
+"pos": "noun",
+"d": "A loud resonant repeating noise",
+"r": "Latin clangor",
+"s": "H. G. Wells' stark short story \"The Cone\" tells of a man's macabre revenge worked out in the clangour of a great steel works and railway lines and sidings.",
+"old_f": [
+"A sudden fondness for someone",
+"A thick fog over marshes",
+"A family feud lasting generations"
+],
+"ety": "Borrowed from Latin clangor."
+},
+{
+"w": "milksop",
+"pos": "noun",
+"d": "A timid man or boy considered childish or unassertive",
+"r": "Middle English milksop, from milk + sop",
+"s": "That milksop of a creature pretend to be worthy of such a woman as Mrs. Pendennis.",
+"old_f": [
+"A woman who sells dairy goods from a cart in the street",
+"A small pail with a lid used for carrying cream",
+"A loud, boastful person who exaggerates his own deeds"
+],
+"ety": "From Middle English milksop, mylk sop, mylke soppe, equivalent to milk + sop."
+},
+{
+"w": "specious",
+"pos": "adjective",
+"d": "Plausible but false",
+"r": "Latin speciōsus “good-looking”",
+"s": "This idea that we must see through what we have started is specious, however good it may sound.",
+"old_f": [
+"Roomy and well lit",
+"Strongly flavored",
+"Varied in kind"
+],
+"ety": "From Middle English speciose, specious, from Anglo-Norman specious, Middle French specieux, and their etymon Latin speciōsus (“good-looking”)."
+},
+{
+"w": "ashlar",
+"pos": "noun",
+"d": "A rectangular block of hewn stone used for building purposes",
+"r": "Old French esselier “wooden support, beam”",
+"s": "The building, in a plain Tudor Gothic style, has a central door in chamfered ashlar surround.",
+"old_f": [
+"A wooden box for holding the ashes of the dead",
+"A tall shrub with silvery leaves and bitter berries",
+"A shallow tray for collecting ash beneath a stove"
+],
+"ety": "From Middle English assheler, acheler, etc., from forms of Old French esselier (“wooden support, traverse beam”), from Medieval Latin ascelāris and assellāris (equivalent to a diminutive of early forms of ais (“plank”)), variant of *axillāris (attested only after the Renaissance), from Latin axilla (“little plank”) + -āris (“-ary: forming adjectives”), from axis (“axle, plank”) + -illa (“-ella: forming diminutives”)."
+},
+{
+"w": "wizened",
+"pos": "adjective",
+"d": "Lean and wrinkled by shrinkage as from age or illness",
+"r": "Wizen + -ed; from Old English wisnian",
+"s": "He was old, too, wizened with age, and the hair on his face was gray.",
+"old_f": [
+"Wise and experienced from many years of study",
+"Whistling or wheezing when breathing in cold air",
+"Bewitched or enchanted by a spell or charm"
+],
+"ety": "From wizen + -ed. Inherited from Middle English wisenen, from Old English wisnian, weosnian, from Proto-Germanic *wisnōjaną. Cognate with Icelandic visna."
+},
+{
+"w": "anodyne",
+"pos": "noun",
+"d": "A medicine used to relieve pain",
+"r": "Greek anṓdunos “free from pain”, from an- “without” + odúnē “pain”",
+"s": "Their beauty seemed to bring him an anodyne for his pain.",
+"old_f": [
+"A metal plate used in electric batteries",
+"A short poem written for a single voice",
+"A mineral used to dye fabric blue"
+],
+"ety": "From Middle English anodine, from Medieval Latin anōdynos (“stilling or relieving pain”), from Ancient Greek ἀνώδυνος (anṓdunos, “free from pain”), from ἀν- (an-, “without”) + ὀδύνη (odúnē, “pain”). Adjective sense “noncontentious” probably through French anodin (“harmless, trivial”), of same origin."
+},
+{
+"w": "seidel",
+"pos": "noun",
+"d": "A glass for beer",
+"r": "German Seidel “beer mug”",
+"s": "Others, I swear, crossed themselves at least mentally, and whispered a prayerish aside into their seidels.",
+"old_f": [
+"A strip of silk",
+"A side door",
+"A low saddle"
+],
+"ety": "Borrowed from German Seidel (“beer mug or a serving of beer of about a third of a liter”)."
+},
+{
+"w": "affiance",
+"pos": "verb",
+"d": "Give to in marriage",
+"r": "Middle French affiance, from Medieval Latin affīdāre, from Latin fīdere",
+"s": "It's no secret that Prissy was affianced to our former teacher, but justifiably fled the wedding.",
+"old_f": [
+"Make a strong impression",
+"Draw up a will",
+"Provide money for"
+],
+"ety": "From Middle French affiance, from affier (from Medieval Latin affīdāre, from *fīdāre, from Latin fīdere) + -ance."
+},
+{
+"w": "ceilidh",
+"pos": "noun",
+"d": "An informal social gathering at which there is Scottish or Irish folk music and singing and folk dancing and story telling",
+"r": "Scottish Gaelic cèilidh “a social call, visit”",
+"s": "These happy and informative ceilidhean are past, and we are the poorer.",
+"old_f": [
+"A carved oak roof panel at which there is Celtic knotwork and painted heraldry and gilded trim",
+"A stone hut at which there is shelter for shepherds and their flocks and fodder during winter storms",
+"A sea loch at which there is a narrow channel and strong tidal currents and seasonal salmon runs"
+],
+"ety": "The noun is borrowed from Scottish Gaelic cèilidh (“a pilgrimage; a social call, visit; a sojourn; a social gathering with dancing, etc., ceilidh”) and Irish célidhe (archaic), céilí (“a social call, visit; a social gathering with dancing, etc., ceilidh”), both from Old Irish célide (“social call, visit”), from céile (“companion, fellow; neighbour”) (ultimately from Proto-Celtic *kēiliyos (“companion; servant”), possibly from Proto-Indo-European *ḱey- (“to settle”)) + -ide. The plural form ceilidhean is borrowed from Scottish Gaelic cèilidhean. The verb is derived from the noun."
+},
+{
+"w": "piebald",
+"pos": "adjective",
+"d": "Having sections or patches colored differently and usually brightly",
+"r": "Pie “magpie” + bald “having white patches or blazes”",
+"s": "The classic example of a piebald dog is the Dalmatian.",
+"old_f": [
+"Having lost all the hair from the crown of the head",
+"Having been baked in a crust and served cold",
+"Having a short, stocky build and thick legs"
+],
+"ety": "From pie (“magpie”) + bald (“having white patches or blazes”). Compare typologically Polish srokaty < sroka."
+},
+{
+"w": "perforce",
+"pos": "adverb",
+"d": "By necessity; by force of circumstance",
+"r": "Old French par force “by force”",
+"s": "Adult immigrants must perforce learn some English.",
+"old_f": [
+"By accident; through a stroke of luck",
+"In secret; without the knowledge of others",
+"At great length; in exhaustive detail"
+],
+"ety": "From Middle English par force, from Anglo-Norman, from Old French par force (“by force”)."
+},
+{
+"w": "punctilious",
+"pos": "adjective",
+"d": "Marked by precise accordance with details",
+"r": "Punctilio “fine point in exactness of conduct” + -ous",
+"s": "With a punctilious slap of the gloves, the duel was now inevitable.",
+"old_f": [
+"Marked by sudden sharp pains",
+"Marked by frequent puns",
+"Marked by a fondness for strong drink"
+],
+"ety": "From punctilio (“fine point in exactness of conduct”) + -ous."
+},
+{
+"w": "fecund",
+"pos": "adjective",
+"d": "Capable of producing offspring or vegetation",
+"r": "Latin fēcundus “fertile”",
+"s": "This idea of Aristotle's has proved marvellously fecund.",
+"old_f": [
+"Capable of being easily persuaded",
+"Smelling strongly of decay",
+"Fond of feasting and celebration"
+],
+"ety": "From Middle French fécond, from Latin fēcundus (“fertile”), which is related to fētus and fēmina (“woman”)."
+},
+{
+"w": "chutzpah",
+"pos": "noun",
+"d": "Unbelievable gall; insolence; audacity",
+"r": "Yiddish khutspe, from Aramaic ḥuṣpā “audacity, boldness”",
+"s": "Few of us have the chutzpah to do this.",
+"old_f": [
+"Rich chicken broth; noodles; dumplings",
+"Woven prayer shawl; fringes; tassels",
+"Sudden panic; confusion; disorder"
+],
+"ety": "Originated c. 1890–95 from Yiddish חוצפּה (khutspe), which was either borrowed via Medieval Hebrew or directly came from Aramaic חוּצְפָּא (ḥuṣpā, “audacity, boldness”), derived from חֲצַף (ḥăṣap̄, “to be impudent, arrogant”)."
+},
+{
+"w": "muumuu",
+"pos": "noun",
+"d": "A woman’s loose unbelted dress",
+"r": "Hawaiian muʻumuʻu “to be cut off; shortened”",
+"s": "I'll just go with a muumuu.",
+"old_f": [
+"A Hawaiian ukulele with eight strings",
+"A low humming chant at funerals",
+"A sweet dessert of mashed taro"
+],
+"ety": "Borrowed from Hawaiian muʻumuʻu, from muʻumuʻu (“to be cut off; to be shortened”, verb), probably because the garment is a short-sleeved and often calf-length version of the floor-length holoku or Mother Hubbard dress which has long sleeves and originally a train."
+},
+{
+"w": "animus",
+"pos": "noun",
+"d": "A feeling of ill will arousing active hostility",
+"r": "Latin animus “mind, spirit, courage, passion, wrath”",
+"s": "The Republican party's anti-ESG animus has undoubtedly played a role.",
+"old_f": [
+"A belief that all objects possess a living spirit",
+"A sudden burst of energy and high spirits",
+"A pet kept for companionship rather than work"
+],
+"ety": "Learned borrowing from Latin animus (“the mind, in a great variety of meanings: the rational soul in man, intellect, consciousness, will, intention, courage, spirit, sensibility, feeling, passion, pride, vehemence, wrath, etc., the breath, life, soul”), from Proto-Italic *anamos, from Proto-Indo-European *h₂enh₁mos, from *h₂enh₁- (“to breathe”). Closely related to Latin anima, which is a feminine form."
+},
+{
+"w": "mummery",
+"pos": "noun",
+"d": "Meaningless ceremonies and flattery",
+"r": "Middle French momerie; mummer + -y",
+"s": "I say the sewer thought I was dressed to bear a part in the tregetour’s mummery.",
+"old_f": [
+"Preserved remains and wrappings",
+"Muttered words and sighs",
+"Motherly affection and fuss"
+],
+"ety": "From Middle French momerie, mommerie, from Old French mommer, from momon. By surface analysis, mummer + -y."
+},
+{
+"w": "solicitous",
+"pos": "adjective",
+"d": "Full of anxiety and concern",
+"r": "Latin sollicitus “thoroughly disturbed, anxious”",
+"s": "Where pain is most severe and sorrow most bitter, there love is most solicitous and untiring.",
+"old_f": [
+"Full of lawyers and clerks",
+"Fond of being alone",
+"Firmly fixed in place"
+],
+"ety": "From Latin sōlicitus, sollicitus (“thoroughly disturbed, anxious”), from sollus (“whole, entire”) + cieō (“move, disturb”). By surface analysis, solicit + -ous."
+},
+{
+"w": "anathematize",
+"pos": "verb",
+"d": "Curse or declare to be evil or anathema or threaten with divine punishment",
+"r": "Anathema + -ize, from Greek anáthema",
+"s": "These are the fellows that some officers never pretend to damn, however much they may anathematize others.",
+"old_f": [
+"Dissect or study the structure of a body in order to teach medicine or surgery",
+"Numb or put to sleep with a gas or drug before performing an operation",
+"Praise or set apart as holy or blessed or dedicate to divine service"
+],
+"ety": "From anathema + -ize; the -t- is part of the root of the underlying Greek word ἀνάθεμα (anáthema) (albeit not visible in the nominative singular form), which also explains the plural anathemata and other derivations from anathema such as anathematic."
+},
+{
+"w": "inscrutable",
+"pos": "adjective",
+"d": "Of an obscure nature",
+"r": "Late Latin īnscrūtābilis, from in- “not” + scrūtō “to examine”",
+"s": "His inscrutable theories would years later become the foundation of a whole new science.",
+"old_f": [
+"Of a crumbly texture",
+"Free from all blame",
+"Carefully hand-written"
+],
+"ety": "Borrowed into late Middle English from Late Latin īnscrūtābilis, from in- (“not”) + scrūtō (“to examine”), corresponding to in- + scrutable"
+},
+{
+"w": "paradiddle",
+"pos": "noun",
+"d": "The sound of a drum (especially a snare drum) beaten rapidly and continuously",
+"r": "Imitative",
+"s": "As a drummer, you're sitting at a practice pad for hours on end, doing paradiddles.",
+"old_f": [
+"The motion of a boat (especially a canoe) rocked gently and repeatedly by small waves",
+"The chatter of a crowd (especially a children’s crowd) heard faintly from a distance",
+"The flight of a bird (especially a sparrow) darting quickly and erratically between branches"
+],
+"ety": "Imitative. May be related to [Attic] Greek, παραδίδωμι (paradídōmi) 1) to give into the hands (of another) 2) to give over into (one's) power or use 2a) to deliver to one something to keep, use, take care of, manage"
+},
+{
+"w": "abnegation",
+"pos": "noun",
+"d": "The denial and rejection of a doctrine or belief",
+"r": "Latin abnegātiō, from ab “off” + negō “deny; refuse”",
+"s": "With abnegation of God, of his honor, and of religion, they may retain the friendship of the court.",
+"old_f": [
+"The careful restoration of a damaged painting or fresco",
+"The ceremony and feast held to mark a new abbot",
+"The removal and cleaning of a wound’s infected tissue"
+],
+"ety": "First attested before 1398. From Middle English abnegacioun, borrowed from Latin abnegātiō, from abnegō (“refuse, deny”), from ab (“off”) + negō (“deny; refuse, say no”). Compare French abnégation."
+},
+{
+"w": "inordinate",
+"pos": "adjective",
+"d": "Beyond normal limits",
+"r": "Latin inōrdinātus “not arranged, disordered, irregular”",
+"s": "A book of inordinate length.",
+"old_f": [
+"Not yet ordained",
+"Arranged in rows",
+"Lacking any ornament"
+],
+"ety": "From Middle English inordinat, from Latin inōrdinātus (“not arranged, disordered, irregular”), from in- + ordinatus, past participle of ōrdināre (“to arrange, order”)."
+},
+{
+"w": "reconnoitre",
+"pos": "verb",
+"d": "Explore, often with the goal of finding something or somebody",
+"r": "French reconnoître, from Latin recognoscere “to recognise”",
+"s": "Our scout will reconnoitre the path ahead of our troops.",
+"old_f": [
+"Reunite, often with the goal of settling an old quarrel",
+"Recount, often with the goal of correcting an earlier error",
+"Reconnect, often with the goal of restoring a broken supply"
+],
+"ety": "From French reconnoître (obsolete spelling of reconnaître), from Latin recognoscere (“to recognise”). There is also an obsolete 19th-century British English spelling reconnaitre, influenced by the modern French form."
+}
+]

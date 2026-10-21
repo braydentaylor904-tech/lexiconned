@@ -1,0 +1,522 @@
+[
+{
+"w": "pibroch",
+"pos": "noun",
+"d": "Martial music with variations; to be played by bagpipes",
+"r": "Scottish Gaelic pìobaireachd “act of playing the bagpipes”, from pìobaire “piper”",
+"s": "Ever, as on they bore, more loud And louder rung the pibroch proud.",
+"old_f": [
+"Woollen cloth with checks; to be worn as a kilt",
+"Oaten bread with honey; to be eaten at feasts",
+"Silver brooch with stones; to be pinned on a shawl"
+],
+"ety": "From Scottish Gaelic pìobaireachd (“act of playing the bagpipes”), from pìobaire (“piper”) + -achd (“abstract noun suffix”)."
+},
+{
+"w": "shamble",
+"pos": "noun",
+"d": "Walking with a slow dragging motion without lifting your feet",
+"r": "Old English sċeamol “bench, stool”, from Latin scamellum “footstool”",
+"s": "From his shambling I assumed he was very old.",
+"old_f": [
+"Speaking with a slow halting rhythm without finishing your sentences",
+"Working with a quick careless motion without checking your results",
+"Sitting with a stiff upright posture without leaning on the back"
+],
+"ety": "From Middle English schambyll, shamyll, schamel, from Old English sċeamol, scamol (“bench, stool”), from Proto-West Germanic *skamul, *skamil, from Proto-Germanic *skamulaz, *skamilaz, from Latin scamellum, a variant of scabellum (“footstool”). Cognate with West Frisian skammel (“shamble, trestle, stool\", also (in the plural) \"legs, especially when showing defects or deformities”), Dutch schemel (“footstool, bench”), German Schemel (“stool”), Danish skammel (“stool”). Icelandic skemill (“footstool”). The verb is probably derived from the adjective, itself from attributive use of the noun. Comp"
+},
+{
+"w": "oenophile",
+"pos": "noun",
+"d": "Someone who appreciates wine",
+"r": "Oeno- + -phile",
+"s": "The oenophile had a large wine cellar stocked with bottles from around the world.",
+"old_f": [
+"Someone who appreciates opera",
+"Someone who fears water",
+"Someone who loves solitude"
+],
+"ety": "From oeno- + -phile."
+},
+{
+"w": "prestidigitation",
+"pos": "noun",
+"d": "Manual dexterity in the execution of tricks",
+"r": "French prestidigitation, from preste “nimble, quick” + Latin digitus “finger”",
+"s": "My favorite prestidigitation was when he pulled the live dove out of that tiny scarf.",
+"old_f": [
+"Great respect earned through past achievements",
+"Rapid calculation done using the fingers",
+"Careful planning for every possible event"
+],
+"ety": "From French prestidigitation, from French preste (“nimble, quick”) + Latin digitus (“finger”) + French -ation (process suffix). The word has a different origin from prestige, even though this in the past has meant “delusion, illusion, trick”."
+},
+{
+"w": "garret",
+"pos": "noun",
+"d": "Floor consisting of open space at the top of a house just below roof; often used for storage",
+"r": "Old French garite “watchtower”, from garir “to defend, protect”; compare garrison",
+"s": "While a boon to garret-living, financially struggling young musicians, the library has caught the attention of music publishers.",
+"old_f": [
+"Room consisting of a stone chamber at the base of a tower just above the moat; often used as a prison",
+"Shelf consisting of a narrow ledge at the side of a fireplace just below the mantel; often used for warming plates",
+"Shed consisting of a wooden frame at the back of a garden just beside the wall; often used for tools"
+],
+"ety": "From Middle English garett, garite, from Old French garite, guerite (“watchtower”), from garir, guarir (“to defend, protect”) (compare English garrison), ultimately of Germanic origin (see English garage). Doublet of guerite."
+},
+{
+"w": "eidetic",
+"pos": "adjective",
+"d": "Of visual imagery of almost photographic accuracy",
+"r": "German eidetisch, from Greek eidētikós, from eîdos “form”",
+"s": "I have an eidetic memory for numbers.",
+"old_f": [
+"Of musical sound of almost painful loudness",
+"Of written language of almost poetic beauty",
+"Of physical strength of almost superhuman power"
+],
+"ety": "From German eidetisch, from Ancient Greek εἰδητικός (eidētikós), from εἶδος (eîdos, “form”)."
+},
+{
+"w": "deprecatory",
+"pos": "adjective",
+"d": "Tending to diminish or disparage",
+"r": "Deprecate + -ory",
+"s": "Said the Duke, bowing over a deprecatory hand.",
+"old_f": [
+"Tending to pray or plead",
+"Tending to wander from the subject",
+"Tending to strip and plunder"
+],
+"ety": "From deprecate + -ory."
+},
+{
+"w": "froward",
+"pos": "adjective",
+"d": "Habitually disposed to disobedience and opposition",
+"r": "Middle English froward: fro + -ward",
+"s": "‘Faithful heart may have froward tongue.’",
+"old_f": [
+"Eager to move forward and ahead",
+"Slightly bitter in taste",
+"Inclined to scowl and sulk"
+],
+"ety": "From Middle English froward, fraward, equivalent to fro + -ward. Compare Old English fromweard, framweard (“turned away, having the back turned”)."
+},
+{
+"w": "sousaphone",
+"pos": "noun",
+"d": "The lowest brass wind instrument",
+"r": "Named after the American composer John Philip Sousa, + -phone",
+"s": "One version of the large tuba, popular in marching bands, is called a sousaphone in honor of bandsman John Philip Sousa.",
+"old_f": [
+"A thin pancake folded with jam",
+"A metal pot for boiling sauces",
+"A small drum played with brushes"
+],
+"ety": "Named after American composer and conductor John Philip Sousa + -phone."
+},
+{
+"w": "journalese",
+"pos": "noun",
+"d": "The style in which newspapers are written",
+"r": "Journal + -ese",
+"s": "We write journalese out of habit, sometimes from misguided training, and to sound urgent, authoritative and, well, journalistic.",
+"old_f": [
+"The fee charged for a single day’s travel",
+"The record kept of a ship’s daily progress",
+"The language spoken in the courts of Japan"
+],
+"ety": "From journal + -ese."
+},
+{
+"w": "desperado",
+"pos": "noun",
+"d": "A bold outlaw (especially on the American frontier)",
+"r": "Obsolete Spanish desperado, from desperar “to despair”; a doublet of desperate",
+"s": "Surely this was the face of a desperado.",
+"old_f": [
+"A wide hat (especially in the American Southwest)",
+"A dry wind (especially across the American plains)",
+"A fast horse (especially for the American mail riders)"
+],
+"ety": "From obsolete Spanish desperado, past participle of desperar, archaic form of desesperar (“to despair”), from Latin disperare (“to despair, to lose hope”), from prefix dis- + sperare (“to hope”). Doublet of desperate."
+},
+{
+"w": "thenceforth",
+"pos": "adverb",
+"d": "From that time on",
+"r": "Middle English thennesforth: thence + forth",
+"s": "Here his hand trembled as he set his pen to the proclamation that declared slaves thenceforth and forever free.",
+"old_f": [
+"Until that moment",
+"Before that time",
+"Since the beginning"
+],
+"ety": "From Middle English thennesforth, equivalent to thence + forth."
+},
+{
+"w": "inimitable",
+"pos": "adjective",
+"d": "Defying imitation; matchless",
+"r": "Latin inimitabilis: in- + imitable",
+"s": "Let's see you pay for your drink in your own inimitable fashion, huh?",
+"old_f": [
+"Bitterly hostile",
+"Lacking boundaries",
+"Not yet started"
+],
+"ety": "Borrowed from Middle French inimitable, from Latin inimitabilis, corresponding to in- + imitable."
+},
+{
+"w": "organdy",
+"pos": "noun",
+"d": "A sheer stiff muslin",
+"r": "French organdi, possibly from the name of the city Urgench",
+"s": "She was clad in white organdie with a marriage veil.",
+"old_f": [
+"A small church harmonium",
+"A sweet almond syrup",
+"A loose silk scarf"
+],
+"ety": "From French organdi, possibly derived from the French name of the city Urgench."
+},
+{
+"w": "dehisce",
+"pos": "verb",
+"d": "Burst or split open",
+"r": "Latin dehīscō “to gape, open”; related to hiatus",
+"s": "Anthers dehisce when the flower opens.",
+"old_f": [
+"Hiss loudly",
+"Close tightly",
+"Shed hair"
+],
+"ety": "Borrowed from Latin dehīscō (“to gape, open”), from hiō (“to be open”); related to hiatus."
+},
+{
+"w": "depredation",
+"pos": "noun",
+"d": "An act of plundering and pillaging and marauding",
+"r": "Latin depraedatio, via Middle French déprédation",
+"s": "Depredation of cultivated crops by elephants is widespread in both Africa and Asia.",
+"old_f": [
+"An act of lowering the value of a currency",
+"An act of driving out or banishing a people",
+"An act of withholding food or comfort from someone"
+],
+"ety": "From Middle French déprédation, from Latin depraedatio."
+},
+{
+"w": "deviltry",
+"pos": "noun",
+"d": "Wicked and cruel behavior",
+"r": "A variant of devilry, influenced by gallantry",
+"s": "They stand back to make room for every rascal and demagogue who chooses to cloak his selfish deviltry under the veil of race pride.",
+"old_f": [
+"Clever new inventions",
+"Sly turning aside",
+"Strict religious devotion"
+],
+"ety": "Variant of devilry, influenced by gallantry."
+},
+{
+"w": "swagman",
+"pos": "noun",
+"d": "An itinerant Australian laborer who carries his personal belongings in a bundle as he travels around in search of work",
+"r": "Swag “bundle of personal items carried by a traveller” + man",
+"s": "He disguised himself as a swagman and pounced as the man returned from his bridge-painting job.",
+"old_f": [
+"A traveling Australian salesman who sells pots and pans from a covered wagon as he drives from one sheep station to the next",
+"A boastful Australian horseman who shows off his riding skills at country fairs as he competes for prizes and drinks",
+"A wealthy Australian landowner who keeps a large house in the city as well as a cattle station in the outback"
+],
+"ety": "From swag (“items stolen by a thief; unlawfully obtained goods; (Australia, New Zealand) bundle of personal items carried by a tramp, traveller, etc.”) + man."
+},
+{
+"w": "suffuse",
+"pos": "verb",
+"d": "Cause to spread or flush or flood through, over, or across",
+"r": "Latin suffundō",
+"s": "The warmth suffused his cold fingers.",
+"old_f": [
+"Cause to choke or smother or struggle for breath, as in smoke or a crowded room",
+"Cause to vote or choose or elect a representative, as in a council or parliament",
+"Cause to endure or bear or put up with something, as in pain or hardship"
+],
+"ety": "From Latin suffundō."
+},
+{
+"w": "restive",
+"pos": "adjective",
+"d": "Being in a tense state",
+"r": "Old French restif, from rester “to stay, remain”",
+"s": "The horses were now more restive than ever, and Johann was trying to hold them in.",
+"old_f": [
+"Being in a relaxed state",
+"Being in a festive mood",
+"Being able to recover"
+],
+"ety": "Modification of earlier restiff, from Middle English restyf, from Old French restif, from rester (“to stay, remain”), from Latin restō. * Shares an etymology with rest (\"to remain,\" obsolete) *Merriam-Webster states that this word was originally used to describe horses that disobeyed commands. Presumably, then, the word came to mean fidgety or anxious more broadly."
+},
+{
+"w": "aleatory",
+"pos": "adjective",
+"d": "Dependent on chance",
+"r": "Latin āleātōrius, from āleātor “dice-player”, from ālea “a die”",
+"s": "The aleatory element in life.",
+"old_f": [
+"Relating to ale",
+"Ready for action",
+"Sung in praise"
+],
+"ety": "From Latin āleātōrius, from āleātor (“dice-player”), from ālea (“a die”)."
+},
+{
+"w": "trivet",
+"pos": "noun",
+"d": "A three-legged metal stand for supporting a cooking vessel in a hearth",
+"r": "Old English trefet, from Latin tripēs “tripod”",
+"s": "They fetched rocks to make a trivet and there they set the bucket to boil.",
+"old_f": [
+"A three-pronged iron fork for turning meat on a spit over a fire",
+"A short three-line verse for reciting at a wedding feast",
+"A small three-sided coin minted for paying church tithes"
+],
+"ety": "From Middle English trevet, from Old English trefet, borrowed from Latin tripēs, tripedis (“tripod”)."
+},
+{
+"w": "frumpy",
+"pos": "adjective",
+"d": "Primly out of date",
+"r": "Frump + -y, or Middle English frumple + -y",
+"s": "She came to the door in a frumpy housedress and bedroom slippers.",
+"old_f": [
+"Sweet and fruity",
+"Short and plump",
+"Rough and grumpy"
+],
+"ety": "Either from frump or from Middle English frumple + -y."
+},
+{
+"w": "politesse",
+"pos": "noun",
+"d": "Courtesy towards women",
+"r": "French politesse, ultimately from Latin poliō “to polish”",
+"s": "The reference in his letter to ‘having a drink’ is of course just an empty politesse.",
+"old_f": [
+"Shrewdness in public affairs",
+"Strict obedience to rules",
+"Polished skill in speech"
+],
+"ety": "From French politesse, from Italian politezza, from polito, past participle of pulire (“to clean”), from Latin polire, present active infinite form of poliō (“to polish”)."
+},
+{
+"w": "quatrain",
+"pos": "noun",
+"d": "A stanza of four lines",
+"r": "French quatrain",
+"s": "The menu card was designed by Mr. Arthur Hacker, and further enriched by some charming verses in Omarian quatrains from Mr. Le Gallienne, who read them to a sympathetic audience.",
+"old_f": [
+"A coach drawn by four horses",
+"A square of four houses",
+"A coin worth four pence"
+],
+"ety": "Borrowed from French quatrain."
+},
+{
+"w": "heraldry",
+"pos": "noun",
+"d": "The study and classification of armorial bearings and the tracing of genealogies",
+"r": "Herald + -ry; first attested in 1572",
+"s": "Rouge Dragon Pursuivant is a specialist in heraldry at the College of Arms.",
+"old_f": [
+"The study and classification of medicinal herbs and the preparation of remedies",
+"The training and management of hunting dogs and the keeping of kennels",
+"The breeding and care of sheep and cattle and the keeping of herds"
+],
+"ety": "From herald + -ry. First attested in 1572. Displaced earlier heraldy, equivalent to herald + -y."
+},
+{
+"w": "proclivity",
+"pos": "noun",
+"d": "A natural inclination",
+"r": "Latin prōclīvitās, from prōclīvis “prone to”",
+"s": "The child has a proclivity for exaggeration.",
+"old_f": [
+"A formal announcement",
+"A lasting delay",
+"A public scandal"
+],
+"ety": "From Latin prōclīvitās, from prōclīvis (“prone to”)."
+},
+{
+"w": "insensate",
+"pos": "adjective",
+"d": "Devoid of feeling and consciousness and animation",
+"r": "Latin īnsēnsātus: in- + sensate",
+"s": "If I might be Insensate matter With sensate me Sitting within.",
+"old_f": [
+"Full of rage and lacking all self-control",
+"Covered with smoke from burning incense",
+"Not yet entered into the official records"
+],
+"ety": "Learned borrowing from Latin īnsēnsātus. By surface analysis, in- + sensate."
+},
+{
+"w": "shibboleth",
+"pos": "noun",
+"d": "A favorite saying of a sect or political group",
+"r": "Biblical Hebrew šibbṓleṯ “ear of wheat; stream, torrent”",
+"s": "It's about time we abandoned the bourgeois shibboleth that earning money makes you a better person.",
+"old_f": [
+"A small brass bell rung during a religious procession",
+"A ram’s horn blown on solemn holy days",
+"A heavy stone used to grind grain"
+],
+"ety": "Learned borrowing from Biblical Hebrew שִׁבֹּלֶת /שיבולת (šibbṓleṯ, “ear [of wheat] or stream, torrent”). Doublet of sebboleth and Middle English sebolech, both from Late Latin sebboleth in the Vulgate."
+},
+{
+"w": "purblind",
+"pos": "adjective",
+"d": "Having greatly reduced vision",
+"r": "Middle English purblind “completely blind; near-sighted”, possibly from pur “completely” + blind",
+"s": "I was in hopes you would have mended, like my purblind eyes, with old age.",
+"old_f": [
+"Having a pure heart",
+"Dyed a deep purple",
+"Purified by fire"
+],
+"ety": "The adjective is derived from Middle English purblind (“(adjective) completely blind; blind in one eye; near-sighted; (noun) near-sighted animal, specifically a hare”) [and other forms], possibly from pur, pure (“completely, entirely”) (ultimately from Proto-Indo-European *pewH- (“to be clean; pure”); influenced by pur- (prefix meaning ‘completely; forward; in advance’)) + blind (“sightless, blind”) (ultimately from Proto-Indo-European *bʰlendʰ- (“to blend, mix up; to make cloudy or opaque”)). Adjective sense 4.1 (“completely blind”) was the original sense. The senses denoting partial blindnes"
+},
+{
+"w": "canard",
+"pos": "noun",
+"d": "A deliberately misleading fabrication",
+"r": "French canard “duck, hoax”",
+"s": "It’s a cinch, now that Spurling has cleared away a century’s worth of misapprehensions and canards.",
+"old_f": [
+"A small yellow songbird",
+"A narrow artificial waterway",
+"A heavy iron gun"
+],
+"ety": "Borrowed from French canard (“duck, hoax”). etymology note The primary English meaning of canard comes from the Medieval French expression “vendre un canard à moitié”, which literally means “to sell half a duck” or “to half-sell a duck”. This was perhaps the punch line to a joke. Eventually the punch line came to stand for the joke and then finally the word alone stood for the whole concept. The story may perhaps have gone like this: A duck seller is successful and content as the only duck seller on a street, selling his ducks for eight francs each. A new duck seller moves in across the street"
+},
+{
+"w": "verity",
+"pos": "noun",
+"d": "Conformity to reality or actuality",
+"r": "Latin vēritās, from vērus “true”",
+"s": "As we shall see, all of these statements are of limited verity.",
+"old_f": [
+"Variety of color and form",
+"Vertical position or alignment",
+"Greenness of fresh growth"
+],
+"ety": "From Middle English verite, from Anglo-Norman verité or Middle French verité, from Old French verité, from Latin vēritās, from the adjective vērus (“true”). Doublet of veritas."
+},
+{
+"w": "rheumy",
+"pos": "adjective",
+"d": "Moist, damp, wet (especially of air)",
+"r": "Rheum + -y",
+"s": "The two sisters walked from the long wooden shed which formed the station here, into the rheumy air.",
+"old_f": [
+"Dark, red, rich (especially of wine)",
+"Loud, rough, hoarse (especially of voices)",
+"Thin, pale, weak (especially of light)"
+],
+"ety": "From rheum + -y (suffix forming adjectives meaning ‘having the quality of’)."
+},
+{
+"w": "slipshod",
+"pos": "adjective",
+"d": "Marked by great carelessness",
+"r": "Slip + shod “wearing shoes”, originally wearing slippers",
+"s": "Surely there is not another language that is so slipshod and systemless.",
+"old_f": [
+"Fitted with iron horseshoes",
+"Wearing heavy wooden clogs",
+"Made by a cobbler"
+],
+"ety": "From slip + shod (“wearing shoes”), originally wearing slippers. The meaning slovenly is from the early 19th century."
+},
+{
+"w": "hagiography",
+"pos": "noun",
+"d": "A biography that idealizes or idolizes the person (especially a person who is a saint)",
+"r": "Hagio- + -graphy",
+"s": "Churchill revisionism, of course, is almost as much of a cottage industry as Churchill hagiography.",
+"old_f": [
+"A history that records the founding and growth of a town (especially a cathedral town)",
+"A drawing that shows the plants and flowers of a region (especially a mountain region)",
+"A survey that maps the holy wells and springs of a country (especially in Ireland)"
+],
+"ety": "From hagio- + -graphy."
+},
+{
+"w": "betoken",
+"pos": "verb",
+"d": "Be a signal for or a symptom of",
+"r": "Old English betācnian “to betoken, signify”: be- + token",
+"s": "A heavy, rushing flight betokened an easy victory, and the stranger flew away.",
+"old_f": [
+"Be a gift for or a reward to",
+"Be a guard for or a keeper of",
+"Be a buyer of or a dealer in"
+],
+"ety": "From Middle English bitoknen, bitacnen, from Old English betācnian (“to betoken, signify, designate”), from Proto-West Germanic *bitaiknijan. Equivalent to be- + token. Cognate with Dutch betekenen (“to mean, signify”), German bezeichnen (“to call, designate”), Swedish beteckna (“to represent, designate, indicate”) and Danish betegne (“to represent, designate, indicate”)."
+},
+{
+"w": "tricksy",
+"pos": "adjective",
+"d": "Marked by skill in deception",
+"r": "Tricks + -y",
+"s": "Marrying tricksy European post-modernism with hard-boiled American noir.",
+"old_f": [
+"Covered in fine stripes",
+"Thin and wiry",
+"Sharp and prickly"
+],
+"ety": "From tricks + -y."
+},
+{
+"w": "demijohn",
+"pos": "noun",
+"d": "Large bottle with a short narrow neck; often has small handles at neck and is enclosed in wickerwork",
+"r": "A partial calque of French dame-jeanne “Lady Jane”, of uncertain origin",
+"s": "“Reckon it's first-drink time,” the old prospector cried cheerily, and unearthed Monica's two-gallon demijohn.",
+"old_f": [
+"Small coin with a hole in the middle; often strung on a cord and carried by sailors in foreign ports",
+"Short cloak with a hood at the neck; often lined with fur and worn by coachmen in winter months",
+"Wide basket with two handles at the sides; often filled with bread and carried to market on market days"
+],
+"ety": "Partial calque of French dame-jeanne (literally “Lady Jane”), of uncertain origin. Note that the French Jeanne (“Jane, feminine of John”) has changed to the masculine form John, rather than the cognate English Jane."
+},
+{
+"w": "choleric",
+"pos": "adjective",
+"d": "Easily moved to anger",
+"r": "Middle English colerik, dominated by choler, one of the four humors",
+"s": "But Bunting was a prudent man, and not apt to be choleric.",
+"old_f": [
+"Prone to sudden fevers",
+"Fond of choral singing",
+"Rich in fat"
+],
+"ety": "From Middle English colerik (“(adjective) of or relating to, or dominated by, choler; of diseases: caused by excessive or toxic choler; of persons or their temperament: dominated by choler, irascible, quick to anger, choleric; of weather or zodiac signs: favourable to choler; (noun) person dominated by choler, person who is irascible or quick to anger; etc.”), from Anglo-Norman coleric, colerik, colerique, Middle French colerique, and Old French colerique (“(adjective) of or relating to choler; of persons or their temperament: dominated by choler, irascible, quick to anger; angry, enraged; (no"
+},
+{
+"w": "jocose",
+"pos": "adjective",
+"d": "Characterized by jokes and good humor",
+"r": "Latin iocōsus “humorous”, from iocus “jest, joke”",
+"s": "The American people, With grins jocose, Always survive the fatal dose.",
+"old_f": [
+"Characterized by wild and lively dancing",
+"Characterized by close and careful watching",
+"Characterized by sweet and sticky syrup"
+],
+"ety": "From Latin iocōsus (“humorous”), from iocus (“jest, joke”)."
+}
+]

@@ -1,0 +1,522 @@
+[
+{
+"w": "diadem",
+"pos": "noun",
+"d": "An ornamental jeweled headdress signifying sovereignty",
+"r": "Greek diádēma “band”, from diadéō “bind around”",
+"s": "The Apollon wing of the Louvre has a set of historic crowns, diadems and sovereign jewellery.",
+"old_f": [
+"A two-faced idol worshipped at crossroads",
+"A formal speech given at a coronation",
+"A long silk sash worn by bishops"
+],
+"ety": "From Middle English diademe, dyademe, from Old French diademe, from Latin diadēma, from Ancient Greek διάδημα (diádēma, “band, especially worn around a tiara”), from διαδέω (diadéō, “bind around”)."
+},
+{
+"w": "circumlocution",
+"pos": "noun",
+"d": "A style that involves indirect ways of expressing things",
+"r": "Latin circumlocūtiō “the act of speaking around”",
+"s": "A technical word, such as hyperkalemia or hypoallergenic, can be glossed for general audiences with a circumlocution.",
+"old_f": [
+"A route that involves traveling all the way around a country",
+"A ceremony that involves walking in a circle around a shrine",
+"A rule that involves limiting the movement of foreign ships"
+],
+"ety": "From Latin circumlocūtiō (“the act of speaking around; circumlocution, periphrasis”). By surface analysis, circum- (“around”) + locution (“talk”), thus \"getting around (a problem) in speaking or writing\". Probably a calque of Ancient Greek περίφρασις (períphrasis, “periphrasis”)."
+},
+{
+"w": "festschrift",
+"pos": "noun",
+"d": "A collection of writings published in honor of a scholar",
+"r": "German Festschrift, from Fest “celebration” + Schrift “writing”",
+"s": "Cornell University Press announced plans for a festschrift.",
+"old_f": [
+"A decree issued by a prince to proclaim a public holiday",
+"A printed program listing the music performed at a festival",
+"A license granting a merchant the right to sell at fairs"
+],
+"ety": "Borrowed from German Festschrift, from Fest (“celebration; festival”) + Schrift (“writing (work of an author)”)."
+},
+{
+"w": "frolicsome",
+"pos": "adjective",
+"d": "Given to merry frolicking",
+"r": "Frolic + -some",
+"s": "To some, the very word \"playsuit\", with its frolicsome associations, will induce the conviction that this is not an item of clothing to be seen alive in.",
+"old_f": [
+"Given to fits of anger",
+"Covered in white frost",
+"Fond of fried food"
+],
+"ety": "From frolic + -some."
+},
+{
+"w": "noetic",
+"pos": "adjective",
+"d": "Of or associated with or requiring the use of the mind",
+"r": "Greek noētikós, from noéō “I see, understand”",
+"s": "Homeric Greeks valued clichés because not only the poets but the entire oral noetic world or thought world relied upon the formulaic constitution of thought.",
+"old_f": [
+"Of or relating to the composing of verse or poetry",
+"Of or associated with or causing a feeling of disgust",
+"Of or relating to the time around the middle of the day"
+],
+"ety": "Borrowed from Ancient Greek νοητικός (noētikós), ultimately from νοέω (noéō, “I see, understand”)."
+},
+{
+"w": "sleight",
+"pos": "noun",
+"d": "Adroitness in using the hands",
+"r": "Old Norse slœgð “cunning”; a doublet of sly",
+"s": "If men have so many sleights to compass their matters, how can the compasser himself hold his fingers?",
+"old_f": [
+"A sled drawn over snow",
+"A deliberate social snub",
+"A thin sliver of wood"
+],
+"ety": "From Middle English sleighte, sleyght, sleythe, from Old Norse slœgð (“cunning”), from Proto-Germanic *slōgiþō, from *slōgiz (“cunning”) (whence English sly). Doublet of sly and slöjd/sloyd."
+},
+{
+"w": "pleonastic",
+"pos": "adjective",
+"d": "Repetition of same sense in different words",
+"r": "Pleonasm + -astic",
+"s": "‘A true fact’ and ‘a free gift’ are pleonastic expressions.",
+"old_f": [
+"Fondness of fine clothes in bright colors",
+"Relating to the use of many pleats in fabric",
+"Arrangement of seven stars in one cluster"
+],
+"ety": "From pleonasm + -astic."
+},
+{
+"w": "twaddle",
+"pos": "noun",
+"d": "Pretentious or silly talk or writing",
+"r": "An alteration of twattle (1556), of unknown origin",
+"s": "You're talking a load of twaddle. Get your facts straight, man!",
+"old_f": [
+"A clumsy rocking walk like a duck’s",
+"Thin cotton cloth for bandages",
+"A pair of birds nesting together"
+],
+"ety": "An alteration of twattle (1556), of unknown origin."
+},
+{
+"w": "decimate",
+"pos": "verb",
+"d": "Kill one in every ten, as of mutineers in Roman armies",
+"r": "Latin decimō “to kill one tenth; to tithe”, from decimus “tenth”",
+"s": "Shall we decimate them? That sounds good, nice word. Remove one-tenth of the population!",
+"old_f": [
+"Strip of rank and honors, as of generals after a defeat",
+"Burn to the ground, as of towns that refused tribute",
+"Sell into slavery, as of captives taken in a war"
+],
+"ety": "The verb is first attested in 1591, the noun in 1641; borrowed from Latin decimātus, perfect passive participle of decimō (“to kill one tenth; to tithe”) (see, from -ate (verb-forming suffix) and -ate (noun-forming suffix)), from decimus (“tenth”) + -ō (verb-forming suffix). As a noun, via Latin decimatus (“tithing area; tithing rights”)."
+},
+{
+"w": "humdinger",
+"pos": "noun",
+"d": "Someone of remarkable excellence",
+"r": "US; perhaps hummer + dinger, first attested in 1883 in Livingston, Montana",
+"s": "Most of the questions were pretty easy, but that last one was a humdinger.",
+"old_f": [
+"A wooden spinning top",
+"A small tropical bird",
+"A noisy household quarrel"
+],
+"ety": "US origin, perhaps a blend of hummer (“something that moves fast”) + dinger (“something outstanding”). First attested in a newspaper article in the Daily Enterprise of June 4, 1883, at Livingston, Montana."
+},
+{
+"w": "marauder",
+"pos": "noun",
+"d": "Someone who attacks in search of booty",
+"r": "Maraud + -er",
+"s": "The garden is invaded night and day by an army of peregrinating feline marauders that scent the booty from afar.",
+"old_f": [
+"Someone who repairs broken stone walls",
+"Someone who sells fish at the harbor",
+"Someone who keeps the keys of a fortress"
+],
+"ety": "From maraud + -er."
+},
+{
+"w": "purview",
+"pos": "noun",
+"d": "The range of interest or activity that can be anticipated",
+"r": "Anglo-Norman purveu est “it is provided”, from statutory language",
+"s": "Rhetorical relations have truth conditional effects that contribute to meaning but lie outside the purview of compositional semantics.",
+"old_f": [
+"The first public showing of a painting before it is sold",
+"The legal right to buy goods before any other merchant",
+"The careful inspection of a ship before it leaves port"
+],
+"ety": "From Middle English purveu (“proviso”), from Anglo-Norman purveu est (“it is provided”), or purveu que (“provided that”) (statutory language), from Old French porveü (“provided”), past participle of porveoir (“to provide”), from Latin prōvideō (see provide). Influenced by view and its etymological antecedents."
+},
+{
+"w": "buckler",
+"pos": "noun",
+"d": "Armor carried on the arm to intercept blows",
+"r": "Old French bocler, from Vulgar Latin *bucculārius “bossed”",
+"s": "I am eight times thrust through the doublet, four through the hose, my buckler cut through and through.",
+"old_f": [
+"Clasp fastened at the waist to secure a belt",
+"Leather pail carried by a horse to hold water",
+"Wooden horn blown by a hunter to call hounds"
+],
+"ety": "From Middle English bukler, bokler, bokeler, bokeleer, from Old French bocler, boucler, bucler, (French bouclier) from Vulgar Latin *bucculārius (“bossed”), from Latin buccula (“boss”). Merged with buckle + -er."
+},
+{
+"w": "soffit",
+"pos": "noun",
+"d": "The underside of a part of a building (such as an arch or overhang or beam etc.)",
+"r": "Italian soffitto, from Latin suffīgō “to fasten or fix onto”",
+"s": "The elevation of the pipe soffit is 10.4 meters above mean sea level.",
+"old_f": [
+"The top edge of a part of a wall (such as a parapet or battlement or gable etc.)",
+"The soft lining of a part of a garment (such as a collar or cuff or sleeve etc.)",
+"The decorated face of a part of a ceiling (such as a panel or boss or rose etc.)"
+],
+"ety": "From French soffite, from Italian soffitto, from Vulgar Latin *suffīctus, perfect passive participle of Latin suffīgō (“to fasten or fix onto”)."
+},
+{
+"w": "disconsolate",
+"pos": "adjective",
+"d": "Sad beyond comforting; incapable of being consoled",
+"r": "Medieval Latin discōnsōlātus “comfortless”",
+"s": "For weeks after the death of her cat she was disconsolate.",
+"old_f": [
+"Lonely beyond reach; cut off from all company",
+"Angry beyond reason; impossible to calm down",
+"Restless beyond sleep; unable to lie still"
+],
+"ety": "From Medieval Latin discōnsōlātus (“comfortless”), from dis- (“away”) + cōnsōlātus (“consoled”)."
+},
+{
+"w": "stevedore",
+"pos": "noun",
+"d": "A laborer who loads and unloads vessels in a port",
+"r": "Spanish estibador, from estibar “to load”, from Latin stīpō “to cram, fill”",
+"s": "The work of discharging and loading cargoes other than coal is undertaken by master stevedores.",
+"old_f": [
+"A sailor who steers a small boat through a harbor",
+"A clerk who keeps the log of ships entering port",
+"A cook who stews meat for the crew of a ship"
+],
+"ety": "From Spanish estibador (cognate with Portuguese estivador, and compare Medieval Latin stivator), from estivar, estibar (“to load”), from Medieval Latin stivare, stīpāre (compare Italian stivare, stipare), the present active infinitive of stīpō (“to cram, fill, stuff”), derived from Proto-Indo-European *steypos, which is from the root Proto-Indo-European *steyp-. It is cognate with stiff through Proto-Indo-European. According to the Oxford English Dictionary, the word was attested in 1788 in the early form stowadore (see the quotations). It was included in the 1st edition of Webster’s Dictionar"
+},
+{
+"w": "erratum",
+"pos": "noun",
+"d": "A mistake in printed matter resulting from mechanical failures of some kind",
+"r": "Latin errātum, neuter of errātus “mistaken”",
+"s": "When the journal's editors found out about the misreported details, they issued an erratum.",
+"old_f": [
+"A journey taken in search of adventure resulting from a vow of some kind",
+"A wandering course followed by a ship resulting from damage of some kind",
+"A small sum paid to a messenger resulting from a delivery of some kind"
+],
+"ety": "Borrowed from Latin errātum, neuter of errātus (“mistaken”)."
+},
+{
+"w": "antithetical",
+"pos": "adjective",
+"d": "Sharply contrasted in character or purpose",
+"r": "Latin antitheticus + -al",
+"s": "His wrong-headed beliefs are antithetical to everything we stand for as a community.",
+"old_f": [
+"Showing a lack of interest or feeling",
+"Used to prevent infection in wounds",
+"Very old and highly valued"
+],
+"ety": "From Latin antitheticus + -al."
+},
+{
+"w": "alcalde",
+"pos": "noun",
+"d": "A mayor or chief magistrate of a Spanish town",
+"r": "Spanish alcalde, from Arabic al-qāḍī “the judge”; a doublet of qadi",
+"s": "The alcalde announced it. He's got a good head for business, our alcalde has.",
+"old_f": [
+"A tall clay jug for storing olive oil in a Spanish cellar",
+"A small fortified tower on the coast of a Spanish island",
+"A strong spirit distilled from grapes in a Spanish village"
+],
+"ety": "Borrowed from Spanish alcalde, from Arabic اَلْقَاضِي (al-qāḍī, “the judge”). Doublet of qadi and casis."
+},
+{
+"w": "workaday",
+"pos": "adjective",
+"d": "Found in the ordinary course of events",
+"r": "Middle English werkedei, from Old Norse virkr dagr “working day”",
+"s": "The Burning Man aesthetic was creeping into the workaday world; festival culture went mainstream.",
+"old_f": [
+"Paid by the hour for manual labor",
+"Worn out from long and heavy use",
+"Set aside for rest on holy days"
+],
+"ety": "Middle English werkedei, from Old Norse virkr dagr (“working day”). Cognate to later workday; see work and day. Used in adjective sense from 16th century. By surface analysis, work + -a- + day. First attested in c. 1200."
+},
+{
+"w": "allocution",
+"pos": "noun",
+"d": "A formal or authoritative address that advises or exhorts",
+"r": "Latin allocūtiō “address”",
+"s": "The Minister of War, in a barrack-square allocution to the officers of the artillery regiment he had been inspecting, had declared the national honour sold to foreigners.",
+"old_f": [
+"A formal or official share of money given to each department",
+"A sudden or noisy interruption of a speaker by the audience",
+"A careful or lengthy process of smoothing rough metal"
+],
+"ety": "From Latin allocūtiō (“address”)."
+},
+{
+"w": "dastard",
+"pos": "noun",
+"d": "A despicable coward",
+"r": "Middle English dastard “a dullard”, probably from Old Norse dæstr “exhausted, breathless” + -ard",
+"s": "You are all recreants and dastards, and delight to live in slavery to the nobility.",
+"old_f": [
+"A rapid sprinter",
+"A spotted dog",
+"A dappled horse"
+],
+"ety": "From Middle English dastard (“a dullard”), most likely formed from *dast, a base derived from Old Norse dæstr (“exhausted, breathless”) + -ard. Compare Icelandic dasaður (“exhausted”), dialectal Swedish däst (“weary”), Middle Dutch dasaert, daasaardt (“a fool”), English dazed (“stupefied”)."
+},
+{
+"w": "fartlek",
+"pos": "noun",
+"d": "A method of athletic training (especially for runners) in which strenuous effort and normal effort alternate in a continuous exercise",
+"r": "Swedish fartlek, from fart “speed” + lek “child’s play”",
+"s": "Interval workouts are typically more intense and structured than strides and fartleks.",
+"old_f": [
+"A style of folk dancing (especially in Sweden) in which couples spin and stamp in time with a fiddle played at a quick and steady pace",
+"A method of preserving fish (especially herring) in which the catch is salted and fermented in barrels buried in the cold ground",
+"A game of skill (especially for children) in which sticks are thrown at a target and points are scored for each hit"
+],
+"ety": "Borrowed from Swedish fartlek, from fart (“speed”) + lek (“child’s play”)."
+},
+{
+"w": "cenotaph",
+"pos": "noun",
+"d": "A monument built to honor people whose remains are interred elsewhere or whose remains cannot be recovered",
+"r": "Greek kenós “empty” + táphos “tomb”",
+"s": "A cenotaph was erected for him in Gaul, while his body was taken to Rome and inclosed in a magnificent tomb.",
+"old_f": [
+"A short inscription carved on a stone above a doorway to record the date when a building was completed",
+"A hundred-line poem written in honor of a ruler on the anniversary of his coronation or his birth",
+"A shared table in a monastery where monks eat their meals in silence while scripture is read aloud"
+],
+"ety": "From French cénotaphe, from Ancient Greek κενός (kenós, “empty”) + τάφος (táphos, “tomb”). By surface analysis ceno- + -taph."
+},
+{
+"w": "equanimity",
+"pos": "noun",
+"d": "Steadiness of mind under stress",
+"r": "Latin aequanimitās, from aequus “even; calm” + animus “mind, soul”",
+"s": "Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment.",
+"old_f": [
+"Fairness in sharing out land",
+"Skill in riding horses",
+"Equality of day and night"
+],
+"ety": "From French équanimité, from Latin aequanimitās (“calmness, equanimity”), from aequus (“even; calm; fair”) + animus (“mind, soul”) + -itās. By surface analysis, equ- + anim(us) + -ity."
+},
+{
+"w": "malfeasance",
+"pos": "noun",
+"d": "Wrongful conduct by a public official",
+"r": "Old French malfaisance, from Latin malefaciō “to do evil”",
+"s": "Mr. Nadella, now confident that Mr. Altman was not guilty of malfeasance, threw Microsoft’s weight behind him.",
+"old_f": [
+"Faulty shape at birth",
+"Mild illness of the stomach",
+"Spiteful pleasure at another’s pain"
+],
+"ety": "From Old French malfaisance, derived from malfaire, maufaire (“to do evil”), from Latin malefaciō (“to do evil”), from male (“evilly”) + faciō (“to do, make”)."
+},
+{
+"w": "erudite",
+"pos": "adjective",
+"d": "Having or showing profound knowledge",
+"r": "Latin ērudiō “educate, train”, from e- “out of” + rudis “rude, unskilled”",
+"s": "She was praised for her erudite contributions to the academic journal.",
+"old_f": [
+"Having or showing bad manners",
+"Prone to sudden outbursts",
+"Worn away by water"
+],
+"ety": "From Latin ērudītus, participle of ērudiō (“educate, train”), from e- (“out of”) + rudis (“rude, unskilled”). Doublet of erudit."
+},
+{
+"w": "reredos",
+"pos": "noun",
+"d": "A painted or carved screen placed above and behind an altar or communion table",
+"r": "Anglo-Norman reredos: rere “rear” + French dos “back”",
+"s": "There seem to be no remains of wooden reredoses of the fourteenth century, though there are a number of examples in stone.",
+"old_f": [
+"A narrow passage or corridor running behind the choir stalls of a large church",
+"A raised wooden platform or dais placed at the back of a hall for musicians",
+"A heavy curtain or drape hung across the west door of a church in winter"
+],
+"ety": "From Middle English reredos, from Anglo-Norman reredos, areredos; equivalent to rere (“rear”) + French dos (“back”)."
+},
+{
+"w": "plenteous",
+"pos": "adjective",
+"d": "Affording an abundant supply",
+"r": "Old French plentiveus “fertile, rich”, from plenté “abundance”",
+"s": "His farm, though small, nevertheless allowed him a plenteous supply of healthy food.",
+"old_f": [
+"Bending or folding easily",
+"Pleated in narrow folds",
+"Pleading in earnest"
+],
+"ety": "From Middle English plentewos, plentevous, et al., circa 1300, from Old French plentiveus (“fertile, rich”) (early 13th century), from plentif (“abundant”), from plenté (“abundance”) (Modern French pleinté, English plenty), from Latin plenitatem, accusative of plenitas (“fullness”), from plenus (“complete, full”), from Proto-Indo-European *pl̥h₁nós (“full”)."
+},
+{
+"w": "masticate",
+"pos": "verb",
+"d": "Grind and knead",
+"r": "Latin masticō “to chew”",
+"s": "The cow stood, quietly masticating its cud.",
+"old_f": [
+"Control or subdue",
+"Disguise or hide",
+"Fasten with glue"
+],
+"ety": "From Latin masticātus, perfect passive participle of masticō (“to chew”), see -ate (verb-forming suffix). Alternatively, back-formation from mastication, either ultimately from Ancient Greek μαστιχάω (mastikháō, “to grind the teeth”). Compare French mastiquer."
+},
+{
+"w": "cacophony",
+"pos": "noun",
+"d": "A loud harsh or strident noise",
+"r": "Greek kakophōnía, from kakós “bad” + phōnḗ “sound”",
+"s": "A blistering start from the Scots served to steady the ship amid a cacophony that defied the quarter-full national stadium.",
+"old_f": [
+"A dark brown drink made from roasted beans",
+"A great pile of hidden supplies",
+"A drawing that mocks a public figure"
+],
+"ety": "From French cacophonie, from Ancient Greek κακοφωνία (kakophōnía), from κακός (kakós, “bad”) + φωνή (phōnḗ, “sound”), equivalent to caco- + -phony."
+},
+{
+"w": "expostulate",
+"pos": "verb",
+"d": "Reason with (somebody) for the purpose of dissuasion",
+"r": "Latin expostulō “demand, claim”: ex- + postulate",
+"s": "Men expostulate with erring friends; they bring accusations against enemies who have done them a wrong.",
+"old_f": [
+"Write to (somebody) for the purpose of introduction",
+"Assume (something) for the purpose of argument",
+"Stand guard over (somebody) for the purpose of protection"
+],
+"ety": "From Latin expostulō (“demand, claim”) + -ate (verb-forming suffix). By surface analysis, ex- + postulate."
+},
+{
+"w": "jetsam",
+"pos": "noun",
+"d": "The part of a ship’s equipment or cargo that is thrown overboard to lighten the load in a storm",
+"r": "Middle English jetteson, from Anglo-Norman getteson; a doublet of jettison",
+"s": "There she was, floating amongst the jetsam, like so much debris.",
+"old_f": [
+"The black stone used for carving jewelry and buttons, found along the coast after storms",
+"The narrow channel of fast water that runs out from the shore and carries swimmers away in a storm",
+"The thin layer of salt left behind on the deck after waves wash over the ship in a storm"
+],
+"ety": "From Middle English jetteson, from Anglo-Norman getteson. Doublet of jettison."
+},
+{
+"w": "harridan",
+"pos": "noun",
+"d": "A scolding (even vicious) old woman",
+"r": "Perhaps French haridelle “old horse, nag”",
+"s": "Well there was one old lady, and a drunken old harridan she was surely, that paid all her attention to me.",
+"old_f": [
+"A hunting (even savage) small dog",
+"A heavy (even crushing) farm tool",
+"A narrow (even dangerous) mountain path"
+],
+"ety": "Perhaps a modification of French haridelle (“old horse, nag”)."
+},
+{
+"w": "jettison",
+"pos": "verb",
+"d": "Throw away, of something encumbering",
+"r": "Anglo-Norman getteson, from Old French geter “to throw”; a doublet of jetsam",
+"s": "The fuel tanks were jettisoned.",
+"old_f": [
+"Spray out, of water under pressure",
+"Shine darkly, of polished stone",
+"Fly abroad, of wealthy travelers"
+],
+"ety": "From Anglo-Norman getteson, from Old French getaison, from geter, jeter (modern French: would be *jetaison like pendaison); possibly from a Vulgar Latin *iectātiō, from *iectātus < iectāre, from Latin iactō. Doublet of jetsam."
+},
+{
+"w": "purveyor",
+"pos": "noun",
+"d": "Someone who supplies provisions (especially food)",
+"r": "Middle English purveiour “one who procures or supplies necessities”",
+"s": "The merchants are the purveyors of fine selections.",
+"old_f": [
+"Someone who inspects land (especially for sale)",
+"Someone who pursues criminals (especially thieves)",
+"Someone who purifies water (especially in towns)"
+],
+"ety": "From Middle English purveiour (“one who procures or supplies necessities, provider; city, military, religious, or household employee in charge of provisions, steward; one in charge, overseer; one who goes ahead to prepare the way, forerunner; one who arranges accommodations for a traveller; (figurative) one who gathers greedily”), from Anglo-Norman purveour, Middle French pourveur, pourvoyeur, and (chiefly Northern) Old French purveour (“one who procures or supplies necessities or things in general; one who arranges or prepares something”) (modern French pourvoyeur), from porveoir, purveer, pu"
+},
+{
+"w": "pachinko",
+"pos": "noun",
+"d": "A Japanese pinball game played on a vertical board",
+"r": "Japanese pachinko, from pachin, the sound of the machines, + ko",
+"s": "Like a steel marble falling through pins in a pachinko machine.",
+"old_f": [
+"A Japanese folding fan painted with scenes from nature",
+"A Japanese rice wine served warm in small cups",
+"A Japanese wooden sandal worn with a raised platform"
+],
+"ety": "Borrowed from Japanese パチンコ (pachinko), from ぱちん (pachin, onomatopoeic sound of the machines) + こ (ko, diminutive). Compare etymology of gacha, from Japanese ガシャポン."
+},
+{
+"w": "palisade",
+"pos": "noun",
+"d": "Fortification consisting of a strong fence made of stakes driven into the ground",
+"r": "Middle French palissade, from Old Occitan palissada, from palissa “stake”",
+"s": "Before the clearing had been half crossed the Arabs opened up a withering fire from behind the palisade.",
+"old_f": [
+"Fortification consisting of a deep ditch filled with water around the walls",
+"Ornament consisting of a row of pale stone columns along the front of a palace",
+"Fabric consisting of a pale silk with stripes woven into it for curtains"
+],
+"ety": "Borrowed from Middle French palissade, from Old French, from Old Occitan palissada, from palissa (“stake”), probably from pal (“stake”), or possibly from Gallo-Romance *pālīcea, from Latin pālus (“stake”) + -ade."
+},
+{
+"w": "insatiate",
+"pos": "adjective",
+"d": "Impossible to satisfy",
+"r": "Latin insatiātus, from in- “not” + satiātus “satisfied”",
+"s": "I shuddered to think who might be the next victim sacrificed to his insatiate revenge.",
+"old_f": [
+"Dressed in satin",
+"Lacking all sanity",
+"Not yet fully seated"
+],
+"ety": "From Late Middle English insaciate, insaciat, insacyate (“insatiable”), from Latin insatiātus, from in- (prefix meaning ‘not’) + satiātus (“satisfied; having been satisfied”) (perfect passive participle of satiō (“to satisfy”), from satis (“enough; filled; plenty”) (ultimately from Proto-Indo-European *seh₂- (“to satiate, satisfy”)) + -ō (suffix forming regular first-conjugation verbs))."
+},
+{
+"w": "peristyle",
+"pos": "noun",
+"d": "A colonnade surrounding a building or enclosing a court",
+"r": "Greek perístulon, from peri- “around” + stûlos “pillar”",
+"s": "The peristyle is a roofed structure, open at the sides, in which most of the ceremonials and dances take place.",
+"old_f": [
+"A fashion that lasts only a single season or year",
+"A chapel attached to the side of a parish church",
+"A wave of muscle contraction moving food through the gut"
+],
+"ety": "From French péristyle, from Classical Latin peristȳlum, from Ancient Greek περίστυλον (perístulon), from περι- (peri-, “around”) + στῦλος (stûlos, “pillar”), equivalent to peri- + -style."
+}
+]

@@ -1,0 +1,522 @@
+[
+{
+"w": "cantankerous",
+"pos": "adjective",
+"d": "Stubbornly obstructive and unwilling to cooperate",
+"r": "Perhaps from earlier contenkerous, from contentious + rancorous",
+"s": "The normally cantankerous media did not complain.",
+"old_f": [
+"Slowly singing in a low and steady voice",
+"Riding at a smooth and easy gait",
+"Fond of buying fine wine and spirits"
+],
+"ety": "Perhaps derived from earlier contenkerous, from contentious + rancorous."
+},
+{
+"w": "pectinate",
+"pos": "adjective",
+"d": "Like a comb",
+"r": "Latin pectinātus “combed”, from pecten “comb”",
+"s": "The moth's antennae were pectinate in shape, set with long teeth along one edge only.",
+"old_f": [
+"Like a chest",
+"Like a leaf",
+"Like a spear"
+],
+"ety": "Borrowed from Latin pectinātus (“combed”), from pectinō (“to comb”), from pecten (“comb”). First attested in the mid-18th century. By surface analysis, Latin pectin- (“comb, scallop”) + -ate."
+},
+{
+"w": "probity",
+"pos": "noun",
+"d": "Complete and confirmed integrity; having strong moral principles",
+"r": "Latin probitās “uprightness, honesty”, from probus “good, honest”",
+"s": "In a world where financial probity may not be widespread.",
+"old_f": [
+"Careful and thorough investigation; asking searching questions",
+"Strong and likely possibility; having a good chance of happening",
+"Formal and legal proof of a will; having it accepted by a court"
+],
+"ety": "From Middle French probité, from Latin probitās (“uprightness, honesty”), from probus (“good, excellent, honest”); see probe, prove."
+},
+{
+"w": "aplomb",
+"pos": "noun",
+"d": "Great coolness and composure under strain",
+"r": "French aplomb “plumb line”",
+"s": "His nonchalance and aplomb during hard times have always been his best character trait.",
+"old_f": [
+"Great anger and loud complaint",
+"A small round purple fruit",
+"A heavy fall into water"
+],
+"ety": "Unadapted borrowing from French aplomb (“plumb line”)."
+},
+{
+"w": "circumspect",
+"pos": "adjective",
+"d": "Heedful of potential consequences",
+"r": "Latin circumspectō “look around”",
+"s": "Being aware of the danger of upsetting her audience, she was somewhat circumspect in her comments.",
+"old_f": [
+"Encircled by a wall",
+"Bound by strict limits",
+"Traveling round the world"
+],
+"ety": "From Latin circumspectō (“look around”). Compare periscope."
+},
+{
+"w": "satori",
+"pos": "noun",
+"d": "A state of sudden spiritual enlightenment",
+"r": "Japanese satori “understanding; enlightenment”, from satoru “to perceive, understand”",
+"s": "\"Lose pounds through painless satori.\"",
+"old_f": [
+"A light silk robe worn at festivals",
+"A dish of raw fish and rice",
+"A long curved Japanese sword"
+],
+"ety": "Borrowed from Japanese 悟り (satori, “understanding; (Buddhism) enlightenment, satori”), from 悟る (satoru, “to perceive; to comprehend, understand; to come to enlightenment”), from Middle Chinese 悟 (nguH, “to become aware, apprehend, realize; to awaken”) (modern Mandarin 悟 (wù)), used to translate Pali bodhi (“supreme knowledge”) or its etymon Sanskrit बोधि (bodhi, “perfect knowledge or wisdom by which a person becomes a buddha or jina; enlightened or illuminated intellect of a Buddha or jina”). Etymology 1 sense 3 (“mutant gene of Drosophila that causes homosexual behaviour in males”) was coined"
+},
+{
+"w": "inculcate",
+"pos": "verb",
+"d": "Teach and impress by frequent repetitions or admonitions",
+"r": "Latin inculcō “impress upon, force upon”, from in- + calcō “tread upon”, from calx “heel”",
+"s": "The right defense against false sentiments is to inculcate just sentiments.",
+"old_f": [
+"Accuse and blame by repeated charges or complaints",
+"Heat and hatch by steady warmth or shelter",
+"Count and reckon by careful sums or tallies"
+],
+"ety": "Borrowed from Latin inculcātus, perfect passive participle of inculcō (“impress upon, force upon”) (see -ate (verb-forming suffix) and -ate (adjective-forming suffix)), from in- (“in”) + calcō (“tread upon, trample”), from calx (“heel”). Participial usage of the adjective up until Early Modern English."
+},
+{
+"w": "clodhopper",
+"pos": "noun",
+"d": "A thick and heavy shoe",
+"r": "Clod + hopper; originally a derogatory name for a farm laborer",
+"s": "Who had got on his \"hill shoes,\" as he calls a pair of clodhoppers as thick as a ploughman's, and stuck round with nails.",
+"old_f": [
+"A small jumping insect",
+"A clumsy dance step",
+"A wooden farm cart"
+],
+"ety": "Compound of clod + hopper (agentive form of the verb hop). Perhaps affected by analogy with grasshopper. The term originated in the 17th century as a derogatory name for a farm laborer—someone who \"hopped\" (stomped) over \"clods\" of earth; attested in the sense of \"peasant\" since the seventeenth century; the extended sense of \"boot\" or \"shoe\" dates from the nineteenth century. While originating in Britain, the term survives most strongly in Southern/Appalachian speech."
+},
+{
+"w": "scrivener",
+"pos": "noun",
+"d": "Someone employed to make written copies of documents and manuscripts",
+"r": "Anglo-Norman scrivein “professional penman, copyist”, from Latin scrībō “to write”",
+"s": "Below this, sat two scrivener monks at two little desks, on which were scrolls of parchment and ink-horns and goose-quill pens.",
+"old_f": [
+"Someone employed to keep the accounts of a merchant’s shop",
+"Someone employed to carve inscriptions on tombstones and memorials",
+"Someone employed to screw and fasten the parts of a clock"
+],
+"ety": "From Middle English scryvener, alteration of scryveyn, from Anglo-Norman scrivein (“professional penman, copyist”), from Old French escrivain, from Vulgar Latin *scriba, *scribanem, from Latin scriba, from scrībō (“to write”)."
+},
+{
+"w": "contumacious",
+"pos": "adjective",
+"d": "Wilfully obstinate; stubbornly disobedient",
+"r": "Latin contumāx “stubborn, obstinate” + -ious",
+"s": "Contumacious individuals, working on that angriest of passions; plotting, enlisting.",
+"old_f": [
+"Bitterly insulting; scornful",
+"Quick to contaminate; infectious",
+"Bulging outward; swollen"
+],
+"ety": "From Latin contumāx (“stubborn, obstinate”) + -ious. By surface analysis, contum(ax) + -acious."
+},
+{
+"w": "flexuous",
+"pos": "adjective",
+"d": "Having turns or windings",
+"r": "Latin flexuosus, from flexus “bend”, from flectere “to bend”",
+"s": "The flexuous bed of the stream.",
+"old_f": [
+"Easily bent without breaking",
+"Covered in fine hairs",
+"Flowing with milk"
+],
+"ety": "From Latin flexuosus, from flexus (“bend”), from flectere (“bend”)."
+},
+{
+"w": "hapless",
+"pos": "adjective",
+"d": "Deserving or inciting pity",
+"r": "Hap “luck” + -less; from about 1400",
+"s": "My dear friend, are you to become that hapless kind of outcast, a champion of lost causes?",
+"old_f": [
+"Lacking any clear plan",
+"Free of any worry",
+"Missing a handle"
+],
+"ety": "From about 1400, from hap (“luck”) + -less."
+},
+{
+"w": "tracery",
+"pos": "noun",
+"d": "Decoration consisting of an open pattern of interlacing ribs",
+"r": "Trace + -ery",
+"s": "Because of the flamelike undulations of its window tracery, the Norman archæologist, M. de Caumont, who had brought into use the name Romanesque, invented the equally useful term Flamboyant.",
+"old_f": [
+"Decoration consisting of a painted scene from the life of a saint",
+"Decoration consisting of gold leaf applied to the edges of book pages",
+"Decoration consisting of tiny glass beads sewn onto silk"
+],
+"ety": "From trace + -ery."
+},
+{
+"w": "rostrum",
+"pos": "noun",
+"d": "A platform raised above the surrounding level to give prominence to the person on it",
+"r": "Latin rōstrum “beak, snout”; the platform sense comes from the Rostra, speakers’ platforms in the Roman Forum",
+"s": "He saw a crowd listening to a man who was talking from the rostrum of a kitchen-chair.",
+"old_f": [
+"A narrow passage cut through a hillside to allow a road or railway to pass through it",
+"A large grill raised above a fire to roast meat for a crowd of guests at a feast",
+"A list of names drawn up to show the order in which people will serve on duty"
+],
+"ety": "Learned borrowing from Latin rōstrum (“beak, snout”), from rōd(ō) (“gnaw”) + -trum, from Proto-Indo-European *Hreh₃d- + *-trom. The pulpit sense is a back-formation from the name of the Roman Rōstra, the platforms in the Forum where politicians made speeches. The Rōstra were decorated with (and named for) the beaks (prows) of ships from naval victories."
+},
+{
+"w": "ululation",
+"pos": "noun",
+"d": "A long loud emotional utterance",
+"r": "Latin ululātiō, from ululō “to howl, shriek, yell”",
+"s": "As ululations and celebratory gunfire filled the air, the mood was one of fragile joy.",
+"old_f": [
+"A slow gentle rocking motion",
+"A wave-like rising of the ground",
+"A sharp painful sore"
+],
+"ety": "] Borrowed from Latin ululātiō, from ululō (“to howl, shriek, yell”) (from a reduplicated Proto-Indo-European imitative root) + -ātiō (suffix forming nouns relating to some action or the result of an action) (from Proto-Indo-European *-tis (suffix forming abstract or action nouns from verb roots)). By surface analysis, ululate + -ion."
+},
+{
+"w": "frieze",
+"pos": "noun",
+"d": "An architectural ornament consisting of a horizontal sculptured band between the architrave and the cornice",
+"r": "French frise, probably from Medieval Latin Frisia “Frisian (wool)”, or from French friser “to curl”",
+"s": "The classroom had an alphabet frieze that showed an animal for each letter.",
+"old_f": [
+"A sudden fall in temperature that brings a hard frost overnight between late autumn and the first snows",
+"A loose collar of lace or ribbon worn around the neck between the bodice and the chin",
+"A narrow ledge of stone running along the outside of a castle between the moat and the walls"
+],
+"ety": "Late Middle English, from French and Middle French frise, probably from Medieval Latin Frisia (“Frisian (wool)”) due to import via Northern ships. Or, from French friser (“to curl”).."
+},
+{
+"w": "engorge",
+"pos": "verb",
+"d": "Overeat or eat immodestly; make a pig of oneself",
+"r": "French engorger, from Old French engorgier",
+"s": "Greedily she engorged without restraint.",
+"old_f": [
+"Carve or cut deeply; make a groove in metal or wood",
+"Dress or decorate richly; make a show of wealth",
+"Swear or bind by oath; make a pledge of loyalty"
+],
+"ety": "From French engorger, from Old French engorgier. Archaic spellings from Webster’s dictionary 1913 include ingorge and ingorg, both now considered misspellings."
+},
+{
+"w": "accost",
+"pos": "verb",
+"d": "Speak to someone",
+"r": "Old French acoster “to stand beside”, from a- + coste “side, flank”",
+"s": "A beggar accosted me as soon as I stepped outside.",
+"old_f": [
+"Charge a fee",
+"Settle a debt",
+"Sail along a shore"
+],
+"ety": "From Middle French accoster, acoster, from Old French acoster (“to stand beside”) (whence Medieval Latin accostare), from Old French a- + coste (“side, flank”)."
+},
+{
+"w": "mantlet",
+"pos": "noun",
+"d": "Portable bulletproof shelter",
+"r": "Old French mantelet, diminutive of mantel “mantle”",
+"s": "Already their archers were stealing forward, pushing their rolling mantlets.",
+"old_f": [
+"Short lace veil",
+"Narrow wooden shelf",
+"Tall iron candlestick"
+],
+"ety": "From Middle English mauntelet, from Old French mantelet, diminutive of mantel (“mantle”). Doublet of mantelletta."
+},
+{
+"w": "propitiate",
+"pos": "verb",
+"d": "Make peace with",
+"r": "Latin propitiāre “make favourable”, from propitius “favourable, gracious”",
+"s": "But polite and politic it is, to propitiate your hostess.",
+"old_f": [
+"Push forward",
+"Own outright",
+"Bring forth children"
+],
+"ety": "From Latin propitiāt-, the past participial stem of propitiāre (“make favourable”), from propitius (“favourable, gracious”)."
+},
+{
+"w": "nocturne",
+"pos": "noun",
+"d": "A pensive lyrical piece of music (especially for the piano)",
+"r": "French nocturne “nocturnal”, from Latin nocturnus",
+"s": "The vocal nocturne, in other words, turns out to be no easier a genre to define than the piano nocturne.",
+"old_f": [
+"A short comic interlude (especially between the acts of a play)",
+"A loud military march (especially for brass band)",
+"A slow solemn dance (especially at a royal court)"
+],
+"ety": "Borrowed from French nocturne (literally “nocturnal”), from Latin nocturnus. Doublet of notturno."
+},
+{
+"w": "alacrity",
+"pos": "noun",
+"d": "Liveliness and eagerness",
+"r": "Latin alacritās, from alacer “brisk”",
+"s": "I have not that alacrity of spirit, Nor cheer of mind that I was wont to have.",
+"old_f": [
+"Grief and mourning",
+"Alarm and panic",
+"Height and loftiness"
+],
+"ety": "Mid-15th century; from Middle English alacrite, from Latin alacritās, from alacer (“brisk”) + -itās (“-ity”)."
+},
+{
+"w": "ingenuous",
+"pos": "adjective",
+"d": "Characterized by an inability to mask your feelings; not devious",
+"r": "Latin ingenuus “of noble character, frank”",
+"s": "My ingenuous attempts to lie my way out of trouble had only served to get me in deeper and deeper.",
+"old_f": [
+"Characterized by great cleverness and skill in inventing things; resourceful",
+"Characterized by a natural talent from birth; inborn",
+"Characterized by close attention to detail and order; tidy"
+],
+"ety": "Learned borrowing from Latin ingenuus (“of noble character, frank”). Doublet of ingenu."
+},
+{
+"w": "cerebration",
+"pos": "noun",
+"d": "The process of using your mind to consider something carefully",
+"r": "Latin cerebrum “brain” + -ation",
+"s": "Duncan himself, however, seems to have alpine cerebrations embedded in his very molecules.",
+"old_f": [
+"The process of holding a festival to mark a special occasion",
+"The process of sealing a letter or document with wax",
+"The process of growing and harvesting cereal crops in a field"
+],
+"ety": "From Latin cerebrum (“brain”) + -ation."
+},
+{
+"w": "polysemy",
+"pos": "noun",
+"d": "The ambiguity of an individual word or phrase that can be used (in different contexts) to express two or more different meanings",
+"r": "Polyseme + -y",
+"s": "Polysemy proliferates in natural language: Virtually every word is polysemous to some extent.",
+"old_f": [
+"The use of a long word or phrase that has many syllables (often in technical writing) to sound more learned or more impressive than necessary",
+"The practice of worshipping many gods or goddesses (each with its own temple and priests) as part of a single shared religion",
+"The blending of several different musical lines or voices (each with its own melody) into a single harmonious piece of music"
+],
+"ety": "From polyseme + -y."
+},
+{
+"w": "mellifluous",
+"pos": "adjective",
+"d": "Pleasing to the ear",
+"r": "Latin mellifluus “flowing like honey”, from mel “honey” + fluō “flow”",
+"s": "Radio proved a perfect fit for the mellifluous tones of Mr. Pence, who called himself “Rush Limbaugh on decaf.”",
+"old_f": [
+"Soft and overripe",
+"Mixed together loosely",
+"Prone to melancholy"
+],
+"ety": "From Middle English mellifluous, mellyfluous, from Latin mellifluus (“flowing like honey”) + -ous, from mel (“honey”) + fluō (“flow”). Compare superfluous and fluid, from same root, and with dulcet (“sweet speech”), alternative Latinate term with a similar meaning."
+},
+{
+"w": "architrave",
+"pos": "noun",
+"d": "The molding around a door or window",
+"r": "Italian architrave, from archi- “main” + trave “beam”",
+"s": "Dry rot has turned the architrave to compacted dust.",
+"old_f": [
+"The chief architect of a cathedral",
+"The arched roof of a crypt",
+"The lowest step of a staircase"
+],
+"ety": "First attested 1563, borrowed from Italian architrave, from archi- (“main”) + trave (“beam”)."
+},
+{
+"w": "virago",
+"pos": "noun",
+"d": "A noisy or scolding or domineering woman",
+"r": "Latin virāgō “warlike or heroic woman”, literally “manlike”",
+"s": "Joan was all Arden, grinning there, siding with her virago mother.",
+"old_f": [
+"A young woman who has never been married",
+"A sudden attack of fever and chills",
+"A heavy oak beam supporting a roof"
+],
+"ety": "Borrowed from Latin virāgō (“warlike or heroic woman”, literally “manlike”)."
+},
+{
+"w": "progenitor",
+"pos": "noun",
+"d": "An ancestor in the direct line",
+"r": "Latin prōgenitor, from prōgignere “to beget”",
+"s": "ARPANET was the progenitor of the Internet.",
+"old_f": [
+"A ruler who governs on behalf of a child king",
+"A prophet who foretells the future",
+"A lawyer who prosecutes in court"
+],
+"ety": "From Middle English progenitour, from Anglo-Norman progenitour, Middle French progeniteur (Modern French progéniteur), and their etymon Latin prōgenitor, from prōgenitus, perfect participle of prōgignere (“to beget”), itself from prō- (“forth”) + gignere (“to beget”). By surface analysis, pro- (“prior, fore-”) + genitor."
+},
+{
+"w": "mutable",
+"pos": "adjective",
+"d": "Capable of or tending to change in form or quality or nature",
+"r": "Latin mutabilis “liable to change”",
+"s": "It is in vain to interpose the explanation that the sonship was mutable.",
+"old_f": [
+"Capable of or tending to remain silent for long periods of time",
+"Capable of or tending to rebel against authority or command",
+"Capable of or tending to share equally with others"
+],
+"ety": "From Middle English mutable, from Old French mutable, from Latin mutabilis (“liable to change”). By surface analysis, muta- + -able."
+},
+{
+"w": "sarcophagus",
+"pos": "noun",
+"d": "A stone coffin (usually bearing sculpture or inscriptions)",
+"r": "Greek sarkophágos “flesh-eating”, from líthos sarkophágos “flesh-eating stone”",
+"s": "On the lids of those Tombs; square sarcophaguses, in that silent dim-burning Hall, each with its Soul in torment.",
+"old_f": [
+"A biting remark (usually made in mockery)",
+"A cloth robe (usually worn by monks)",
+"A sweet wine (usually served after dinner)"
+],
+"ety": "The noun is borrowed from Latin sarcophagus (“grave; sarcophagus; flesh-eating, carnivorous”), from Ancient Greek σᾰρκοφᾰ́γος (sărkophắgos, “sarcophagus; flesh-eating, carnivorous”) (so named from λῐ́θος σᾰρκοφᾰ́γος (lĭ́thos sărkophắgos, literally “flesh-eating stone”) a type of limestone found at Assos in Troas (now Behramkale, Turkey) thought to consume the flesh of corpses, and thus used to make coffins), from σαρκός (sarkós) (the genitive form of σάρξ (sárx, “flesh; body”), from Proto-Indo-European *twerḱ- (“to carve; to cut off, trim”)) + -φάγος (-phágos, suffix meaning ‘eater (of); eatin"
+},
+{
+"w": "margrave",
+"pos": "noun",
+"d": "The military governor of a frontier province in medieval Germany",
+"r": "Middle Dutch marcgrāve, from Proto-Germanic *markō “boundary” + *grafa “military rank”",
+"s": "The Margrave of Bruges was their head.",
+"old_f": [
+"The chief steward of a royal household in medieval France",
+"The master builder of a cathedral in medieval England",
+"The high priest of a pagan temple in early Scandinavia"
+],
+"ety": "From Middle Dutch marcgrāve (modern Dutch markgraaf), cognate with Old High German marcgrāvo (modern German Markgraf), from Proto-Germanic *markō (“boundary; boundary marker”) + *grafa (“military rank”), from Latin graphio. More at mark, graft. Compare marchion, marquis, landgrave."
+},
+{
+"w": "behest",
+"pos": "noun",
+"d": "An authoritative command or request",
+"r": "Old English behǣs “vow, promise”",
+"s": "Paul did not dare pronounce, let matters rest, His master having given him no behest.",
+"old_f": [
+"A long and hard journey",
+"A gift left in a will",
+"A heavy wooden chest"
+],
+"ety": "From Middle English biheste, from Old English behǣs (“vow, promise”), from Proto-West Germanic *bihaisi, from *bi- (“be-”) + *haisi (“command”), from Proto-Germanic *haisiz, from *haitaną (“to command”). Final -t by analogy with other similar words in -t. Related to Old English behātan (“to command, promise”), Middle Low German beheit, behēt (“a promise”). Compare also hest (“command”), hight."
+},
+{
+"w": "armoire",
+"pos": "noun",
+"d": "A large wardrobe or cabinet; originally used for storing weapons",
+"r": "Middle French armoire; a doublet of ambry and almirah",
+"s": "An 1810s mahogany armoire inlaid with ribbons and vines brought $140,000.",
+"old_f": [
+"A suit of plate mail; originally made for jousting knights",
+"A padded footstool; originally used for kneeling at prayer",
+"A large chandelier; originally lit with tallow candles"
+],
+"ety": "Unadapted borrowing from Middle French armoire. Doublet of ambry, armarium, and almirah."
+},
+{
+"w": "ferrule",
+"pos": "noun",
+"d": "A metal cap or band placed on a wooden pole to prevent splitting",
+"r": "Middle English virel, from Old French virole, altered under the influence of Latin ferrum “iron”",
+"s": "Lucas withdrew the cane. Its polished ferrule flashed in the lantern glare.",
+"old_f": [
+"A small boat that carries passengers across a river or narrow strait",
+"A thin strip of leather used to strike pupils on the palm of the hand",
+"A wild weed with feathery leaves that grows along the edges of fields"
+],
+"ety": "From Middle English verel, virel, virole (“ferrule; metal pivot on the end of an axle”), altered under the influence of Latin ferrum (“iron”), from Old French virole (“ferrule”), from Latin viriola (“little bracelet”), diminutive of viria (“bracelet worn by men”), from Gaulish, from Proto-Celtic *weiros (“crooked”) (compare Middle Irish fiar (“bent, crooked”), Welsh gŵyr, Breton gwar (“curved”)), from Proto-Indo-European *weyh₁ros (“threaded, turned, twisted”), from *weyh₁- (“to turn, twist, weave”)."
+},
+{
+"w": "volant",
+"pos": "adjective",
+"d": "With wings extended in a flying position",
+"r": "Middle French volant, from voler “to fly”, from Latin volāre",
+"s": "A demi-ostrich, wings volant proper.",
+"old_f": [
+"With legs raised in a leaping position",
+"With head turned in a watchful position",
+"With body coiled in a resting position"
+],
+"ety": "From Middle French volant, present participle of voler (“to fly”), from Latin volāre."
+},
+{
+"w": "rudiment",
+"pos": "noun",
+"d": "The elementary stages of any subject (usually plural)",
+"r": "Latin rudimentum “a first attempt, a beginning”, from rudis “rude”",
+"s": "I have the rudiments of an escape plan.",
+"old_f": [
+"The rough red color of the evening sky (usually in summer)",
+"The steering blade at the stern of any boat (usually wooden)",
+"The formal rules of any religious order (usually written)"
+],
+"ety": "From Old French rudiment, from Latin rudimentum (“a first attempt, a beginning”), plural rudimenta (“the elements”), from rudis (“rude”); see rude. By surface analysis, rude + -i- + -ment."
+},
+{
+"w": "duffer",
+"pos": "noun",
+"d": "An incompetent or clumsy person",
+"r": "Cognate with duff; origin uncertain",
+"s": "The man in pink pyjamas showing himself a hopeless duffer at the business.",
+"old_f": [
+"A thick woollen bag for luggage",
+"A small brown bird of hedgerows",
+"A heavy pudding boiled in cloth"
+],
+"ety": "Cognate with duff, which see (origin is uncertain)."
+},
+{
+"w": "tumulus",
+"pos": "noun",
+"d": "A heap of earth placed over prehistoric tombs",
+"r": "Latin tumulus “mound, hill”, from tumeō “to swell”",
+"s": "They planted the cannon on the tumuli, sole elevations in this level country.",
+"old_f": [
+"A sudden fall from a great height",
+"A loud disturbance in a crowd",
+"A swelling caused by disease"
+],
+"ety": "From Latin tumulus (“mound, hill”), from tumeō (“to swell”). Doublet of tombolo."
+},
+{
+"w": "teetotaller",
+"pos": "noun",
+"d": "A total abstainer",
+"r": "Teetotal + -er",
+"s": "Five out of the six were teetotallers.",
+"old_f": [
+"A careful bookkeeper",
+"A tea merchant",
+"A golf caddie"
+],
+"ety": "From teetotal + -er."
+}
+]

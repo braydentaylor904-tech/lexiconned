@@ -1,0 +1,522 @@
+[
+{
+"w": "equipoise",
+"pos": "noun",
+"d": "Equality of distribution",
+"r": "Equi- + poise",
+"s": "To my mind, the textual arguments in this case are close to equipoise.",
+"old_f": [
+"Gear for horses",
+"Readiness for war",
+"A fine perfume"
+],
+"ety": "From equi- + poise."
+},
+{
+"w": "altricial",
+"pos": "adjective",
+"d": "(of hatchlings) naked and blind and dependent on parents for food",
+"r": "New Latin Altrices, from altrīx “nourisher”, from alere “to nourish”",
+"s": "First, humans are altricial, with immature newborns and a long childhood.",
+"old_f": [
+"(of hatchlings) covered in down and able to leave the nest at once",
+"(of seabirds) nesting on high cliffs and rocky ledges above the sea",
+"(of songbirds) singing several notes at once in a high pitch"
+],
+"ety": "From New Latin Altrices (a former division of birds), plural of altrīx, the feminine of altor (“nourisher”), from alere (“to nourish”)."
+},
+{
+"w": "postlude",
+"pos": "noun",
+"d": "A voluntary played at the end of a religious service",
+"r": "Post- + Latin lūdus “play”, modeled on prelude",
+"s": "In the Sibelian world of song, then, postludes would inevitably sound redundant or extraneous.",
+"old_f": [
+"A brief speech given at the end of a formal banquet",
+"A final payment made at the end of a business contract",
+"A quiet walk taken at the end of a long day"
+],
+"ety": "From post- + Latin lūdus (“play”) (modelled on prelude)."
+},
+{
+"w": "aphotic",
+"pos": "adjective",
+"d": "Lacking light; especially not reached by sunlight",
+"r": "A- “not; without” + photic",
+"s": "We need to classify bacteria as photic and aphotic.",
+"old_f": [
+"Lacking a voice; especially unable to speak",
+"Lacking interest; especially showing no emotion",
+"Lacking hair; especially without feathers"
+],
+"ety": "From a- (prefix meaning ‘not; without; opposite of’) + photic."
+},
+{
+"w": "apologia",
+"pos": "noun",
+"d": "A formal written defense of something you believe in strongly",
+"r": "Greek apología “speech in defense of a position”; a doublet of apology",
+"s": "It is not my purpose to offer a full apologia in these brief pages.",
+"old_f": [
+"A formal written record of a person’s family tree and ancestry",
+"A formal written prediction of the end of the world",
+"A formal written collection of short sayings or maxims"
+],
+"ety": "Borrowed from Ancient Greek ἀπολογία (apología, “speech in defense of a position”). Doublet of apology."
+},
+{
+"w": "shrive",
+"pos": "verb",
+"d": "Grant remission of a sin to",
+"r": "Old English sċrīfan “to decree; (of a priest) to prescribe penance”, from Latin scrībō",
+"s": "If he have the condition of a saint and the complexion of a devil, I had rather he should shrive me than wive me.",
+"old_f": [
+"Wrap a corpse in a burial cloth",
+"Wither and wrinkle with age",
+"Cry out in a high voice"
+],
+"ety": "From Middle English schryven, from Old English sċrīfan (“1. to decree, pass judgement, prescribe, 3. (of a priest) to prescribe penance or absolution”), from Proto-West Germanic *skrīban, from late Proto-Germanic *skrībaną, a borrowing from Latin scrībō (“write”). Compare West Frisian skriuwe (“to write”), Low German schrieven (“to write”), Dutch schrijven (“to write”), German schreiben (“to write”), Danish, Norwegian Bokmål, and Norwegian Nynorsk skrive (“to write”), Swedish skriva (“to write”), Icelandic skrifa (“to write”). More at scribe and scribble."
+},
+{
+"w": "palooka",
+"pos": "noun",
+"d": "A second-rate prize fighter",
+"r": "US since the 1920s; popularized by Jack Conway of Variety",
+"s": "I ain't your friend, palooka.",
+"old_f": [
+"A hired circus clown",
+"A clumsy dance partner",
+"A cheap cigar"
+],
+"ety": "Used in the US since the 1920s, originally primarily of boxers. Popularized by Jack Conway of Variety, who also popularized baloney and bimbo. Further popularized by Ham Fisher in his comic strip Joe Palooka about a boxer (published in newspapers since 1930, particularly popular in 1940s)."
+},
+{
+"w": "theodicy",
+"pos": "noun",
+"d": "The branch of theology that defends God’s goodness and justice in the face of the existence of evil",
+"r": "French théodicée, from Greek theós “god” + díkē “justice”; coined by Leibniz in 1710",
+"s": "The theodicy, the master-narrative, had become secularized.",
+"old_f": [
+"The branch of theology that studies the lives and miracles of the saints and martyrs honored by the church",
+"The branch of philosophy that studies the origin of the universe and the order of the heavens",
+"The branch of theology that interprets prophecies about the end of the world and the last judgment"
+],
+"ety": "Borrowed from French théodicée, from Ancient Greek θεός (theós, “god”) + δίκη (díkē, “justice”), coined by German mathematician and philosopher Gottfried Wilhelm Leibniz in his 1710 work Essais de Théodicée sur la bonté de Dieu, la liberté de l'homme et l'origine du mal (Essays of Theodicy on the Goodness of God, the Freedom of Man and the Origin of Evil), commonly known as Théodicée."
+},
+{
+"w": "irksome",
+"pos": "adjective",
+"d": "So lacking in interest as to cause mental weariness",
+"r": "Middle English irkesome: irk + -some",
+"s": "He has this irksome habit of racing up to red lights, so he has to brake heavily.",
+"old_f": [
+"So full of rage as to lose all self-control",
+"So covered in rust as to be beyond repair",
+"So rich in iron as to taste of metal"
+],
+"ety": "From Middle English irkesome, irksum, equivalent to irk + -some, or perhaps continuing (in altered form) from Old English weorcsum (“painful, hurtful”)."
+},
+{
+"w": "accede",
+"pos": "verb",
+"d": "Yield to another’s wish or opinion",
+"r": "Latin accēdō “approach, accede”, from ad + cēdō “move, yield”",
+"s": "Maintenon had been governess to the children in the late 1670s before acceding to the king's favours.",
+"old_f": [
+"Rise above all others; surpass",
+"Speed up gradually; gain pace",
+"Plant seeds in rows"
+],
+"ety": "First attested in the early 15th century. From Middle English acceden, from Latin accēdō (“approach, accede”), formed from ad (“to, toward, at”) + cēdō (“move, yield”) (English cede). Compare French accéder. Unrelated to ascend, aside from the common ad prefix."
+},
+{
+"w": "hearken",
+"pos": "verb",
+"d": "Listen; used mostly in the imperative",
+"r": "Old English hercnian, from *heorcian “to hark”",
+"s": "Dear mother Ida, hearken ere I die.",
+"old_f": [
+"Darken; used mostly of evening skies",
+"Harden; used mostly of soil in frost",
+"Hasten; used mostly of riders"
+],
+"ety": "From Middle English herkenen (“to listen (attentively); to pay attention, take heed”) [and other forms], from Old English hercnian, heorcnian, hyrcnian, from *heorcian (“to hark”) infixed with -n-, from Proto-West Germanic *hauʀijan, from Proto-Germanic *hauzijaną (“to hear”), from Proto-Indo-European *h₂ḱh₂owsyéti (“to be sharp-eared, hear well”), from *h₂eḱ- (“sharp”) + *h₂ṓws (“ear”) + *-yéti (denominative suffix), thus equivalent to hark + -en. The spelling of the English word was probably influenced by hear; a similarly analogical pronunciation existed in Early Modern English."
+},
+{
+"w": "nowise",
+"pos": "adverb",
+"d": "In no manner",
+"r": "Middle English nowyse: no “none” + wise “way, manner”",
+"s": "This time at sea will nowise be lost.",
+"old_f": [
+"At no time",
+"In no place",
+"With no doubt"
+],
+"ety": "From Middle English nowyse, no-wyse, no wyse, equivalent to no (“none, not any”) + wise (“way, manner”)."
+},
+{
+"w": "buckram",
+"pos": "noun",
+"d": "A coarse cotton fabric stiffened with glue; used in bookbinding and to stiffen clothing",
+"r": "Old French boquerant “fine cloth”, probably ultimately from Bokhara in Uzbekistan",
+"s": "Four rogues in buckram let drive at me—",
+"old_f": [
+"A soft woollen fabric dyed bright red; used in hunting coats and to trim hats",
+"A heavy leather apron worn by blacksmiths; used to protect against sparks and burns",
+"A thick cream made from goat’s milk; used in baking and to enrich sauces"
+],
+"ety": "From Middle English bukeram (“fine linen”), from Anglo-Norman bokeram, from Old French boquerant, bougherant (“fine cloth”), bougueran, probably ultimately from Bokhara, a city in southeastern Uzbekistan."
+},
+{
+"w": "fungible",
+"pos": "noun",
+"d": "A commodity that is freely interchangeable with another in satisfying an obligation",
+"r": "Medieval Latin fungibilis, from Latin fungor “to perform, discharge a duty”",
+"s": "The archetypical fungible is money.",
+"old_f": [
+"A spore that is freely carried by the wind in spreading mold to new places",
+"A guest who is freely invited to dine at the table of a host",
+"A task that is freely given to the youngest member of a household or crew"
+],
+"ety": "1765 as noun, 1818 as adjective, from Medieval Latin fungibilis, from Latin fungor (“to perform, discharge a duty”) + -ible (“able to”). Originally a legal term, going back to Roman law: res fungibiles (“replaceable things”)."
+},
+{
+"w": "smithy",
+"pos": "noun",
+"d": "A workplace where metal is worked by heating and hammering",
+"r": "Old Norse smiðja",
+"s": "Traditionally a village smithy was a busy place because the smith's work was so necessary.",
+"old_f": [
+"A workplace where cloth is dyed by soaking and boiling",
+"A workplace where grain is ground by turning millstones",
+"A workplace where leather is cured by tanning and drying"
+],
+"ety": "From Middle English smythy, from Old Norse smiðja, from Proto-Germanic *smiþjǭ. Cognate with Old English smiþþe (whence the obsolete modern doublet smithe, smythe (“the workshop of a smith, forge”)). See the Proto-Germanic entry for further cognates. Partially displaced by English forge."
+},
+{
+"w": "chorister",
+"pos": "noun",
+"d": "A singer in a choir",
+"r": "Old French cueriste, from cuer “choir”: choir + -ster",
+"s": "None of the new choristers can sing in tune but they will learn soon enough.",
+"old_f": [
+"A worker on a farm",
+"A teller of stories",
+"A writer of comedies"
+],
+"ety": "Derived from late Middle English queristre, from an Anglo-Norman variant of Old French cueriste, from cuer (see Middle French cuer). Equivalent to choir + -ster."
+},
+{
+"w": "campanile",
+"pos": "noun",
+"d": "A bell tower; usually stands alone unattached to a building",
+"r": "Italian campanile “bell tower”, from campana “bell”",
+"s": "The Leaning Tower of Pisa is a campanile.",
+"old_f": [
+"A country house; usually stands among vineyards on a hillside",
+"A tent camp; usually set up beside a river for soldiers",
+"A covered market; usually stands in the main square of a town"
+],
+"ety": "Borrowed from Italian campanile (“bell tower, belfry”), from campana (“bell”) + -ile (suffix forming nouns indicating locations that host animals or objects). Campana is derived from Late Latin and Medieval Latin campāna (“large bell used in late classical or medieval church towers or steeples; tower for such a bell, belfry, campanile”), and then either: * traditionally regarded to be from Latin Campāna (“region of Campania, Italy”) (because bells were supposedly introduced in Christian services in Nola, a diocese of Campania, by Saint Paulinus (c. 354 – 431), though the story has been discred"
+},
+{
+"w": "hortatory",
+"pos": "adjective",
+"d": "Giving strong encouragement",
+"r": "Middle French hortatoire, from Latin hortor “encourage”",
+"s": "Not in a curse but in a hortatory appeal.",
+"old_f": [
+"Relating to gardens",
+"Shaped like an hourglass",
+"Harshly scolding"
+],
+"ety": "From Middle French hortatoire, from Latin hortor (“encourage”)."
+},
+{
+"w": "adduce",
+"pos": "verb",
+"d": "Advance evidence for",
+"r": "Latin addūcere “to lead or bring to”, from ad- + dūcere “to lead”",
+"s": "He then adduced the receipts from the transactions of June 30th.",
+"old_f": [
+"Lead astray",
+"Add up figures",
+"Bend inward"
+],
+"ety": "From Middle English adducen, from Latin addūcere, adductum (“to lead or bring to”), from ad- + dūcere (“to lead”). See duke, and compare adduct."
+},
+{
+"w": "reniform",
+"pos": "adjective",
+"d": "(of a leaf or bean shape) resembling the shape of kidney",
+"r": "Latin rēnis, genitive of rēn “kidney”, + -form",
+"s": "The chairs were either posts mounted on four legs spread out for a base, or three-legged stools with reniform seats.",
+"old_f": [
+"(of a leaf or petal shape) resembling the shape of a reindeer’s antler",
+"(of a shell or stone shape) resembling the shape of a coiled spring",
+"(of a leaf or seed shape) resembling the shape of a teardrop"
+],
+"ety": "Learned borrowing from Latin rēnis (the genitive singular of rēn (“kidney”); see further at that entry) + English -form (suffix meaning ‘having the form or shape of’), modelled after New Latin rēnifōrmis (“of seeds: kidney-shaped”)."
+},
+{
+"w": "hermetic",
+"pos": "adjective",
+"d": "Completely sealed; completely airtight",
+"r": "Medieval Latin hermeticus, from Hermes Trismegistus, said to seal chests by magic",
+"s": "In other words, it is a mistake to regard this or any film text 'as if it were merely hermetic', or an isolated island.",
+"old_f": [
+"Living alone; withdrawn",
+"Relating to herbs; medicinal",
+"Strongly scented; perfumed"
+],
+"ety": "From Medieval Latin hermeticus, irregular derivation of Hermes Trismegistus, the god and mythological alchemist, said to possess a magic ability to seal treasure chests so that nothing could access their contents."
+},
+{
+"w": "emendation",
+"pos": "noun",
+"d": "A correction by emending; a correction resulting from critical editing",
+"r": "Latin ēmendātiō: emend + -ation",
+"s": "The book might be improved by judicious emendations.",
+"old_f": [
+"A payment by instalment; a sum resulting from a reduced fine",
+"A shortening by trimming; a change resulting from cutting a hem",
+"A blessing by a priest; a grace resulting from a pilgrimage"
+],
+"ety": "From Middle English emendatioun, from Latin ēmendātiō; equivalent to emend + -ation. Piecewise doublet of amendation."
+},
+{
+"w": "cachet",
+"pos": "noun",
+"d": "An indication of approved or superior status",
+"r": "French cachet, first appearing in Scottish English in 1630",
+"s": "I remember when this diner was a quiet hangout, but lately it seems to be losing its cachet.",
+"old_f": [
+"A hidden store of supplies or weapons",
+"A small sachet of perfumed powder",
+"A short dry cough"
+],
+"ety": "Borrowed from French cachet, first appearing in Scottish English, from 1630."
+},
+{
+"w": "patina",
+"pos": "noun",
+"d": "A fine coating of oxide on the surface of a metal",
+"r": "Italian patina, from Latin patina “dish, pan”; a doublet of paten",
+"s": "He enjoys a patina of respect by the police, despite being an ex-criminal.",
+"old_f": [
+"A wide brimmed hat worn by Italian peasants in the fields",
+"A short dance performed by pairs of skaters on ice",
+"A hard knot of muscle at the back of the knee"
+],
+"ety": "Borrowed from Italian patina, from Latin patina (“dish, pan”), itself a borrowing from Ancient Greek πατάνη (patánē), either from Proto-Indo-European *peth₂- (“to spread”) or from Pre-Greek. Doublet of paten, patena, patine, and (possibly) pan."
+},
+{
+"w": "elocution",
+"pos": "noun",
+"d": "An expert manner of speaking involving control of voice and gesture",
+"r": "Late Latin ēlocutiōnem",
+"s": "His elocution was precise and clear.",
+"old_f": [
+"A formal act of choosing leaders involving the casting of written ballots",
+"A sudden act of running away involving a secret marriage",
+"A gradual process of lengthening involving steady pulling"
+],
+"ety": "From Middle English elocucioun, ellocucioun, from Late Latin ēlocutiōnem. Doublet of elocutio."
+},
+{
+"w": "precocity",
+"pos": "noun",
+"d": "Intelligence achieved far ahead of normal developmental schedules",
+"r": "French précocité",
+"s": "How can we explain the relative precocity in political studies that the Greeks demonstrated in contrast to the backwardness of other early peoples?",
+"old_f": [
+"Caution taken far ahead of any expected danger",
+"Rainfall measured far above normal seasonal levels",
+"Payment made far ahead of the agreed date"
+],
+"ety": "From French précocité."
+},
+{
+"w": "rueful",
+"pos": "adjective",
+"d": "Feeling or expressing pain or sorrow for sins or offenses",
+"r": "Middle English ruful: rue + -ful",
+"s": "Merely, he received it with the rueful indulgence that he would show towards Tom.",
+"old_f": [
+"Feeling or expressing joy at the success of others",
+"Covered or edged with a frilled collar or trim",
+"Moving or flowing in a rough and violent manner"
+],
+"ety": "From Middle English ruful, rewful. By surface analysis, rue + -ful."
+},
+{
+"w": "hygroscopic",
+"pos": "adjective",
+"d": "Absorbing moisture (as from the air)",
+"r": "French hygroscopique",
+"s": "No fertilizer remains drillable when exposed to a humidity above its hygroscopic point.",
+"old_f": [
+"Producing heat (as from friction)",
+"Magnifying sound (as from a horn)",
+"Resisting decay (as from mold)"
+],
+"ety": "From French hygroscopique."
+},
+{
+"w": "raillery",
+"pos": "noun",
+"d": "Light teasing repartee",
+"r": "French raillerie",
+"s": "A running fire of raillery and jests was proceeding when Sam returned.",
+"old_f": [
+"A row of iron posts",
+"A noisy rally",
+"A heavy downpour"
+],
+"ety": "Borrowed from French raillerie."
+},
+{
+"w": "arrogate",
+"pos": "verb",
+"d": "Demand as being one’s due or property; assert one’s right or title to",
+"r": "Latin arrogō “ask of, adopt, appropriate, assume”, from ad “to” + rogō “ask”",
+"s": "They arrogate to the state the right to make that decision.",
+"old_f": [
+"Supply water to fields by means of ditches; flood land in order to grow rice or other crops",
+"Ask questions of a prisoner in a formal manner; examine a witness in order to find the truth",
+"Bring to an end by official decree; cancel a law in order to replace it with another"
+],
+"ety": "From Latin arrogātus, perfect passive participle of adrogō, arrogō (“ask of, adopt, appropriate, assume”), from ad (“to”) + rogō (“ask”)."
+},
+{
+"w": "inviolable",
+"pos": "adjective",
+"d": "Incapable of being transgressed or dishonored",
+"r": "Latin inviolābilis “untouchable”, from violō “violate”",
+"s": "\"Now, Mr. Jones, having obtained your promise of inviolable secrecy, I come down to the essential point.\"",
+"old_f": [
+"Incapable of being played or tuned",
+"Incapable of being seen with the eye",
+"Incapable of being colored or dyed"
+],
+"ety": "From Middle French inviolable, from Latin inviolābilis (“untouchable”), from violō (“violate”). Equivalent to in- + violable. Piecewise doublet of unviolable."
+},
+{
+"w": "flaccid",
+"pos": "adjective",
+"d": "Drooping without elasticity; wanting in stiffness",
+"r": "Latin flaccidus",
+"s": "The flaccid economy of the 1970s rendered Americans even more hostile toward liberal welfare policies.",
+"old_f": [
+"Bursting into flame; giving off sparks",
+"Flat and smooth; without any bumps",
+"Sharply sour; tasting strongly of vinegar"
+],
+"ety": "Borrowed from Latin flaccid(us)."
+},
+{
+"w": "grosgrain",
+"pos": "noun",
+"d": "A silk or silklike fabric with crosswise ribs",
+"r": "French gros-grain “coarse grain”, from gros “coarse” + grain; a doublet of grogram",
+"s": "He was on a leash, I realized. The grosgrain strap was wrapped around her hand.",
+"old_f": [
+"A coarse or rough flour with whole kernels",
+"A thick or heavy rope with a tarred core",
+"A pale or creamy cheese with a hard rind"
+],
+"ety": "Borrowed from French gros-grain (“coarse grain, a strong fabric”), from gros (“coarse”) + grain (“grain”). Doublet of grogram, which was borrowed earlier."
+},
+{
+"w": "litotes",
+"pos": "noun",
+"d": "Understatement for rhetorical effect (especially when expressing an affirmative by negating its contrary)",
+"r": "Late Latin lītotēs, from Greek litótēs “plainness”, from litós “simple”",
+"s": "Saying ‘I was not a little upset’ when you mean ‘I was very upset’ is an example of litotes.",
+"old_f": [
+"Exaggeration for comic effect (especially when describing a small thing as if it were enormous)",
+"Repetition for rhetorical effect (especially when beginning several lines with the same word)",
+"Inversion for poetic effect (especially when reversing the order of words in a second phrase)"
+],
+"ety": "Learned borrowing from Late Latin lītotēs, from Ancient Greek λιτότης (litótēs, literally “plainness”), from λιτός (litós, “simple”)."
+},
+{
+"w": "nosegay",
+"pos": "noun",
+"d": "An arrangement of flowers that is usually given as a present",
+"r": "Late Middle English nōsegai: nose + gay “a bright ornament”",
+"s": "Tacked to Miss Trixie's desk was a large sign that said miss trixie with an old-fashioned nosegay drawn in crayon in one corner.",
+"old_f": [
+"A small silver box that is usually filled with snuff",
+"A cheerful song that is usually sung at country weddings",
+"A painted mask that is usually worn at carnival time"
+],
+"ety": "From Late Middle English nōsegai (?), from nōse (“nose”) (from Old English nosu, ultimately from Proto-Indo-European *nas- (“nose”)) + gai (“a bright or gay object; an ornament”) (from Old French gai (“cheerful, gay, happy”)); equivalent to nose + gay."
+},
+{
+"w": "aforethought",
+"pos": "adjective",
+"d": "Planned in advance",
+"r": "Afore- + thought",
+"s": "This act was not merely wrong; it was clearly done with malice aforethought.",
+"old_f": [
+"Mentioned earlier",
+"Deeply regretted",
+"Barely remembered"
+],
+"ety": "From afore- + thought."
+},
+{
+"w": "besmirch",
+"pos": "verb",
+"d": "Charge falsely or with malicious intent; attack the good name and reputation of someone",
+"r": "Middle English besmorchen: be- + smirch",
+"s": "The newspaper was on a campaign to besmirch the actor.",
+"old_f": [
+"Decorate or adorn lavishly; cover a garment or room with jewels, ribbons or other fine ornaments",
+"Overcome with a spell or charm; capture someone’s heart or mind as if by magic",
+"Leave alone and helpless; abandon a friend or family member who needs your support"
+],
+"ety": "From Middle English besmorchen (attested in besmorchid). Compare Middle English bismotered (“bespattered, soiled”). By surface analysis, be- + smirch."
+},
+{
+"w": "putsch",
+"pos": "noun",
+"d": "A sudden and decisive change of government illegally or by force",
+"r": "German Putsch, from Alemannic German Putsch “knock, thrust, blow”",
+"s": "Afterward, the ringleaders of the failed putsch were publicly executed.",
+"old_f": [
+"A sudden and heavy downpour of rain in the mountains in spring",
+"A thick and creamy soup of potatoes and leeks from Bavaria",
+"A short and stubby pipe smoked by farmers in the Alps"
+],
+"ety": "Borrowed from German Putsch, from Alemannic German Putsch (“knock, thrust, blow”), of imitative origin."
+},
+{
+"w": "adjudge",
+"pos": "verb",
+"d": "Declare to be",
+"r": "Old French ajugier, from Latin adiudicare; a doublet of adjudicate",
+"s": "French official Stephane Lannoy adjudged that Joleon Lescott had fouled keeper Jorg Butt.",
+"old_f": [
+"Move slightly sideways",
+"Add a postscript",
+"Join together"
+],
+"ety": "From Middle English ajugen, adjugen, from Old French ajugier, from Latin adiudicare. Doublet of adjudicate."
+},
+{
+"w": "ennoble",
+"pos": "verb",
+"d": "Confer dignity or honor upon",
+"r": "Old French ennoblir: en- + noble",
+"s": "We’d like to believe that suffering instructs and ennobles.",
+"old_f": [
+"Make tired and weak",
+"Grant the right to vote",
+"Wrap in thick fog"
+],
+"ety": "From Middle English ennoblen, from Old French ennoblir. Equivalent to en- + noble."
+}
+]

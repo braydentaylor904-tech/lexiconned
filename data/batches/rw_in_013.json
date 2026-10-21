@@ -1,0 +1,522 @@
+[
+{
+"w": "grimoire",
+"pos": "noun",
+"d": "A manual of black magic (for invoking spirits and demons)",
+"r": "French grimoire, a variant of grammaire “grammar”",
+"s": "To generations of writers after Independence, the printed word was a kind of magic, the grimoire that would bring about liberation.",
+"old_f": [
+"A mask of carved wood (for frightening away evil spirits)",
+"A book of rules (for correct grammar and spelling)",
+"A dish of salted fish (for eating during Lent)"
+],
+"ety": "Borrowed from French grimoire, a variant of grammaire, from Old French gramaire (“grammar; grimoire; conjurer, magician”), from Latin grammatica (“grammar; philology”), from grammaticus (“relating to grammar, grammatical”), from Ancient Greek γρᾰμμᾰτῐκός (grămmătĭkós, “knowing one's letters; concerned with textual criticism”), from γράμμα (grámma, “that which is drawn or written; letter; book, writing”) + -ῐκός (-ĭkós, suffix added to noun stems to form adjectives). γράμμα is derived from γρᾰ́φω (grắphō, “to cut into, scratch; to draw, paint; to write”, ultimately from Proto-Indo-European *ger"
+},
+{
+"w": "obbligato",
+"pos": "noun",
+"d": "A persistent but subordinate motif",
+"r": "Italian obbligato; related to obliged",
+"s": "The noise of the traffic outside the building on the boulevard made an unmusical obbligato to my thinking.",
+"old_f": [
+"A sudden but gentle pause",
+"A brief but formal bow",
+"A heavy but graceful dance"
+],
+"ety": "From Italian obbligato. Piecewise doublet of obliged."
+},
+{
+"w": "baldric",
+"pos": "noun",
+"d": "A wide (ornamented) belt worn over the right shoulder to support a sword or bugle by the left hip",
+"r": "Old French baldré “crossbelt, sword-belt”",
+"s": "And from his blazon'd baldric slung, A mighty silver bugle hung.",
+"old_f": [
+"A broad (embroidered) cloak worn over the left shoulder to keep a knight’s armor dry when riding in the rain",
+"A short (spiked) club hung from the right side of the saddle to defend a rider against footmen in battle",
+"A small (gilded) cap worn on the crown of the head to show a herald’s rank at court ceremonies"
+],
+"ety": "From Middle English baudrik, bauderik, baudry (“belt worn over the shoulder or around the waist for carrying a sword, etc., baldric; (by extension) type of leather strap”), from Old French baldré, baldrei, baudré (“crossbelt, sword-belt”) (modern French baudrier); further etymology uncertain, possibly from Frankish *balterād, from earlier *baltiraidī (“belt gear, belt equipment”) (compare Old Occitan baldrei, baudrat), from Frankish *balti (“belt”), from Latin balteus (possibly borrowed from Etruscan 𐌁𐌀𐌋𐌕𐌄𐌀 (baltea, “belt”)) + Frankish *(ga)raidī (“equipment”). However, the Oxford English Dict"
+},
+{
+"w": "flyleaf",
+"pos": "noun",
+"d": "A blank leaf in the front or back of a book",
+"r": "Fly + leaf",
+"s": "The scribbles on the margins, the occasional date on the flyleaf, the faded bus ticket marking a page.",
+"old_f": [
+"A dried leaf pressed between the pages of a book",
+"A paper strip used to catch insects in a kitchen",
+"A loose cover that protects the spine of a book"
+],
+"ety": "From fly + leaf."
+},
+{
+"w": "parquetry",
+"pos": "noun",
+"d": "A patterned wood inlay used to cover a floor",
+"r": "Parquet + -ry",
+"s": "The new ballroom floor is a marvellous example of parquetry.",
+"old_f": [
+"A formal garden laid out in a geometric pattern",
+"A small enclosure for keeping deer on an estate",
+"A painted canvas hung behind actors on stage"
+],
+"ety": "From parquet + -ry."
+},
+{
+"w": "culverin",
+"pos": "noun",
+"d": "A heavy cannon with a long barrel used in the 16th and 17th centuries",
+"r": "Old French coulevrine, from couleuvre “snake”, from Latin coluber “snake”",
+"s": "This had been discharged from a culverin on the opposite side of the valley.",
+"old_f": [
+"A light boat with a shallow keel used on rivers in the 16th and 17th centuries",
+"A stone channel with a curved roof used to carry streams under roads",
+"A wooden club with a lead core used by town watchmen in the 17th century"
+],
+"ety": "From Middle English culveryne, from Old French coulevrine, from couleuvre (“snake”) (or from Latin colubrīnus), ultimately from Latin colubra, coluber (“snake”). Doublet of colubrine."
+},
+{
+"w": "extempore",
+"pos": "adjective",
+"d": "With little or no preparation or forethought",
+"r": "Latin ex tempore; first attested before 1556",
+"s": "Every one, as has been seen, entered, con amore, into the extempore entertainment of Pandemonic Revels.",
+"old_f": [
+"With great care and attention to timing",
+"Outside the usual hours of work",
+"Without any trace of anger or temper"
+],
+"ety": "Univerbation of Latin ex tempore. First attested before 1556."
+},
+{
+"w": "deride",
+"pos": "verb",
+"d": "Treat or speak of with contempt",
+"r": "Latin dērīdeō “to laugh at, mock”, from dē- + rīdeō “to laugh”",
+"s": "He derided his student's attempt to solve the biggest problem in mathematics.",
+"old_f": [
+"Remove the rider from a horse",
+"Draw a conclusion from evidence",
+"Strip the rind from fruit"
+],
+"ety": "Learned borrowing from Latin dērīdēre, the present active infinitive of dērīdeō (“to laugh at, make fun of, mock, deride”), from dē- (prefix denoting putting down or subjecting to indignity) + rīdeō (“to laugh; to laugh at, mock, ridicule”) (further etymology uncertain, possibly from Proto-Indo-European *wert- (“to rotate; to turn”) (referring to turning the mouth to smile) or *wreyd- (“to carve; to scratch”)). cognates * Old French dérider (rare), derire"
+},
+{
+"w": "onomasticon",
+"pos": "noun",
+"d": "A list of proper nouns naming persons or places",
+"r": "Greek onomastikón “belonging to names”, from ónoma “name”",
+"s": "We looked up the origin of her name in an onomasticon.",
+"old_f": [
+"A list of words that imitate the sounds they describe",
+"A list of saints honored on each day of the year",
+"A list of rare stones arranged by color and hardness"
+],
+"ety": "From Ancient Greek ὀνομαστικόν (onomastikón), neuter form of ὀνομαστικός (onomastikós, “belonging to names”), from ὀνομάζω (onomázō, “I name”), from ὄνομα (ónoma, “name”). The term onomastikón (collection of names, from ὄνομα/ónoma, ‘name’) describes learned works that are not arranged alphabetically but juxtapose synonyms and terms relating to the same semantic field. This principle of ordering is very old (it was already known in Near Eastern culture in the 2nd millennium BC; Lists) and undoubtedly was the most common one up to the Augustan period. Source: Onomastikon — Brill"
+},
+{
+"w": "importune",
+"pos": "verb",
+"d": "Beg persistently and urgently",
+"r": "Latin importūnus “unfit, troublesome”, originally “having no harbor”",
+"s": "But I will no longer importune my young cousin.",
+"old_f": [
+"Bring goods from abroad",
+"Arrive at an awkward moment",
+"Grant great wealth to"
+],
+"ety": "From Middle French importuner and its etymon Medieval Latin importūnor (“to make oneself troublesome”), from Latin importūnus (“unfit, troublesome”), originally \"having no harbor\"."
+},
+{
+"w": "nescience",
+"pos": "noun",
+"d": "Ignorance (especially of orthodox beliefs)",
+"r": "Latin nescientia, from nescire",
+"s": "Better to have honest nescience than to have militant ignorance.",
+"old_f": [
+"Freshness (especially of young produce)",
+"Necessity (especially in matters of law)",
+"Nearness (especially of kin)"
+],
+"ety": "From Latin nescientia, from the present participle of nescire."
+},
+{
+"w": "perambulator",
+"pos": "noun",
+"d": "A small vehicle with four wheels in which a baby or child is pushed around",
+"r": "Perambulate + -or",
+"s": "The nurse-girl slapped one of her charges and then began to push the perambulator up the hill.",
+"old_f": [
+"A tall stand with a wide brass bowl in which holy water is kept beside the door of a church",
+"A long seat with a high padded back in which two people can sit facing each other on a train",
+"A light frame with a canvas cover in which tools and seeds are wheeled around a large garden"
+],
+"ety": "From perambulate + -or."
+},
+{
+"w": "blithe",
+"pos": "adjective",
+"d": "Lacking or showing a lack of due concern",
+"r": "Old English blīþe “happy, gentle”",
+"s": "She had a blithe disregard of cultures outside the United States.",
+"old_f": [
+"Lacking or showing a lack of physical strength",
+"Showing or causing a sudden withering of plants",
+"Lacking or showing a lack of sight in one eye"
+],
+"ety": "From Middle English blithe (“glad, happy, joyful; causing joy, joyous; gentle, mild; gracious, merciful; bright, shining; beautiful, fair”) [and other forms], from Old English blīþe (“happy, gentle”), from Proto-West Germanic *blīþī, from Proto-Germanic *blīþiz (“friendly; gentle, mild; pleasing”), from Proto-Indo-European *bʰlī- (“fine; light; pleasant”), from Proto-Indo-European *bʰel- (“shiny; white”). Cognate with Saterland Frisian bliede (“glad, cheerful, merry”), West Frisian bliid (“cheerful, glad”), Dutch blij (“happy”), German Low German blied (“happy, lucky”)."
+},
+{
+"w": "diachronic",
+"pos": "adjective",
+"d": "Used of the study of a phenomenon (especially language) as it changes through time",
+"r": "Dia- + chron- + -ic",
+"s": "In short, it's usual for the syuzhet to appear more diachronic at the beginning and more synchronic at the end.",
+"old_f": [
+"Used of the treatment of a disease (especially fever) by means of sweating and long rest",
+"Used of the division of a text (especially scripture) into two columns read side by side",
+"Used of the timing of a performance (especially music) when two parts are played together"
+],
+"ety": "By surface analysis, dia- + chron- + -ic; historically, see synchronous § Etymology."
+},
+{
+"w": "incorporeal",
+"pos": "adjective",
+"d": "Without material form or substance",
+"r": "Latin incorporeus + -al: in- + corporeal",
+"s": "Thus incorporeal spirits to smaller forms, Reduced their shapes immense.",
+"old_f": [
+"Without military rank or title",
+"Without proper legal registration",
+"Without any bodily punishment"
+],
+"ety": "From Latin incorporeus + -al. By surface analysis, in- + corporeal."
+},
+{
+"w": "lackadaisical",
+"pos": "adjective",
+"d": "Lacking spirit or liveliness",
+"r": "Archaic lackadaisy + -ic + -al",
+"s": "I could hear the sound of the janitor's lackadaisical scrubbing against the wooden floor.",
+"old_f": [
+"Covered with daisies",
+"Glossy like lacquer",
+"Missing several teeth"
+],
+"ety": "From the archaic expression lackadaisy + -ic + -al."
+},
+{
+"w": "trousseau",
+"pos": "noun",
+"d": "The personal outfit of a bride; clothes and accessories and linens",
+"r": "French trousseau, diminutive of trousse “bundle”",
+"s": "Having decided to divide her daughter's trousseau into two parts, a lesser and a larger, the Princess eventually consented to have the wedding before Advent.",
+"old_f": [
+"The traveling case of a soldier; boots and belts and blankets",
+"The decorated chest of a sailor; tools and charts and letters",
+"The ceremonial costume of a groom; sword and sash and gloves"
+],
+"ety": "Borrowed from French trousseau, diminutive of trousse (“bundle”)."
+},
+{
+"w": "whetstone",
+"pos": "noun",
+"d": "A flat stone for sharpening edged tools or knives",
+"r": "Old English hwetstān: whet “to sharpen” + stone",
+"s": "As if white sparks flew from a livid whetstone, which was his spine.",
+"old_f": [
+"A smooth stone for grinding wheat into coarse flour",
+"A pale stone for marking the boundary of a field",
+"A damp stone for cooling milk in a dairy"
+],
+"ety": "From Middle English whestone, whetston, whetesston, from Old English hwetstān, from Proto-West Germanic *hwattjastain (“whetstone”). Equivalent to whet (“to sharpen”) + stone."
+},
+{
+"w": "donjon",
+"pos": "noun",
+"d": "The main tower within the walls of a medieval castle or fortress",
+"r": "A variant of dungeon, remodelled on Old French donjon",
+"s": "Next thing you’re being bounced down to the donjon keep.",
+"old_f": [
+"The great hall where a medieval lord held feasts and received guests",
+"The deep moat surrounding the walls of a medieval castle or keep",
+"The gift of land granted by a medieval king to a loyal knight"
+],
+"ety": "A variant of dungeon remodelled on its etymon, Old French donjon."
+},
+{
+"w": "stanchion",
+"pos": "noun",
+"d": "Any vertical post or rod used as a support",
+"r": "Old French estanchon, from estance “a stay, a prop”, from Latin stāns “standing”",
+"s": "The train began to move. Lace walked with it, holding a stanchion.",
+"old_f": [
+"Any thick cloth or pad used to stop bleeding",
+"Any short verse or stanza used as a refrain",
+"Any heavy chain or rope used to moor a boat"
+],
+"ety": "From Old French estanson, estanchon, (Modern French étançon), from estance (“a stay, a prop”), from Latin stāns (“standing”), present participle of stō."
+},
+{
+"w": "edifice",
+"pos": "noun",
+"d": "A structure that has a roof and walls and stands more or less permanently in one place",
+"r": "Latin aedificium “building”, from aedificāre “to build”",
+"s": "With a great thump on the table, Poirot demolished his carefully built up edifice.",
+"old_f": [
+"A speech that is meant to instruct and improve the morals of those who hear it on a holy day",
+"A formal order that is issued by a ruler and must be obeyed by all subjects in a province",
+"A small booklet that is printed in many copies and handed out to people in the street"
+],
+"ety": "From Middle English edifice, from Old French edifice, a classical borrowing of Latin aedificium (“building”), derived from aedificāre (“to build, establish”) (whence also English edify)."
+},
+{
+"w": "candelabrum",
+"pos": "noun",
+"d": "Branched candlestick; ornamental; has several lights",
+"r": "Latin candēlābrum “candlestick”, from candēla; a doublet of chandelier",
+"s": "Cyby followed us holding up his candelabrum.",
+"old_f": [
+"Hooded cloak; woollen; has several layers",
+"Wooden chest; carved; has several drawers",
+"Sugared sweet; striped; has several flavors"
+],
+"ety": "Unadapted borrowing from Latin candēlābrum (“candlestick”), from candēla. Doublet of chandelier. Displaced native Old English candeltrēow (literally “candle tree”)."
+},
+{
+"w": "rogation",
+"pos": "noun",
+"d": "A solemn supplication ceremony prescribed by the church",
+"r": "Latin rogātiō, from rogō “request”",
+"s": "He perfecteth the rogations or litanies before in use.",
+"old_f": [
+"A slow rotation of crops prescribed by the manor",
+"A ruthless crime committed by a band of thieves",
+"A cooling salve made of rosewater and oil"
+],
+"ety": "Borrowed from Latin rogātiō, from rogō (“request”). By surface analysis, Latin rog- + -ate + -ion."
+},
+{
+"w": "lateen",
+"pos": "noun",
+"d": "A triangular fore-and-aft sail used especially in the Mediterranean",
+"r": "French latine “Latin”",
+"s": "The lateen sail is triangular or a quadrilateral which is almost triangular.",
+"old_f": [
+"A heavy wooden shutter used especially in Spanish villages",
+"A narrow brass trumpet used especially in Roman processions",
+"A small olive-oil lamp used especially in Greek churches"
+],
+"ety": "From French latine (“Latin”)."
+},
+{
+"w": "penurious",
+"pos": "adjective",
+"d": "Not having enough money to pay for necessities",
+"r": "Medieval Latin pēnūriōsus; see penury, from Latin penuria “want”",
+"s": "The poor penurious horde, naught in the cooking pot and naught in the belly.",
+"old_f": [
+"Not having the skill to write clearly or neatly",
+"Not having any sense of guilt or regret for sins",
+"Not having enough light to see by at dusk"
+],
+"ety": "From Medieval Latin pēnūriōsus. See penury from Latin penuria (“want”), related to paene (“scarcely”), c. 1400. Compare French pénurie."
+},
+{
+"w": "parterre",
+"pos": "noun",
+"d": "An ornamental flower garden; beds and paths are arranged to form a pattern",
+"r": "French parterre “on the ground”, from par “on” + terre “ground”",
+"s": "The window opened towards a most lovely garden, whose smooth turf and gorgeous parterres swept down to the river.",
+"old_f": [
+"A raised wooden stage; actors and musicians stand on it to perform at fairs",
+"A paved courtyard behind a house; tables and chairs are arranged for dining outdoors",
+"A shallow dish of earthenware; meats and vegetables are baked in it slowly"
+],
+"ety": "Borrowed from French parterre (“on the ground”), from par (“on”) + terre (“ground”)."
+},
+{
+"w": "pedagogue",
+"pos": "noun",
+"d": "Someone who educates young people",
+"r": "Greek paidagōgós, from paîs “child” + agōgós “guide”",
+"s": "Jones chid the pedagogue for his interruption, and then the stranger proceeded.",
+"old_f": [
+"Someone who travels on foot",
+"Someone who sells goods door to door",
+"Someone who trims horses’ hooves"
+],
+"ety": "From Middle English pedagoge, from Middle French pedagogue, from Latin paedagōgus, from Ancient Greek παιδαγωγός (paidagōgós), from παῖς (paîs, “child”) + ἀγωγός (agōgós, “guide”) (from ἄγω (ágō, “lead”)). By surface analysis, ped- (“child”) + -agogue."
+},
+{
+"w": "minatory",
+"pos": "adjective",
+"d": "Threatening or foreshadowing evil or tragic developments",
+"r": "Late Latin minātōrius; compare menace",
+"s": "Number 3, Lauriston Gardens wore an ill-omened and minatory look.",
+"old_f": [
+"Relating to the work of miners or quarrymen",
+"Very small and finely detailed",
+"Done in a slow and graceful dance step"
+],
+"ety": "Borrowed from Middle French minatoire, from Late Latin minātōrius. Compare menace."
+},
+{
+"w": "kismet",
+"pos": "noun",
+"d": "The will of Allah",
+"r": "Ottoman Turkish kısmet “fate, destiny”, from Arabic qisma “division, lot”",
+"s": "Sexualised Catholicism, at the dawn of MTV, was Madonna’s first stroke of kismet.",
+"old_f": [
+"A kiss of greeting",
+"A spiced lamb stew",
+"A woven prayer rug"
+],
+"ety": "From Ottoman Turkish قسمت (kısmet, “fate, destiny”) (Turkish kısmet), from Arabic قِسْمَة (qisma, “division, lot, destiny”)."
+},
+{
+"w": "glutinous",
+"pos": "adjective",
+"d": "Having the sticky properties of an adhesive",
+"r": "Latin glūtinōsus; gluten + -ous",
+"s": "Then comes the dinner, a glutinous spread that seems simultaneously generous and disgusting, but no one ever touches the food.",
+"old_f": [
+"Given to eating far more than is needed",
+"Having the smooth sheen of polished glass",
+"Covered with small lumps or swellings"
+],
+"ety": "From Latin glūtinōsus. By surface analysis, gluten + -ous."
+},
+{
+"w": "fitful",
+"pos": "adjective",
+"d": "Occurring in spells and often abruptly",
+"r": "Fit “convulsion, seizure; sudden burst of activity” + -ful",
+"s": "Troubled by her unfinished work, she fell into a fitful sleep.",
+"old_f": [
+"Suitable in size and shape",
+"Strong and in good health",
+"Filled with quiet contentment"
+],
+"ety": "From fit (“convulsion, seizure; sudden burst of activity”) + -ful (suffix forming adjectives from nouns, with the sense of being full of, tending to, or thoroughly possessing the quality expressed by the noun)."
+},
+{
+"w": "sinuous",
+"pos": "adjective",
+"d": "Curved or curving in and out",
+"r": "Latin sinuōsus",
+"s": "We were entranced by her sinuous dance.",
+"old_f": [
+"Strong and full of tendons",
+"Hollow and filled with air",
+"Guilty and full of wrongdoing"
+],
+"ety": "Learned borrowing from Latin sinuōsus."
+},
+{
+"w": "bagatelle",
+"pos": "noun",
+"d": "A light piece of music for piano",
+"r": "French bagatelle, from Italian bagattella",
+"s": "A young pianist sat down in a shuttered room in the capital of defeated Germany and played a Bagatelle by Beethoven.",
+"old_f": [
+"A long crusty loaf of white bread",
+"A small leather case for carrying papers",
+"A heavy wooden club for driving stakes"
+],
+"ety": "Borrowed from French bagatelle, from Italian bagattella."
+},
+{
+"w": "tabard",
+"pos": "noun",
+"d": "A short sleeveless outer tunic emblazoned with a coat of arms; worn by a knight over his armor or by a herald",
+"r": "Old French tabart “simple sleeveless overtunic”, of unknown origin",
+"s": "A knight on a black horse appeared, clothed in jet-black velvet, and with a tabard of black linen about him.",
+"old_f": [
+"A small round drum beaten with the fingers; carried by a minstrel at a feast or by a page in a procession",
+"A low stool with three legs and a padded seat; used by a squire to help a knight mount his horse",
+"A narrow strip of parchment bearing a short motto; hung from a lance or pinned to a knight’s helmet"
+],
+"ety": "From Old French tabart (“simple sleeveless overtunic; heavy overmantel”), of unknown origin."
+},
+{
+"w": "lyonnaise",
+"pos": "adjective",
+"d": "Cooked with onions",
+"r": "French lyonnaise “in the manner of Lyon”",
+"s": "For dinner, we had beef with potatoes lyonnaise.",
+"old_f": [
+"Cooked in wine",
+"Served with mustard",
+"Baked with cream"
+],
+"ety": "From French lyonnaise (“in the manner of Lyon”)."
+},
+{
+"w": "myrmidon",
+"pos": "noun",
+"d": "A follower who carries out orders without question",
+"r": "Greek Murmidónes, via Latin Myrmidones",
+"s": "He cared no more for the Devil and all his myrmidons, for he kenned brawly he was damned.",
+"old_f": [
+"A lover who writes poems in secret to his beloved",
+"A spice merchant who trades in incense and oils",
+"A hermit who lives alone in a desert cave"
+],
+"ety": "From Myrmidon, from Latin Myrmidones, from Ancient Greek Μυρμιδόνες (Murmidónes)."
+},
+{
+"w": "impute",
+"pos": "verb",
+"d": "Attribute or credit to",
+"r": "Latin imputō “to bring into the reckoning, charge”",
+"s": "People impute great cleverness to cats.",
+"old_f": [
+"Grow weak and decay",
+"Cut off a limb",
+"Fill in a hole"
+],
+"ety": "Borrowed from Middle French imputer, from Latin imputō (“to bring into the reckoning, charge, impute”)."
+},
+{
+"w": "gauche",
+"pos": "adjective",
+"d": "Lacking social polish",
+"r": "French gauche “left, awkward”, from gauchir “to veer, turn”",
+"s": "Seeking by vulgar pomp and gauche display In 'good society', to make her way.",
+"old_f": [
+"Painted in watercolor",
+"Thin and transparent",
+"Gaunt and haggard"
+],
+"ety": "Borrowed from French gauche (“left, awkward”), from gauchir (“to veer, turn”), from Old French gaucher (“to trample, walk clumsily”), from Frankish *walkan (“to full, trample”), from Proto-Germanic *walkaną (“to full, roll up”). Akin to Old High German walchan (“to knead”), Old English wealcian (“to roll up, curl”) and English walk, Old Norse valka (“to drag about”). More at walk."
+},
+{
+"w": "pharos",
+"pos": "noun",
+"d": "A tower with a light that gives warning of shoals to passing ships",
+"r": "Greek Pháros",
+"s": "The house was not very felicitously titled, said many: it was no academic pharos.",
+"old_f": [
+"A large stone tomb with a pointed roof that was built for a king or a queen",
+"A long rowing boat with a raised prow that carried pilgrims across the river",
+"A tall clay jar with two handles that held oil or wine for long voyages"
+],
+"ety": "From Ancient Greek Φάρος (Pháros)."
+},
+{
+"w": "perfunctory",
+"pos": "adjective",
+"d": "Hasty and without attention to detail; not thorough",
+"r": "Late Latin perfunctōrius “careless, negligent”, from perfungor “perform, carry through”",
+"s": "He did a perfunctory job cleaning his dad's car, finishing quickly but leaving a few spots still dirty.",
+"old_f": [
+"Fragrant and without any trace of sweat; freshly perfumed",
+"Complete and without any fault or flaw; carefully finished",
+"Fond of and attentive to formal rules; very punctual"
+],
+"ety": "From Late Latin perfunctōrius (“careless, negligent”), from the past participial stem of perfungor, perfunct- (“perform, carry through”), from per- + fungor."
+}
+]

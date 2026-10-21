@@ -1,0 +1,522 @@
+[
+{
+"w": "gainsay",
+"pos": "verb",
+"d": "Take exception to",
+"r": "Middle English gainsayen “to say against”: gain- + say",
+"s": "I will not gainsay it, Spirit. God forbid!",
+"old_f": [
+"Earn a small profit",
+"Speak in favor of",
+"Repeat word for word"
+],
+"ety": "From Middle English gainsayen, ȝeinseggen (“to say against, say in opposition to”), equivalent to gain- + say. Compare Old Danish gensige (“to speak against; gainsay”), Swedish gensaga (“a speaking against; protest”)."
+},
+{
+"w": "anechoic",
+"pos": "adjective",
+"d": "Not having or producing echoes; sound-absorbent",
+"r": "An- + echoic, from Greek ēkhṓ “echo”",
+"s": "The bassoonist settled into the anechoic chamber and prepared for another grueling recording session.",
+"old_f": [
+"Not having or producing scales; smooth-skinned",
+"Not having or showing any appetite; underfed",
+"Not having any anchor; drifting freely"
+],
+"ety": "From an- + echoic, from echo + -ic, from Middle English ecco, ekko, from Medieval Latin ecco, from Latin echo, from Ancient Greek ἠχώ (ēkhṓ), from ἠχή (ēkhḗ, “sound”)."
+},
+{
+"w": "autarky",
+"pos": "noun",
+"d": "Economic independence as a national policy",
+"r": "Greek autárkeia “independence, self-sufficiency”",
+"s": "A general autarky in culture simply will not work.",
+"old_f": [
+"Absolute rule by a single person",
+"A self-propelled carriage for public roads",
+"Disorder caused by the absence of government"
+],
+"ety": "Borrowed from Ancient Greek αὐτᾰ́ρκειᾰ (autắrkeiă, “independence, self-sufficiency, autarky; satisfaction with one’s resources, contentment”) + English -y (suffix forming abstract nouns denoting a condition, quality, or state). Αὐτᾰ́ρκειᾰ (Autắrkeiă) is derived from αὐτάρκης (autárkēs, “self-sufficient; content with what one has”) + -ειᾰ (-eiă, suffix forming feminine nouns); while αὐτάρκης (autárkēs) is from αὐτο- (auto-, prefix meaning ‘self’) + ᾰ̓ρκέω (ărkéō, “to be enough for, satisfy, suffice; (passive) to be satisfied with”) (from Proto-Indo-European *h₂erk- (“to guard, protect; to hold;"
+},
+{
+"w": "surtout",
+"pos": "noun",
+"d": "A man’s overcoat in the style of a frock coat",
+"r": "French surtout",
+"s": "He was dressed in the suit he'd bought for his mother's funeral, beaver top hat, silk surtout.",
+"old_f": [
+"A woman’s headscarf in the style of a peasant shawl",
+"A rich sauce of the kind served over roasted game",
+"A leather bag of the kind carried by mail riders"
+],
+"ety": "From French surtout."
+},
+{
+"w": "panoptic",
+"pos": "adjective",
+"d": "Including everything visible in one view",
+"r": "Pan- + optic",
+"s": "An ordinary human being could achieve the panoptic vision of a sage.",
+"old_f": [
+"Relating to the treatment of eye disease",
+"Sharing a single cooking pot among many",
+"Covered entirely with small glass panes"
+],
+"ety": "From pan- + optic."
+},
+{
+"w": "marginalia",
+"pos": "noun",
+"d": "Notes written in the margin",
+"r": "New Latin marginālia, from Latin margō “border, edge”",
+"s": "We can read his handwritten marginalia on the manuscript.",
+"old_f": [
+"Flowers grown along a border",
+"Coins clipped at the edges",
+"Spices added after cooking"
+],
+"ety": "From New Latin marginālia (cf. margināle (neuter singular (adjective / noun)), from Medieval Latin neuter plural of marginālis (“on the periphery”), from Latin margō (“border, edge”). By surface analysis, marginal + -ia. Compare margin."
+},
+{
+"w": "cupidity",
+"pos": "noun",
+"d": "Extreme greed for material wealth",
+"r": "Latin cupiditās “strong desire”, from cupidus “keen, desirous”",
+"s": "A bargain is a social evil; one man's loss, tempting another man's cupidity.",
+"old_f": [
+"Extreme fondness for falling in love",
+"A shallow bowl for serving liquid",
+"The quality of being dull-witted"
+],
+"ety": "From French cupidité, from Latin cupiditās (“strong desire”), from cupidus (“keen, desirous”). Compare Cupid."
+},
+{
+"w": "recrudescence",
+"pos": "noun",
+"d": "A return of something after a period of abatement",
+"r": "Latin recrūdēscō “(of a wound) to break open again”, from re- “again”",
+"s": "A blinding sunlight drowned all this at times in a sudden recrudescence of glare.",
+"old_f": [
+"A formal withdrawal of troops after a military defeat",
+"A gradual softening of something after a period of cooking",
+"A careful inspection of recruits before a period of service"
+],
+"ety": "From Late Latin recrūdēscentia, from Latin recrūdēscēns, present participle of recrūdēscere (“to recrudesce”), from recrūdēscō (“(of a wound) to break open again; (of a fight, sedition,...) to break out again, be rekindled”); from re- (“again”) + crūdēscō (“to grow harsh or violent; to become worse”) (from crūdus (“bleeding, bloody, raw”) (ultimately from Proto-Indo-European *krewh₂- (“blood outside the body”)) + -ēscō (suffix forming verbs indicating a becoming of something)). The word is cognate with French recrudescence, Italian recrudescenza, Spanish recrudescencia, recrudecimiento."
+},
+{
+"w": "poseur",
+"pos": "noun",
+"d": "A person who habitually pretends to be something he is not",
+"r": "French poseur",
+"s": "He pretends he's an artist, but he's just a poseur.",
+"old_f": [
+"A person who arranges flowers for weddings and other formal events",
+"A person who carries messages between rival lords in wartime",
+"A person who pours wine at a formal banquet or dinner"
+],
+"ety": "Borrowed from French poseur."
+},
+{
+"w": "psychopomp",
+"pos": "noun",
+"d": "A conductor of souls to the afterworld",
+"r": "Greek psūkhopompós, from psūkhḗ “soul” + pompós “conductor”",
+"s": "Dr Wilder Penrose was our amiable Prospero, the psychopomp who steered our darkest dreams towards the daylight.",
+"old_f": [
+"A ceremonial parade for a newly crowned king",
+"A disorder marked by grand delusions of importance",
+"A healer who claims to cure illness with music"
+],
+"ety": "From Latin psȳchopompus, from Ancient Greek ψῡχοπομπός (psūkhopompós), from ψῡχή (psūkhḗ, “soul”) + πομπός (pompós, “conductor”)."
+},
+{
+"w": "sapient",
+"pos": "adjective",
+"d": "Acutely insightful and wise",
+"r": "Latin sapiēns “discerning, judicious, wise”",
+"s": "I think I seem them at their work—these sapient trouble-tombs.",
+"old_f": [
+"Full of sap",
+"Faint and sickly",
+"Spicy and aromatic"
+],
+"ety": "The adjective is derived from Late Middle English sapient (“learned, wise”), from Old French sapient, or from its etymon Latin sapient-, a stem of sapiēns (“(adjective) discerning, judicious, wise; (noun) wise man, sage”), the present active participle of sapiō (“to have a flavour of, taste like; (figurative) to have good taste; to have discernment or sense; to be prudent, sensible, or wise”), ultimately from Proto-Indo-European *seh₁p-, *sep- (“to taste; to try out”). Doublet of savant. The noun is derived from the adjective, and also influenced by Latin sapiēns (noun) (see above)."
+},
+{
+"w": "repartee",
+"pos": "noun",
+"d": "Adroitness and cleverness in reply",
+"r": "French repartie, from repartir “to retort”",
+"s": "\"You are always prepared to sacrifice your principles for a repartee,\" he answered.",
+"old_f": [
+"Payment for damage in war",
+"Division of land among heirs",
+"A second performance of a play"
+],
+"ety": "From French repartie, a deverbal of repartir (“to retort”)."
+},
+{
+"w": "deific",
+"pos": "adjective",
+"d": "Characterized by divine or godlike nature",
+"r": "Latin deificus, from deus “god” + facio “to make”",
+"s": "Thus demonstrating deific Principle.",
+"old_f": [
+"Characterized by open disobedience",
+"Characterized by a lack of something",
+"Characterized by gloom and decay"
+],
+"ety": "From Middle French déifique, from Latin deificus, from deus (“god”) + facio (“to make”)."
+},
+{
+"w": "macabre",
+"pos": "adjective",
+"d": "Shockingly repellent; inspiring horror",
+"r": "French macabre, possibly from danse macabre",
+"s": "The appeal of the spectrally macabre is generally narrow.",
+"old_f": [
+"Richly decorated; gilded",
+"Lean and hungry; gaunt",
+"Slow and heavy; plodding"
+],
+"ety": "Borrowed from French macabre, whose etymology is uncertain. Possibly from the term danse macabre, most commonly believed to be from corruption of the biblical name Maccabees; compare Latin Chorea Machabaeorum. Another theory derives the French term (through Spanish macabro) from Arabic مَقَابِر (maqābir, “cemeteries”), plural of مَقْبَرَة (maqbara) or مَقْبُرَة (maqbura)."
+},
+{
+"w": "fractious",
+"pos": "adjective",
+"d": "Stubbornly resistant to authority or control",
+"r": "Fraction “discord” + -ous",
+"s": "After a fractious party conference and dire opinion polls for the Tories, the prime minister attempted to speak directly to the public.",
+"old_f": [
+"Easily broken into small pieces",
+"Composed of many small parts",
+"Smelling strongly of ripe fruit"
+],
+"ety": "From fraction (“discord”) (now obsolete) + -ous."
+},
+{
+"w": "denizen",
+"pos": "noun",
+"d": "A person who inhabits a particular place",
+"r": "Old French denzein, from deinz “within”, from Late Latin dē intus",
+"s": "The denizens of that pub are of the roughest sort.",
+"old_f": [
+"A person who refuses a request or offer",
+"A small coin used in medieval France",
+"A coarse cotton cloth dyed blue"
+],
+"ety": "From Middle English denisein, from Old French denzein, from deinz (“within”) + -ein, from Late Latin dē intus (“from within”), whence French dans."
+},
+{
+"w": "antiphon",
+"pos": "noun",
+"d": "A verse or song to be chanted or sung in response",
+"r": "Greek antíphōna “responses”, from antí “in return” + phōnḗ “sound”; a doublet of anthem",
+"s": "Father Vaillant came back in his vestments, with his pyx and basin of holy water, and began sprinkling the bed and the watchers, repeating the antiphon.",
+"old_f": [
+"A drug or tonic to be taken or applied to counter a poison",
+"A device or mask to be worn or carried to block out noise",
+"A pole or mast to be raised or set to receive signals from afar"
+],
+"ety": "From French antiphone or Medieval Latin antiphōna, from Ancient Greek ἀντίφωνα (antíphōna, “responses, musical accords”), neuter plural substantive of ἀντίφωνος (antíphōnos, “concordant”) from ἀντί (antí, “in return”) + φωνή (phōnḗ, “sound”). Doublet of anthem."
+},
+{
+"w": "banquette",
+"pos": "noun",
+"d": "An upholstered bench",
+"r": "French banquette, diminutive of banc; bank + -ette",
+"s": "She would traipse in, overtly sexual in last night's dress, and throw herself exhausted across the banquette.",
+"old_f": [
+"A small bank loan",
+"A grassy riverbank",
+"A small savings box"
+],
+"ety": "Borrowed from French banquette, the diminutive form of banc; by surface analysis, bank + -ette."
+},
+{
+"w": "eldritch",
+"pos": "adjective",
+"d": "Suggesting the operation of supernatural influences",
+"r": "Earlier elritch, of uncertain origin; -ritch is usually taken as Old English rīċe “realm”",
+"s": "The woman, whose voice had risen to a kind of eldritch sing-song, turned with a skip, and was gone.",
+"old_f": [
+"Relating to the elder trees of hedgerows",
+"Old and stooped with age",
+"Rich and powerful in a small realm"
+],
+"ety": "From the earlier form elritch, of uncertain origin. The second element, -ritch, is generally taken to be Old English rīċe (“realm, kingdom”). Some think that the first element, el-, derives from an Old English root meaning “foreign, strange, other” (related to Old English ellende and modern English else); others think that it derives from elf. It was reintroduced into popular literature by the writings of H. P. Lovecraft."
+},
+{
+"w": "fustian",
+"pos": "noun",
+"d": "Pompous or pretentious talk or writing",
+"r": "Middle English fustian, a kind of fabric, from Old French fustaine",
+"s": "Sensible Englishmen, like Endymion and Trenchard, looked upon the whole exhibition as fustian.",
+"old_f": [
+"A short club carried by watchmen",
+"A sour smell of damp cellars",
+"A small fuse for lighting cannons"
+],
+"ety": "The noun is derived from Middle English fustian (“type of fabric, probably made from cotton, flax, or wool; piece of fustian spread over a bed or mattress”) [and other forms], from Old French fustaine, fustaigne (modern French futaine), from Medieval Latin fūstāneum, from (pannus) fūstāneus or (tela) fūstānea, of disputed origin. Sense 3 (“inflated, pompous, or pretentious speech or writing”) is possibly from the fact that the fabric was sometimes used to make cushion- and pillowcases, thus suggesting that the speech or writing is “padded” or “stuffed”; compare bombast. The relationship betwee"
+},
+{
+"w": "accoutrement",
+"pos": "noun",
+"d": "Clothing that is worn or carried, but not part of your main clothing",
+"r": "Middle French accoustrement, from Old French acostrer “arrange, sew up”",
+"s": "A little ship, with oars and food, and little dishes, and all accoutrements.",
+"old_f": [
+"Payment that is owed or settled, but not yet entered in your accounts",
+"Music that is played or sung, but not part of the main performance",
+"Furniture that is fixed or built in, but not part of the original building"
+],
+"ety": "Probably partly from Middle French accoustrement, acoustrement, acoutrement (French accoutrement), from accoustrer, from Old French acostrer (“arrange, sew up”), and partly from accoutre + -ment. First attested in the 1540s."
+},
+{
+"w": "tempestuous",
+"pos": "adjective",
+"d": "Characterized by violent emotions or behavior",
+"r": "Middle English tempestuous “stormy, turbulent”, from Old French tempesteus",
+"s": "After their tempestuous argument, they did not speak to each other for weeks.",
+"old_f": [
+"Characterized by careful timing",
+"Characterized by moderate temperatures",
+"Characterized by a strong temptation to sin"
+],
+"ety": "From Late Middle English tempestious, tempestous, tempestuous (“stormy, turbulent, tempestuous”), from Anglo-Norman tempestous, and Old French tempesteus, tempestos, tempestous, tempestuose (modern French tempétueux), and directly from its etymon Latin tempestuōsus (“stormy, turbulent, tempestuous; impetuous”), from tempestās, tempestūs (“point or period of time; season; weather, specifically bad weather; storm, tempest”) (from tempus (“period of time; (rare) weather”), possibly from Proto-Indo-European *temh₁- (“to cut”) or *ten- (“to extend, stretch”)) + -ōsus (suffix meaning ‘full of; overl"
+},
+{
+"w": "pervious",
+"pos": "adjective",
+"d": "Admitting of passage or entrance",
+"r": "Latin pervius “having a passage through; passable”",
+"s": "The solid, solid universe, Is pervious to Love.",
+"old_f": [
+"Occurring at an earlier time",
+"Inclined toward wickedness",
+"Watchful at night"
+],
+"ety": "Borrowed from Latin pervius (“having a passage through; passable, penetrable, traversable”) + English -ous (suffix denoting the presence of a quality in any degree (typically an abundance)). Pervius is derived from per- (prefix denoting doing something all the way through or entirely) + via (“road, street; method, way; (figurative) course, route”) + -us (suffix forming adjectives)"
+},
+{
+"w": "quiescence",
+"pos": "noun",
+"d": "A state of quiet (but possibly temporary) inaction",
+"r": "Quiescent + -ence, or Latin quiescentia, from quies",
+"s": "I pray you, Salviatus, to tell me ... the cause of the Pendulum's quiescence.",
+"old_f": [
+"A state of mild (but often lasting) confusion",
+"A form of gentle (but very persistent) questioning",
+"A mood of fussy (but harmless) eccentricity"
+],
+"ety": "From quiescent + -ence, or borrowed from Latin quiescentia, from quiescens, present participle of quiesco, from quies."
+},
+{
+"w": "consternation",
+"pos": "noun",
+"d": "Fear resulting from the awareness of danger",
+"r": "Latin consternātiō",
+"s": "Their audience had been listening in increasing consternation.",
+"old_f": [
+"Study of the patterns formed by stars",
+"Constant pressure applied over time",
+"Formal approval given by a council"
+],
+"ety": "From French consternation, from Latin consternātiō. By surface analysis, consternate + -ion."
+},
+{
+"w": "turnkey",
+"pos": "noun",
+"d": "Someone who guards prisoners",
+"r": "Turn + key",
+"s": "'Certainly not,' said the turnkey; and the first corroborated his statement.",
+"old_f": [
+"Someone who changes sides",
+"Someone who drives oxen",
+"Someone who roasts meat"
+],
+"ety": "From turn + key. (jailer): Compare typologically Russian вертуха́й (vertuxáj) (akin to верте́ть (vertétʹ))."
+},
+{
+"w": "sodden",
+"pos": "adjective",
+"d": "Wet through and through; thoroughly wet",
+"r": "Old English soden, past participle of a verb meaning “to seethe; boil”",
+"s": "In 2004, after heavy rain fell on sodden ground, floods put the line out of action from February until May.",
+"old_f": [
+"Covered in turf; grassy and green",
+"Happening without warning; abrupt",
+"Bitter through and through; deeply resentful"
+],
+"ety": "From Middle English sodden, soden, from Old English soden, ġesoden, from Proto-Germanic *sudanaz, past participle of Proto-Germanic *seuþaną (“to seethe; boil”). Cognate with West Frisian sean, Dutch gezoden (“seethed, boiled”) (related to Dutch zode (“swampy land”)), Low German saden, söddt, German gesotten, Swedish sjuden, Icelandic soðinn. More at seethe."
+},
+{
+"w": "kerfuffle",
+"pos": "noun",
+"d": "A disorderly outburst or tumult",
+"r": "Probably Scots curfuffle: ker- + fuffle",
+"s": "The debate seemed innocuous—a minor kerfuffle, but nothing that couldn’t be resolved and moved on from.",
+"old_f": [
+"A small woollen scarf or headscarf",
+"A muffled cough during a speech",
+"A mild scolding from a parent"
+],
+"ety": "Probably from Scots curfuffle, equivalent to ker- + fuffle, or related to Irish cíor thuathail (“confusion, bewilderment”). Similar to modern Welsh cythrwfl (“uproar, trouble, agitation”)"
+},
+{
+"w": "corkage",
+"pos": "noun",
+"d": "A charge added at a restaurant for every bottle of wine served that was not bought on the premises",
+"r": "Cork + -age",
+"s": "Although their wines lists are pedestrian, modest corkages are the rule.",
+"old_f": [
+"A small fee paid at a harbor for every barrel of cargo landed that was not carried on the manifest",
+"The loss of wine from a cask through slow evaporation that occurs while it is stored in a cellar",
+"A tax charged at a toll gate for every cart of goods brought into a market town on fair days"
+],
+"ety": "From cork + -age."
+},
+{
+"w": "imponderable",
+"pos": "noun",
+"d": "A factor whose effects cannot be accurately assessed",
+"r": "Im- + ponderable",
+"s": "Human behavior depends on many imponderables.",
+"old_f": [
+"A person who never reflects before acting",
+"A weight too heavy to be lifted by one person",
+"A pond or pool too deep to be measured"
+],
+"ety": "From im- + ponderable."
+},
+{
+"w": "enfeoff",
+"pos": "verb",
+"d": "Put in possession of land in exchange for a pledge of service, in feudal society",
+"r": "Old French enfeffer, from en- “in, into” + fief",
+"s": "He enfeoffed his son-in-law with a large estate in Scotland.",
+"old_f": [
+"Release from a debt in exchange for a share of the harvest, in medieval villages",
+"Strip of rank or title in punishment for disloyalty to a lord, in feudal courts",
+"Enclose with a fence in order to keep out grazing cattle, in common fields"
+],
+"ety": "From Late Middle English enfeffen, enfeoffen (“to grant (property, rights, etc.) under the feudal system”) [and other forms], from Old French enfeffer, enfieffer (compare Anglo-Latin infeoffāre, Anglo-Norman enfeoffer), from en- (prefix meaning ‘in, into’) + fief (“estate held by a person on condition of providing military service to a superior”) (ultimately from Proto-Indo-European *peḱu- (“livestock, especially sheep or cattle”)). The English word is analysable as en- + feoff."
+},
+{
+"w": "sybaritic",
+"pos": "adjective",
+"d": "Displaying luxury and furnishing gratification to the senses",
+"r": "Latin Sybarīticus “of Sybaris or its inhabitants”",
+"s": "A chinchilla robe of sybaritic lavishness.",
+"old_f": [
+"Relating to the ritual practices of ancient seers and oracles",
+"Giving off a soft, hissing sound like wind through grass",
+"Showing a fondness for strict discipline and plain living"
+],
+"ety": "Learned borrowing from Latin Sybarīticus (“of or pertaining to Sybaris or its inhabitants”) + English -ic (suffix meaning ‘of or pertaining to’, forming adjectives from nouns). Sybarīticus is derived from Ancient Greek Συβαρῑτικός (Subarītikós), from Σῠβᾰρῑ́της (Sŭbărī́tēs, “(noun) inhabitant of Sybaris; (adjective) decadent; self-indulgent”) (from Σῠ́βᾰρῐς (Sŭ́bărĭs, “Sybaris”) + -ῑ́της (-ī́tēs, suffix forming demonyms)) + -κός (-kós, suffix meaning ‘of or pertaining to’, forming adjectives). The English word is analysable as Sybarite (“inhabitant of Sybaris”) + -ic. Sybaris, a city of Magna "
+},
+{
+"w": "commensurate",
+"pos": "adjective",
+"d": "Corresponding in size or degree or extent",
+"r": "Late Latin commēnsūrātus, from com- “together, with” + mēnsūrō “to measure”",
+"s": "The rewards will be commensurate with the efforts made.",
+"old_f": [
+"Suitable for discussion at a formal dinner",
+"Shared equally among all members of a group",
+"Deserving of praise for great effort"
+],
+"ety": "First attested in 1641; borrowed from Late Latin commēnsūrātus, from com- (“together, with”) + mēnsūrātus, perfect passive participle of mēnsūrō (“to measure, to estimate”), (see -ate (adjective-forming suffix) and -ate (verb-forming suffix)), from Latin mēnsūra (“measure”) + -ō (verb-forming suffix)."
+},
+{
+"w": "poniard",
+"pos": "noun",
+"d": "A dagger with a slender blade",
+"r": "Middle French poignard, from poing “fist”, from Latin pugnus",
+"s": "Even the women had poniards belted at their waists.",
+"old_f": [
+"A small pony bred for mining",
+"A heavy fist-sized stone",
+"A long wooden pole for punting"
+],
+"ety": "Borrowed from Middle French poignard (whence -ard), from poing (“fist”), from Old French poing, from Latin pugnus (“fist”)."
+},
+{
+"w": "expiate",
+"pos": "verb",
+"d": "Make amends for",
+"r": "Latin expiō “atone for”",
+"s": "He had only to live and expiate in solitude the crimes which he had committed.",
+"old_f": [
+"Breathe out slowly",
+"Leave one’s homeland",
+"Talk at length"
+],
+"ety": "From Latin expiātus, past participle of expiō (“atone for”)."
+},
+{
+"w": "caprice",
+"pos": "noun",
+"d": "A sudden desire",
+"r": "Italian capriccio, from caporiccio “fright, sudden start”",
+"s": "The only difference between a caprice and a life-long passion is that a caprice lasts a little longer.",
+"old_f": [
+"A young goat",
+"A small pointed hat",
+"A spicy pepper sauce"
+],
+"ety": "Borrowed from French caprice, from Italian capriccio, from caporiccio (“fright, sudden start”). Doublet of capriccio."
+},
+{
+"w": "burgeon",
+"pos": "verb",
+"d": "Grow and flourish",
+"r": "Old French borjoner",
+"s": "Gradually, the town burgeoned into a thriving city.",
+"old_f": [
+"Break into a house",
+"Become a citizen",
+"Bulge outward"
+],
+"ety": "From Middle English burjounen, from Old French borjoner, bourjoner, burjuner."
+},
+{
+"w": "sinecure",
+"pos": "noun",
+"d": "A benefice to which no spiritual or pastoral duties are attached",
+"r": "Ecclesiastical Latin sine cūrā “without care”",
+"s": "A lucrative sinecure in the Excise was bestowed on Ferguson.",
+"old_f": [
+"A remedy to which no harmful side effects are attributed",
+"A curve to which no straight line can ever be fitted",
+"A pledge to which no conditions or penalties are attached"
+],
+"ety": "From Ecclesiastical Latin sine cūrā (literally “without care”), ellipsis of beneficium sine cūrā (“benefice without cure [of souls, i.e. the office of a curate]”), formed from Medieval Latin sine (“without”) + cūrā (“care, charge, cure”)."
+},
+{
+"w": "extenuation",
+"pos": "noun",
+"d": "A partial excuse to mitigate censure; an attempt to represent an offense as less serious than it appears by showing mitigating circumstances",
+"r": "Latin extenuātiō “a thinning or diminishing”, from extenuō “to thin, reduce”",
+"s": "In extenuation of a noble error.",
+"old_f": [
+"A gradual stretching of a material; an attempt to make an object longer than it is by applying steady heat and pressure",
+"A formal widening of a road; an effort to make a route wider than it was by clearing the land on either side",
+"A ceremonial extension of a lease; an agreement to keep a tenant in place longer than planned by paying an additional fee"
+],
+"ety": "An adaptation of extenuātiōn-, the oblique stem of the Latin extenuātiō (“a thinning or diminishing”, “rarefaction”; rhetoric “a lessening”, “diminution”, “extenuation”), noun of action from extenuō (“to thin, reduce, or diminish”). Equivalent to extenuate + -ion. Compare the French exténuation."
+},
+{
+"w": "obtrude",
+"pos": "verb",
+"d": "Push to thrust outward",
+"r": "Latin obtrūdō “thrust off or against”, from ob- + trūdō “thrust”",
+"s": "In such a very chronological book, though, small anachronisms do obtrude.",
+"old_f": [
+"Block the way",
+"Hide from view",
+"Make blunt"
+],
+"ety": "From Latin obtrūdō (“thrust off or against”), from ob- (“ob-”) + trūdō (“thrust”)."
+}
+]

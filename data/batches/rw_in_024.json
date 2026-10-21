@@ -1,0 +1,522 @@
+[
+{
+"w": "escritoire",
+"pos": "noun",
+"d": "A desk used for writing",
+"r": "French escritoire, from escrire “to write”; a doublet of scriptorium",
+"s": "Rosemary sat at her Public Works Department escritoire, in a sea of fed cats, and tried to write a letter to Vythilingam.",
+"old_f": [
+"A screen used for privacy",
+"A cabinet used for silverware",
+"A shelf used for perfumes"
+],
+"ety": "From French escritoire, from escrire (“to write”) (obsolete forms of écritoire and écrire, respectively) + -oire (“a tool or object”). Doublet of scriptorium."
+},
+{
+"w": "lissom",
+"pos": "adjective",
+"d": "Moving and bending with ease",
+"r": "Middle English lithsum: lithe + -some; a doublet of lithesome",
+"s": "A Schooner is much lissomer built.",
+"old_f": [
+"Speaking with a slight lisp",
+"Listening with close attention",
+"Sitting with a sullen pout"
+],
+"ety": "From Middle English lithsum, equivalent to lithe + -some. Doublet of lithesome."
+},
+{
+"w": "antechamber",
+"pos": "noun",
+"d": "A large entrance or reception room or area",
+"r": "Middle French antichambre, remodelled after ante- + chamber",
+"s": "Gun, escort them to the antechamber until the Avatar's arrival.",
+"old_f": [
+"A narrow corridor behind the stage of a theatre",
+"A small chapel set aside for private prayer",
+"A deep cellar used for storing wine"
+],
+"ety": "From Middle French antichambre, with remodelling after ante- and chamber. By surface analysis, ante- + chamber."
+},
+{
+"w": "statuesque",
+"pos": "adjective",
+"d": "Of size and dignity suggestive of a statue",
+"r": "French statuesque: statue + -esque",
+"s": "Christy Turlington is a statuesque supermodel famous for her fashion ads.",
+"old_f": [
+"Of rank and authority granted by law",
+"Of a steady and unchanging position",
+"Of a stiff and stubborn character"
+],
+"ety": "Unadapted borrowing from French statuesque. By surface analysis, statu(e) + -esque."
+},
+{
+"w": "seraglio",
+"pos": "noun",
+"d": "Living quarters reserved for wives and concubines and female relatives in a Muslim household",
+"r": "Italian serraglio, from Latin serāre “lock up, close”, used to translate Turkish saray “palace”",
+"s": "Nor a Circassian maid richly and elegantly attired for the grand Signior's seraglio.",
+"old_f": [
+"Public baths reserved for bathers and masseurs and attendants in a Turkish city",
+"Barracks reserved for guards and grooms and stable boys in a royal household",
+"Gardens reserved for fruit trees and fountains and songbirds in a Persian palace"
+],
+"ety": "From Italian serraglio, from Vulgar Latin *serrāculum, from a late form of Latin serāre (“lock up, close”), from sera (“lock, bolt”). The Italian word was used (because of phonetic similarity) to translate Turkish saray (“palace”). Compare serai, serail."
+},
+{
+"w": "multitudinous",
+"pos": "adjective",
+"d": "Too numerous to be counted",
+"r": "Latin multitūdō “great number, multitude” + -ous",
+"s": "The lesser fowls, Flock multitudinous in heaven, and fly, Before the Eagle's coming.",
+"old_f": [
+"Speaking many tongues",
+"Shaped like a pillar",
+"Lonely and withdrawn"
+],
+"ety": "Learned borrowing from Latin multitūdin- (the oblique stem of multitūdō (“great number (of people), multitude”)) + English -ous (suffix forming adjectives from nouns, denoting the presence of a quality in any degree (typically an abundance)). Multitūdō is derived from multus (“many; much”) (ultimately from Proto-Indo-European *mel- (“to be late; to worry”)) + -tūdō (suffix forming abstract nouns denoting a condition or state). By surface analysis, multitude + -in- (interfix used before Latinate suffixes appended to nouns ending with -itude or -tude) + -ous."
+},
+{
+"w": "bounteous",
+"pos": "adjective",
+"d": "Given or giving freely",
+"r": "Middle English bountevous, from Old French bontios: bounty + -ous",
+"s": "The house came with a bounteous yard.",
+"old_f": [
+"Bound by a promise",
+"Leaping with joy",
+"Fixed by a boundary"
+],
+"ety": "Inherited from Middle English bountevous, from Old French bontios; by surface analysis, bounty + ous."
+},
+{
+"w": "foulard",
+"pos": "noun",
+"d": "A light plain-weave or twill-weave silk or silklike fabric (usually with a printed design)",
+"r": "French foulard",
+"s": "A lot of foulard tie bulged out and was rain-spotted above his crossed lapels.",
+"old_f": [
+"A thick and greasy stew made from salted pork (usually with beans and onions)",
+"A light and fizzy drink made from fermented apples (usually with a sweet finish)",
+"A heavy and coarse cloth made from goat hair (usually with a woven stripe)"
+],
+"ety": "Borrowed from French foulard."
+},
+{
+"w": "obeisance",
+"pos": "noun",
+"d": "Bending the head or body or knee as a sign of reverence or submission or shame or greeting",
+"r": "Old French obeïssance, from obeïr “to obey”; a cognate of obedience",
+"s": "Not the least obeisance made he; not a minute stopped or stayed he.",
+"old_f": [
+"Stubbornly refusing to obey the commands of a superior or the rules of a household",
+"Gaining weight by overeating or a lack of exercise or both, over a long period of time",
+"Offering a sacrifice or gift or prayer to the spirit of a dead ancestor"
+],
+"ety": "From Middle English obeisaunce (“obedience, obeisance”), from Old French obeïssance, derived from obeïssant (“obedient”), participle of obeïr (“to obey”), from Latin oboediō, obēdiō; ob- (“to, for”) + audiō (“to hear”). Cognate with obedience."
+},
+{
+"w": "benignant",
+"pos": "adjective",
+"d": "Pleasant and beneficial in nature or influence",
+"r": "Benign + -ant, on the model of malignant",
+"s": "General Peckem roused himself after a moment with an unctuous and benignant smile.",
+"old_f": [
+"Harmful and spreading in nature or effect",
+"Giving and receiving benefits by will",
+"Kneeling and bowing in prayer"
+],
+"ety": "From benign + -ant, on the model of malignant."
+},
+{
+"w": "voguish",
+"pos": "adjective",
+"d": "Elegant and stylish",
+"r": "Vogue + -ish",
+"s": "It’s hard to say the precise moment when CBD, the voguish cannabis derivative, went from being a fidget spinner alternative for stoners to a mainstream panacea.",
+"old_f": [
+"Vague and unclear",
+"Rough and wild",
+"Loud and boastful"
+],
+"ety": "From vogue + -ish."
+},
+{
+"w": "assonance",
+"pos": "noun",
+"d": "The repetition of similar vowels in the stressed syllables of successive words",
+"r": "French assonance, from Latin assonāre: a- + son- + -ance",
+"s": "\"You should try to speak without assonances\" said Merlyn.",
+"old_f": [
+"The agreement of a large group of people in support of a single plan or idea",
+"The careful weighing of evidence before passing judgment on a disputed question",
+"The deep sound produced by striking a bell or gong in a large hall"
+],
+"ety": "From French assonance, from Latin assonāre; by surface analysis, a- + son- + -ance."
+},
+{
+"w": "cuirass",
+"pos": "noun",
+"d": "Medieval body armor that covers the chest and back",
+"r": "Old French cuirace, spelling influenced by modern French cuirasse; first used c. 1464",
+"s": "By her charms she pierced the cuirass that enveloped the well-disciplined heart of William III.",
+"old_f": [
+"Medieval leather apron that covers the legs and feet",
+"Medieval spiced stew that cooks the meat and roots",
+"Medieval woollen hood that covers the head and shoulders"
+],
+"ety": "First use appears c. 1464. From Middle English curasse, curesse, from Old French cuirace, spelling influenced by modern French cuirasse."
+},
+{
+"w": "plenitude",
+"pos": "noun",
+"d": "A full supply",
+"r": "Latin plēnitūdō",
+"s": "Mankind's old greatness was created in scarcity. But what may we expect from plenitude?",
+"old_f": [
+"A broad plain",
+"A formal pleading",
+"A quiet solitude"
+],
+"ety": "From Middle English plenitude, that borrowed from Anglo-Norman plenitude, Middle French plenitude, and their source, Latin plēnitūdō."
+},
+{
+"w": "antinomy",
+"pos": "noun",
+"d": "A contradiction between two statements that seem equally reasonable",
+"r": "Greek antinomía, from anti- “against” + nómos “law”",
+"s": "Of the work that has been done on the liar antinomy, possibly the most profound and certainly the most influential has been that of Tarski.",
+"old_f": [
+"A metal used to harden lead in printing type",
+"A sudden reversal of fortune in the final act",
+"A formal ban on any public display of names"
+],
+"ety": "Learned borrowing from Latin antinomia, from Ancient Greek ἀντινομία (antinomía), from ἀντι- (anti-, prefix meaning ‘against’) (ultimately from Proto-Indo-European *h₂ent- (“face; forehead; front”)) + νόμος (nómos, “custom, usage; law, ordinance”) + -ῐ́ᾱ (-ĭ́ā, suffix forming feminine abstract nouns), with νόμος (nómos) derived from νέμω (némō, “to deal out, dispense, distribute”) (from Proto-Indo-European *nem- (“to distribute; to give; to take”)) + -ος (-os, suffix forming nouns indicating actions or their results). The English word may be analysed as anti- (prefix meaning ‘against; opposite"
+},
+{
+"w": "deleterious",
+"pos": "adjective",
+"d": "Harmful to living things",
+"r": "New Latin dēlētērius, from Greek dēlētḗrios “noxious”, from dēlētḗr “a destroyer”",
+"s": "Or might it suffice him, that every wholesome growth should be converted into something deleterious and malignant at his touch?",
+"old_f": [
+"Easy to erase",
+"Pleasing to taste",
+"Slow to act"
+],
+"ety": "Adapted borrowing (1640s; 1582 as deletorious) of New Latin dēlētērius, dēlētōrius + -ous, from Ancient Greek δηλητήριος (dēlētḗrios, “noxious, deleterious”), from δηλητήρ (dēlētḗr, “a destroyer”), from δηλέομαι (dēléomai, “I hurt, damage, spoil, waste”). Not related to delete or deleble. Doublet of deletery."
+},
+{
+"w": "tripos",
+"pos": "noun",
+"d": "Final honors degree examinations at Cambridge University",
+"r": "An alteration of tripus, supposedly after the three-legged stool once used at the examinations",
+"s": "I'm seriously thinking of chucking my tripos and taking up the History Special.",
+"old_f": [
+"Formal three-day feast held at Oxford colleges",
+"Stone stand supporting a sundial in a college garden",
+"Short walking holiday taken by students after exams"
+],
+"ety": "Alteration of tripus, as though with a Greek ending. For the examination: the word is supposed to refer to the three-legged stool formerly used at the examinations for these honours, though some derive it from the three brackets formerly printed on the back of the paper. The etymon of tripus is the Ancient Greek τρίπους (trípous, “triple-footed”), (from τρι- (tri-, “three”) and πούς (poús, “foot”))."
+},
+{
+"w": "prosody",
+"pos": "noun",
+"d": "The patterns of stress and intonation in a language",
+"r": "Greek prosōidía “song sung to music; pronunciation of a syllable”, from prós “to” + ōidḗ “song”",
+"s": "But the system of prosody in Samson plainly forbids extrametrical syllables in the midst of the line.",
+"old_f": [
+"The art of writing in plain everyday language",
+"The study of the origins of words in a language",
+"The rules of good conduct in a royal court"
+],
+"ety": "From Middle French prosodie, from Latin prosōdia, from Ancient Greek προσῳδία (prosōidía, “song sung to music; pronunciation of syllable”), from πρός (prós, “to”) + ᾠδή (ōidḗ, “song”)."
+},
+{
+"w": "echolalia",
+"pos": "noun",
+"d": "An infant’s repetition of sounds uttered by others",
+"r": "Echo- + -lalia, from Greek ēkhṓ “echo” + laliá “talk”",
+"s": "There was the boom of a bass drum, and the voice of the orchestra leader rang out suddenly above the echolalia of the garden.",
+"old_f": [
+"A bat’s use of sound to find its way in the dark",
+"A singer’s skill at holding a single note for a long time",
+"A child’s fear of loud noises in a confined space"
+],
+"ety": "From echo- + -lalia; echo- ultimately from Ancient Greek ἠχώ (ēkhṓ, “reflected sound, echo”), -lalia from λαλιά (laliá, “talk, chat”)."
+},
+{
+"w": "cosmopolite",
+"pos": "noun",
+"d": "A sophisticated person who has travelled in many countries",
+"r": "Greek kosmopolítēs “citizen of the world”, from kósmos “world” + polítēs “citizen”",
+"s": "That man’s the best cosmopolite, Who loves his native country best.",
+"old_f": [
+"A wealthy person who spends lavishly on beauty treatments",
+"A learned person who studies the order of the universe",
+"A powerful person who governs a large and wealthy city"
+],
+"ety": "Borrowed from French cosmopolite, from Latin cosmopolītēs, itself borrowed from Koine Greek κοσμοπολίτης (kosmopolítēs, “citizen of the world”), from Ancient Greek κόσμος (kósmos, “world”) + πολίτης (polítēs, “citizen”)."
+},
+{
+"w": "capstan",
+"pos": "noun",
+"d": "A windlass rotated in a horizontal plane around a vertical axis; used on ships for weighing anchor or raising heavy sails",
+"r": "Old French cabestan, from Old Occitan cabestre “pulley cord”, from Latin capistrum “halter”",
+"s": "We toiled over the capstan, and late in the afternoon slipped out of the harbour.",
+"old_f": [
+"A narrow wooden ledge fixed in a horizontal position across the top of a mast; used on ships for keeping a lookout or hanging lanterns",
+"A heavy iron cap fitted over the end of a cannon barrel; used on warships for keeping rain and spray out of the gun",
+"A tall stone post set upright in the ground beside a harbor wall; used on docks for tying up ships and barges"
+],
+"ety": "Borrowed into Middle English from either Old French cabestan, from Old Occitan cabestan, from cabestre (“pulley cord”) or from Spanish cabestran, both of which derive from Latin capistrum (“halter”), from capiō (“take hold of”)."
+},
+{
+"w": "excrescence",
+"pos": "noun",
+"d": "Something that bulges out or is protuberant or projects from its surroundings",
+"r": "Latin excrescentia “abnormal growths”, from excrēscere, from ex- “out” + crēscere “to grow”",
+"s": "Perhaps he meant that towns are after all excrescences, grey fluxions, where men, hurrying to find one another, have lost themselves.",
+"old_f": [
+"Something that is cut out or removed from a text",
+"Something that grows thin and pale like a new moon",
+"Something that is exquisitely beautiful or perfect"
+],
+"ety": "From Middle English, early 15th century, in sense “(action of) growing out (of something else)”. Borrowed from Latin excrescentia (“abnormal growths”), from excrescentem, from excrēscere, from ex- (“out”) (English ex-) + crēscere (“to grow”) (English crescent). Sense of “abnormal growth” from 1570s, from earlier excrescency (1540s in this sense)."
+},
+{
+"w": "philippic",
+"pos": "noun",
+"d": "A speech of violent denunciation",
+"r": "Greek philippikós, from Phílippos “lover of horses”",
+"s": "\"Sir Robert Akhurst is a good man, a very good man, notwithstanding his philippic.\"",
+"old_f": [
+"A great love of horses",
+"A gift of money to charity",
+"A long letter to a friend"
+],
+"ety": "From Latin philippicus, from Ancient Greek φιλιππικός (philippikós), from Φίλιππος (Phílippos, “lover of horses”), from φίλος (phílos, “loving”) + ἵππος (híppos, “horse”)."
+},
+{
+"w": "conflate",
+"pos": "verb",
+"d": "Mix together different elements",
+"r": "Latin cōnflō “fuse, kindle, blow together”",
+"s": "“No, you are conflating Francis Bacon and Roger Bacon.”",
+"old_f": [
+"Fill with air",
+"Argue against",
+"Hold a meeting"
+],
+"ety": "Attested since 1541: from Latin cōnflātus, past passive participle of cōnflō (“fuse, kindle, blow together”), see -ate (verb-forming suffix)."
+},
+{
+"w": "cincture",
+"pos": "noun",
+"d": "A band of material around the waist that strengthens a skirt or trousers",
+"r": "Latin cinctūra; a doublet of ceinture",
+"s": "He appeared, wearing only sandals and a cincture of vine leaves, between two classical garden statues.",
+"old_f": [
+"A trickle of ink across the page that marks a scribe’s mistake",
+"A coat of plaster on the inside that protects a wall from damp",
+"A ring of trees around a field that shelters crops from the wind"
+],
+"ety": "Learned borrowing from Latin cinctūra. Cognate with Spanish cintura (“waist”). Doublet of ceinture."
+},
+{
+"w": "prosaic",
+"pos": "adjective",
+"d": "Not fanciful or imaginative",
+"r": "Medieval Latin prosaicus “in prose”, from Latin prosa “prose”",
+"s": "I was simply making the prosaic point that we are running late.",
+"old_f": [
+"Laid out in neat rows",
+"Covered in small tiles",
+"Fond of making speeches"
+],
+"ety": "From Middle French prosaïque, from Medieval Latin prosaicus (“in prose”), from Latin prosa (“prose”), from prorsus (“straightforward, in prose”), from Old Latin provorsus (“straight ahead”), from pro- (“forward”) + vorsus (“turned”), from vertō (“to turn”), from Proto-Indo-European *wer- (“to turn, to bend”)."
+},
+{
+"w": "piquant",
+"pos": "adjective",
+"d": "Having an agreeably pungent taste",
+"r": "Middle French piquant “pricking, stimulating”, from piquer",
+"s": "French charcuterie relies on cloves in the quatre épices, or four-spice powder, for seasoning fine sausages and piquant marinades.",
+"old_f": [
+"Having a deeply religious nature",
+"Having a pointed or spiked tip",
+"Having a pale or washed-out color"
+],
+"ety": "Borrowed from Middle French piquant (“pricking, stimulating, irritating”), present participle of piquer, possibly from Old French pikier (“to prick, sting, nettle”). Doublet of picong. Related to pike."
+},
+{
+"w": "soubrette",
+"pos": "noun",
+"d": "A pert or flirtatious young girl",
+"r": "French soubrette, from Occitan soubreta “coy”",
+"s": "It was exhilarating to see the baron come sailing in with a pair of soubrettes on his arm—each time a different pair.",
+"old_f": [
+"A sweet frozen dessert of fruit juice",
+"A small leather purse for coins",
+"A short sleeveless evening jacket"
+],
+"ety": "Borrowed from French soubrette, from Occitan soubreta (“coy”) (feminine of soubret), from soubra (Provençal sobrar), from Latin superare (“be above”)."
+},
+{
+"w": "zephyr",
+"pos": "noun",
+"d": "A slight wind (usually refreshing)",
+"r": "Latin zephyrus “west wind”, from Greek Zéphuros",
+"s": "Under the sweet sky and unmolested zephyr, casting its pleasant shadows along the edges of the grove.",
+"old_f": [
+"A sacred scroll (usually of law)",
+"A small finch (usually yellow)",
+"A tall spire (usually of stone)"
+],
+"ety": "From Latin zephyrus (“west wind”), from Ancient Greek Ζέφυρος (Zéphuros). Doublet of zefir, zéphire, Zephyr, and Zephyrus. The confectionery sense is a semantic loan from Russian зефи́р (zefír)."
+},
+{
+"w": "chiton",
+"pos": "noun",
+"d": "A woolen tunic worn by men and women in ancient Greece",
+"r": "Greek khitṓn “tunic”, from Semitic *kittan, from Akkadian kitû “flax, linen”",
+"s": "She wears a diaphanous himation that covers her torso, over a floor-length chiton of heavier fabric.",
+"old_f": [
+"A woven basket carried by women and girls in ancient Greece",
+"A flat cake eaten by soldiers and sailors in ancient Greece",
+"A painted vase used for oil and perfume in ancient Greece"
+],
+"ety": "From Ancient Greek χιτών (khitṓn, “tunic”), from a Central Semitic *kittan, from the Akkadian 𒌆𒃰 (kitû, literally “flax, linen”), from Sumerian 𒄑𒃰 (kitû [GIŠ.GADA])."
+},
+{
+"w": "lambent",
+"pos": "adjective",
+"d": "Softly bright or radiant",
+"r": "Latin lambēns, present participle of lambō “lick”",
+"s": "We appreciated her lambent comments.",
+"old_f": [
+"Curved like a ram’s horn",
+"Grieving loudly",
+"Limping slightly"
+],
+"ety": "From Latin lambēns, present participle of lambō (“lick”)."
+},
+{
+"w": "veracious",
+"pos": "adjective",
+"d": "Habitually speaking the truth",
+"r": "Latin vērāx “truthful”, from vērus “true”",
+"s": "Now there are two curious circumstances to be observed in this relation of my uncle's, who was, as I have said, a perfectly veracious man.",
+"old_f": [
+"Habitually eating too much",
+"Easily changing direction",
+"Fond of green plants"
+],
+"ety": "From Latin vērāx (“truthful”) + -acious, from vērus (“true”)."
+},
+{
+"w": "syzygy",
+"pos": "noun",
+"d": "The straight line configuration of 3 celestial bodies (as the sun and earth and moon) in a gravitational system",
+"r": "Late Latin sȳzygia “a conjunction”, from Greek suzugía “a union, a yoke, a pair”",
+"s": "The duration of an eclipse depends on the relative positions of the sun, moon, and earth in their syzygy.",
+"old_f": [
+"The circular path of a single planet (as the earth) around the sun over the course of one year",
+"The zigzag pattern of stitches (as in embroidery) used to join two pieces of cloth along a seam",
+"The paired yoke of oxen (as used in plowing) bound together by a single wooden beam"
+],
+"ety": "From Late Latin sȳzygia (“a conjunction”), from Ancient Greek συζυγία (suzugía, “a union, a yoke, a pair”). This word was recognized as English in 1847 (in its astronomical meaning)."
+},
+{
+"w": "noisome",
+"pos": "adjective",
+"d": "Causing or able to cause nausea",
+"r": "Middle English noysom: noy (short for annoy) + -some",
+"s": "The day's atmosphere is surcharged with noisome anxiety, the hours laden with impending terrors.",
+"old_f": [
+"Making or able to make loud sounds",
+"Gentle and soothing to the ear",
+"Strongly fond of new things"
+],
+"ety": "From Middle English noysom; equivalent to noy + -some (short for annoy, from an(n)oien, enoien from Anglo-Norman anuier, from Old French enuier (French ennuyer), from Late Latin inodiare, from in- (intensive prefix) + odium (“hate”))."
+},
+{
+"w": "ambrosial",
+"pos": "adjective",
+"d": "Extremely pleasing to the taste; sweet and fragrant",
+"r": "Ambrosia and Latin ambrosius + -al",
+"s": "By your lip’s ambrosial dew, By your soft and languid eye.",
+"old_f": [
+"Extremely clumsy in movement; awkward and heavy",
+"Slightly golden in color; like warm amber",
+"Faintly unclear in meaning; open to doubt"
+],
+"ety": "Partly from ambrosia and partly from Latin ambrosius, + -al."
+},
+{
+"w": "hoosegow",
+"pos": "noun",
+"d": "Slang for a jail",
+"r": "Informal Spanish juzgao, from juzgado “court, courthouse”",
+"s": "There's parts of Mexico they'd take you straight to the hoosegow for just whistlin that.",
+"old_f": [
+"Slang for a horse",
+"Slang for a saloon",
+"Slang for a cowboy"
+],
+"ety": "From informal spoken Spanish juzgao, variant of standard Spanish juzgado (“court, courthouse”). Alteration of pronunciation and spelling by law of Hobson-Jobson."
+},
+{
+"w": "balustrade",
+"pos": "noun",
+"d": "A railing at the side of a staircase or balcony to prevent people from falling",
+"r": "French balustrade, from Italian balaustrata “with balusters”",
+"s": "The Jester sat down on one of the marble balustrades and regarded Alvin with a curious intentness.",
+"old_f": [
+"A row of stone seats around the edge of a courtyard or garden to give people a place to rest",
+"A narrow walkway along the roof of a cathedral or castle used by guards to keep watch",
+"A glass partition at the side of a shop or office to keep out drafts and noise"
+],
+"ety": "Unadapted borrowing from French balustrade, from Italian balaustrata (“with balusters”), from balaustro (“baluster”), from balausta (“wild pomegranate flower”), via Latin balaustium, from Ancient Greek βαλαύστιον (balaústion), from Semitic, compare Classical Syriac ܒܠܳܨܳܐ (blāṣā, “pomegranate shoot”)). So named because of resemblance to the swelling form of the half-open pomegranate flower. Also see baluster."
+},
+{
+"w": "cockade",
+"pos": "noun",
+"d": "An ornament (such as a knot of ribbon or a rosette) usually worn on the hat",
+"r": "A partial calque of French cocarde",
+"s": "The escort were two mounted patriots in red caps and tri-coloured cockades.",
+"old_f": [
+"A loud call (such as a rooster’s crow or a hunting horn) usually heard at dawn",
+"A small cake (such as a sponge or a tart) usually served at a christening",
+"A light boat (such as a skiff or a punt) usually rowed on a lake"
+],
+"ety": "Partial calque of French cocarde."
+},
+{
+"w": "raiment",
+"pos": "noun",
+"d": "Especially fine or decorative clothing",
+"r": "Middle English arayment, from Anglo-Norman arraiement, from areer “to array”",
+"s": "We have entire schools dedicated to writing learned treatises on the beauty of the Emperor's raiment.",
+"old_f": [
+"A sudden attack by soldiers",
+"A long row of houses",
+"A heavy fall of rain"
+],
+"ety": "Aphetized from Middle English arayment, borrowed from Anglo-Norman arraiement and Old French areement, from areer (“to array”). See array."
+},
+{
+"w": "eschew",
+"pos": "verb",
+"d": "Avoid and stay away from deliberately; stay clear of",
+"r": "Anglo-Norman eschiver, from Frankish *skiuhijan “to dread, shun, avoid”; a doublet of skew",
+"s": "What cannot be eschew'd must be embrac'd.",
+"old_f": [
+"Chew slowly and carefully; grind with the back teeth",
+"Write out in full; copy into a fair hand",
+"Run away suddenly; escape from confinement"
+],
+"ety": "From Middle English eschewen, from Anglo-Norman eschiver, (third-person present eschiu), from Frankish *skiuhijan (“to dread, shun, avoid”); thus a doublet of skew. For the pronunciation with /ʃ/, compare the development of marshal from Middle English marschal (/marsˈt͡ʃaːl/) or Middle English myssheve, variant of myschef (“hardship”). Variants in /sk/ are either from unattested Middle English *eskewen (from Old Northern French eskiver; compare skew) or are spelling pronunciations. See also French esquiver."
+}
+]

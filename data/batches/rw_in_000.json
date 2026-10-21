@@ -1,0 +1,482 @@
+[
+{
+"w": "apricity",
+"pos": "noun",
+"d": "The warmth of the sun in winter",
+"r": "Latin apricus “warmed by the sun”",
+"s": "We ate lunch on the steps, soaking up the January apricity.",
+"old_f": [
+"The ripeness of fruit at its peak",
+"Sharpness of taste or tone",
+"The quality of being open and frank"
+]
+},
+{
+"w": "crapulent",
+"pos": "adjective",
+"d": "Sick from eating or drinking too much",
+"r": "Latin crapula “drunkenness,” from Greek kraipale “hangover”",
+"s": "Crapulent after the wedding feast, the guests barely made it to breakfast.",
+"old_f": [
+"Made of cheap, shoddy materials",
+"Covered in loose, flaky skin",
+"Prone to sudden fits of anger"
+]
+},
+{
+"w": "tergiversate",
+"pos": "verb",
+"d": "To make evasive or contradictory statements; to switch sides",
+"r": "Latin tergum “back” + vertere “to turn”",
+"s": "Pressed on the issue, the senator began to tergiversate, contradicting what he’d said a week earlier.",
+"old_f": [
+"To turn one’s back in contempt",
+"To write on both sides of a page",
+"To travel by a roundabout route"
+]
+},
+{
+"w": "vituperate",
+"pos": "verb",
+"d": "To blame or insult in harsh, abusive language",
+"r": "Latin vitium “fault” + parare “to prepare”",
+"s": "The critic used his column to vituperate the director for three full pages.",
+"old_f": [
+"To restore to full health",
+"To decay slowly from the inside",
+"To spread something thinly over a surface"
+]
+},
+{
+"w": "susurrus",
+"pos": "noun",
+"d": "A whispering or rustling sound",
+"r": "Latin susurrare “to whisper,” imitating the sound",
+"s": "The susurrus of the crowd faded as the lights went down.",
+"old_f": [
+"An undercurrent beneath calm water",
+"A choral piece sung without words",
+"A secret kept within a small group"
+]
+},
+{
+"w": "quidnunc",
+"pos": "noun",
+"d": "A nosy, gossipy person",
+"r": "Latin quid nunc? “what now?”",
+"s": "The office quidnunc knew about the merger before the board did.",
+"old_f": [
+"A legal technicality that voids a contract",
+"A person who delays every decision",
+"A small coin of very little value"
+]
+},
+{
+"w": "recalcitrant",
+"pos": "adjective",
+"d": "Stubbornly uncooperative toward authority",
+"r": "Latin re- “back” + calcitrare “to kick,” from calx “heel”",
+"s": "The recalcitrant mule refused to move another step.",
+"old_f": [
+"Quick to recover after an injury",
+"Recurring at regular intervals",
+"Containing too much calcium"
+]
+},
+{
+"w": "inveigle",
+"pos": "verb",
+"d": "To win someone over or get something through flattery or trickery",
+"r": "French aveugler “to blind,” from Latin ab- “without” + oculus “eye”",
+"s": "He tried to inveigle his way into the VIP lounge with a fake press badge.",
+"old_f": [
+"To speak out bitterly against something",
+"To wrap tightly in cloth",
+"To complain loudly and at length"
+]
+},
+{
+"w": "sangfroid",
+"pos": "noun",
+"d": "Composure under pressure",
+"r": "French sang “blood” + froid “cold”",
+"s": "The pilot landed on one engine with remarkable sangfroid.",
+"old_f": [
+"A chilled dessert of fruit and wine",
+"A sudden loss of blood",
+"A feud passed down through a family"
+]
+},
+{
+"w": "abstemious",
+"pos": "adjective",
+"d": "Moderate in eating and drinking",
+"r": "Latin abs- “away from” + temetum “strong drink”",
+"s": "An abstemious eater, he stopped after half a sandwich.",
+"old_f": [
+"Prone to absent-mindedness",
+"Cold and reserved toward others",
+"Extremely abstract in thought"
+]
+},
+{
+"w": "truculent",
+"pos": "adjective",
+"d": "Eager to fight or argue; aggressively defiant",
+"r": "Latin trux “fierce, savage”",
+"s": "The truculent bouncer squared up to anyone who looked at him twice.",
+"old_f": [
+"Cut short or shortened",
+"Moving slowly and heavily",
+"Prone to wandering off"
+]
+},
+{
+"w": "ultracrepidarian",
+"pos": "adjective",
+"d": "Giving opinions on matters beyond one’s knowledge",
+"r": "Latin ultra “beyond” + crepida “sandal”: the painter Apelles told a shoemaker not to judge above the sandal",
+"s": "The ultracrepidarian celebrity offered confident medical advice to millions of followers.",
+"old_f": [
+"Living past the edge of a known region",
+"Extremely cautious about every risk",
+"Deeply and permanently wrinkled"
+]
+},
+{
+"w": "hebetude",
+"pos": "noun",
+"d": "Mental dullness or sluggishness",
+"r": "Latin hebes “blunt, dull”",
+"s": "The heat wave left the whole office in a state of hebetude.",
+"old_f": [
+"The weekly cycle of work and rest",
+"Youthful vigor",
+"A state of religious devotion"
+]
+},
+{
+"w": "otiose",
+"pos": "adjective",
+"d": "Serving no practical purpose; pointless",
+"r": "Latin otium “leisure”",
+"s": "The editor cut every otiose adjective from the draft.",
+"old_f": [
+"Relating to the ear",
+"Oddly or irregularly shaped",
+"Peaceful and unhurried"
+]
+},
+{
+"w": "cachinnate",
+"pos": "verb",
+"d": "To laugh loudly and without restraint",
+"r": "Latin cachinnare, imitating loud laughter",
+"s": "The audience began to cachinnate so loudly that the actors had to pause.",
+"old_f": [
+"To hide something away for later",
+"To clear one’s throat noisily",
+"To crackle like burning wood"
+]
+},
+{
+"w": "pellucid",
+"pos": "adjective",
+"d": "Perfectly clear, in appearance or in meaning",
+"r": "Latin per “through” + lucere “to shine”",
+"s": "Her pellucid prose made a difficult subject easy to follow.",
+"old_f": [
+"Covered in a thin film",
+"Moving with a rolling motion",
+"Shining with an oily gleam"
+]
+},
+{
+"w": "ineffable",
+"pos": "adjective",
+"d": "Too great or extreme to be expressed in words",
+"r": "Latin in- “not” + effari “to speak out”",
+"s": "Standing at the canyon rim, they felt an ineffable sense of awe.",
+"old_f": [
+"Impossible to erase",
+"Impossible to influence",
+"Impossible to avoid"
+]
+},
+{
+"w": "fulminate",
+"pos": "verb",
+"d": "To protest or criticize loudly and angrily",
+"r": "Latin fulmen “lightning, thunderbolt”",
+"s": "Talk-show hosts kept fulminating against the new tax for weeks.",
+"old_f": [
+"To grow fungi on purpose",
+"To bring something to completion",
+"To fill to the brim"
+]
+},
+{
+"w": "salubrious",
+"pos": "adjective",
+"d": "Good for health; pleasant and wholesome",
+"r": "Latin salus “health”",
+"s": "The town advertised its salubrious mountain air to tired city dwellers.",
+"old_f": [
+"Indecent or lewd",
+"Salty in taste",
+"Inclined to drool"
+]
+},
+{
+"w": "nugatory",
+"pos": "adjective",
+"d": "Of no value or importance",
+"r": "Latin nugae “trifles, jokes”",
+"s": "The changes were nugatory; the contract said essentially the same thing.",
+"old_f": [
+"Relating to nuts",
+"Required by law",
+"Shaped like a small lump"
+]
+},
+{
+"w": "maladroit",
+"pos": "adjective",
+"d": "Clumsy or tactless",
+"r": "French mal “badly” + adroit “skillful,” from à droit “to the right”",
+"s": "His maladroit handling of the press conference made things worse.",
+"old_f": [
+"Badly ventilated",
+"Slightly unwell",
+"Morally corrupt"
+]
+},
+{
+"w": "tintinnabulation",
+"pos": "noun",
+"d": "A ringing or tinkling sound, as of bells",
+"r": "Latin tintinnabulum “bell,” from tintinnare “to ring”",
+"s": "The tintinnabulation of sleigh bells carried across the snow.",
+"old_f": [
+"The flicker of candlelight",
+"A tingling in the fingertips",
+"A rapid tapping of the feet"
+]
+},
+{
+"w": "velleity",
+"pos": "noun",
+"d": "A wish too faint to lead to any action",
+"r": "Latin velle “to wish”",
+"s": "Learning the cello remained a velleity; she never even bought one.",
+"old_f": [
+"The softness of a fabric like velvet",
+"Great speed",
+"A hollow in a hillside"
+]
+},
+{
+"w": "flibbertigibbet",
+"pos": "noun",
+"d": "A frivolous, flighty, or overly talkative person",
+"r": "Probably imitating the sound of chatter; once spelled “flepergebet”",
+"s": "Don’t tell that flibbertigibbet anything you want kept quiet.",
+"old_f": [
+"A small, cheap trinket",
+"A kind of whirling firework",
+"A loose thread on a garment"
+]
+},
+{
+"w": "animadversion",
+"pos": "noun",
+"d": "Criticism or censure",
+"r": "Latin animus “mind” + advertere “to turn toward”",
+"s": "The report drew sharp animadversion from the auditors.",
+"old_f": [
+"A strong dislike of animals",
+"A turning of the soul toward God",
+"A lively, animated spirit"
+]
+},
+{
+"w": "sedulous",
+"pos": "adjective",
+"d": "Showing steady dedication and diligence",
+"r": "Latin sedulus “zealous,” possibly from se dolo “without trickery”",
+"s": "Years of sedulous practice turned her into a concert pianist.",
+"old_f": [
+"Seductive in manner",
+"Calm and drowsy",
+"Fixed in one place"
+]
+},
+{
+"w": "prolix",
+"pos": "adjective",
+"d": "Using too many words; tediously long",
+"r": "Latin prolixus “stretched out,” from pro- “forth” + liquere “to flow”",
+"s": "The prolix memo could have been a single sentence.",
+"old_f": [
+"Producing many offspring",
+"Prepared well in advance",
+"Sticking out from a surface"
+]
+},
+{
+"w": "sough",
+"pos": "verb",
+"d": "(Of wind) To make a moaning, whistling, or rushing sound",
+"r": "Old English swogan “to resound”",
+"s": "Wind began to sough through the pines as the storm rolled in.",
+"old_f": [
+"To sink into soft, muddy ground",
+"To strain a liquid through cloth",
+"To scatter seed by hand"
+]
+},
+{
+"w": "perfidious",
+"pos": "adjective",
+"d": "Deceitful and untrustworthy",
+"r": "Latin per- “to ruin” + fides “faith”",
+"s": "In the play, the perfidious advisor sells the king’s secrets to his enemies.",
+"old_f": [
+"Perfectly loyal",
+"Easily pierced",
+"Lasting a very long time"
+]
+},
+{
+"w": "absquatulate",
+"pos": "verb",
+"d": "To leave suddenly; to run off",
+"r": "A mock-Latin joke word from 1830s America, blending ab- “away,” squat, and abscond",
+"s": "The treasurer absquatulated with the club’s savings the night before the audit.",
+"old_f": [
+"To sit back on one’s heels",
+"To flatten into a square",
+"To dissolve a business partnership"
+]
+},
+{
+"w": "bowdlerize",
+"pos": "verb",
+"d": "To remove material considered offensive from a text",
+"r": "From Thomas Bowdler, whose 1807 “family” Shakespeare cut the racy parts",
+"s": "The publisher decided to bowdlerize the memoir, cutting every swear word.",
+"old_f": [
+"To bend into a curve",
+"To bully people weaker than oneself",
+"To pad out with filler"
+]
+},
+{
+"w": "hirsute",
+"pos": "adjective",
+"d": "Hairy",
+"r": "Latin hirsutus “shaggy, bristly”",
+"s": "The hirsute drummer hadn’t shaved since the tour began.",
+"old_f": [
+"Rough-voiced",
+"Hired for a fee",
+"Stubborn"
+]
+},
+{
+"w": "fustigate",
+"pos": "verb",
+"d": "To beat with a stick; to criticize harshly",
+"r": "Latin fustis “club, stick”",
+"s": "The reviewer took to the paper to fustigate the novel’s lazy plotting.",
+"old_f": [
+"To grow musty",
+"To fuss over details",
+"To flee in a hurry"
+]
+},
+{
+"w": "ebullient",
+"pos": "adjective",
+"d": "Cheerful and full of energy",
+"r": "Latin e- “out” + bullire “to boil, bubble”",
+"s": "The ebullient host greeted every guest with a hug.",
+"old_f": [
+"Arrogant and boastful",
+"Ivory-colored",
+"Tending to dodge questions"
+]
+},
+{
+"w": "phlegmatic",
+"pos": "adjective",
+"d": "Calm and unemotional by temperament",
+"r": "Greek phlegma “phlegm,” one of the four humors, once thought to cause calmness",
+"s": "Even when the fire alarm went off, the phlegmatic librarian finished stamping the book.",
+"old_f": [
+"Prone to coughing fits",
+"Quick-tempered",
+"Flamboyant in dress"
+]
+},
+{
+"w": "cynosure",
+"pos": "noun",
+"d": "A person or thing that is the center of attention",
+"r": "Greek kynosoura “dog’s tail,” an old name for the constellation holding the North Star",
+"s": "The vintage car was the cynosure of the whole parade.",
+"old_f": [
+"A deeply cynical belief",
+"A shelter for stray dogs",
+"A remedy that cures nothing"
+]
+},
+{
+"w": "gallimaufry",
+"pos": "noun",
+"d": "A confused jumble or mixture",
+"r": "Middle French galimafrée, a stew of odds and ends",
+"s": "The attic held a gallimaufry of tennis rackets, love letters, and broken lamps.",
+"old_f": [
+"A boastful show of courage",
+"The cook on a sailing ship",
+"A lively country dance"
+]
+},
+{
+"w": "snollygoster",
+"pos": "noun",
+"d": "A shrewd, unprincipled person, especially a politician",
+"r": "19th-century American slang, possibly from Pennsylvania Dutch schnelle geeschter “quick spirits”",
+"s": "Voters were tired of the snollygoster who switched parties every election.",
+"old_f": [
+"A small sea snail",
+"A ghost said to haunt mills",
+"A dull, slow-witted person"
+]
+},
+{
+"w": "rodomontade",
+"pos": "noun",
+"d": "Boastful or inflated talk",
+"r": "From Rodomonte, a boastful king in Italian epic poems by Boiardo and Ariosto",
+"s": "Behind all the rodomontade, the boxer was nervous about the fight.",
+"old_f": [
+"A circular promenade",
+"A short comic opera",
+"A rope used to tow barges"
+]
+},
+{
+"w": "lucubration",
+"pos": "noun",
+"d": "Long, hard study, especially at night",
+"r": "Latin lucubrare “to work by lamplight,” from lux “light”",
+"s": "His thesis was the product of two years of lucubration.",
+"old_f": [
+"The oiling of machinery",
+"A clear, simple explanation",
+"A sudden flash of insight"
+]
+}
+]

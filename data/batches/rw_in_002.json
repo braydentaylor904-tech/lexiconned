@@ -1,0 +1,522 @@
+[
+{
+"w": "countenance",
+"pos": "noun",
+"d": "The appearance conveyed by a person’s face",
+"r": "Old French contenance, from contenir; a doublet of continence",
+"s": "And Cain was very wroth, and his countenance fell.",
+"old_f": [
+"The total sum of a household’s debts",
+"A formal record of votes cast in an election",
+"The rank or estate held by a count"
+],
+"ety": "From Middle English contenaunce, countenaunce, from Anglo-Norman countenance and Old French contenance, from the present participle of contenir, or from Late Latin continentia, and therefore a doublet of continence."
+},
+{
+"w": "torpor",
+"pos": "noun",
+"d": "A state of motor and mental inactivity with a partial suspension of sensibility",
+"r": "Latin torpor “numbness”, from torpeō “to be numb”",
+"s": "He fell into a deep torpor.",
+"old_f": [
+"A heavy iron tool used to twist and bend metal bars into shape",
+"A small round tower built at the corner of a castle wall",
+"A violent spinning wind that forms over warm coastal waters"
+],
+"ety": "From Latin torpor (“numbness”), from torpeō (“to be numb”)."
+},
+{
+"w": "freshet",
+"pos": "noun",
+"d": "The occurrence of a water flow resulting from sudden rain or melting snow",
+"r": "Old French freschete, a diminutive of fres “fresh”",
+"s": "Between the curbs and the snow banks a freshet of clear blue water rises.",
+"old_f": [
+"A young herring caught in early spring and eaten raw or lightly salted",
+"A small fan of feathers worn in the hat of a court official",
+"A light breeze that blows inland from the sea in the early morning"
+],
+"ety": "From Old French freschete, a diminutive of fres (“fresh”) via its feminine form fresche."
+},
+{
+"w": "stipple",
+"pos": "verb",
+"d": "Engrave by means of dots and flicks",
+"r": "Probably Dutch stippel “small dot”",
+"s": "Outside the car window was a glaze of darkness stippled with the gold of infrequent mysterious lights.",
+"old_f": [
+"Fasten together with small metal staples",
+"Climb a steep slope on hands and knees",
+"Cut a hedge into a decorative shape"
+],
+"ety": "Probably from Dutch stippel (“small dot”), originally applied to the dots themselves and later to the technique."
+},
+{
+"w": "ambulatory",
+"pos": "noun",
+"d": "A covered walkway (as in a cloister)",
+"r": "Latin ambulatorius; compare ambulate",
+"s": "It has an ambulatory and seven chapels.",
+"old_f": [
+"A horse-drawn cart for carrying the sick (as in wartime)",
+"A small open-air shrine (as at a crossroads)",
+"A portable writing desk (as used by clerks)"
+],
+"ety": "From Latin ambulatorius. By surface analysis, ambulate + -ory, or, by surface analysis, ambulator + -y."
+},
+{
+"w": "parley",
+"pos": "noun",
+"d": "A negotiation between enemies",
+"r": "Old French parler “to talk”, from Latin parabola “comparison”",
+"s": "We yield on parley, but are stormed in vain.",
+"old_f": [
+"A small drawing room",
+"A garnish of chopped herbs",
+"A quick, clever exchange of blows"
+],
+"ety": "From Middle English parlai (“speech, parley”), from Old French parler (“to talk; to speak”), from Late Latin parabolō, from Latin parabola (“comparison”), from Ancient Greek παραβολή (parabolḗ), from παρά (pará, “beside”) with βολή (bolḗ, “throwing”). Doublet of palaver."
+},
+{
+"w": "venial",
+"pos": "adjective",
+"d": "Warranting only temporal punishment",
+"r": "Late Latin veniālem “pardonable”, from Latin venia “forgiveness”",
+"s": "His venial youthful indiscretions.",
+"old_f": [
+"Relating to the veins",
+"Open to bribery",
+"Fit to be hunted"
+],
+"ety": "From Old French venial, borrowed from Late Latin veniālem (“pardonable”), from Latin venia (“forgiveness”)."
+},
+{
+"w": "panegyric",
+"pos": "noun",
+"d": "A formal expression of praise",
+"r": "French panégyrique, from Greek panēgurikós",
+"s": "His extravagant panegyrics, his curious reticences—he understood them all now.",
+"old_f": [
+"A sudden fit of widespread fear",
+"A cure claimed to work for every illness",
+"A long poem about country life"
+],
+"ety": "From French panégyrique, from Ancient Greek πανηγυρικός (panēgurikós)."
+},
+{
+"w": "discursive",
+"pos": "adjective",
+"d": "Proceeding to a conclusion by reason or argument rather than intuition",
+"r": "Medieval Latin discursivus; by surface analysis, discourse + -ive",
+"s": "This means, at times, long and perhaps overly discursive discussions of other taxa.",
+"old_f": [
+"Tending to discourage others by constant criticism rather than advice",
+"Proceeding in short bursts of activity rather than steady effort",
+"Relating to the running of races over long, uneven courses"
+],
+"ety": "Borrowed from Middle French discursif, formed from the stem of Latin discursus and the suffix -if, and in part borrowed from Medieval Latin discursivus. By surface analysis, discourse + -ive."
+},
+{
+"w": "janissary",
+"pos": "noun",
+"d": "A loyal supporter",
+"r": "Ottoman Turkish yeñiçeri, from yeñi “new” + çeri “soldier”",
+"s": "Every politician has a following of janissaries.",
+"old_f": [
+"A church caretaker",
+"A winter festival",
+"A two-faced schemer"
+],
+"ety": "] From Italian giannizzaro, possibly via Middle French ianissaire or Spanish jenízaro, from Ottoman Turkish یڭیچری (yeñiçeri) (whence Modern Turkish yeniçeri), from یڭی (yeñi, “new”) + چری (çeri, “soldier”). Compare Dutch janitsaar, German Janitschar. The word is attested from the early 16th century in English; the janissaries themselves date from the 14th century."
+},
+{
+"w": "levity",
+"pos": "noun",
+"d": "Feeling an inappropriate lack of seriousness",
+"r": "Latin levitās “lightness, frivolity”, from levis “light (in weight)”",
+"s": "An attempt to inject a little levity into the proceedings.",
+"old_f": [
+"A tax collected on goods carried by river",
+"A formal gathering held in the morning",
+"The level ground beside a river"
+],
+"ety": "Coined in 1564, from Latin levitās (“lightness, frivolity”), from levis (“lightness (in weight)”). Cognate to lever, and more distantly, light."
+},
+{
+"w": "lenticular",
+"pos": "adjective",
+"d": "Convex on both sides; shaped like a lentil",
+"r": "Medieval Latin lenticulāris “lentil-shaped”, from Latin lēns “lentil”",
+"s": "But establishment on the fringes of everyday practice doesn't mean lenticular photography is a failure.",
+"old_f": [
+"Slow and deliberate; given to long pauses",
+"Relating to the forty days before Easter; solemn",
+"Loose and flowing; draped in soft folds"
+],
+"ety": "Inherited from Middle English lenticular, lenticuler, borrowed from Medieval Latin lenticulāris (“lentil-shaped”), from Latin lenticula, from lēns + -cula, ultimately from Latin lēns (“lentil”)."
+},
+{
+"w": "expropriate",
+"pos": "verb",
+"d": "Deprive of possessions",
+"r": "Medieval Latin expropriātus",
+"s": "When you have resigned, or rather consigned, your expropriated will to God.",
+"old_f": [
+"Make fitting or proper",
+"Express formal regret",
+"Move to another country"
+],
+"ety": "From Medieval Latin expropriātus."
+},
+{
+"w": "uxorious",
+"pos": "adjective",
+"d": "Foolishly fond of or submissive to your wife",
+"r": "Latin uxōrius “of a wife”, from uxor “wife”",
+"s": "In truth, Richard was a fond—almost an uxorious husband.",
+"old_f": [
+"Given to lavish spending on fine clothes and jewels",
+"Having the sweet, heavy smell of ripe fruit",
+"Prone to sudden fits of jealousy over small matters"
+],
+"ety": "Borrowed from Latin uxōrius (“of or pertaining to a wife”), from uxor (“wife”) + -ious."
+},
+{
+"w": "apropos",
+"pos": "adjective",
+"d": "Of an appropriate or pertinent nature",
+"r": "French à propos “on that subject”",
+"s": "It's as apropos for a first date as a business dinner.",
+"old_f": [
+"Of an uncertain or doubtful origin",
+"Of a sudden and unexpected nature",
+"Of a rough or unfinished nature"
+],
+"ety": "Borrowed from French à propos (“on that subject”). Similar in meaning and form, and to some extent etymology, to appropriate, but not a doublet of it."
+},
+{
+"w": "pergola",
+"pos": "noun",
+"d": "A framework that supports climbing plants",
+"r": "Italian pergola, from Latin pergula",
+"s": "Only a pergola will stand naked as a piece of architecture.",
+"old_f": [
+"A long, narrow boat used on canals",
+"A stone basin for holy water",
+"A lively folk dance in triple time"
+],
+"ety": "Borrowed from Italian pergola, from Latin pergula."
+},
+{
+"w": "augury",
+"pos": "noun",
+"d": "An event that is experienced as indicating important things to come",
+"r": "Latin augurium; compare augur",
+"s": "That was considered to be a good thing in itself and an augury for future prosperity.",
+"old_f": [
+"A tool with a spiral blade that is used for boring holes in wood",
+"A heated argument that is settled by the vote of a village council",
+"A feeling of mild irritation that is caused by repeated small delays"
+],
+"ety": "From augur + -y, or from Middle English augurie, from Old French augurie, from Latin augurium."
+},
+{
+"w": "servitor",
+"pos": "noun",
+"d": "Someone who performs the duties of an attendant for someone else",
+"r": "Latin servītor, from servīre “to serve”",
+"s": "You'll find no sizars here, or servitors.",
+"old_f": [
+"Someone who supervises the planting and cutting of a large forest",
+"Someone who keeps the official records of a court or council",
+"Someone who travels between towns selling medicines and charms"
+],
+"ety": "From Middle English servitour, borrowed from Latin servītor, from servīre (“to serve”)."
+},
+{
+"w": "paltry",
+"pos": "adjective",
+"d": "Not worth considering",
+"r": "Middle Low German paltrig “ragged, rubbishy, worthless”",
+"s": "Could someone hope to survive on such a paltry income?",
+"old_f": [
+"Pale and sickly",
+"Fond of poultry",
+"Rich in salt"
+],
+"ety": "From Middle Low German paltrig (“ragged, rubbishy, worthless”), from palter, palte (“cloth, rag, shred”), from Old Saxon *paltro, *palto (“cloth, rag”), from Proto-Germanic *paltrô, *paltô (“scrap, rag, patch”). Of uncertain ultimate origin, but perhaps from Proto-Indo-European *polto- (“cloth”), see also Proto-Slavic *poltьno (“linen”). Cognate with Low German palterig (“ragged, torn”), dialectal German palterig (“paltry”). Compare also Low German palte (“rag”), West Frisian palt (“rag”), Saterland Frisian Palte (“strip; band; tape”), dialectal German Palter (“rag”), Danish pjalt (“rag, tatte"
+},
+{
+"w": "brindled",
+"pos": "adjective",
+"d": "Having a grey or brown streak or a pattern or a patchy coloring; used especially of the patterned fur of cats",
+"r": "An alteration of brinded, probably by association with speckled, grizzled, etc.",
+"s": "His great brindled beard stuck upwards in his agony.",
+"old_f": [
+"Having the edges trimmed with a narrow strip of leather or braid; used especially of bridles and harness",
+"Having been soaked in salt water for a long time; used especially of meat preserved for sea voyages",
+"Having a short, stiff, bristly coat that stands on end; used especially of terriers and wild boars"
+],
+"ety": "An alteration of brinded, probably by association with speckled, grizzled etc."
+},
+{
+"w": "sumptuary",
+"pos": "adjective",
+"d": "Regulating or controlling expenditure or personal behavior",
+"r": "Latin sūmptuārius “of expenditure”, from sūmptus “charge, cost, expense”",
+"s": "Sumptuary laws discouraging construction of large houses on small plots.",
+"old_f": [
+"Relating to grand or lavish feasts held at court",
+"Relating to the summer months and their festivals",
+"Serving to suppose or presume without proof"
+],
+"ety": "From Latin sūmptuārius (“of or relating to expenditure, sumptuary; person in charge of household expenses”) + English -ary (suffix meaning ‘of or pertaining to’ forming adjectives). Sūmptuārius is derived from sūmptus (“charge, cost, expense”) + -ārius (suffix forming adjectives); and sūmptus from sūmō (“to catch, seize, take; to acquire, get, obtain; to apply, employ, use; to consume, spend”) (from sub- (prefix meaning ‘below, beneath, under’) + emō (“to acquire, procure; to buy, purchase”) (from Proto-Indo-European *h₁em- (“to distribute; to take”))) + -tus (suffix forming action nouns from "
+},
+{
+"w": "aghast",
+"pos": "adjective",
+"d": "Struck with fear, dread, or consternation",
+"r": "Middle English agast, past participle of agasten “to terrify”",
+"s": "I was aghast when the incident unfolded in front of me.",
+"old_f": [
+"Breathing in short, rapid gasps",
+"Pale as a ghost from illness",
+"Standing wide open, as a door"
+],
+"ety": "From Middle English agast, agasted, past participle of agasten (“to terrify”), from Old English a- (compare with Gothic 𐌿𐍃- (us-), German er-, originally meaning \"out\") + gæstan (“to terrify, torment”): compare Gothic 𐌿𐍃𐌲𐌰𐌹𐍃𐌾𐌰𐌽 (usgaisjan, “to terrify”, literally “to fix, to root to the spot with terror”); akin to Latin haerere (“to stick fast, cling”). By surface analysis, a- + ghast/gast. See gaze."
+},
+{
+"w": "discombobulate",
+"pos": "verb",
+"d": "Cause to be confused emotionally",
+"r": "A fanciful variant of discompose or discomfit, first attested in the US in 1834",
+"s": "The notes zigzag in his pieces and discombobulate the ear, just as in 12-tone works.",
+"old_f": [
+"Take apart a machine piece by piece",
+"Remove the seeds from fruit",
+"Sort cards into mismatched pairs"
+],
+"ety": "Fanciful variant of discompose, discomfit, etc., originally discombobricate. The -bob- interfix may come from bobbery, meaning “commotion, noise”. First attested in 1834 in the United States."
+},
+{
+"w": "privation",
+"pos": "noun",
+"d": "A state of extreme poverty",
+"r": "Latin prīvātiō; see private",
+"s": "Mr. McCarthy wrote for many years in relative obscurity and privation.",
+"old_f": [
+"A room set aside for prayer",
+"The right to act without permission",
+"A secret agreement between two rulers"
+],
+"ety": "Inherited from Middle English privacioun, from Middle French privation, privacion, from Old French privacion, from Latin prīvātiō; compare French privation. See private."
+},
+{
+"w": "brigandine",
+"pos": "noun",
+"d": "A medieval coat of chain mail consisting of metal rings sewn onto leather or cloth",
+"r": "Old French brigandine, from brigand + -ine",
+"s": "Furbish the spears, and put on the brigandines.",
+"old_f": [
+"A small two-masted sailing ship used by pirates of the Mediterranean in the sixteenth century",
+"A highly spiced sausage of minced pork and garlic eaten by travelling soldiers",
+"A lively song sung by bandits around a campfire before a raid"
+],
+"ety": "From Middle English brigandyn, brigantien, attested by 1456 (eventually displacing the slightly earlier synonym brigander), from Old French brigandine, from brigand + -ine."
+},
+{
+"w": "roister",
+"pos": "verb",
+"d": "Engage in boisterous, drunken merrymaking",
+"r": "Old French rustre, from Latin rusticus; a doublet of rustic",
+"s": "He loved Rick and gave the best years of his life, now to roistering with him.",
+"old_f": [
+"Sit on a perch to sleep",
+"Cook slowly over an open flame",
+"List names on an official roll"
+],
+"ety": "From Old French rustre, from Latin rusticus. Doublet of rustic."
+},
+{
+"w": "bestiary",
+"pos": "noun",
+"d": "A medieval book (usually illustrated) with allegorical and amusing descriptions of real and fabled animals",
+"r": "Medieval Latin bēstiārium, from Latin bēstia “beast, animal”",
+"s": "As his valediction, he has left us a bestiary of ugly Australians.",
+"old_f": [
+"A medieval prize (usually a gold cup) awarded to the finest knight at a tournament",
+"A medieval cage (usually iron) in which wild animals were displayed at fairs",
+"A medieval song (usually comic) about the rivalry between two neighboring villages"
+],
+"ety": "Borrowed from Medieval Latin bēstiārium, from Latin bēstia (“beast, animal”). By surface analysis, beast + -ary."
+},
+{
+"w": "hobnob",
+"pos": "verb",
+"d": "Rub elbows with",
+"r": "Hob or nob, a phrase spoken when taking turns toasting",
+"s": "His favorite spot in the club was the bar, where he could hobnob with the big-wigs.",
+"old_f": [
+"Walk with a limp",
+"Nail boots with studs",
+"Doze by the fire"
+],
+"ety": "From hob and nob, hob or nob (“a phrase spoken when making a toast, possibly meaning ‘give and take’; to take turns toasting or buying rounds of drinks”) (archaic), from dialectal hab nab (“to have or have not, in the sense of an invitation to have a drink”), from Old English habban (“to have, possess”) (ultimately from Proto-Indo-European *kap- (“to grab, seize”)) + nabban (“to not have”) (from ne (ultimately from Proto-Indo-European *né (“not”)) + habban)."
+},
+{
+"w": "puffery",
+"pos": "noun",
+"d": "A flattering commendation (especially when used for promotional purposes)",
+"r": "Puff + -ery",
+"s": "Harvest was promptly pegged as a \"lite\" group, a purveyor of pop puffery.",
+"old_f": [
+"A light pastry (especially when filled with cream or jam)",
+"A short, shallow breath (especially when caused by running)",
+"A decorative sleeve (especially when gathered at the shoulder)"
+],
+"ety": "From puff + -ery."
+},
+{
+"w": "harangue",
+"pos": "noun",
+"d": "A loud bombastic declamation expressed with strong emotion",
+"r": "Old Italian aringa, from aringo “public assembly”",
+"s": "She gave her son a harangue about the dangers of playing in the street.",
+"old_f": [
+"A small dried fish sold in markets along the coast",
+"A narrow mountain path along the edge of a cliff",
+"A heavy wooden barn door that slides along a rail"
+],
+"ety": "From Middle English arang and French harangue, from Old Italian aringa (modern Italian arringa) from aringare (“speak in public”) (modern Italian arringare), from aringo (“public assembly”), from Gothic *𐌷𐍂𐌹𐌲𐌲𐍃 (*hriggs) or a compound containing it, akin to Old High German hring (“ring”) (whence German Ring). Doublet of range, rank, ring, and rink."
+},
+{
+"w": "fructify",
+"pos": "verb",
+"d": "Become productive or fruitful",
+"r": "Old French fructefier",
+"s": "He slew the Bull (symbol of the gross Earth which the sunlight fructifies).",
+"old_f": [
+"Become bitter or sour",
+"Make a noise of frustration",
+"Break into small fragments"
+],
+"ety": "Borrowed into Middle English from Old French fructefier."
+},
+{
+"w": "snaffle",
+"pos": "noun",
+"d": "A simple jointed bit for a horse; without a curb",
+"r": "Probably Dutch snavel “snout”",
+"s": "She will stand nothing heavier than a snaffle.",
+"old_f": [
+"A small sniffing sound made by a cold or tired horse; often heard in stables",
+"A short-handled shovel for clearing stalls; often made of wood",
+"A leather strap that holds a saddle in place; without a buckle"
+],
+"ety": "Apparently from Dutch snavel, from Middle Dutch snavel, snabel (“snout”), diminutive of Middle Dutch snabbe, snebbe (“bird's bill, neb”). Akin to Old Frisian snavel (“mouth”), Middle Low German snabbe (“neb, beak”), Old English nebb (“beak, bill, nose, face”). More at neb."
+},
+{
+"w": "bunkum",
+"pos": "noun",
+"d": "Unacceptable behavior (especially ludicrously false statements)",
+"r": "Buncombe, from “speaking for Buncombe County, North Carolina”",
+"s": "The part of that word to focus on is bunk, short for bunkum.",
+"old_f": [
+"A narrow bed (especially on board a ship)",
+"A coal bin (especially one on a steam engine)",
+"A small loaf (especially one baked with spices)"
+],
+"ety": "From buncombe, from “speaking to (or for) Buncombe County, North Carolina”, a county in North Carolina named for Edward Buncombe. In 1820, Felix Walker, who represented the county in the U.S. House of Representatives, rose to address the question of admitting Missouri as a free or slave state, his first attempt to speak on the subject after nearly a month of solid debate, right before the vote was to be called. To the exasperation of colleagues, he began a long and wearisome speech, explaining that he was speaking not to Congress but \"to Buncombe.\" He was ultimately shouted down by his colleag"
+},
+{
+"w": "aflutter",
+"pos": "adjective",
+"d": "Excited in anticipation",
+"r": "A- + flutter",
+"s": "Once inside the house, everything was aflutter until I was safe and sound.",
+"old_f": [
+"Afloat on calm water",
+"Slightly drunk",
+"Covered in loose feathers"
+],
+"ety": "From a- + flutter-."
+},
+{
+"w": "cockatrice",
+"pos": "noun",
+"d": "Monster hatched by a reptile from a cock’s egg; able to kill with a glance",
+"r": "Old French cocatriz “basilisk”, from Late Latin calcātrīx “female trampler”",
+"s": "The child, if it will, may harmlessly put its hand into the cockatrice’s den.",
+"old_f": [
+"A small bird kept to wake sleepers at dawn; common in medieval monasteries",
+"A weathervane shaped like a crowing bird; used on church steeples across Europe",
+"A tall plumed helmet worn by heralds; decorated with tail feathers"
+],
+"ety": "From Middle English cocatrice, from Old French cocatriz (“basilisk, cockatrice”), from Late Latin calcātrīx (“female trampler, treader”), from Latin calcāre (“to trample, to walk upon, to oppress”) + -trīx (“-ess: forming feminine agentives”), from calx (“heel”). Its eventual association with poultry influenced by cock (“rooster, male chicken”), q.v."
+},
+{
+"w": "arraign",
+"pos": "verb",
+"d": "Call before a court to answer an indictment",
+"r": "Old French araisnier “to speak to, address; accuse in a law court”",
+"s": "He was arraigned in Washington, D.C., on the 25th of that month on charges of treason.",
+"old_f": [
+"Put flowers or ribbons in a pleasing order",
+"Drain water from a field by digging ditches",
+"Pay back a debt in regular installments"
+],
+"ety": "From Middle English areynen (“to interrogate, arraign, reprimand”), from Anglo-Norman areiner, arener, from Old French araisnier, areisnier, aresnier (“to speak to, address; accuse (in a law court)”) (whence modern French arraisonner (“to verify cargo, to arraign”)), from Vulgar Latin *arratiōnāre, from Latin adratiōnāre, from ad (“to”) + *ratiōnāre (“to reason, talk reasonably, talk”), from ratiō (“reason, reasoning, discourse”), from rat-, past-participle stem of rērī (“to reckon, calculate”). First attested in the late 14th century. Doublet of areason. About the -g- within the word, Etymonl"
+},
+{
+"w": "foppish",
+"pos": "adjective",
+"d": "Affecting extreme elegance in dress and manner",
+"r": "Fop + -ish",
+"s": "They talked a delicate and elastic Arabic, and were mannered, often foppish, in habit.",
+"old_f": [
+"Falling or flopping loosely to one side",
+"Smelling faintly of damp wool",
+"Tending to stumble over one’s words"
+],
+"ety": "From fop + -ish."
+},
+{
+"w": "ebullition",
+"pos": "noun",
+"d": "An unrestrained expression of emotion",
+"r": "Latin ēbullītiō, from ēbulliō “to boil”",
+"s": "His severe exclamations were but ebullitions of keen vexation, of agony of mind.",
+"old_f": [
+"The casting of bronze church bells",
+"A formal decree issued by a pope",
+"The clearing of rubble from a site"
+],
+"ety": "From Old French ebullition, from Latin ēbullītiō, from ēbulliō (“to boil”)."
+},
+{
+"w": "milliner",
+"pos": "noun",
+"d": "Someone who makes and sells hats",
+"r": "Milaner “native of Milan”, after goods imported from Milan",
+"s": "In the 1880s, milliners decorated hats with entire stuffed birds.",
+"old_f": [
+"Someone who grinds grain into flour",
+"Someone who counts in thousands",
+"Someone who collects mileage tolls"
+],
+"ety": "The noun is a variant of Milaner (“(obsolete) inhabitant or native of Milan”) (referring to the importation and sale of women’s apparel, etc., made in Milan: see noun sense 1), from Late Middle English Milener, Miloner (“native of Milan”), from Milan + -er(e) (suffix denoting an inhabitant or resident). The verb is derived from the noun."
+},
+{
+"w": "convivial",
+"pos": "adjective",
+"d": "Occupied with or fond of the pleasures of good company",
+"r": "Latin convīvium “a feast”, from con- “together” + vīvō “to live”",
+"s": "My grandpa was famously convivial.",
+"old_f": [
+"Occupied with or fond of arguing for the sake of it",
+"Certain of one’s own rightness beyond all reason",
+"Given to recovering slowly from illness or injury"
+],
+"ety": "Borrowed from French convivial, from Latin convīvium (“a feast”), combined form of con- (“together”) + vīvō (“to live”)."
+}
+]

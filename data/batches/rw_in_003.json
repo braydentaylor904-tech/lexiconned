@@ -1,0 +1,522 @@
+[
+{
+"w": "litany",
+"pos": "noun",
+"d": "Any long and tedious address or recital",
+"r": "Greek litaneía “prayer”, from litḗ “prayer, entreaty”",
+"s": "Some differences in how the candidates propose addressing this litany of concerns.",
+"old_f": [
+"A light, open carriage drawn by two horses",
+"A small bundle of dried herbs",
+"A thin layer of fine sediment"
+],
+"ety": "From Middle English, from Old French letanie, from Latin litania, from Ancient Greek λιτανεία (litaneía, “prayer”), from λιτή (litḗ, “prayer, entreaty”)."
+},
+{
+"w": "didactic",
+"pos": "adjective",
+"d": "Instructive (especially excessively)",
+"r": "Greek didaktikós “skilled in teaching”, from didáskō “to teach”",
+"s": "The finest didactic poem in any language.",
+"old_f": [
+"Two-fingered (especially in birds)",
+"Rhythmic (especially in verse)",
+"Unwritten (especially of laws)"
+],
+"ety": "From French didactique, from Ancient Greek διδακτικός (didaktikós, “skilled in teaching”), from διδακτός (didaktós, “taught, learnt”), from διδάσκω (didáskō, “to teach, educate”). By surface analysis, didact + -ic."
+},
+{
+"w": "coterminous",
+"pos": "adjective",
+"d": "Being of equal extent or scope or duration",
+"r": "Latin conterminus, from con- “with” + terminus “border, end”",
+"s": "New York's borough of Brooklyn and Kings County are coterminous.",
+"old_f": [
+"Being shared equally by two or more owners",
+"Being formally ended by mutual agreement",
+"Being of mixed or uncertain parentage"
+],
+"ety": "From Latin conterminus, from con- (“with”) + terminus (“border, end”), equivalent to co- + terminous. The spelling with co- instead of con- is probably influenced by the related prefix co-."
+},
+{
+"w": "bamboozle",
+"pos": "verb",
+"d": "Conceal one’s true motives from especially by elaborately feigning good intentions so as to gain an end",
+"r": "17th-century bam “to trick, to con”; possibly from French embobiner",
+"s": "He's completely bamboozled by the changes in the computer system.",
+"old_f": [
+"Bind or splint a broken limb using strips of cane especially in places where proper medical supplies are scarce",
+"Dance in a wild and clumsy way especially at weddings and other noisy public celebrations",
+"Sell goods from door to door especially by loudly praising their quality in order to attract a crowd"
+],
+"ety": "Derivative of 17th-century vernacular bam (“to trick, to con”), which is a derivative of bam in noun use (fraudster, cheat). Possibly from French embobiner."
+},
+{
+"w": "innumerate",
+"pos": "adjective",
+"d": "Lacking knowledge and understanding of mathematical concepts and methods",
+"r": "In- + numerate",
+"s": "The worry is that we, as a society, will become innumerate, not just illiterate.",
+"old_f": [
+"Lacking a fixed number or limit and therefore impossible to count",
+"Lacking any permanent home and moving between places",
+"Lacking the patience required for detailed or careful work"
+],
+"ety": "From in- + numerate."
+},
+{
+"w": "portent",
+"pos": "noun",
+"d": "A sign of something about to happen",
+"r": "Latin portentum, from portendō “to predict, to foretell”",
+"s": "It was a portent of things to come.",
+"old_f": [
+"A small gate in a city wall",
+"A heavy load carried on the back",
+"A stout ale brewed with roasted barley"
+],
+"ety": "Borrowed from Latin portentum, participle of portendere, from portendō (“to predict, to foretell”)."
+},
+{
+"w": "argillaceous",
+"pos": "adjective",
+"d": "Resembling or containing clay",
+"r": "Latin argilla “clay”, from Greek argós “white”",
+"s": "The fine-grained argillaceous rocks, here, not purple or grey, but green of living stone.",
+"old_f": [
+"Prone to quarrel",
+"Silvery in color",
+"Resembling a small shell"
+],
+"ety": "From Latin argillaceus, from argilla (“clay”), from Ancient Greek ἄργιλλος (árgillos, “white clay, potter's earth”), from ἀργός (argós, “white”)."
+},
+{
+"w": "felicitous",
+"pos": "adjective",
+"d": "Exhibiting an agreeably appropriate manner or style",
+"r": "Felicity + -ous",
+"s": "This sentence is grammatical; it is just not felicitous.",
+"old_f": [
+"Having the soft, rounded look of a cat",
+"Inclined to commit petty crimes",
+"Rich in ferns and mosses"
+],
+"ety": "From felicity + -ous."
+},
+{
+"w": "musher",
+"pos": "noun",
+"d": "A traveler who drives (or travels with) a dog team",
+"r": "Mush “to drive dogs across snow”, probably from French marche or marchons",
+"s": "A sled dog learns that by the time she's hungry, her musher has already prepared a meal.",
+"old_f": [
+"A cook who prepares porridge (or gruel) for a ship’s crew",
+"A gardener who grows edible fungi in dark cellars (or caves)",
+"A dancer who stamps (or slides) through soft mud at harvest festivals"
+],
+"ety": "From mush (“to drive dogs, usually pulling a sled, across snow”) + -er (suffix forming agent nouns). Mush is probably derived from French marche or marchons, respectively the second-person singular and first-person plural imperative forms of marcher (“to move; to travel; to walk”), from Proto-Germanic *markōną (“to mark; to notice”), from *marką (“mark; sign; stamp”), possibly related to *markō (“border, boundary; area, region”), ultimately from Proto-Indo-European *merǵ- (“(noun) border, boundary, edge; (verb) to divide”)."
+},
+{
+"w": "obverse",
+"pos": "noun",
+"d": "The more conspicuous of two alternatives or cases or sides",
+"r": "Latin obversus, 1650s",
+"s": "The medal had a cross on the obverse and had a name inscribed on the reverse.",
+"old_f": [
+"The final verse of a hymn, sung by the whole congregation",
+"The less obvious of two possible readings of a text",
+"A formal objection raised against a ruling in court"
+],
+"ety": "From Latin obversus, 1650s."
+},
+{
+"w": "cabriolet",
+"pos": "noun",
+"d": "Small two-wheeled horse-drawn carriage; with two seats and a folding hood",
+"r": "French cabriolet",
+"s": "Louisa, who had been watching the cabriolet down the street.",
+"old_f": [
+"Small round cheese made from goat’s milk; with a rind of ash",
+"Short leap in a lively dance; with the heels clicked together in midair",
+"Small wooden cabinet for holding wine; with carved legs and a marble top"
+],
+"ety": "Borrowed from French cabriolet."
+},
+{
+"w": "blithesome",
+"pos": "adjective",
+"d": "Carefree and happy and lighthearted",
+"r": "Blithe + -some",
+"s": "She made herself as blithesome as a lark.",
+"old_f": [
+"Bent and twisted by long disease",
+"Covered in a dull mildew",
+"Fond of bitter gossip"
+],
+"ety": "From blithe + -some."
+},
+{
+"w": "splendiferous",
+"pos": "adjective",
+"d": "Having great beauty and splendor",
+"r": "Late Latin splendōrifer, from splendor + -fer “bearing”; revived humorously c. 1837",
+"s": "Hey boss, did you ever see a more splendiferous crash?",
+"old_f": [
+"Having a forked or split tail",
+"Bearing many thorns or spikes",
+"Having a sweet, buttery taste"
+],
+"ety": "From Middle English splendiferous, from Medieval Latin splendiferus + -ous, from Late Latin splendōrifer, from Latin splendor + -fer (“bearing”). Reintroduced humorously into English c. 1837."
+},
+{
+"w": "credenza",
+"pos": "noun",
+"d": "A kind of sideboard or buffet",
+"r": "Italian credenza; a doublet of credence",
+"s": "A recessed top story containing a cupboard was added to many credenze in the 16th cent.",
+"old_f": [
+"A kind of sacred chant",
+"A kind of sweet bread",
+"A kind of formal vow"
+],
+"ety": "Borrowed from Italian credenza. Doublet of credence."
+},
+{
+"w": "chagrin",
+"pos": "noun",
+"d": "Strong feelings of embarrassment",
+"r": "French chagrin “sorrow”, from Middle French “pain, affliction”",
+"s": "To the chagrin of Rose, one of the younger women, Ginger, has never even learned to make perogi.",
+"old_f": [
+"A coarse woollen fabric",
+"A scraping sound of gravel",
+"A burnt crust of bread"
+],
+"ety": "From French chagrin (“sorrow”), from Middle French chagrin (“pain, affliction”) (compare Middle French chagriner, chagrigner (“to experience sorrow”), Old French chagrin (“painful, afflicted”)), probably derived from Old Northern French chagreiner, chagraigner (“to sadden”), of uncertain origin. Likely an enlargement of Old French greignier, graignier (“to cringe, growl, be sullen, be angry, grieve over”), from Old French graigne (“sadness, resentment, grief”), from graim (“sorrowful”), related to Old High German gram (“furious, gloomy, grieved”). The initial syllable is obscure. It may repres"
+},
+{
+"w": "culvert",
+"pos": "noun",
+"d": "A transverse and totally enclosed drain under a road or railway",
+"r": "Origin obscure; possibly from French couvert “covered”",
+"s": "A raft of twigs stayed upon a stone, suddenly detached itself, and floated towards the culvert.",
+"old_f": [
+"A hidden and heavily guarded room inside a castle keep",
+"A narrow and steeply sloping path beside a river",
+"A small and secretly printed newspaper of the opposition"
+],
+"ety": "Origin obscure, with a number of possible etymologies suggested: * a dialectal word, * a word related to the name of the now-forgotten inventor, * a derivation from French couvert (“covered”), although couvert is not used in this sense and the French translation of culvert is ponceau or buse de drainage, * a derivation from an unrecorded Dutch word, possibly *coul-vaart, a combination of Dutch coul-, from French couler (“to flow”), and Dutch vaart (“a trip by boat, a canal”)."
+},
+{
+"w": "contravene",
+"pos": "verb",
+"d": "Go against, as of rules and laws",
+"r": "Latin contraveniō",
+"s": "That the detention of the troops was a wise measure, is not to be contravened.",
+"old_f": [
+"Call together, as of a council or court",
+"Travel across, as of a river by ferry",
+"Bring back, as of a lost possession"
+],
+"ety": "From Middle French contravenir (French contrevenir), from Latin contraveniō."
+},
+{
+"w": "estival",
+"pos": "adjective",
+"d": "Of or occurring in summer",
+"r": "Old French estival, from Latin aestivalis",
+"s": "The sky was a burnished aestival blue.",
+"old_f": [
+"Of or relating to fairs",
+"Of or relating to wills",
+"Of or occurring at dusk"
+],
+"ety": "From Middle English estival, from Old French estival, from Latin aestivalis."
+},
+{
+"w": "surcoat",
+"pos": "noun",
+"d": "A loose outer coat usually of rich material",
+"r": "Old French surcote, from sur “over” + cote “coat”",
+"s": "The Lord mayor and sheriff ride in their armour with surcoats of crimson.",
+"old_f": [
+"A thick layer of sugar on a cake",
+"A heavy blanket placed under a saddle",
+"A final coat of varnish on wood"
+],
+"ety": "From Middle English surcote, from Old French surcote, formed with sur (“over”) and cote (“coat, robe, tunic, overgarment”), respelled based on coat."
+},
+{
+"w": "benefice",
+"pos": "noun",
+"d": "An endowed church office giving income to its holder",
+"r": "Latin beneficium",
+"s": "There were as many as one hundred thousand benefices offered during the period of his papacy.",
+"old_f": [
+"A formal blessing given at the end of a wedding",
+"A public building given to a town by a wealthy donor",
+"A gift of food given to the poor on holy days"
+],
+"ety": "From Old French benefice, from Latin beneficium."
+},
+{
+"w": "acidulous",
+"pos": "adjective",
+"d": "Being sour to the taste",
+"r": "Latin acidulus “sourish”, diminutive of acidus “sour”",
+"s": "He talked with acidulous tolerance of the exalted personages who had sent Ashenden to X.",
+"old_f": [
+"Being slow and careful",
+"Being covered in fine needles",
+"Being prone to accidents"
+],
+"ety": "Learned borrowing from Latin acidulus (“sourish, acidulous”), diminutive of acidus (“sour, acid”). See acid. By surface analysis, acid + -ule + -ous."
+},
+{
+"w": "accordant",
+"pos": "adjective",
+"d": "Being in agreement or harmony; often followed by ‘with’",
+"r": "Middle English acordaunt, equivalent to accord + -ant",
+"s": "And now his voice accordant to the string.",
+"old_f": [
+"Being played on a small squeezebox; often heard at dances",
+"Being arranged in a fixed order; often used of legal papers",
+"Being given as a reward; often followed by ‘to’"
+],
+"ety": "From Middle English acordaunt, equivalent to accord + -ant."
+},
+{
+"w": "inexorable",
+"pos": "adjective",
+"d": "Not to be placated or appeased or moved by entreaty",
+"r": "Latin inexōrābilis, from in- “not” + exōrābilis “that may be moved by entreaty”",
+"s": "No one, today, can miss the inexorable unfolding across the headlines and social media timelines.",
+"old_f": [
+"Not to be explained or understood by ordinary reason",
+"Not to be removed or taken out once fixed",
+"Not to be spoken aloud for fear of bad luck"
+],
+"ety": "From Middle French inexorable, from Latin inexōrābilis (“relentless, inexorable”) (or directly from the Latin word), from in- (prefix meaning ‘not’) + exōrābilis (“that may be moved or persuaded by entreaty; exorable”). Exōrābilis is derived from exōrāre (from exōrō (“to persuade, win over; to beg, entreat, plead”), from ex- (prefix meaning ‘out of’) + ōrō (“to beg, entreat, plead, pray; to deliver a speech, orate”), from ōs (“mouth”), from Proto-Indo-European *h₃éh₁os (“mouth”)) + -bilis (suffix forming adjectives indicating a capacity or worth of being acted upon). By surface analysis, in- +"
+},
+{
+"w": "ziggurat",
+"pos": "noun",
+"d": "A rectangular tiered temple or terraced mound erected by the ancient Assyrians and Babylonians",
+"r": "Akkadian ziqqurratum",
+"s": "He works in an old ziggurat of an office building.",
+"old_f": [
+"A narrow zigzag trench dug by besieging armies to approach the walls of a walled city",
+"A long curved dagger carried by the royal guards of the ancient Persian kings",
+"A large stringed instrument played at the courts of the ancient Egyptian pharaohs"
+],
+"ety": "Learned borrowing from Akkadian 𒅆𒂍𒉪 (ziqqurratum)."
+},
+{
+"w": "efface",
+"pos": "verb",
+"d": "Remove completely from recognition or memory",
+"r": "Old French esfacier “remove the face”",
+"s": "Do not efface what I've written on the chalkboard.",
+"old_f": [
+"Make something work more smoothly",
+"Confront someone directly and boldly",
+"Build a decorative front onto"
+],
+"ety": "From Middle French effacer (“erase”), from Old French esfacier (“remove the face”)."
+},
+{
+"w": "hauberk",
+"pos": "noun",
+"d": "A long (usually sleeveless) tunic of chain mail formerly worn as defensive armor",
+"r": "Old French hauberc, from Frankish *halsaberg “neck-cover”",
+"s": "The hauberk was to the Norman what the byrnie was to the Saxon, the chief method of bodily defence.",
+"old_f": [
+"A large (usually iron) hook used for hauling heavy loads onto the decks of ships",
+"A small (usually wooden) watchtower built on the walls of a medieval fortified town",
+"A coarse (usually brown) bread baked with barley and rye for travelling soldiers"
+],
+"ety": "From Middle English hauberk, from Old French hauberc, from Frankish *halsaberg (“neck-cover”)."
+},
+{
+"w": "sojourn",
+"pos": "noun",
+"d": "A temporary stay (e.g., as a guest)",
+"r": "Old French sojor, from Latin sub- + diurnus “lasting for a day”",
+"s": "Though long detain'd, In that obscure sojourn.",
+"old_f": [
+"A formal journal (e.g., of a voyage)",
+"A light meal (e.g., at midday)",
+"A solemn oath (e.g., in court)"
+],
+"ety": "From Middle English sojourne (noun) and sojournen (verb), from Old French sojor, sojorner (modern séjour, séjourner), from (assumed) Vulgar Latin *subdiurnāre, from Latin sub- (“under, a little over”) + Late Latin diurnus (“lasting for a day”), from Latin dies (“day”)."
+},
+{
+"w": "tutelary",
+"pos": "adjective",
+"d": "Providing protective supervision; watching over or safeguarding",
+"r": "Latin tūtēlārius “guardian”, from tūtēla “guardianship”",
+"s": "My uncle is always happy to discharge his tutelary responsibilities towards me.",
+"old_f": [
+"Producing a shrill sound; whistling or piping",
+"Made of soft cloth; draped or wrapped",
+"Relating to burial; marking a tomb or grave"
+],
+"ety": "From Latin tūtēlārius (“guardian”), from tūtēla (“tutelage, guardianship; dependent, client”) + -ārius (suffix denoting an agent of use); analysable as tutelar + -ary."
+},
+{
+"w": "peccadillo",
+"pos": "noun",
+"d": "A petty misdeed",
+"r": "Spanish pecadillo, diminutive of pecado “sin”",
+"s": "No sexual peccadillo is left unremarked upon.",
+"old_f": [
+"A spiced meat pastry",
+"A small armored mammal",
+"A clay cooking pot"
+],
+"ety": "From Spanish pecadillo, diminutive form of pecado (“sin”), from Latin peccatum (“sin, error, fault”), from peccō (“to sin, offend”)."
+},
+{
+"w": "somnolent",
+"pos": "adjective",
+"d": "Inclined to or marked by drowsiness",
+"r": "Latin somnolentus, from somnus “sleep”",
+"s": "She heard the somnolent buzzing of flies again.",
+"old_f": [
+"Given to or marked by deep gloom",
+"Relating to or marked by the sounds of bells",
+"Fond of or marked by lengthy silences"
+],
+"ety": "First attested in 1615. Borrowed from French somnolent, from Old French sompnolent, from Latin somnolentus, from somnus (“sleep”)."
+},
+{
+"w": "ersatz",
+"pos": "noun",
+"d": "An artificial or inferior substitute or imitation",
+"r": "German Ersatz “replacement, substitute”, from ersetzen “to replace”",
+"s": "We too have mastered a few things: ersatzes, for instance.",
+"old_f": [
+"A sharp spoken rebuke delivered in public",
+"A light afternoon meal taken standing",
+"A sudden burst of nervous laughter"
+],
+"ety": "Borrowed from German Ersatz (“replacement, substitute”), a back-formation from ersetzen (“to replace, to substitute”)."
+},
+{
+"w": "pennon",
+"pos": "noun",
+"d": "A long flag; often tapering",
+"r": "Anglo-Norman penun “feather of an arrow”",
+"s": "In 1821 the hobby-horse could have a real mane and a pretty topknot of wire, pennons and bells.",
+"old_f": [
+"A small coin; often silver",
+"A quill pen; often trimmed",
+"A low wall; often ruined"
+],
+"ety": "From Late Middle English pennon, penoun (“long narrow flag attached to a lance or used in other contexts; one who bears a pennon, knight bachelor; plume of feathers; strip around the edge of a shield”), from Anglo-Norman penun (“feather of an arrow”), penoun (“flag attached to a lance”), Middle French pennon, penoun, and Old French penon (“flag attached to a lance”) (modern French pennon), from penne (“feather; wing”) + -on (diminutive suffix). Penne is inherited from Latin penna (“feather (especially a flight feather), pinion; wing”), ultimately from Proto-Indo-European *peth₂- (“to spread ou"
+},
+{
+"w": "apposite",
+"pos": "adjective",
+"d": "Being of striking appropriateness and pertinence",
+"r": "Latin appositus, from ad- + ponere “to put, place”",
+"s": "The neo-Victorian craze is very apposite.",
+"old_f": [
+"Being placed directly across from something",
+"Being added at the end of a document",
+"Being unusually hungry or eager for food"
+],
+"ety": "From Latin appositus, past participle of adponere, from ad- + ponere (“to put, place”). See apposition."
+},
+{
+"w": "grandee",
+"pos": "noun",
+"d": "A nobleman of highest rank in Spain or Portugal",
+"r": "Spanish grande, from Latin grandis “large, great”",
+"s": "This Duke Ricardo, Señores, as you probably know, is a grandee from Spain whose lands are the best in Andalucía.",
+"old_f": [
+"A large wine cask used in the cellars of Portugal",
+"A slow ceremonial dance performed at royal weddings",
+"A broad hat with a curled brim worn by herdsmen"
+],
+"ety": "Borrowed from Spanish grande (adjective), from Latin grandis (“large, great”). Doublet of grand and grande."
+},
+{
+"w": "patois",
+"pos": "noun",
+"d": "A characteristic language of a particular group (as among thieves)",
+"r": "French patois “regional dialect”, c. 1635",
+"s": "In the patois of insurance, the winery will go bare into this year’s burning season.",
+"old_f": [
+"A small baked pie of minced meat (as sold at fairs)",
+"A paved courtyard behind a house (as in Spanish homes)",
+"A shallow dish for serving bread (as during communion)"
+],
+"ety": "Borrowed from French patois (“regional dialect or language”), c. 1635."
+},
+{
+"w": "breviary",
+"pos": "noun",
+"d": "A book of prayers to be recited daily certain priests and members of religious orders",
+"r": "Latin breviārium “summary”, from brevis “short”",
+"s": "Sister took out her breviary and said her evening office.",
+"old_f": [
+"A short summary of a court’s judgment prepared for lawyers and members of the public",
+"A small room in a monastery where beer was brewed and stored for the brothers",
+"A document granting a soldier leave to visit home for a short time"
+],
+"ety": "From Latin breviārium (“summary”) (compare abbreviation), ultimately from brevis (“short”). Doublet of brevier and brimborion."
+},
+{
+"w": "battledore",
+"pos": "noun",
+"d": "A light long-handled racket used by badminton players",
+"r": "Probably a blend of Middle English betel “bat, club” and Old Occitan batedor “beater”",
+"s": "Or twenty Girl Guides armed with battledores, for that matter.",
+"old_f": [
+"A heavy iron door used to seal a castle gate",
+"A small drum beaten to signal the start of a fight",
+"A thick leather apron worn by blacksmiths"
+],
+"ety": "From Middle English batildore, batylledore, batildure, batyldoure, batyndore, probably as a blend of Middle English betel (“bat, club”) and Old Occitan batedor (“beater, bat”)."
+},
+{
+"w": "wherry",
+"pos": "noun",
+"d": "Sailing barge used especially in East Anglia",
+"r": "Middle English whery “small boat”, of obscure origin",
+"s": "The river was astir early and late with barges, wherries, and craft of every description.",
+"old_f": [
+"Small tart berry grown especially in Scotland",
+"Grassy hollow found especially in the Pennines",
+"Coarse woollen cloth made especially in Wales"
+],
+"ety": "From Middle English whery (“small boat”), of obscure origin but cognate to French houari and Breton ouari, as well as Welsh chweri (“small boat”)."
+},
+{
+"w": "scapegrace",
+"pos": "noun",
+"d": "A reckless and unprincipled reprobate",
+"r": "Scape “escape” + grace “grace of God”",
+"s": "That superabundant energy which makes a fool of a man, and a scapegrace of a boy.",
+"old_f": [
+"A narrow path behind a church",
+"A brief prayer said before meals",
+"A gentle downward slope of land"
+],
+"ety": "From scape (“(archaic) escape”) + grace (“grace of god”)."
+},
+{
+"w": "schnook",
+"pos": "noun",
+"d": "A gullible simpleton more to be pitied than despised",
+"r": "Yiddish shnuk “person easily imposed upon or cheated”",
+"s": "He’s just a schnook. She’s obviously using him but he keeps coming back for more abuse.",
+"old_f": [
+"A small hooked knife used for gutting fish in harbors",
+"A twisted pastry filled with nuts and served warm",
+"A short nap taken in the middle of the afternoon"
+],
+"ety": "Borrowed from Yiddish שנוק (shnuk, “person easily imposed upon or cheated”)."
+}
+]
