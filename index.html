@@ -77,6 +77,7 @@ canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: bloc
 .box.cur { box-shadow: inset 0 0 0 3px var(--ink); }
 .box.r { background: var(--green); box-shadow: none; }
 .box.w { background: var(--red); box-shadow: none; }
+.box.p { background: #8fb35a; box-shadow: none; }   /* solved after a wrong guess */
 
 .hw { margin: 0; font-family: var(--hand); font-weight: 700; color: var(--ink-dark); font-size: min(44px, calc(100cqi / (var(--n) * .72))); line-height: 48px; overflow-wrap: anywhere; letter-spacing: .01em; }
 .pron { font-size: 20px; line-height: 24px; color: var(--pencil); }
@@ -113,8 +114,10 @@ canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: bloc
 .score small { font-size: 24px; color: var(--pencil); }
 .verdict { margin: 0; line-height: 24px; font-size: 20px; }
 .recap { list-style: none; margin: 24px 0 0; padding: 0; }
-.recap li { display: grid; grid-template-columns: 30px minmax(0, 1fr); line-height: 24px; }
-.recap li img { width: 21px; height: 18px; margin-top: 3px; }
+.recap li { display: grid; grid-template-columns: 54px minmax(0, 1fr); line-height: 24px; }
+.recap .icon { display: flex; align-items: flex-start; gap: 3px; padding-top: 3px; }
+.recap li img { width: 21px; height: 18px; }
+.recap li img.mark { width: 9px; height: 18px; }
 .recap b { font-weight: 700; color: var(--ink-dark); }
 .recap .def { color: var(--pencil); font-size: 20px; }
 .recap li + li { margin-top: 24px; }
@@ -136,7 +139,7 @@ canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: bloc
 #notes { display: flex; flex-direction: column; gap: 18px; align-items: center; width: 100%; }
 .note-wrap { filter: drop-shadow(4px 4px 0 rgba(14,6,2,.5)); width: 156px; max-width: 100%; }
 .note {
-  position: relative; width: 100%; min-height: 102px; border: 0; cursor: pointer; text-align: left;
+  position: relative; width: 100%; min-height: 102px; border: 0; text-align: left;
   display: flex; flex-direction: column; gap: 3px; padding: 21px 12px 12px;
   font: inherit; color: #3b2a12;
   background: linear-gradient(rgba(0,0,0,.07) 0 12px, transparent 12px), var(--c);
@@ -146,12 +149,7 @@ canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: bloc
 .note::after { content: ""; position: absolute; right: 0; bottom: 0; width: 15px; height: 15px; background: rgba(0,0,0,.18); clip-path: polygon(0 0, 100% 0, 0 100%); }
 .note b { font-family: var(--label); font-weight: 400; font-size: 14px; letter-spacing: .06em; }
 .note small { font-size: 18px; line-height: 20px; }
-.note:hover:not(:disabled), .note:focus-visible { transform: translateY(-3px); outline: none; }
-.note:focus-visible b { box-shadow: inset 0 -3px 0 currentColor; }
-.note:disabled { cursor: default; }
-.note.used { filter: saturate(.2) brightness(.82); }
-.note.used b { text-decoration: line-through 2px; }
-.note.locked { opacity: .78; }
+.note.locked { filter: saturate(.35) brightness(.85); }
 #pencil { pointer-events: none; }
 @media (min-width: 1020px) {
   /* Pencil drawn at 4px art pixels on desktop, matching the enlarged notebook and about as long as the notes stack. */
@@ -228,8 +226,9 @@ dialog::backdrop { background: rgba(20,9,3,.6); }
     <h2>How to play</h2>
     <p>Three hard words a day. Each has four definitions: one real, three cons.</p>
     <ul>
-      <li>Pick the real one. A wrong guess loses that word.</li>
-      <li>Three sticky-note hints for the whole day: Roots, Sentence and 50/50. Each works once.</li>
+      <li>Pick the real one. You get three guesses per word.</li>
+      <li>One wrong guess shows the word’s roots. Two show it used in a sentence. A third loses the word.</li>
+      <li>Get it first try for a clean check; each extra guess adds a pencil mark.</li>
     </ul>
     <p>New words at midnight.</p>
     <button class="turn" id="rules-close">Got it</button>
@@ -239,11 +238,12 @@ dialog::backdrop { background: rgba(20,9,3,.6); }
 <script>
 
 
+// Hints unlock per word after wrong guesses: roots after the first, the example sentence after the second.
 const HINTS = [
-  {id: "roots", name: "Roots", desc: "Where it comes from", c: "var(--note-y)"},
-  {id: "sentence", name: "Sentence", desc: "See it used", c: "var(--note-p)"},
-  {id: "fifty", name: "50/50", desc: "Cross out two fakes", c: "var(--note-m)"}
+  {id: "roots", name: "Roots", after: 1, c: "var(--note-y)"},
+  {id: "sentence", name: "Sentence", after: 2, c: "var(--note-p)"}
 ];
+const MAX_WRONG = 3;
 let LAUNCH = null, MANIFEST = null;
 const MONTHS = {};
 const KEY_DAY = "lexiconned:day", KEY_STATS = "lexiconned:stats";
@@ -420,22 +420,40 @@ function spriteURL(rows, color) {
   rows.forEach((r, y) => [...r].forEach((ch, x) => { if (ch === "X") g.fillRect(x, y, 1, 1); }));
   return c.toDataURL();
 }
-let CHECK, CROSS;
+let CHECK, CROSS, MARK;
 
 /* ---------- Game ---------- */
 function puzzle(day, entries) {
   return entries.map((e, k) => {
     const r = rng(day * 131 + k * 17 + 3);
     const opts = shuffle([{t: e.d, real: true}, ...e.f.map(t => ({t, real: false}))], r);
-    const fakes = opts.map((o, i) => o.real ? -1 : i).filter(i => i >= 0);
-    return {...e, opts, cut: shuffle(fakes, r).slice(0, 2)};
+    return {...e, opts};
   });
 }
-function fresh(day) { return {day, cur: 0, picks: [null, null, null], hints: {roots: null, sentence: null, fifty: null}, done: false}; }
+// guesses[i] lists the options tried on word i, in order. A word ends when the real one is picked or after three wrong guesses.
+function fresh(day) { return {v: 2, day, cur: 0, guesses: [[], [], []], done: false}; }
+// Progress saved before hints changed (one pick per word, a daily hint pool): an earlier wrong pick lost that word.
+function migrate(old) {
+  if (!old || old.v === 2) return old;
+  const st = fresh(old.day);
+  st.cur = old.cur; st.done = old.done;
+  (old.picks || []).forEach((pick, i) => {
+    if (pick === null) return;
+    const real = P[i].opts.findIndex(o => o.real);
+    st.guesses[i] = pick === real || (i === old.cur && !old.done) ? [pick] : [pick, ...P[i].opts.map((_, k) => k).filter(k => k !== real && k !== pick)];
+  });
+  return st;
+}
 let S, P, tick;
 function save() { if (PREVIEW === null) store(KEY_DAY, S); }
-const isRight = i => S.picks[i] !== null && P[i].opts[S.picks[i]].real;
-const scoreOf = () => P.filter((_, i) => isRight(i)).length;
+const wrongs = i => S.guesses[i].filter(k => !P[i].opts[k].real).length;
+const solved = i => S.guesses[i].some(k => P[i].opts[k].real);
+const lost = i => wrongs(i) >= MAX_WRONG;
+const ended = i => solved(i) || lost(i);
+const tries = i => solved(i) ? S.guesses[i].length : null;
+const scoreOf = () => P.filter((_, i) => solved(i)).length;
+const firstTries = () => P.filter((_, i) => tries(i) === 1).length;
+const hintShown = (h, i) => wrongs(i) >= h.after;
 
 function header() {
   const date = new Date(LAUNCH + S.day * 864e5).toLocaleDateString(undefined, {month: "short", day: "numeric", timeZone: "UTC"});
@@ -447,30 +465,35 @@ function renderPage() {
   updateCountdown();
 }
 
+function marks(n) { return Array.from({length: n}, () => `<img class="mark" src="${MARK}" alt="">`).join(""); }
+
 function wordHTML() {
-  const i = S.cur, w = P[i], pick = S.picks[i], answered = pick !== null, right = answered && w.opts[pick].real;
-  const boxes = P.map((_, k) => `<span class="box ${S.picks[k] !== null ? (isRight(k) ? "r" : "w") : k === i ? "cur" : ""}"></span>`).join("");
+  const i = S.cur, w = P[i], over = ended(i), bad = wrongs(i);
+  const boxes = P.map((_, k) => `<span class="box ${ended(k) ? (tries(k) === 1 ? "r" : solved(k) ? "p" : "w") : k === i ? "cur" : ""}"></span>`).join("");
   let reveals = "";
-  if (S.hints.roots === i) reveals += `<div class="reveal"><span class="lab">roots</span>${esc(w.r)}</div>`;
-  if (S.hints.sentence === i) {
+  if (hintShown(HINTS[0], i)) reveals += `<div class="reveal"><span class="lab">roots</span>${esc(w.r)}</div>`;
+  if (hintShown(HINTS[1], i)) {
     const re = new RegExp("(" + w.w.slice(0, Math.max(4, w.w.length - 3)) + "\\w*)", "i");
     reveals += `<div class="reveal"><span class="lab">used</span>${esc(w.s).replace(re, "<u>$1</u>")}</div>`;
   }
-  const removed = S.hints.fifty === i ? w.cut : [];
   const opts = w.opts.map((o, k) => {
     let cls = "opt", key = "ABCD"[k] + ".";
-    if (removed.includes(k)) cls += " removed";
-    if (answered) {
-      if (o.real) { cls += " right"; key = `<img src="${CHECK}" alt="Real">`; }
-      else if (k === pick) { cls += " wrong"; key = `<img src="${CROSS}" alt="Your pick">`; }
-      else cls += " dim";
-    }
-    const dis = answered || removed.includes(k);
-    return `<button class="${cls}" data-opt="${k}" ${dis ? "disabled" : ""}><span class="k">${key}</span><span><span class="t">${esc(o.t)}</span></span></button>`;
+    const tried = S.guesses[i].includes(k);
+    if (tried && !o.real) { cls += " wrong"; key = `<img src="${CROSS}" alt="Wrong guess">`; }
+    else if (over && o.real) { cls += " right"; key = `<img src="${CHECK}" alt="Real">`; }
+    else if (over) cls += " dim";
+    return `<button class="${cls}" data-opt="${k}" ${over || tried ? "disabled" : ""}><span class="k">${key}</span><span><span class="t">${esc(o.t)}</span></span></button>`;
   }).join("");
-  const foot = answered
-    ? `<span class="stamp ${right ? "ok" : ""}" role="status">${right ? "Real!" : "Conned!"}</span><button class="turn" id="next">${i === 2 ? "See results →" : "Turn the page →"}</button>`
-    : `<span class="nudge">Pick the real one. Stuck? Peel off a sticky note.</span>`;
+  const left = MAX_WRONG - bad;
+  const nudge = bad === 0 ? "Pick the real one. A wrong guess unlocks a hint."
+    : bad === 1 ? "Not that one. The roots might help. Two guesses left."
+    : "Last guess. See how it’s used in the sentence.";
+  const stamp = !over ? "" : solved(i)
+    ? (tries(i) === 1 ? `<span class="stamp ok" role="status">Real!</span>` : `<span class="stamp ok" role="status">Got it · try ${tries(i)}</span>`)
+    : `<span class="stamp" role="status">Conned!</span>`;
+  const foot = over
+    ? `${stamp}<button class="turn" id="next">${i === 2 ? "See results →" : "Turn the page →"}</button>`
+    : `<span class="nudge">${nudge}</span>`;
   return `${header()}
     <div class="prog">word ${i + 1} of 3 <span class="boxes">${boxes}</span></div>
     <h1 class="hw" style="--n:${w.w.length}">${esc(w.w)}</h1>
@@ -481,33 +504,42 @@ function wordHTML() {
 }
 
 function resultsHTML() {
-  const score = scoreOf();
-  const verdicts = ["The fakes won today.", "One real, two cons.", "Two out of three. Hard to fool.", "Perfect page. Nobody conned you."];
+  const score = scoreOf(), clean = firstTries();
+  const verdict = clean === 3 ? "Perfect page. Nobody conned you."
+    : score === 3 ? "All three, with a little help."
+    : ["The fakes won today.", "One real, two cons.", "Two out of three. Hard to fool."][score];
   const st = store(KEY_STATS) || {};
-  const used = HINTS.filter(h => S.hints[h.id] !== null).map(h => h.name);
-  const items = P.map((w, i) => `<li><img src="${isRight(i) ? CHECK : CROSS}" alt="${isRight(i) ? "Got it" : "Missed"}"><div><b>${esc(w.w)}</b> <span class="def">${esc(w.d)}.</span></div></li>`).join("");
+  const items = P.map((w, i) => {
+    const icon = solved(i) ? `<img src="${CHECK}" alt="Got it${tries(i) > 1 ? " on try " + tries(i) : ""}">${marks(tries(i) - 1)}` : `<img src="${CROSS}" alt="Lost">`;
+    return `<li><span class="icon">${icon}</span><div><b>${esc(w.w)}</b> <span class="def">${esc(w.d)}.</span></div></li>`;
+  }).join("");
   return `${header()}
     <div class="prog">today’s page</div>
     <p class="score">${score}<small> / 3</small></p>
-    <p class="verdict">${verdicts[score]}</p>
+    <p class="verdict">${verdict}</p>
     <ul class="recap">${items}</ul>
     <div class="facts">
       days played <b>${st.played || 1}</b> · perfect streak <b>${st.streak || 0}</b> · words known <b>${st.correct || score}</b><br>
-      hints spent: <b>${used.length ? used.join(", ") : "none"}</b><br>
+      first try: <b>${clean} of 3</b><br>
       <span id="countdown"></span>
     </div>
 `;
 }
 
+// The sticky notes show which hints this word has unlocked; the hints themselves appear on the page.
 function renderNotes() {
-  const answered = !S.done && S.picks[S.cur] !== null;
-  const left = HINTS.filter(h => S.hints[h.id] === null).length;
-  $("hint-count").textContent = `Hints · ${left} left`;
-  $("notes").innerHTML = HINTS.map(h => {
-    const used = S.hints[h.id], spent = used !== null, locked = !spent && (answered || S.done);
-    return `<div class="note-wrap"><button class="note ${spent ? "used" : ""} ${locked ? "locked" : ""}" style="--c:${h.c}" data-hint="${h.id}" ${spent || locked ? "disabled" : ""}>
-      <b>${h.name}</b><small>${spent ? "Used on word " + (used + 1) : h.desc}</small></button></div>`;
-  }).join("");
+  const i = S.cur, bad = S.done ? 0 : wrongs(i), over = S.done || ended(i);
+  $("hint-count").textContent = S.done ? "Hints · see you tomorrow" : `Hints · word ${i + 1}`;
+  const notes = HINTS.map(h => {
+    const open = !S.done && hintShown(h, i);
+    const text = S.done ? "Unlocks after " + (h.after === 1 ? "a wrong guess" : "two wrong guesses")
+      : open ? "On the page" : over ? "Not needed" : `Unlocks after ${h.after === 1 ? "a wrong guess" : "two wrong guesses"}`;
+    return {name: h.name, c: h.c, text, cls: open ? "open" : "locked"};
+  });
+  const left = MAX_WRONG - bad;
+  notes.push({name: "Guesses", c: "var(--note-m)", cls: "open",
+    text: S.done ? "Three per word" : over ? (solved(i) ? "Solved" : "None left") : `${left} left`});
+  $("notes").innerHTML = notes.map(n => `<div class="note-wrap"><div class="note ${n.cls}" style="--c:${n.c}"><b>${n.name}</b><small>${n.text}</small></div></div>`).join("");
 }
 
 function render() { renderPage(); renderNotes(); requestAnimationFrame(() => { drawBook(); drawDesk(); }); }
@@ -551,14 +583,15 @@ function flushTrack() {
   if (!gc || !gc.count) return;
   while (GC_QUEUE.length) gc.count(GC_QUEUE.shift());
 }
-const untouched = () => S.picks.every(p => p === null) && Object.values(S.hints).every(h => h === null);
+const untouched = () => S.guesses.every(g => g.length === 0);
 
 function finish() {
   const score = scoreOf();
   const st = store(KEY_STATS) || {played: 0, streak: 0, correct: 0, last: null};
   if (st.last !== S.day) track(`finish-${score}/3`, `Finished today’s puzzle: ${score}/3`);
   if (PREVIEW === null && st.last !== S.day) {
-    st.streak = score === 3 ? (st.last === S.day - 1 ? st.streak + 1 : 1) : 0;
+    // A perfect day means all three words right on the first try.
+    st.streak = firstTries() === 3 ? (st.last === S.day - 1 ? st.streak + 1 : 1) : 0;
     st.played += 1; st.correct += score; st.last = S.day;
     store(KEY_STATS, st);
   }
@@ -574,10 +607,14 @@ function updateCountdown() {
 
 document.addEventListener("click", e => {
   const opt = e.target.closest("[data-opt]");
-  const hint = e.target.closest("[data-hint]");
-  if ((opt && !opt.disabled) || (hint && !hint.disabled)) { if (untouched()) track("start", "Started today’s puzzle"); }
-  if (opt && !opt.disabled) { S.picks[S.cur] = +opt.dataset.opt; save(); render(); return; }
-  if (hint && !hint.disabled) { track(`hint-${hint.dataset.hint}`, `Used hint: ${HINTS.find(h => h.id === hint.dataset.hint).name}`); S.hints[hint.dataset.hint] = S.cur; save(); render(); return; }
+  if (opt && !opt.disabled && !ended(S.cur)) {
+    if (untouched()) track("start", "Started today’s puzzle");
+    const before = wrongs(S.cur);
+    S.guesses[S.cur].push(+opt.dataset.opt);
+    HINTS.filter(h => before < h.after && wrongs(S.cur) >= h.after && !lost(S.cur))
+      .forEach(h => track(`hint-${h.id}`, `Hint shown: ${h.name}`));
+    save(); render(); return;
+  }
   if (e.target.closest("#next")) {
     if (S.cur === 2) finish(); else flipTo(() => { S.cur++; save(); render(); });
     return;
@@ -619,7 +656,7 @@ async function load() {
     const month = MONTHS[key] || (MONTHS[key] = await fetchJSON(`words/${key}.json`));
     P = puzzle(day, month.days[day - month.first_day]);
     const saved = S && S.day === day ? S : (PREVIEW === null ? store(KEY_DAY) : null);
-    S = saved && saved.day === day ? saved : fresh(day);
+    S = saved && saved.day === day ? migrate(saved) : fresh(day);
     render();
   } catch (err) {
     message("Couldn’t load today’s words. Check your connection and reload the page.");
@@ -628,6 +665,7 @@ async function load() {
 
 function start() {
   CHECK = spriteURL(["......X", ".....XX", "X...XX.", "XX.XX..", ".XXX...", "..X...."], "#2f7d45");
+  MARK = spriteURL(["..X", "..X", ".X.", ".X.", "X..", "X.."], "#6e685c");   // one pencil mark per extra guess
   CROSS = spriteURL(["X.....X", "XX...XX", ".XX.XX.", "..XXX..", ".XX.XX.", "XX...XX"], "#c23b2e");
   drawPencil();
   track(location.pathname, document.title, false);

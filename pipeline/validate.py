@@ -17,8 +17,53 @@ def norm(t):
     return re.sub(r"[^a-z0-9]+", " ", t.lower()).strip()
 
 
-def check_entry(s, o):
-    """Problems with one generated entry `o` for input row `s`. Wiktionary rows carry "senses"."""
+ARTICLE = re.compile(r"(?i)^(a|an|the)\s")
+
+
+def stems(text):
+    return [t[:5] for t in norm(text).split() if len(t) >= 3]
+
+
+def check_fakes(w, pos, real, r, f, hooks=None):
+    """Checks every set of fakes must pass. With `hooks`, also the hint-proof rules: each fake builds on a root
+    idea from the roots line (FAKES.md, "Consistent with the roots")."""
+    errs = []
+    if len(f) != 3 or len({norm(x) for x in f}) != 3:
+        return [f"{w}: need 3 distinct fakes"]
+    real_len = len(real.split())
+    stem = w[: max(4, len(w) - 3)].lower()
+    real_to, real_art = bool(re.match(r"(?i)^to ", real)), bool(ARTICLE.match(real))
+    for x in f:
+        n_words = len(x.split())
+        lo, hi = max(2, round(real_len * 0.6)), round(real_len * 1.45) + 1
+        if not lo <= n_words <= hi:
+            errs.append(f"{w}: fake length {n_words} vs real {real_len}: {x!r}")
+        if stem in x.lower():
+            errs.append(f"{w}: fake contains the word: {x!r}")
+        if x.endswith(".") and not x.endswith("etc."):
+            errs.append(f"{w}: fake ends with a period: {x!r}")
+        if bool(re.match(r"(?i)^to ", x)) != real_to:
+            errs.append(f"{w}: fake {'must' if real_to else 'must not'} start with 'To' like the real one: {x!r}")
+        if real_art and not ARTICLE.match(x) or not real_art and ARTICLE.match(x) and pos != "noun":
+            errs.append(f"{w}: fake opens differently from the real definition: {x!r}")
+        if norm(x) == norm(real):
+            errs.append(f"{w}: fake equals the real definition")
+    if hooks is not None:
+        if len(hooks) != 3:
+            return errs + [f"{w}: need one hook per fake"]
+        for h, x in zip(hooks, f):
+            if not h or norm(h) not in norm(r):
+                errs.append(f"{w}: hook {h!r} is not in the roots line {r!r}")
+                continue
+            own = any(st[:4] == w[:4].lower() for st in stems(h))
+            if not own and not any(st in norm(x) for st in stems(h)):
+                errs.append(f"{w}: fake doesn't use its hook {h!r}: {x!r}")
+    return errs
+
+
+def check_entry(s, o, hint_proof=None):
+    """Problems with one generated entry `o` for input row `s`. Wiktionary rows carry "senses".
+    Hint-proof hooks are required for new answers (anything with "hooks", every Wiktionary row, or hint_proof=True)."""
     w = s["w"]
     if o.get("w") != w:
         return [f"{w}: output is for {o.get('w')!r}"]
@@ -41,24 +86,9 @@ def check_entry(s, o):
             errs.append(f"{w}: respelling given although the input has one")
         if not s.get("p") and not (p and RESPELL.match(p)):
             errs.append(f"{w}: needs a respelling like neh-KRAH-puh-lus, got {p!r}")
-    f = o.get("f", [])
-    if len(f) != 3 or len({norm(x) for x in f}) != 3:
-        return errs + [f"{w}: need 3 distinct fakes"]
-    real_len = len(real.split())
-    stem = w[: max(4, len(w) - 3)].lower()
-    for x in f:
-        n_words = len(x.split())
-        lo, hi = max(2, round(real_len * 0.6)), round(real_len * 1.45) + 1
-        if not lo <= n_words <= hi:
-            errs.append(f"{w}: fake length {n_words} vs real {real_len}: {x!r}")
-        if stem in x.lower():
-            errs.append(f"{w}: fake contains the word: {x!r}")
-        if x.endswith(".") and not x.endswith("etc."):
-            errs.append(f"{w}: fake ends with a period: {x!r}")
-        if s["pos"] == "verb" and re.match(r"(?i)^to ", x):
-            errs.append(f"{w}: verb fake starts with 'to': {x!r}")
-        if norm(x) == norm(real):
-            errs.append(f"{w}: fake equals the real definition")
+    if hint_proof is None:
+        hint_proof = wk or "hooks" in o
+    errs += check_fakes(w, s["pos"], real, o.get("r", ""), o.get("f", []), o.get("hooks") if hint_proof else None)
     r = o.get("r", "")
     if not 8 <= len(r) <= 130:
         errs.append(f"{w}: roots length {len(r)}")

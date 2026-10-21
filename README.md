@@ -8,6 +8,7 @@ A daily vocabulary game: three hard words a day, four definitions each, one real
 - `pipeline/`: scripts that select words, generate fakes, validate, and build the month files. See `pipeline/FAKES.md` for the writing rules.
 - `data/batches/`: frozen generation inputs (`in_NNN` WordNet, year one; `wk_in_NNN` Wiktionary, years 2–10). Never edit or reorder a published batch.
 - `pipeline/batch_generate.py`: writes `pipeline/generated/` through the Message Batches API (`prepare`, `estimate`, `submit --count N`, `status`, `collect`). Needs `ANTHROPIC_API_KEY`; run `estimate` first.
+- `pipeline/rewrites.json`: hint-proof replacement fakes for year one (from `batch_generate.py --rewrite`); `build.py` applies them to every day that isn't locked. `pipeline/rewrite_examples.json` holds the 10 hand-checked samples.
 - `pipeline/review.html`: spot-check page (serve the repo locally, then open `/pipeline/review.html`).
 
 Preview any day locally with `?day=N`.

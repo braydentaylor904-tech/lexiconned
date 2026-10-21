@@ -1,0 +1,12 @@
+{
+ "jejune": {"f": ["Bleak and joyless; also gloomy from long fasting", "Barren of rhyme; also stiff and unmusical in rhythm", "Young and passionate; also bold and full of feeling"], "hooks": ["fasting", "barren", "young"]},
+ "anfractuous": {"f": ["Bending steeply downhill; sharply sloping", "Winding up to a summit; steadily climbing", "Winding through thick forest; deeply shaded"], "hooks": ["bending", "winding", "winding"]},
+ "lachrymose": {"f": ["Causing tears of laughter; hilarious", "Tearing along too quickly; rushed", "Stinging the eyes into tears; acrid"], "hooks": ["tear", "tear", "tear"]},
+ "mendacious": {"f": ["Lying flat; plain and dull", "Lying low; quiet and modest", "Lying in tatters; badly made"], "hooks": ["lying", "lying", "lying"]},
+ "pulchritude": {"f": ["Beautiful singing voice", "Beautiful stage costumes", "Beautifying makeup"], "hooks": ["beautiful", "beautiful", "beautiful"]},
+ "obsequious": {"f": ["Following a strict routine without fail", "Leaning toward one side when walking", "Hurrying toward each table in turn"], "hooks": ["to follow", "toward", "toward"]},
+ "malinger": {"f": ["Become fragile with worry, e.g., by losing sleep before a test", "Fuss over delicate details, e.g., by recopying notes again and again", "Handle fragile egos, e.g., by flattering a teacher before a test"], "hooks": ["fragile", "delicate", "fragile"]},
+ "miscreant": {"f": ["A person who misbelieves the clock; a latecomer", "A person who misbelieves rumours and spreads them", "A pupil who misbelieves the timetable"], "hooks": ["misbelieve", "misbelieve", "misbelieve"]},
+ "ignominy": {"f": ["A state of namelessness", "A state of forgetting names", "A state of being misnamed"], "hooks": ["name", "name", "name"]},
+ "hubris": {"f": ["Insolent rudeness toward customers", "Insolent mockery of rivals", "Insolent disregard of regulations"], "hooks": ["insolence", "insolence", "insolence"]}
+}

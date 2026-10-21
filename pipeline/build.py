@@ -59,12 +59,24 @@ def main():
     cfg = json.loads((ROOT / "pipeline" / "config.json").read_text())
     launch = dt.date.fromisoformat(cfg["launch"])
     seq = build_sequence()
+    days = len(seq) // 3
+    lock_file = WORDS / "lock.json"
+    stored = json.loads(lock_file.read_text())["locked_days"] if lock_file.exists() else 0
+    started = (dt.datetime.now(dt.timezone.utc).date() - launch).days + 2   # through tomorrow (UTC), inclusive
+    locked = max(stored, min(started, days))
+    # Hint-proof fakes from `batch_generate.py --rewrite` replace the originals on every day that isn't locked.
+    rw_file = ROOT / "pipeline" / "rewrites.json"
+    rewrites = json.loads(rw_file.read_text()) if rw_file.exists() else {}
+    applied = 0
+    for n, e in enumerate(seq):
+        if n >= 3 * locked and e["w"] in rewrites:
+            e["f"] = [cap(x) for x in rewrites[e["w"]]["f"]]
+            applied += 1
     seen = {}
     for e in seq:
         if e["d"] in seen:
             raise SystemExit(f"{e['w']} and {seen[e['d']]} share a definition; add one to curation.json \"dropped\"")
         seen[e["d"]] = e["w"]
-    days = len(seq) // 3
     months = {}
     for n in range(days):
         key = (launch + dt.timedelta(days=n)).strftime("%Y-%m")
@@ -72,10 +84,6 @@ def main():
         m["days"].append(seq[3 * n: 3 * n + 3])
 
     WORDS.mkdir(exist_ok=True)
-    lock_file = WORDS / "lock.json"
-    stored = json.loads(lock_file.read_text())["locked_days"] if lock_file.exists() else 0
-    started = (dt.datetime.now(dt.timezone.utc).date() - launch).days + 2   # through tomorrow (UTC), inclusive
-    locked = max(stored, min(started, days))
     for key, m in months.items():
         path = WORDS / f"{key}.json"
         if path.exists() and m["first_day"] < locked:
@@ -97,7 +105,7 @@ def main():
     lock_file.write_text(json.dumps({"locked_days": locked}, indent=1) + "\n")
     last = launch + dt.timedelta(days=days - 1)
     print(f"{len(seq)} entries -> {days} days ({cfg['launch']} to {last}), {len(months)} month files; "
-          f"days 1-{locked} locked")
+          f"days 1-{locked} locked; {applied} rewritten fake sets applied")
 
 
 if __name__ == "__main__":

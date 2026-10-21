@@ -10,6 +10,10 @@ sequence: first the unwritten year-one WordNet spares (in_031..), then the Wikti
     python batch_generate.py status                progress of submitted batches
     python batch_generate.py collect               fetch finished batches, validate, write generated/*.json, report spend
 
+Add --rewrite to estimate/submit to rewrite the fakes of every unplayed year-one day under the hint-proof rules
+(new fakes and hooks only; roots, sentence and definition stay). Accepted rewrites go to pipeline/rewrites.json,
+which build.py applies to every day that isn't locked.
+
 State lives in data/api/ (batches.json, results.jsonl). Needs ANTHROPIC_API_KEY for submit/status/collect.
 """
 import argparse
@@ -19,7 +23,7 @@ import sys
 from pathlib import Path
 
 from sequence import BATCH, clean_ety
-from validate import check_entry
+from validate import check_entry, check_fakes
 
 ROOT = Path(__file__).resolve().parent.parent
 BATCHES = ROOT / "data" / "batches"
@@ -27,6 +31,8 @@ GEN = ROOT / "pipeline" / "generated"
 API = ROOT / "data" / "api"
 STATE = API / "batches.json"
 RESULTS = API / "results.jsonl"
+REWRITES = ROOT / "pipeline" / "rewrites.json"
+WORDS = ROOT / "words"
 
 MODEL = "claude-opus-5-5"
 EFFORT = "medium"
@@ -52,24 +58,43 @@ SCHEMA = {
         "s": {"type": "string"},
         "s_new": {"type": "boolean"},
         "p": {"type": "string"},
+        "hooks": {"type": "array", "items": {"type": "string"}},
     },
-    "required": ["w", "ok", "d", "f", "r", "s", "s_new", "p"],
+    "required": ["w", "ok", "d", "f", "hooks", "r", "s", "s_new", "p"],
     "additionalProperties": False,
 }
 CONTRACT = """
 # Output for this request
 
-You get one word per request. Reply with a single JSON object: {"w", "ok", "d", "f", "r", "s", "s_new", "p"}.
+You get one word per request. Reply with a single JSON object: {"w", "ok", "d", "f", "hooks", "r", "s", "s_new", "p"}.
+- Work in this order: the real definition, the roots line, the sentence, then the fakes and their hooks, checked against both hints.
 - Year-one (WordNet) words: the real definition is given as "d"; return "d" and "p" as empty strings.
 - Wiktionary words: choose the word (keep or reject), then return "d" as an excerpt of one of "senses", and "p" per the Pronunciation rules.
 - "s_new" is true only when you wrote the sentence yourself because no example fits.
-- When rejecting: "ok": false and empty strings / empty list everywhere else.
+- When rejecting: "ok": false and empty strings / empty lists everywhere else.
 - If the request lists problems with an earlier answer, fix every one of them.
 """
 
 
-def system_blocks():
-    return [{"type": "text", "text": (ROOT / "pipeline" / "FAKES.md").read_text() + CONTRACT,
+REWRITE_SCHEMA = {
+    "type": "object",
+    "properties": {"w": {"type": "string"}, "f": {"type": "array", "items": {"type": "string"}},
+                   "hooks": {"type": "array", "items": {"type": "string"}}},
+    "required": ["w", "f", "hooks"],
+    "additionalProperties": False,
+}
+REWRITE_CONTRACT = """
+# Output for this request
+
+You are rewriting the fakes of a word that is already in the game. Its real definition ("d"), roots line ("r") and
+sentence ("s") are fixed; "old_f" are the fakes being replaced, which may break the hint-proof rules. Reply with a
+single JSON object {"w", "f", "hooks"}: three new fakes that follow every rule under "Fake definitions" against this
+"r" and "s", and the hook each one builds on. If the request lists problems with an earlier answer, fix every one.
+"""
+
+
+def system_blocks(rewrite=False):
+    return [{"type": "text", "text": (ROOT / "pipeline" / "FAKES.md").read_text() + (REWRITE_CONTRACT if rewrite else CONTRACT),
              "cache_control": {"type": "ephemeral"}}]
 
 
@@ -139,6 +164,48 @@ def items():
             yield f"{n}-{i:02d}", row, (done[i] if i < len(done) else None)
 
 
+def locked_days():
+    """Every day that has started anywhere, or that lock.json already covers (same rule as build.py)."""
+    launch = dt.date.fromisoformat(json.loads((WORDS / "manifest.json").read_text())["launch"])
+    started = (dt.datetime.now(dt.timezone.utc).date() - launch).days + 2
+    stored = json.loads((WORDS / "lock.json").read_text())["locked_days"]
+    return max(stored, started)
+
+
+def rewrite_items():
+    """(custom_id, row) for every published entry on a day that isn't locked, in day order."""
+    ety = {r["w"]: clean_ety(r["ety"])[:600] for r in json.loads((ROOT / "data" / "pool.json").read_text())}
+    locked = locked_days()
+    for key in json.loads((WORDS / "manifest.json").read_text())["months"]:
+        month = json.loads((WORDS / f"{key}.json").read_text())
+        for i, entries in enumerate(month["days"]):
+            if month["first_day"] + i < locked:
+                continue
+            for e in entries:
+                row = {"w": e["w"], "pos": e["pos"], "d": e["d"], "r": e["r"], "s": e["s"], "old_f": e["f"]}
+                if e["w"] in ety:
+                    row["ety"] = ety[e["w"]]
+                yield "rw_" + e["w"], row
+
+
+def load_rewrites():
+    return json.loads(REWRITES.read_text()) if REWRITES.exists() else {}
+
+
+def pending_rewrites(retry=False):
+    res, done = load_results(), load_rewrites()
+    in_flight = {c for b in load_state()["batches"] if not b.get("collected") for c in b["custom_ids"]}
+    for cid, row in rewrite_items():
+        if row["w"] in done or cid in in_flight:
+            continue
+        r = res.get(cid)
+        if retry:
+            if r and r["errors"]:
+                yield cid, row, r
+        elif r is None:
+            yield cid, row, None
+
+
 def pending(retry=False):
     res = load_results()
     in_flight = {c for b in load_state()["batches"] if not b.get("collected") for c in b["custom_ids"]}
@@ -157,7 +224,9 @@ def pending(retry=False):
 
 def user_message(row, prev=None):
     msg = "Word entry:\n" + json.dumps(row, ensure_ascii=False, indent=1)
-    if "senses" not in row:
+    if "old_f" in row:
+        pass
+    elif "senses" not in row:
         msg += "\n\nThis is a year-one WordNet word: \"d\" above is the fixed real definition."
     if prev:
         msg += ("\n\nYour earlier answer:\n" + json.dumps(prev["out"], ensure_ascii=False)
@@ -166,12 +235,13 @@ def user_message(row, prev=None):
 
 
 def params(row, model, effort, prev=None):
+    rewrite = "old_f" in row
     return {
         "model": model,
         "max_tokens": MAX_TOKENS,
-        "system": system_blocks(),
+        "system": system_blocks(rewrite),
         "messages": [{"role": "user", "content": user_message(row, prev)}],
-        "output_config": {"effort": effort, "format": {"type": "json_schema", "schema": SCHEMA}},
+        "output_config": {"effort": effort, "format": {"type": "json_schema", "schema": REWRITE_SCHEMA if rewrite else SCHEMA}},
     }
 
 
@@ -185,13 +255,14 @@ def measured():
     return sum(r["usage"]["output_tokens"] for r in rows) / len(rows), len(rows)
 
 
-def estimate(count, model, effort, exact):
-    work = list(pending())[:count] if count else list(pending())
+def estimate(count, model, effort, exact, rewrite=False):
+    work = list(pending_rewrites() if rewrite else pending())
+    work = work[:count] if count else work
     if not work:
         print("Nothing pending.")
         return 0.0
     price = PRICES[model]
-    sys_text = system_blocks()[0]["text"]
+    sys_text = system_blocks(rewrite)[0]["text"]
     if exact:
         import anthropic
         client = anthropic.Anthropic()
@@ -213,8 +284,9 @@ def estimate(count, model, effort, exact):
         out_tok, n_meas = m
         out_how = f"measured average from {n_meas} collected words"
     else:
-        out_tok = 220 + THINKING_GUESS[effort]
-        out_how = f"guess: ~220 answer tokens + ~{THINKING_GUESS[effort]} thinking tokens at effort {effort}"
+        answer = 90 if rewrite else 240
+        out_tok = answer + THINKING_GUESS[effort]
+        out_how = f"guess: ~{answer} answer tokens + ~{THINKING_GUESS[effort]} thinking tokens at effort {effort}"
     n = len(work)
     out_cost = n * out_tok * price["out"] / 1e6
     user_cost = n * user_tok * price["in"] / 1e6
@@ -222,7 +294,7 @@ def estimate(count, model, effort, exact):
     # Batch requests hit the cache on a best-effort basis; assume about half do.
     sys_cache = n * sys_tok * (0.5 * price["cache_read"] + 0.5 * price["cache_write"]) / 1e6
     lo, hi = user_cost + out_cost + sys_cache, user_cost + out_cost + sys_nocache
-    print(f"{n} words with {model} (Message Batches pricing, effort {effort})")
+    print(f"{n} {'year-one rewrites' if rewrite else 'words'} with {model} (Message Batches pricing, effort {effort})")
     print(f"  input:  system prompt ~{sys_tok:,.0f} tokens + word ~{user_tok:,.0f} tokens ({how})")
     print(f"  output: ~{out_tok:,.0f} tokens per word ({out_how})")
     print(f"  system prompt ${sys_cache:,.2f} (half cached) to ${sys_nocache:,.2f} (no cache hits)")
@@ -233,9 +305,9 @@ def estimate(count, model, effort, exact):
 
 # ---------- API steps ----------
 
-def submit(count, retry, model, effort, yes):
+def submit(count, retry, model, effort, yes, rewrite=False):
     import anthropic
-    work = list(pending(retry))
+    work = list(pending_rewrites(retry) if rewrite else pending(retry))
     if not retry:
         work = work[:count]
     if not work:
@@ -243,7 +315,7 @@ def submit(count, retry, model, effort, yes):
         return
     if not yes:
         print(f"About to submit {len(work)} {'retries' if retry else 'words'}, starting at {work[0][0]} ({work[0][1]['w']}).")
-        estimate(len(work), model, effort, exact=False) if not retry else None
+        estimate(len(work), model, effort, exact=False, rewrite=rewrite) if not retry else None
         if input("Submit and spend? [y/N] ").strip().lower() != "y":
             print("Not submitted.")
             return
@@ -275,6 +347,8 @@ def collect():
     client = anthropic.Anthropic()
     st = load_state()
     rows = {cid: row for cid, row, _ in items()}
+    rows.update(rewrite_items())
+    rewrites = load_rewrites()
     spent = 0.0
     tally = {"accepted": 0, "rejected": 0, "invalid": 0, "failed": 0}
     API.mkdir(parents=True, exist_ok=True)
@@ -300,9 +374,25 @@ def collect():
                 spent += (u.input_tokens * price["in"] + u.output_tokens * price["out"]
                           + rec["usage"]["cache_read"] * price["cache_read"]
                           + rec["usage"]["cache_write"] * price["cache_write"]) / 1e6
-                row = rows[cid]
+                row = rows.get(cid)
+                if row is None:
+                    continue   # a rewrite for a day that has since been locked
+                if "old_f" in row:
+                    text = next((blk.text for blk in msg.content if blk.type == "text"), "")
+                    try:
+                        out = json.loads(text) if msg.stop_reason == "end_turn" else None
+                    except json.JSONDecodeError:
+                        out = None
+                    errs = (check_fakes(row["w"], row["pos"], row["d"], row["r"], out["f"], out["hooks"])
+                            if out else [f"no usable answer (stop reason {msg.stop_reason})"])
+                    rec.update(out=out, errors=errs)
+                    if not errs:
+                        rewrites[row["w"]] = {"f": out["f"], "hooks": out["hooks"]}
+                    tally["invalid" if errs else "accepted"] += 1
+                    log.write(json.dumps(rec, ensure_ascii=False) + "\n")
+                    continue
                 if msg.stop_reason == "refusal":
-                    out = {"w": row["w"], "ok": False, "d": "", "f": [], "r": "", "s": "", "s_new": False, "p": ""}
+                    out = {"w": row["w"], "ok": False, "d": "", "f": [], "hooks": [], "r": "", "s": "", "s_new": False, "p": ""}
                     rec.update(out=out, errors=[], note="refusal")
                 elif msg.stop_reason == "max_tokens":
                     rec.update(out=None, errors=["answer was cut off at max_tokens"])
@@ -310,7 +400,7 @@ def collect():
                     text = next((blk.text for blk in msg.content if blk.type == "text"), "")
                     try:
                         out = json.loads(text)
-                        rec.update(out=out, errors=check_entry(row, out))
+                        rec.update(out=out, errors=check_entry(row, out, hint_proof=True))
                     except json.JSONDecodeError:
                         rec.update(out=None, errors=["reply was not valid JSON"])
                 if rec["errors"]:
@@ -323,6 +413,8 @@ def collect():
             b["collected"] = True
             b["cost"] = round(spent, 4)
     save_state(st)
+    if rewrites:
+        REWRITES.write_text(json.dumps(rewrites, ensure_ascii=False, indent=1) + "\n")
     write_outputs()
     print(f"accepted {tally['accepted']}, rejected {tally['rejected']}, failed validation {tally['invalid']} "
           f"(resend with `submit --retry`), API errors {tally['failed']} (resent by the next `submit`)")
@@ -342,7 +434,7 @@ def write_outputs():
                 break
             o = dict(r["out"])
             if "senses" not in src[i]:
-                o = {k: o[k] for k in ("w", "f", "r", "s", "ok")}
+                o = {k: o[k] for k in ("w", "f", "hooks", "r", "s", "ok")}
             elif not o["ok"]:
                 o = {"w": o["w"], "ok": False}
             out.append(o)
@@ -361,15 +453,16 @@ def main():
     ap.add_argument("--effort", default=EFFORT, choices=sorted(THINKING_GUESS))
     ap.add_argument("--exact", action="store_true", help="estimate: count input tokens with the API (free)")
     ap.add_argument("--yes", action="store_true", help="submit without the confirmation prompt")
+    ap.add_argument("--rewrite", action="store_true", help="rewrite year-one fakes for unplayed days instead")
     a = ap.parse_args()
     if a.cmd == "prepare":
         prepare()
     elif a.cmd == "estimate":
-        estimate(a.count, a.model, a.effort, a.exact)
+        estimate(a.count, a.model, a.effort, a.exact, a.rewrite)
     elif a.cmd == "submit":
         if not a.retry and a.count <= 0:
             sys.exit("submit needs --count N (start with a pilot of 40 to measure real cost and quality)")
-        submit(a.count, a.retry, a.model, a.effort, a.yes)
+        submit(a.count, a.retry, a.model, a.effort, a.yes, a.rewrite)
     elif a.cmd == "status":
         status()
     else:
