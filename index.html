@@ -120,11 +120,12 @@ canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: bloc
 .recap li img.mark { width: 9px; height: 18px; }
 .recap b { font-weight: 700; color: var(--ink-dark); }
 .recap .def { color: var(--pencil); font-size: 20px; }
+.recap .pts { font-family: var(--label); font-size: 11px; letter-spacing: .06em; color: var(--green); }
 .recap li + li { margin-top: 24px; }
 .facts { margin-top: 24px; font-size: 20px; line-height: 24px; color: var(--pencil); }
 .facts b { color: var(--ink); font-weight: 500; }
 /* Smaller inline text would otherwise stretch its line past 24px and push everything below off the rules. */
-.score small, .recap b, .recap .def, .facts b, .facts span, .reveal .lab { line-height: 1; }
+.score small, .recap b, .recap .def, .recap .pts, .facts b, .facts span, .reveal .lab { line-height: 1; }
 
 /* Page flip */
 .flipper { position: absolute; z-index: 5; pointer-events: none; transform-style: preserve-3d; }
@@ -228,7 +229,7 @@ dialog::backdrop { background: rgba(20,9,3,.6); }
     <ul>
       <li>Pick the real one. You get three guesses per word.</li>
       <li>One wrong guess shows the word’s roots. Two show it used in a sentence. A third loses the word.</li>
-      <li>Get it first try for a clean check; each extra guess adds a pencil mark.</li>
+      <li>Points: 3 for a first-try answer, 2 for the second try, 1 for the third. A perfect page is 9.</li>
     </ul>
     <p>New words at midnight.</p>
     <button class="turn" id="rules-close">Got it</button>
@@ -452,7 +453,19 @@ const lost = i => wrongs(i) >= MAX_WRONG;
 const ended = i => solved(i) || lost(i);
 const tries = i => solved(i) ? S.guesses[i].length : null;
 const scoreOf = () => P.filter((_, i) => solved(i)).length;
-const firstTries = () => P.filter((_, i) => tries(i) === 1).length;
+// Points: 3 for a first-try answer, 2 for second try, 1 for third, 0 for a lost word. A perfect day is 9.
+const pointsFor = i => solved(i) ? 4 - tries(i) : 0;
+const pointsOf = () => P.reduce((sum, _, i) => sum + pointsFor(i), 0);
+// Stats saved before points existed only counted words known. Under the old one-guess rules every known word was a
+// first-try answer (3 points); today's finished page, if saved, is recounted exactly.
+function migrateStats() {
+  const st = store(KEY_STATS);
+  if (!st || st.points !== undefined || PREVIEW !== null) return;
+  let points = (st.correct || 0) * 3;
+  if (S && S.done && st.last === S.day) points += pointsOf() - scoreOf() * 3;
+  st.points = Math.max(0, points);
+  store(KEY_STATS, st);
+}
 const hintShown = (h, i) => wrongs(i) >= h.after;
 
 function header() {
@@ -504,23 +517,27 @@ function wordHTML() {
 }
 
 function resultsHTML() {
-  const score = scoreOf(), clean = firstTries();
-  const verdict = clean === 3 ? "Perfect page. Nobody conned you."
-    : score === 3 ? "All three, with a little help."
-    : ["The fakes won today.", "One real, two cons.", "Two out of three. Hard to fool."][score];
+  const pts = pointsOf();
+  const verdict = pts === 9 ? "Perfect page. Nobody conned you."
+    : pts >= 7 ? "Sharp eyes. Barely conned."
+    : pts >= 4 ? "Some cons got through."
+    : pts >= 1 ? "The fakes had a good day."
+    : "The fakes won today.";
   const st = store(KEY_STATS) || {};
+  const played = st.played || 1, total = st.points ?? pts;
   const items = P.map((w, i) => {
     const icon = solved(i) ? `<img src="${CHECK}" alt="Got it${tries(i) > 1 ? " on try " + tries(i) : ""}">${marks(tries(i) - 1)}` : `<img src="${CROSS}" alt="Lost">`;
-    return `<li><span class="icon">${icon}</span><div><b>${esc(w.w)}</b> <span class="def">${esc(w.d)}.</span></div></li>`;
+    const p = pointsFor(i);
+    return `<li><span class="icon">${icon}</span><div><b>${esc(w.w)}</b> <span class="pts">+${p}</span> <span class="def">${esc(w.d)}.</span></div></li>`;
   }).join("");
   return `${header()}
     <div class="prog">today’s page</div>
-    <p class="score">${score}<small> / 3</small></p>
+    <p class="score">${pts}<small> / 9</small></p>
     <p class="verdict">${verdict}</p>
     <ul class="recap">${items}</ul>
     <div class="facts">
-      days played <b>${st.played || 1}</b> · perfect streak <b>${st.streak || 0}</b> · words known <b>${st.correct || score}</b><br>
-      first try: <b>${clean} of 3</b><br>
+      days played <b>${played}</b> · perfect streak <b>${st.streak || 0}</b><br>
+      total points <b>${total}</b> · average <b>${(total / played).toFixed(1)} / 9</b><br>
       <span id="countdown"></span>
     </div>
 `;
@@ -586,13 +603,13 @@ function flushTrack() {
 const untouched = () => S.guesses.every(g => g.length === 0);
 
 function finish() {
-  const score = scoreOf();
-  const st = store(KEY_STATS) || {played: 0, streak: 0, correct: 0, last: null};
-  if (st.last !== S.day) track(`finish-${score}/3`, `Finished today’s puzzle: ${score}/3`);
+  const score = scoreOf(), pts = pointsOf();
+  const st = store(KEY_STATS) || {played: 0, streak: 0, correct: 0, points: 0, last: null};
+  if (st.last !== S.day) track(`finish-${pts}/9`, `Finished today’s puzzle: ${pts}/9`);
   if (PREVIEW === null && st.last !== S.day) {
-    // A perfect day means all three words right on the first try.
-    st.streak = firstTries() === 3 ? (st.last === S.day - 1 ? st.streak + 1 : 1) : 0;
-    st.played += 1; st.correct += score; st.last = S.day;
+    // A perfect day is 9/9: all three words right on the first try.
+    st.streak = pts === 9 ? (st.last === S.day - 1 ? st.streak + 1 : 1) : 0;
+    st.played += 1; st.correct += score; st.points = (st.points || 0) + pts; st.last = S.day;
     store(KEY_STATS, st);
   }
   flipTo(() => { S.done = true; save(); render(); });
@@ -657,6 +674,7 @@ async function load() {
     P = puzzle(day, month.days[day - month.first_day]);
     const saved = S && S.day === day ? S : (PREVIEW === null ? store(KEY_DAY) : null);
     S = saved && saved.day === day ? migrate(saved) : fresh(day);
+    migrateStats();
     render();
   } catch (err) {
     message("Couldn’t load today’s words. Check your connection and reload the page.");
