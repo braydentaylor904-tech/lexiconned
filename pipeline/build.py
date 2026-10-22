@@ -64,12 +64,14 @@ def main():
     stored = json.loads(lock_file.read_text())["locked_days"] if lock_file.exists() else 0
     started = (dt.datetime.now(dt.timezone.utc).date() - launch).days + 2   # through tomorrow (UTC), inclusive
     locked = max(stored, min(started, days))
-    # Hint-proof fakes from `batch_generate.py --rewrite` replace the originals on every day that isn't locked.
+    # Hint-proof fakes from rewrites.json replace the originals from config "rewrites_from_day" onward: the first day
+    # that was still unlocked when they were published. Days before it keep their original fakes for good.
     rw_file = ROOT / "pipeline" / "rewrites.json"
     rewrites = json.loads(rw_file.read_text()) if rw_file.exists() else {}
+    rw_from = cfg.get("rewrites_from_day", locked)
     applied = 0
     for n, e in enumerate(seq):
-        if n >= 3 * locked and e["w"] in rewrites:
+        if n >= 3 * rw_from and e["w"] in rewrites:
             e["f"] = [cap(x) for x in rewrites[e["w"]]["f"]]
             applied += 1
     seen = {}
