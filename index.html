@@ -88,9 +88,11 @@ canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: bloc
 .reveal + .reveal { margin-top: 0; }
 
 .opts { margin-top: 24px; display: flex; flex-direction: column; }
-.opt { display: grid; grid-template-columns: 30px minmax(0, 1fr); align-items: start; text-align: left; background: none; border: 0; padding: 0; font: inherit; font-size: 20px; line-height: 24px; color: var(--ink); cursor: pointer; }
+.opt { display: grid; grid-template-columns: 39px minmax(0, 1fr); align-items: start; text-align: left; background: none; border: 0; padding: 0; font: inherit; font-size: 20px; line-height: 24px; color: var(--ink); cursor: pointer; }
 .opt .k { font-family: var(--label); font-size: 12px; height: 24px; display: flex; align-items: center; }
-.opt .k img { width: 21px; height: 18px; }
+.opt .k img { width: 33px; height: 24px; }
+.opt .k img.x { width: 30px; }
+img.px { image-rendering: pixelated; image-rendering: crisp-edges; }
 .opt .t { padding-inline: 2px; -webkit-box-decoration-break: clone; box-decoration-break: clone; }
 .opt:hover:not(:disabled) .t, .opt:focus-visible .t { background: linear-gradient(transparent 30%, rgba(255,221,64,.7) 30% 90%, transparent 90%); }
 .opt:focus-visible { outline: none; }
@@ -114,10 +116,11 @@ canvas { image-rendering: pixelated; image-rendering: crisp-edges; display: bloc
 .score small { font-size: 24px; color: var(--pencil); }
 .verdict { margin: 0; line-height: 24px; font-size: 20px; }
 .recap { list-style: none; margin: 24px 0 0; padding: 0; }
-.recap li { display: grid; grid-template-columns: 54px minmax(0, 1fr); line-height: 24px; }
-.recap .icon { display: flex; align-items: flex-start; gap: 3px; padding-top: 3px; }
-.recap li img { width: 21px; height: 18px; }
-.recap li img.mark { width: 9px; height: 18px; }
+.recap li { display: grid; grid-template-columns: 72px minmax(0, 1fr); line-height: 24px; }
+.recap .icon { display: flex; align-items: flex-start; gap: 0; }
+.recap li img { width: 33px; height: 24px; }
+.recap li img.x { width: 30px; }
+.recap li img.mark { width: 15px; height: 24px; margin-left: 3px; }
 .recap b { font-weight: 700; color: var(--ink-dark); }
 .recap .def { color: var(--pencil); font-size: 20px; }
 .recap .pts { font-family: var(--label); font-size: 11px; letter-spacing: .06em; color: var(--green); }
@@ -415,10 +418,19 @@ function drawPencil() {
   sizeCanvas(c, L, 9);
   c.getContext("2d").putImageData(R.img, 0, 0);
 }
-function spriteURL(rows, color) {
-  const c = document.createElement("canvas"); c.width = rows[0].length; c.height = rows.length;
-  const g = c.getContext("2d"); g.fillStyle = color;
-  rows.forEach((r, y) => [...r].forEach((ch, x) => { if (ch === "X") g.fillRect(x, y, 1, 1); }));
+// Pixel sprites: each character maps to a colour in `palette`; with `outline`, every empty pixel touching the shape
+// on a side gets that colour, so strokes read cleanly on the ruled paper without filling their inside corners.
+function spriteURL(rows, palette, outline) {
+  const pad = outline ? 1 : 0, w = rows[0].length + pad * 2, h = rows.length + pad * 2;
+  const c = document.createElement("canvas"); c.width = w; c.height = h;
+  const g = c.getContext("2d");
+  const at = (x, y) => (rows[y - pad] || "")[x - pad];
+  const filled = (x, y) => { const ch = at(x, y); return ch !== undefined && ch !== "."; };
+  for (let y = 0; y < h; y++) for (let x = 0; x < w; x++) {
+    let col = filled(x, y) ? palette[at(x, y)] : null;
+    if (!col && outline && (filled(x - 1, y) || filled(x + 1, y) || filled(x, y - 1) || filled(x, y + 1))) col = outline;
+    if (col) { g.fillStyle = col; g.fillRect(x, y, 1, 1); }
+  }
   return c.toDataURL();
 }
 let CHECK, CROSS, MARK;
@@ -478,7 +490,7 @@ function renderPage() {
   updateCountdown();
 }
 
-function marks(n) { return Array.from({length: n}, () => `<img class="mark" src="${MARK}" alt="">`).join(""); }
+function marks(n) { return Array.from({length: n}, () => `<img class="mark px" src="${MARK}" alt="">`).join(""); }
 
 function wordHTML() {
   const i = S.cur, w = P[i], over = ended(i), bad = wrongs(i);
@@ -492,8 +504,8 @@ function wordHTML() {
   const opts = w.opts.map((o, k) => {
     let cls = "opt", key = "ABCD"[k] + ".";
     const tried = S.guesses[i].includes(k);
-    if (tried && !o.real) { cls += " wrong"; key = `<img src="${CROSS}" alt="Wrong guess">`; }
-    else if (over && o.real) { cls += " right"; key = `<img src="${CHECK}" alt="Real">`; }
+    if (tried && !o.real) { cls += " wrong"; key = `<img class="px x" src="${CROSS}" alt="Wrong guess">`; }
+    else if (over && o.real) { cls += " right"; key = `<img class="px" src="${CHECK}" alt="Real">`; }
     else if (over) cls += " dim";
     return `<button class="${cls}" data-opt="${k}" ${over || tried ? "disabled" : ""}><span class="k">${key}</span><span><span class="t">${esc(o.t)}</span></span></button>`;
   }).join("");
@@ -526,7 +538,7 @@ function resultsHTML() {
   const st = store(KEY_STATS) || {};
   const played = st.played || 1, total = st.points ?? pts;
   const items = P.map((w, i) => {
-    const icon = solved(i) ? `<img src="${CHECK}" alt="Got it${tries(i) > 1 ? " on try " + tries(i) : ""}">${marks(tries(i) - 1)}` : `<img src="${CROSS}" alt="Lost">`;
+    const icon = solved(i) ? `<img class="px" src="${CHECK}" alt="Got it${tries(i) > 1 ? " on try " + tries(i) : ""}">${marks(tries(i) - 1)}` : `<img class="px x" src="${CROSS}" alt="Lost">`;
     const p = pointsFor(i);
     return `<li><span class="icon">${icon}</span><div><b>${esc(w.w)}</b> <span class="pts">+${p}</span> <span class="def">${esc(w.d)}.</span></div></li>`;
   }).join("");
@@ -682,9 +694,11 @@ async function load() {
 }
 
 function start() {
-  CHECK = spriteURL(["......X", ".....XX", "X...XX.", "XX.XX..", ".XXX...", "..X...."], "#2f7d45");
-  MARK = spriteURL(["..X", "..X", ".X.", ".X.", "X..", "X.."], "#6e685c");   // one pencil mark per extra guess
-  CROSS = spriteURL(["X.....X", "XX...XX", ".XX.XX.", "..XXX..", ".XX.XX.", "XX...XX"], "#c23b2e");
+  // 11x8 and 10x8 with outline: exactly one 24px ruled line at 3px art pixels.
+  CHECK = spriteURL([".......LG", "......LG.", ".....LG..", "LG..LG...", ".LGLG....", "..LG....."], {L: "#62b874", G: "#2f7d45"}, "#163b20");
+  CROSS = spriteURL(["LG....LG", ".LG..LG.", "..LGLG..", "..LGLG..", ".LG..LG.", "LG....LG"], {L: "#ea6b58", G: "#c23b2e"}, "#5c1912");
+  // One pencil mark per extra guess: a soft graphite stroke, no outline.
+  MARK = spriteURL([".....", "...LG", "...G.", "..LG.", "..G..", ".LG..", ".G...", "....."], {L: "#9c9586", G: "#5f5a50"});
   drawPencil();
   track(location.pathname, document.title, false);
   $("gc").addEventListener("load", flushTrack);
